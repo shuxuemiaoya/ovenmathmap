@@ -1,3 +1,13 @@
+---
+来源: 2019 人教A 数学 必修一
+年级: 高一
+节点类型: 知识点
+章节: 第五章 三角函数
+时长: 45分钟
+难度: 难
+重要程度: 必须深度理解
+推荐层级: A
+---
 ### 探究与发现 函数 $y = A\sin (\omega x + \varphi)$ 及函数 $y = A\cos (\omega x + \varphi)$ 的周期
 
 函数 $y = A\sin (\omega x + \varphi)$ 及函数 $y = A\cos (\omega x + \varphi)$ 的周期
