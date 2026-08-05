@@ -1,1 +1,9 @@
-{}
+{
+  "newLinkFormat": "absolute",
+  "openBehavior": "file:",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./images",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "promptDelete": false
+}
