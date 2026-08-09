@@ -1,0 +1,26 @@
+## ▶基础点 2: $y = \sin(x + \varphi)$ 的图像与性质
+
+## 1. 相位变换——左右平移变换
+
+要得到函数 $y=\sin(x+\varphi)$ 只要将函数 $y=\sin x$ 图象上所有的点向左（当 $\varphi>0$ 时）或向右（当 $\varphi<0$ 时）平移 $|\varphi|$ 个单位即可.
+
+## 2. $y = \sin (x + \varphi)$ 的性质变化
+
+（1）值域： $y=\sin(x+\varphi)$ 的值域与 $y=\sin x$ 的值域相同，为 $[-1,1]$ .
+
+(2) 单调性: 从图像角度, 单调区间由 $y = \sin x$ 的单调区间向左平移 $\varphi$ 个单位长度. 也可将 $x + \varphi$ 看成一个整体, 带入 $y = \sin x$ 的增减区间解不等式.
+
+（3）对称性:从图像角度,对称轴（中心）由 $y=\sin x$ 的对称轴(中心)向左平移 $\varphi$ 个单位长度.也可将 $x+\varphi$ 看成一个整体,整体带入 $y=\sin x$ 的对称轴,对称中心进行求解.
+
+（4）周期: 函数 $y=\sin(x+\varphi)$ 的周期与 $y=\sin x$ 相同为 $2\pi$ .
+
+（5）奇偶性: 函数 $y = \sin(x + \varphi)$ 的奇偶性与 $\varphi$ 的取值有关.
+
+![[mathmap/习题/questions/Q00004627|Q00004627]]
+![[mathmap/习题/questions/Q00004628|Q00004628]]
+![[mathmap/习题/questions/Q00004629|Q00004629]]
+![[mathmap/习题/questions/Q00004630|Q00004630]]
+![[mathmap/习题/questions/Q00004631|Q00004631]]
+![[mathmap/习题/questions/Q00004632|Q00004632]]
+![[mathmap/习题/questions/Q00004633|Q00004633]]
+![[mathmap/习题/questions/Q00004634|Q00004634]]
