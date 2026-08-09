@@ -1,0 +1,1725 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "第一节 任意角与弧度制",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "第二节 三角函数的定义",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "第三节 同角的三角函数关系",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "084a6b47b72ca40c",
+      "type": "group",
+      "label": "第四节 诱导公式",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f12b2475b7610235",
+      "type": "group",
+      "label": "第五节 三角函数的图像",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "2325203ea1764823",
+      "type": "group",
+      "label": "第六节 正余弦函数的性质",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "fcf5de3671b27eae",
+      "type": "group",
+      "label": "第七节 正切函数的图像与性质",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "ae338e57688c9c61",
+      "type": "group",
+      "label": "第八节 两角和与差公式",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "80c3e737ae6adab1",
+      "type": "group",
+      "label": "第九节 倍角公式",
+      "role": "hierarchy",
+      "x": 15200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c9844758c79c6671",
+      "type": "group",
+      "label": "第十节 半角与积化和差和差化积公式",
+      "role": "hierarchy",
+      "x": 17100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "db8e8863e933c81f",
+      "type": "group",
+      "label": "第十一节 正弦型三角函数的图像与性质",
+      "role": "hierarchy",
+      "x": 19000,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "78acde85f0a7eada",
+      "type": "group",
+      "label": "第十二节 专题:三角函数的图像变换问题",
+      "role": "hierarchy",
+      "x": 20900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "03f16187bb808671",
+      "type": "group",
+      "label": "第十三节 专题: 求 $\\omega$ 的取值范围问题",
+      "role": "hierarchy",
+      "x": 22800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "ec2196b510464ef7",
+      "type": "group",
+      "label": "第十四节（补充）反三角函数",
+      "role": "hierarchy",
+      "x": 24700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "02d3608949a395ef",
+      "type": "text",
+      "text": "[▶基础点 1: 对任意角的概念的理解](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%AF%B9%E4%BB%BB%E6%84%8F%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5%E7%9A%84%E7%90%86%E8%A7%A3/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%AF%B9%E4%BB%BB%E6%84%8F%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5%E7%9A%84%E7%90%86%E8%A7%A3.md)",
+      "x": 0,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "b80221f32d441c03",
+      "type": "text",
+      "text": "[▶基础点 2: 终边相同的角](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E7%BB%88%E8%BE%B9%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%92/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E7%BB%88%E8%BE%B9%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%92.md)",
+      "x": 340,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "af1bc38c6e70d52a",
+      "type": "text",
+      "text": "[▶基础点 3: 区域角的表示](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%8C%BA%E5%9F%9F%E8%A7%92%E7%9A%84%E8%A1%A8%E7%A4%BA/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%8C%BA%E5%9F%9F%E8%A7%92%E7%9A%84%E8%A1%A8%E7%A4%BA.md)",
+      "x": 680,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "56407c74a93848f7",
+      "type": "text",
+      "text": "[▶基础点 4: 确定已知角所在象限](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%A1%AE%E5%AE%9A%E5%B7%B2%E7%9F%A5%E8%A7%92%E6%89%80%E5%9C%A8%E8%B1%A1%E9%99%90/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%A1%AE%E5%AE%9A%E5%B7%B2%E7%9F%A5%E8%A7%92%E6%89%80%E5%9C%A8%E8%B1%A1%E9%99%90.md)",
+      "x": 1020,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c08753d26a63e157",
+      "type": "text",
+      "text": "[▶基础点 5:由角的加减确定角范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%E7%94%B1%E8%A7%92%E7%9A%84%E5%8A%A0%E5%87%8F%E7%A1%AE%E5%AE%9A%E8%A7%92%E8%8C%83%E5%9B%B4/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%E7%94%B1%E8%A7%92%E7%9A%84%E5%8A%A0%E5%87%8F%E7%A1%AE%E5%AE%9A%E8%A7%92%E8%8C%83%E5%9B%B4.md)",
+      "x": 1360,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d062fa45e5cd1a0d",
+      "type": "text",
+      "text": "[▶基础点 6:弧度制的相关概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%206_%E5%BC%A7%E5%BA%A6%E5%88%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%206_%E5%BC%A7%E5%BA%A6%E5%88%B6%E7%9A%84%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5.md)",
+      "x": 1700,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a806d1cd3d17264f",
+      "type": "text",
+      "text": "[▶基础点 7:弧度制与角度制的互化](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%207_%E5%BC%A7%E5%BA%A6%E5%88%B6%E4%B8%8E%E8%A7%92%E5%BA%A6%E5%88%B6%E7%9A%84%E4%BA%92%E5%8C%96/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%207_%E5%BC%A7%E5%BA%A6%E5%88%B6%E4%B8%8E%E8%A7%92%E5%BA%A6%E5%88%B6%E7%9A%84%E4%BA%92%E5%8C%96.md)",
+      "x": 0,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "76a761351018317d",
+      "type": "text",
+      "text": "[▶基础点 8:用弧度制表示角的集合](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%208_%E7%94%A8%E5%BC%A7%E5%BA%A6%E5%88%B6%E8%A1%A8%E7%A4%BA%E8%A7%92%E7%9A%84%E9%9B%86%E5%90%88/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%208_%E7%94%A8%E5%BC%A7%E5%BA%A6%E5%88%B6%E8%A1%A8%E7%A4%BA%E8%A7%92%E7%9A%84%E9%9B%86%E5%90%88.md)",
+      "x": 340,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c8508ca5ff9a3d31",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "b2287404b9a32314",
+      "type": "text",
+      "text": "[题型 1: 确定 n 分角和 n 倍角的象限](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E7%A1%AE%E5%AE%9A%20n%20%E5%88%86%E8%A7%92%E5%92%8C%20n%20%E5%80%8D%E8%A7%92%E7%9A%84%E8%B1%A1%E9%99%90/%E9%A2%98%E5%9E%8B%201_%20%E7%A1%AE%E5%AE%9A%20n%20%E5%88%86%E8%A7%92%E5%92%8C%20n%20%E5%80%8D%E8%A7%92%E7%9A%84%E8%B1%A1%E9%99%90.md)",
+      "x": 1020,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "187506e2aca6e029",
+      "type": "text",
+      "text": "[题型 2: 扇形的弧长与面积](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E6%89%87%E5%BD%A2%E7%9A%84%E5%BC%A7%E9%95%BF%E4%B8%8E%E9%9D%A2%E7%A7%AF/%E9%A2%98%E5%9E%8B%202_%20%E6%89%87%E5%BD%A2%E7%9A%84%E5%BC%A7%E9%95%BF%E4%B8%8E%E9%9D%A2%E7%A7%AF.md)",
+      "x": 1360,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "bd04c7720be05f88",
+      "type": "text",
+      "text": "[▶基础点 1: 利用三角函数定义求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E6%B1%82%E5%80%BC/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E6%B1%82%E5%80%BC.md)",
+      "x": 1700,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "be9955285e19ec11",
+      "type": "text",
+      "text": "[▶基础点 2: 已知三角函数值求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%B7%B2%E7%9F%A5%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%80%BC%E6%B1%82%E5%8F%82%E6%95%B0/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%B7%B2%E7%9F%A5%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%80%BC%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 0,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "3790083593a959ce",
+      "type": "text",
+      "text": "[▶基础点 3: 判断三角函数值的正负](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%80%BC%E7%9A%84%E6%AD%A3%E8%B4%9F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%80%BC%E7%9A%84%E6%AD%A3%E8%B4%9F.md)",
+      "x": 340,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "417c00d0ee775063",
+      "type": "text",
+      "text": "[▶基础点 4:作三角函数线](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%E4%BD%9C%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%E4%BD%9C%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF.md)",
+      "x": 680,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "6298a2e75b7c7bb0",
+      "type": "text",
+      "text": "[▶基础点 5: 求单位圆中角的终边](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E6%B1%82%E5%8D%95%E4%BD%8D%E5%9C%86%E4%B8%AD%E8%A7%92%E7%9A%84%E7%BB%88%E8%BE%B9/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E6%B1%82%E5%8D%95%E4%BD%8D%E5%9C%86%E4%B8%AD%E8%A7%92%E7%9A%84%E7%BB%88%E8%BE%B9.md)",
+      "x": 1020,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "50babfa60b47254f",
+      "type": "text",
+      "text": "[题型1:利用三角函数线比较大小](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E9%A2%98%E5%9E%8B1_%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F/%E9%A2%98%E5%9E%8B1_%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F.md)",
+      "x": 1360,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "76c4935d44bca274",
+      "type": "text",
+      "text": "[题型 2: 利用三角函数线解不等式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E9%A2%98%E5%9E%8B%202_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F/%E9%A2%98%E5%9E%8B%202_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F.md)",
+      "x": 1700,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "df4f00d6bbd20b65",
+      "type": "text",
+      "text": "[题型 3: 利用三角函数线证明不等式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF%E8%AF%81%E6%98%8E%E4%B8%8D%E7%AD%89%E5%BC%8F/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%BA%BF%E8%AF%81%E6%98%8E%E4%B8%8D%E7%AD%89%E5%BC%8F.md)",
+      "x": 0,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5290ea8a0d36b49d",
+      "type": "text",
+      "text": "[▶基础点 1: $\\sin\\theta$ , $\\cos\\theta$ , $\\tan\\theta$ 的知一求二](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/_compact/1388e77e9737a7ef.md)",
+      "x": 340,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d3ab854549d1d860",
+      "type": "text",
+      "text": "[▶基础点 2:三角函数的化简](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E5%90%8C%E8%A7%92%E7%9A%84%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%B3%E7%B3%BB/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%96%E7%AE%80/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%96%E7%AE%80.md)",
+      "x": 680,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "efc4652da2052a66",
+      "type": "text",
+      "text": "[▶基础点 3:三角函数的证明](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E5%90%8C%E8%A7%92%E7%9A%84%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%B3%E7%B3%BB/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E8%AF%81%E6%98%8E/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E8%AF%81%E6%98%8E.md)",
+      "x": 1020,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "25ba1135582f72a9",
+      "type": "text",
+      "text": "[题型 1: 求三角齐次式的值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E5%90%8C%E8%A7%92%E7%9A%84%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%85%B3%E7%B3%BB/%E9%A2%98%E5%9E%8B%201_%20%E6%B1%82%E4%B8%89%E8%A7%92%E9%BD%90%E6%AC%A1%E5%BC%8F%E7%9A%84%E5%80%BC/%E9%A2%98%E5%9E%8B%201_%20%E6%B1%82%E4%B8%89%E8%A7%92%E9%BD%90%E6%AC%A1%E5%BC%8F%E7%9A%84%E5%80%BC.md)",
+      "x": 1360,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "eed9326cd56b7f5f",
+      "type": "text",
+      "text": "[题型 2: $\\sin\\theta\\pm\\cos\\theta$ 与 $\\sin\\theta\\cos\\theta$ 的关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/_compact/b4bf14757b3da05d.md)",
+      "x": 1700,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "ac64ae7dc6d64daa",
+      "type": "text",
+      "text": "[▶基础点 1: 利用诱导公式求三角函数值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E6%B1%82%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%80%BC/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E6%B1%82%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%80%BC.md)",
+      "x": 0,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "b638cd1f9e740cf8",
+      "type": "text",
+      "text": "[▶基础点 2:三角函数式的化简](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%BC%8F%E7%9A%84%E5%8C%96%E7%AE%80/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%BC%8F%E7%9A%84%E5%8C%96%E7%AE%80.md)",
+      "x": 340,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f2a26ac81f437f1e",
+      "type": "text",
+      "text": "[▶基础点 3: 利用诱导公式证明三角恒等式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F.md)",
+      "x": 680,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7a3fe6faec07726c",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1020,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "07e63d7cb30dbd1f",
+      "type": "text",
+      "text": "[题型 1: 利用诱导公式直接化简求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E7%9B%B4%E6%8E%A5%E5%8C%96%E7%AE%80%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E7%9B%B4%E6%8E%A5%E5%8C%96%E7%AE%80%E6%B1%82%E5%80%BC.md)",
+      "x": 1360,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "96e1ac3b692c69cb",
+      "type": "text",
+      "text": "[题型 2: 凑角+诱导公式求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E5%87%91%E8%A7%92%2B%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%202_%20%E5%87%91%E8%A7%92%2B%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E6%B1%82%E5%80%BC.md)",
+      "x": 1700,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7f292adf51ff8e02",
+      "type": "text",
+      "text": "[题型 3: 诱导公式的综合应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%203_%20%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 0,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "37f37a4a79b72729",
+      "type": "text",
+      "text": "[▶基础点 1:五点作图法作图像](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%E4%BA%94%E7%82%B9%E4%BD%9C%E5%9B%BE%E6%B3%95%E4%BD%9C%E5%9B%BE%E5%83%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%E4%BA%94%E7%82%B9%E4%BD%9C%E5%9B%BE%E6%B3%95%E4%BD%9C%E5%9B%BE%E5%83%8F.md)",
+      "x": 340,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d4c5df5376775b95",
+      "type": "text",
+      "text": "[▶基础点 2: 含绝对值的三角函数图像](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%90%AB%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%90%AB%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F.md)",
+      "x": 680,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "98a61ad5a47cf73e",
+      "type": "text",
+      "text": "[题型 1: 利用三角函数图像解三角不等式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F%E8%A7%A3%E4%B8%89%E8%A7%92%E4%B8%8D%E7%AD%89%E5%BC%8F/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F%E8%A7%A3%E4%B8%89%E8%A7%92%E4%B8%8D%E7%AD%89%E5%BC%8F.md)",
+      "x": 1020,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c513b998e2cd42a4",
+      "type": "text",
+      "text": "[题型 2: 图像交点与解的个数问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F/%E9%A2%98%E5%9E%8B%202_%20%E5%9B%BE%E5%83%8F%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%A7%A3%E7%9A%84%E4%B8%AA%E6%95%B0%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%202_%20%E5%9B%BE%E5%83%8F%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%A7%A3%E7%9A%84%E4%B8%AA%E6%95%B0%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "e2eb3adb4b01221e",
+      "type": "text",
+      "text": "[▶基础点 1: 判断三角函数的周期](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%91%A8%E6%9C%9F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%91%A8%E6%9C%9F.md)",
+      "x": 1700,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "e41ef9cb7f8f9f76",
+      "type": "text",
+      "text": "[▶基础点 2: 判断三角函数的奇偶性](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%A5%87%E5%81%B6%E6%80%A7/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%A5%87%E5%81%B6%E6%80%A7.md)",
+      "x": 0,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "dfe54b9828d30041",
+      "type": "text",
+      "text": "[▶基础点 3: 求三角函数的单调性](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E6%B1%82%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E6%B1%82%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7.md)",
+      "x": 340,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "3e8574a3c250032d",
+      "type": "text",
+      "text": "[▶基础点 4: 函数的对称轴与对称中心](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%B9%E7%A7%B0%E8%BD%B4%E4%B8%8E%E5%AF%B9%E7%A7%B0%E4%B8%AD%E5%BF%83/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%B9%E7%A7%B0%E8%BD%B4%E4%B8%8E%E5%AF%B9%E7%A7%B0%E4%B8%AD%E5%BF%83.md)",
+      "x": 680,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f51c0c54e237b271",
+      "type": "text",
+      "text": "[▶基础点 5:三角函数的值域问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%80%BC%E5%9F%9F%E9%97%AE%E9%A2%98/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%80%BC%E5%9F%9F%E9%97%AE%E9%A2%98.md)",
+      "x": 1020,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d8c55b46945ccd54",
+      "type": "text",
+      "text": "[题型 1: 利用三角函数单调性比较大小](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F.md)",
+      "x": 1360,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "e6f4520ba3293668",
+      "type": "text",
+      "text": "[题型 2: 已知值域求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%202_%20%E5%B7%B2%E7%9F%A5%E5%80%BC%E5%9F%9F%E6%B1%82%E5%8F%82%E6%95%B0/%E9%A2%98%E5%9E%8B%202_%20%E5%B7%B2%E7%9F%A5%E5%80%BC%E5%9F%9F%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 1700,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "4f7ea23865210647",
+      "type": "text",
+      "text": "[题型 3: 已知奇偶性求参数与值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%203_%20%E5%B7%B2%E7%9F%A5%E5%A5%87%E5%81%B6%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0%E4%B8%8E%E5%80%BC/%E9%A2%98%E5%9E%8B%203_%20%E5%B7%B2%E7%9F%A5%E5%A5%87%E5%81%B6%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0%E4%B8%8E%E5%80%BC.md)",
+      "x": 0,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "62d56bafef5587e6",
+      "type": "text",
+      "text": "[题型 4: 周期与奇偶性综合](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%204_%20%E5%91%A8%E6%9C%9F%E4%B8%8E%E5%A5%87%E5%81%B6%E6%80%A7%E7%BB%BC%E5%90%88/%E9%A2%98%E5%9E%8B%204_%20%E5%91%A8%E6%9C%9F%E4%B8%8E%E5%A5%87%E5%81%B6%E6%80%A7%E7%BB%BC%E5%90%88.md)",
+      "x": 340,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c24d913bdc11675d",
+      "type": "text",
+      "text": "[题型 5: 已知对称性求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%205_%20%E5%B7%B2%E7%9F%A5%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0/%E9%A2%98%E5%9E%8B%205_%20%E5%B7%B2%E7%9F%A5%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 680,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7a871921387de6c8",
+      "type": "text",
+      "text": "[题型 6: 对称性与周期性之间的关系 根据正余弦函数图像可知：](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%206_%20%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB%20%E6%A0%B9%E6%8D%AE%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F%E5%8F%AF%E7%9F%A5%EF%BC%9A/%E9%A2%98%E5%9E%8B%206_%20%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB%20%E6%A0%B9%E6%8D%AE%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F%E5%8F%AF%E7%9F%A5%EF%BC%9A.md)",
+      "x": 1020,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "8ab80ea39ba7a195",
+      "type": "text",
+      "text": "[题型 7: 已知单调性求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E6%AD%A3%E4%BD%99%E5%BC%A6%E5%87%BD%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%207_%20%E5%B7%B2%E7%9F%A5%E5%8D%95%E8%B0%83%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0/%E9%A2%98%E5%9E%8B%207_%20%E5%B7%B2%E7%9F%A5%E5%8D%95%E8%B0%83%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 1360,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f9d79409a947e1dd",
+      "type": "text",
+      "text": "[▶基础点 1: 正切函数图像](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F.md)",
+      "x": 1700,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d54a8811fff3e749",
+      "type": "text",
+      "text": "[▶基础点 2: 求正切函数的定义域](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E6%B1%82%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89%E5%9F%9F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E6%B1%82%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89%E5%9F%9F.md)",
+      "x": 0,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "42db9136fe2a0465",
+      "type": "text",
+      "text": "[▶基础点 3: 判断正切函数的周期](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%88%A4%E6%96%AD%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%91%A8%E6%9C%9F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%88%A4%E6%96%AD%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%91%A8%E6%9C%9F.md)",
+      "x": 340,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9a00661f5162d97e",
+      "type": "text",
+      "text": "[▶基础点 5: 求正切函数的单调区间](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E6%B1%82%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E5%8C%BA%E9%97%B4/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E6%B1%82%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E5%8C%BA%E9%97%B4.md)",
+      "x": 680,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "770583de287e5c43",
+      "type": "text",
+      "text": "[▶基础点 4: 判断正切函数的奇偶性](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E5%88%A4%E6%96%AD%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%A5%87%E5%81%B6%E6%80%A7/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E5%88%A4%E6%96%AD%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%A5%87%E5%81%B6%E6%80%A7.md)",
+      "x": 1020,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "acc93bce108ba2bb",
+      "type": "text",
+      "text": "[▶基础点6:正切函数比较大小](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B96_%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B96_%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E6%AF%94%E8%BE%83%E5%A4%A7%E5%B0%8F.md)",
+      "x": 1360,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c5adfec368f1e57b",
+      "type": "text",
+      "text": "[▶基础点 7: 正切函数的的对称性](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%207_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%207_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7.md)",
+      "x": 1700,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "830ff6276c79083e",
+      "type": "text",
+      "text": "[▶基础点 8: 正切函数的值域](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%208_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%80%BC%E5%9F%9F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%208_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%80%BC%E5%9F%9F.md)",
+      "x": 0,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "e3b73a4416a91d28",
+      "type": "text",
+      "text": "[题型 1: 利用奇偶性求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E5%A5%87%E5%81%B6%E6%80%A7%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E5%A5%87%E5%81%B6%E6%80%A7%E6%B1%82%E5%80%BC.md)",
+      "x": 340,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7a78666a01802d59",
+      "type": "text",
+      "text": "[题型 2: 正切函数周期的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%202_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E5%91%A8%E6%9C%9F%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%202_%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E5%91%A8%E6%9C%9F%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 680,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "12a15606b49f3c71",
+      "type": "text",
+      "text": "[题型 3: 利用正切函数单调性求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 1020,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c19f4141acc91e2a",
+      "type": "text",
+      "text": "[题型 4: 对称性与周期性的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%204_%20%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%204_%20%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%91%A8%E6%9C%9F%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7f952ab4bb65cfce",
+      "type": "text",
+      "text": "[▶基础点 1: 利用公式化简与求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A9%E7%94%A8%E5%85%AC%E5%BC%8F%E5%8C%96%E7%AE%80%E4%B8%8E%E6%B1%82%E5%80%BC/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%88%A9%E7%94%A8%E5%85%AC%E5%BC%8F%E5%8C%96%E7%AE%80%E4%B8%8E%E6%B1%82%E5%80%BC.md)",
+      "x": 1700,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "16c69a03631e85a0",
+      "type": "text",
+      "text": "[▶基础点 2: 利用辅助角公式的化简](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%88%A9%E7%94%A8%E8%BE%85%E5%8A%A9%E8%A7%92%E5%85%AC%E5%BC%8F%E7%9A%84%E5%8C%96%E7%AE%80/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%88%A9%E7%94%A8%E8%BE%85%E5%8A%A9%E8%A7%92%E5%85%AC%E5%BC%8F%E7%9A%84%E5%8C%96%E7%AE%80.md)",
+      "x": 0,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "762d2fe2c3948f18",
+      "type": "text",
+      "text": "[题型 1: 给值求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%201_%20%E7%BB%99%E5%80%BC%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%201_%20%E7%BB%99%E5%80%BC%E6%B1%82%E5%80%BC.md)",
+      "x": 340,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "dcd06c5c47c5430a",
+      "type": "text",
+      "text": "[题型 2: 给值求角](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%202_%20%E7%BB%99%E5%80%BC%E6%B1%82%E8%A7%92/%E9%A2%98%E5%9E%8B%202_%20%E7%BB%99%E5%80%BC%E6%B1%82%E8%A7%92.md)",
+      "x": 680,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "916b88eedf3cf2a5",
+      "type": "text",
+      "text": "[题型 3:两角和与差在三角形中的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%203_%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%9C%A8%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%203_%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%9C%A8%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1020,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9ee180b35a0c6a0a",
+      "type": "text",
+      "text": "[题型 4: 借助辅助角公式研究函数性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%204_%20%E5%80%9F%E5%8A%A9%E8%BE%85%E5%8A%A9%E8%A7%92%E5%85%AC%E5%BC%8F%E7%A0%94%E7%A9%B6%E5%87%BD%E6%95%B0%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%204_%20%E5%80%9F%E5%8A%A9%E8%BE%85%E5%8A%A9%E8%A7%92%E5%85%AC%E5%BC%8F%E7%A0%94%E7%A9%B6%E5%87%BD%E6%95%B0%E6%80%A7%E8%B4%A8.md)",
+      "x": 1360,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a853b8ad20cea5c5",
+      "type": "text",
+      "text": "[题型 5: 借助辅助角公式求取值范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%205_%20%E5%80%9F%E5%8A%A9%E8%BE%85%E5%8A%A9%E8%A7%92%E5%85%AC%E5%BC%8F%E6%B1%82%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B%205_%20%E5%80%9F%E5%8A%A9%E8%BE%85%E5%8A%A9%E8%A7%92%E5%85%AC%E5%BC%8F%E6%B1%82%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4.md)",
+      "x": 1700,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "93a0b98a7d7e5d45",
+      "type": "text",
+      "text": "[▶基础点 1:化简与求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%E5%8C%96%E7%AE%80%E4%B8%8E%E6%B1%82%E5%80%BC/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%E5%8C%96%E7%AE%80%E4%B8%8E%E6%B1%82%E5%80%BC.md)",
+      "x": 0,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "651161c1f9f79b9e",
+      "type": "text",
+      "text": "[▶基础点 2: 倍角公式证明三角恒等式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F.md)",
+      "x": 340,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a48f4aa404c2e17b",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "fc6c5b9af91031f1",
+      "type": "text",
+      "text": "[题型 1: 利用倍角公式求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E6%B1%82%E5%80%BC.md)",
+      "x": 1020,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "2acf9ddde32ce43d",
+      "type": "text",
+      "text": "[题型 2: 倍角公式的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%202_%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d8c96c59d108b3e9",
+      "type": "text",
+      "text": "[题型 3: 利用倍角公式化简三角函数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E5%8C%96%E7%AE%80%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E5%80%8D%E8%A7%92%E5%85%AC%E5%BC%8F%E5%8C%96%E7%AE%80%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0.md)",
+      "x": 1700,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5cf6dc9834024b46",
+      "type": "text",
+      "text": "[▶基础点 1: 半角公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%8D%8A%E8%A7%92%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%8D%8A%E8%A7%92%E5%85%AC%E5%BC%8F.md)",
+      "x": 0,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "759b6c91aaaa8564",
+      "type": "text",
+      "text": "[▶基础点 2: 和差化积与积化和差公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%85%AC%E5%BC%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%85%AC%E5%BC%8F.md)",
+      "x": 340,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "cceffff67e0b6ba8",
+      "type": "text",
+      "text": "[题型 1: 利用半角公式求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E5%8D%8A%E8%A7%92%E5%85%AC%E5%BC%8F%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%201_%20%E5%88%A9%E7%94%A8%E5%8D%8A%E8%A7%92%E5%85%AC%E5%BC%8F%E6%B1%82%E5%80%BC.md)",
+      "x": 680,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "aa1d9b4be2d6b12f",
+      "type": "text",
+      "text": "[题型 2: 条件求值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%202_%20%E6%9D%A1%E4%BB%B6%E6%B1%82%E5%80%BC/%E9%A2%98%E5%9E%8B%202_%20%E6%9D%A1%E4%BB%B6%E6%B1%82%E5%80%BC.md)",
+      "x": 1020,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "1eebbee904748870",
+      "type": "text",
+      "text": "[题型 3: 和差化积、积化和差的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%203_%20%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E3%80%81%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%203_%20%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E3%80%81%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "3cc9557f1478d632",
+      "type": "text",
+      "text": "[▶基础点 1: $y = A \\sin x$ 的图像与性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%24y%20%3D%20A%20_sin%20x%24%20%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%24y%20%3D%20A%20_sin%20x%24%20%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "x": 1700,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "705c16a53fbdfaf8",
+      "type": "text",
+      "text": "[▶基础点 2: $y = \\sin(x + \\varphi)$ 的图像与性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%24y%20%3D%20_sin%28x%20%2B%20_varphi%29%24%20%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%24y%20%3D%20_sin%28x%20%2B%20_varphi%29%24%20%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "x": 0,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "e1c8364c8bb38789",
+      "type": "text",
+      "text": "[▶基础点 3: $y = \\sin \\omega x$ 的图像与性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%24y%20%3D%20_sin%20_omega%20x%24%20%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%24y%20%3D%20_sin%20_omega%20x%24%20%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "x": 340,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9025a4001cbb6229",
+      "type": "text",
+      "text": "[▶基础点 4: 五点法作 $y = A \\sin(\\omega x + \\varphi)$ 的图像](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E4%BA%94%E7%82%B9%E6%B3%95%E4%BD%9C%20%24y%20%3D%20A%20_sin%28_omega%20x%20%2B%20_varphi%29%24%20%E7%9A%84%E5%9B%BE%E5%83%8F/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E4%BA%94%E7%82%B9%E6%B3%95%E4%BD%9C%20%24y%20%3D%20A%20_sin%28_omega%20x%20%2B%20_varphi%29%24%20%E7%9A%84%E5%9B%BE%E5%83%8F.md)",
+      "x": 680,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f4078a57e487f633",
+      "type": "text",
+      "text": "[▶基础点 5: 函数 $y = A \\sin(\\omega x + \\varphi)$ 的相关概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E5%87%BD%E6%95%B0%20%24y%20%3D%20A%20_sin%28_omega%20x%20%2B%20_varphi%29%24%20%E7%9A%84%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E5%87%BD%E6%95%B0%20%24y%20%3D%20A%20_sin%28_omega%20x%20%2B%20_varphi%29%24%20%E7%9A%84%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5.md)",
+      "x": 1020,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "0416e6141ce4ec2a",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1360,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "8ba8dc98de100172",
+      "type": "text",
+      "text": "[题型 1:三角函数的图像变换](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E5%8F%98%E6%8D%A2/%E9%A2%98%E5%9E%8B%201_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E5%8F%98%E6%8D%A2.md)",
+      "x": 1700,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "62a99bbb28ecada0",
+      "type": "text",
+      "text": "[题型 2:由图像确定函数解析式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%E7%94%B1%E5%9B%BE%E5%83%8F%E7%A1%AE%E5%AE%9A%E5%87%BD%E6%95%B0%E8%A7%A3%E6%9E%90%E5%BC%8F/%E9%A2%98%E5%9E%8B%202_%E7%94%B1%E5%9B%BE%E5%83%8F%E7%A1%AE%E5%AE%9A%E5%87%BD%E6%95%B0%E8%A7%A3%E6%9E%90%E5%BC%8F.md)",
+      "x": 0,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7608c13377601c6c",
+      "type": "text",
+      "text": "[题型 3: 图像与性质的综合应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%BC%A6%E5%9E%8B%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%20%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%203_%20%E5%9B%BE%E5%83%8F%E4%B8%8E%E6%80%A7%E8%B4%A8%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 340,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "edfc372174487ffe",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "a278ec8db4fb6fa9",
+      "type": "text",
+      "text": "[题型1:求 $\\omega$ 的定值问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B1_%E6%B1%82%20%24_omega%24%20%E7%9A%84%E5%AE%9A%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B1_%E6%B1%82%20%24_omega%24%20%E7%9A%84%E5%AE%9A%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 1020,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "2772a4ff5c8b04f5",
+      "type": "text",
+      "text": "[题型 2: 根据图像平移求 $\\omega$ 的范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E6%A0%B9%E6%8D%AE%E5%9B%BE%E5%83%8F%E5%B9%B3%E7%A7%BB%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B%202_%20%E6%A0%B9%E6%8D%AE%E5%9B%BE%E5%83%8F%E5%B9%B3%E7%A7%BB%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4.md)",
+      "x": 1360,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f98dff16d0612435",
+      "type": "text",
+      "text": "[题型3:根据单调性求 $\\omega$ 的范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B3_%E6%A0%B9%E6%8D%AE%E5%8D%95%E8%B0%83%E6%80%A7%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B3_%E6%A0%B9%E6%8D%AE%E5%8D%95%E8%B0%83%E6%80%A7%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4.md)",
+      "x": 1700,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9dfa2c65b51af7e8",
+      "type": "text",
+      "text": "[题型 4: 根据对称性求 $\\omega$ 的范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%204_%20%E6%A0%B9%E6%8D%AE%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B%204_%20%E6%A0%B9%E6%8D%AE%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4.md)",
+      "x": 0,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "df4d45721cea923d",
+      "type": "text",
+      "text": "[题型 5: 根据极值与最值求 $\\omega$ 的范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%205_%20%E6%A0%B9%E6%8D%AE%E6%9E%81%E5%80%BC%E4%B8%8E%E6%9C%80%E5%80%BC%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B%205_%20%E6%A0%B9%E6%8D%AE%E6%9E%81%E5%80%BC%E4%B8%8E%E6%9C%80%E5%80%BC%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4.md)",
+      "x": 340,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d71848691e8f895b",
+      "type": "text",
+      "text": "[题型6:根据零点及零点个数求 $\\omega$ 的范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B6_%E6%A0%B9%E6%8D%AE%E9%9B%B6%E7%82%B9%E5%8F%8A%E9%9B%B6%E7%82%B9%E4%B8%AA%E6%95%B0%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B6_%E6%A0%B9%E6%8D%AE%E9%9B%B6%E7%82%B9%E5%8F%8A%E9%9B%B6%E7%82%B9%E4%B8%AA%E6%95%B0%E6%B1%82%20%24_omega%24%20%E7%9A%84%E8%8C%83%E5%9B%B4.md)",
+      "x": 680,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "0ee624e4b8560c66",
+      "type": "text",
+      "text": "[题型 7: 已知定轴心及单调性型](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%207_%20%E5%B7%B2%E7%9F%A5%E5%AE%9A%E8%BD%B4%E5%BF%83%E5%8F%8A%E5%8D%95%E8%B0%83%E6%80%A7%E5%9E%8B/%E9%A2%98%E5%9E%8B%207_%20%E5%B7%B2%E7%9F%A5%E5%AE%9A%E8%BD%B4%E5%BF%83%E5%8F%8A%E5%8D%95%E8%B0%83%E6%80%A7%E5%9E%8B.md)",
+      "x": 1020,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "6bc33d554c203752",
+      "type": "text",
+      "text": "[题型 8: 多条件综合类型](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E4%B8%89%E8%8A%82%20%E4%B8%93%E9%A2%98%20%E6%B1%82%20omega%20%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%208_%20%E5%A4%9A%E6%9D%A1%E4%BB%B6%E7%BB%BC%E5%90%88%E7%B1%BB%E5%9E%8B/%E9%A2%98%E5%9E%8B%208_%20%E5%A4%9A%E6%9D%A1%E4%BB%B6%E7%BB%BC%E5%90%88%E7%B1%BB%E5%9E%8B.md)",
+      "x": 1360,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "076856bf9bc49563",
+      "type": "text",
+      "text": "[▶基础点 1: 已知正弦值求角](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82%EF%BC%88%E8%A1%A5%E5%85%85%EF%BC%89%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%B7%B2%E7%9F%A5%E6%AD%A3%E5%BC%A6%E5%80%BC%E6%B1%82%E8%A7%92/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%B7%B2%E7%9F%A5%E6%AD%A3%E5%BC%A6%E5%80%BC%E6%B1%82%E8%A7%92.md)",
+      "x": 1700,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "32162ed4b0637d1a",
+      "type": "text",
+      "text": "[▶基础点 2: 已知余弦值求角](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82%EF%BC%88%E8%A1%A5%E5%85%85%EF%BC%89%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%B7%B2%E7%9F%A5%E4%BD%99%E5%BC%A6%E5%80%BC%E6%B1%82%E8%A7%92/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%B7%B2%E7%9F%A5%E4%BD%99%E5%BC%A6%E5%80%BC%E6%B1%82%E8%A7%92.md)",
+      "x": 0,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "35e70ae5a20ce944",
+      "type": "text",
+      "text": "[▶基础点 3: 已知正切值求角](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82%EF%BC%88%E8%A1%A5%E5%85%85%EF%BC%89%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%B7%B2%E7%9F%A5%E6%AD%A3%E5%88%87%E5%80%BC%E6%B1%82%E8%A7%92/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E5%B7%B2%E7%9F%A5%E6%AD%A3%E5%88%87%E5%80%BC%E6%B1%82%E8%A7%92.md)",
+      "x": 340,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "70672d7bc8c5bd84",
+      "type": "text",
+      "text": "[题型 1: 反三角函数的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82%EF%BC%88%E8%A1%A5%E5%85%85%EF%BC%89%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E9%A2%98%E5%9E%8B%201_%20%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%201_%20%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 680,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "09b556930429ff13",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "02d3608949a395ef"
+    },
+    {
+      "id": "bd7b215e5aed543b",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "b80221f32d441c03"
+    },
+    {
+      "id": "a56b337f20fb68ad",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "af1bc38c6e70d52a"
+    },
+    {
+      "id": "db9e90fcc525546a",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "56407c74a93848f7"
+    },
+    {
+      "id": "66644d95b33c0f80",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "c08753d26a63e157"
+    },
+    {
+      "id": "7ce341d7c00a9e01",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "d062fa45e5cd1a0d"
+    },
+    {
+      "id": "1a5c245ea46fa13d",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "a806d1cd3d17264f"
+    },
+    {
+      "id": "79d220dc5120a198",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "76a761351018317d"
+    },
+    {
+      "id": "3e4a3523e208a6eb",
+      "fromNode": "1e47b5952e270a8d",
+      "toNode": "c8508ca5ff9a3d31"
+    },
+    {
+      "id": "a6d22bd7966d260b",
+      "fromNode": "c8508ca5ff9a3d31",
+      "toNode": "b2287404b9a32314"
+    },
+    {
+      "id": "64d6174aebee5ddc",
+      "fromNode": "c8508ca5ff9a3d31",
+      "toNode": "187506e2aca6e029"
+    },
+    {
+      "id": "11cefb7351fac9ea",
+      "fromNode": "0581359066922163",
+      "toNode": "bd04c7720be05f88"
+    },
+    {
+      "id": "ab2b1a4c297f44fb",
+      "fromNode": "0581359066922163",
+      "toNode": "be9955285e19ec11"
+    },
+    {
+      "id": "19cb5d7f02fae365",
+      "fromNode": "0581359066922163",
+      "toNode": "3790083593a959ce"
+    },
+    {
+      "id": "13988e56ca55cb4a",
+      "fromNode": "0581359066922163",
+      "toNode": "417c00d0ee775063"
+    },
+    {
+      "id": "b4364d828e940964",
+      "fromNode": "0581359066922163",
+      "toNode": "6298a2e75b7c7bb0"
+    },
+    {
+      "id": "38dc0a763d469421",
+      "fromNode": "0581359066922163",
+      "toNode": "50babfa60b47254f"
+    },
+    {
+      "id": "25e06ce40fb25068",
+      "fromNode": "0581359066922163",
+      "toNode": "76c4935d44bca274"
+    },
+    {
+      "id": "013ed1d8bac1acc3",
+      "fromNode": "0581359066922163",
+      "toNode": "df4f00d6bbd20b65"
+    },
+    {
+      "id": "51af0ce61132d498",
+      "fromNode": "027e234b7ab33044",
+      "toNode": "5290ea8a0d36b49d"
+    },
+    {
+      "id": "d076d4405126dbc2",
+      "fromNode": "027e234b7ab33044",
+      "toNode": "d3ab854549d1d860"
+    },
+    {
+      "id": "859d6f4cecf20feb",
+      "fromNode": "027e234b7ab33044",
+      "toNode": "efc4652da2052a66"
+    },
+    {
+      "id": "1c96295524bbb565",
+      "fromNode": "027e234b7ab33044",
+      "toNode": "25ba1135582f72a9"
+    },
+    {
+      "id": "63c7187906e054c5",
+      "fromNode": "027e234b7ab33044",
+      "toNode": "eed9326cd56b7f5f"
+    },
+    {
+      "id": "d083bd845e00d491",
+      "fromNode": "084a6b47b72ca40c",
+      "toNode": "ac64ae7dc6d64daa"
+    },
+    {
+      "id": "00f9c4a70dcad702",
+      "fromNode": "084a6b47b72ca40c",
+      "toNode": "b638cd1f9e740cf8"
+    },
+    {
+      "id": "68fb388775ed26b1",
+      "fromNode": "084a6b47b72ca40c",
+      "toNode": "f2a26ac81f437f1e"
+    },
+    {
+      "id": "8a8803805ffc8fad",
+      "fromNode": "084a6b47b72ca40c",
+      "toNode": "7a3fe6faec07726c"
+    },
+    {
+      "id": "7dd462a8cf212e59",
+      "fromNode": "7a3fe6faec07726c",
+      "toNode": "07e63d7cb30dbd1f"
+    },
+    {
+      "id": "29cb20d2eb060ade",
+      "fromNode": "7a3fe6faec07726c",
+      "toNode": "96e1ac3b692c69cb"
+    },
+    {
+      "id": "47324892ff2d57ac",
+      "fromNode": "7a3fe6faec07726c",
+      "toNode": "7f292adf51ff8e02"
+    },
+    {
+      "id": "d97190412b589084",
+      "fromNode": "f12b2475b7610235",
+      "toNode": "37f37a4a79b72729"
+    },
+    {
+      "id": "a81d5c04ee07df50",
+      "fromNode": "f12b2475b7610235",
+      "toNode": "d4c5df5376775b95"
+    },
+    {
+      "id": "a2f50dfa3916165e",
+      "fromNode": "f12b2475b7610235",
+      "toNode": "98a61ad5a47cf73e"
+    },
+    {
+      "id": "e275aaab4644a693",
+      "fromNode": "f12b2475b7610235",
+      "toNode": "c513b998e2cd42a4"
+    },
+    {
+      "id": "506b75108402ae23",
+      "fromNode": "2325203ea1764823",
+      "toNode": "e2eb3adb4b01221e"
+    },
+    {
+      "id": "c23138432c87f094",
+      "fromNode": "2325203ea1764823",
+      "toNode": "e41ef9cb7f8f9f76"
+    },
+    {
+      "id": "0150084da8a69b5e",
+      "fromNode": "2325203ea1764823",
+      "toNode": "dfe54b9828d30041"
+    },
+    {
+      "id": "7d5eb49496845a91",
+      "fromNode": "2325203ea1764823",
+      "toNode": "3e8574a3c250032d"
+    },
+    {
+      "id": "70dc9fca0596fe90",
+      "fromNode": "2325203ea1764823",
+      "toNode": "f51c0c54e237b271"
+    },
+    {
+      "id": "2356936e879ec50b",
+      "fromNode": "2325203ea1764823",
+      "toNode": "d8c55b46945ccd54"
+    },
+    {
+      "id": "ef229dd709d8ba0f",
+      "fromNode": "2325203ea1764823",
+      "toNode": "e6f4520ba3293668"
+    },
+    {
+      "id": "b8ac60c43651a2c2",
+      "fromNode": "2325203ea1764823",
+      "toNode": "4f7ea23865210647"
+    },
+    {
+      "id": "b7a90a67f4126708",
+      "fromNode": "2325203ea1764823",
+      "toNode": "62d56bafef5587e6"
+    },
+    {
+      "id": "c2b326eb4434478b",
+      "fromNode": "2325203ea1764823",
+      "toNode": "c24d913bdc11675d"
+    },
+    {
+      "id": "f4a047d2c7607b59",
+      "fromNode": "2325203ea1764823",
+      "toNode": "7a871921387de6c8"
+    },
+    {
+      "id": "1b07f2257c30415d",
+      "fromNode": "2325203ea1764823",
+      "toNode": "8ab80ea39ba7a195"
+    },
+    {
+      "id": "f82b5367523f141f",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "f9d79409a947e1dd"
+    },
+    {
+      "id": "358159d1a918683d",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "d54a8811fff3e749"
+    },
+    {
+      "id": "835f86bf7b13bfb5",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "42db9136fe2a0465"
+    },
+    {
+      "id": "3b09be241349af42",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "9a00661f5162d97e"
+    },
+    {
+      "id": "ec52ccff0fdcee65",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "770583de287e5c43"
+    },
+    {
+      "id": "7e133fe6e12dee14",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "acc93bce108ba2bb"
+    },
+    {
+      "id": "80dfc42311e4a581",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "c5adfec368f1e57b"
+    },
+    {
+      "id": "047c8faac2698938",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "830ff6276c79083e"
+    },
+    {
+      "id": "dbe44b8158ecd396",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "e3b73a4416a91d28"
+    },
+    {
+      "id": "69ee6abb9fbfbc73",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "7a78666a01802d59"
+    },
+    {
+      "id": "79c7a3328fbcc93c",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "12a15606b49f3c71"
+    },
+    {
+      "id": "b1a3a747888d0268",
+      "fromNode": "fcf5de3671b27eae",
+      "toNode": "c19f4141acc91e2a"
+    },
+    {
+      "id": "5ca82398d2799bc9",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "7f952ab4bb65cfce"
+    },
+    {
+      "id": "e3f82953745297a9",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "16c69a03631e85a0"
+    },
+    {
+      "id": "5f3060d4e5b08cae",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "762d2fe2c3948f18"
+    },
+    {
+      "id": "84411c317ee97411",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "dcd06c5c47c5430a"
+    },
+    {
+      "id": "f3b28dacbe277ff8",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "916b88eedf3cf2a5"
+    },
+    {
+      "id": "0f8bf97079f498be",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "9ee180b35a0c6a0a"
+    },
+    {
+      "id": "5dce9a667da6d572",
+      "fromNode": "ae338e57688c9c61",
+      "toNode": "a853b8ad20cea5c5"
+    },
+    {
+      "id": "afdde3c7516f77c5",
+      "fromNode": "80c3e737ae6adab1",
+      "toNode": "93a0b98a7d7e5d45"
+    },
+    {
+      "id": "90f4959a645dddbf",
+      "fromNode": "80c3e737ae6adab1",
+      "toNode": "651161c1f9f79b9e"
+    },
+    {
+      "id": "a458a9d6aac848bb",
+      "fromNode": "80c3e737ae6adab1",
+      "toNode": "a48f4aa404c2e17b"
+    },
+    {
+      "id": "3ae909a9b1d0e2a1",
+      "fromNode": "a48f4aa404c2e17b",
+      "toNode": "fc6c5b9af91031f1"
+    },
+    {
+      "id": "483ea5f3102c15ff",
+      "fromNode": "a48f4aa404c2e17b",
+      "toNode": "2acf9ddde32ce43d"
+    },
+    {
+      "id": "f3a8b42b1217281e",
+      "fromNode": "a48f4aa404c2e17b",
+      "toNode": "d8c96c59d108b3e9"
+    },
+    {
+      "id": "21723863cf8c5433",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "5cf6dc9834024b46"
+    },
+    {
+      "id": "93c3543321a15672",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "759b6c91aaaa8564"
+    },
+    {
+      "id": "9fd87b11e7b248b3",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "cceffff67e0b6ba8"
+    },
+    {
+      "id": "be4c3c35b85f79ea",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "aa1d9b4be2d6b12f"
+    },
+    {
+      "id": "21c76729cb8b46c8",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "1eebbee904748870"
+    },
+    {
+      "id": "b37e99e9c254cbb5",
+      "fromNode": "db8e8863e933c81f",
+      "toNode": "3cc9557f1478d632"
+    },
+    {
+      "id": "7aaf80be7af76995",
+      "fromNode": "db8e8863e933c81f",
+      "toNode": "705c16a53fbdfaf8"
+    },
+    {
+      "id": "f53bd65ef5e558ff",
+      "fromNode": "db8e8863e933c81f",
+      "toNode": "e1c8364c8bb38789"
+    },
+    {
+      "id": "3148553eaaefd0b7",
+      "fromNode": "db8e8863e933c81f",
+      "toNode": "9025a4001cbb6229"
+    },
+    {
+      "id": "50a857f2ac94799d",
+      "fromNode": "db8e8863e933c81f",
+      "toNode": "f4078a57e487f633"
+    },
+    {
+      "id": "6e6691e135c6305f",
+      "fromNode": "db8e8863e933c81f",
+      "toNode": "0416e6141ce4ec2a"
+    },
+    {
+      "id": "ba49be00446d781f",
+      "fromNode": "0416e6141ce4ec2a",
+      "toNode": "8ba8dc98de100172"
+    },
+    {
+      "id": "56a0db919440df9f",
+      "fromNode": "0416e6141ce4ec2a",
+      "toNode": "62a99bbb28ecada0"
+    },
+    {
+      "id": "c4d4be6f5b42d77e",
+      "fromNode": "0416e6141ce4ec2a",
+      "toNode": "7608c13377601c6c"
+    },
+    {
+      "id": "0cd1133d9dc7af6f",
+      "fromNode": "03f16187bb808671",
+      "toNode": "edfc372174487ffe"
+    },
+    {
+      "id": "b188f041a751e089",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "a278ec8db4fb6fa9"
+    },
+    {
+      "id": "c3b2ebe1eb9ba35d",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "2772a4ff5c8b04f5"
+    },
+    {
+      "id": "63473037ff50f5b6",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "f98dff16d0612435"
+    },
+    {
+      "id": "178c16d0c4c3cd16",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "9dfa2c65b51af7e8"
+    },
+    {
+      "id": "a73c593b56897871",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "df4d45721cea923d"
+    },
+    {
+      "id": "002410c019872f57",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "d71848691e8f895b"
+    },
+    {
+      "id": "93b7fd3a6376da36",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "0ee624e4b8560c66"
+    },
+    {
+      "id": "d5b0e393d46c7516",
+      "fromNode": "edfc372174487ffe",
+      "toNode": "6bc33d554c203752"
+    },
+    {
+      "id": "6c0f5cdf29934c12",
+      "fromNode": "ec2196b510464ef7",
+      "toNode": "076856bf9bc49563"
+    },
+    {
+      "id": "448b9abeb7340cc5",
+      "fromNode": "ec2196b510464ef7",
+      "toNode": "32162ed4b0637d1a"
+    },
+    {
+      "id": "a3db0b98cd9c97e6",
+      "fromNode": "ec2196b510464ef7",
+      "toNode": "35e70ae5a20ce944"
+    },
+    {
+      "id": "86af76ab970bd0c9",
+      "fromNode": "ec2196b510464ef7",
+      "toNode": "70672d7bc8c5bd84"
+    }
+  ]
+}
