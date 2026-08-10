@@ -1,0 +1,5 @@
+## $\triangleright$ 角度2:公式法判断三角函数周期
+
+公式法:对于 $y = A \sin (\omega x + \varphi)$ 或 $y = A \cos (\omega x + \varphi)$ 的函数形式，周期 $T = \frac{2\pi}{|\omega|}$ .
+
+![[高中/课堂同步/题库/高中数学全练一本通/三角函数/第六节 正余弦函数的性质/题目/▶基础点 1_ 判断三角函数的周期/$_triangleright$ 角度2_公式法判断三角函数周期/questions/Q00006463.md]]
