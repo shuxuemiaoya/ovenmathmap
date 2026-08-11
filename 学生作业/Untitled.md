@@ -1,0 +1,12 @@
+【31】四面体ABCD被一平面所截,截面EFGH是一个平行四边形.求证:CD//平面EFGH.
+<img src="../../../../../images/questions/3b851c61fe6dccdc39c81632315b250dbc29367901dbab7fcefe91d7428c069a.jpg"/>
+【46】如图, 在三棱柱 $ABC-A_{1}B_{1}C_{1}$ 中, $D,D_{1}$ 分别为棱 $AC,A_{1}C_{1}$ 的中点. 求证: 平面 $AB_{1}D_{1}//$ 平面 $BC_{1}D$ .<img src="../../../../images/questions/2ee488d464f697e36390f3b7aae9ce1d77efef481fd34b9b22c1f220b6fc24eb.jpg"/>
+
+【48】(2024·湖南长沙高二开学考试)如图, 在四棱锥 $P-ABCD$ 中, $ABCD$ 为矩形, $M$ , $N$ 分别是 $PB$ ,  $CD$ 的中点, 求证: $MN//$ 平面 $PAD$ .<img src="../../../../../images/questions/358c965cd91af9bae7411442b6b6d5f957fbb08f80f6aca89d0ca3165cf26129.jpg"/>
+
+【52】（2022·全国高一课后作业）如图，在四棱柱 $ABCD - A_{1}B_{1}C_{1}D_{1}$ 中，底面ABCD为梯形， $AD / / BC$ 平面 $A_{1}DCE$ 与 $BB_{1}$ 交于点 $E$ ，求证： $EC / / A_{1}D$ ：
+
+![](../../../../../images/questions/0a60d25da05badd400917295e8a9962fe3167c5c822449258009e51495187d9a.jpg)
+【8】如图, 在四棱锥 P-ABCD 中, 已知 $AD \parallel BC$ , $\angle ABC = 90^{\circ}$ , AC 与 BD 相交于点 E, 且 $PA \perp BD$ , $AD = 1$ , $AB = \sqrt{3}$ , BC = 3, 求证: $BD \perp$ 平面 PAC.
+
+![](../../../../../images/questions/3e92d23967825bf61601c7ea36fdc73e79c33d2656e233dd5bd831df2bc98f68.jpg)
