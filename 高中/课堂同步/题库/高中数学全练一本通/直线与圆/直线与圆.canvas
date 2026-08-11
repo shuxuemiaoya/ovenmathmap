@@ -1,0 +1,2495 @@
+{
+  "nodes": [
+    {
+      "id": "27b3ae162c718be7",
+      "type": "group",
+      "label": "第一节 直线的倾斜角与斜率",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "4004603f57d2fddd",
+      "type": "group",
+      "label": "第二节 直线的方程",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8e3d73d800bd4027",
+      "type": "group",
+      "label": "第三节 直线的交点与距离公式",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "4c413ce85eed3944",
+      "type": "group",
+      "label": "第四节 专题: 直线的对称与最值问题",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "883e4abdccf74540",
+      "type": "group",
+      "label": "第五节 圆的方程",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0803412a25188b2d",
+      "type": "group",
+      "label": "第六节 直线与圆的位置关系",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "7e0749ab76a50f8e",
+      "type": "group",
+      "label": "第七节 圆与圆的位置关系",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "3f12fa1b31c4d187",
+      "type": "group",
+      "label": "第八节 专题: 圆的轨迹与曲线方程",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8328a2e866dab301",
+      "type": "group",
+      "label": "第九节 专题: 隐圆问题",
+      "role": "hierarchy",
+      "x": 15200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c9844758c79c6671",
+      "type": "group",
+      "label": "第十节 专题: 直线与圆联立—韦达定理的简单应用",
+      "role": "hierarchy",
+      "x": 17100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8eafa50580382893",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 0,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "58958f161c4e56e5",
+      "type": "text",
+      "text": "[1. 直线倾斜角的定义](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E7%9B%B4%E7%BA%BF%E5%80%BE%E6%96%9C%E8%A7%92%E7%9A%84%E5%AE%9A%E4%B9%89/1.%20%E7%9B%B4%E7%BA%BF%E5%80%BE%E6%96%9C%E8%A7%92%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "x": 340,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ce7b668a9dd36e21",
+      "type": "text",
+      "text": "[2. 直线的斜率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E7%8E%87/2.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E7%8E%87.md)",
+      "x": 680,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a10adae469ca1d41",
+      "type": "text",
+      "text": "[3. 直线的斜率公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E7%8E%87%E5%85%AC%E5%BC%8F/3.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 1020,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5c2350938104f4e8",
+      "type": "text",
+      "text": "[4. 斜率与倾斜角的关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%20%E6%96%9C%E7%8E%87%E4%B8%8E%E5%80%BE%E6%96%9C%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB/4.%20%E6%96%9C%E7%8E%87%E4%B8%8E%E5%80%BE%E6%96%9C%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "x": 1360,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b0c7eeccb8f9f69f",
+      "type": "text",
+      "text": "[5. 直线的方向向量与斜率, 倾斜角的关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E5%90%91%E5%90%91%E9%87%8F%E4%B8%8E%E6%96%9C%E7%8E%87%2C%20%E5%80%BE%E6%96%9C%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB/5.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E5%90%91%E5%90%91%E9%87%8F%E4%B8%8E%E6%96%9C%E7%8E%87%2C%20%E5%80%BE%E6%96%9C%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "x": 1700,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d3682887322cbd0d",
+      "type": "text",
+      "text": "[6. 两直线平行的条件](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/6.%20%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%9A%84%E6%9D%A1%E4%BB%B6/6.%20%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%9A%84%E6%9D%A1%E4%BB%B6.md)",
+      "x": 0,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "70fa1ca4b6fa4826",
+      "type": "text",
+      "text": "[7. 两直线垂直的条件](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/7.%20%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E7%9A%84%E6%9D%A1%E4%BB%B6/7.%20%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E7%9A%84%E6%9D%A1%E4%BB%B6.md)",
+      "x": 340,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "c95e6b7be8291a0e",
+      "type": "text",
+      "text": "[▶ ▷ 核心基础达标](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87.md)",
+      "x": 680,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "efd792f299ca1f49",
+      "type": "text",
+      "text": "[▶基础点 1:倾斜角与斜率的概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87%E7%9A%84%E6%A6%82%E5%BF%B5/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "x": 1020,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "2da82ca4f912c82d",
+      "type": "text",
+      "text": "[▶基础点 2:倾斜角与斜率的计算](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87%E7%9A%84%E8%AE%A1%E7%AE%97/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87%E7%9A%84%E8%AE%A1%E7%AE%97.md)",
+      "x": 1360,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "ef6f08020c92a1fe",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:求直线斜率或倾斜角](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87%E7%9A%84%E8%AE%A1%E7%AE%97/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E6%B1%82%E7%9B%B4%E7%BA%BF%E6%96%9C%E7%8E%87%E6%88%96%E5%80%BE%E6%96%9C%E8%A7%92/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E6%B1%82%E7%9B%B4%E7%BA%BF%E6%96%9C%E7%8E%87%E6%88%96%E5%80%BE%E6%96%9C%E8%A7%92.md)",
+      "x": 1700,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "aeecfead79d7273d",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:已知直线斜率求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87%E7%9A%84%E8%AE%A1%E7%AE%97/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E6%96%9C%E7%8E%87%E6%B1%82%E5%8F%82%E6%95%B0/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E6%96%9C%E7%8E%87%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 0,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "3fc28323ddd201ec",
+      "type": "text",
+      "text": "[▶基础点 3: 直线平行的判定](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%88%A4%E5%AE%9A/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%9A%84%E5%88%A4%E5%AE%9A.md)",
+      "x": 340,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "eef11e7e73a3ed06",
+      "type": "text",
+      "text": "[▶基础点 4: 直线垂直的判定](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A.md)",
+      "x": 680,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "bb2804b34be51ebc",
+      "type": "text",
+      "text": "[▶ ▷ 重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1020,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "cc67656a1eea5657",
+      "type": "text",
+      "text": "[题型 1: 直线的三点共线问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%89%E7%82%B9%E5%85%B1%E7%BA%BF%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%89%E7%82%B9%E5%85%B1%E7%BA%BF%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "660bbbadb0a4abbe",
+      "type": "text",
+      "text": "[题型 2: 直线与线段的相交问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%BA%BF%E6%AE%B5%E7%9A%84%E7%9B%B8%E4%BA%A4%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%BA%BF%E6%AE%B5%E7%9A%84%E7%9B%B8%E4%BA%A4%E9%97%AE%E9%A2%98.md)",
+      "x": 1700,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "72203f3195cac7dd",
+      "type": "text",
+      "text": "[题型 3: 利用斜率的几何意义求范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E6%96%9C%E7%8E%87%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89%E6%B1%82%E8%8C%83%E5%9B%B4/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E6%96%9C%E7%8E%87%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89%E6%B1%82%E8%8C%83%E5%9B%B4.md)",
+      "x": 0,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "331e900067095194",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 340,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "0b2380187ba47637",
+      "type": "text",
+      "text": "[1. 直线的点斜式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E6%96%B9%E7%A8%8B/1.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a1140472475a1894",
+      "type": "text",
+      "text": "[2. 直线的斜截式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B/2.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 1020,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "479e2620b65362bf",
+      "type": "text",
+      "text": "[3. 直线的两点式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E5%BC%8F%E6%96%B9%E7%A8%8B/3.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 1360,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0663851bc7a2af81",
+      "type": "text",
+      "text": "[4. 直线的截距式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%88%AA%E8%B7%9D%E5%BC%8F%E6%96%B9%E7%A8%8B/4.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%88%AA%E8%B7%9D%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 1700,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "da060f2ea5b9be0d",
+      "type": "text",
+      "text": "[5. 直线方程的一般式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5.%20%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E5%BC%8F/5.%20%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E5%BC%8F.md)",
+      "x": 0,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1a972fcad9f0a662",
+      "type": "text",
+      "text": "[6. 直线方程的五种形式总结](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/6.%20%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B%E7%9A%84%E4%BA%94%E7%A7%8D%E5%BD%A2%E5%BC%8F%E6%80%BB%E7%BB%93/6.%20%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B%E7%9A%84%E4%BA%94%E7%A7%8D%E5%BD%A2%E5%BC%8F%E6%80%BB%E7%BB%93.md)",
+      "x": 340,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1fba280efc4475b5",
+      "type": "text",
+      "text": "[7. 两条直线的位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/7.%20%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/7.%20%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 680,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "fcda3b4f00cf6b6a",
+      "type": "text",
+      "text": "[8. 中点坐标公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/8.%20%E4%B8%AD%E7%82%B9%E5%9D%90%E6%A0%87%E5%85%AC%E5%BC%8F/8.%20%E4%B8%AD%E7%82%B9%E5%9D%90%E6%A0%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 1020,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "24d3b96a8695673b",
+      "type": "text",
+      "text": "[▶基础点 1: 直线的点斜式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 1360,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "6b216c136db58b2e",
+      "type": "text",
+      "text": "[▶基础点 2: 直线的斜截式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 1700,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "f7465fd62ab206bc",
+      "type": "text",
+      "text": "[▶基础点 3: 直线的两点式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E5%BC%8F%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 0,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "63bc721a0eff768b",
+      "type": "text",
+      "text": "[▶基础点 4: 直线的截距式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%88%AA%E8%B7%9D%E5%BC%8F%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%88%AA%E8%B7%9D%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 340,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "891d467c3396fc91",
+      "type": "text",
+      "text": "[▶基础点 5: 直线的一般式方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%80%E8%88%AC%E5%BC%8F%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%205_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%80%E8%88%AC%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "d722681ce77d5a89",
+      "type": "text",
+      "text": "[▶ ▷ 重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1020,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "4145c450ea07b099",
+      "type": "text",
+      "text": "[题型 1:一般式下直线的平行与垂直](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%E4%B8%80%E8%88%AC%E5%BC%8F%E4%B8%8B%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%B9%B3%E8%A1%8C%E4%B8%8E%E5%9E%82%E7%9B%B4/%E9%A2%98%E5%9E%8B%201_%E4%B8%80%E8%88%AC%E5%BC%8F%E4%B8%8B%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%B9%B3%E8%A1%8C%E4%B8%8E%E5%9E%82%E7%9B%B4.md)",
+      "x": 1360,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "dfbfbbd84515b002",
+      "type": "text",
+      "text": "[题型 2: 求有关中线、垂线、垂直平分线的直线方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E6%B1%82%E6%9C%89%E5%85%B3%E4%B8%AD%E7%BA%BF%E3%80%81%E5%9E%82%E7%BA%BF%E3%80%81%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B/%E9%A2%98%E5%9E%8B%202_%20%E6%B1%82%E6%9C%89%E5%85%B3%E4%B8%AD%E7%BA%BF%E3%80%81%E5%9E%82%E7%BA%BF%E3%80%81%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 1700,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "78abeca531eb32b3",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 0,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "d460d243da0b2272",
+      "type": "text",
+      "text": "[1. 直线的交点](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9/1.%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9.md)",
+      "x": 340,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b34df7d5967adbcf",
+      "type": "text",
+      "text": "[2. 过两条直线交点的直线系方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E8%BF%87%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E4%BA%A4%E7%82%B9%E7%9A%84%E7%9B%B4%E7%BA%BF%E7%B3%BB%E6%96%B9%E7%A8%8B/2.%20%E8%BF%87%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E4%BA%A4%E7%82%B9%E7%9A%84%E7%9B%B4%E7%BA%BF%E7%B3%BB%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6fc90685723ebd36",
+      "type": "text",
+      "text": "[3. 两点间的距离公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E4%B8%A4%E7%82%B9%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/3.%20%E4%B8%A4%E7%82%B9%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F.md)",
+      "x": 1020,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "f08b3796f91e93f2",
+      "type": "text",
+      "text": "[4. 点到直线的距离公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/4.%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F.md)",
+      "x": 1360,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "20e047b236c6be34",
+      "type": "text",
+      "text": "[5. 两平行线间的距离](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5.%20%E4%B8%A4%E5%B9%B3%E8%A1%8C%E7%BA%BF%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB/5.%20%E4%B8%A4%E5%B9%B3%E8%A1%8C%E7%BA%BF%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "x": 1700,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "394e1a062ea504af",
+      "type": "text",
+      "text": "[题型 1: 直线的交点问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "6291c429c8890f6b",
+      "type": "text",
+      "text": "[题型 2: 过定点的直线系问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%202_%20%E8%BF%87%E5%AE%9A%E7%82%B9%E7%9A%84%E7%9B%B4%E7%BA%BF%E7%B3%BB%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%202_%20%E8%BF%87%E5%AE%9A%E7%82%B9%E7%9A%84%E7%9B%B4%E7%BA%BF%E7%B3%BB%E9%97%AE%E9%A2%98.md)",
+      "x": 340,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "855bc63b431bd837",
+      "type": "text",
+      "text": "[题型 3: 两点间距离公式的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E4%B8%A4%E7%82%B9%E9%97%B4%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%203_%20%E4%B8%A4%E7%82%B9%E9%97%B4%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 680,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "2e8a4fa464b64d05",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:两点间距离公式的几何应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E4%B8%A4%E7%82%B9%E9%97%B4%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E4%B8%A4%E7%82%B9%E9%97%B4%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%87%A0%E4%BD%95%E5%BA%94%E7%94%A8/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E4%B8%A4%E7%82%B9%E9%97%B4%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%87%A0%E4%BD%95%E5%BA%94%E7%94%A8.md)",
+      "x": 1020,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "7fca65f1861c4973",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2：利用两点距离公式求函数最值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E4%B8%A4%E7%82%B9%E9%97%B4%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8/%24_triangleright%24%20%E8%A7%92%E5%BA%A62%EF%BC%9A%E5%88%A9%E7%94%A8%E4%B8%A4%E7%82%B9%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E6%B1%82%E5%87%BD%E6%95%B0%E6%9C%80%E5%80%BC/%24_triangleright%24%20%E8%A7%92%E5%BA%A62%EF%BC%9A%E5%88%A9%E7%94%A8%E4%B8%A4%E7%82%B9%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E6%B1%82%E5%87%BD%E6%95%B0%E6%9C%80%E5%80%BC.md)",
+      "x": 1360,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "2162b44b4795cc60",
+      "type": "text",
+      "text": "[题型 4: 坐标法的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%204_%20%E5%9D%90%E6%A0%87%E6%B3%95%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%204_%20%E5%9D%90%E6%A0%87%E6%B3%95%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1700,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5afb83f71b8a57c6",
+      "type": "text",
+      "text": "[题型 5: 点到直线的距离公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%205_%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%205_%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F.md)",
+      "x": 0,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "1a3df88c3b2825e8",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:求点到直线的距离](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%205_%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E6%B1%82%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E6%B1%82%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "x": 340,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "21bacb2dc8bef5a4",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:已知点到直线的距离求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%205_%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E5%B7%B2%E7%9F%A5%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E6%B1%82%E5%8F%82%E6%95%B0/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E5%B7%B2%E7%9F%A5%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 680,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "e2ce66208870d104",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度3:求到两点距离相等的直线](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%205_%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E6%B1%82%E5%88%B0%E4%B8%A4%E7%82%B9%E8%B7%9D%E7%A6%BB%E7%9B%B8%E7%AD%89%E7%9A%84%E7%9B%B4%E7%BA%BF/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E6%B1%82%E5%88%B0%E4%B8%A4%E7%82%B9%E8%B7%9D%E7%A6%BB%E7%9B%B8%E7%AD%89%E7%9A%84%E7%9B%B4%E7%BA%BF.md)",
+      "x": 1020,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "613d62f05f8b2854",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度4：点到直线的距离范围问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%205_%20%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%24_triangleright%24%20%E8%A7%92%E5%BA%A64%EF%BC%9A%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A64%EF%BC%9A%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "0fac7521e7787c29",
+      "type": "text",
+      "text": "[题型 6:两平行线之间的距离公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%206_%E4%B8%A4%E5%B9%B3%E8%A1%8C%E7%BA%BF%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B%206_%E4%B8%A4%E5%B9%B3%E8%A1%8C%E7%BA%BF%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F.md)",
+      "x": 1700,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "8ceed1a3eaac053d",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E4%B8%8E%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 0,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "acaab4436d6d21aa",
+      "type": "text",
+      "text": "[1. 直线与点的对称问题的方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E4%B8%8E%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%82%B9%E7%9A%84%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95/1.%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%82%B9%E7%9A%84%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E6%B3%95.md)",
+      "x": 340,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "04c56aeb05560b0d",
+      "type": "text",
+      "text": "[题型 1: 点关于直线对称问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E4%B8%8E%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%82%B9%E5%85%B3%E4%BA%8E%E7%9B%B4%E7%BA%BF%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%201_%20%E7%82%B9%E5%85%B3%E4%BA%8E%E7%9B%B4%E7%BA%BF%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98.md)",
+      "x": 680,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "49dedf1786bc75e8",
+      "type": "text",
+      "text": "[题型 2: 直线关于点的对称问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E4%B8%8E%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E5%85%B3%E4%BA%8E%E7%82%B9%E7%9A%84%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E5%85%B3%E4%BA%8E%E7%82%B9%E7%9A%84%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98.md)",
+      "x": 1020,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "0042d7cc1e65142d",
+      "type": "text",
+      "text": "[▷方法1:回代法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E4%B8%8E%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E5%85%B3%E4%BA%8E%E7%82%B9%E7%9A%84%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98/%E2%96%B7%E6%96%B9%E6%B3%951_%E5%9B%9E%E4%BB%A3%E6%B3%95/%E2%96%B7%E6%96%B9%E6%B3%951_%E5%9B%9E%E4%BB%A3%E6%B3%95.md)",
+      "x": 1360,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "d8d92c64b0394758",
+      "type": "text",
+      "text": "[题型 5: 利用对称处理最值问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E4%B8%8E%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%205_%20%E5%88%A9%E7%94%A8%E5%AF%B9%E7%A7%B0%E5%A4%84%E7%90%86%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%205_%20%E5%88%A9%E7%94%A8%E5%AF%B9%E7%A7%B0%E5%A4%84%E7%90%86%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 1700,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "674e5766698137b2",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 0,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "804fb2eb1cb5879d",
+      "type": "text",
+      "text": "[1. 圆的标准方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B/1.%20%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "x": 340,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ecbb038f34d6bd99",
+      "type": "text",
+      "text": "[2. 圆的一般方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B/2.%20%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2f06907ceb27ea08",
+      "type": "text",
+      "text": "[3. 点与圆的位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/3.%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 1020,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "916628e5e45d1191",
+      "type": "text",
+      "text": "[▶基础点 1: 求圆的标准方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E6%B1%82%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E6%B1%82%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "x": 1360,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "397b75c5ee8457d7",
+      "type": "text",
+      "text": "[▶基础点 2: 圆的一般方程的定义](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B%E7%9A%84%E5%AE%9A%E4%B9%89/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%202_%20%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "x": 1700,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "59ded6e37023d7aa",
+      "type": "text",
+      "text": "[▶基础点 3: 求圆的一般方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E6%B1%82%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%203_%20%E6%B1%82%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B.md)",
+      "x": 0,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "d8a9f06d34f590c8",
+      "type": "text",
+      "text": "[▶基础点 4: 点与圆的位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 340,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "bc928620eba2145a",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:判断点与圆的位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%88%A4%E6%96%AD%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%88%A4%E6%96%AD%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 680,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "e535fc4a6532dcee",
+      "type": "text",
+      "text": "[1. 判断点与圆的位置关系的方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/1.%20%E5%88%A4%E6%96%AD%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B9%E6%B3%95/1.%20%E5%88%A4%E6%96%AD%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B9%E6%B3%95.md)",
+      "x": 1020,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "66c6ac07d412f6cd",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:已知点与圆的位置关系求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%204_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/1.%20%E5%88%A4%E6%96%AD%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B9%E6%B3%95/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E5%B7%B2%E7%9F%A5%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E6%B1%82%E5%8F%82%E6%95%B0/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E5%B7%B2%E7%9F%A5%E7%82%B9%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 1360,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "c4a54dad53de9328",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1700,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "f35f463b73c0fe4a",
+      "type": "text",
+      "text": "[题型 1: 点与圆有关的最值问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E6%9C%89%E5%85%B3%E7%9A%84%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%201_%20%E7%82%B9%E4%B8%8E%E5%9C%86%E6%9C%89%E5%85%B3%E7%9A%84%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "2e1193063a0d677c",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 340,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "a166850203a32c0f",
+      "type": "text",
+      "text": "[1. 直线与圆的位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/1.%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 680,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "81a89abf16fbfa25",
+      "type": "text",
+      "text": "[2. 直线与圆的位置关系的判断](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/2.%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD.md)",
+      "x": 1020,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "66931e01dd307fa2",
+      "type": "text",
+      "text": "[(1) 几何法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%281%29%20%E5%87%A0%E4%BD%95%E6%B3%95/%281%29%20%E5%87%A0%E4%BD%95%E6%B3%95.md)",
+      "x": 1360,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0cae5361a5a7638e",
+      "type": "text",
+      "text": "[(2) 代数法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%282%29%20%E4%BB%A3%E6%95%B0%E6%B3%95/%282%29%20%E4%BB%A3%E6%95%B0%E6%B3%95.md)",
+      "x": 1700,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b9dcc096fb1793c2",
+      "type": "text",
+      "text": "[(3) 定点法:](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%283%29%20%E5%AE%9A%E7%82%B9%E6%B3%95_/%283%29%20%E5%AE%9A%E7%82%B9%E6%B3%95_.md)",
+      "x": 0,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6fd97b3807afd59b",
+      "type": "text",
+      "text": "[3. 圆的切线方程的求法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B%E7%9A%84%E6%B1%82%E6%B3%95/3.%20%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B%E7%9A%84%E6%B1%82%E6%B3%95.md)",
+      "x": 340,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "25264e3e091b96bb",
+      "type": "text",
+      "text": "[（1）求过圆上的一点 $(x_0, y_0)$ 的圆的切线方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%EF%BC%881%EF%BC%89%E6%B1%82%E8%BF%87%E5%9C%86%E4%B8%8A%E7%9A%84%E4%B8%80%E7%82%B9%20%24%28x_0%2C%20y_0%29%24%20%E7%9A%84%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B/%EF%BC%881%EF%BC%89%E6%B1%82%E8%BF%87%E5%9C%86%E4%B8%8A%E7%9A%84%E4%B8%80%E7%82%B9%20%24%28x_0%2C%20y_0%29%24%20%E7%9A%84%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d70d61c5ba7c5f6a",
+      "type": "text",
+      "text": "[(2) 求过圆外一点 $(x_{0}, y_{0})$ 的圆的切线方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%282%29%20%E6%B1%82%E8%BF%87%E5%9C%86%E5%A4%96%E4%B8%80%E7%82%B9%20%24%28x_%7B0%7D%2C%20y_%7B0%7D%29%24%20%E7%9A%84%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B/%282%29%20%E6%B1%82%E8%BF%87%E5%9C%86%E5%A4%96%E4%B8%80%E7%82%B9%20%24%28x_%7B0%7D%2C%20y_%7B0%7D%29%24%20%E7%9A%84%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 1020,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "78173ec08d8abe4c",
+      "type": "text",
+      "text": "[4. 切线长公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%20%E5%88%87%E7%BA%BF%E9%95%BF%E5%85%AC%E5%BC%8F/4.%20%E5%88%87%E7%BA%BF%E9%95%BF%E5%85%AC%E5%BC%8F.md)",
+      "x": 1360,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "fca35d8e4d8fb271",
+      "type": "text",
+      "text": "[5. 求直线被圆截得的弦长的方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5.%20%E6%B1%82%E7%9B%B4%E7%BA%BF%E8%A2%AB%E5%9C%86%E6%88%AA%E5%BE%97%E7%9A%84%E5%BC%A6%E9%95%BF%E7%9A%84%E6%96%B9%E6%B3%95/5.%20%E6%B1%82%E7%9B%B4%E7%BA%BF%E8%A2%AB%E5%9C%86%E6%88%AA%E5%BE%97%E7%9A%84%E5%BC%A6%E9%95%BF%E7%9A%84%E6%96%B9%E6%B3%95.md)",
+      "x": 1700,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d98e7765b0d4c660",
+      "type": "text",
+      "text": "[题型 1: 直线与圆的位置关系的判断](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD.md)",
+      "x": 0,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "1fa5c62106520dea",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:几何法判断位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%87%A0%E4%BD%95%E6%B3%95%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%87%A0%E4%BD%95%E6%B3%95%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 340,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "b7c8962aced9d2be",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:代数法判断位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E4%BB%A3%E6%95%B0%E6%B3%95%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E4%BB%A3%E6%95%B0%E6%B3%95%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 680,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "691d221003fc68f4",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度3:直线过定点判断位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E7%9B%B4%E7%BA%BF%E8%BF%87%E5%AE%9A%E7%82%B9%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E7%9B%B4%E7%BA%BF%E8%BF%87%E5%AE%9A%E7%82%B9%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 1020,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "1879de7805d6d4dc",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度4:已知直线与圆的位置关系求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%24_triangleright%24%20%E8%A7%92%E5%BA%A64_%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E6%B1%82%E5%8F%82%E6%95%B0/%24_triangleright%24%20%E8%A7%92%E5%BA%A64_%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 1360,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "5834cbc03e8be607",
+      "type": "text",
+      "text": "[题型 2: 直线与圆相离的距离问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E7%A6%BB%E7%9A%84%E8%B7%9D%E7%A6%BB%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%202_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E7%A6%BB%E7%9A%84%E8%B7%9D%E7%A6%BB%E9%97%AE%E9%A2%98.md)",
+      "x": 1700,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "3ee8802837007653",
+      "type": "text",
+      "text": "[题型 3: 直线与圆相交的弦长问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%BC%A6%E9%95%BF%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%203_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%BC%A6%E9%95%BF%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "27d7186b022ed6f6",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:几何法求弦长](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%BC%A6%E9%95%BF%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%87%A0%E4%BD%95%E6%B3%95%E6%B1%82%E5%BC%A6%E9%95%BF/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%87%A0%E4%BD%95%E6%B3%95%E6%B1%82%E5%BC%A6%E9%95%BF.md)",
+      "x": 340,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "2c3a423d751b00d4",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:代数法求弦长（韦达定理）](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%BC%A6%E9%95%BF%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E4%BB%A3%E6%95%B0%E6%B3%95%E6%B1%82%E5%BC%A6%E9%95%BF%EF%BC%88%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%EF%BC%89/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E4%BB%A3%E6%95%B0%E6%B3%95%E6%B1%82%E5%BC%A6%E9%95%BF%EF%BC%88%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%EF%BC%89.md)",
+      "x": 680,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "caaf5c4371075004",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度3:弦长的最值与范围问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%203_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%BC%A6%E9%95%BF%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E5%BC%A6%E9%95%BF%E7%9A%84%E6%9C%80%E5%80%BC%E4%B8%8E%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E5%BC%A6%E9%95%BF%E7%9A%84%E6%9C%80%E5%80%BC%E4%B8%8E%E8%8C%83%E5%9B%B4%E9%97%AE%E9%A2%98.md)",
+      "x": 1020,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "b6fc460d11d88115",
+      "type": "text",
+      "text": "[题型 4: 直线与圆相切的有关问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%204_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E5%88%87%E7%9A%84%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%204_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E5%88%87%E7%9A%84%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "3d72753cb81d08ae",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:求在圆上一点的切线方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%204_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E5%88%87%E7%9A%84%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E6%B1%82%E5%9C%A8%E5%9C%86%E4%B8%8A%E4%B8%80%E7%82%B9%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E6%B1%82%E5%9C%A8%E5%9C%86%E4%B8%8A%E4%B8%80%E7%82%B9%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 1700,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "81799d139ed610ad",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:求在圆外一点的切线方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%204_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E5%88%87%E7%9A%84%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E6%B1%82%E5%9C%A8%E5%9C%86%E5%A4%96%E4%B8%80%E7%82%B9%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E6%B1%82%E5%9C%A8%E5%9C%86%E5%A4%96%E4%B8%80%E7%82%B9%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 0,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "b7bc30c8bc5d5c59",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度3:求圆的切线长](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%204_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9B%B8%E5%88%87%E7%9A%84%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E6%B1%82%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E9%95%BF/%24_triangleright%24%20%E8%A7%92%E5%BA%A63_%E6%B1%82%E5%9C%86%E7%9A%84%E5%88%87%E7%BA%BF%E9%95%BF.md)",
+      "x": 340,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "892a024515d91913",
+      "type": "text",
+      "text": "[题型5:利用数形结合思想求最值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B5_%E5%88%A9%E7%94%A8%E6%95%B0%E5%BD%A2%E7%BB%93%E5%90%88%E6%80%9D%E6%83%B3%E6%B1%82%E6%9C%80%E5%80%BC/%E9%A2%98%E5%9E%8B5_%E5%88%A9%E7%94%A8%E6%95%B0%E5%BD%A2%E7%BB%93%E5%90%88%E6%80%9D%E6%83%B3%E6%B1%82%E6%9C%80%E5%80%BC.md)",
+      "x": 680,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "cbeb1e1dc333d9be",
+      "type": "text",
+      "text": "[题型 6: 直线与圆的实际应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%206_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%206_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.md)",
+      "x": 1020,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9356c93b86b3152f",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1360,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "2b6a2c5c6eb65e20",
+      "type": "text",
+      "text": "[1. 圆与圆的位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/1.%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 1700,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a260a87abc6f061a",
+      "type": "text",
+      "text": "[2. 圆与圆的位置关系的判断](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/2.%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD.md)",
+      "x": 0,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "764a05a5322f965d",
+      "type": "text",
+      "text": "[(1) 几何法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%281%29%20%E5%87%A0%E4%BD%95%E6%B3%95/%281%29%20%E5%87%A0%E4%BD%95%E6%B3%95.md)",
+      "x": 340,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5a62d33a172f1d38",
+      "type": "text",
+      "text": "[(2) 代数法 （利用 $\\Delta$ 判断）](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%282%29%20%E4%BB%A3%E6%95%B0%E6%B3%95%20%EF%BC%88%E5%88%A9%E7%94%A8%20%24_Delta%24%20%E5%88%A4%E6%96%AD%EF%BC%89/%282%29%20%E4%BB%A3%E6%95%B0%E6%B3%95%20%EF%BC%88%E5%88%A9%E7%94%A8%20%24_Delta%24%20%E5%88%A4%E6%96%AD%EF%BC%89.md)",
+      "x": 680,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "385cb022a20a88a0",
+      "type": "text",
+      "text": "[3. 圆系方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E5%9C%86%E7%B3%BB%E6%96%B9%E7%A8%8B/3.%20%E5%9C%86%E7%B3%BB%E6%96%B9%E7%A8%8B.md)",
+      "x": 1020,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e51b97e37e94a21b",
+      "type": "text",
+      "text": "[4. 两圆相交的公共弦方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%20%E4%B8%A4%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%85%AC%E5%85%B1%E5%BC%A6%E6%96%B9%E7%A8%8B/4.%20%E4%B8%A4%E5%9C%86%E7%9B%B8%E4%BA%A4%E7%9A%84%E5%85%AC%E5%85%B1%E5%BC%A6%E6%96%B9%E7%A8%8B.md)",
+      "x": 1360,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a209837ea509d0e4",
+      "type": "text",
+      "text": "[▶基础点 1: 圆与圆的位置关系的判断](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD.md)",
+      "x": 1700,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "6b89750d1d160616",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:几何法判断位置关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%87%A0%E4%BD%95%E6%B3%95%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%87%A0%E4%BD%95%E6%B3%95%E5%88%A4%E6%96%AD%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "x": 0,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "d2ca0179f6f302e7",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:代数法求交点坐标](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%A2%98%E7%9B%AE/%E2%96%B6%E5%9F%BA%E7%A1%80%E7%82%B9%201_%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%A4%E6%96%AD/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E4%BB%A3%E6%95%B0%E6%B3%95%E6%B1%82%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E4%BB%A3%E6%95%B0%E6%B3%95%E6%B1%82%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87.md)",
+      "x": 340,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "58bf48be2eb4197e",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "230cec08706f9951",
+      "type": "text",
+      "text": "[题型 1: 根据圆与圆位置关系求参](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E6%A0%B9%E6%8D%AE%E5%9C%86%E4%B8%8E%E5%9C%86%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E6%B1%82%E5%8F%82/%E9%A2%98%E5%9E%8B%201_%20%E6%A0%B9%E6%8D%AE%E5%9C%86%E4%B8%8E%E5%9C%86%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%E6%B1%82%E5%8F%82.md)",
+      "x": 1020,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "191c33b93670aa6b",
+      "type": "text",
+      "text": "[题型 2:两圆相切有关的问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%E4%B8%A4%E5%9C%86%E7%9B%B8%E5%88%87%E6%9C%89%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%202_%E4%B8%A4%E5%9C%86%E7%9B%B8%E5%88%87%E6%9C%89%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a832995e69b777fb",
+      "type": "text",
+      "text": "[题型 3:两圆的公切线问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%E4%B8%A4%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%203_%E4%B8%A4%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E9%97%AE%E9%A2%98.md)",
+      "x": 1700,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "373c08db6513b269",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:判断圆的公切线条数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%E4%B8%A4%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%88%A4%E6%96%AD%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E6%9D%A1%E6%95%B0/%24_triangleright%24%20%E8%A7%92%E5%BA%A61_%E5%88%A4%E6%96%AD%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E6%9D%A1%E6%95%B0.md)",
+      "x": 0,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "4b56d7612ce082f6",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:求圆的公切线方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%E4%B8%A4%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E6%B1%82%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B/%24_triangleright%24%20%E8%A7%92%E5%BA%A62_%E6%B1%82%E5%9C%86%E7%9A%84%E5%85%AC%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 340,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "91972a8f3af33f16",
+      "type": "text",
+      "text": "[题型5:圆的公共弦问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B5_%E5%9C%86%E7%9A%84%E5%85%AC%E5%85%B1%E5%BC%A6%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B5_%E5%9C%86%E7%9A%84%E5%85%AC%E5%85%B1%E5%BC%A6%E9%97%AE%E9%A2%98.md)",
+      "x": 680,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7f4b41cc74f98e07",
+      "type": "text",
+      "text": "[题型 6: 圆的切点弦问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B8%83%E8%8A%82%20%E5%9C%86%E4%B8%8E%E5%9C%86%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%206_%20%E5%9C%86%E7%9A%84%E5%88%87%E7%82%B9%E5%BC%A6%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%206_%20%E5%9C%86%E7%9A%84%E5%88%87%E7%82%B9%E5%BC%A6%E9%97%AE%E9%A2%98.md)",
+      "x": 1020,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9c65071728d1fc4d",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1360,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "e4f86dc37f2578e7",
+      "type": "text",
+      "text": "[1. 曲线的方程与方程的曲线](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E6%9B%B2%E7%BA%BF/1.%20%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E6%9B%B2%E7%BA%BF.md)",
+      "x": 1700,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "9a098b1623a1c2f6",
+      "type": "text",
+      "text": "[2. 两曲线的交点](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E4%B8%A4%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9/2.%20%E4%B8%A4%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9.md)",
+      "x": 0,
+      "y": 3850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "9387c4dabcb7b5e3",
+      "type": "text",
+      "text": "[3.点的轨迹方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%E7%82%B9%E7%9A%84%E8%BD%A8%E8%BF%B9%E6%96%B9%E7%A8%8B/3.%E7%82%B9%E7%9A%84%E8%BD%A8%E8%BF%B9%E6%96%B9%E7%A8%8B.md)",
+      "x": 340,
+      "y": 3850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "c6e898b98c57b113",
+      "type": "text",
+      "text": "[4.轨迹方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%E8%BD%A8%E8%BF%B9%E6%96%B9%E7%A8%8B/4.%E8%BD%A8%E8%BF%B9%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 3850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "8f6675d862eef325",
+      "type": "text",
+      "text": "[5. 求动点轨迹方程常见的方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5.%20%E6%B1%82%E5%8A%A8%E7%82%B9%E8%BD%A8%E8%BF%B9%E6%96%B9%E7%A8%8B%E5%B8%B8%E8%A7%81%E7%9A%84%E6%96%B9%E6%B3%95/5.%20%E6%B1%82%E5%8A%A8%E7%82%B9%E8%BD%A8%E8%BF%B9%E6%96%B9%E7%A8%8B%E5%B8%B8%E8%A7%81%E7%9A%84%E6%96%B9%E6%B3%95.md)",
+      "x": 1020,
+      "y": 3850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d203b9d58992da95",
+      "type": "text",
+      "text": "[(1) 直接法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%281%29%20%E7%9B%B4%E6%8E%A5%E6%B3%95/%281%29%20%E7%9B%B4%E6%8E%A5%E6%B3%95.md)",
+      "x": 1360,
+      "y": 3850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d4ddb216c6626545",
+      "type": "text",
+      "text": "[(2) 定义法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%282%29%20%E5%AE%9A%E4%B9%89%E6%B3%95/%282%29%20%E5%AE%9A%E4%B9%89%E6%B3%95.md)",
+      "x": 1700,
+      "y": 3850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0dfaca585e9903a1",
+      "type": "text",
+      "text": "[(3) 代入法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%283%29%20%E4%BB%A3%E5%85%A5%E6%B3%95/%283%29%20%E4%BB%A3%E5%85%A5%E6%B3%95.md)",
+      "x": 0,
+      "y": 4000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e3fb92d00a8f7d5a",
+      "type": "text",
+      "text": "[（4）参数法（椭圆，双曲线，抛物线部分再做研究）](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%EF%BC%884%EF%BC%89%E5%8F%82%E6%95%B0%E6%B3%95%EF%BC%88%E6%A4%AD%E5%9C%86%EF%BC%8C%E5%8F%8C%E6%9B%B2%E7%BA%BF%EF%BC%8C%E6%8A%9B%E7%89%A9%E7%BA%BF%E9%83%A8%E5%88%86%E5%86%8D%E5%81%9A%E7%A0%94%E7%A9%B6%EF%BC%89/%EF%BC%884%EF%BC%89%E5%8F%82%E6%95%B0%E6%B3%95%EF%BC%88%E6%A4%AD%E5%9C%86%EF%BC%8C%E5%8F%8C%E6%9B%B2%E7%BA%BF%EF%BC%8C%E6%8A%9B%E7%89%A9%E7%BA%BF%E9%83%A8%E5%88%86%E5%86%8D%E5%81%9A%E7%A0%94%E7%A9%B6%EF%BC%89.md)",
+      "x": 340,
+      "y": 4000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "bcfd6a8531bf7635",
+      "type": "text",
+      "text": "[（5）交轨法（椭圆，双曲线，抛物线部分再做研究）](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%EF%BC%885%EF%BC%89%E4%BA%A4%E8%BD%A8%E6%B3%95%EF%BC%88%E6%A4%AD%E5%9C%86%EF%BC%8C%E5%8F%8C%E6%9B%B2%E7%BA%BF%EF%BC%8C%E6%8A%9B%E7%89%A9%E7%BA%BF%E9%83%A8%E5%88%86%E5%86%8D%E5%81%9A%E7%A0%94%E7%A9%B6%EF%BC%89/%EF%BC%885%EF%BC%89%E4%BA%A4%E8%BD%A8%E6%B3%95%EF%BC%88%E6%A4%AD%E5%9C%86%EF%BC%8C%E5%8F%8C%E6%9B%B2%E7%BA%BF%EF%BC%8C%E6%8A%9B%E7%89%A9%E7%BA%BF%E9%83%A8%E5%88%86%E5%86%8D%E5%81%9A%E7%A0%94%E7%A9%B6%EF%BC%89.md)",
+      "x": 680,
+      "y": 4000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "dd323930479f9e60",
+      "type": "text",
+      "text": "[▶ ▷ 重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1020,
+      "y": 4000,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "7457da9d40461f2a",
+      "type": "text",
+      "text": "[题型 1: 曲线与方程的概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%201_%20%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5/%E9%A2%98%E5%9E%8B%201_%20%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "x": 1360,
+      "y": 4000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "47e68db1d347f098",
+      "type": "text",
+      "text": "[题型 2:由方程研究曲线的类型与性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%E7%94%B1%E6%96%B9%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%B1%BB%E5%9E%8B%E4%B8%8E%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B%202_%E7%94%B1%E6%96%B9%E7%A8%8B%E7%A0%94%E7%A9%B6%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%B1%BB%E5%9E%8B%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "x": 1700,
+      "y": 4000,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a30347e7d28d3047",
+      "type": "text",
+      "text": "[题型 3: 曲线的交点问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%20%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%203_%20%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 4150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "4ac50d8711eb41d0",
+      "type": "text",
+      "text": "[题型 4: 轨迹问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%204_%20%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B%204_%20%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98.md)",
+      "x": 340,
+      "y": 4150,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "912d8b64e3effa02",
+      "type": "text",
+      "text": "[$\\triangleright$ 方法1:定义法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%85%AB%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E5%9C%86%E7%9A%84%E8%BD%A8%E8%BF%B9%E4%B8%8E%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B/%E2%96%B6%20%E2%96%B7%20%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%204_%20%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/%24_triangleright%24%20%E6%96%B9%E6%B3%951_%E5%AE%9A%E4%B9%89%E6%B3%95/%24_triangleright%24%20%E6%96%B9%E6%B3%951_%E5%AE%9A%E4%B9%89%E6%B3%95.md)",
+      "x": 680,
+      "y": 4150,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "fc318302832b9c1f",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1020,
+      "y": 4150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "aea0de9c02ea8fae",
+      "type": "text",
+      "text": "[1. 通过圆的方程确定隐形圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%BD%A2%E5%9C%86/1.%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%BD%A2%E5%9C%86.md)",
+      "x": 1360,
+      "y": 4150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "4f2751faf99b08f6",
+      "type": "text",
+      "text": "[2. 通过圆的定义确定隐形圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%BD%A2%E5%9C%86/2.%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%BD%A2%E5%9C%86.md)",
+      "x": 1700,
+      "y": 4150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ac2c80776769dafc",
+      "type": "text",
+      "text": "[3. 通过圆的性质确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3.%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E6%80%A7%E8%B4%A8%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/3.%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E6%80%A7%E8%B4%A8%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 0,
+      "y": 4300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "494b9c3b16b0dc33",
+      "type": "text",
+      "text": "[4. 通过距离成比例（阿波罗尼斯圆）确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4.%20%E9%80%9A%E8%BF%87%E8%B7%9D%E7%A6%BB%E6%88%90%E6%AF%94%E4%BE%8B%EF%BC%88%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86%EF%BC%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/4.%20%E9%80%9A%E8%BF%87%E8%B7%9D%E7%A6%BB%E6%88%90%E6%AF%94%E4%BE%8B%EF%BC%88%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86%EF%BC%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 340,
+      "y": 4300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5f34d5278303be52",
+      "type": "text",
+      "text": "[5. 通过数量积为定值确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5.%20%E9%80%9A%E8%BF%87%E6%95%B0%E9%87%8F%E7%A7%AF%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/5.%20%E9%80%9A%E8%BF%87%E6%95%B0%E9%87%8F%E7%A7%AF%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 680,
+      "y": 4300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "f1095a2ab80e3674",
+      "type": "text",
+      "text": "[6. 通过距离平方和为定值确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/6.%20%E9%80%9A%E8%BF%87%E8%B7%9D%E7%A6%BB%E5%B9%B3%E6%96%B9%E5%92%8C%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/6.%20%E9%80%9A%E8%BF%87%E8%B7%9D%E7%A6%BB%E5%B9%B3%E6%96%B9%E5%92%8C%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 1020,
+      "y": 4300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6635f7f9414d174f",
+      "type": "text",
+      "text": "[7. 对角互补和正弦定理确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/7.%20%E5%AF%B9%E8%A7%92%E4%BA%92%E8%A1%A5%E5%92%8C%E6%AD%A3%E5%BC%A6%E5%AE%9A%E7%90%86%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/7.%20%E5%AF%B9%E8%A7%92%E4%BA%92%E8%A1%A5%E5%92%8C%E6%AD%A3%E5%BC%A6%E5%AE%9A%E7%90%86%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 1360,
+      "y": 4300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "4723eac257458c90",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1700,
+      "y": 4300,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "f940095523331ffa",
+      "type": "text",
+      "text": "[题型1:利用圆的方程确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B1_%E5%88%A9%E7%94%A8%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B1_%E5%88%A9%E7%94%A8%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 0,
+      "y": 4450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "bf494e695b4310d7",
+      "type": "text",
+      "text": "[题型 2: 通过圆的定义确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%202_%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B%202_%20%E9%80%9A%E8%BF%87%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 340,
+      "y": 4450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "4ce96c69d37b6ab7",
+      "type": "text",
+      "text": "[题型 3: 利用圆的性质确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E5%9C%86%E7%9A%84%E6%80%A7%E8%B4%A8%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B%203_%20%E5%88%A9%E7%94%A8%E5%9C%86%E7%9A%84%E6%80%A7%E8%B4%A8%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 680,
+      "y": 4450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "84af748be0a80192",
+      "type": "text",
+      "text": "[题型 4: 根据距离成比例（阿波罗尼斯圆）确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%204_%20%E6%A0%B9%E6%8D%AE%E8%B7%9D%E7%A6%BB%E6%88%90%E6%AF%94%E4%BE%8B%EF%BC%88%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86%EF%BC%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B%204_%20%E6%A0%B9%E6%8D%AE%E8%B7%9D%E7%A6%BB%E6%88%90%E6%AF%94%E4%BE%8B%EF%BC%88%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86%EF%BC%89%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 1020,
+      "y": 4450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5689a2f9fdd8fd66",
+      "type": "text",
+      "text": "[题型5:利用数量积为定值确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B5_%E5%88%A9%E7%94%A8%E6%95%B0%E9%87%8F%E7%A7%AF%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B5_%E5%88%A9%E7%94%A8%E6%95%B0%E9%87%8F%E7%A7%AF%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 1360,
+      "y": 4450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "e6642f8821511f9d",
+      "type": "text",
+      "text": "[题型 6: 利用平方和为定值确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%206_%20%E5%88%A9%E7%94%A8%E5%B9%B3%E6%96%B9%E5%92%8C%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B%206_%20%E5%88%A9%E7%94%A8%E5%B9%B3%E6%96%B9%E5%92%8C%E4%B8%BA%E5%AE%9A%E5%80%BC%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 1700,
+      "y": 4450,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c7a15e29f91f6750",
+      "type": "text",
+      "text": "[题型 7: 对角互补和正弦定理确定隐圆](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E4%B9%9D%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E9%9A%90%E5%9C%86%E9%97%AE%E9%A2%98/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B%207_%20%E5%AF%B9%E8%A7%92%E4%BA%92%E8%A1%A5%E5%92%8C%E6%AD%A3%E5%BC%A6%E5%AE%9A%E7%90%86%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86/%E9%A2%98%E5%9E%8B%207_%20%E5%AF%B9%E8%A7%92%E4%BA%92%E8%A1%A5%E5%92%8C%E6%AD%A3%E5%BC%A6%E5%AE%9A%E7%90%86%E7%A1%AE%E5%AE%9A%E9%9A%90%E5%9C%86.md)",
+      "x": 0,
+      "y": 4600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5cf6dc9834024b46",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E8%81%94%E7%AB%8B%E2%80%94%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 340,
+      "y": 4600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "759b6c91aaaa8564",
+      "type": "text",
+      "text": "[1. 韦达定理法与设而不求思想](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E8%81%94%E7%AB%8B%E2%80%94%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1.%20%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E6%B3%95%E4%B8%8E%E8%AE%BE%E8%80%8C%E4%B8%8D%E6%B1%82%E6%80%9D%E6%83%B3/1.%20%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E6%B3%95%E4%B8%8E%E8%AE%BE%E8%80%8C%E4%B8%8D%E6%B1%82%E6%80%9D%E6%83%B3.md)",
+      "x": 680,
+      "y": 4600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "cceffff67e0b6ba8",
+      "type": "text",
+      "text": "[2. 基本步骤:](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E8%81%94%E7%AB%8B%E2%80%94%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2.%20%E5%9F%BA%E6%9C%AC%E6%AD%A5%E9%AA%A4_/2.%20%E5%9F%BA%E6%9C%AC%E6%AD%A5%E9%AA%A4_.md)",
+      "x": 1020,
+      "y": 4600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "aa1d9b4be2d6b12f",
+      "type": "text",
+      "text": "[题型 1: 直线与圆的综合应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86/%E7%AC%AC%E5%8D%81%E8%8A%82%20%E4%B8%93%E9%A2%98%3A%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E8%81%94%E7%AB%8B%E2%80%94%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B%201_%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 4600,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "ff2f89c175d2d628",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "8eafa50580382893"
+    },
+    {
+      "id": "959c7465c066853a",
+      "fromNode": "8eafa50580382893",
+      "toNode": "58958f161c4e56e5"
+    },
+    {
+      "id": "ad86016d7096276a",
+      "fromNode": "8eafa50580382893",
+      "toNode": "ce7b668a9dd36e21"
+    },
+    {
+      "id": "e6c87f8ad507c29f",
+      "fromNode": "8eafa50580382893",
+      "toNode": "a10adae469ca1d41"
+    },
+    {
+      "id": "000e87084e8464fc",
+      "fromNode": "8eafa50580382893",
+      "toNode": "5c2350938104f4e8"
+    },
+    {
+      "id": "b68048e08f398c04",
+      "fromNode": "8eafa50580382893",
+      "toNode": "b0c7eeccb8f9f69f"
+    },
+    {
+      "id": "452b29bd180500b4",
+      "fromNode": "8eafa50580382893",
+      "toNode": "d3682887322cbd0d"
+    },
+    {
+      "id": "5d0cb88bab4f374f",
+      "fromNode": "8eafa50580382893",
+      "toNode": "70fa1ca4b6fa4826"
+    },
+    {
+      "id": "ebe370e7979d419b",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "c95e6b7be8291a0e"
+    },
+    {
+      "id": "1237a30cfc877c38",
+      "fromNode": "c95e6b7be8291a0e",
+      "toNode": "efd792f299ca1f49"
+    },
+    {
+      "id": "2f0a26e7fc801739",
+      "fromNode": "c95e6b7be8291a0e",
+      "toNode": "2da82ca4f912c82d"
+    },
+    {
+      "id": "5d4837e50cd8e867",
+      "fromNode": "2da82ca4f912c82d",
+      "toNode": "ef6f08020c92a1fe"
+    },
+    {
+      "id": "1d3f2293f806f2e1",
+      "fromNode": "2da82ca4f912c82d",
+      "toNode": "aeecfead79d7273d"
+    },
+    {
+      "id": "626a855ed0f5e90c",
+      "fromNode": "c95e6b7be8291a0e",
+      "toNode": "3fc28323ddd201ec"
+    },
+    {
+      "id": "2e8c87a76ea1d3d4",
+      "fromNode": "c95e6b7be8291a0e",
+      "toNode": "eef11e7e73a3ed06"
+    },
+    {
+      "id": "e261a7707e153ecd",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "bb2804b34be51ebc"
+    },
+    {
+      "id": "e6e8ce4de8b1e3e2",
+      "fromNode": "bb2804b34be51ebc",
+      "toNode": "cc67656a1eea5657"
+    },
+    {
+      "id": "c8c8ee8b7473ff2e",
+      "fromNode": "bb2804b34be51ebc",
+      "toNode": "660bbbadb0a4abbe"
+    },
+    {
+      "id": "fa8d0408a9babc12",
+      "fromNode": "bb2804b34be51ebc",
+      "toNode": "72203f3195cac7dd"
+    },
+    {
+      "id": "40d7ea8add634a4e",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "331e900067095194"
+    },
+    {
+      "id": "2ec191dd1db27683",
+      "fromNode": "331e900067095194",
+      "toNode": "0b2380187ba47637"
+    },
+    {
+      "id": "e2b08e5ccc2dfd28",
+      "fromNode": "331e900067095194",
+      "toNode": "a1140472475a1894"
+    },
+    {
+      "id": "4504ce922894b03c",
+      "fromNode": "331e900067095194",
+      "toNode": "479e2620b65362bf"
+    },
+    {
+      "id": "c9112b5be53b61b9",
+      "fromNode": "331e900067095194",
+      "toNode": "0663851bc7a2af81"
+    },
+    {
+      "id": "700543e625244c38",
+      "fromNode": "331e900067095194",
+      "toNode": "da060f2ea5b9be0d"
+    },
+    {
+      "id": "da7704f7d9ca3905",
+      "fromNode": "331e900067095194",
+      "toNode": "1a972fcad9f0a662"
+    },
+    {
+      "id": "1555fbcc6cbc2224",
+      "fromNode": "331e900067095194",
+      "toNode": "1fba280efc4475b5"
+    },
+    {
+      "id": "78a10c02f65e5578",
+      "fromNode": "331e900067095194",
+      "toNode": "fcda3b4f00cf6b6a"
+    },
+    {
+      "id": "367c389b44ad3c9e",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "24d3b96a8695673b"
+    },
+    {
+      "id": "50beccad23e660b5",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "6b216c136db58b2e"
+    },
+    {
+      "id": "15b1343b9fae3af1",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "f7465fd62ab206bc"
+    },
+    {
+      "id": "b26b62a5aa3ce0d7",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "63bc721a0eff768b"
+    },
+    {
+      "id": "d1b9b48bce8406a2",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "891d467c3396fc91"
+    },
+    {
+      "id": "5d919e6855137563",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "d722681ce77d5a89"
+    },
+    {
+      "id": "9e5ac40cd4d0ffde",
+      "fromNode": "d722681ce77d5a89",
+      "toNode": "4145c450ea07b099"
+    },
+    {
+      "id": "311c51646de71d78",
+      "fromNode": "d722681ce77d5a89",
+      "toNode": "dfbfbbd84515b002"
+    },
+    {
+      "id": "082ad55b5df76f2c",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "78abeca531eb32b3"
+    },
+    {
+      "id": "47dcc5d797379ed0",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "d460d243da0b2272"
+    },
+    {
+      "id": "acdb8feb2cad20a7",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "b34df7d5967adbcf"
+    },
+    {
+      "id": "5979141771beeb9c",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "6fc90685723ebd36"
+    },
+    {
+      "id": "bb7653747cc75895",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "f08b3796f91e93f2"
+    },
+    {
+      "id": "537ac66dda60530e",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "20e047b236c6be34"
+    },
+    {
+      "id": "34c30fe9a991e4a2",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "394e1a062ea504af"
+    },
+    {
+      "id": "eceefe0c1de00133",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "6291c429c8890f6b"
+    },
+    {
+      "id": "9af2e06ef70ced42",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "855bc63b431bd837"
+    },
+    {
+      "id": "e78c291a9410293a",
+      "fromNode": "855bc63b431bd837",
+      "toNode": "2e8a4fa464b64d05"
+    },
+    {
+      "id": "ea284c961cb658a3",
+      "fromNode": "855bc63b431bd837",
+      "toNode": "7fca65f1861c4973"
+    },
+    {
+      "id": "549862dccd6724a5",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "2162b44b4795cc60"
+    },
+    {
+      "id": "7baf658b7f72172a",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "5afb83f71b8a57c6"
+    },
+    {
+      "id": "e9d574797f8fd0ac",
+      "fromNode": "5afb83f71b8a57c6",
+      "toNode": "1a3df88c3b2825e8"
+    },
+    {
+      "id": "fe40b45968d10fb9",
+      "fromNode": "5afb83f71b8a57c6",
+      "toNode": "21bacb2dc8bef5a4"
+    },
+    {
+      "id": "53376c2650ba6ab0",
+      "fromNode": "5afb83f71b8a57c6",
+      "toNode": "e2ce66208870d104"
+    },
+    {
+      "id": "20d36256522bb78e",
+      "fromNode": "5afb83f71b8a57c6",
+      "toNode": "613d62f05f8b2854"
+    },
+    {
+      "id": "ec3c76d86a2d763d",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "0fac7521e7787c29"
+    },
+    {
+      "id": "abc2514f301c462f",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "8ceed1a3eaac053d"
+    },
+    {
+      "id": "7a7cfa68171f27d8",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "acaab4436d6d21aa"
+    },
+    {
+      "id": "fb8209962bb9026d",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "04c56aeb05560b0d"
+    },
+    {
+      "id": "ee9aa780e2d2064b",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "49dedf1786bc75e8"
+    },
+    {
+      "id": "0048acf7d4b8a850",
+      "fromNode": "49dedf1786bc75e8",
+      "toNode": "0042d7cc1e65142d"
+    },
+    {
+      "id": "625273e6e63e5cbd",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "d8d92c64b0394758"
+    },
+    {
+      "id": "e085d6a20207c368",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "674e5766698137b2"
+    },
+    {
+      "id": "b2814ef80901120e",
+      "fromNode": "674e5766698137b2",
+      "toNode": "804fb2eb1cb5879d"
+    },
+    {
+      "id": "2762120daa93a72d",
+      "fromNode": "674e5766698137b2",
+      "toNode": "ecbb038f34d6bd99"
+    },
+    {
+      "id": "1aae54ac47bc3455",
+      "fromNode": "674e5766698137b2",
+      "toNode": "2f06907ceb27ea08"
+    },
+    {
+      "id": "a0e79a64a4c39dec",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "916628e5e45d1191"
+    },
+    {
+      "id": "7c5b6b2ccb8ac4ee",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "397b75c5ee8457d7"
+    },
+    {
+      "id": "5af3745430a79ec4",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "59ded6e37023d7aa"
+    },
+    {
+      "id": "6fafb15a7b999caa",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "d8a9f06d34f590c8"
+    },
+    {
+      "id": "767fd83c2ac66d4b",
+      "fromNode": "d8a9f06d34f590c8",
+      "toNode": "bc928620eba2145a"
+    },
+    {
+      "id": "983eff79f167916c",
+      "fromNode": "d8a9f06d34f590c8",
+      "toNode": "e535fc4a6532dcee"
+    },
+    {
+      "id": "d8b1239dd3128ebc",
+      "fromNode": "e535fc4a6532dcee",
+      "toNode": "66c6ac07d412f6cd"
+    },
+    {
+      "id": "2cb4633457b8342d",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "c4a54dad53de9328"
+    },
+    {
+      "id": "c029dff15284f4b6",
+      "fromNode": "c4a54dad53de9328",
+      "toNode": "f35f463b73c0fe4a"
+    },
+    {
+      "id": "242dd304798ab4dc",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "2e1193063a0d677c"
+    },
+    {
+      "id": "aa417de93ba9d504",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "a166850203a32c0f"
+    },
+    {
+      "id": "7dfa192b5056c707",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "81a89abf16fbfa25"
+    },
+    {
+      "id": "f71a5960a3ce0cb7",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "66931e01dd307fa2"
+    },
+    {
+      "id": "ac8625052f2d3bf0",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "0cae5361a5a7638e"
+    },
+    {
+      "id": "4ca26a15d0c4f210",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "b9dcc096fb1793c2"
+    },
+    {
+      "id": "75b0f5528b57e408",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "6fd97b3807afd59b"
+    },
+    {
+      "id": "aa14b0714cf33a9f",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "25264e3e091b96bb"
+    },
+    {
+      "id": "5cbf4d96a5e50a75",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "d70d61c5ba7c5f6a"
+    },
+    {
+      "id": "b8738ed03ed48936",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "78173ec08d8abe4c"
+    },
+    {
+      "id": "546a209c0c0a2801",
+      "fromNode": "2e1193063a0d677c",
+      "toNode": "fca35d8e4d8fb271"
+    },
+    {
+      "id": "d9687329ee8bd016",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "d98e7765b0d4c660"
+    },
+    {
+      "id": "34ff1d651d97ecc1",
+      "fromNode": "d98e7765b0d4c660",
+      "toNode": "1fa5c62106520dea"
+    },
+    {
+      "id": "a4d951bddf4111be",
+      "fromNode": "d98e7765b0d4c660",
+      "toNode": "b7c8962aced9d2be"
+    },
+    {
+      "id": "bc53c0e6a146afa9",
+      "fromNode": "d98e7765b0d4c660",
+      "toNode": "691d221003fc68f4"
+    },
+    {
+      "id": "13719309f941c020",
+      "fromNode": "d98e7765b0d4c660",
+      "toNode": "1879de7805d6d4dc"
+    },
+    {
+      "id": "2c23cf640a51cdd0",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "5834cbc03e8be607"
+    },
+    {
+      "id": "61ad621ec6c6cecd",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "3ee8802837007653"
+    },
+    {
+      "id": "ba176ddef8bbb7ee",
+      "fromNode": "3ee8802837007653",
+      "toNode": "27d7186b022ed6f6"
+    },
+    {
+      "id": "434b1db75815b90b",
+      "fromNode": "3ee8802837007653",
+      "toNode": "2c3a423d751b00d4"
+    },
+    {
+      "id": "573dfeb7e06fd44a",
+      "fromNode": "3ee8802837007653",
+      "toNode": "caaf5c4371075004"
+    },
+    {
+      "id": "1ae370ddd0a91260",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "b6fc460d11d88115"
+    },
+    {
+      "id": "69bcdfc2cbe68e40",
+      "fromNode": "b6fc460d11d88115",
+      "toNode": "3d72753cb81d08ae"
+    },
+    {
+      "id": "14ca4c6a6c18951c",
+      "fromNode": "b6fc460d11d88115",
+      "toNode": "81799d139ed610ad"
+    },
+    {
+      "id": "04972db645da5a17",
+      "fromNode": "b6fc460d11d88115",
+      "toNode": "b7bc30c8bc5d5c59"
+    },
+    {
+      "id": "72cb416420cbdaa1",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "892a024515d91913"
+    },
+    {
+      "id": "e4158a50cc27f60c",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "cbeb1e1dc333d9be"
+    },
+    {
+      "id": "1f3866b47376686f",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "9356c93b86b3152f"
+    },
+    {
+      "id": "29db5291a71f15b2",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "2b6a2c5c6eb65e20"
+    },
+    {
+      "id": "01f0b45bc5f39024",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "a260a87abc6f061a"
+    },
+    {
+      "id": "36148a1b7ded40c6",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "764a05a5322f965d"
+    },
+    {
+      "id": "1b682f8b0e23da49",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "5a62d33a172f1d38"
+    },
+    {
+      "id": "5ed90bffef2a34d6",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "385cb022a20a88a0"
+    },
+    {
+      "id": "f1cbb1962e6c81be",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "e51b97e37e94a21b"
+    },
+    {
+      "id": "45d1d30f2ea68d1e",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "a209837ea509d0e4"
+    },
+    {
+      "id": "13d8039341da67d1",
+      "fromNode": "a209837ea509d0e4",
+      "toNode": "6b89750d1d160616"
+    },
+    {
+      "id": "13002510bfdfcaf6",
+      "fromNode": "a209837ea509d0e4",
+      "toNode": "d2ca0179f6f302e7"
+    },
+    {
+      "id": "1fa5b8787ff77f58",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "58bf48be2eb4197e"
+    },
+    {
+      "id": "d699bf797d2e658a",
+      "fromNode": "58bf48be2eb4197e",
+      "toNode": "230cec08706f9951"
+    },
+    {
+      "id": "78299b854a4a1f12",
+      "fromNode": "58bf48be2eb4197e",
+      "toNode": "191c33b93670aa6b"
+    },
+    {
+      "id": "c1d2b8e4117d69e8",
+      "fromNode": "58bf48be2eb4197e",
+      "toNode": "a832995e69b777fb"
+    },
+    {
+      "id": "0f091ccd7b9b4fa5",
+      "fromNode": "a832995e69b777fb",
+      "toNode": "373c08db6513b269"
+    },
+    {
+      "id": "4f09c1f9576df9dd",
+      "fromNode": "a832995e69b777fb",
+      "toNode": "4b56d7612ce082f6"
+    },
+    {
+      "id": "66bd40dd65e2fedf",
+      "fromNode": "58bf48be2eb4197e",
+      "toNode": "91972a8f3af33f16"
+    },
+    {
+      "id": "a35cc21ddb37cbff",
+      "fromNode": "58bf48be2eb4197e",
+      "toNode": "7f4b41cc74f98e07"
+    },
+    {
+      "id": "ee7f4cf0378d1baf",
+      "fromNode": "3f12fa1b31c4d187",
+      "toNode": "9c65071728d1fc4d"
+    },
+    {
+      "id": "847831cb60246196",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "e4f86dc37f2578e7"
+    },
+    {
+      "id": "b2738066fec5195c",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "9a098b1623a1c2f6"
+    },
+    {
+      "id": "cac4a41739b28f8c",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "9387c4dabcb7b5e3"
+    },
+    {
+      "id": "0289eca548f90e07",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "c6e898b98c57b113"
+    },
+    {
+      "id": "0cd029a4089a542a",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "8f6675d862eef325"
+    },
+    {
+      "id": "521f6462651a191a",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "d203b9d58992da95"
+    },
+    {
+      "id": "36b73ff2f9ff2ccf",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "d4ddb216c6626545"
+    },
+    {
+      "id": "ed4d62bdb83e5a75",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "0dfaca585e9903a1"
+    },
+    {
+      "id": "ce6bcb0537a08d93",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "e3fb92d00a8f7d5a"
+    },
+    {
+      "id": "b831b35543022938",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "bcfd6a8531bf7635"
+    },
+    {
+      "id": "ec211bd2196ce52a",
+      "fromNode": "3f12fa1b31c4d187",
+      "toNode": "dd323930479f9e60"
+    },
+    {
+      "id": "1aee6c88e5ca6df4",
+      "fromNode": "dd323930479f9e60",
+      "toNode": "7457da9d40461f2a"
+    },
+    {
+      "id": "98e3463ca19213d4",
+      "fromNode": "dd323930479f9e60",
+      "toNode": "47e68db1d347f098"
+    },
+    {
+      "id": "f2a2dcf914b2470e",
+      "fromNode": "dd323930479f9e60",
+      "toNode": "a30347e7d28d3047"
+    },
+    {
+      "id": "da4124ff0402a913",
+      "fromNode": "dd323930479f9e60",
+      "toNode": "4ac50d8711eb41d0"
+    },
+    {
+      "id": "c94ec9527527a15a",
+      "fromNode": "4ac50d8711eb41d0",
+      "toNode": "912d8b64e3effa02"
+    },
+    {
+      "id": "14ccf2be5edd3f63",
+      "fromNode": "8328a2e866dab301",
+      "toNode": "fc318302832b9c1f"
+    },
+    {
+      "id": "2eb35341740aa10c",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "aea0de9c02ea8fae"
+    },
+    {
+      "id": "2554a86b8c4c6bf1",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "4f2751faf99b08f6"
+    },
+    {
+      "id": "ac320a5f080ed276",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "ac2c80776769dafc"
+    },
+    {
+      "id": "67182d9d337b40ca",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "494b9c3b16b0dc33"
+    },
+    {
+      "id": "60f3e20342ea92d8",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "5f34d5278303be52"
+    },
+    {
+      "id": "ab5dc2bff08ec387",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "f1095a2ab80e3674"
+    },
+    {
+      "id": "e0b89796484a0a27",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "6635f7f9414d174f"
+    },
+    {
+      "id": "86c4c1162bbc3476",
+      "fromNode": "8328a2e866dab301",
+      "toNode": "4723eac257458c90"
+    },
+    {
+      "id": "4afba39eb198d71e",
+      "fromNode": "4723eac257458c90",
+      "toNode": "f940095523331ffa"
+    },
+    {
+      "id": "f7f5658b7c011bf9",
+      "fromNode": "4723eac257458c90",
+      "toNode": "bf494e695b4310d7"
+    },
+    {
+      "id": "3aba45975fed706e",
+      "fromNode": "4723eac257458c90",
+      "toNode": "4ce96c69d37b6ab7"
+    },
+    {
+      "id": "9d33f0fd9bf8dabd",
+      "fromNode": "4723eac257458c90",
+      "toNode": "84af748be0a80192"
+    },
+    {
+      "id": "4c6f12a7e385910f",
+      "fromNode": "4723eac257458c90",
+      "toNode": "5689a2f9fdd8fd66"
+    },
+    {
+      "id": "3ee08a69efcba3f5",
+      "fromNode": "4723eac257458c90",
+      "toNode": "e6642f8821511f9d"
+    },
+    {
+      "id": "d276d3ba4f57f2fc",
+      "fromNode": "4723eac257458c90",
+      "toNode": "c7a15e29f91f6750"
+    },
+    {
+      "id": "21723863cf8c5433",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "5cf6dc9834024b46"
+    },
+    {
+      "id": "8cbf56db3f5e5800",
+      "fromNode": "5cf6dc9834024b46",
+      "toNode": "759b6c91aaaa8564"
+    },
+    {
+      "id": "a845eac949b4e29b",
+      "fromNode": "5cf6dc9834024b46",
+      "toNode": "cceffff67e0b6ba8"
+    },
+    {
+      "id": "be4c3c35b85f79ea",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "aa1d9b4be2d6b12f"
+    }
+  ]
+}
