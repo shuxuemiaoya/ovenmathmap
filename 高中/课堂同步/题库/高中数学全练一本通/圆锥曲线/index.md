@@ -65,64 +65,64 @@
 
 <<练基础>>
 
-「夸克优质数学资源交流群2」长按识别二维码加入群聊
+「夸克优质数学资源交流群2」长按识别二维码加入群聊  
 群号：1974692110
 
 ## 更多配套学习资源获取方法
 
-![](images/questions/7c546fd24004810e4a0f38bc3bfdc31f01ca4dbe7686d4266a962500bebc494e.jpg)
+![](images/questions/7c546fd24004810e4a0f38bc3bfdc31f01ca4dbe7686d4266a962500bebc494e.jpg)  
 资料分享大师
 
-![](images/questions/55e7009bd5f58d7c0b9a00b25b2860fdce57e1a032a93362e223a9317a90da6e.jpg)
+![](images/questions/55e7009bd5f58d7c0b9a00b25b2860fdce57e1a032a93362e223a9317a90da6e.jpg)  
 防丢失码
 
-![](images/questions/1b070371fba94e7c88df73a71de5c8f875fbe4435cfe413cede8e14e5c9970dd.jpg)
-更多资料免费 QQ 群
+![](images/questions/1b070371fba94e7c88df73a71de5c8f875fbe4435cfe413cede8e14e5c9970dd.jpg)  
+更多资料免费 QQ 群  
 来自：夸克网盘
 来自满足的向日葵的群邀请
 
-![](images/questions/dd345fa65aad9d2bcec6469e8e93b274ced1be8d834926434b309dc35320421f.jpg)
-「夸克优质数学资源交流群」长按识别二维码加入群聊
-群号：814155432
-夸克网盘
-来自：夸克网盘来自满足的向日葵的群邀请
-夸克网盘
+![](images/questions/dd345fa65aad9d2bcec6469e8e93b274ced1be8d834926434b309dc35320421f.jpg)  
+「夸克优质数学资源交流群」长按识别二维码加入群聊  
+群号：814155432  
+夸克网盘  
+来自：夸克网盘来自满足的向日葵的群邀请  
+夸克网盘  
 夸克网盘资料分享群，1群已经满了，可以加2群
 
 群聊：小初高精品资料群2
 
-![](images/questions/f142bf45d2321fb76613660def8bf52aa0fa7ffac0caaae10a8a3f588cb94859.jpg)
-该二维码7天内(12月19日前)有效，重新进入将更新
+![](images/questions/f142bf45d2321fb76613660def8bf52aa0fa7ffac0caaae10a8a3f588cb94859.jpg)  
+该二维码7天内(12月19日前)有效，重新进入将更新  
 临时微信群
 
-「夸克优质数学资源交流群2」长按识别二维码加入群聊
+「夸克优质数学资源交流群2」长按识别二维码加入群聊  
 群号：1974692110
 
 ## 更多配套学习资源获取方法
 
-![](images/questions/5ae9627cf87b4d1491d7ea21710005c90aacf0fa135743bc81fdc9c7e27ed9ee.jpg)
+![](images/questions/5ae9627cf87b4d1491d7ea21710005c90aacf0fa135743bc81fdc9c7e27ed9ee.jpg)  
 资料分享大师
 
-![](images/questions/8570f6dab851425503c3bb3ae8575d0bebfbe823fcc505225083876c1ae024a7.jpg)
+![](images/questions/8570f6dab851425503c3bb3ae8575d0bebfbe823fcc505225083876c1ae024a7.jpg)  
 防丢失码
 
-![](images/questions/54e1985cff99abd472297a5914f5d631989e1fac29d01430bdc97cbfac05f545.jpg)
-更多资料免费 QQ 群
+![](images/questions/54e1985cff99abd472297a5914f5d631989e1fac29d01430bdc97cbfac05f545.jpg)  
+更多资料免费 QQ 群  
 来自: 夸克网盘
 来自满足的向日葵的群邀请
 
-![](images/questions/27423c8906d9227dced505e63dc9cc7e951da19b8bdfedce7a8b5c2780052836.jpg)
-「夸克优质数学资源交流群」长按识别二维码加入群聊
-群号：814155432
-夸克网盘
-来自：夸克网盘来自满足的向日葵的群邀请
-夸克网盘
+![](images/questions/27423c8906d9227dced505e63dc9cc7e951da19b8bdfedce7a8b5c2780052836.jpg)  
+「夸克优质数学资源交流群」长按识别二维码加入群聊  
+群号：814155432  
+夸克网盘  
+来自：夸克网盘来自满足的向日葵的群邀请  
+夸克网盘  
 夸克网盘资料分享群，1群已经满了，可以加2群
 
 群聊：小初高精品资料群2
 
-![](images/questions/12ae99199078c72b46ff94fd344f4481c4600ba1db2c51609d0615b8bb235dc2.jpg)
-该二维码7天内(12月19日前)有效，重新进入将更新
+![](images/questions/12ae99199078c72b46ff94fd344f4481c4600ba1db2c51609d0615b8bb235dc2.jpg)  
+该二维码7天内(12月19日前)有效，重新进入将更新  
 临时微信群
 
 【基础点1】双曲线的简单几何性质....37
