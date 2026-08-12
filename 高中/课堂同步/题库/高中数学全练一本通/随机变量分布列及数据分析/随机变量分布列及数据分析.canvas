@@ -1,0 +1,1922 @@
+{
+  "nodes": [
+    {
+      "id": "27b3ae162c718be7",
+      "type": "group",
+      "label": "第一节 条件概率与全概率公式",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "4004603f57d2fddd",
+      "type": "group",
+      "label": "第二节 离散型随机变量及其分布列",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8e3d73d800bd4027",
+      "type": "group",
+      "label": "第三节 离散型随机变量的均值与方差",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "4c413ce85eed3944",
+      "type": "group",
+      "label": "第四节 二项分布与超几何分布",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "883e4abdccf74540",
+      "type": "group",
+      "label": "第五节 正态分布",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0803412a25188b2d",
+      "type": "group",
+      "label": "第八章",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "7e0749ab76a50f8e",
+      "type": "group",
+      "label": "第一节 成对数据的统计相关性",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "3f12fa1b31c4d187",
+      "type": "group",
+      "label": "第二节 一元线性回归模型及其应用",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8328a2e866dab301",
+      "type": "group",
+      "label": "第三节 列联表与独立性检验",
+      "role": "hierarchy",
+      "x": 15200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c9844758c79c6671",
+      "type": "group",
+      "label": "第四节 专题: 概率的递推—马尔科夫链问题",
+      "role": "hierarchy",
+      "x": 17100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "db8e8863e933c81f",
+      "type": "group",
+      "label": "第五节 专题:概率综合大题专练",
+      "role": "hierarchy",
+      "x": 19000,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8eafa50580382893",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 0,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "58958f161c4e56e5",
+      "type": "text",
+      "text": "[一. 条件概率及其性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%80__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/%E4%B8%80__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.md)",
+      "x": 340,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ce7b668a9dd36e21",
+      "type": "text",
+      "text": "[1. 条件概率的定义](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E5%AE%9A%E4%B9%89/1__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "x": 680,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a10adae469ca1d41",
+      "type": "text",
+      "text": "[2. 古典概型下的条件概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E5%8F%A4%E5%85%B8%E6%A6%82%E5%9E%8B%E4%B8%8B%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/2__%E5%8F%A4%E5%85%B8%E6%A6%82%E5%9E%8B%E4%B8%8B%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "x": 1020,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5c2350938104f4e8",
+      "type": "text",
+      "text": "[2. 事件相互独立的充要条件](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E4%BA%8B%E4%BB%B6%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E7%9A%84%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6/2__%E4%BA%8B%E4%BB%B6%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E7%9A%84%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "x": 1360,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b0c7eeccb8f9f69f",
+      "type": "text",
+      "text": "[3. 概率的乘法公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E6%A6%82%E7%8E%87%E7%9A%84%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F/3__%E6%A6%82%E7%8E%87%E7%9A%84%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F.md)",
+      "x": 1700,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d3682887322cbd0d",
+      "type": "text",
+      "text": "[4. 条件概率的性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%80%A7%E8%B4%A8/4__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 0,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "70fa1ca4b6fa4826",
+      "type": "text",
+      "text": "[二. 全概率公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%BA%8C__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E4%BA%8C__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 340,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "c95e6b7be8291a0e",
+      "type": "text",
+      "text": "[1. 全概率公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/1__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 680,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "efd792f299ca1f49",
+      "type": "text",
+      "text": "[2. 全概率公式的意义](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E7%9A%84%E6%84%8F%E4%B9%89/2__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E7%9A%84%E6%84%8F%E4%B9%89.md)",
+      "x": 1020,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2da82ca4f912c82d",
+      "type": "text",
+      "text": "[3. 贝叶斯公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F/3__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F.md)",
+      "x": 1360,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ef6f08020c92a1fe",
+      "type": "text",
+      "text": "[4. 贝叶斯公式的理解](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3/4__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3.md)",
+      "x": 1700,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "aeecfead79d7273d",
+      "type": "text",
+      "text": "[5. 贝叶斯公式与全概率公式的区别](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB/5__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E7%9A%84%E5%8C%BA%E5%88%AB.md)",
+      "x": 0,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "3fc28323ddd201ec",
+      "type": "text",
+      "text": "[▶▶ 核心基础达标 ◀◀](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/___%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87___/___%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87___.md)",
+      "x": 340,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "eef11e7e73a3ed06",
+      "type": "text",
+      "text": "[▶基础点 1: 条件概率公式的理解](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/___%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87___/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3.md)",
+      "x": 680,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "bb2804b34be51ebc",
+      "type": "text",
+      "text": "[▶基础点 2: 条件概率计算方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/___%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87___/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95.md)",
+      "x": 1020,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "cc67656a1eea5657",
+      "type": "text",
+      "text": "[▶基础点 3:乘法公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/___%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87___/_%E5%9F%BA%E7%A1%80%E7%82%B9_3_%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F/_%E5%9F%BA%E7%A1%80%E7%82%B9_3_%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F.md)",
+      "x": 1360,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "660bbbadb0a4abbe",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1700,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "72203f3195cac7dd",
+      "type": "text",
+      "text": "[题型 1: 求事件的条件概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_1__%E6%B1%82%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/%E9%A2%98%E5%9E%8B_1__%E6%B1%82%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "x": 0,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f13d2a20ec43b2c9",
+      "type": "text",
+      "text": "[题型 2: 利用性质求条件概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_2__%E5%88%A9%E7%94%A8%E6%80%A7%E8%B4%A8%E6%B1%82%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87/%E9%A2%98%E5%9E%8B_2__%E5%88%A9%E7%94%A8%E6%80%A7%E8%B4%A8%E6%B1%82%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "x": 340,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d878c1b357a86395",
+      "type": "text",
+      "text": "[题型 3: 全概率公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_3__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B_3__%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "x": 680,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f7b603b3d76d02e4",
+      "type": "text",
+      "text": "[题型 4: 贝叶斯公式](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_4__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F/%E9%A2%98%E5%9E%8B_4__%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F.md)",
+      "x": 1020,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "704bb2a661be966a",
+      "type": "text",
+      "text": "[题型 5:通过关系式的推导求概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/01_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_5_%E9%80%9A%E8%BF%87%E5%85%B3%E7%B3%BB%E5%BC%8F%E7%9A%84%E6%8E%A8%E5%AF%BC%E6%B1%82%E6%A6%82%E7%8E%87/%E9%A2%98%E5%9E%8B_5_%E9%80%9A%E8%BF%87%E5%85%B3%E7%B3%BB%E5%BC%8F%E7%9A%84%E6%8E%A8%E5%AF%BC%E6%B1%82%E6%A6%82%E7%8E%87.md)",
+      "x": 1360,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "331e900067095194",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1700,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "0b2380187ba47637",
+      "type": "text",
+      "text": "[一. 随机变量与离散型随机变量](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%80__%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/%E4%B8%80__%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 0,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a1140472475a1894",
+      "type": "text",
+      "text": "[3.“三步法”判定离散型随机变量](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E4%B8%89%E6%AD%A5%E6%B3%95_%E5%88%A4%E5%AE%9A%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/3__%E4%B8%89%E6%AD%A5%E6%B3%95_%E5%88%A4%E5%AE%9A%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 340,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "479e2620b65362bf",
+      "type": "text",
+      "text": "[二. 离散型随机变量的分布列](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%BA%8C__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97/%E4%BA%8C__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 680,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0663851bc7a2af81",
+      "type": "text",
+      "text": "[2. 分布列的求解步骤：](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E5%88%86%E5%B8%83%E5%88%97%E7%9A%84%E6%B1%82%E8%A7%A3%E6%AD%A5%E9%AA%A4_/2__%E5%88%86%E5%B8%83%E5%88%97%E7%9A%84%E6%B1%82%E8%A7%A3%E6%AD%A5%E9%AA%A4_.md)",
+      "x": 1020,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "da060f2ea5b9be0d",
+      "type": "text",
+      "text": "[3. 离散型随机变量的分布列的性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97%E7%9A%84%E6%80%A7%E8%B4%A8/3__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1360,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1a972fcad9f0a662",
+      "type": "text",
+      "text": "[三. 两点分布](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%89__%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83/%E4%B8%89__%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83.md)",
+      "x": 1700,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1fba280efc4475b5",
+      "type": "text",
+      "text": "[2. 两点分布的适用范围](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4/2__%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83%E7%9A%84%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4.md)",
+      "x": 0,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "fcda3b4f00cf6b6a",
+      "type": "text",
+      "text": "[▶ 核心基础达标](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/__%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/__%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87.md)",
+      "x": 340,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "24d3b96a8695673b",
+      "type": "text",
+      "text": "[▶基础点 1: 随机变量与离散型随机变量](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/__%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 680,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "6b216c136db58b2e",
+      "type": "text",
+      "text": "[▶基础点 2: 离散型随机变量的分布列](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/__%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 1020,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "f7465fd62ab206bc",
+      "type": "text",
+      "text": "[▶基础点 3:分布列的性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/__%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_3_%E5%88%86%E5%B8%83%E5%88%97%E7%9A%84%E6%80%A7%E8%B4%A8/_%E5%9F%BA%E7%A1%80%E7%82%B9_3_%E5%88%86%E5%B8%83%E5%88%97%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1360,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "63bc721a0eff768b",
+      "type": "text",
+      "text": "[▶基础点 4:两点分布](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/02_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97/__%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_4_%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83/_%E5%9F%BA%E7%A1%80%E7%82%B9_4_%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83.md)",
+      "x": 1700,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "78abeca531eb32b3",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 0,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "d460d243da0b2272",
+      "type": "text",
+      "text": "[一. 离散型随机变量的均值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%80__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC/%E4%B8%80__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "x": 340,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b34df7d5967adbcf",
+      "type": "text",
+      "text": "[二. 离散型随机变量的方差](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%BA%8C__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%96%B9%E5%B7%AE/%E4%BA%8C__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%96%B9%E5%B7%AE.md)",
+      "x": 680,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6fc90685723ebd36",
+      "type": "text",
+      "text": "[题型1:离散型随机变量的均值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B1_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC/%E9%A2%98%E5%9E%8B1_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "x": 1020,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f08b3796f91e93f2",
+      "type": "text",
+      "text": "[题型 2: 离散型随机变量均值的性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_2__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%9D%87%E5%80%BC%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B_2__%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%9D%87%E5%80%BC%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1360,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "20e047b236c6be34",
+      "type": "text",
+      "text": "[题型 3: 方差与标准差的计算](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_3__%E6%96%B9%E5%B7%AE%E4%B8%8E%E6%A0%87%E5%87%86%E5%B7%AE%E7%9A%84%E8%AE%A1%E7%AE%97/%E9%A2%98%E5%9E%8B_3__%E6%96%B9%E5%B7%AE%E4%B8%8E%E6%A0%87%E5%87%86%E5%B7%AE%E7%9A%84%E8%AE%A1%E7%AE%97.md)",
+      "x": 1700,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "394e1a062ea504af",
+      "type": "text",
+      "text": "[题型 4: 方差的性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_4__%E6%96%B9%E5%B7%AE%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B_4__%E6%96%B9%E5%B7%AE%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 0,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "6291c429c8890f6b",
+      "type": "text",
+      "text": "[题型 5: 两点分布的均值与方差](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_5__%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E5%9E%8B_5__%E4%B8%A4%E7%82%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE.md)",
+      "x": 340,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "855bc63b431bd837",
+      "type": "text",
+      "text": "[题型 6: 均值与方差的综合应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/03_%E7%AC%AC%E4%B8%89%E8%8A%82_%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_6__%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_6__%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 680,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "8ceed1a3eaac053d",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1020,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "acaab4436d6d21aa",
+      "type": "text",
+      "text": "[1. $n$ 重伯努利试验](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1___n__%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C/1___n__%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C.md)",
+      "x": 1360,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "04c56aeb05560b0d",
+      "type": "text",
+      "text": "[2.二项分布](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83/2_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83.md)",
+      "x": 1700,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "49dedf1786bc75e8",
+      "type": "text",
+      "text": "[（2）二项分布的期望与方差](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_2_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%9C%9F%E6%9C%9B%E4%B8%8E%E6%96%B9%E5%B7%AE/_2_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%9C%9F%E6%9C%9B%E4%B8%8E%E6%96%B9%E5%B7%AE.md)",
+      "x": 0,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0042d7cc1e65142d",
+      "type": "text",
+      "text": "[（3）二项分布的概率最值问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_3_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/_3_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 340,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d8d92c64b0394758",
+      "type": "text",
+      "text": "[3. 超几何分布](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/3__%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83.md)",
+      "x": 680,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "abffa964b68e34d1",
+      "type": "text",
+      "text": "[（2）超几何分布的分布列](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_2_%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97/_2_%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 1020,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d2a69a096e6d75b5",
+      "type": "text",
+      "text": "[（3）超几何分布的均值](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_3_%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC/_3_%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "x": 1360,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "000204f9c5aaca78",
+      "type": "text",
+      "text": "[（4）超几何分布与二项分布的辨别](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_4_%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E4%B8%8E%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E8%BE%A8%E5%88%AB/_4_%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E4%B8%8E%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E8%BE%A8%E5%88%AB.md)",
+      "x": 1700,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "4ab37d6dc53dc76e",
+      "type": "text",
+      "text": "[题型 1:n 重伯努利试验的概念与判断](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_1_n_%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%A4%E6%96%AD/%E9%A2%98%E5%9E%8B_1_n_%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%A4%E6%96%AD.md)",
+      "x": 0,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7d85569f60844380",
+      "type": "text",
+      "text": "[题型 2:n 重伯努利试验的概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_2_n_%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E7%9A%84%E6%A6%82%E7%8E%87/%E9%A2%98%E5%9E%8B_2_n_%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E7%9A%84%E6%A6%82%E7%8E%87.md)",
+      "x": 340,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "fd52205e8a5dc5df",
+      "type": "text",
+      "text": "[题型 3:二项分布的概率与分布列](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_3_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97/%E9%A2%98%E5%9E%8B_3_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 680,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5b9f5309f8159912",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:二项分布的概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_3_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97/__triangleright__%E8%A7%92%E5%BA%A61_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87/__triangleright__%E8%A7%92%E5%BA%A61_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87.md)",
+      "x": 1020,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "49b2c56093af1722",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:二项分布的分布列](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_3_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97/__triangleright__%E8%A7%92%E5%BA%A62_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97/__triangleright__%E8%A7%92%E5%BA%A62_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "x": 1360,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "b46d3da614a58465",
+      "type": "text",
+      "text": "[题型 4:二项分布的均值与方差](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_4_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/%E9%A2%98%E5%9E%8B_4_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE.md)",
+      "x": 1700,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a564c96a518f5cbd",
+      "type": "text",
+      "text": "[题型 5:二项分布的概率最值问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_5_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B_5_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "bb9915954a6fd7ab",
+      "type": "text",
+      "text": "[题型 6: 超几何分布的概念与辨别](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_6__%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%BE%A8%E5%88%AB/%E9%A2%98%E5%9E%8B_6__%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%BE%A8%E5%88%AB.md)",
+      "x": 340,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "6ce520d9ddd00c97",
+      "type": "text",
+      "text": "[题型 7: 超几何分布的概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_7__%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87/%E9%A2%98%E5%9E%8B_7__%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87.md)",
+      "x": 680,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "281c0d791b4546f7",
+      "type": "text",
+      "text": "[题型 8: 超几何分布的均值与分布列 对于超几何分布的均值, 可通过公式 $E(X) = \\frac{nM}{N}$ 或通过分布列求均值.](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/_compact/a02d3b8019a38129.md)",
+      "x": 1020,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "d77294d95f76b29a",
+      "type": "text",
+      "text": "[题型 9:两种分布的综合应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/04_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_9_%E4%B8%A4%E7%A7%8D%E5%88%86%E5%B8%83%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_9_%E4%B8%A4%E7%A7%8D%E5%88%86%E5%B8%83%E7%9A%84%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "674e5766698137b2",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1700,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "804fb2eb1cb5879d",
+      "type": "text",
+      "text": "[1. 连续型随机变量](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1__%E8%BF%9E%E7%BB%AD%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/1__%E8%BF%9E%E7%BB%AD%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.md)",
+      "x": 0,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ecbb038f34d6bd99",
+      "type": "text",
+      "text": "[2. 正态分布](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83.md)",
+      "x": 340,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2f06907ceb27ea08",
+      "type": "text",
+      "text": "[(1) 正态曲线](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_1__%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF/_1__%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF.md)",
+      "x": 680,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "916628e5e45d1191",
+      "type": "text",
+      "text": "[(2) 正态分布](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/_2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83.md)",
+      "x": 1020,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "397b75c5ee8457d7",
+      "type": "text",
+      "text": "[（3）正态分布的均值与方差](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_3_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE/_3_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE.md)",
+      "x": 1360,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "59ded6e37023d7aa",
+      "type": "text",
+      "text": "[3. 正态曲线的特点](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%89%B9%E7%82%B9/3__%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%89%B9%E7%82%B9.md)",
+      "x": 1700,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d8a9f06d34f590c8",
+      "type": "text",
+      "text": "[4. $3\\sigma$ 原则](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/4___3_sigma__%E5%8E%9F%E5%88%99/4___3_sigma__%E5%8E%9F%E5%88%99.md)",
+      "x": 0,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "bc928620eba2145a",
+      "type": "text",
+      "text": "[(2) $3\\sigma$ 原则](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/_2___3_sigma__%E5%8E%9F%E5%88%99/_2___3_sigma__%E5%8E%9F%E5%88%99.md)",
+      "x": 340,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e535fc4a6532dcee",
+      "type": "text",
+      "text": "[▶ ▷ 重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "66c6ac07d412f6cd",
+      "type": "text",
+      "text": "[题型 1: 正态曲线与正态密度函数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_1__%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%AD%A3%E6%80%81%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0/%E9%A2%98%E5%9E%8B_1__%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%AD%A3%E6%80%81%E5%AF%86%E5%BA%A6%E5%87%BD%E6%95%B0.md)",
+      "x": 1020,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "c4a54dad53de9328",
+      "type": "text",
+      "text": "[题型 2: 正态分布对称性的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "f35f463b73c0fe4a",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度1:根据对称性求概率](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8/__triangleright__%E8%A7%92%E5%BA%A61_%E6%A0%B9%E6%8D%AE%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%E6%A6%82%E7%8E%87/__triangleright__%E8%A7%92%E5%BA%A61_%E6%A0%B9%E6%8D%AE%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%E6%A6%82%E7%8E%87.md)",
+      "x": 1700,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "18db5687be80135e",
+      "type": "text",
+      "text": "[$\\triangleright$ 角度2:根据对称性求参数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_2__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%AF%B9%E7%A7%B0%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8/__triangleright__%E8%A7%92%E5%BA%A62_%E6%A0%B9%E6%8D%AE%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0/__triangleright__%E8%A7%92%E5%BA%A62_%E6%A0%B9%E6%8D%AE%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%B1%82%E5%8F%82%E6%95%B0.md)",
+      "x": 0,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "subtype",
+      "color": "6"
+    },
+    {
+      "id": "ed6a3304d038f3db",
+      "type": "text",
+      "text": "[题型 3: $3\\sigma$ 原则](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_3___3_sigma__%E5%8E%9F%E5%88%99/%E9%A2%98%E5%9E%8B_3___3_sigma__%E5%8E%9F%E5%88%99.md)",
+      "x": 340,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "92f5bc11f71c99be",
+      "type": "text",
+      "text": "[题型 4: 正态分布的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/05_%E7%AC%AC%E4%BA%94%E8%8A%82_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_4__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_4__%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 680,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9356c93b86b3152f",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1020,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "2b6a2c5c6eb65e20",
+      "type": "text",
+      "text": "[1. 变量的相关关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1__%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB/1__%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "x": 1360,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a260a87abc6f061a",
+      "type": "text",
+      "text": "[2. 散点图](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E6%95%A3%E7%82%B9%E5%9B%BE/2__%E6%95%A3%E7%82%B9%E5%9B%BE.md)",
+      "x": 1700,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "764a05a5322f965d",
+      "type": "text",
+      "text": "[3. 样本相关系数](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0/3__%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.md)",
+      "x": 0,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5a62d33a172f1d38",
+      "type": "text",
+      "text": "[▶基础点 1: 相关关系与函数关系](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E9%A2%98%E7%9B%AE/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%87%BD%E6%95%B0%E5%85%B3%E7%B3%BB/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%87%BD%E6%95%B0%E5%85%B3%E7%B3%BB.md)",
+      "x": 340,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "385cb022a20a88a0",
+      "type": "text",
+      "text": "[▶基础点 2:散点图与正、负相关性](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E9%A2%98%E7%9B%AE/_%E5%9F%BA%E7%A1%80%E7%82%B9_2_%E6%95%A3%E7%82%B9%E5%9B%BE%E4%B8%8E%E6%AD%A3_%E8%B4%9F%E7%9B%B8%E5%85%B3%E6%80%A7/_%E5%9F%BA%E7%A1%80%E7%82%B9_2_%E6%95%A3%E7%82%B9%E5%9B%BE%E4%B8%8E%E6%AD%A3_%E8%B4%9F%E7%9B%B8%E5%85%B3%E6%80%A7.md)",
+      "x": 680,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "e51b97e37e94a21b",
+      "type": "text",
+      "text": "[题型 1: 相关系数的有关概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_1__%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%9C%89%E5%85%B3%E6%A6%82%E5%BF%B5/%E9%A2%98%E5%9E%8B_1__%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%9C%89%E5%85%B3%E6%A6%82%E5%BF%B5.md)",
+      "x": 1020,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "a209837ea509d0e4",
+      "type": "text",
+      "text": "[题型 2: 相关系数的计算与应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/07_%E7%AC%AC%E4%B8%80%E8%8A%82_%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/%E9%A2%98%E7%9B%AE/%E9%A2%98%E5%9E%8B_2__%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_2__%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%BA%94%E7%94%A8.md)",
+      "x": 1360,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "9c65071728d1fc4d",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 1700,
+      "y": 2950,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "e4f86dc37f2578e7",
+      "type": "text",
+      "text": "[一. 一元线性回归模型](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%80__%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/%E4%B8%80__%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)",
+      "x": 0,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "9a098b1623a1c2f6",
+      "type": "text",
+      "text": "[1. 一元线性回归模型](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1__%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/1__%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)",
+      "x": 340,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "9387c4dabcb7b5e3",
+      "type": "text",
+      "text": "[2. 一元线性回归模型参数的最小二乘估计](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/2__%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1/2__%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "x": 680,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "c6e898b98c57b113",
+      "type": "text",
+      "text": "[二. 回归分析](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%BA%8C__%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90/%E4%BA%8C__%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90.md)",
+      "x": 1020,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "8f6675d862eef325",
+      "type": "text",
+      "text": "[三. 常见的非线性函数转换方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%89__%E5%B8%B8%E8%A7%81%E7%9A%84%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%87%BD%E6%95%B0%E8%BD%AC%E6%8D%A2%E6%96%B9%E6%B3%95/%E4%B8%89__%E5%B8%B8%E8%A7%81%E7%9A%84%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%87%BD%E6%95%B0%E8%BD%AC%E6%8D%A2%E6%96%B9%E6%B3%95.md)",
+      "x": 1360,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d203b9d58992da95",
+      "type": "text",
+      "text": "[▶ ▷ 核心基础达标](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87.md)",
+      "x": 1700,
+      "y": 3100,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "d4ddb216c6626545",
+      "type": "text",
+      "text": "[▶基础点 1: 线性回归方程的相关概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%96%B9%E7%A8%8B%E7%9A%84%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%96%B9%E7%A8%8B%E7%9A%84%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5.md)",
+      "x": 0,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "0dfaca585e9903a1",
+      "type": "text",
+      "text": "[▶基础点 2: 求线性回归方程](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E6%B1%82%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%96%B9%E7%A8%8B/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E6%B1%82%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%96%B9%E7%A8%8B.md)",
+      "x": 340,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "e3fb92d00a8f7d5a",
+      "type": "text",
+      "text": "[重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "bcfd6a8531bf7635",
+      "type": "text",
+      "text": "[题型 1: 样本中心点的性质](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_1__%E6%A0%B7%E6%9C%AC%E4%B8%AD%E5%BF%83%E7%82%B9%E7%9A%84%E6%80%A7%E8%B4%A8/%E9%A2%98%E5%9E%8B_1__%E6%A0%B7%E6%9C%AC%E4%B8%AD%E5%BF%83%E7%82%B9%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1020,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "dd323930479f9e60",
+      "type": "text",
+      "text": "[题型 2: 残差与拟合效果分析](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_2__%E6%AE%8B%E5%B7%AE%E4%B8%8E%E6%8B%9F%E5%90%88%E6%95%88%E6%9E%9C%E5%88%86%E6%9E%90/%E9%A2%98%E5%9E%8B_2__%E6%AE%8B%E5%B7%AE%E4%B8%8E%E6%8B%9F%E5%90%88%E6%95%88%E6%9E%9C%E5%88%86%E6%9E%90.md)",
+      "x": 1360,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "7457da9d40461f2a",
+      "type": "text",
+      "text": "[题型 3: 线性回归分析的应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_3__%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%E7%9A%84%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_3__%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1700,
+      "y": 3250,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "47e68db1d347f098",
+      "type": "text",
+      "text": "[题型 4: 非线性回归模型](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/08_%E7%AC%AC%E4%BA%8C%E8%8A%82_%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_4__%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B/%E9%A2%98%E5%9E%8B_4__%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)",
+      "x": 0,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "fc318302832b9c1f",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 340,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "aea0de9c02ea8fae",
+      "type": "text",
+      "text": "[一. 分类变量与列联表](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%B8%80__%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8/%E4%B8%80__%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "x": 680,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "4f2751faf99b08f6",
+      "type": "text",
+      "text": "[3. 等高堆积条形图](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/3__%E7%AD%89%E9%AB%98%E5%A0%86%E7%A7%AF%E6%9D%A1%E5%BD%A2%E5%9B%BE/3__%E7%AD%89%E9%AB%98%E5%A0%86%E7%A7%AF%E6%9D%A1%E5%BD%A2%E5%9B%BE.md)",
+      "x": 1020,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ac2c80776769dafc",
+      "type": "text",
+      "text": "[二. 独立性检验](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E4%BA%8C__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E4%BA%8C__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "x": 1360,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "494b9c3b16b0dc33",
+      "type": "text",
+      "text": "[1. 零假设：](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/1__%E9%9B%B6%E5%81%87%E8%AE%BE_/1__%E9%9B%B6%E5%81%87%E8%AE%BE_.md)",
+      "x": 1700,
+      "y": 3400,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5f34d5278303be52",
+      "type": "text",
+      "text": "[5. 独立性检验的一般方法](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/5__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E6%B3%95/5__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E6%B3%95.md)",
+      "x": 0,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "f1095a2ab80e3674",
+      "type": "text",
+      "text": "[▶ ▷ 核心基础达标](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87.md)",
+      "x": 340,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "6635f7f9414d174f",
+      "type": "text",
+      "text": "[▶基础点 1: 列联表的认识](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E5%88%97%E8%81%94%E8%A1%A8%E7%9A%84%E8%AE%A4%E8%AF%86/_%E5%9F%BA%E7%A1%80%E7%82%B9_1__%E5%88%97%E8%81%94%E8%A1%A8%E7%9A%84%E8%AE%A4%E8%AF%86.md)",
+      "x": 680,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "4723eac257458c90",
+      "type": "text",
+      "text": "[▶基础点 2: 等高堆积条形图](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E7%AD%89%E9%AB%98%E5%A0%86%E7%A7%AF%E6%9D%A1%E5%BD%A2%E5%9B%BE/_%E5%9F%BA%E7%A1%80%E7%82%B9_2__%E7%AD%89%E9%AB%98%E5%A0%86%E7%A7%AF%E6%9D%A1%E5%BD%A2%E5%9B%BE.md)",
+      "x": 1020,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "f940095523331ffa",
+      "type": "text",
+      "text": "[▶基础点 3: 独立性检验的概念](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/____%E6%A0%B8%E5%BF%83%E5%9F%BA%E7%A1%80%E8%BE%BE%E6%A0%87/_%E5%9F%BA%E7%A1%80%E7%82%B9_3__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E6%A6%82%E5%BF%B5/_%E5%9F%BA%E7%A1%80%E7%82%B9_3__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "x": 1360,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "basic-point"
+    },
+    {
+      "id": "bf494e695b4310d7",
+      "type": "text",
+      "text": "[▶ ▷ 重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 1700,
+      "y": 3550,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "4ce96c69d37b6ab7",
+      "type": "text",
+      "text": "[题型 1: 独立性检验及应用](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/09_%E7%AC%AC%E4%B8%89%E8%8A%82_%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_1__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E5%8F%8A%E5%BA%94%E7%94%A8/%E9%A2%98%E5%9E%8B_1__%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E5%8F%8A%E5%BA%94%E7%94%A8.md)",
+      "x": 0,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    },
+    {
+      "id": "5cf6dc9834024b46",
+      "type": "text",
+      "text": "[知识导学](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/10_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%B8%93%E9%A2%98__%E6%A6%82%E7%8E%87%E7%9A%84%E9%80%92%E6%8E%A8_%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E9%93%BE%E9%97%AE%E9%A2%98/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6/%E7%9F%A5%E8%AF%86%E5%AF%BC%E5%AD%A6.md)",
+      "x": 340,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge_guide"
+    },
+    {
+      "id": "759b6c91aaaa8564",
+      "type": "text",
+      "text": "[▶ ▷ 重点题型专练](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/10_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%B8%93%E9%A2%98__%E6%A6%82%E7%8E%87%E7%9A%84%E9%80%92%E6%8E%A8_%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E9%93%BE%E9%97%AE%E9%A2%98/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83.md)",
+      "x": 680,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "training-band"
+    },
+    {
+      "id": "cceffff67e0b6ba8",
+      "type": "text",
+      "text": "[题型 1: 概率的递推问题](%E9%AB%98%E4%B8%AD/%E8%AF%BE%E5%A0%82%E5%90%8C%E6%AD%A5/%E9%A2%98%E5%BA%93/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E5%85%A8%E7%BB%83%E4%B8%80%E6%9C%AC%E9%80%9A/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E5%88%97%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/10_%E7%AC%AC%E5%9B%9B%E8%8A%82_%E4%B8%93%E9%A2%98__%E6%A6%82%E7%8E%87%E7%9A%84%E9%80%92%E6%8E%A8_%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E9%93%BE%E9%97%AE%E9%A2%98/____%E9%87%8D%E7%82%B9%E9%A2%98%E5%9E%8B%E4%B8%93%E7%BB%83/%E9%A2%98%E5%9E%8B_1__%E6%A6%82%E7%8E%87%E7%9A%84%E9%80%92%E6%8E%A8%E9%97%AE%E9%A2%98/%E9%A2%98%E5%9E%8B_1__%E6%A6%82%E7%8E%87%E7%9A%84%E9%80%92%E6%8E%A8%E9%97%AE%E9%A2%98.md)",
+      "x": 1020,
+      "y": 3700,
+      "width": 300,
+      "height": 90,
+      "role": "question-type",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "ff2f89c175d2d628",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "8eafa50580382893"
+    },
+    {
+      "id": "959c7465c066853a",
+      "fromNode": "8eafa50580382893",
+      "toNode": "58958f161c4e56e5"
+    },
+    {
+      "id": "ad86016d7096276a",
+      "fromNode": "8eafa50580382893",
+      "toNode": "ce7b668a9dd36e21"
+    },
+    {
+      "id": "e6c87f8ad507c29f",
+      "fromNode": "8eafa50580382893",
+      "toNode": "a10adae469ca1d41"
+    },
+    {
+      "id": "000e87084e8464fc",
+      "fromNode": "8eafa50580382893",
+      "toNode": "5c2350938104f4e8"
+    },
+    {
+      "id": "b68048e08f398c04",
+      "fromNode": "8eafa50580382893",
+      "toNode": "b0c7eeccb8f9f69f"
+    },
+    {
+      "id": "452b29bd180500b4",
+      "fromNode": "8eafa50580382893",
+      "toNode": "d3682887322cbd0d"
+    },
+    {
+      "id": "5d0cb88bab4f374f",
+      "fromNode": "8eafa50580382893",
+      "toNode": "70fa1ca4b6fa4826"
+    },
+    {
+      "id": "878e9d13e85524f0",
+      "fromNode": "8eafa50580382893",
+      "toNode": "c95e6b7be8291a0e"
+    },
+    {
+      "id": "60b47abd9dfbb579",
+      "fromNode": "8eafa50580382893",
+      "toNode": "efd792f299ca1f49"
+    },
+    {
+      "id": "c7d36c8d02af9d7b",
+      "fromNode": "8eafa50580382893",
+      "toNode": "2da82ca4f912c82d"
+    },
+    {
+      "id": "14c13233c0580227",
+      "fromNode": "8eafa50580382893",
+      "toNode": "ef6f08020c92a1fe"
+    },
+    {
+      "id": "6c98965edaee6399",
+      "fromNode": "8eafa50580382893",
+      "toNode": "aeecfead79d7273d"
+    },
+    {
+      "id": "2bd16a403ad0a5bf",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "3fc28323ddd201ec"
+    },
+    {
+      "id": "55c3d60e76abfa1c",
+      "fromNode": "3fc28323ddd201ec",
+      "toNode": "eef11e7e73a3ed06"
+    },
+    {
+      "id": "7092e7b861c075d3",
+      "fromNode": "3fc28323ddd201ec",
+      "toNode": "bb2804b34be51ebc"
+    },
+    {
+      "id": "2b58d8ea4dc61fc8",
+      "fromNode": "3fc28323ddd201ec",
+      "toNode": "cc67656a1eea5657"
+    },
+    {
+      "id": "97cec2e09a051f42",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "660bbbadb0a4abbe"
+    },
+    {
+      "id": "49ca6772b57d2cb1",
+      "fromNode": "660bbbadb0a4abbe",
+      "toNode": "72203f3195cac7dd"
+    },
+    {
+      "id": "5d0c17df3032d808",
+      "fromNode": "660bbbadb0a4abbe",
+      "toNode": "f13d2a20ec43b2c9"
+    },
+    {
+      "id": "5658f50d1dad3540",
+      "fromNode": "660bbbadb0a4abbe",
+      "toNode": "d878c1b357a86395"
+    },
+    {
+      "id": "d7b350f7ecb4b5c0",
+      "fromNode": "660bbbadb0a4abbe",
+      "toNode": "f7b603b3d76d02e4"
+    },
+    {
+      "id": "ff40ec244163a206",
+      "fromNode": "660bbbadb0a4abbe",
+      "toNode": "704bb2a661be966a"
+    },
+    {
+      "id": "40d7ea8add634a4e",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "331e900067095194"
+    },
+    {
+      "id": "2ec191dd1db27683",
+      "fromNode": "331e900067095194",
+      "toNode": "0b2380187ba47637"
+    },
+    {
+      "id": "e2b08e5ccc2dfd28",
+      "fromNode": "331e900067095194",
+      "toNode": "a1140472475a1894"
+    },
+    {
+      "id": "4504ce922894b03c",
+      "fromNode": "331e900067095194",
+      "toNode": "479e2620b65362bf"
+    },
+    {
+      "id": "c9112b5be53b61b9",
+      "fromNode": "331e900067095194",
+      "toNode": "0663851bc7a2af81"
+    },
+    {
+      "id": "700543e625244c38",
+      "fromNode": "331e900067095194",
+      "toNode": "da060f2ea5b9be0d"
+    },
+    {
+      "id": "da7704f7d9ca3905",
+      "fromNode": "331e900067095194",
+      "toNode": "1a972fcad9f0a662"
+    },
+    {
+      "id": "1555fbcc6cbc2224",
+      "fromNode": "331e900067095194",
+      "toNode": "1fba280efc4475b5"
+    },
+    {
+      "id": "b26707ea037a42b2",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "fcda3b4f00cf6b6a"
+    },
+    {
+      "id": "cff03e7d1e7f02e8",
+      "fromNode": "fcda3b4f00cf6b6a",
+      "toNode": "24d3b96a8695673b"
+    },
+    {
+      "id": "b7d0360b30078c19",
+      "fromNode": "fcda3b4f00cf6b6a",
+      "toNode": "6b216c136db58b2e"
+    },
+    {
+      "id": "694e3c1742d86497",
+      "fromNode": "fcda3b4f00cf6b6a",
+      "toNode": "f7465fd62ab206bc"
+    },
+    {
+      "id": "afbb95aa1c988d16",
+      "fromNode": "fcda3b4f00cf6b6a",
+      "toNode": "63bc721a0eff768b"
+    },
+    {
+      "id": "082ad55b5df76f2c",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "78abeca531eb32b3"
+    },
+    {
+      "id": "47dcc5d797379ed0",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "d460d243da0b2272"
+    },
+    {
+      "id": "acdb8feb2cad20a7",
+      "fromNode": "78abeca531eb32b3",
+      "toNode": "b34df7d5967adbcf"
+    },
+    {
+      "id": "364fed63bf974d1e",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "6fc90685723ebd36"
+    },
+    {
+      "id": "49722394ecedc727",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "f08b3796f91e93f2"
+    },
+    {
+      "id": "ef56f47ee790e5eb",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "20e047b236c6be34"
+    },
+    {
+      "id": "34c30fe9a991e4a2",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "394e1a062ea504af"
+    },
+    {
+      "id": "eceefe0c1de00133",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "6291c429c8890f6b"
+    },
+    {
+      "id": "9af2e06ef70ced42",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "855bc63b431bd837"
+    },
+    {
+      "id": "abc2514f301c462f",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "8ceed1a3eaac053d"
+    },
+    {
+      "id": "7a7cfa68171f27d8",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "acaab4436d6d21aa"
+    },
+    {
+      "id": "0f952dc106735a3e",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "04c56aeb05560b0d"
+    },
+    {
+      "id": "87ccf4df5a3ef8f0",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "49dedf1786bc75e8"
+    },
+    {
+      "id": "12d688914df6a8a4",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "0042d7cc1e65142d"
+    },
+    {
+      "id": "374d34ad61668c32",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "d8d92c64b0394758"
+    },
+    {
+      "id": "7736334e3869ecaa",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "abffa964b68e34d1"
+    },
+    {
+      "id": "98a704c9bcf672b6",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "d2a69a096e6d75b5"
+    },
+    {
+      "id": "41b45bb2f5582d68",
+      "fromNode": "8ceed1a3eaac053d",
+      "toNode": "000204f9c5aaca78"
+    },
+    {
+      "id": "78bbaafc8b4ea595",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "4ab37d6dc53dc76e"
+    },
+    {
+      "id": "7c4111892a58baf8",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "7d85569f60844380"
+    },
+    {
+      "id": "af5373d3a3c478dc",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "fd52205e8a5dc5df"
+    },
+    {
+      "id": "320b4f20a1e2ce07",
+      "fromNode": "fd52205e8a5dc5df",
+      "toNode": "5b9f5309f8159912"
+    },
+    {
+      "id": "0c8a651496dcd9ff",
+      "fromNode": "fd52205e8a5dc5df",
+      "toNode": "49b2c56093af1722"
+    },
+    {
+      "id": "0042bea1f4c922b5",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "b46d3da614a58465"
+    },
+    {
+      "id": "69896e05a6ac5ddd",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "a564c96a518f5cbd"
+    },
+    {
+      "id": "0a76d631affd9ae4",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "bb9915954a6fd7ab"
+    },
+    {
+      "id": "88dd0bd58288c9fd",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "6ce520d9ddd00c97"
+    },
+    {
+      "id": "4ae05875aec1ad04",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "281c0d791b4546f7"
+    },
+    {
+      "id": "8acae89061c303a5",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "d77294d95f76b29a"
+    },
+    {
+      "id": "e085d6a20207c368",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "674e5766698137b2"
+    },
+    {
+      "id": "b2814ef80901120e",
+      "fromNode": "674e5766698137b2",
+      "toNode": "804fb2eb1cb5879d"
+    },
+    {
+      "id": "2762120daa93a72d",
+      "fromNode": "674e5766698137b2",
+      "toNode": "ecbb038f34d6bd99"
+    },
+    {
+      "id": "1aae54ac47bc3455",
+      "fromNode": "674e5766698137b2",
+      "toNode": "2f06907ceb27ea08"
+    },
+    {
+      "id": "873fccd7adfed49d",
+      "fromNode": "674e5766698137b2",
+      "toNode": "916628e5e45d1191"
+    },
+    {
+      "id": "8d3c58dde56fff94",
+      "fromNode": "674e5766698137b2",
+      "toNode": "397b75c5ee8457d7"
+    },
+    {
+      "id": "9067a88f74923a45",
+      "fromNode": "674e5766698137b2",
+      "toNode": "59ded6e37023d7aa"
+    },
+    {
+      "id": "8dc9af741d6e3878",
+      "fromNode": "674e5766698137b2",
+      "toNode": "d8a9f06d34f590c8"
+    },
+    {
+      "id": "cd9d8ae5f43805fe",
+      "fromNode": "674e5766698137b2",
+      "toNode": "bc928620eba2145a"
+    },
+    {
+      "id": "4ef6523ea13e9035",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "e535fc4a6532dcee"
+    },
+    {
+      "id": "d8b1239dd3128ebc",
+      "fromNode": "e535fc4a6532dcee",
+      "toNode": "66c6ac07d412f6cd"
+    },
+    {
+      "id": "d9dc86f0742b8156",
+      "fromNode": "e535fc4a6532dcee",
+      "toNode": "c4a54dad53de9328"
+    },
+    {
+      "id": "c029dff15284f4b6",
+      "fromNode": "c4a54dad53de9328",
+      "toNode": "f35f463b73c0fe4a"
+    },
+    {
+      "id": "c1aca920c4eb61b4",
+      "fromNode": "c4a54dad53de9328",
+      "toNode": "18db5687be80135e"
+    },
+    {
+      "id": "33d0b4e7031d7be6",
+      "fromNode": "e535fc4a6532dcee",
+      "toNode": "ed6a3304d038f3db"
+    },
+    {
+      "id": "ca5e11cc0aa9412b",
+      "fromNode": "e535fc4a6532dcee",
+      "toNode": "92f5bc11f71c99be"
+    },
+    {
+      "id": "1f3866b47376686f",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "9356c93b86b3152f"
+    },
+    {
+      "id": "29db5291a71f15b2",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "2b6a2c5c6eb65e20"
+    },
+    {
+      "id": "01f0b45bc5f39024",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "a260a87abc6f061a"
+    },
+    {
+      "id": "36148a1b7ded40c6",
+      "fromNode": "9356c93b86b3152f",
+      "toNode": "764a05a5322f965d"
+    },
+    {
+      "id": "983452bd2d53dfad",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "5a62d33a172f1d38"
+    },
+    {
+      "id": "c8012b34d11f9d9c",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "385cb022a20a88a0"
+    },
+    {
+      "id": "2fea60a0a0f28273",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "e51b97e37e94a21b"
+    },
+    {
+      "id": "45d1d30f2ea68d1e",
+      "fromNode": "7e0749ab76a50f8e",
+      "toNode": "a209837ea509d0e4"
+    },
+    {
+      "id": "ee7f4cf0378d1baf",
+      "fromNode": "3f12fa1b31c4d187",
+      "toNode": "9c65071728d1fc4d"
+    },
+    {
+      "id": "847831cb60246196",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "e4f86dc37f2578e7"
+    },
+    {
+      "id": "b2738066fec5195c",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "9a098b1623a1c2f6"
+    },
+    {
+      "id": "cac4a41739b28f8c",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "9387c4dabcb7b5e3"
+    },
+    {
+      "id": "0289eca548f90e07",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "c6e898b98c57b113"
+    },
+    {
+      "id": "0cd029a4089a542a",
+      "fromNode": "9c65071728d1fc4d",
+      "toNode": "8f6675d862eef325"
+    },
+    {
+      "id": "e298c61449acec55",
+      "fromNode": "3f12fa1b31c4d187",
+      "toNode": "d203b9d58992da95"
+    },
+    {
+      "id": "8fef1fc9fdec6a6a",
+      "fromNode": "d203b9d58992da95",
+      "toNode": "d4ddb216c6626545"
+    },
+    {
+      "id": "3d6a18813beef75f",
+      "fromNode": "d203b9d58992da95",
+      "toNode": "0dfaca585e9903a1"
+    },
+    {
+      "id": "238cf168fc7fc4fb",
+      "fromNode": "3f12fa1b31c4d187",
+      "toNode": "e3fb92d00a8f7d5a"
+    },
+    {
+      "id": "f81a898c3c5cb9d6",
+      "fromNode": "e3fb92d00a8f7d5a",
+      "toNode": "bcfd6a8531bf7635"
+    },
+    {
+      "id": "8ed5ad0992d98165",
+      "fromNode": "e3fb92d00a8f7d5a",
+      "toNode": "dd323930479f9e60"
+    },
+    {
+      "id": "657e14a9f70a68ae",
+      "fromNode": "e3fb92d00a8f7d5a",
+      "toNode": "7457da9d40461f2a"
+    },
+    {
+      "id": "bcdc352ff50750f8",
+      "fromNode": "e3fb92d00a8f7d5a",
+      "toNode": "47e68db1d347f098"
+    },
+    {
+      "id": "14ccf2be5edd3f63",
+      "fromNode": "8328a2e866dab301",
+      "toNode": "fc318302832b9c1f"
+    },
+    {
+      "id": "2eb35341740aa10c",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "aea0de9c02ea8fae"
+    },
+    {
+      "id": "2554a86b8c4c6bf1",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "4f2751faf99b08f6"
+    },
+    {
+      "id": "ac320a5f080ed276",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "ac2c80776769dafc"
+    },
+    {
+      "id": "67182d9d337b40ca",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "494b9c3b16b0dc33"
+    },
+    {
+      "id": "60f3e20342ea92d8",
+      "fromNode": "fc318302832b9c1f",
+      "toNode": "5f34d5278303be52"
+    },
+    {
+      "id": "a2956ace08b16a03",
+      "fromNode": "8328a2e866dab301",
+      "toNode": "f1095a2ab80e3674"
+    },
+    {
+      "id": "9dc3d0d8b4de8bec",
+      "fromNode": "f1095a2ab80e3674",
+      "toNode": "6635f7f9414d174f"
+    },
+    {
+      "id": "82f0c08501b2ef81",
+      "fromNode": "f1095a2ab80e3674",
+      "toNode": "4723eac257458c90"
+    },
+    {
+      "id": "ad06289a0f8304af",
+      "fromNode": "f1095a2ab80e3674",
+      "toNode": "f940095523331ffa"
+    },
+    {
+      "id": "d069180053a8e837",
+      "fromNode": "8328a2e866dab301",
+      "toNode": "bf494e695b4310d7"
+    },
+    {
+      "id": "02d86812b9f75542",
+      "fromNode": "bf494e695b4310d7",
+      "toNode": "4ce96c69d37b6ab7"
+    },
+    {
+      "id": "21723863cf8c5433",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "5cf6dc9834024b46"
+    },
+    {
+      "id": "93c3543321a15672",
+      "fromNode": "c9844758c79c6671",
+      "toNode": "759b6c91aaaa8564"
+    },
+    {
+      "id": "74aeca9da5260b7d",
+      "fromNode": "759b6c91aaaa8564",
+      "toNode": "cceffff67e0b6ba8"
+    }
+  ]
+}
