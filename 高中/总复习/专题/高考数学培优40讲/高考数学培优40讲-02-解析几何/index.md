@@ -230,955 +230,944 @@ I. ①高… II. ①张… III. ①中学数学课一高中一升学参考资料
 
 参考答案 …… 287
 
-# 第 14 讲
-
-# 以形助数——圆锥曲线中几何性质研究
-
-当年笛卡儿发明了直角坐标系,整个数学界为之欢欣鼓舞,大家认为一切几何问题都可以归结为代数问题,但之后数学家费马提出了一个难题:已知 $\triangle ABC$ ,在平面内求点 $P$ ,如何使得 $PA+PB+PC$ 的值最小.这里点 $P$ 就是赫赫有名的费马点.如果用代数方法,就是求函数 $f(x,y)=\sqrt{(x-x_A)^2+(y-y_A)^2}+\sqrt{(x-x_B)^2+(y-y_B)^2}+\sqrt{(x-x_C)^2+(y-y_C)^2}$ 的最小值.虽表述不难,但对这一复杂函数求解最小值却极其困难.其实,如果能巧妙运用几何方法,那么费马点的求解就十分简单,有兴趣的读者可以查阅资料,在此不再赘述.
-
-这也启示我们,代数方法是解析几何问题最常见、最基本的方法,是一类通用方法,解析几何归根结底是几何,如果只用代数方法生搬硬套或盲目计算,解题就会十分烦琐,甚至无法解出.因此,在计算之前,不妨仔细看一看,图形里有没有什么几何特征,要充分挖掘图形的几何性质及隐含条件,结合平面几何的相关知识求解这么做往往能另辟蹊径,化难为易.
-
-圆锥曲线是高考数学的重难点内容,以其为背景命制的考题常作为解答题甚至压轴题出现.近年来,一类结合几何知识求解的圆锥曲线问题层出不穷,该类考题的破解需要学生敏锐地发现其几何性质,巧妙地将几何条件转化为代数条件,从而构建解题思路、简化计算过程,这对学生处理综合问题的能力也提出了很高的要求.
-
-本讲以高考题为主,对结合几何性质求解的圆锥曲线问题进行展示和剖析,并作概括和总结.希望读者能够触类旁通,擦亮双眼,在以后的解题中,不仅能熟练掌握代数方法,而且能巧妙运用几何性质.
-
-## 挖掘平面几何性质多想少算
-
-## 14.1 挖掘三角形的几何性质
-
-研究密钥
-
-关于直线与圆锥曲线的综合性解答题中常常会有三角形的身影出现,此时不要把注意力一味地集中在求点、求方程的代数运算上,而应先把图形中的点、线、角度、三角形等分析清楚.在初中我们学习了许多三角形的性质,如三角形中线性质、中位线定理、直角三角形斜边上的中线性质、等腰三角形性质、等边三角形性质、中垂线性质、全等三角形性质、相似三角形性质、三角形的“四心”等.在解题时,要紧扣题设中的图形特征和数量关系,充分应用三角形的有关性质,便可化难为易、化繁为简.
-
-## 1. 三角形的中位线的性质
-
-例 14.1 (2019 新课标全国 I 卷理 16) 已知双曲线 $C: \frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1 (a > 0, b > 0)$ 的左、右焦点分别为 $F_{1}, F_{2}$ , 过 $F_{1}$ 的直线与 $C$ 的两条渐近线分别交于 $A, B$ 两点. 若 $\overrightarrow{F_{1}A} = \overrightarrow{AB}, \overrightarrow{F_{1}B} \cdot \overrightarrow{F_{2}B} = 0$ , 则 $C$ 的离心率为 \_\_\_\_.
-
-分析 ▶ 将向量条件转化为几何条件, 向量 $\overrightarrow{F_1A} = \overrightarrow{AB}$ 说明两条线段平行且等长, $\overrightarrow{F_1B} \cdot \overrightarrow{F_2B} = 0$ 说明两线段垂直, 结合双曲线的对称性挖掘几何性质, 求出特殊角度.
-
-解析 如图所示,由向量关系可知, $F_{1}A=AB,F_{1}B\perp F_{2}B.$
-
-又 $F_{1}O = F_{2}O$ ，可知 $OA$ 是 $\triangle F_{1}F_{2}B$ 的中位线，所以 $OA / / F_{2}B, OA \perp F_{1}B$ ，则 $OA$ 是线段 $F_{1}B$ 的垂直平分线，故 $\angle F_{1}OA = \angle BOA$ .
-
-又由于直线 $OA, OB$ 为双曲线的两条渐近线，所以 $\angle F_{1}OA = \angle F_{2}OB, \angle F_{1}OA = \angle BOA = \angle F_{2}OB = \frac{\pi}{3}$ ，则直线 $OB$ 的斜率为 $\tan \frac{\pi}{3} = \sqrt{3}$ ，即 $\frac{b}{a} = \sqrt{3}$ ，故离心率 $e = \frac{c}{a} = \sqrt{1 + \left(\frac{b}{a}\right)^2} = 2$ .
-
-![](images/combined/part-001/d6c8d1b3bdf30b59840d7e7f6387b14278a0fbf7d6f1afa1ab7f6cb288d29c2b.jpg)
-
-本题充分利用了已知条件的几何性质,通过中位线推出角相等,进而直接计算出 $\angle F_{2}OB$ 的值,这样其正切值就是渐近线 $OB$ 的斜率,最终计算得出离心率.本题过程简洁,几乎不需要计算,可见活用几何性质的巧妙性与重要性.
-
-变式(1) 已知双曲线 $C: \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1 (a > 0, b > 0)$ 的左、右焦点分别为 $F_1, F_2$ , 过 $F_1$ 的直线与 C 的一条渐近线交于点 A (点 A 在第二象限), 且与双曲线的右支交于点 B, 若 $\overrightarrow{F_1A} = \overrightarrow{AB}$ , $\overrightarrow{F_1B} \cdot \overrightarrow{F_2B} = 0$ , 则 C 的离心率为 \_\_\_\_.
-
-分析 ▶ 求解椭圆或双曲线的离心率一般运用“定义+几何性质”或“方程+几何性质”，但凡涉及焦半径 $|PF_{1}|$ ， $|PF_{2}|$ 的关系，优先考虑用“定义+几何性质”。
-
-解析 ▶ 解法一: 如图所示, $\overrightarrow{F_1A} = \overrightarrow{AB}$ , 且 $\overrightarrow{F_1B} \cdot \overrightarrow{F_2B} = 0$ , 则 $\triangle F_1BF_2$ 为直角三角形, 又 $\overrightarrow{F_1A} = \overrightarrow{AB}$ , $A$ 为 $F_1B$ 中点, $AO$ 为 $\triangle F_1BF_2$ 的中位线, 所以 $OA \parallel BF_2$ , 因此 $OA \perp BF_1$ , 而双曲线的一条渐近线方程为 $y = -\frac{b}{a}x$ , 故 $k_{BF_1} = \frac{a}{b} = \tan \angle BF_1F_2$ .
-
-![](images/combined/part-001/e9b3d55b093ea632eec0adada9eacf06ccfee4502d2a44614dc4f929bb45f89e.jpg)
-
-又在 Rt $\triangle BF_{1}F_{2}$ 中， $|F_{1}F_{2}| = 2c$ ， $\tan \angle BF_{1}F_{2} = \frac{a}{b}$ ，则 $\sin \angle BF_{1}F_{2} = \frac{a}{c} = \frac{|BF_{2}|}{|F_{1}F_{2}|}$ ，故 $|BF_{2}| = 2a$ ， $|BF_{1}| = 2b$ 。
-
-根据双曲线定义知 $\left|BF_{1}\right|-\left|BF_{2}\right|=2a$ ，因此2b-2a=2a，即b=2a，所以 $\frac{b}{a}=2$ ，则 $e=\frac{c}{a}=$ $\sqrt{1+\frac{b^{2}}{a^{2}}}=\sqrt{5}.$
-
-解法二(利用焦渐距):由焦渐距为 b 可知 $\left|F_{1}A\right|=b$ , 又 $\overrightarrow{F_{1}A}=\overrightarrow{AB}$ , 则 A 为 $F_{1}B$ 的中点, 所以 $\left|F_{1}B\right|=2b$ .
-
-由双曲线定义可得 $|BF_{2}| = 2b - 2a$ ，在 $\mathrm{Rt}\triangle BF_1F_2$ 中，由勾股定理得 $(2b)^{2} + (2b - 2a)^{2} = (2c)^{2}$ ，化简得 $\frac{b}{a} = 2$ ，则 $e = \sqrt{5}$ 。
-
-本题中点 $B$ 在双曲线上, 因此 $BF_{1}$ 和 $BF_{2}$ 为焦半径, 在离心率的计算时优先考虑用定义, 即 $|BF_{1}| - |BF_{2}| = 2a$ , 通过这一组试题, 是否能领悟出求离心率的思路和规律呢?
-
-变式(2) 已知双曲线 $M: \frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1 (a, b > 0)$ 的左焦点为 $F_{1}, A, B$ 分别为双曲线 $M$ 左、右两支上的两点， $O$ 为坐标原点，若四边形 $F_{1}ABO$ 为菱形，则双曲线 $M$ 的离心率为（ ）.
-
-A. $\sqrt{2}$ B. $\sqrt{3}$ C. $\sqrt{2} + 1$ D. $\sqrt{3} + 1$
-
-解析 ▶ 定义+几何性质求解离心率.
-
-如图所示， $|F_{1}F_{2}| = 2c, \angle OBF_{2} = \angle BOF_{2} = \angle OF_{2}B = 60^{\circ}$ ，且 $\angle F_{1}BF_{2} = 90^{\circ}$ ，则 $|BF_{1}| = \sqrt{3} c, |BF_{2}| = c$ ，由双曲线的定义得 $|BF_{1}| - |BF_{2}| = 2a$ ，即$(\sqrt{3} - 1)c = 2a$ ，得 $e = \frac{c}{a} = \frac{2}{\sqrt{3} - 1} = \sqrt{3} + 1.$ 故选D.
-
-![](images/combined/part-001/fb28a85c8935c37c9b6bab22be8d3b76179554b6e7f0de3aaa87f04b46d70d4c.jpg)
-
-## 2. 直角三角形的性质
-
-例 14.2 (2018 新课标全国 I 卷理 11) 已知双曲线 $C: \frac{x^2}{3} - y^2 = 1, O$ 为坐标原点, $F$ 为 $C$ 的右焦点, 过 $F$ 的直线与 $C$ 的两条渐近线的交点分别为 $M, N$ . 若 $\triangle OMN$ 为直角三角形, 则 $|MN| = (\quad)$ .
-
-A. $\frac{3}{2}$ B. 3
-
-C. $2\sqrt{3}$ D. 4
-
-分析 ▶ 充分挖掘图形的几何性质以获取角度与边长。由双曲线方程可知, 每条渐近线与 $x$ 轴的夹角为 $30^{\circ}$ , 两条渐近线的夹角为 $60^{\circ}$ 。由角度可知, $\triangle ONF$ 为等腰三角形, $\triangle OMF$ 为 $30^{\circ}$ 与 $60^{\circ}$ 的特殊的直角三角形, 由此求 $|MN|$ 的长。
-
-解析 如图所示, 设 $l_{1}, l_{2}$ 是 C 的两条渐近线, 方程为 $\frac{x}{\sqrt{3}} \pm y = 0$ .
-
-右焦点为 $F(2,0)$ ，于是 $\angle MOF = \angle NOF = 30^{\circ}$ ，则 $\angle MON = 60^{\circ}$ .
-
-![](images/combined/part-001/374b3d26340dbb11417b76638deae6b5528c8cbb540d80d38913519dd71d7142.jpg)
-
-因为 $l_{1}, l_{2}$ 关于 x 轴对称, 所以不失一般性, 可设 $\angle OMN = 90^{\circ}$ .
-
-在 Rt△OMN 中，∠ONF=90°-60°=30°；在 Rt△OMF 中，|OF|=2，∠MOF=30°，所以 |MF|=1。
-
-在 $\triangle ONF$ 中， $\angle ONF=\angle NOF=30^{\circ}$ ，所以 $|NF|=|OF|=2$ 。
-
-则 $|MN| = |MF| + |NF| = 1 + 2 = 3$ ，故选B.
-
-变式(1) 已知双曲线 $C: \frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1 (a, b > 0)$ 的左、右焦点分别为 $F_{1}, F_{2}$ , 过 $F_{2}$ 作一条渐近线的垂线, 垂足为 $A$ , 并延长交另一条渐近线于点 $B$ , 且 $2 \overrightarrow{AF_{2}} = \overrightarrow{F_{2} B}$ , 则 $C$ 的离心率是
-
-$$
-F _ {2}
-$$
-
-由于 $\angle AOF_{2} = \angle BOF_{2}$ ，则 $|AF_2| = |F_2M|$
-
-因为 $2\overrightarrow{AF_2} = \overrightarrow{F_2B}$ ，所以 $2|AF_2| = |F_2B|, 2|F_2M| = |F_2B|$ ，则 $\angle OBA = 30^\circ, \angle AOF_2 =$
-
-$$
-3 0 ^ {\circ}
-$$
-
-$$
-\frac {b}{a} = \frac {\sqrt {3}}{3}
-$$
-
-因此 $e = \frac{c}{a} = \sqrt{\frac{c^2}{a^2}} = \sqrt{\frac{a^2 + b^2}{a^2}} = \sqrt{1 + \frac{1}{3}} = \frac{2\sqrt{3}}{3}$ .
-
-![](images/combined/part-001/0fa8963b88ab1d09866a441af224198d3ae052b396e20851ee697024d41a4146.jpg)
-
-## 3. 等腰(等边)三角形的性质
-
-例 14.3 过抛物线 C: $y^{2}=4x$ 的焦点 F，且斜率为 $\sqrt{3}$ 的直线交 C 于点 M (M 在 x 轴的上方)，l 为 C 的准线，点 N 在 l 上且 $MN \perp l$ ，则 M 到直线 NF 的距离为（）.
-
-A. $\sqrt{5}$ B. $2\sqrt{2}$ C. $2\sqrt{3}$ D. $3\sqrt{3}$
-
-分析 ▶ MF 的斜率为 $\sqrt{3}$ ，说明 $\angle FMN = \frac{\pi}{3}$ ，又由抛物线定义有 $|MF| = |MN|$ ，所以 $\triangle MNF$ 是等边三角形。由抛物线 p 的几何意义求其边长，求高得解。
-
-解析 如图所示, 过 $F$ 作 $FA \perp MN$ , 垂足为 $A, l$ 与 $x$ 轴的交点为 $B, |FB| = 2$ .
-
-由于直线 FM 的斜率为 $\sqrt{3}$ ，故有 $\angle MFx = \frac{\pi}{3}$ ，即 $\angle FMN = \frac{\pi}{3}$ .
-
-根据抛物线定义可得 $|MF| = |MN|$ , 故 $\triangle MNF$ 是等边三角形, 从而 $A$ 是 $MN$ 的中点, 即有 $|AN| = |FB| = 2$ .
-
-![](images/combined/part-001/8ec637f66f6ba1c26d799d41463e185fcdd0bc178f437792daed9fabb5d958a8.jpg)
-
-在 Rt△FAN 中，|FA|=2tan π/3=2√3，因为等边三角形每条边上的高相等，所以 M 到 NF 的距离为 2√3。
-
-故选C.
-
-变式(1) 设抛物线 $C: y^{2} = 2px (p > 0)$ 的焦点为 $F$ , 点 $M$ 在 $C$ 上, $|MF| = 5$ , 若以 $MF$ 为直径的圆过点 $(0,2)$ , 则 $C$ 的方程为 ( ).
-
-A. $y^{2} = 4x$ 或 $y^{2} = 8x$ B. $y^{2} = 2x$ 或 $y^{2} = 8x$ C. $y^{2} = 4x$ 或 $y^{2} = 16x$ D. $y^{2} = 2x$ 或 $y^{2} = 16x$
-
-解析 如图所示, 过点 $M$ 作准线 $x = -\frac{p}{2}$ 的垂线于点 $M_{1}$ , 连接 $M_{1}F$ 交 $y$ 轴于点 $N$ .
-
-由抛物线的定义知 $|MM_1| = |MF|$ , $\triangle MM_1F$ 为等腰三角形, 且点 $N$ 为 $M_1F$ 的中点, 故 $MN \perp M_1F$ , 因此 $N(0,2), y_M = 4$ , 则 $x_M = \frac{8}{p}, |MM_1| = \frac{8}{p} + \frac{p}{2} = 5$ , 即 $16 + p^2 - 10p = 0$ , 得 $p = 2$ 或 $p = 8$ , 所以抛物线 $C$ 的方程为 $y^2 = 4x$ 或 $y^2 = 16x$ .
-
-![](images/combined/part-001/25f27482652d4668e075c57a88c182135df1bc1c83f31e47a59e0330caa07be9.jpg)
-
-故选C.
-
-## 4. 全等三角形的性质
-
-例 14.4 (2020 新课标全国Ⅲ卷理 20) 已知椭圆 $C: \frac{x^{2}}{25} + \frac{y^{2}}{m^{2}} = 1 (0 < m < 5)$ 的离心率为 $\frac{\sqrt{15}}{4}, A, B$ 分别为 $C$ 的左、右顶点.
-
-(1) 求 C 的方程；
-
-(2)若点 $P$ 在 $C$ 上,点 $Q$ 在直线 $x = 6$ 上,且 $\left| {BP}\right|  = \left| {BQ}\right| ,{BP}\bot {BQ}$ ,求 $\bigtriangleup  {APQ}$ 的面积.
-
-分析 ▶ (1)根据离心率的公式求出 m 的值即可; (2)本题可用已知三角形三顶点的坐标, 求三角形的面积, 但计算量较大。所以转换方向, 尝试从平面几何的角度思考: 过点 P 作 x轴的垂线, 设交点为 $M, x = 6$ 与 $x$ 轴交点为 $N$ , 由 $|BP| = |BQ|$ , $BP \perp BQ$ 易证 $\triangle PMB \cong \triangle BNQ$ , 由全等可得三角形中一些边的长, 再利用割补法求面积, 这样求解非常简洁.
-
-解析 (1) 由 $e = \frac{c}{a} = \frac{\sqrt{25 - m^2}}{5} = \frac{\sqrt{15}}{4}$ 可得 $m = \frac{5}{4}$ , 故 $C$ 的方程为 $\frac{x^2}{25} + \frac{16y^2}{25} = 1$ .
-
-(2)由椭圆的对称性,不妨设点P在第一象限,如图所示.
-
-过点 $P$ 作 $x$ 轴的垂线, 垂足为 $M$ , 设 $x = 6$ 与 $x$ 轴的交点为 $N$ , 由 $|BP| = |BQ|$ , $BP \perp BQ$ 易证 $\triangle PMB \cong \triangle BNQ$ , 所以 $PM = BN = 1$ .
-
-则可得 P 点纵坐标为 $y_{P}=1$ ，将其代入椭圆方程解得 $x_{P}=3$ 或 $x_{P}=-3$ ，因为设点 P 在第一象限，所以 $x_{P}=3$ ，所以 QN=MB=5-3=2。
-
-因为 $PM = 1, QN = 2, AQ$ 的直线方程为 $y = \frac{2}{11} (x + 5)$ , 所以点 $P$ 在 $AQ$ 的下方, 则
-
-![](images/combined/part-001/404af4255c76eda4d1b0cbc9cb094e703e65e2dd77a881b981c5b68b2368c588.jpg)
-
-$$
-\begin{array}{r l} S _ {\triangle A P Q} & = S _ {\triangle A Q N} - S _ {\triangle P A N} - S _ {\triangle P N Q} \\ & = \frac {1}{2} \times 2 \times (5 + 6) - \frac {1}{2} \times 1 \times (5 + 6) - \frac {1}{2} \times 2 \times (6 - 3) \\ & = 1 1 - \frac {1 1}{2} - 3 = \frac {5}{2}. \end{array}
-$$
-
-所以 $\triangle APQ$ 的面积为 $\frac{5}{2}$ .
-
-由已知条件容易想到初中常见的全等模型,用割补法求三角形面积省去繁杂的计算,由此可见运用平面几何知识可以减轻计算负担.历年高考题,尤其是客观题,经常可以数形结合,找到图形规律再“秒杀”,值得我们深入研究.
-
-## 5. 相似三角形的性质
-
-例 14.5 椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的右焦点和左焦点分别为 $F_1, F_2, E$ 是椭圆 $C$ 上一点，且 $|F_1 F_2| = 2, |EF_1| + |EF_2| = 4$ .
-
-(1) 求椭圆 C 的方程；
-
-(2) $M, N$ 是 $y$ 轴上的两个动点 (点 $M$ 与点 $E$ 位于 $x$ 轴的两侧), $\angle MF_{1}N = \angle MEN = 90^{\circ}$ , 直线 $EM$ 交 $x$ 轴于点 $P$ , 求 $\frac{|EP|}{|PM|}$ 的值.
-
-分析 ▶ 本题可从代数、几何两个角度入手考虑。代数角度:由条件进行坐标运算,将 $\frac{|EP|}{|PM|}$ 的值转化为E与M纵坐标的比;几何角度:证明 $\triangle MF_{1}P\sim\triangle MEF_{1}$ ,得到对应边的相似比, 再由 $\frac{PM}{ME} = \frac{PM}{MF_1} \cdot \frac{MF_1}{ME}$ 求出 $PM$ 与 $ME$ 的比, 进而得出 $\frac{|EP|}{|PM|}$ 的值.
-
-解析 (1) $2 c = 2, 2 a = 4$ , 得 $a = 2, c = 1, b = \sqrt {3}$ , 所以椭圆 $C$ 的方程为 $\frac{x^2}{4} + \frac{y^2}{3} = 1$ .
-
-(2)解法一(代数方法): 设 $M(0,m)$ , $N(0,n)$ (不妨设 m<0, n>0), $E(x_{0},y_{0})$ , 因为 $\angle MF_{1}N=90^{\circ}$ , 所以 mn=-1, 则 $\overrightarrow{EM}=(-x_{0},m-y_{0}),\overrightarrow{EN}=(-x_{0},n-y_{0})$ .
-
-又 $\overrightarrow{EM} \cdot \overrightarrow{EN} = x_0^2 + (m - y_0)(n - y_0) = 0$ ，即 $x_0^2 + mn - (m + n)y_0 + y_0^2 = 0$ ，亦即 $x_0^2 - 1 - (m + n)y_0 + y_0^2 = 0$ ，整理得 $x_0^2 + y_0^2 - 1 - \left(n - \frac{1}{n}\right)y_0 = 0$ ①.
-
-又 $\frac{x_0^2}{4} +\frac{y_0^2}{3} = 1$ ，得 $x_0^2 = 4\left(1 - \frac{y_0^2}{3}\right) = 4 - \frac{4}{3} y_0^2$ ，代入①式得 $4 - \frac{4}{3} y_0^2 +y_0^2 -1 - \left(n - \frac{1}{n}\right)y_0 = 0,$
-
-即 $-\frac{1}{3} y_0^2 - (n - \frac{1}{n}) y_0 + 3 = 0$ ，亦即 $y_0^2 + 3(n - \frac{1}{n}) y_0 - 9 = 0$ ，可得 $(y_0 + 3n)(y_0 - \frac{3}{n}) = 0$ ，即 $y_0 = -3n$ 或 $\frac{3}{n}$ .
-
-又 $y_0 > 0$ ，得 $y_0 = \frac{3}{n}$ 所以 $\frac{|EP|}{|PM|} = \left|\frac{\frac{3}{n}}{\frac{-1}{n}}\right| = 3.$
-
-解法二(几何法): $\angle MEN = \angle MF_{1}N = 90^{\circ}$ , 得 $N, E, F_{1}, M$ 四点共圆. 连接 $EF_{2}, EF_{1}$ , 如图所示.
-
-$\angle F_{2}EM = \angle F_{1}EM$ ，所以 $\frac{EF_2}{EF_1} = \frac{F_2P}{PF_1}\Rightarrow \frac{EF_2 + EF_1}{EF_2} = \frac{F_2P + PF_1}{F_2P},$
-
-![](images/combined/part-001/32f2639581f5f457a03b75d8c4155fbbd8a47230ddb89f591f35b65023e9de0d.jpg)
-
-可得 $\frac{2a}{2c} = \frac{EF_2}{F_2P} = \frac{1}{e} = 2$ ，故 $\frac{EF_2}{F_2P} = 2$ 或 $\frac{EF_1}{F_1P} = 2.$
-
-$\triangle MF_{1}P \sim \triangle MEF_{1}$ , 得 $\frac{MP}{MF_{1}} = \frac{MF_{1}}{ME} = \frac{PF_{1}}{EF_{1}} = \frac{1}{2}, \frac{PM}{MF_{1}} \cdot \frac{MF_{1}}{ME} = \frac{PM}{ME}$ , 所以 $\frac{PM}{ME} = \frac{1}{4}$ , 则 $|PM| = \frac{1}{3} |PE|$ , 故 $\frac{|EP|}{|PM|} = 3$ .
-
-## 14.2 挖掘圆的几何性质
-
-## 研究密钥
-
-圆是非常重要且内涵丰富的图形,当圆锥曲线与圆相结合时,应当充分利用已知条件和图形特征,灵活运用圆的几何性质,如对称性、切线性质、垂径定理、直径所对圆周角为直角等.解题时多思考、多发现,就能少计算、省时间.
-
-例 14.6 (2019 浙江卷)已知椭圆 $C: \frac{x^2}{9} + \frac{y^2}{5} = 1$ 的左焦点为 $F$ , 点 $P$ 在椭圆上且在 $x$ 轴上方, 若线段 $PF$ 的中点在以原点为圆心, $OF$ 的长为半径的圆上, 则直线 $PF$ 的斜率为 \_\_\_\_.
-
-分析 ▶ PF 的中点在圆上, 直径所对圆周角为 $90^{\circ}$ , 所以存在垂直条件. 由等腰三角形三线合一知 $|AP| = |AF| = 4$ (其中 $A$ 为右焦点), 则可得 $|BF|$ 与 $|AB|$ , 再由 $k_{PF} = \tan \angle PFA = \frac{|AB|}{|BF|}$ 得解.
-
-解析 ▶ 设椭圆的右焦点为 A, PF 的中点为点 B, 连接 AB, AP, 如图所示.
-
-![](images/combined/part-001/d6f34dfda17e9a51f075d0ca41f816fc1f9c2585ab78a423f13f4d8a1de9c557.jpg)
-
-由已知 $\left| {AF}\right|  = {2c} = 4$ ,因为点 $B$ 在以原点为圆心, ${OF}$ 长为半径的圆上, 所以 $\angle {ABF} = {90}^{ \circ  }$ ,又点 $B$ 为 ${PF}$ 的中点,所以 ${AB}$ 为线段 ${PF}$ 的垂直平分
-
-线, 所以 $|AP| = |AF| = 4$ , 则 $|PF| = 2a - |AP| = 2$ , $|BF| = 1$ , $|AB| = \sqrt{|AF|^2 - |BF|^2} = \sqrt{15}$ .
-
-故直线 $PF$ 的斜率 $k_{PF} = \tan \angle PFA = \frac{|AB|}{|BF|} = \sqrt{15}$ .
-
-## 评注
-
-本题为填空题,题中出现了圆的条件,且 $\angle ABF$ 恰为直径所对的圆周角,所以利用直径所对圆周角为 $90^{\circ}$ ,我们就得出了重要的垂直条件,进而顺利解决了本题.
-
-变式(1) 已知 $F_{1}, F_{2}$ 为椭圆 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ 的两焦点, 点 $P$ 在椭圆上, 线段 $PF_{1}$ 的中点在以 $F_{1} F_{2}$ 为直径的圆上, 直线 $PF_{1}$ 的斜率为 $\frac{4}{3}$ , 则椭圆的离心率为 \_\_\_\_.
-
-解析 ▶ 设 $PF_{1}$ 的中点为 M，连接 $MF_{2}$ ，不妨设 $\left|MF_{2}\right|=4$ ， $\left|MF_{1}\right|=3$ ，则 $\left|PM\right|=\left|MF_{1}\right|=3,\left|PF_{2}\right|=\left|F_{1}F_{2}\right|=5$ ，故椭圆离心率 $e=\frac{c}{a}=\frac{2c}{2a}=\frac{\left|F_{1}F_{2}\right|}{\left|PF_{1}\right|+\left|PF_{2}\right|}=\frac{5}{11}$ .
-
-![](images/combined/part-001/2f729d2e838a3fd63cfe3bb295eafc23cb00312dbaf12eed53765f784b5c2a64.jpg)
-
-## 评注
-
-焦点三角形的研究也是常考内容,本题是将焦点三角形与图形几何关系相结合研究.
-
-## 14.3 挖掘平行线的几何性质
-
-![](images/combined/part-001/050a07d0473e2068e09ea3223f389ca53ec8f534fb0ce4d7c616c397b100f05e.jpg)
-
-## 研究密钥
-
-当题设条件出现平行线或可挖掘出平行线的条件时,可根据平行线的性质进一步获取诸多信息,如斜率相等、角相等、中点、平行线分线段成比例及三角形相似等,知晓这些条件可以更深入地认识图形结构特征,以避免复杂的代数运算.
-
-例 14.7 (2019 江苏卷) 如图所示, 在平面直角坐标系 $xOy$ 中, 椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的焦点为 $F_1(-1,0), F_2(1,0)$ . 过 $F_2$ 作 $x$ 轴的垂线 $l$ , 在 $x$ 轴的上方, $l$ 与圆 $F_2: (x - 1)^2 +$
-
-$y^{2}=4a^{2}$ 交于点 A，与椭圆 C 交于点 D。连接 $AF_{1}$ 并延长交圆 $F_{2}$ 于点 B，连接 $BF_{2}$ 交椭圆 C 于点 E，连接 $DF_{1}$ 。已知 $DF_{1}=\frac{5}{2}$ 。
-
-(1) 求椭圆 C 的标准方程；
-
-![](images/combined/part-001/7f2328ebfefd4dcf8f312fad2337a1fe81a76315f2556986b95aede31c43e779.jpg)
-
-(2) 求点 E 的坐标.
-
-分析 ▶ (1) 根据焦点坐标可得 $c$ , 已知 $DF_{1} = \frac{5}{2}$ , 根据勾股定理可得 $|DF_{2}| = \sqrt{|DF_{1}|^{2} - |F_{1}F_{2}|^{2}}$ , 根据椭圆的定义可得 $a$ , 根据 $b = \sqrt{a^{2} - c^{2}}$ 可得 $b$ . (2) 求点 $E$ 的坐标, 若用直线和椭圆联立方程求解计算量太大, 设法从其他角度突破. 利用椭圆上的点到两个焦点的距离和为 $2a$ 及圆的半径也是 $2a$ 推出边相等, 进而角相等, 由此发现等腰三角形以及平行、垂直关系, 打开“解题之门”.
-
-解析 ▶ (1)设椭圆 C 的焦距为 2c，因为 $F_{1}(-1,0)$ ， $F_{2}(1,0)$ ，所以 $F_{1}F_{2}=2$ ，c=1，又因为 $\left|DF_{1}\right|=\frac{5}{2}$ ， $AF_{2}\perp x$ 轴，所以 $\left|DF_{2}\right|=\sqrt{\left|DF_{1}\right|^{2}-\left|F_{1}F_{2}\right|^{2}}=\frac{3}{2}$ .
-
-因此 $2a = |DF_{2}| + |DF_{1}| = 4$ ，从而 $a = 2$ ，所以 $b = \sqrt{a^2 - c^2} = \sqrt{3}$ ，所以椭圆 $C$ 的标准方程为 $\frac{x^2}{4} +\frac{y^2}{3} = 1.$
-
-(2)由(1)知,椭圆 $C: \frac{x^2}{4} + \frac{y^2}{3} = 1$ , 连接 $EF_1$ , 如图所示.
-
-因为 $|BF_{2}| = 2a, |EF_{2}| + |EF_{1}| = 2a$ ，所以 $|EF_{1}| = |EB|, \angle BF_{1}E = \angle B.$
-
-![](images/combined/part-001/e5c2840aefb844854734ba2917f98e62ffe16a1fbbcc7ee841993f05dfdb1e6e.jpg)
-
-又 $|F_2A| = |F_2B|$ ，所以 $\angle A = \angle B, \angle A = \angle BF_1E, EF_1 \parallel F_2A.$
-
-因为 $AF_{2} \perp x$ 轴, 所以 $EF_{1} \perp x$ 轴, E 点横坐标 $x_{E} = x_{F_{1}} = -1$ .
-
-代入椭圆方程, 即 $\frac{(-1)^2}{4} + \frac{y^2}{3} = 1$ , 解得 $y = \pm \frac{3}{2}$ .
-
-因为 E 是线段 $BF_{2}$ 与椭圆的交点, 所以 $y_{E} = -\frac{3}{2}$ , 因此 $E\left(-1, -\frac{3}{2}\right)$ .
-
-## 评注
-
-本题通过挖掘图形特征, 发现平行的隐藏条件, 进而通过同位角相等加以证明. 利用平行关系, 可推出 $E$ 点的横坐标, 代入椭圆方程, 就得到了 $E$ 点的纵坐标. 本题再次说明了充分挖掘圆锥曲线中图形的几何性质, 对解题大有作用.
-
-例 14.8 如图所示, 在平面直角坐标系 $xOy$ 中, 点 $B$ 与点 $A(-1,1)$ 关于原点 $O$ 对称, $P$ 是动点, 且直线 $AP$ 与 $BP$ 的斜率之积等于 $-\frac{1}{3}$ .
-
-(1) 求动点 P 的轨迹方程；
-
-![](images/combined/part-001/035fe9ef7c5a949974f67f2a4d831a01717c3a9a2e53f24a4225cc0e5f74a035.jpg)
-
-(2)设直线 $AP$ 与 $BP$ 分别与直线 $x = 3$ 交于点 $N, M$ . 是否存在点 $P$ , 使得 $\triangle PAB$ 与 $\triangle PMN$ 的面积相等? 若存在, 求出点 $P$ 的坐标; 若不存在, 请说明理由.
-
-分析 ▶ (1)已知点 $A$ 的坐标, 根据对称可得点 $B$ 的坐标, 设 $P(x,y)$ , 分别表示出直线 $AP$ 与 $BP$ 的斜率, 根据乘积为 $-\frac{1}{3}$ 可得点 $P$ 的轨迹方程; (2)挖掘图形几何性质, 若使 $\triangle PAB$ 与 $\triangle PMN$ 的面积相等, 即 $\triangle ABN$ 与 $\triangle MBN$ 的面积相等, 那么 $AM \parallel BN$ . 延长 $AB$ 交直线 $x = 3$ 于点 $Q$ , 由 $A,B,Q$ 三点横坐标知点 $B$ 为线段 $AQ$ 的中点, 结合中位线定理, $N$ 为线段 $MQ$ 的中点, 则 $P$ 是 $\triangle AMQ$ 的重心.
-
-解析 (1)由点 $B$ 与点 $A(-1,1)$ 关于原点 $O$ 对称, 则 $B(1,-1)$ .
-
-设 $P(x,y), x \neq \pm 1$ . 由题设可得 $\frac{y-1}{x+1} \cdot \frac{y+1}{x-1} = -\frac{1}{3}$ ，整理得动点 P 的轨迹方程为 $x^{2} + 3y^{2} = 4 (x \neq \pm 1)$ .
-
-(2) 连接 BN, AM, 如图所示.
-
-若 $S_{\triangle PAB} = S_{\triangle PMN}$ ，则 $S_{\triangle ABN} = S_{\triangle MBN}$
-
-因为 $\triangle ABN$ 与 $\triangle MBN$ 同底 $BN$ , 所以点 $A$ 与点 $M$ 到 $BN$ 的距离相等, 故 $AM \parallel BN$ .
-
-![](images/combined/part-001/e20e945e843f6f3b7993e33dd3d99e46479d2f09ff6977174dbdbd850168ace2.jpg)
-
-$$
-x = 3
-$$
-
-的中点, 所以点 $N$ 为线段 $MQ$ 的中点, 因此, 点 $P$ 是 $\triangle AMQ$ 两条中线 $AN$ 与 $BM$ 的交点, 即点 $P$ 是 $\triangle AMQ$ 的重心, 由重心坐标公式得 $x_{P} = \frac{x_{A} + x_{M} + x_{Q}}{3} = \frac{5}{3}$ .
-
-将点 $P$ 的横坐标代入椭圆方程 $x^{2} + 3y^{2} = 4$ 中，得 $y_{P}^{2} = \frac{11}{27}$ ，即 $y_{P} = \pm \frac{\sqrt{33}}{9}$ .
-
-所以存在点 $P$ ，使得 $\triangle PAB$ 与 $\triangle PMN$ 的面积相等，其坐标为 $\left[\frac{5}{3},\pm \frac{\sqrt{33}}{9}\right]$
-
-变式 1: 已知椭圆 $W: \frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ 的离心率为 $\frac{\sqrt{3}}{2}$ , 且经过点 $C(2, \sqrt{3})$ .
-
-(1)求椭圆 W 的方程及其长轴长；
-
-(2) $A, B$ 分别为椭圆 $W$ 的左、右顶点, 点 $D$ 在椭圆 $W$ 上, 且位于 $x$ 轴下方, 直线 $C D$ 交 $x$ 轴于点 $Q$ , 若 $\triangle A C Q$ 的面积比 $\triangle B D Q$ 的面积大 $2 \sqrt{3}$ , 求点 $D$ 的坐标.
-
-分析 ▶ (1) 解方程 $\frac{4}{a^2} + \frac{3}{b^2} = 1$ 和 $\frac{c}{a} = \frac{\sqrt{3}}{2}, a^2 = b^2 + c^2$ , 求出 $a, b$ 的值即可得椭圆 $W$ 的方程和长轴 $2a$ 的值; (2) 由已知条件可计算 $\triangle AOC$ 的面积为 $\frac{1}{2} \times 4 \times \sqrt{3} = 2\sqrt{3}$ . 而 $\triangle ACQ$ 的面积比 $\triangle BDQ$ 的面积大 $2\sqrt{3}$ , $\triangle ACQ$ 的面积等于 $\triangle AOC$ 的面积与 $\triangle COQ$ 面积之和, 可得 $\triangle OCQ$ 的面积等于 $\triangle BDQ$ 的面积, 进而可得 $\triangle OCB$ 的面积等于 $\triangle BCD$ 的面积, 所以 $OD \parallel BC$ . 设 $D(m, n)$ , 利用点 $D$ 在椭圆上以及 $k_{OD} = k_{BC}$ 可求出点 $D$ 的坐标.
-
-解析 (1) 因为椭圆 $W$ 经过点 $C(2, \sqrt{3})$ , 所以 $\frac{4}{a^2} + \frac{3}{b^2} = 1$ .
-
-又椭圆 W 的离心率为 $\frac{\sqrt{3}}{2}$ ，所以 $\frac{c}{a} = \frac{\sqrt{3}}{2}$ ，且 $a^{2} = b^{2} + c^{2}$ ，于是解得 $\left\{\begin{aligned}a &= 4 \\ b &= 2\end{aligned}\right.$ .
-
-故椭圆 W 的方程为 $\frac{x^{2}}{16} + \frac{y^{2}}{4} = 1$ ，长轴长 2a = 8。
-
-(2)因为点 $D$ 在 $x$ 轴下方,所以点 $Q$ 在线段 ${AB}$ (不包括端点)上.
-
-由(1)可知 $A(-4,0)$ , $B(4,0)$ ，所以 $\triangle AOC$ 的面积为 $\frac{1}{2} \times 4 \times \sqrt{3} = 2\sqrt{3}$ .
-
-因为 $\triangle ACQ$ 的面积比 $\triangle BDQ$ 的面积大 $2\sqrt{3}$ ,所以点 $Q$ 在线段 $OB$ (不包括端点)上,且 $\triangle OCQ$ 的面积等于 $\triangle BDQ$ 的面积,则 $\triangle OCB$ 的面积等于 $\triangle BCD$ 的面积, $OD \parallel BC$ .
-
-设 $D(m,n)$ , n<0，则 $\frac{n}{m}=\frac{0-\sqrt{3}}{4-2}=-\frac{\sqrt{3}}{2}$ ①；因为点 D 在椭圆 W 上，所以 $\frac{m^{2}}{16}+\frac{n^{2}}{4}=1$ ②.
-由①②解得 $\left\{\begin{aligned}m=2\\n=-\sqrt{3}\end{aligned}\right.$ ，所以D的坐标为 $(2,-\sqrt{3})$ .
-
-## 评注
-
-本题解题的关键是由 $\triangle ACQ$ 的面积比 $\triangle BDQ$ 的面积大 $2\sqrt{3}$ , 得出 $\triangle OCQ$ 的面积等于 $\triangle BDQ$ 的面积, 进而可得 $\triangle OCB$ 的面积等于 $\triangle BCD$ 的面积, 从而 $OD \parallel BC$ .
-
-## 14.4 圆锥曲线的圆幂定理
-
-## 研究密钥
-
-圆锥曲线的统一的极坐标方程为 $\rho=\frac{ep}{1-ecos\theta}$ ，其中 e 为离心率，p 为焦参数（焦点 F 到准线 l 的距离），具体推导过程如下：如图所示，设点 F 到直线 l 的距离为 p，点 F 在直线 l 上的射影为点 K，以 F 为极点，向量 $\overrightarrow{KF}$ 的方向为极轴的正方向建立极坐标系，点 $P(\rho,\theta)$ 为圆
-
-![](images/combined/part-001/3db99ef89c41d7454144e963f51f68131f84579da554f2da419ed375973b82c8.jpg)
-
-锥曲线上任意一点,其在直线 $l$ 上的投影为点 $M$ , 在极轴上的投影为点 $N$ , 则由圆锥曲线的定义知 $\frac{|PF|}{|PM|} = e$ . 因为 $|PF| = \rho$ , $|PM| = |KF| + |FN| = p + \rho \cos \theta$ , 所以 $\frac{\rho}{p + \rho \cos \theta} = e$ , 化简得 $\rho = \frac{ep}{1 - e \cos \theta}$ .
-
-根据圆锥曲线的统一的极坐标方程,可得如下定理:
-
-## 1. 引理
-
-设过圆锥曲线的焦点 F 的弦 PQ 与 x 轴正半轴的夹角为 $\alpha$ ，则 $|PQ|=\frac{2ep}{1-e^{2}\cos^{2}\alpha}$ .
-
-【证明】由圆锥曲线的统一的极坐标方程可得
-
-$$
-| P Q | = | P F | + | Q F | = \frac {e p}{1 - e \cos \alpha} + \frac {e p}{1 - e \cos (\alpha + \pi)} = \frac {e p}{1 - e \cos \alpha} + \frac {e p}{1 + e \cos \alpha} = \frac {2 e p}{1 - e ^ {2} \cos^ {2} \alpha}.
-$$
-
-## 2. 相交弦、割线定理
-
-已知点 M 不在圆锥曲线 $\Gamma$ 上, 过点 M 作两条直线分别交曲线 $\Gamma$ 于 A, B 两点和 C, D 两点.
-
-(1)当圆锥曲线 $\Gamma$ 是椭圆或双曲线时, 过坐标原点 $O$ 作 $OP \parallel AB$ , $OQ \parallel CD$ , 分别交曲线 $\Gamma$ 于 $P, Q$ 两点, 过焦点 $F$ 作 $A_{1}B_{1} \parallel AB$ , $C_{1}D_{1} \parallel CD$ , 分别交曲线 $\Gamma$ 于 $A_{1}, B_{1}$ 两点和 $C_{1}, D_{1}$ 两点, 则 $\frac{|MA||MB|}{|MC||MD|} = \frac{|OP|^2}{|OQ|^2} = \frac{|A_1B_1|}{|C_1D_1|}$ ;
-
-(2)当圆锥曲线 $\Gamma$ 是抛物线时, 过焦点 $F$ 作 $A_{1}B_{1} \parallel AB, C_{1}D_{1} \parallel CD$ , 分别交曲线 $\Gamma$ 于 $A_{1}$ , $B_{1}$ 两点和 $C_{1}, D_{1}$ 两点, 则 $\frac{|MA||MB|}{|MC||MD|} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ .
-
-【证明】(1)如图所示,当圆锥曲线 $\Gamma$ 是椭圆时,设椭圆的方程为 $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1(a>b>0)$ ,
-
-$M(x_{0},y_{0})$ ，直线 AB 的参数方程为 $\left\{\begin{aligned}x&=x_{0}+t\cos\alpha\\ y&=y_{0}+t\sin\alpha\end{aligned}\right.$ （其中 t 为参数），直线 CD 的参数方程为 $\left\{\begin{aligned}x&=x_{0}+t\cos\beta\\ y&=y_{0}+t\sin\beta\end{aligned}\right.$ （其中 t 为参数）.
-
-![](images/combined/part-001/be737cb8fbfa253291cc981a0c55618598d1b5ae1c9549831638e784af9e42ae.jpg)
-
-![](images/combined/part-001/8f807b18aa2d781a3e2bd1e6fb5eae59630c2adb77614a2f64519d6d33b87f27.jpg)
-
-将直线 AB 的参数方程代入椭圆的方程中, 得
-
-$(b^{2}\cos^{2}\alpha + a^{2}\sin^{2}\alpha)t^{2} + 2(b^{2}x_{0}\cos \alpha + a^{2}y_{0}\sin \alpha)t + b^{2}x_{0}^{2} + a^{2}y_{0}^{2} - a^{2}b^{2} = 0$ ，所以由参数 $t$ 的
-
-几何意义, 可知 $\left|MA\right|\left|MB\right|=\left|t_{1}t_{2}\right|=\left|\frac{b^{2}x_{0}^{2}+a^{2}y_{0}^{2}-a^{2}b^{2}}{b^{2}\cos^{2}\alpha+a^{2}\sin^{2}\alpha}\right|$ .
-
-同理可得 $|MC||MD| = \left|\frac{b^2x_0^2 + a^2y_0^2 - a^2b^2}{b^2\cos^2\beta + a^2\sin^2\beta}\right|$ ，所以 $\frac{|MA||MB|}{|MC||MD|} = \frac{b^2\cos^2\beta + a^2\sin^2\beta}{b^2\cos^2\alpha + a^2\sin^2\alpha}$ .
-
-根据上述推导过程,同理可得 $\frac{|OP|^{2}}{|OQ|^{2}}=\frac{b^{2}\cos^{2}\beta+a^{2}\sin^{2}\beta}{b^{2}\cos^{2}\alpha+a^{2}\sin^{2}\alpha}.$
-
-又根据引理可知 $|A_{1}B_{1}| = \frac{2ep}{1 - e^{2}\cos^{2}\alpha} = \frac{2\cdot\frac{c}{a}\cdot\left(\frac{a^{2}}{c} - c\right)}{1 - \frac{c^{2}}{a^{2}}\cdot\cos^{2}\alpha} = \frac{2ab^{2}}{b^{2}\cos^{2}\alpha + a^{2}\sin^{2}\alpha}, |C_{1}D_{1}| =$
-
-$\frac{2ab^{2}}{b^{2}\cos^{2}\beta+a^{2}\sin^{2}\beta}$ ，所以 $\frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}=\frac{b^{2}\cos^{2}\beta+a^{2}\sin^{2}\beta}{b^{2}\cos^{2}\alpha+a^{2}\sin^{2}\alpha},\frac{|MA||MB|}{|MC||MD|}=\frac{|OP|^{2}}{|OQ|^{2}}=\frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ ，即原结论成立.
-
-当圆锥曲线 $\Gamma$ 是双曲线时, 同理可证结论正确.
-
-(2)如图所示,当圆锥曲线 $\Gamma$ 是抛物线时,设抛物线的方程为 $y^{2}=2px(p>0)$ , $M(x_{0},y_{0})$ , 直线 AB 的参数方程为 $\left\{\begin{aligned}x&=x_{0}+t\cos\alpha\\ y&=y_{0}+t\sin\alpha\end{aligned}\right.$ (其中 t 为参数), 直线 CD 的参数方程为 $\left\{\begin{aligned}x&=x_{0}+t\cos\beta\\ y&=y_{0}+t\sin\beta\end{aligned}\right.$ (其中 t 为参数).
-
-![](images/combined/part-001/4f5609fbe323dfc8cb6637bff2c91bcc7d6c441617ab33a87681542e30fcfe87.jpg)
-
-![](images/combined/part-001/ff3df4192729fc68173061df83a4a01d7c502d09b98fa2974282fdb639eb2c68.jpg)
-
-将直线 AB 的参数方程代入抛物线的方程中, 得 $t^{2}\sin^{2}\alpha + 2(y_{0}\sin\alpha - p\cos\alpha)t + y_{0}^{2} - 2px_{0} = 0$ , 所以由参数 t 的几何意义, 可知 $\left|MA\right|\left|MB\right| = \left|t_{1}t_{2}\right| = \left|\frac{y_{0}^{2} - 2px_{0}}{\sin^{2}\alpha}\right|$ .
-
-同理可得 $|MC||MD| = \left|\frac{y_0^2 - 2px_0}{\sin^2\beta}\right|$ ，所以 $\frac{|MA||MB|}{|MC||MD|} = \frac{\sin^2\beta}{\sin^2\alpha}$ .
-
-根据引理可知 $\left|A_{1}B_{1}\right|=\frac{2ep}{1-e^{2}\cos^{2}\alpha}=\frac{2p}{\sin^{2}\alpha},\left|C_{1}D_{1}\right|=\frac{2p}{\sin^{2}\beta}$ ，所以 $\frac{\left|A_{1}B_{1}\right|}{\left|C_{1}D_{1}\right|}=\frac{\sin^{2}\beta}{\sin^{2}\alpha}$ $\frac{|MA||MB|}{|MC||MD|}=\frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ ，即原结论成立.
-
-## 3. 切割线定理
-
-已知点 M 在圆锥曲线 $\Gamma$ 的外部, 过点 M 作两条直线, 其中一条直线与曲线 $\Gamma$ 相切于点 A, 另一条直线交曲线 $\Gamma$ 于 C, D 两点.
-
-(1)当圆锥曲线 $\Gamma$ 是椭圆或双曲线时, 过坐标原点 $O$ 作 $OP \parallel MA$ , $OQ \parallel CD$ , 分别交曲线 $\Gamma$ 于 $P, Q$ 两点, 过焦点 $F$ 作 $A_{1}B_{1} \parallel MA$ , $C_{1}D_{1} \parallel CD$ , 分别交曲线 $\Gamma$ 于 $A_{1}, B_{1}$ 两点和 $C_{1}, D_{1}$ 两点, 则 $\frac{|MA|^{2}}{|MC||MD|} = \frac{|OP|^{2}}{|OQ|^{2}} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ ;
-
-(2)当圆锥曲线 $\Gamma$ 是抛物线时, 过焦点 F 作 $A_{1}B_{1} \parallel MA, C_{1}D_{1} \parallel CD$ , 分别交曲线 $\Gamma$ 于 $A_{1}, B_{1}$ 两点和 $C_{1}, D_{1}$ 两点, 则 $\frac{|MA|^{2}}{|MC||MD|} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ .
-
-## 4. 切线定理
-
-已知点 M 在圆锥曲线 $\Gamma$ 的外部, 过点 M 作两条直线, 分别与曲线 $\Gamma$ 相切于 A, C 两点.
-
-(1)当圆锥曲线 $\Gamma$ 是椭圆或双曲线时, 过坐标原点 $O$ 作 $OP \parallel MA$ , $OQ \parallel MC$ , 分别交曲线 $\Gamma$ 于 $P, Q$ 两点, 过焦点 $F$ 作 $A_{1}B_{1} \parallel MA$ , $C_{1}D_{1} \parallel MC$ , 分别交曲线 $\Gamma$ 于 $A_{1}, B_{1}$ 两点和 $C_{1}, D_{1}$ 两点, 则 $\frac{|MA|^{2}}{|MC|^{2}} = \frac{|OP|^{2}}{|OQ|^{2}} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ ;
-
-(2)当圆锥曲线 $\Gamma$ 是抛物线时, 过焦点 F 作 $A_{1}B_{1} \parallel MA, C_{1}D_{1} \parallel MC$ , 分别交曲线 $\Gamma$ 于 $A_{1}, B_{1}$ 两点和 $C_{1}, D_{1}$ 两点, 则 $\frac{|MA|^{2}}{|MC|^{2}} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ .
-
-【特别说明】当过点 M 所作的两条直线的斜率互为相反数时, 易得 $\left|A_{1}B_{1}\right|=\left|C_{1}D_{1}\right|$ , 所以 $\left|MA\right|\left|MB\right|=\left|MC\right|\left|MD\right|$ 或 $\left|MA\right|^{2}=\left|MC\right|\left|MD\right|$ 或 $\left|MA\right|^{2}=\left|MC\right|^{2}$ .
-
-例 14.9 已知椭圆 $E: \frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ 的一个顶点为 $(0, \sqrt{3})$ ，离心率为 $\frac{1}{2}$ .
-
-(1) 求椭圆 E 的方程：
-
-(2)设过椭圆右焦点的直线 $l_{1}$ 交椭圆于 $A, B$ 两点, 过原点的直线 $l_{2}$ 交椭圆于 $C, D$ 两点, 若 $l_{1} \parallel l_{2}$ , 求证: $\frac{|CD|^{2}}{|AB|}$ 为定值.
-
-分析 ▶ (1) 根据题意可得 $\left\{ \begin{array}{l} b = \sqrt{3} \\ \frac{c}{a} = \frac{1}{2} \end{array} \right.$ , 结合 $a^2 - b^2 = c^2$ , 可得 $a, b, c$ ; (2) 可直接应用椭圆的相交弦定理, 根据其结论可得 $\frac{|OC||OD|}{a^2} = \frac{|AB|}{2a}$ , 而 $|CD|^2 = 4|OC||OD|$ , 综合起来可得 $\frac{|CD|^2}{|AB|}$ 为定值.
-
-解析 (1)根据题意可得 $\left\{ \begin{array}{l} b = \sqrt{3} \\ \frac{c}{a} = \frac{1}{2} \end{array} \right.$ , 结合 $a^2 - b^2 = c^2$ , 可得 $\left\{ \begin{array}{l} a = 2 \\ b = \sqrt{3} \end{array} \right.$ , 所以椭圆 $E$ 的方程为 $\frac{x^2}{4} + \frac{y^2}{3} = 1$ .
-
-(2)根据结论可得 $\frac{|CD|^{2}}{|AB|}=\frac{4|OC||OD|}{|AB|}$ . 又 $\frac{|OC||OD|}{a^{2}}=\frac{|AB|}{2a}$ ，则 $\frac{|OC||OD|}{|AB|}=\frac{a}{2}$ ，因此 $\frac{|CD|^{2}}{|AB|}=2a=4$ （定值）.
-
-例 14.10 已知点 O 为坐标原点, 点 F 为椭圆 $C: x^{2} + \frac{y^{2}}{2} = 1$ 在 y 轴正半轴上的焦点, 过点 F 且斜率为 $-\sqrt{2}$ 的直线 l 与椭圆 C 交于 A, B 两点, 点 P 满足 $\overrightarrow{OA} + \overrightarrow{OB} + \overrightarrow{OP} = 0$ .
-
-(1)证明: 点 P 在椭圆 C 上;
-
-(2)设点 $P$ 关于坐标原点 $O$ 的对称点为点 $Q$ ,证明: $A,P,B,Q$ 四点在同一个圆上.
-
-分析 ▶ (1) $\overrightarrow{OA} + \overrightarrow{OB} + \overrightarrow{OP} = 0 \Rightarrow (x_{1} + x_{2} + x_{P}, y_{1} + y_{2} + y_{P}) = (0,0)$ , 求出点 $P$ 坐标, 看是否满足椭圆方程; (2) 要证明四点共圆, 根据目前掌握的条件可尝试使用圆的相交弦定理的逆定理. 设 $AB$ 和 $PQ$ 交于点 $M$ , 即证明 $|MA||MB| = |MP||MQ|$ , 过焦点 $F$ 作 $C_{1}D_{1} // PQ$ 交椭圆于 $C_{1}, D_{1}$ 两点, 则根据椭圆的相交弦定理, 有 $\frac{|MA||MB|}{|MP||MQ|} = \frac{|AB|}{|C_{1}D_{1}|}$ , 由椭圆对称性有 $|AB| = |C_{1}D_{1}|$ , 因此得证.
-
-解析 (1) 易求得 $F(0,1)$ , 所以直线 $l$ 的方程为 $y = -\sqrt{2} x + 1$ .
-
-联立方程组 $\left\{ \begin{array}{l} x^{2} + \frac{y^{2}}{2} = 1 \\ y = -\sqrt{2}x + 1 \end{array} \right.$ ，得 $4x^{2} - 2\sqrt{2}x - 1 = 0$ ，解得 $x_{1} + x_{2} = \frac{\sqrt{2}}{2}$ ，所以 $y_{1} + y_{2} = -\sqrt{2}(x_{1} + x_{2}) + 2 = 1$ .
-
-因为 $\overrightarrow{OA} +\overrightarrow{OB} +\overrightarrow{OP} = 0$ ，即 $(x_{1} + x_{2} + x_{P},y_{1} + y_{2} + y_{P}) = (0,0)$ ，所以 $P\left[-\frac{\sqrt{2}}{2}, - 1\right].$
-
-又点 $P$ 的坐标满足椭圆 $C$ 的方程, 所以点 $P$ 在椭圆 $C$ 上.
-
-(2)如图所示,连接 PQ, 设 AB 和 PQ 交于点 M, 过焦点 F 作 $C_{1}D_{1} \parallel PQ$ 交椭圆于 $C_{1}, D_{1}$ 两点, 则根据椭圆的相交弦定理, 可得 $\frac{|MA||MB|}{|MP||MQ|} = \frac{|AB|}{|C_{1}D_{1}|}$ .
-
-![](images/combined/part-001/ec47168933b827facea81d0292c9a202d9df5b6890b8ab6ac96b5a50f65b5ffa.jpg)
-
-因为 $k_{PQ}=k_{OP}=\frac{-1}{-\frac{\sqrt{2}}{2}}=\sqrt{2}$ ，所以 $k_{AB}=-k_{PQ}$ ，直线 AB, $C_{1}D_{1}$ 的斜率互为相反数，则由椭圆
-
-的对称性可知 $|AB|=|C_{1}D_{1}|$ ，即 $\frac{|MA||MB|}{|MP||MQ|}=\frac{|AB|}{|C_{1}D_{1}|}=1,|MA||MB|=|MP||MQ|$ .
-
-故由圆的相交弦定理的逆定理, 可知 $A, P, B, Q$ 四点在同一个圆上.
-
-变式(1) 已知椭圆 $E: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的一个焦点与短轴的两个端点是正三角形的三个顶点, 点 $P(\sqrt{3}, \frac{1}{2})$ 在椭圆 $E$ 上.
-
-(1)求椭圆 E 的方程；
-
-(2)设不过原点 O 且斜率为 $\frac{1}{2}$ 的直线 l 与椭圆 E 交于不同的两点 A, B, 线段 AB 的中点为 M, 直线 OM 与椭圆 E 交于 C, D 两点, 证明: $|MA||MB|=|MC||MD|$ .
-
-解析 ▶ (1) 因为椭圆的一个焦点与短轴的两个端点是正三角形的三个顶点, 且点 $P\left(\sqrt{3}, \frac{1}{2}\right)$ 在椭圆上, 所以 $\left\{\begin{array}{l} 2b = a \\ \frac{3}{a^2} + \frac{1}{4b^2} = 1 \end{array}\right.$ , 结合 $a^2 = b^2 + c^2$ , 可得 $\left\{\begin{array}{l} a^2 = 4 \\ b^2 = 1 \end{array}\right.$ , 所以椭圆 $E$ 的方程为 $\frac{x^2}{4} + y^2 = 1$ .
-
-(2)如图所示,过左焦点 F 作 $A_{1}B_{1} \parallel AB$ 交椭圆于 $A_{1}, B_{1}$ 两点,作 $C_{1}D_{1} \parallel CD$ 交椭圆于 $C_{1}, D_{1}$ 两点,则根据椭圆的相交弦定理,可得 $\frac{|MA||MB|}{|MC||MD|} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ .
-
-![](images/combined/part-001/cb71ca15fd8814d09dc55b862e75386682b9ea533f9d4316cef4c268a7e7130e.jpg)
-
-因为点 M 是 AB 的中点, 所以由椭圆的垂径定理, 可得 $k_{OM} \cdot k_{AB} = -\frac{b^{2}}{a^{2}} = -\frac{1}{4}$ , 又 $k_{AB} = \frac{1}{2}$ , 所以 $k_{OM} = -\frac{1}{2}$ , 直线 $A_{1}B_{1}, C_{1}D_{1}$ 的斜率分别为 $\frac{1}{2}, -\frac{1}{2}$ , 即直线 $A_{1}B_{1}, C_{1}D_{1}$ 的斜率互为相反数, 所以由椭圆的对称性可知 $|A_{1}B_{1}| = |C_{1}D_{1}|$ , $\frac{|MA||MB|}{|MC||MD|} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|} = 1$ , 即 $|MA||MB| = |MC||MD|$ .
-
-解后反思
-
-## 圆锥曲线相交弦结论的推广
-
-【推广】已知 AB 和 CD 是圆锥曲线 $\Gamma$ 的两条相交弦, 证明: 当且仅当直线 AB 和直线 CD 的倾斜角互补时, A, B, C, D 四点共圆.
-
-【证明】设 AB 和 CD 交于点 M，直线 AB, CD 的倾斜角分别为 $\alpha$ 、 $\beta$ 。过焦点 F 作 $A_{1}B_{1} \parallel AB, C_{1}D_{1} \parallel CD$ ，分别交曲线 $\Gamma$ 于 $A_{1}, B_{1}$ 两点和 $C_{1}, D_{1}$ 两点，则由圆锥曲线的相交弦定理，可得 $\frac{|MA||MB|}{|MC||MD|} = \frac{|A_{1}B_{1}|}{|C_{1}D_{1}|}$ 。
-
-又根据圆锥曲线的焦点弦长公式 $l = \frac{2ep}{1 - e^2\cos^2\alpha}$ ，可得 $\left\{ \begin{array}{l} |A_1B_1| = \frac{2ep}{1 - e^2\cos^2\alpha} \\ |C_1D_1| = \frac{2ep}{1 - e^2\cos^2\beta} \end{array} \right.$ ，所以 $A, B, C, D$ 四点共圆 $\Leftrightarrow |MA||MB| = |MC||MD| \Leftrightarrow |A_1B_1| = |C_1D_1| \Leftrightarrow \cos^2\alpha = \cos^2\beta \Leftrightarrow \cos \alpha = -\cos \beta \Leftrightarrow \alpha = \pi - \beta \Leftrightarrow$ 直线 $AB$ 和直线 $CD$ 的倾斜角互补.
-
-变式(2) (2021 新高考全国 I 卷 21) 在平面直角坐标系 $xOy$ 中, 已知点 $F_{1}(-\sqrt{17},0)$ , $F_{2}(\sqrt{17},0)$ , 点 $M$ 满足 $|MF_{1}|-|MF_{2}|=2$ . 记 $M$ 的轨迹为 $C$ .
-
-(1) 求 $C$ 的方程；
-
-(2)设点 $T$ 在直线 $x = \frac{1}{2}$ 上, 过 $T$ 的两条直线分别交 $C$ 于 $A, B$ 两点和 $P, Q$ 两点, 且 $|TA||TB| = |TP||TQ|$ , 求直线 $AB$ 的斜率与直线 $PQ$ 的斜率之和.
-
-解析 ▶ (1) 因为 $|MF_1| - |MF_2| = 2 < 2\sqrt{17} = |F_1F_2|$ , 所以轨迹 $C$ 为双曲线的右半支, $c^2 = 17, 2a = 2$ ,
-
-所以 $a^{2}=1, b^{2}=16$ ，故 C 的方程为 $x^{2}-\frac{y^{2}}{16}=1(x\geqslant1)$ .
-
-(2) 如图所示, 设 $T\left(\frac{1}{2}, n\right)$ , $AB: y - n = k_{1}\left(x - \frac{1}{2}\right)$ , 联立 $\left\{ \begin{array}{l} y - n = k_{1}\left(x - \frac{1}{2}\right) \\ x^{2} - \frac{y^{2}}{16} = 1 \end{array} \right.$ , 可得 $(16 - k_{1}^{2})x^{2} + (k_{1}^{2} - 2k_{1}n)x - \frac{1}{4}k_{1}^{2} - n^{2} + k_{1}n -$
-
-![](images/combined/part-001/418867896a6c60971047cd21f8b7a23c34d5e1ad8ac574dc5dd3721d984fbb7a.jpg)
-
-16=0, 所以 $x_{1}+x_{2}=\frac{k_{1}^{2}-2k_{1}n}{k_{1}^{2}-16}$ , $x_{1}x_{2}=\frac{\frac{1}{4}k_{1}^{2}+n^{2}-k_{1}n+16}{k_{1}^{2}-16}$ , $|TA|=\sqrt{1+k_{1}^{2}}\left(x_{1}-\frac{1}{2}\right)$ , $|TB|=$ $\sqrt{1+k_{1}^{2}}\left(x_{2}-\frac{1}{2}\right)$ ，则 $|TA||TB|=(1+k_{1}^{2})\left(x_{1}-\frac{1}{2}\right)\left(x_{2}-\frac{1}{2}\right)=\frac{(n^{2}+12)(1+k_{1}^{2})}{k_{1}^{2}-16}$ .
-
-设 $PQ: y - n = k_{2}\left(x - \frac{1}{2}\right)$ , 同理 $|TP||TQ| = \frac{(n^{2} + 12)(1 + k_{2}^{2})}{k_{2}^{2} - 16}$ .
-
-因为 $|TA||TB| = |TP||TQ|$ ，所以 $\frac{1 + k_1^2}{k_1^2 - 16} = \frac{1 + k_2^2}{k_2^2 - 16}, 1 + \frac{17}{k_1^2 - 16} = 1 + \frac{17}{k_2^2 - 16}$ ，则 $k_1^2 - 16 = k_2^2 - 16$ ，即 $k_1^2 = k_2^2$ .
-
-又 $k_{1} \neq k_{2}$ , 所以 $k_{1} + k_{2} = 0$ .
-
-## 评注
-
-运用直线的参数方程求解线段的乘积,计算效率更高,大家可以试试.
-
-变式 3 如图所示, 已知抛物线 $C: y^{2} = 2px (p > 0)$ 的焦点为点 $F$ , 直线 $y = 4$ 与 $y$ 轴的交点为点 $P$ , 与抛物线 $C$ 的交点为点 $Q$ , 且 $|QF| = \frac{5}{4} |PQ|$ .
-
-(1)求抛物线 C 的方程；
-
-![](images/combined/part-001/63185146685209d77b24fbcd4a482a89f5f9f0c67b806e93e4024f045ca76369.jpg)
-
-(2)过点 $F$ 的直线 $l$ 与抛物线 $C$ 相交于 $A, B$ 两点, 若线段 $AB$ 的垂直平分线 $l'$ 与抛物线 $C$ 相交于 $M, N$ 两点, 且 $A, M, B, N$ 四点在同一个圆上, 求直线 $l$ 的方程.
-
-解析 ▶ (1) 设 $Q(x_{Q}, 4)$ ，代入抛物线 C 的方程中，可得 $4^{2} = 2px_{Q}$ ，所以 $x_{Q} = \frac{8}{p}$ .
-
-根据抛物线的定义可得 $|QF| = x_{Q} + \frac{p}{2} = \frac{8}{p} + \frac{p}{2}$ , 又 $|PQ| = x_{Q} = \frac{8}{p}$ , 所以根据 $|QF| = \frac{5}{4} |PQ|$ , 可得 $\frac{8}{p} + \frac{p}{2} = \frac{5}{4} \times \frac{8}{p}$ , 解得 $p = 2$ (舍去负值).
-
-故抛物线 C 的方程为 $y^{2}=4x$ .
-
-(2)设 ${AB}$ 和 ${MN}$ 交于点 ${O}^{\prime }$ ,过点 $F$ 作 ${C}_{1}{D}_{1}//{MN}$ 交抛物线于 ${C}_{1},{D}_{1}$ 两点.
-
-因为 A, M, B, N 四点在同一个圆上, 所以 $\left|O^{\prime}A\right|\left|O^{\prime}B\right| = \left|O^{\prime}M\right|\left|O^{\prime}N\right|$ , 根据抛物线的相交弦定理, 可得 $\frac{\left|O^{\prime}A\right|\left|O^{\prime}B\right|}{\left|O^{\prime}M\right|\left|O^{\prime}N\right|} = \frac{|AB|}{\left|C_{1}D_{1}\right|} = 1$ , 即 $\left|AB\right| = \left|C_{1}D_{1}\right|$ .
-
-设直线 $AB$ 的倾斜角为 $\theta$ , 则直线 $C_1D_1$ 的倾斜角为 $\theta + \frac{\pi}{2}$ , 由抛物线的焦点弦长 $l = \frac{2ep}{1 - e^2\cos^2\alpha}$ , 可得 $\left\{ \begin{array}{l} |AB| = \frac{4}{1 - \cos^2\theta} \\ |C_1D_1| = \frac{4}{1 - \cos^2\left(\theta + \frac{\pi}{2}\right)} = \frac{4}{1 - \sin^2\theta} \end{array} \right.$ , 所以 $\frac{4}{1 - \cos^2\theta} = \frac{4}{1 - \sin^2\theta}$ , 解得 $\tan \theta = \pm 1$ .
-
-又 $F(1,0)$ ，故直线 l 的方程为 y=x-1 或 $y=-(x-1)$ ，即 x-y-1=0 或 $x+y-1=0$ 。
-
-## 14.5 圆锥曲线的蝴蝶定理
-
-## 研究密钥
-
-蝴蝶定理最开始是一个关于圆的定理,因其图形像一只翩翩起舞的蝴蝶,故被称为蝴蝶定理.后来被推广到任意二次曲线之中,一些试题的命题背景颇具蝴蝶定理的特色.
-
-蝴蝶定理:如图所示,在圆锥曲线 $\Gamma$ 中,过弦 AB 的中点 M 任意作两条弦 CD 和 EF,直线 CE 与直线 DF 分别交直线 AB 于 P,Q 两点,则有 $|MP|=|MQ|$ .
-
-![](images/combined/part-001/b1faaebfea274d702e0bc27f684374bfdfcdbc402624f3ce448bb08a86c1e1c0.jpg)
-
-【证明】如图所示,以点 M 为原点,弦 AB 所在的直线为 y 轴,垂直 AB 的直线为 x 轴,建立直角坐标系.
-
-![](images/combined/part-001/f8f42b7488140988d1843b4305c12257c272d7e64a3000369e8f5fd8c9a7f5f7.jpg)
-
-![](images/combined/part-001/b27ff8e8ac9ab465fa63a83715079bb09f3e2bf2fc907dbb910567c4b66ed84f.jpg)
-
-设圆锥曲线 $\Gamma$ 的方程为 $ax^{2}+2bxy+cy^{2}+2dx+2ey+f=0(*), A(0,t), B(0,-t)$ ，可知 t, -t 是关于 y 的方程 $cy^{2}+2ey+f=0$ 的两个根，所以 e=0。
-
-①若直线 $CD, EF$ 中有一条直线的斜率不存在, 则 $P, Q$ 两点和 $A, B$ 两点重合, 结论成立;
-
-②若直线 $CD, EF$ 的斜率都存在, 则设直线 $CD, EF$ 的方程分别为 $y = k_{1}x, y = k_{2}x$ , 且 $C(x_{1}, k_{1}x_{1}), D(x_{2}, k_{1}x_{2}), E(x_{3}, k_{2}x_{3}), F(x_{4}, k_{2}x_{4})$ , 则直线 $CE$ 的方程为 $y = \frac{k_{2}x_{3} - k_{1}x_{1}}{x_{3} - x_{1}} (x - x_{1}) + k_{1}x_{1}$ , 令 $x = 0$ , 可得 $y_{P} = \frac{x_{1}x_{3}(k_{1} - k_{2})}{x_{3} - x_{1}}$ .
-
-同理可得 $y_{Q}=\frac{x_{2}x_{4}(k_{1}-k_{2})}{x_{4}-x_{2}}$ ，所以 $y_{P}+y_{Q}=\frac{(k_{1}-k_{2})\left[x_{3}x_{4}(x_{1}+x_{2})-x_{1}x_{2}(x_{3}+x_{4})\right]}{(x_{3}-x_{1})(x_{4}-x_{2})}$ .
-
-将 $y = k_{1}x$ 代入 $(\ast)$ 式，得 $(a + 2bk_{1} + ck_{1}^{2})x^{2} + (2d + 2ek_{1})x + f = 0$ ，由 $e = 0$ ，可得 $\left\{ \begin{array}{l}x_{1} + x_{2} = -\frac{2d}{a + 2bk_{1} + ck_{1}^{2}}\\ x_{1}x_{2} = \frac{f}{a + 2bk_{1} + ck_{1}^{2}} \end{array} \right.$ ，同理可得 $\left\{ \begin{array}{l}x_3 + x_4 = -\frac{2d}{a + 2bk_2 + ck_2^2}\\ x_3x_4 = \frac{f}{a + 2bk_2 + ck_2^2} \end{array} \right.$
-
-所以 $y_{P} + y_{Q} = 0$ ，即 $|MP| = |MQ|$ .
-
-例14.11 已知抛物线 $y = x^2$ 和三个点 $M(x_0, y_0), P(0, y_0), N(-x_0, y_0) (y_0 \neq x_0^2, y_0 > 0)$ ，过点 $M$ 的一条直线交抛物线于 $A, B$ 两点， $AP, BP$ 的延长线分别交抛物线于 $E, F$ 两点，证明： $E, F, N$ 三点共线。
-
-分析 ▶ 连接 EF 与 $y = y_{0}$ 交于一点, 证明这个点与 N 点为同一点即可. 根据圆锥曲线的蝴蝶定理结合线段长度的等量关系确定此两点为同一点.
-
-解析 如图所示,作直线 $y=y_{0}$ 交抛物线于 Q,R 两点,连接 EF,设 EF 与 PQ 交于点 $N'$ , 因为 PQ=PR, 所以根据圆锥曲线的蝴蝶定理,可得 $PM=PN'$ .
-
-又根据题意可知 $PM = PN$ ，所以 $N'$ ， $N$ 两点重合，故 $E, F, N$ 三点共线。
-
-![](images/combined/part-001/2991a0c130a27d6ca1f1fc76633ae8c33f390e56dee751ecf095fee485d173b0.jpg)
-
-## 评注
-
-如果将抛物线的方程改为 $x^{2} = 2py (p > 0)$ , 且满足 $x_{0}^{2} \neq 2py_{0}, y_{0} > 0$ , 那么结论仍然成立, 同理可知该结论在椭圆和双曲线中也成立.
-
-变式 1 如图所示, 已知椭圆 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ 和三个点 $M(x_{0}, y_{0}), P(0, y_{0}), N(-x_{0}, y_{0}) \left( \frac{x_{0}^{2}}{a^{2}} + \frac{y_{0}^{2}}{b^{2}} < 1, -b < y_{0} < 0 \right)$ , 过点 $M$ 的一条直线交椭圆于 $A, B$ 两点, $AP, BP$ 的延长线分别交椭圆于 $E, F$ 两点, 证明: $E, F, N$ 三点共线.
-
-![](images/combined/part-001/84fe19b4d9d0eadd03f733ddfbd30effd1b5dec2b74e094f36809daca1665c37.jpg)
-
-证明 如图所示,作直线 $y=y_{0}$ 交椭圆于 Q,R 两点,连接 EF,设 EF 与 PQ 交于点 $N'$ .
-
-因为 PQ=PR，所以根据圆锥曲线的蝴蝶定理，可得 $PM=PN'$ ，又根据题意可知 PM=PN，所以 $N'$ ，N 两点重合，点 N 在直线 EF 上.
-
-![](images/combined/part-001/38f88eb56f5478570d6b3615c4eb5f9063cee1c7a8db138133782dde31dad287.jpg)
-
-故 $E, F, N$ 三点共线.
-
-例 14.12 (2003 北京卷理 18) 如图所示, 已知椭圆的长轴 $A_{1}A_{2}$ 与 $x$ 轴平行, 短轴 $B_{1}B_{2}$ 在 $y$ 轴上, 中心为 $M(0,r)(b>r>0)$ .
-
-(1) 写出椭圆的方程并求出焦点坐标和离心率；
-
-(2) 设直线 $y = k_{1}x$ 与椭圆交于 $C(x_{1}, y_{1})$ ,
-
-![](images/combined/part-001/c08823784112ffc04e9be0c2e8629310c7e17f1bd90453f6831ddb38624ca625.jpg)
-
-$D(x_{2},y_{2})(y_{2}>0)$ ，直线 $y=k_{2}x$ 与椭圆交于 $G(x_{3},y_{3})$ ， $H(x_{4},y_{4})(y_{4}>0)$ ，求证： $\frac{k_{1}x_{1}x_{2}}{x_{1}+x_{2}}=\frac{k_{2}x_{3}x_{4}}{x_{3}+x_{4}}$ ;
-
-(3)对于(2)中的 C, D, G, H 四点, 设 CH 交 x 轴于点 P, GD 交 x 轴于点 Q, 求证: $|OP| = |OQ|$ (证明过程不考虑 GH 或 CD 垂直于 x 轴的情形).
-
-分析 (1)通过平移得焦点坐标,离心率同中心在原点的椭圆;(2)曲直联立后进行坐标运算,得出 $\frac{k_{1}x_{1}x_{2}}{x_{1}+x_{2}}$ 与 $\frac{k_{2}x_{3}x_{4}}{x_{3}+x_{4}}$ 的相等关系;(3)思路一:要证|OP|=|OQ|,即证|x $_{P}$ |=|x $_{Q}$ |,也即证 $x_{P}$ +x $_{Q}$ =0,所以分别表示出 $x_{P}$ ,x $_{Q}$ ,证明 $x_{P}$ +x $_{Q}$ =0;思路二:因为点O是x轴与椭圆相交所得弦的中点,直接应用圆锥曲线的蝴蝶定理.
-
-解析 (1) 椭圆的方程为 $\frac{x^2}{a^2} + \frac{(y - r)^2}{b^2} = 1$ , 焦点坐标为 $(\pm \sqrt{a^2 - b^2}, r)$ , 离心率为 $\frac{\sqrt{a^2 - b^2}}{a}$ .
-
-(2) 将直线 $CD$ 的方程 $y = k_{1}x$ 代入椭圆的方程 $\frac{x^{2}}{a^{2}} + \frac{(y - r)^{2}}{b^{2}} = 1$ 中, 整理得 $(b^{2} + a^{2}k_{1}^{2})x^{2} - 2k_{1}a^{2}rx + (a^{2}r^{2} - a^{2}b^{2}) = 0$ .
-
-根据韦达定理, 得 $\left\{\begin{aligned}x_{1}+x_{2}&=\frac{2k_{1}a^{2}r}{b^{2}+a^{2}k_{1}^{2}}\\ x_{1}x_{2}&=\frac{a^{2}r^{2}-a^{2}b^{2}}{b^{2}+a^{2}k_{1}^{2}}\end{aligned}\right.$ ，所以 $\frac{x_{1}x_{2}}{x_{1}+x_{2}}=\frac{r^{2}-b^{2}}{2k_{1}r}$ .
-
-同理可得 $\frac{x_3x_4}{x_3 + x_4} = \frac{r^2 - b^2}{2k_2r}$ ，则 $\frac{k_1x_1x_2}{x_1 + x_2} = \frac{r^2 - b^2}{2r} = \frac{k_2x_3x_4}{x_3 + x_4}$ .
-
-(3)证法一(坐标运算): 根据 C, P, H 三点共线, 可得 $\frac{y_{4}}{x_{4}-x_{P}} = \frac{y_{1}}{x_{1}-x_{P}}$ , 即 $\frac{k_{2}x_{4}}{x_{4}-x_{P}} = \frac{k_{1}x_{1}}{x_{1}-x_{P}}$ , 解得 $x_{P} = \frac{(k_{1}-k_{2})x_{1}x_{4}}{k_{1}x_{1}-k_{2}x_{4}}$ , 同理可得 $x_{Q} = \frac{(k_{1}-k_{2})x_{2}x_{3}}{k_{1}x_{2}-k_{2}x_{3}}$ .
-
-根据(2)中的结论 $\frac{k_1x_1x_2}{x_1 + x_2} = \frac{k_2x_3x_4}{x_3 + x_4}$ , 可得
-
-$$
-x _ {P} + x _ {Q} = \frac {(k _ {1} - k _ {2}) [ k _ {1} x _ {1} x _ {2} (x _ {3} + x _ {4}) - k _ {2} x _ {3} x _ {4} (x _ {1} + x _ {2}) ]}{(k _ {1} x _ {1} - k _ {2} x _ {4}) (k _ {1} x _ {2} - k _ {2} x _ {3})} = 0,
-$$
-
-所以 $|x_{P}| = |x_{Q}|$ ，即 $|OP| = |OQ|$ .
-
-证法二(蝴蝶定理): 因为点 O 是 x 轴与椭圆相交所得弦的中点, 且 CH 交 x 轴于点 P, GD 交 x 轴于点 Q, 所以根据圆锥曲线的蝴蝶定理, 可得 $\left|OP\right| = \left|OQ\right|$ .
-
-![](images/combined/part-001/2199d647bbfe216cecac323932c5c8c6fa3a38b4dcf35096838c63e78edf5058.jpg)
-
-# 圆锥曲线的光学性质及其应用
-
-## 14.6 圆锥曲线的光学性质
-
-![](images/combined/part-001/c1271e3ae9be7ecbc36479c6d7945ed1fefa0a8c3c3f5281b2b6f5697f18da60.jpg)
-
-## 研究密钥
-
-圆锥曲线的光学性质背后蕴含着奇妙的数学关系. 要探究圆锥曲线的光学性质, 首先必须将这样一个光学实际问题, 转化为数学问题, 用我们学过的知识进行解释论证.
-
-## 1. 椭圆的光学性质
-
-从椭圆一个焦点发出的光,经过椭圆反射后,反射光线都汇聚到椭圆的另一个焦点上.椭圆的这种光学特性,常被用来设计一些照明设备或聚热装置.
-
-## 2. 双曲线的光学性质
-
-从双曲线一个焦点发出的光,经过双曲线反射后,反射光线的反向延长线都汇聚到双曲线的另一个焦点. 双曲线的这种反向虚聚焦性质,常被用在天文望远镜的设计等方面.
-
-## 3. 抛物线的光学性质
-
-从抛物线的焦点发出的光,经过抛物线反射后,反射光线都平行于抛物线的轴.抛物线这种聚焦特性,成为聚能装置或定向发射装置的最佳选择.
-
-以下就将圆锥曲线的光学性质用数学的方法进行解释论证.
-
-例 14.13（椭圆的光学性质）: 如图所示, 从椭圆的一个焦点发出的光, 经过椭圆反射后, 反射光线都汇聚到椭圆的另一个焦点上. 用数学语言描述为: 设椭圆的方程为 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ , 左、右焦点分别为 $F_{1}, F_{2}$ , 直线 $l$ 是过椭圆上任意一点 $P$ 处的切线, 直线 $l'$ 为
-
-![](images/combined/part-001/fd5d21c734c0174f89ff50f54991517bbf2bfe72b6a9eca10f90f0e89b55b3f0.jpg)
-
-垂直于直线 l 且过点 P 的椭圆的法线，交 x 轴于点 D，则 $\angle F_{1}PD = \angle F_{2}PD$ .
-
-分析 思路一: 将角的关系转化为边的关系, 考虑三角形的角平分线的判定定理, 要证 $\angle F_{1}PD = \angle F_{2}PD$ , 即证 $\frac{|F_{1}D|}{|DF_{2}|} = \frac{|PF_{1}|}{|PF_{2}|}$ , 结合椭圆的焦半径公式证明此等式; 思路二: 将角的关系转化为坐标的关系, 利用两条直线的到角公式将 $\tan \angle F_{1}PD$ 与 $\tan \angle F_{2}PD$ 用坐标表示出来进行比较.
-
-解析 ▶ 证法一: 设点 $P(x_0, y_0)$ , 则切线 $l$ 的方程为 $\frac{x_0 x}{a^2} + \frac{y_0 y}{b^2} = 1$ .
-
-利用直线的点斜式可知法线 $l'$ 的方程为 $\frac{y_0}{b^2} (x - x_0) - \frac{x_0}{a^2} (y - y_0) = 0$ ，在 $l'$ 的方程中，令 $y =$
-
-0 得 $x = \frac{c^2}{a^2} x_0$ ，所以 $D\left(\frac{c^2}{a^2} x_0, 0\right), \frac{|F_1 D|}{|DF_2|} = \frac{\left|\frac{c^2}{a^2} x_0 + c\right|}{\left|c - \frac{c^2}{a^2} x_0\right|} = \frac{|a^2 + cx_0|}{|a^2 - cx_0|}$ .
-
-由椭圆焦半径公式得 $|PF_1| = a + ex_0 = \frac{a^2 + cx_0}{a}, |PF_2| = a - ex_0 = \frac{a^2 - cx_0}{a}$ , 所以 $\frac{|F_1D|}{|DF_2|} = \frac{|PF_1|}{|PF_2|}$ , 则由三角形的角平分线的判定定理可知 $\angle F_1PD = \angle F_2PD$ .
-
-证法二:设点 $P(x_{0},y_{0})$ ，则切线 l 的方程为 $\frac{x_{0}x}{a^{2}}+\frac{y_{0}y}{b^{2}}=1$ ，所以法线 $l'$ 的斜率为 $k_{l'}=\frac{a^{2}y_{0}}{b^{2}x_{0}}$ .
-又因为直线 $PF_{1}$ 和直线 $PF_{2}$ 的斜率分别为 $k_{PF_{1}}=\frac{y_{0}}{x_{0}+c}, k_{PF_{2}}=\frac{y_{0}}{x_{0}-c}$ ，所以利用两条直线的到角公式可得 $\tan\angle F_{1}PD=\frac{k_{l'}-k_{PF_{1}}}{1+k_{l'}k_{PF_{1}}}=\frac{\frac{a^{2}y_{0}}{b^{2}x_{0}}-\frac{y_{0}}{x_{0}+c}}{1+\frac{a^{2}y_{0}}{b^{2}x_{0}}\cdot\frac{y_{0}}{x_{0}+c}}=\frac{c^{2}x_{0}y_{0}+a^{2}cy_{0}}{b^{2}x_{0}^{2}+a^{2}y_{0}^{2}+b^{2}cx_{0}}=$ $\frac{c^{2}x_{0}y_{0}+a^{2}cy_{0}}{a^{2}b^{2}+b^{2}cx_{0}}=\frac{cy_{0}}{b^{2}}.$
-
-同理可得 $\tan \angle F_{2}PD = \frac{cy_{0}}{b^{2}}$ ，所以 $\tan \angle F_{1}PD = \tan \angle F_{2}PD$ ，即 $\angle F_{1}PD = \angle F_{2}PD$ .
-
-例 14.14 (双曲线的光学性质) 如图所示, 从双曲线的一个焦点发出的光, 经过双曲线反射后, 反射光线的反向延长线都经过双曲线的另一个焦点. 用数学语言描述为设双曲线的方程为 $\frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1 (a, b > 0)$ , 左、右焦点分别为 $F_{1}, F_{2}$ , 直线 $l$ 是过双曲线上任意一点 $P$ 处的切线, 交 $x$ 轴于点 $D$ , 则 $\angle F_{1}PD = \angle F_{2}PD$ .
-
-![](images/combined/part-001/ee4195380c32e1484e6a1aa14d5a2c31a83e4093e159ab17f63c7475ac02b30f.jpg)
-
-分析 ▶ 思路一: 将角的关系转化为边的关系, 考虑三角形的角平分线的判定定理, 要证 $\angle F_{1}PD = \angle F_{2}PD$ , 即证 $\frac{|F_{1}D|}{|DF_{2}|} = \frac{|PF_{1}|}{|PF_{2}|}$ , 结合双曲线的焦半径公式证明此等式; 思路二: 将角的关系转化为坐标的关系, 利用两条直线的到角公式将 $\tan\angle F_{1}PD$ 与 $\tan\angle F_{2}PD$ 用坐标表示出来进行比较.
-
-解析 ▶ 证法一: 设点 $P(x_0, y_0)$ , 则切线 $l$ 的方程为 $\frac{x_0 x}{a^2} - \frac{y_0 y}{b^2} = 1$ , 令 $y = 0$ 得 $x = \frac{a^2}{x_0}$ , 则 $D\left(\frac{a^2}{x_0}, 0\right)$ , 所以 $\frac{|F_1 D|}{|DF_2|} = \frac{\left|\frac{a^2}{x_0} + c\right|}{\left|c - \frac{a^2}{x_0}\right|} = \frac{|a^2 + cx_0|}{|a^2 - cx_0|}$ .
-
-由双曲线的焦半径公式得 $\left\{\begin{aligned}|PF_{1}|&=|-a-ex_{0}|=\left|-\frac{a^{2}+cx_{0}}{a}\right|\\ |PF_{2}|&=|a-ex_{0}|=\left|\frac{a^{2}-cx_{0}}{a}\right|\end{aligned}\right.$ ，所以 $\frac{|F_{1}D|}{|DF_{2}|}=\frac{|PF_{1}|}{|PF_{2}|}$ .
-
-故由三角形的角平分线的判定定理可知 $\angle F_{1}PD = \angle F_{2}PD.$
-
-证法二:设点 $P(x_{0},y_{0})$ ，则切线 l 的方程为 $\frac{x_{0}x}{a^{2}}-\frac{y_{0}y}{b^{2}}=1$ ，其斜率为 $k_{l}=\frac{b^{2}x_{0}}{a^{2}y_{0}}$ .
-
-又因为直线 $PF_{1}$ 和直线 $PF_{2}$ 的斜率分别为 $k_{PF_1} = \frac{y_0}{x_0 + c}, k_{PF_2} = \frac{y_0}{x_0 - c}$ , 所以由两条直线的
-
-到角公式得 $\tan \angle F_{1}PD = \frac{k_{l} - k_{PF_{1}}}{1 + k_{l}k_{PF_{1}}} = \frac{\frac{b^{2}x_{0}}{a^{2}y_{0}} - \frac{y_{0}}{x_{0} + c}}{1 + \frac{b^{2}x_{0}}{a^{2}y_{0}}\cdot\frac{y_{0}}{x_{0} + c}} = \frac{b^{2}x_{0}^{2} - a^{2}y_{0}^{2} + b^{2}cx_{0}}{(a^{2} + b^{2})x_{0}y_{0} + a^{2}cy_{0}} =$ $\frac{a^2b^2 + b^2cx_0}{c^2x_0y_0 + a^2cy_0} = \frac{b^2}{cy_0}.$
-
-同理得 $\tan \angle F_{2}PD = \frac{b^{2}}{cy_{0}}$ ，所以 $\tan \angle F_{1}PD = \tan \angle F_{2}PD$ ，即 $\angle F_{1}PD = \angle F_{2}PD$ .
-
-例 14.15 (抛物线的光学性质) 如图所示, 从抛物线的一个焦点发出的光, 经过抛物线反射后, 反射光线平行于抛物线的对称轴. 用数学语言描述为设抛物线的方程为 $y^{2} = 2px (p > 0)$ , 焦点为 $F$ , 直线 $l$ 是过抛物线上任意一点 $P$ 处的切线, 交 $x$ 轴于点 $D$ , 则 $\angle FDP = \angle FPD$ .
-
-![](images/combined/part-001/4a84c8c8d01df11c4fb4195f8d26227a5b2906ad614e9fce7526577a5e1046da.jpg)
-
-分析 ▶ 思路一: 将角的关系转化为边的关系, 要证 $\angle FDP = \angle FPD$ , 即证 $|DF| = |PF|$ , 结合抛物线焦半径公式证明此等式; 思路二: 将角的关系转化为坐标的关系, 利用两条直线的到角公式将 $\tan \angle FDP$ 与 $\tan \angle FPD$ 用坐标表示出来进行比较来证明.
-
-解析 ▶ 证法一: 设点 $P(x_0, y_0)$ , 则切线 $l$ 的方程为 $y_0y = p(x + x_0)$ , 令 $y = 0$ 得 $x = -x_0$ , 所以 $D(-x_0, 0), |DF| = \frac{p}{2} + x_0$ .
-
-由抛物线的焦半径公式得 $|PF| = x_0 - \left(-\frac{p}{2}\right) = x_0 + \frac{p}{2}$ , 所以 $|DF| = |PF|$ , 则 $\angle FDP = \angle FPD$ .
-
-证法二:设点 $P(x_{0},y_{0})$ ，则切线 l 的方程为 $y_{0}y=p(x+x_{0})$ ，所以 $\tan\angle FDP=k_{l}=\frac{p}{y_{0}}$ .
-
-又因为直线 $PF$ 的斜率为 $k_{PF} = \frac{y_0}{x_0 - \frac{p}{2}}$ , 所以由两条直线的到角公式得 $\tan \angle FPD =$ $\frac{k_{PF} - k_l}{1 + k_{PF}k_l} = \frac{\frac{y_0}{x_0 - \frac{p}{2}} - \frac{p}{y_0}}{1 + \frac{y_0}{x_0 - \frac{p}{2}} \cdot \frac{p}{y_0}} = \frac{y_0^2 - px_0 + \frac{p^2}{2}}{x_0y_0 + \frac{py_0}{2}} = \frac{\frac{y_0^2}{2} + \frac{p^2}{2}}{\frac{y_0^3}{2p} + \frac{py_0}{2}} = \frac{p}{y_0}$ , 则 $\tan \angle FDP = \tan \angle FPD$ , 即 $\angle FDP = \angle FPD$ .
-
-## 14.7 光学性质应用
-
-## 研究密钥
-
-近年来, 涉及圆锥曲线的焦半径、切线等相关的问题在高考、自主招生及各类数学竞赛中频频出现. 对于这类问题, 如果利用解析法求解, 运算量较大, 正确率也并不高, 但利用圆锥曲线的光学性质求解, 思路简洁, 会给人耳目一新的感觉, 同时以圆锥曲线的光学性质为背景还可以编拟有趣的新命题, 也便于学生理解和掌握. 把圆锥曲线的切线想象成一面小小的平面镜, 不失为一种好办法, 在应用圆锥曲线的光学性质时, 还要注意应用光线的路程最短、光路可逆等性质.
-
-例14.16 已知点 $P$ 在抛物线 $y = x^{2} (x > 0)$ 上，点 $A$ 的坐标为 $\left(-\frac{1}{3}, 0\right)$ ，抛物线在点 $P$ 处的切线与 $y$ 轴及直线 $PA$ 的夹角相等，求点 $P$ 的坐标。
-
-分析 ▶ 由夹角相等的条件及抛物线的光学性质可知焦点 F 在直线 PA 上, 设出点 P 坐标, 由 $k_{FA} = k_{PF}$ 列方程求 P 点横坐标.
-
-解析 如图所示, 设抛物线的焦点为 $F$ , 则 $F\left(0, \frac{1}{4}\right)$ , 因为抛物线在点 $P$ 处的切线与 $y$ 轴及直线 $PA$ 的夹角相等, 即 $\angle 1 = \angle 2$ , 所以平行于 $y$ 轴的入射光线 $BP$ 经抛物线反射后的反射光线为射线 $PA$ . 根据抛物线的光学性质及光路的可逆性知: 焦点 $F$ 在直线 $PA$ 上.
-
-![](images/combined/part-001/107818357376a1fa8b01de0e0f963a83ba44dc8c1a9047bfe83f34b2ffbc7fdb.jpg)
-
-设 $P(x_0, x_0^2)(x_0 > 0)$ , 则 $\frac{x_0^2 - \frac{1}{4}}{x_0 - 0} = \frac{0 - \frac{1}{4}}{-\frac{1}{3} - 0}$ , 解得 $x_0 = 1$ 或 $x_0 = -\frac{1}{4}$ (舍去), 所以点 $P$ 的坐为(1,1).
-
-标为 $(1,1)$ .
-
-例 14.17 (2010 安徽卷理 19) 已知椭圆 E 经过点 A(2,3)，对称轴为坐标轴，焦点 $F_{1}, F_{2}$ 在 x 轴上，离心率 $e = \frac{1}{2}$ .
-
-(1) 求椭圆 E 的方程；
-
-(2) 求 $\angle F_{1}AF_{2}$ 的平分线所在直线 l 的方程；
-
-(3)在椭圆 $E$ 上是否存在关于直线 $l$ 对称的相异两点？若存在，请找出；若不存在，说明理由.
-
-分析 ▶ (1) 已知椭圆基本量, 待定系数法求椭圆方程. (2) 由椭圆的光学性质可知 $\angle F_{1} A F_{2}$ 的平分线为椭圆 $E$ 在点 $A$ 处的法线, 而在该点处的切线易求, 则此法线也易求. (3) 假设在椭圆 $E$ 上存在关于直线 $l$ 对称的相异两点, 设出两点所在方程, 将中点坐标用引入的参数表示出来. 另一方面, 该中点又在法线 $l$ 上, 将坐标代入法线 $l$ 的方程, 若能求出满足要求的解, 则存在; 否则, 则不存在.
-
-解析 (1) 设椭圆 $E$ 的方程为 $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ .
-
-根据题意可得 $\left\{ \begin{array}{l} \frac{4}{a^2} + \frac{9}{b^2} = 1 \\ \frac{c}{a} = \frac{1}{2} \\ a^2 - b^2 = c^2 \end{array} \right.$ ，解得 $\left\{ \begin{array}{l} a^2 = 16 \\ b^2 = 12 \end{array} \right.$ ，所以椭圆 $E$ 的方程为 $\frac{x^2}{16} + \frac{y^2}{12} = 1$ .
-
-(2)如图所示,由椭圆的光学性质可知直线 l 为椭圆 E 在点 A(2,3) 处的法线,易求得椭圆 E 在点 A(2,3) 处的切线方程为 $\frac{2x}{16} + \frac{3y}{12} = 1$ , 其斜率为 $-\frac{1}{2}$ , 所以法线 l 的斜率为 $k_{l} = -\frac{1}{-\frac{1}{2}} = 2$ , 其方程为 y - 3 = 2(x - 2), 即 2x - y - 1 = 0.
-
-![](images/combined/part-001/dec291635fa9033004d581c3c189a71897da0a9f201efd04dc688ddcb35e314b.jpg)
-
-(3)假设在椭圆 $E$ 上存在关于直线 $l$ 对称的相异两点 $B(x_{1},y_{1}),C(x_{2},y_{2})$ ，则直线 $BC$ 的斜率为 $-\frac{1}{k_l} = -\frac{1}{2}$ ，设其方程为 $y = -\frac{1}{2} x + m$ ，联立方程组 $\left\{ \begin{array}{l} \frac{x^2}{16} +\frac{y^2}{12} = 1 \\ y = -\frac{1}{2} x + m \end{array} \right.$ ，得 $x^{2} - mx + m^{2} - 12 = 0$ ，则由 $\Delta = (-m)^{2} - 4(m^{2} - 12) > 0$ 解得 $m\in (-4,4)$ .且 $x_{1} + x_{2} = m$ ，所以 $y_{1} + y_{2} =$ $-\frac{1}{2} (x_1 + x_2) + 2m = \frac{3m}{2}$
-
-$BC$ 的中点坐标为 $\left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)$ , 即 $\left(\frac{m}{2}, \frac{3m}{4}\right)$ , 该点在直线 $l$ 上, 则 $2 \cdot \frac{m}{2} - \frac{3m}{4} - 1 = 0$ , 解得 $m = 4$ , 与 $m \in (-4, 4)$ 矛盾, 所以假设不正确, 即在椭圆 $E$ 上不存在关于直线 $l$ 对称的相异两点.
-
-变式(1) (东北三省 2020 届高三一模理 12) 已知双曲线 $x^{2} - \frac{y^{2}}{3} = 1$ 的左、右焦点分别为
-
-$F_{1}, F_{2}$ ，点 P 在双曲线上，且 $\angle F_{1}PF_{2}=120^{\circ}$ ， $\angle F_{1}PF_{2}$ 的平分线交 x 轴于点 A，则 $|PA|=(\quad)$ .
-A. $\frac{\sqrt{5}}{5}$ B. $\frac{2\sqrt{5}}{5}$ C. $\frac{3\sqrt{5}}{5}$ D. $\sqrt{5}$
-
-解析 ▶ 由双曲线的对称性, 不妨设 $P$ 在右支上, 如图所示, 设 $|PF_{1}| = m$ , $|PF_{2}| = m - 2$ , $|F_{1}F_{2}| = 2c = 4$ , 则 $\cos 120^{\circ} = -\frac{1}{2} = \frac{m^{2} + (m - 2)^{2} - 16}{2m(m - 2)}$ , 得 $m^{2} + m^{2} - 4m + 4 - 16 = -m(m - 2)$ , 即 $2m^{2} - 4m - 12 + m^{2} - 2m = 0$ , $3m^{2} - 6m - 12 = 0$ , $m^{2} - 2m - 4 = 0$ , $m = \frac{2 \pm 2\sqrt{5}}{2} = 1 \pm \sqrt{5}$ , 因此 $|PF_{1}| = 1 + \sqrt{5}$ , $|PF_{2}| = \sqrt{5} = 1$
-
-![](images/combined/part-001/a07288bff467639fa1d11d60af0a6675723110da099b541a83e2c4303342d582.jpg)
-
-$$
-\left| P F _ {1} \right| = 1 + \sqrt {5}, \left| P F _ {2} \right| = \sqrt {5} - 1
-$$
-
-$$
-S _ {\triangle P F _ {1} F _ {2}} = \frac {b ^ {2}}{\tan \frac {\theta}{2}} = \frac {3}{\tan \frac {\pi}{3}} = \sqrt {3} = \frac {1}{2} | P F _ {1} | | P A | \sin 6 0 ^ {\circ} + \frac {1}{2} | P F _ {2} | | P A | \sin 6 0 ^ {\circ} =
-$$
-
-$\frac{\sqrt{3}}{4} |PA| (|PF_1| + |PF_2|)$ , 又 $|PF_1| = 1 + \sqrt{5}$ , $|PF_2| = \sqrt{5} - 1$ , 则 $\sqrt{3} = \frac{\sqrt{3}}{4} |PA| \cdot 2\sqrt{5}$ , 因此 $|PA| = \frac{2}{\sqrt{5}} = \frac{2\sqrt{5}}{5}$ . 故选 B.
-
-例14.18 (2013 山东卷理 22) 椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的左、右焦点分别是 $F_1, F_2$ ，离心率为 $\frac{\sqrt{3}}{2}$ ，过点 $F_1$ 且垂直于 $x$ 轴的直线被椭圆 $C$ 截得的线段长为 1。
-
-(1) 求椭圆 C 的方程；
-
-(2) 点 $P$ 是椭圆 $C$ 上除长轴端点外的任一点, 连接 $PF_{1}, PF_{2}$ , 设 $\angle F_{1}PF_{2}$ 的角平分线 $PM$ 交椭圆 $C$ 的长轴于点 $M(m,0)$ , 求 $m$ 的取值范围;
-
-(3)在(2)的条件下,过点 $P$ 作斜率为 $k$ 的直线 $l$ ,使得直线 $l$ 与椭圆 $C$ 有且只有一个公共点.设直线 $PF_{1},PF_{2}$ 的斜率分别为 $k_{1},k_{2}$ ,若 $k \neq 0$ ,试证明 $\frac{1}{kk_1} + \frac{1}{kk_2}$ 为定值,并求出这个定值.
-
-分析 ▶ (1)已知椭圆基本量,用待定系数法求椭圆方程;(2)根据椭圆的光学性质知PM是法线,其方程易求.令y=0,将m表示为P点横坐标 $x_{0}$ 的函数,借 $x_{0}$ 范围得出m的范围.(3)证明 $\frac{1}{kk_{1}}+\frac{1}{kk_{2}}$ 为定值并求得这个定值,需将其用 $x_{0},y_{0}$ 表示并整理,看参数是否约去得出定值.表示斜率k时,由于l是点P处的切线,其方程和斜率易得.
-
-解析 (1)由题意可得点 $\left(-c, \pm \frac{1}{2}\right)$ 均在椭圆 $C$ 上, 所以有 $\frac{c^2}{a^2} + \frac{1}{4b^2} = 1$ .
-
-再结合 $\left\{\begin{aligned}\frac{c}{a}&=\frac{\sqrt{3}}{2}\\ a^{2}-b^{2}&=c^{2}\end{aligned}\right.$ ，可得 $\left\{\begin{aligned}a^{2}&=4\\ b^{2}&=1\end{aligned}\right.$ ，所以椭圆C的方程为 $\frac{x^{2}}{4}+y^{2}=1$ 。
-
-(2)如图所示,设 $P(x_0,y_0)$ , 过点 $P$ 作椭圆的切线 $l$ , 其方程为 $\frac{x_0x}{4} + y_0y = 1$ , 则根据椭圆的光学性质可得: 直线 $PM$ 是椭圆在点 $P$ 处的法线, 其斜率为 $-\frac{1}{k_l} = \frac{4y_0}{x_0}$ , 方程为 $y - y_0 = \frac{4y_0}{x_0}(x - x_0)$ .
-
-![](images/combined/part-001/dc5502ff612cda92e05d7ef0705b7fe592a82f04bf8caa091e67fd58ba1b4753.jpg)
-
-令 $y = 0$ ，可得 $m = \frac{3}{4} x_0$ ，因为 $-2 < x_0 < 2$ ，所以 $m$ 的取值范围是 $\left(-\frac{3}{2}, \frac{3}{2}\right)$ .
-
-(3)因为直线 l 与椭圆 C 有且只有一个公共点,所以直线 l 是椭圆 C 在点 P 处的切线,其方程为 $\frac{x_{0}x}{4} + y_{0}y = 1$ , 斜率为 $k = -\frac{x_{0}}{4y_{0}}$ .
-
-又因为 $k_{1}=\frac{y_{0}}{x_{0}+c}, k_{2}=\frac{y_{0}}{x_{0}-c}$ ，所以 $\frac{1}{kk_{1}}+\frac{1}{kk_{2}}=-\frac{4y_{0}}{x_{0}}\left(\frac{x_{0}+c}{y_{0}}+\frac{x_{0}-c}{y_{0}}\right)=-\frac{4y_{0}}{x_{0}}\cdot\frac{2x_{0}}{y_{0}}=-8$ ，故 $\frac{1}{kk_{1}}+\frac{1}{kk_{2}}$ 的值为定值，定值为 -8.
-
-变式1 双曲线 $C: \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1 (a, b > 0)$ 的左、右焦点分别是 $F_1, F_2$ ，点 $P$ 是双曲线 $C$ 上除实轴端点外的任一点，连接 $PF_1, PF_2$ ，设 $\angle F_1PF_2$ 的角平分线 $PM$ 交双曲线 $C$ 的实轴于点 $M(m, 0)$ .
-
-(1) 求 m 的取值范围；
-
-(2)过点 P 作斜率为 k 的直线 l，使得直线 l 与双曲线 C 有且只有一个公共点。设直线 $PF_{1}$ ， $PF_{2}$ 的斜率分别为 $k_{1}, k_{2}$ ，若 $k \neq 0$ ，试证明 $\frac{1}{kk_{1}} + \frac{1}{kk_{2}}$ 为定值，并求出这个定值。
-
-解析 (1)如图所示, 设 $P(x_{0}, y_{0})$ , 因为 $PM$ 是 $\angle F_{1}PF_{2}$ 的角平分线, 所以根据双曲线的光学性质可得: 直线 $PM$ 是双曲线在点 $P$ 处的切线, 其方程为 $\frac{x_{0}x}{a^{2}} - \frac{y_{0}y}{b^{2}} = 1$ .
-
-![](images/combined/part-001/d58daef55a64bad1becb90d4dd92568664f43d82787201673dd683ac8c0c2075.jpg)
-
-令 $y = 0$ ，可得 $m = \frac{a^2}{x_0}$ ，又 $x_0 \in (-\infty, -a) \cup (a, +\infty)$ ，所以 $m$ 的取值范围是 $(-a, 0) \cup (0, a)$ .
-
-(2)因为直线 l 与双曲线 C 有且只有一个公共点,所以直线 l 是双曲线 C 在点 P 处的切线,其方程为 $\frac{x_{0}x}{a^{2}} - \frac{y_{0}y}{b^{2}} = 1$ , 斜率为 $k = \frac{b^{2}x_{0}}{a^{2}y_{0}}$ .
-
-又因为 $k_{1} = \frac{y_{0}}{x_{0} + c}, k_{2} = \frac{y_{0}}{x_{0} - c}$ , 所以 $\frac{1}{kk_{1}} + \frac{1}{kk_{2}} = \frac{a^{2}y_{0}}{b^{2}x_{0}}\left(\frac{x_{0} + c}{y_{0}} + \frac{x_{0} - c}{y_{0}}\right) = \frac{a^{2}y_{0}}{b^{2}x_{0}} \cdot \frac{2x_{0}}{y_{0}} = \frac{2a^{2}}{b^{2}}$ , 为定值.
-
-![](images/combined/part-001/c69041e46dfbabd07db44d7ec1e1ea75d847a71caef13698dbadd17de58b0b45.jpg)
-
-## 14.8 圆锥曲线的蒙日圆
-
-## 研究密钥
-
-我们从小学开始接触圆,在初中从图形(几何法)上定性研究圆的基本性质,进入高中后在直角坐标系中用坐标(代数法)定量研究并得到了圆的标准方程及一般方程.定性与定量的有机结合、数与形的完美互补,使得我们对圆有了较为完善的认识.其实,圆有更丰富的内涵,比如阿波罗尼斯圆、蒙日圆等,下面就浅谈蒙日圆的相关定理、证明及应用.
-
-引理: 已知点 P 为矩形 ABCD 所在平面上任意一点, 则有 $\left|PA\right|^{2} + \left|PC\right|^{2} = \left|PB\right|^{2} + \left|PD\right|^{2}$ .
-
-【证明】在平面直角坐标系中, 设 $P(x,y), A(0,0), B(a,0), C(a,b), D(0,b) (a > 0, b > 0)$ , 则 $\left\{ \begin{array}{l} |PA|^2 + |PC|^2 = x^2 + y^2 + (x - a)^2 + (y - b)^2 \\ |PB|^2 + |PD|^2 = (x - a)^2 + y^2 + x^2 + (y - b)^2 \end{array} \right.$ , 所以 $|PA|^2 + |PC|^2 = |PB|^2 + |PD|^2$ .
-
-定理 1(椭圆的蒙日圆): 过椭圆 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ 上任意不同两点 A, B 作椭圆的切线, 如果两条切线垂直且相交于点 P, 那么动点 P 的轨迹为圆, 其方程为 $x^{2} + y^{2} = a^{2} + b^{2}$ .
-
-【证明】如图所示, 设 $P(x,y)$ , 作点 $F_{1}$ 关于直线 PA, PB 的对称点 $F_{1}^{\prime}, F_{1}^{\prime\prime}$ , 设 $F_{1}F_{1}^{\prime}$ 和直线 PA 交于点 M, $F_{1}F_{1}^{\prime\prime}$ 和直线 PB 交于点 N, 根据椭圆的光学性质可知 $F_{1}^{\prime}, A, F_{2}$ 三点共线, 且 $\left|F_{1}^{\prime}F_{2}\right| = \left|F_{1}^{\prime}A\right| + \left|AF_{2}\right| = \left|F_{1}A\right| + \left|AF_{2}\right| = 2a$ , 又 $\left\{\begin{aligned}|F_{1}M| &= |MF_{1}^{\prime}| \\ |F_{1}O| &= |OF_{2}| \end{aligned}\right.$ , 所以 OM 是
-
-![](images/combined/part-001/a36604cce83476fdf187ca9cce786796228917c3b92c8ded5da78c8c13ff6ef4.jpg)
-
-$\triangle F_{1}F_{1}^{\prime}F_{2}$ 的中位线, 所以 $|OM| = \frac{1}{2}|F_{1}^{\prime}F_{2}| = a$ , 同理可得 $|ON| = a$ , 易证四边形 $F_{1}MPN$ 为矩形, 所以根据引理可得 $|OP|^2 + |OF_1|^2 = |OM|^2 + |ON|^2$ , 即 $x^2 + y^2 = |OP|^2 = |OM|^2 + |ON|^2 - |OF_1|^2 = a^2 + b^2$ .
-
-故动点 P 的轨迹为圆, 其方程为 $x^{2} + y^{2} = a^{2} + b^{2}$ .
-
-定理2(双曲线的蒙日圆): 过双曲线 $\frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1 (a > 0, b > 0)$ 上任意不同两点 $A, B$ 作双曲线的切线, 如果两条切线垂直且相交于点 $P$ , 那么动点 $P$ 的轨迹为圆, 其方程为 $x^{2} + y^{2} = a^{2} - b^{2}$ .
-
-【证明】如图①所示, 当 $A, B$ 两点位于双曲线的两支上时, 设 $P(x, y)$ , 作点 $F_{1}$ 关于直线 $PA, PB$ 的对称点 $F_{1}^{\prime}, F_{1}^{\prime \prime}$ , 设 $F_{1}F_{1}^{\prime}$ 和直线 $PA$ 交于点 $M, F_{1}F_{1}^{\prime \prime}$ 和直线 $PB$ 交于点 $N$ , 根据双曲线的光学性质可知 $A, F_{1}^{\prime}, F_{2}$ 三点共线, 且 $|F_{1}^{\prime}F_{2}| = |AF_{2}| - |AF_{1}^{\prime}| = |AF_{2}| - |AF_{1}| = 2a$ ,又 $\left\{\begin{aligned}|F_{1}M|&=|MF_{1}^{\prime}|\\ |F_{1}O|= &|OF_{2}|\end{aligned}\right.$ ，所以OM是 $\triangle F_{1}F_{1}^{\prime}F_{2}$ 的中位线，所以 $|OM|=\frac{1}{2}|F_{1}^{\prime}F_{2}|=a$ ，同理可得 $|ON|=a.$
-
-易证四边形 $F_{1}MPN$ 为矩形, 所以根据引理可得 $|OP|^{2} + |OF_{1}|^{2} = |OM|^{2} + |ON|^{2}$ , 即 $x^{2} + y^{2} = |OP|^{2} = |OM|^{2} + |ON|^{2} - |OF_{1}|^{2} = a^{2} - b^{2}$ .
-
-故动点 P 的轨迹为圆, 其方程为 $x^{2} + y^{2} = a^{2} - b^{2}$ .
-
-如图②所示,当 $A,B$ 两点位于双曲线的同一支上时,可得到相同的结论.
-
-![](images/combined/part-001/8d190cabba22f43c1a38a495e2fde42c8c4006cdb2985e41c4da8a995dc994a5.jpg)
-①
-
-![](images/combined/part-001/c3a96ee4c515e6e885f8775efad66e34195ce0e111a68c48a2da001d5a5e58a0.jpg)
-②
-
-定理 3(圆的蒙日圆): 过圆 $x^{2} + y^{2} = a^{2} (a > 0)$ 上任意不同两点 A, B 作圆的切线, 如果两条切线垂直且相交于点 P, 那么动点 P 的轨迹为圆, 其方程为 $x^{2} + y^{2} = 2a^{2}$ .
-
-【证明】这是椭圆为蒙日圆的特殊情形. 令 b=a, 得出圆的蒙日圆方程为 $x^{2}+y^{2}=2a^{2}$ .
-
-例 14.19 (2014 广东卷理 20) 已知椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的一个焦点为 $(\sqrt{5}, 0)$ , 离心率为 $\frac{\sqrt{5}}{3}$ .
-
-(1) 求椭圆 C 的标准方程；
-
-(2)若动点 $P(x_0, y_0)$ 为椭圆 $C$ 外一点, 且点 $P$ 到椭圆 $C$ 的两条切线互相垂直, 求点 $P$ 的轨迹方程.
-
-分析 ▶ (1)已知椭圆基本量、待定系数法求椭圆方程；(2)点 $P$ 到椭圆 $C$ 的两条切线互相垂直, 那么动点 $P$ 的轨迹方程就是椭圆的蒙日圆方程, 解答过程需正常书写.
-
-解析 (1)由题意得 $\left\{ \begin{array}{l} c = \sqrt{5} \\ \frac{c}{a} = \frac{\sqrt{5}}{3} \end{array} \right.$ , 结合 $a^2 - b^2 = c^2$ , 可得 $\left\{ \begin{array}{l} a^2 = 9 \\ b^2 = 4 \end{array} \right.$ , 所以椭圆 $C$ 的标准方程为 $\frac{x^2}{9} + \frac{y^2}{4} = 1$ .
-
-(2)①若两条切线的斜率都存在,则设切线方程为 $y = k(x - x_0) + y_0$ , 将其代入椭圆的方程 $\frac{x^2}{9} + \frac{y^2}{4} = 1$ 中, 可得 $4x^2 + 9 [k(x - x_0) + y_0]^2 - 36 = 0$ , 即 $(9k^2 + 4)x^2 + 18k(y_0 - kx_0)x +$
-
-$9[(y_0 - kx_0)^2 - 4] = 0.$
-
-根据 $\Delta = [18k(y_0 - kx_0)]^2 - 36(9k^2 + 4)[(y_0 - kx_0)^2 - 4] = 0$ ，化简得 $(y_0 - kx_0)^2 - (9k^2 + 4) = 0$ ，整理成关于 $k$ 的一元二次方程为 $(x_0^2 - 9)k^2 - 2x_0y_0k + y_0^2 - 4 = 0$ .
-
-因为两条切线互相垂直,所以由韦达定理可得 $k_{1}k_{2} = \frac{y_{0}^{2} - 4}{x_{0}^{2} - 9} = -1$ , 即 $x_{0}^{2} + y_{0}^{2} = 13$ , $(x_{0} \neq \pm 3)$ .
-
-②若一条切线垂直于 $x$ 轴, 另一条切线垂直于 $y$ 轴, 则点 $P$ 的坐标为 $(-3, -2)$ 或 $(-3, 2)$ 或 $(3, 2)$ 或 $(3, -2)$ , 显然这四点也满足方程 $x^{2} + y^{2} = 13$ .
-
-综上可得, 点 P 的轨迹方程为 $x^{2} + y^{2} = 13$ .
-
-变式(1) 已知椭圆 $C: \frac{x^2}{24} + \frac{y^2}{12} = 1$ , 设 $R(x_0, y_0)$ 为椭圆上任意一点. 过原点作圆 $R: (x - x_0)^2 + (y - y_0)^2 = 8$ 的两条切线, 分别交椭圆于 $P$ , $Q$ . 试问 $|OP|^2 + |OQ|^2$ 是否为定值? 若是, 求出该定值; 若不是, 请说明理由.
-
-![](images/combined/part-001/28a702134cd2b44cedb668f9922741270b4f59129ade3fc6dddd78b4699844c2.jpg)
-
-解析 设 $P(x_{1},y_{1})$ , $Q(x_{2},y_{2})$ , OP: $y=k_{1}x$ , $OQ: y=k_{2}x$ .
-
-$|OP|^{2}+|OQ|^{2}=x_{1}^{2}+y_{1}^{2}+x_{2}^{2}+y_{2}^{2},\left\{\begin{aligned}y=k_{1}x\\ x^{2}+2y^{2}&=24\end{aligned}\right.$ ，消 y 得 $x^{2}+2k_{1}^{2}x^{2}=24$ ，即 $x_{1}^{2}=\frac{24}{2k_{1}^{2}+1}$ ， $x_{1}^{2}+y_{1}^{2}=x_{1}^{2}+12\times\left(1-\frac{x_{1}^{2}}{24}\right)=12+\frac{x_{1}^{2}}{2}=12+\frac{12}{2k_{1}^{2}+1}$ ，同理 $|OQ|^{2}=12+\frac{12}{2k_{2}^{2}+1}$ .
-
-又 $d = 2\sqrt{2}, \frac{|kx_0 - y_0|}{\sqrt{1 + k^2}} = 2\sqrt{2}, (kx_0 - y_0)^2 = 8k^2 + 8$ ，即 $k^2 x_0^2 + y_0^2 - 2kx_0y_0 - 8k^2 - 8 = 0$ ，则
-
-关于 $k$ 的一元二次方程为 $k^2 (x_0^2 -8) - 2x_0y_0\cdot k + y_0^2 -8 = 0$ ，得 $k_{1}k_{2} = \frac{y_{0}^{2} - 8}{x_{0}^{2} - 8} = \frac{y_{0}^{2} - 8}{16 - 2y_{0}^{2}} = -\frac{1}{2},$ $k_{2} = \frac{.1}{-2k_{1}}.$
-
-$$
-\left| O P \right| ^ {2} + \left| O Q \right| ^ {2} = 2 4 + \frac {1 2}{2 k _ {1} ^ {2} + 1} + \frac {1 2}{2 k _ {2} ^ {2} + 1} = 2 4 + 1 2 \left(\frac {1}{2 k _ {1} ^ {2} + 1} + \frac {1}{2 k _ {2} ^ {2} + 1}\right) = 2 4 +
-$$
-
-$12\left(\frac{1}{2k_{1}^{2}+1}+\frac{1}{2\cdot\frac{1}{4k_{1}^{2}}+1}\right)=24+12\left(\frac{1}{2k_{1}^{2}+1}+\frac{2k_{1}^{2}}{2k_{1}^{2}+1}\right)=36$ ，为定值.
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第14讲_以形助数__圆锥曲线中几何性质研究/第14讲_以形助数__圆锥曲线中几何性质研究.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第15讲_以数化形__圆锥曲线中几何条件的转化策略/第15讲_以数化形__圆锥曲线中几何条件的转化策略.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第16讲_直线与圆的动态问题探究/第16讲_直线与圆的动态问题探究.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第17讲_圆锥曲线的焦半径_焦点弦和焦点三角形问题/第17讲_圆锥曲线的焦半径_焦点弦和焦点三角形问题.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第18讲_圆锥曲线中离心率的求解和最值问题/第18讲_圆锥曲线中离心率的求解和最值问题.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第19讲_解析几何计算方法的系统研究/第19讲_解析几何计算方法的系统研究.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第20讲_仿射变换/第20讲_仿射变换.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第21讲_圆锥曲线中常考六大模型及延伸/第21讲_圆锥曲线中常考六大模型及延伸.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/第22讲_圆锥曲线的命题背景揭秘__极点与极线/第22讲_圆锥曲线的命题背景揭秘__极点与极线.md]]
+![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/参考答案/参考答案.md]]
 
 ## 训练 14
 
-1. 过抛物线 C: $y^{2}=2px (p>0)$ 的焦点 F，且倾斜角为 $60^{\circ}$ 的直线交 C 于点 M (M 在 x 轴上方)，若以 MF 为直径的圆过点 $(0, \sqrt{3})$ ，则 C 的方程为（）.
-A. $y^{2}=2x$ B. $y^{2}=4x$ C. $y^{2}=6x$ D. $y^{2}=8x$
+1.【分析】挖掘几何性质,建立关于 p 的方程.
 
-2. (2017 新课标全国 I 卷理 15) 已知双曲线 $C: \frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1 (a > 0, b > 0)$ 的右顶点为 $A$ , 以 $A$ 为圆心, $b$ 为半径作圆 $A$ , 圆 $A$ 与双曲线 $C$ 的一条渐近线交于 $M, N$ 两点. 若 $\angle MAN = 60^{\circ}$ , 则 $C$ 的离心率为 \_\_\_\_.
+【解析】如图所示, 过 M 作 $MM_{1} \perp l$ (l 为抛物线的准线), 连接 $FM_{1}$ 交 y 轴于点 E.
 
-3. 抛物线有如下光学性质: 过焦点的光线(光线不同过抛物线对称轴上任意两点)经抛物线反射后平行于抛物线的对称轴; 平行于抛物线对称轴的入射光线经抛物线反射后必过抛物线的焦点. 若一条平行于 $x$ 轴的光线从 $M(3,1)$ 射出, 经过抛物线 $y^{2}=4x$ 上的点 $A$ 反射后, 再经抛物线上的另一点 $B$ 反射出, 则直线 $AB$ 的斜率为 ( ).
+因为 $MF = MM_{1}$ ，以 MF 为直径的圆与 y 轴相切于点 E，所以 $ME \perp M_{1}F$ ，则 E 是 $M_{1}F$ 的中点，E 的坐标为 $(0, \sqrt{3})$ .
 
-A. $-\frac{4}{3}$ B. $\frac{4}{3}$ C. $\pm\frac{4}{3}$ D. $-\frac{16}{9}$
+记 $l$ 与 $x$ 轴交于点 $G$ , 因为 $OE \parallel l, O$ 为 $FG$ 的中点, 所以 $OE$ 为 $\triangle FM_{1}G$ 的中位线, $M_{1}G = 2OE = 2\sqrt{3}$ .
 
-4. 已知椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的左焦点为 $F$ , 直线 $y = \sqrt{3}x$ 与 $C$ 相交于 $A, B$ 两点, 且 $AF \perp BF$ , 则 $C$ 的离心率为 \_\_\_\_.
+由直线 $MF$ 的倾斜角为 $60^{\circ}$ , 所以 $\angle MFx = 60^{\circ}, \angle M_{1}MF = 60^{\circ}$ , 又 $\triangle MFM_{1}$ 为等腰三角形, 则 $\angle MM_{1}F = 60^{\circ}$ , 即 $\angle M_{1}FG = 60^{\circ}$ .
 
-5.(椭圆光学性质)如图所示,椭圆有这样的光学性质:从椭圆的一个焦点出发的光线,经椭圆反射后,反射光线经过椭圆的另一个焦点.根据椭圆的光学性质解决下题:已知曲线C的方程为 $x^{2}+4y^{2}=4$ ,其左、右焦点分别是 $F_{1},F_{2}$ ,直线l与椭圆C切于点P,且 $|PF_{1}|=1$ ,过
+![](images/combined/part-002/f269c062483c972de92776b518e77853c7e473ad633c11187f94075350ed9bb8.jpg)
 
-![](images/combined/part-001/4c860908ec6a1d77e98a39d29f0ef9bb1e4b4aac496c42aacf5e87018457b686.jpg)
+在 Rt△M₁FG 中，|FG| = $\frac{|M_{1}G|}{\tan60^{\circ}} = \frac{2\sqrt{3}}{\sqrt{3}} = 2 = p$ ，所以抛物线 C 的方程为 $y^{2} = 4x$ 。故选 B.
 
-点 $P$ 且与直线 $l$ 垂直的直线 $l'$ 与椭圆长轴交于点 $M$ , 则 $\left|F_{1} M\right|: \left|F_{2} M\right| = (\quad)$ .
+2.【解析】解法一:如图所示,过A作AP⊥MN,垂足为P.
 
-A. $\sqrt{2}: \sqrt{3}$ B. $1: \sqrt{2}$ C. $1: 3$ D. $1: \sqrt{3}$
+因为圆 A 与双曲线 C 的一条渐近线交于 M, N 两点, 不妨设圆 A 与双曲线的一条渐近线 $l: y = \frac{b}{a}x$ 交于 M, N 两点, 且 $A(a, 0)$ , $|AM| = |AN| = b$ .
 
-6. 抛物线有如下光学性质: 过焦点的光线经抛物线反射后得到的光线平行于抛物线的对称轴; 反之, 平行于抛物线对称轴的入射光线经抛物线反射后必过抛物线的焦点. 已知抛物线 $y^{2}=4x$ 的焦点为 F, 一条平行于 x 轴的光线从点 M(3,1) 射出, 经过抛物线上的点 A 反射后, 再经抛物线上的另一点 B 射出, 则 $\triangle ABM$ 的周长为 ( ). A. $9 + \sqrt{10}$ B. $9 + \sqrt{26}$ C. $\frac{71}{12} + \sqrt{26}$ D. $\frac{83}{12} + \sqrt{26}$
+![](images/combined/part-002/fbb525ff42959128f310713a05b484de97bcdb87fce9ee2e64e2688878082038.jpg)
 
-7. 智慧的人们在进行工业设计时, 巧妙地利用了圆锥曲线的光学性质, 比如电影放映机利用椭圆镜面反射出聚焦光线, 探照灯利用抛物线镜面反射出平行光线. 如图所示, 从双曲线右焦点 $F_{2}$ 发出的光线通过双曲线镜面反射出发散光线, 且反射光线的反向延长线经过左焦点 $F_{1}$ . 已知双曲线的离心率为 $\sqrt{2}$ , 则当入射光线 $F_{2}P$ 和反射光线 $PE$ 相互垂直时 (其中 $P$ 为入射点), $\angle F_{1}F_{2}P$ 的大小为 ( ). A. $\frac{\pi}{12}$ B. $\frac{\pi}{6}$ C. $\frac{\pi}{3}$ D
+点 A 到渐近线 $l: y = \frac{b}{a}x$ 的距离 $|AP| = \frac{|b|}{\sqrt{1 + \frac{b^{2}}{a^{2}}}} = \frac{ab}{c}$ ，又 $\angle MAN = 60^{\circ}, AP \perp MN$ ，
+所以 $\angle PAN = 30^{\circ}$ .
 
-![](images/combined/part-001/2847ce845a64371b15e3e36fd1b4d95614b0ab610557765928602f59677cde8e.jpg)
+在 Rt△PAN 中，cos∠PAN= $\frac{|AP|}{|AN|}$ ，即 cos $30^{\circ}=\frac{a}{c}$ ，所以 $e=\frac{c}{a}=\frac{2}{\sqrt{3}}=\frac{2\sqrt{3}}{3}$ .
+
+解法二(利用等边三角形的性质):如图所示, $A(a,0)$ ,不妨设双曲线的一条渐近线为 $l:y=\frac{b}{a}x$ ,则点 $(a,b)$ 必在l上,由三角函数定义可得 $\sin\angle AON=\frac{b}{\sqrt{a^{2}+b^{2}}}=\frac{b}{c}$ .
+
+由于 $\angle MAN=60^{\circ},|AM|=|AN|$ ,所以 $\triangle AMN$ 是正三角形,即 $\angle ANO=60^{\circ}$ ,在 $\triangle AON$ 中,有 $\frac{|AN|}{\sin\angle AON}=\frac{|OA|}{\sin\angle ANO}$ ,即 $\frac{b}{\frac{b}{c}}=\frac{a}{\frac{\sqrt{3}}{2}}$ ,得 $\frac{c}{a}=\frac{2\sqrt{3}}{3}$ ,所以C的离心率为 $\frac{2\sqrt{3}}{3}$
+
+![](images/combined/part-002/7ccaae9fac69fafda5c7c9482c47005a06629c6a380bf15f3e9fb19ccfff0c82.jpg)
+
+3.【解析】将 y=1 代入 $y^{2}=4x$ ，解得 $x=\frac{1}{4}$ ，即 $A\left(\frac{1}{4},1\right)$ 。由抛物线的光学性质知，直线 AB 经过焦点 $(1,0)$ ，所以直线 AB 的斜率 $k=\frac{1-0}{\frac{1}{4}-1}=-\frac{4}{3}$ 。故选 A。
+
+4.【解析】设椭圆的右焦点为 $F'$ ，连接 $AF'$ ， $BF'$ ，则四边形 $AFBF'$ 为平行四边形。又 $AF \perp BF$ ，因此四边形 $AFBF'$ 为矩形，得 $|OA| = |OF'|$ ，且 $\angle AOF' = 60^\circ$ ，所以 $\triangle OAF'$ 为等边三角形，则 $|AF'| = c$ ， $|AF| = \sqrt{3}c$ 。
+
+![](images/combined/part-002/1ceb1588553b8aea1b08595210c225c22ac4e68475a0e98a7ed0ada8c3458c2b.jpg)
+
+据椭圆的定义知 $|AF| + |AF'| = 2a$ ，即 $\sqrt{3} c + c = 2a$ ，因此 $e = \frac{c}{a} = \frac{2}{\sqrt{3} + 1} = \sqrt{3} - 1$ .
+
+5.【解析】由椭圆的光学性质得到直线 $l'$ 平分角 $F_{1}PF_{2}$ .
+
+故 $\frac{S_{\Delta PMF_1}}{S_{\Delta PMF_2}} = \frac{|F_1M|}{|F_2M|} = \frac{\frac{1}{2}|F_1P||PM|\sin\angle F_1PM}{\frac{1}{2}|F_2P||PM|\sin\angle F_2PM} = \frac{|PF_1|}{|PF_2|}$ ，由 $|PF_1| = 1, |PF_1| + |PF_2| = 4$ ，得到
+
+$\left|PF_{2}\right|=3$ , 故 $\left|F_{1}M\right|:\left|F_{2}M\right|=1:3$ . 故选 C.
+
+6.【解析】如图所示, 因为 $M(3,1)$ , 所以 $y_{A}=y_{M}=1, x_{A}=\frac{y_{A}^{2}}{4}=\frac{1}{4}, A\left(\frac{1}{4},1\right)$ .
+
+又因为 $F(1,0)$ ，所以 $l_{AB}:y - 0 = \frac{1 - 0}{\frac{1}{4} - 1} (x - 1)$ ，即 $l_{AB}:y = -\frac{4}{3} (x - 1)$
+
+![](images/combined/part-002/8b69e1758451d2d433ec96fab2344d5d0e4ee8c4fc0805743c8a41892a1f8c67.jpg)
+
+又 $\left\{ \begin{array}{l} y = -\frac{4}{3}(x - 1) \\ y^2 = 4x \end{array} \right.$ ，所以 $y^2 + 3y - 4 = 0, y = 1$ 或 $y = -4$ ，则 $y_B = -4, x_B = \frac{y_B^2}{4} = 4, B(4, -4)$ .
+
+又因为 $|AB| = |AF| + |BF| = x_A + x_B + p = \frac{1}{4} + 4 + 2 = \frac{25}{4}, |AM| = x_M - x_A = 3 - \frac{1}{4} = \frac{11}{4}, |BM| = \sqrt{(4-3)^2 + (-4-1)^2} = \sqrt{26}$ ，所以 $\triangle ABM$ 的周长为 $|AB| + |AM| + |BM| = \frac{25}{4} + \frac{11}{4} + \sqrt{26} = 9 + \sqrt{26}$ ，故选 B.
+
+7.【解析】因为 $e=\sqrt{2}$ ，所以 $c=\sqrt{2}a, a=b$ .
+
+不妨设双曲线的标准方程为 $x^{2} - y^{2} = 1$ ，设 $\left|PF_2\right| = m$ ，则 $\left|PF_1\right| = 2 + m(m > 0)$ ，所以 $m^2 +(m + 2)^2 = (2\sqrt{2})^2$ ，解得 $m = \sqrt{3} -1(m = -\sqrt{3} -1$ 已舍去).
+
+则 $\cos \angle F_{1}F_{2}P = \frac{\sqrt{3} - 1}{2\sqrt{2}} = \frac{\sqrt{6} - \sqrt{2}}{4},\angle F_{1}F_{2}P = 75^{\circ} = \frac{5\pi}{12}$ 故选D.
+
+8.【解析】因为线段 AB 为圆 M 的一条弦, AB 的中点为 O, 所以 $AB \perp OM$ .
+
+设 M 坐标为 $(x, y)$ ，则 $\left|OM\right|^{2} + \left|OA\right|^{2} = \left|MA\right|^{2}$ .
+
+因为圆 $M$ 与直线 $x + 2 = 0$ 相切，所以 $|MA| = |x + 2|, |x + 2|^2 = x^2 + y^2 + 4$ ，化简得 $y^2 = 4x$ ，则 $M$ 的轨迹为一条以 $F(1,0)$ 为焦点， $x = -1$ 为准线的抛物线，即只需点 $P$ 与点 $F$ 重合，此时 $|MF| = x + 1$ .
+
+故 $|MA| - |MP| = |MA| - |MF| = (x + 2) - (x + 1) = 1$ ，为定值.
+
+9.【解析】如图所示,作 AM 垂直于 $PF_{1}$ 于点 M,作 $F_{2}N$ 垂直于 $PF_{1}$ 于点 N,则 $|AM|:|F_{2}N|=S_{\triangle PF_{1}A}:S_{\triangle PF_{1}F_{2}}=2:1.$
+
+连接 $AF_{2}$ 交 $PF_{1}$ 于点 $B$ ，则由相似比知 $|AB|: |BF_{2}| = 2:1$ ，所以点 $B$ 是线段 $AF_{2}$ 的三等分点，又 $A(0,b), F_{2}(c,0)$ ，所以点 $B$ 坐标为 $\left(\frac{2c}{3}, \frac{b}{3}\right), k_{PF_{1}} = k_{BF_{1}} = \frac{\frac{b}{3} - 0}{\frac{2c}{3} + c} = \frac{b}{5c}$ . 又因为离心率为 $\frac{1}{2}$ ，即 $\frac{c}{a} = \frac{1}{2}$ ，又 $a^{2} - c^{2} = b^{2}$ ，所以 $\frac{b}{c} = \sqrt{3}$ ，则 $k_{PF_{1}} = \frac{\sqrt{3}}{5}$ .
+
+![](images/combined/part-002/6550b5d328280f34f217184488e62a6e7bb933757112cb4033e21dc854148cf6.jpg)
+
+10.【解析】如图所示,过 M 作直线 AB 垂直焦点轴所在的直线,直线 CE 与 DF 交直线 AB 于 P,Q,则根据圆锥曲线蝴蝶定理得 $\left|MP\right|=\left|MQ\right|$ . 设 CE 与 FD 相交于 G.
+
+![](images/combined/part-002/9f112841e9834e5d6e46309a6c0c0489e8652520c31832905fe197b7a5a0b741.jpg)
+
+过 $G$ 作 $GH$ 垂直焦点轴所在直线于 $H$ , 得 $\frac{|EM|}{|HE|} = \frac{|MP|}{|HG|} = \frac{|MQ|}{|HG|} = \frac{|FM|}{|FH|}$ . 设 $M(m,0), H(n,0)$ , 焦点轴长为 $2a$ , 则有 $\frac{a + m}{-a - n} = \frac{a - m}{a - n}$ , 得 $mn = a^2$ . 所以 $G$ 在直线 $l: x = \frac{a^2}{m}$ 上.
+
+【评注】在本题中, 当 $M$ 为焦点时, $l$ 就是准线; 当 $M$ 为准线与焦点轴所在直线的交点时, $l$ 就是过焦点的直线.
+
+11.【解析】(1)由已知, $a=\sqrt{2}b$ ,则椭圆E的方程为 $\frac{x^{2}}{2b^{2}}+\frac{y^{2}}{b^{2}}=1$ .
+
+由方程组 $\left\{\begin{aligned}\frac{x^{2}}{2b^{2}}+\frac{y^{2}}{b^{2}}=1\\ y=-x+3\end{aligned}\right.$ ，得 $3x^{2}-12x+(18-2b^{2})=0$ ①.
+
+方程①的判别式为 $\Delta = 24(b^{2} - 3)$ , 由 $\Delta = 0$ , 得 $b^{2} = 3$ , 此时方程①的解为 $x = 2$ , 所以椭圆 $E$ 的方程为 $\frac{x^{2}}{6} + \frac{y^{2}}{3} = 1$ , 点 $T$ 坐标为 (2,1).
+
+(2)由已知可设直线 $l'$ 的方程为 $y = \frac{1}{2} x + m (m \neq 0)$ .
+
+由方程组 $\left\{ \begin{array}{l} y = \frac{1}{2} x + m \\ y = -x + 3 \end{array} \right.$ 可得 $\left\{ \begin{array}{l} x = 2 - \frac{2m}{3} \\ y = 1 + \frac{2m}{3} \end{array} \right.$ ，所以 $P$ 点坐标为 $\left(2 - \frac{2m}{3}, 1 + \frac{2m}{3}\right), |PT|^2 = \frac{8}{9} m^2$ . 设点 $A, B$ 的坐标分别为 $A(x_1, y_1), B(x_2, y_2)$ ，由方程组 $\left\{ \begin{array}{l} \frac{x^2}{6} + \frac{y^2}{3} = 1 \\ y = \frac{1}{2} x + m \end{array} \right.$ 可得 $3x^2 + 4mx + (4m^2 - 12) = 0$ ②. 方程②的判别式为 $\Delta = 16(9 - 2m^2)$ ，由 $\Delta > 0$ 解得 $-\frac{3\sqrt{2}}{2} < m < \frac{3\sqrt{2}}{2}$ . 由②得 $x_1 + x_2 = -\frac{4m}{3}, x_1x_2 = \frac{4m^2 - 12}{3}$ ，所以 $|PA| = \sqrt{\left(2 - \frac{2m}{3} - x_1\right)^2 + \left(1 + \frac{2m}{3} - y_1\right)^2}$ $\frac{\sqrt{5}}{2}\left|2 - \frac{2m}{3} - x_1\right|$ ，同理 $|PB| = \frac{\sqrt{5}}{2}\left|2 - \frac{2m}{3} -x_2\right|$ ，则
 
 $$
-\frac {5 \pi}{1 2}
+\begin{array}{r l} | P A | | P B | & = \frac {5}{4} \left| (2 - \frac {2 m}{3} - x _ {1}) (2 - \frac {2 m}{3} - x _ {2}) \right| \\ & = \frac {5}{4} \left| (2 - \frac {2 m}{3}) ^ {2} - (2 - \frac {2 m}{3}) (x _ {1} + x _ {2}) + x _ {1} x _ {2} \right| \\ & = \frac {5}{4} \left| (2 - \frac {2 m}{3}) ^ {2} - (2 - \frac {2 m}{3}) (- \frac {4 m}{3}) + \frac {4 m ^ {2} - 1 2}{3} \right| = \frac {1 0}{9} m ^ {2}. \end{array}
 $$
 
-8. 已知点 $A, B$ 关于坐标原点对称, $|AB| = 4$ , 圆 $M$ 过点 $A, B$ 且与直线 $x + 2 = 0$ 相切, 是否存在定点 $P$ , 使得当 $A$ 运动时, $|MA| - |MP|$ 为定值? 并说明理由.
+故存在常数 $\lambda = \frac{4}{5}$ , 使得 $|PT|^2 = \lambda |PA||PB|$ .
 
-9. 已知椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的左、右焦点分别为 $F_1, F_2$ , 上顶点为 $A$ , 离心率为 $\frac{1}{2}$ , 点 $P$ 为第一象限内椭圆上的一个点, 且 $S_{\triangle PF_1A}: S_{\triangle PF_1F_2} = 2: 1$ , 求直线 $PF_1$ 的斜率.
+12.【解析】(1)设椭圆的半焦距为 c，由题意知 $2a=4, 2c=2\sqrt{2}$ ，所以 $a=2, b=\sqrt{a^{2}-c^{2}}=\sqrt{2}$ 。故椭圆 C 的方程为 $\frac{x^{2}}{4}+\frac{y^{2}}{2}=1$ 。
 
-![](images/combined/part-001/e9daca290018d44cc3eb344f82c56edd37a754cc9988ccd3d8571e802263ac25.jpg)
+(2)(Ⅰ)设 $P(x_{0},y_{0})(x_{0}>0,y_{0}>0)$ ，由 $M(0,m)$ ，可得 $P(x_{0},2m),Q(x_{0},-2m)$ .
 
-10. (圆锥曲线蝴蝶定理推论) 过点 $M(m,0)$ 作椭圆 $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ 的弦 $CD, E, F$ 分别是椭圆的左、右顶点, 则直线 $CE, DF$ 的连线交点 $G$ 在直线 \_\_\_\_ 上.
+所以直线 $PM$ 的斜率 $k_{1} = \frac{2m - m}{x_{0}} = \frac{m}{x_{0}}$ ，直线 $QM$ 的斜率 $k_{2} = \frac{-2m - m}{x_{0}} = -\frac{3m}{x_{0}}$ .
 
-11. 已知椭圆 $E: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的两个焦点与短轴的一个端点是直角三角形的三个顶点，直线 $l: y = -x + 3$ 与椭圆 $E$ 有且只有一个公共点 $T$ .
+此时 $\frac{k_2}{k_1} = -3$ ，所以 $\frac{k_2}{k_1}$ 为定值-3.
 
-(1)求椭圆 E 的方程及点 T 的坐标；
+(Ⅱ)设 $A(x_{1},y_{1}), B(x_{2},y_{2})$ ，直线 PA 的方程为 $y=kx+m$ ，直线 QB 的方程为 $y=-3kx+m$ 。
 
-(2)设 O 是坐标原点, 直线 $l'$ 平行于 OT, 与椭圆 E 交于不同的两点 A, B, 且与直线 l 交于点 P, 证明: 存在常数 $\lambda$ , 使得 $|PT|^{2} = \lambda |PA||PB|$ , 并求 $\lambda$ 的值.
+联立 $\left\{ \begin{array}{l} y = kx + m \\ \frac{x^2}{4} + \frac{y^2}{2} = 1 \end{array} \right.$ ，整理得 $(2k^2 + 1)x^2 + 4mkx + 2m^2 - 4 = 0$
 
-12. 已知椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 的长轴长为 4，焦距为 $2\sqrt{2}$ .
+由 $x_0x_1 = \frac{2m^2 - 4}{2k^2 + 1}$ 可得 $x_{1} = \frac{2(m^{2} - 2)}{(2k^{2} + 1)x_{0}}$ ，所以 $y_{1} = kx_{1} + m = \frac{2k(m^{2} - 2)}{(2k^{2} + 1)x_{0}} + m$
 
-(1)求椭圆 C 的方程；
+同理 $x_{2} = \frac{2(m^{2} - 2)}{(18k^{2} + 1)x_{0}},y_{2} = \frac{-6k(m^{2} - 2)}{(18k^{2} + 1)x_{0}} + m$ ，则 $x_{2} - x_{1} = \frac{2(m^{2} - 2)}{(18k^{2} + 1)x_{0}} -\frac{2(m^{2} - 2)}{(2k^{2} + 1)x_{0}} =$
 
-(2)过动点 $M(0, m) (m > 0)$ 的直线交 $x$ 轴于点 $N$ , 交 $C$ 于点 $A$ , $P$ ( $P$ 在第一象限), 且 $M$ 是线段 $PN$ 的中点. 过点 $P$ 作 $x$ 轴的垂线交椭圆 $C$ 于另一点 $Q$ , 延长 $QM$ 交 $C$ 于点 $B$ .
+$\frac{-32k^2(m^2 - 2)}{(18k^2 + 1)(2k^2 + 1)x_0}, y_2 - y_1 = \frac{-6k(m^2 - 2)}{(18k^2 + 1)x_0} + m - \frac{2k(m^2 - 2)}{(2k^2 + 1)x_0} - m = \frac{-8k(6k^2 + 1)(m^2 - 2)}{(18k^2 + 1)(2k^2 + 1)x_0}$ , 所以 $k_{AB} = \frac{y_2 - y_1}{x_2 - x_1} = \frac{6k^2 + 1}{4k} = \frac{1}{4}(6k + \frac{1}{k})$ .
 
-(i) 设直线 $PM, QM$ 的斜率分别为 $k_{1}, k_{2}$ , 证明: $\frac{k_{2}}{k_{1}}$ 为定值;
+由 $m > 0, x_0 > 0$ 可知 $k > 0$ , 所以 $6k + \frac{1}{k} \geqslant 2\sqrt{6}$ , 当且仅当 $k = \frac{\sqrt{6}}{6}$ 时等号成立.
 
-(ii) 求直线 $AB$ 的斜率的最小值.
+此时 $\frac{m}{\sqrt{4 - 8m^2}} = \frac{\sqrt{6}}{6}$ 即 $m = \frac{\sqrt{14}}{7}$ ，符合题意.
 
-![](images/combined/part-001/9b9a78905b4d6a40dd7b83b93aedafb55b7a01680d66d914990856a70ff49ed3.jpg)
+所以直线 $AB$ 的斜率的最小值为 $\frac{\sqrt{6}}{2}$ .
 
-13. 给定椭圆 $C: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ , 称圆心在原点 $O$ , 半径为 $\sqrt{a^2 + b^2}$ 的圆为椭圆 $C$ 的“准圆”. 若椭圆 $C$ 的一个焦点为 $F(\sqrt{2}, 0)$ , 其短轴上的一个端点到 $F$ 的距离为 $\sqrt{3}$ .
+13.【解析】(1)因为椭圆 C 的一个焦点为 $F(\sqrt{2},0)$ ，其短轴上的一个端点到 F 的距离为 $\sqrt{3}$ ，所以 $c=\sqrt{2}$ ， $a=\sqrt{3}$ ， $b=\sqrt{a^{2}-c^{2}}=1$ ，椭圆方程为 $\frac{x^{2}}{3}+y^{2}=1$ ，故“准圆”方程为 $x^{2}+y^{2}=4$ 。
 
-(1)求椭圆 C 的方程和其“准圆”方程；
+(2)证明:①当直线 $l_{1}, l_{2}$ 中有一条斜率不存在时,不妨设直线 $l_{1}$ 斜率不存在,则 $l_{1}: x = \pm \sqrt{3}$ .
 
-(2)若点 $P$ 是椭圆 $C$ 的“准圆”上的动点, 过点 $P$ 作椭圆的切线 $l_{1}, l_{2}$ 交“准圆”于点 $M, N$ . 证明: $l_{1} \perp l_{2}$ , 且线段 $MN$ 的长为定值.
+当 $l_{1}: x = \sqrt{3}$ 时， $l_{1}$ 与“准圆”交于点 $(\sqrt{3}, 1), (\sqrt{3}, -1)$ ，此时 $l_{2}$ 为 $y = 1$ （或 $y = -1$ ），显然直线 $l_{1}, l_{2}$ 垂直；同理可证当 $l_{1}: x = -\sqrt{3}$ 时，直线 $l_{1}, l_{2}$ 垂直。
 
-![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/01_第15讲/01_第15讲.md]]
-![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/02_第16讲/02_第16讲.md]]
-![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/03_第17讲/03_第17讲.md]]
-![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/04_第20讲/04_第20讲.md]]
-![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/05_第21讲/05_第21讲.md]]
-![[高中/总复习/专题/高考数学培优40讲/高考数学培优40讲-02-解析几何/06_第22讲/06_第22讲.md]]
+②当 $l_{1}, l_{2}$ 斜率存在时，设点 $P(x_{0}, y_{0})$ ，其中 $x_{0}^{2} + y_{0}^{2} = 4$ .
+
+设经过点 $P(x_{0}, y_{0})$ 与椭圆相切的直线为 $y = t(x - x_{0}) + y_{0}$ .
+
+由 $\left\{ \begin{array}{l} y = t(x - x_0) + y_0 \\ \frac{x^2}{3} + y^2 = 1 \end{array} \right.$ 得 $(1 + 3t^2)x^2 + 6t(y_0 - tx_0)x + 3(y_0 - tx_0)^2 - 3 = 0.$
+
+由 $\Delta = 0$ 化简整理得 $(3 - x_0^2)t^2 + 2x_0y_0t + 1 - y_0^2 = 0$ ，因为 $x_0^2 + y_0^2 = 4$ ，所以有 $(3 - x_0^2)t^2 + 2x_0y_0t + (x_0^2 - 3) = 0$ . 设 $l_1, l_2$ 的斜率分别为 $t_1, t_2$ ，因为 $l_1, l_2$ 与椭圆相切，所以 $t_1, t_2$ 满足上述方程 $(3 - x_0^2)t^2 + 2x_0y_0t + (x_0^2 - 3) = 0$ ，则 $t_1 \cdot t_2 = -1$ ，即 $l_1, l_2$ 垂直.
+
+综合①②知， $l_{1} \perp l_{2}$
+
+因为 $l_{1}, l_{2}$ 经过点 $P(x_{0}, y_{0})$ , 又分别交其“准圆”于点 $M, N$ , 且 $l_{1}, l_{2}$ 垂直, 所以线段 $MN$ 为“准圆” $x^{2} + y^{2} = 4$ 的直径, $|MN| = 4$ , 故线段 $MN$ 的长为定值.
+
+## 训练 15
+
+1.【解析】(1)设动圆圆心 $P(x, y)$ , 则 $|PM|^2 = |PA|^2 = 4^2 + x^2$ , 即 $(x - 4)^2 + y^2 = 4^2 + x^2$ , 故动圆圆心的轨迹方程为 $y^2 = 8x$ .
+
+(2)设两点 $P(x_{1},y_{1}), Q(x_{2},y_{2})$ ，设不垂直于 x 轴的直线 $l: x = ty + m (t \neq 0)$ ，联立 $\left\{\begin{aligned} x &= ty + m \\ y^{2} &= 8x \end{aligned}\right.$ ，消 x 得 $y^{2} - 8ty - 8m = 0$ ，所以 $y_{1} + y_{2} = 8t, y_{1}y_{2} = -8m$ .
+
+又 $x$ 轴是 $\angle PBQ$ 的角平分线, 所以 $k_{BP} + k_{BQ} = 0$ , 即 $\frac{y_1}{x_1 + 3} + \frac{y_2}{x_2 + 3} = 0, 2ty_1y_2 + (m + 3)(y_1 + y_2) = 0$ , 则 $-16tm + (3 + m)8t = 0$ , 所以 $m = 3$ , 直线 $l$ 的方程为 $x = ty + 3$ , 故直线 $l$ 过定点(3,0).
+
+2.【解析】(1)显然当直线斜率为0时,直线与抛物线交于一点,不符合题意.
+
+设 $l: x = my + 2, A(x_1, y_1), B(x_2, y_2)$ ，联立 $\left\{ \begin{array}{l} y^2 = 2x \\ x = my + 2 \end{array} \right.$ ，得 $y^2 - 2my - 4 = 0, \Delta = 4m^2 + 16$ 恒大于 $0, y_1 + y_2 = 2m, y_1y_2 = -4$ .
+
+$\overrightarrow{OA} \cdot \overrightarrow{OB} = x_{1}x_{2} + y_{1}y_{2} = (my_{1} + 2)(my_{2} + 2) + y_{1}y_{2} = (m^{2} + 1)y_{1}y_{2} + 2m(y_{1} + y_{2}) + 4 = -4(m^{2} + 1) + 2m \cdot 2m + 4 = 0$ ，所以 $\overrightarrow{OA} \perp \overrightarrow{OB}$ ，即点 $O$ 在圆 $M$ 上.
+
+(2) 若圆 $M$ 过点 $P$ , 则 $\overrightarrow{AP} \cdot \overrightarrow{BP} = 0$ , 即 $(x_{1} - 4)(x_{2} - 4) + (y_{1} + 2)(y_{2} + 2) = 0, (my_{1} - 2)(my_{2} - 2) + (y_{1} + 2)(y_{2} + 2) = 0$ , 则 $(m^{2} + 1)y_{1}y_{2} - (2m - 2)(y_{1} + y_{2}) + 8 = 0$ ,
+
+化简得 $2m^{2} - m - 1 = 0$ ，解得 $m = -\frac{1}{2}$ 或1.
+
+①当 $m = -\frac{1}{2}$ 时， $l: 2x + y - 4 = 0$ ，设圆心为 $M(x_0, y_0)$ ，则 $y_0 = \frac{y_1 + y_2}{2} = -\frac{1}{2}, x_0 = -\frac{1}{2}y_0 + 2 = \frac{9}{4}$ ，半径 $r =$
+
+$|OM|=\sqrt{\left(\frac{9}{4}\right)^{2}+\left(-\frac{1}{2}\right)^{2}}=\sqrt{\frac{85}{16}}$ ，则圆 $M:\left(x-\frac{9}{4}\right)^{2}+\left(y+\frac{1}{2}\right)^{2}=\frac{85}{16}$ .
+
+②当 $m = 1$ 时， $l: x - y - 2 = 0$ ，设圆心为 $M(x_0, y_0), y_0 = \frac{y_1 + y_2}{2} = 1, x_0 = y_0 + 2 = 3$ ，半径 $r = |OM| = \sqrt{3^2 + 1^2} = \sqrt{10}$ ，则圆 $M$ 的方程为 $(x - 3)^2 + (y - 1)^2 = 10$ .
+
+综上, 直线 $l$ 与圆 $M$ 的方程分别为直线 $l: 2x + y - 4 = 0$ 和圆 $M: \left(x - \frac{9}{4}\right)^2 + \left(y + \frac{1}{2}\right)^2 = \frac{85}{16}$ , 或直线 $l: x - y - 2 = 0$ 和圆 $M: (x - 3)^2 + (y - 1)^2 = 10$ .
+
+3.【解析】(1)设 $M(x,y)$ ，则 $\frac{y}{x+2} \cdot \frac{y}{x-2} = -\frac{3}{4}$ ，故 $\frac{x^{2}}{4} + \frac{y^{2}}{3} = 1 (x \neq \pm 2)$ .
+
+(2)如图所示,设 $M(x_{0},y_{0})$ .
+
+①当 $x_0 = 1$ 时， $M\left(1, \frac{3}{2}\right), k_{AM} = \frac{1}{2}, N(4,3), k_{NF} = 1.$
+
+![](images/combined/part-002/2af3efdbd28eed60d6345e517452cdc0c6803f2276de99b3ee381b9427db5f0f.jpg)
+
+所以 $\angle MFD = 90^{\circ},\angle NFD = 45^{\circ},\lambda = 2.$
+
+②当 $x_{0} \neq 1$ 时， $k_{MF} = \frac{y_{0}}{x_{0} - 1}, k_{AM} = \frac{y_{0}}{x_{0} + 2}$ ，直线 AM 的方程为 $y = \frac{y_{0}}{x_{0} + 2}(x + 2)$ ，令 x = 4，得 $N\left(4, \frac{6y_{0}}{x_{0} + 2}\right)$ ， $k_{NF}=\frac{y_{N}}{3}=\frac{2y_{0}}{x_{0}+2}.$
+
+$$
+\begin{array}{r l} \text {又} & \frac {2 k _ {N F}}{1 - k _ {N F} ^ {2}} = \frac {4 y _ {0}}{x _ {0} + 2} \cdot \frac {(x _ {0} + 2) ^ {2}}{(x _ {0} + 2) ^ {2} - 4 y _ {0} ^ {2}} = \frac {4 y _ {0} (x _ {0} + 2)}{x _ {0} ^ {2} + 4 x _ {0} + 4 - 4 y _ {0} ^ {2}} = \frac {4 y _ {0} (x _ {0} + 2)}{x _ {0} ^ {2} + 4 x _ {0} + 4 + 3 x _ {0} ^ {2} - 1 2} \\ & = \frac {4 y _ {0} (x _ {0} + 2)}{4 (x _ {0} + 2) (x _ {0} - 1)} = \frac {y _ {0}}{x _ {0} - 1} = k _ {M F}, \end{array}
+$$
+
+所以 $\tan \angle MFD = \frac{2\tan\angle NFD}{1 - \tan^2\angle NFD}$ 故 $\angle MFD = 2\angle NFD.$
+
+即存在 $\lambda=2$ ，使得 $\angle MFD=\lambda\angle NFD.$
+
+【评注】可由特值法,确定 $\lambda=2$ 后,再证明满足任意性.
+
+4.【解析】(1)设 $F(c,0)$ ，由 $\frac{1}{|OF|} + \frac{1}{|OA|} = \frac{3e}{|FA|}$ ，即 $\frac{1}{c} + \frac{1}{a} = \frac{3c}{a(a-c)}$ ，可得 $a^{2} - c^{2} = 3c^{2}$ ，又 $a^{2} - c^{2} = b^{2} = 3$ ，
+所以 $c^{2}=1$ ，因此 $a^{2}=4$ ，故椭圆的方程为 $\frac{x^{2}}{4}+\frac{y^{2}}{3}=1$ 。
+
+(2)如图所示,设直线 l 的斜率为 $k(k \neq 0)$ , 则直线 l 的方程为 $y = k(x - 2)$ .
+
+设 $B(x_{B},y_{B})$ ，由方程组 $\left\{ \begin{array}{l} \frac{x^2}{4} +\frac{y^2}{3} = 1\\ y = k(x - 2) \end{array} \right.$ 整理得 $(4k^{2} + 3)x^{2} - 16k^{2}x + 16k^{2}-$ $12 = 0.$
+
+![](images/combined/part-002/931692f632ec7bc9a3b5a6e302adc65aac31ebda49a81eac0ad7e40cdac6f077.jpg)
+
+解得 $x = 2$ 或 $x = \frac{8k^2 - 6}{4k^2 + 3}$ , 由题意得 $x_B = \frac{8k^2 - 6}{4k^2 + 3}$ , 从而 $y_B = \frac{-12k}{4k^2 + 3}$ .
+
+由(1)知 $F(1,0)$ ，设 $H(0,y_{H})$ ，有 $\overrightarrow{FH}=(-1,y_{H}),\overrightarrow{BF}=\left(\frac{9-4k^{2}}{4k^{2}+3},\frac{12k}{4k^{2}+3}\right)$ .
+
+由 $BF \perp HF$ , 得 $\overrightarrow{BF} \cdot \overrightarrow{HF} = \frac{4k^2 - 9}{4k^2 + 3} + \frac{12ky_H}{4k^2 + 3} = 0$ , 解得 $y_H = \frac{9 - 4k^2}{12k}$ , 因此直线 $MH$ 的方程为 $y = -\frac{1}{k}x + \frac{9 - 4k^2}{12k}$ .
+
+设 $M(x_M, y_M)$ , 由方程组 $\left\{ \begin{array}{l} y = -\frac{1}{k}x + \frac{9 - 4k^2}{12k} \\ y = k(x - 2) \end{array} \right.$ 消去 $y$ 解得 $x_M = \frac{20k^2 + 9}{12(k^2 + 1)}$ .
+
+在 $\triangle MAO$ 中, $\angle MOA \leqslant \angle MAO \Leftrightarrow MA \leqslant MO$ , 即 $(x_M - 2)^2 + y_M^2 \leqslant x_M^2 + y_M^2$ , 化简得 $x_M \geqslant 1$ , 即 $x_M = \frac{20k^2 + 9}{12(k^2 + 1)} \geqslant 1$ , 解得 $k \leqslant -\frac{\sqrt{6}}{4}$ 或 $k \geqslant \frac{\sqrt{6}}{4}$ .
+
+故直线 $l$ 的斜率的取值范围为 $(- \infty, -\frac{\sqrt{6}}{4}] \cup [\frac{\sqrt{6}}{4}, + \infty)$ .
+
+【解析】(1)由 $C_1: x^2 = 4y$ 知其焦点 $F$ 的坐标为 (0,1).
+
+因为 $F$ 也是椭圆 $C_2$ 的一个焦点, 所以 $a^2 - b^2 = 1$ ①.
+
+又 $C_1$ 与 $C_2$ 的公共弦的长为 $2\sqrt{6}, C_1$ 与 $C_2$ 都关于 $y$ 轴对称, 且 $C_1$ 的方程为 $x^2 = 4y$ , 由此易知 $C_1$ 与 $C_2$ 的公共点的坐标为 $(\pm \sqrt{6}, \frac{3}{2})$ , 所以 $\frac{9}{4a^2} + \frac{6}{b^2} = 1$ ②.
+
+联立①②式得 $a^2 = 9, b^2 = 8$ . 故 $C_2$ 的方程为 $\frac{y^2}{9} + \frac{x^2}{8} = 1$ .
+
+(2)由题意可知, 直线 $l$ 的斜率存在, 设直线 $l$ 的方程为 $y = k(x + 1)$ .
+
+联立方程 $\left\{ \begin{array}{l} 8y^2 + 9x^2 = 72 \\ y = kx + k \end{array} \right.$ , 整理得 $(9 + 8k^2)x^2 + 16k^2x + 8k^2 - 72 = 0$ .
+
+设 $A(x_1, kx_1 + k), B(x_2, kx_2 + k)$ , 于是有 $x_1 + x_2 = \frac{-16k^2}{9 + 8k^2}, x_1x_2 = \frac{8k^2 - 72}{9 + 8k^2}$ .
+
+因为 $\overrightarrow{OA} = (x_1, kx_1 + k), \overrightarrow{OB} = (x_2, kx_2 + k), \overrightarrow{OA} \cdot \overrightarrow{OB} = x_1x_2 + (kx_1 + k)(kx_2 + k) = (1 + k^2)x_1x_2 + k^2(x_1 + x_2) + k^2 = \frac{-55k^2 - 72}{9 + 8k^2} < 0$ , 所以 $\angle AOB > \frac{\pi}{2}$ , 可知 $O$ 恒在以 $AB$ 为直径的圆内.
+
+故不存在实数 $k$ , 使 $O$ 在以 $AB$ 为直径的圆外.
+
+【解析】设 $A(x_1, y_1), B(x_2, y_2), C(x_3, y_3), D(x_4, y_4)$ .
+
+(1)因为 $\overrightarrow{AC}$ 与 $\overrightarrow{BD}$ 同向, 且 $|AC| = |BD|$ , 所以 $\overrightarrow{AC} = \overrightarrow{BD}$ , 从而 $x_3 - x_1 = x_4 - x_2$ , 即 $x_1 - x_2 = x_3 - x_4$ , 于是 $(x_1 + x_2)^2 - 4x_1x_2 = (x_3 + x_4)^2 - 4x_3x_4$ ①.
+
+设直线 $l$ 的斜率为 $k$ , 则 $l$ 的方程为 $y = kx + 1$ , 由 $\left\{ \begin{array}{l} y = kx + 1 \\ x^2 = 4y \end{array} \right.$ 得 $x^2 - 4kx - 4 = 0$ , 而 $x_1, x_2$ 是这个方程的两根, 所以 $x_1 + x_2 = 4k, x_1x_2 = -4$ ②.
+
+由 $\left\{ \begin{array}{l} y = kx + 1 \\ \frac{x^2}{8} + \frac{y^2}{9} = 1 \end{array} \right.$ 得 $(9 + 8k^2)x^2 + 16kx - 64 = 0$ , 而 $x_3, x_4$ 是这个方程的两根, 所以 $x_3 + x_4 = \frac{-16k}{9 + 8k^2}, x_3x_4 =$
+
+$-\frac{64}{9+8k^{2}}$ ③.
+
+将②③式代入①式, 得 $16(k^{2} + 1) = \frac{16^{2}k^{2}}{(9 + 8k^{2})^{2}} + \frac{4 \times 64}{9 + 8k^{2}}$ , 即 $16(k^{2} + 1) = \frac{16^{2} \times 9(k^{2} + 1)}{(9 + 8k^{2})^{2}}$ , 所以 $(9 + 8k^{2})^{2} = 16 \times 9$ , 解得 $k = \pm \frac{\sqrt{6}}{4}$ .
+
+(2)由 $x^{2} = 4y$ ，得 $y^{\prime} = \frac{1}{2} x$ ，所以 $C_1$ 在点 $A$ 处的切线方程为 $y - y_{1} = \frac{1}{2} x_{1}(x - x_{1})$ ，即 $y = \frac{1}{2} x_{1}x - \frac{1}{4} x_{1}^{2}$ 令 $y = 0$ ，得 $x = \frac{1}{2} x_{1},M(\frac{1}{2} x_{1},0)$ ，所以 $\overrightarrow{FM} = (\frac{1}{2} x_1, - 1)$ ，而 $\overrightarrow{FA} = (x_1,y_1 - 1)$ ，于是 $\overrightarrow{FM}\cdot \overrightarrow{FA} = \frac{1}{2} x_1^2 -y_1 + 1 =$ $\frac{1}{4} x_1^2 +1 > 0$ ，因此∠AFM是锐角，从而∠MFD= $180^{\circ} - \angle AFM$ 是钝角.
+
+故直线 l 绕点 F 旋转时, $\triangle MFD$ 总是钝角三角形.
+
+7.【解析】(1)由题意得,抛物线 $C_{1}: x^{2} = 4y$ 和抛物线 $C_{2}: x^{2} = -y$ 的焦点分别为 $F(0,1)$ , $F'(0, -\frac{1}{4})$ , 所以 $|FF'| = \frac{5}{4}$ .
+
+(2)设直线 l 的方程为: $y=kx+m$ , 联立方程组 $\left\{\begin{aligned} x^{2}=4y \\ y=kx+m \end{aligned}\right.$ , 消去 y, 得 $x^{2}-4kx-4m=0$ ,
+
+因为直线 l 与 $C_{1}$ 相切，所以 $\Delta=16k^{2}+16m=0$ ，得 $m=-k^{2}$ ，且 N 的坐标为 $(2k,k^{2})$ .
+
+联立方程组 $\left\{\begin{aligned}x^{2}&=-y\\ y&=kx-k^{2}\end{aligned}\right.$ ，消去y，得 $x^{2}+kx-k^{2}=0$ 。
+
+设 $A(x_{1},y_{1}),B(x_{2},y_{2}),M(x_{0},y_{0})$ ，则 $x_{1} + x_{2} = -k,x_{1}\cdot x_{2} = -k^{2}$ ，所以 $x_0 = \frac{x_1 + x_2}{2} = -\frac{k}{2},y_0 = kx_0+$ $m = -\frac{3}{2} k^2.$
+
+又点 $F$ 在以线段 $MN$ 为直径的圆上，所以 $\overrightarrow{FM} \cdot \overrightarrow{FN} = 0, N(2k, k^2), M(-\frac{k}{2}, -\frac{3}{2} k^2), F(0,1)$ ，故 $\left(-\frac{k}{2}, -\frac{3}{2} k^2 - 1\right) \cdot (2k, k^2 - 1) = 0$ ，即 $3k^4 + k^2 - 2 = 0$ ，解得 $k^2 = \frac{2}{3}$ .
+
+经检验满足题意,故直线 l 的方程是 $y=\pm\frac{\sqrt{6}}{3}x-\frac{2}{3}$ .
+
+8.【解析】(1)m=3,椭圆 $E:\frac{x^{2}}{9}+y^{2}=1$ ,两个焦点 $F_{1}(-2\sqrt{2},0)$ , $F_{2}(2\sqrt{2},0)$ .
+
+设 $K(x, y), \overrightarrow{F_1K} = (x + 2\sqrt{2}, y), \overrightarrow{F_2K} = (x - 2\sqrt{2}, y), \overrightarrow{KF_1} \cdot \overrightarrow{KF_2} = \overrightarrow{F_1K} \cdot \overrightarrow{F_2K} = (x + 2\sqrt{2}, y) \cdot (x - 2\sqrt{2}, y) = x^2 + y^2 - 8 = -8y^2 + 1$ ，因为 $-1 \leqslant y \leqslant 1$ ，所以 $\overrightarrow{KF_1} \cdot \overrightarrow{KF_2}$ 的范围是 $[-7, 1]$ .
+
+(2)设 $A, B$ 的坐标分别为 $(x_{1}, y_{1}), (x_{2}, y_{2})$ ，则 $\left\{ \begin{array}{l} x_{1}^{2} + 9y_{1}^{2} = m^{2} \\ x_{2}^{2} + 9y_{2}^{2} = m^{2} \end{array} \right.$ ，两式相减，得 $(x_{1} + x_{2})(x_{1} - x_{2}) + 9(y_{1} + y_{2})(y_{1} - y_{2}) = 0, 1 + 9\frac{(y_{1} + y_{2})(y_{1} - y_{2})}{(x_{1} + x_{2})(x_{1} - x_{2})} = 0$ ，则 $1 + 9k_{OM} \cdot k_{l} = 0$ ，即 $k_{OM} \cdot k_{l} = -\frac{1}{9}$ .
+
+(3) 因为直线 $l$ 过点 $(m, \frac{m}{3})$ , 且不过原点 $O$ , 所以 $k \neq \frac{1}{3}$ .
+
+设 $P(x_{P},y_{P})$ ，直线 $l:y = k(x - m) + \frac{m}{3} (m\neq 0,k\neq 0)$ ，即 $l:y = kx - km + \frac{m}{3}$
+
+由(2)的结论可知 $OM: y = -\frac{1}{9k} x$ ，代入椭圆方程得 $x_{P}^{2} = \frac{9m^{2}k^{2}}{9k^{2} + 1}$ ，由 $y = k(x - m) + \frac{m}{3}$ 与 $y = -\frac{1}{9k} x$ ，联立得 $M\left(\frac{9k^{2}m - 3km}{9k^{2} + 1}, -\frac{km - \frac{m}{3}}{9k^{2} + 1}\right)$ .
+
+若四边形 OAPB 为平行四边形, 那么 M 也是 OP 的中点, 所以 $2x_{M}=x_{P}$ , 即 $4\left(\frac{9k^{2}m-3km}{9k^{2}+1}\right)^{2}=\frac{9m^{2}k^{2}}{9k^{2}+1}$ , 整理得 $9k^{2}-8k+1=0$ , 解得 $k=\frac{4\pm\sqrt{7}}{9}$ .
+
+故当 $k = \frac{4 \pm \sqrt{7}}{9}$ 时，四边形 OAPB 为平行四边形.
+
+9.【解析】(1)证明:根据题意可得 $A_{1}(-2,0)$ , $A_{2}(2,0)$ .
+
+设 $P(x_0, y_0), M(x_1, y_1), N(x_2, y_2)$ ，则直线 $A_1P$ 为 $x = \frac{x_0 + 2}{y_0} y - 2$ ，联立 $\left\{ \begin{array}{l} x = \frac{x_0 + 2}{y_0} y - 2 \\ y^2 = 2px \end{array} \right.$ ，消去 $x$ 得 $y^2 - \frac{2p(x_0 + 2)}{y_0} \cdot y + 4p = 0$ ，所以 $y_1y_0 = 4p$ ，则 $y_1 = \frac{4p}{y_0}, x_1 = \frac{y_1^2}{2p} = \frac{8p}{y_0^2}$ ，直线 $A_2P$ 的方程为 $x = \frac{x_0 - 2}{y_0} y + 2$ ，同理联立直线 $A_2P$ 与抛物线的方程，得 $y_2y_0 = -4p$ 。所以 $y_2 = -\frac{4p}{y_0}, x_2 = \frac{8p}{y_0^2}, x_1 = x_2$ ，故直线 $MN$ 垂直于 $x$ 轴。
+
+(2) 设 $P(x_0, y_0)$ 是抛物线与椭圆的交点，所以 $\left\{ \begin{array}{l} \frac{x_0^2}{4} + y_0^2 = 1 \\ y_0^2 = 2px_0 \end{array} \right.$ ，则 $S_1 = S_{\triangle OPM} = S_{\triangle OA_1M} - S_{\triangle OA_1P} = \frac{1}{2}|OA_1||y_1| - \frac{1}{2}|OA_1||y_0|$ $= \frac{1}{2}|OA_1||y_0| = \frac{|4p - y_0^2|}{|y_0|}, S_2 = S_{\triangle OMN} = \frac{1}{2}|x_1||2y_1| = \left|\frac{32p^2}{y_0^3}\right|, \frac{S_1}{S_2} = \left|\frac{4p - y_0^2}{32p^2} \cdot y_0^2\right| = \frac{1}{2}\left| -\left(\frac{y_0^2}{4p}\right)^2 + \frac{y_0^2}{4p}\right| = \left| -\frac{x_0^2}{8} + \frac{x_0}{4}\right|$ .
+
+因为 $\angle OPA_{2}$ 为钝角，所以 $\overrightarrow{OP} \cdot \overrightarrow{A_{2}P} < 0$ ，即 $x_{0}^{2} - 2x_{0} + y_{0}^{2} < 0$ ，将 $y_{0}^{2} = 1 - \frac{x_{0}^{2}}{4}$ 代入 $x_{0}^{2} - 2x_{0} + y_{0}^{2} < 0$ ，得 $x_{0}^{2} - 2x_{0} + 1 - \frac{x_{0}^{2}}{4} < 0$ ，解得 $\frac{2}{3} < x_{0} < 2$ .
+
+令 $f(x) = \left| -\frac{x^2}{8} + \frac{x}{4} \right|$ , $\frac{2}{3} < x < 2$ , 当 $x = 1$ 时, $f(x)$ 的最大值为 $\frac{1}{8}$ .
+
+故当 $x_0 = 1$ 时， $\frac{S_1}{S_2}$ 的最大值为 $\frac{1}{8}$
+
+## 训练 16
+
+1.【解析】解法一(几何法):圆的方程可化为 $(x-1)^{2}+(y-1)^{2}=4$ ,点M到直线l的距离 $d=\frac{|2\times1+1+2|}{\sqrt{2^{2}+1^{2}}}$ =
+
+$\sqrt{5}>2$ ,所以直线 l 与圆相离.
+
+根据圆的知识可知，A, P, B, M 四点共圆，且 $AB \perp MP$ ，所以 $|PM||AB| = 4S_{\triangle PAM} = 4 \times \frac{1}{2} \cdot |PA| \cdot |AM| = 4 |PA|$ ，而 $|PA| = \sqrt{|MP|^2 - 4}$ ，当直线 $MP \perp l$ 时， $|MP|_{\min} = \sqrt{5}$ ， $|PA|_{\min} = 1$ ，此时 $|PM||AB|$ 最小.
+
+所以 $MP:y - 1 = \frac{1}{2} (x - 1)$ ，即 $y = \frac{1}{2} x + \frac{1}{2}$ ，由 $\left\{ \begin{array}{l}y = \frac{1}{2} x + \frac{1}{2}\\ 2x + y + 2 = 0 \end{array} \right.$ ，解得 $\left\{ \begin{array}{l}x = -1\\ y = 0 \end{array} \right.$
+
+则 $P(-1,0)$ ，所以以 MP 为直径的圆的方程为 $(x-1)(x+1)+y(y-1)=0$ ，即 $x^{2}+y^{2}-y-1=0$ ，两圆的方程相减可得 $2x+y+1=0$ ，即为直线 AB 的方程。
+故选 D.
+
+解法二(代数法):依题意可得圆 M 的方程为 $(x-1)^{2}+(y-1)^{2}=4$ ,
+
+设 $\angle APM = \alpha$ ，由图可知， $|PM| = \frac{|AM|}{\sin\alpha} = \frac{2}{\sin\alpha}, |AB| = 4\cos \alpha$ ，则 $|PM||AB| = \frac{8}{\tan\alpha}$
+
+因为 $\sin \alpha = \frac{|AM|}{|PM|} = \frac{2}{|PM|} \in \left(0, \frac{2\sqrt{5}}{5}\right]$ , $\tan \alpha \in (0, 2]$ .
+
+![](images/combined/part-002/879f499139d419bb161edc848147b208ad6ab5646cf6865c696aa4b176466635.jpg)
+
+当 $\tan \alpha = 2$ 时，即过 $M$ 作直线 $l$ 的垂线，点 $P$ 取垂足 $P_{1}$ 时， $|PM||AB|$ 达到最小.
+
+联立直线 $MP_{1}$ 与直线 $l$ ，得 $\left\{ \begin{array}{l}y - 1 = \frac{1}{2} (x - 1)\\ y = -2x - 2 \end{array} \right.\Rightarrow \left\{ \begin{array}{l}y = \frac{1}{2} x + \frac{1}{2}\\ y = -2x - 2 \end{array} \right.\Rightarrow \left\{ \begin{array}{l}x = -1\\ y = 0 \end{array} \right..$
+
+AB 方程即为过点 $P_{1}$ 的两条切线的切点弦, 其方程为 $(x-1)(-1-1)+(y-1)(0-1)=4\Rightarrow2-2x+1-y=4\Rightarrow2x+y+1=0$ . 故选 D.
+
+2.【解析】由于 $\left|3x-4y+a\right|+\left|3x-4y-9\right|=5\left(\frac{\left|3x-4y+a\right|}{\sqrt{3^{2}+4^{2}}}+\frac{\left|3x-4y-9\right|}{\sqrt{3^{2}+4^{2}}}\right)$ ，故 $\left|3x-4y+a\right|+\left|3x-4y-9\right|$ 可看作为点 P 到直线 m:3x-4y+a=0 和直线 l:3x-4y-9=0 距离之和的 5 倍。因为
+
+$|3x - 4y + a| + |3x - 4y - 9|$ 的取值与 $x, y$ 无关，所以距离之和与点 $P$ 在圆上的位置无关. 如图所示，当直线 $m$ 平移时，点 $P$ 与 $m, l$ 的距离之和均为 $m, l$ 两条平行线间的距离，即此时圆在两直线内部，当直线 $m$ 与圆相切时， $\frac{|3 \times 1 - 4 \times 1 + a|}{\sqrt{3^2 + 4^2}} = 1$ ，解得 $a = 6$ 或
+
+![](images/combined/part-002/62883e2a02e63549845ec5bf82383f4e44565f47d460e621caf0e7f249682f21.jpg)
+
+$a = -4$ （舍去），所以 $a \geqslant 6$ 。故选D.
+
+3.【解析】如图所示, 设 $\angle BON = \theta$ , 过点 $M$ 作 $BO$ 延长线的垂线, 垂足为 $D$ , 与 $\odot M$ 的一个交点为 $A$ ; 则 $AD$ 为 $\odot M$ 上的点到直线 $BO$ 的距离的最大值, 这时相对于每一个确定的 $OB$ , $\triangle AOB$ 的面积最大. 又 $\angle CBO = 90^\circ$ , $OC = 6$ , 所以 $OB = 6\cos \theta$ .
+
+又 $\angle MOD=\angle COB$ ,所以 $\angle MOD=\theta;OM=1$ ,所以 $MD=\sin\theta,AD=1+\sin\theta,$
+
+则 $S_{\triangle AOB} = \frac{1}{2} OB\times AD = \frac{1}{2}\times 6\cos \theta \times (1 + \sin \theta) = 3\cos \theta (1 + \sin \theta).$
+
+解法一(导数法): 设 $y = 3\cos\theta(1 + \sin\theta) = 3\cos\theta + \frac{3}{2}\sin2\theta$ ，则 $y' = -3\sin\theta + 3\cos2\theta = 3(1 - \sin\theta - 2\sin^{2}\theta) = 3(1 - 2\sin\theta)(1 + \sin\theta)$ ，故当 $\sin\theta = \frac{1}{2}$ ，即 $\theta = 30^{\circ}$ 时，y 最大，最大值为 $\frac{9\sqrt{3}}{4}$ .
+
+![](images/combined/part-002/a806fb42859c08520837b81987af0fe46d829e9f1ed158ca5f90f318516d584e.jpg)
+
+所以 $\triangle AOB$ 面积的最大值为 $\frac{9\sqrt{3}}{4}$ . 故选 B.
+
+解法二(基本不等式法): 因为 $S_{\triangle AOB} = \frac{1}{2} |OB| \times |AD| = 3 \cos \theta (\sin \theta + 1)$ $= 3 \sqrt{1 - \sin^{2} \theta} \cdot (1 + \sin \theta) = 3 \sqrt{(1 + \sin \theta)^{3} (1 - \sin \theta)}$ $= 3 \sqrt{(1 - \sin \theta)(1 + \sin \theta)(1 + \sin \theta)(1 + \sin \theta)}$ $\leqslant 3 \sqrt{27(1 - \sin \theta) \cdot \frac{1 + \sin \theta}{3} \cdot \frac{1 + \sin \theta}{3} \cdot \frac{1 + \sin \theta}{3}}$ $= 3 \sqrt{27} \times \left( \frac{1 + \frac{1}{3} + \frac{1}{3} + \frac{1}{3}}{4} \right)^{2}$ $= \frac{9\sqrt{3}}{4}.$
+
+当且仅当 $1 - \sin \theta = \frac{1 + \sin\theta}{3}$ 即 $\sin \theta = \frac{1}{2},\quad \theta = \frac{\pi}{6}$ 时取等号.故选B.
+
+解法三(极坐标法):如图1所示,设 $\angle AOx=\alpha,\quad A:\rho_{1}=2\sin\alpha,\angle BOx=\beta,B:\rho_{2}=6\sin\beta.$ 由对称性可知当 $\alpha, \beta \in \left(0, \frac{\pi}{2}\right)$ 时， $S_{\triangle AOB}$ 有最大值.
+
+$$
+S _ {\triangle A O B} = \frac {1}{2} \rho_ {1} \cdot \rho_ {2} \cdot \sin (\alpha + \beta) = 6 \sin \alpha \cdot \sin \beta \cdot \sin (\alpha + \beta).
+$$
+
+如图2所示,在直径为1的圆O中,CD=1为直径, $\angle ADC=\alpha,\angle BDC=\beta$ ,则 $AC=\sin\alpha$ , $BC=\sin\beta,\sin\angle ACB=\sin(\pi-\alpha-\beta)=\sin(\alpha+\beta)$ ,
+
+![](images/combined/part-002/83974dfec1549d99fef26627149976d252dad37570c8ced3144a9b6a800f3620.jpg)
+图1
+
+$S_{\triangle ABC} = \frac{1}{2}\sin \alpha \sin \beta \sin (\alpha +\beta)\leqslant \frac{1}{2}\cdot \left(\frac{\sin\alpha + \sin\beta + \sin(\alpha + \beta)}{3}\right)^{3} =$ $\frac{1}{2}\cdot \left(\frac{\sin A + \sin B + \sin C}{3}\right)^{3}.$
+
+由 $f(x) = \sin x$ 在 $(0, \pi)$ 上为凸函数可知， $\frac{\sin A + \sin B + \sin C}{3} \leqslant \sin \frac{A + B + C}{3} = \sin \frac{\pi}{3} = \frac{\sqrt{3}}{2}$ ，则 $S_{\triangle ABC} \leqslant \frac{1}{2} \times \left(\frac{\sqrt{3}}{2}\right)^3 = \frac{3\sqrt{3}}{16}$ ，即 $\sin \alpha \cdot \sin \beta \cdot \sin (\alpha + \beta) \leqslant \frac{3\sqrt{3}}{8}$ .
+
+![](images/combined/part-002/e993ce15a7047aa09086afa7061d2409081297f66fbc3eecf234756cd29040f0.jpg)
+图2
+
+当且仅当 A=B=C 时取等号，即 $\alpha=\beta=\frac{\pi}{3}$ 时取等号.
+
+此时 $S_{\triangle AOB} = 6\sin \alpha \sin \beta \sin (\alpha +\beta)\leqslant 6\times \frac{3\sqrt{3}}{8} = \frac{9\sqrt{3}}{4}$ 故选B.
+
+【评注】本题动点在圆上, 引入夹角变量, 建立一个关于 $\theta$ 的单变量的函数关系, 把一个双动态的情况转化为一个动点的情况.
+
+4.【解析】由题意得圆心 $C(3,4)$ ，半径 r=1。
+
+因为圆心 $C$ 到原点 $O$ 的距离为 5 , 所以圆 $C$ 上的点到原点 $O$ 的距离的最大值为 6 , 最小值为 4 .再由 $\angle APB = 90^{\circ}$ ，所以点 $P$ 在以 $AB$ 为直径的圆上，此圆的半径为 $\frac{1}{2} AB = m$ ，当两圆外切时， $m + 1 = 5$ ，解得 $m = 4$ ；当两圆内切时， $m - 1 = 5$ ，解得 $m = 6$ 要使圆 $C$ 上存在点 $P$ ，使得 $\angle APB = 90^{\circ}$ ，只需两圆有公共点，所以 $4 \leqslant m \leqslant 6$ 故 $m$ 的取值范围是[4,6].
+
+5.【解析】若 $\angle APB=60^{\circ}$ ,则 $OP=2$ ,点 $P$ 的轨迹为 $x^{2}+y^{2}=4$ .
+
+直线 $x + y + m = 0$ 上存在点 $P$ 可作 $O: x^2 + y^2 = 1$ 的两条切线 $PA, PB$ 等价于直线 $x + y + m = 0$ 与圆 $x^2 + y^2 = 4$ 有公共点，由圆心到直线的距离公式可得 $\frac{|m|}{\sqrt{2}} \leqslant 2$ ，解得 $-2\sqrt{2} \leqslant m \leqslant 2\sqrt{2}$ ，即 $m$ 的取值范围为 $[-2\sqrt{2}, 2\sqrt{2}]$ .
+
+6.【解析】由圆的方程知, 圆心 $C(m,2)$ , 半径 $r = 2\sqrt{10}$ , 所以 $S_{\triangle ABC} = \frac{1}{2} r^2 \sin \angle ACB = 20 \sin \angle ACB$ , 则当 $\angle ACB = \frac{\pi}{2}$ 时, $S_{\triangle ABC}$ 取得最大值 20, 此时 $\triangle ABC$ 为等腰直角三角形, $|AB| = \sqrt{2} r = 4\sqrt{5}$ , 点 $C$ 到直线 $AB$ 的距离为 $2\sqrt{5}$ , 所以 $2\sqrt{5} \leqslant |PC| < 2\sqrt{10}$ , 即 $2\sqrt{5} \leqslant \sqrt{(m-3)^2 + 2^2} < 2\sqrt{10}$ , 解得 $-3 < m \leqslant -1$ 或 $7 \leqslant m < 9$ .
+
+故实数 m 的取值范围是 $(-3, -1] \cup [7, 9)$ .
+
+## 训练 17
+
+1.【解析】在 $\triangle PF_{1}F_{2}$ 中，由正弦定理得 $\frac{|PF_2|}{\sin\angle PF_1F_2} = \frac{|PF_1|}{\sin\angle PF_2F_1}$ ，则 $\frac{|PF_2|}{a} = \frac{|PF_1|}{c}$ ，即 $c|PF_2| = a|PF_1|$ ，且可知 $|PF_1| > |PF_2|$ 。又因为 $|PF_1| - |PF_2| = 2a$ ，所以联立方程组 $\left\{ \begin{array}{l} c|PF_2| = a|PF_1| \\ |PF_1| - |PF_2| = 2a \end{array} \right.$ ，解得 $|PF_1| = \frac{2ac}{c - a}$ 。由双曲线的焦半径公式可知 $|PF_1| = a + ex \in [a + c, +\infty)$ ，又依题意，点 $P$ 不在 $x$ 轴上，所以 $|PF_1| > a + c$ ，即 $\frac{2ac}{c - a} > a + c$ ，整理得 $e^2 - 2e - 1 < 0$ ，解得 $-\sqrt{2} + 1 < e < \sqrt{2} + 1$ ，又因为 $e > 1$ ，所以双曲线的离心率 $e \in (1, \sqrt{2} + 1)$ 。
+
+2.【解析】根据抛物线的焦半径的性质可得 $\frac{1}{|AF|} + \frac{1}{|BF|} = \frac{2}{p} = 1$ , 结合 $|AF| = 3$ , 解得 $|BF| = \frac{3}{2}$ . 不妨设点 $A$ 位于 $x$ 轴上方, 且 $\angle AFx = \theta (0^\circ < \theta < 90^\circ)$ , 则根据抛物线的焦半径公式得 $|AF| = \frac{p}{1 - \cos\theta} = \frac{2}{1 - \cos\theta} = 3$ ,解得 $\cos\theta=\frac{1}{3}$ ，则 $\sin\theta=\frac{2\sqrt{2}}{3}$ ，所以 $S_{\triangle AOB}=\frac{1}{2}|OF|\cdot|AF|\sin\theta+\frac{1}{2}|OF||BF|\sin\theta=\frac{1}{2}\times1\times\left(3+\frac{3}{2}\right)\times\frac{2\sqrt{2}}{3}=\frac{3\sqrt{2}}{2}$ 。故选 C.
+
+3.【解析】由圆锥曲线的统一极坐标方程 $\rho=\frac{ep}{1-e\cos\theta}$ ，可以将上述四个极坐标方程化为标准形式，得 A： $\rho\cos\theta+\rho\sin\theta=1, B:\rho=\frac{\frac{1}{2}\times1}{1-\frac{1}{2}\cos\left(\theta+\frac{\pi}{2}\right)}, C:\rho=\frac{\frac{1}{2}\times1}{1-\frac{1}{2}\cos\theta}, D:\rho=\frac{2\times\frac{1}{2}}{1-2\cos(\theta+\pi)}$ ，其中选项 A 表示直线，
+选项 B 表示将椭圆 $\rho=\frac{\frac{1}{2}\times1}{1-\frac{1}{2}\cos\theta}$ 绕极点逆时针旋转 $\frac{\pi}{2}$ 后所得的椭圆，选项 C 表示椭圆，选项 D 表示将双曲线 $\rho=\frac{2\times\frac{1}{2}}{1-2\cos\theta}$ 绕极点逆时针旋转 $\pi$ 后所得的双曲线。故选 BC。
+
+4.【解析】设 $\angle AF_{2}x = \alpha$ ，则根据椭圆的焦半径公式可得 $|AF_{2}| = \frac{b^{2}}{a + c\cos\alpha}$ ， $|CF_{2}| = \frac{b^{2}}{a - c\cos\alpha}$ 。因为 $\overrightarrow{AF_2} = m_2\overrightarrow{F_2C}$ ，所以 $m_{2} = \frac{|AF_{2}|}{|F_{2}C|} = \frac{a - c\cos\alpha}{a + c\cos\alpha}$ ，解得 $c\cos\alpha = \frac{a(1 - m_{2})}{1 + m_{2}}$ 。同理设 $\angle AF_{1}x = \beta$ ，则由 $m_{1} = \frac{|AF_{1}|}{|F_{1}B|} = \frac{a + c\cos\beta}{a - c\cos\beta}$ ，可解得 $c\cos\beta = \frac{a(m_1 - 1)}{m_1 + 1}$ 。又 $|AF_{1}| + |AF_{2}| = 2a$ ，所以 $\frac{b^{2}}{a - c\cos\beta} + \frac{b^{2}}{a + c\cos\alpha} = 2a$ ，即 $\frac{b^{2}}{a - \frac{a(m_1 - 1)}{m_1 + 1}} + \frac{b^{2}}{a + \frac{a(1 - m_2)}{1 + m_2}} = 2a$ ，整理得 $m_{1} + m_{2} = \frac{4a^{2}}{b^{2}} - 2$ 。
+
+5.【证明】如题图所示, 设线段 $PQ$ 的中点为 $M$ , $\angle PF_{1}x = \alpha$ , 则根据椭圆的焦半径公式可得 $|PF_{1}| = \frac{b^{2}}{a - c\cos\alpha}$ , $|QF_{1}| = \frac{b^{2}}{a + c\cos\alpha}$ .
+
+因为 $|MF_{1}| = |MQ| - |QF_{1}| = \frac{1}{2} (|PF_{1}| + |QF_{1}|) - |QF_{1}| = \frac{1}{2} (|PF_{1}| - |QF_{1}|) = \frac{1}{2} \left( \frac{b^{2}}{a - c\cos\alpha} - \frac{b^{2}}{a + c\cos\alpha} \right) = \frac{b^{2}c\cos\alpha}{a^{2} - c^{2}\cos^{2}\alpha}$ , 所以 $|DF_{1}| = \frac{|MF_{1}|}{\cos\alpha} = \frac{b^{2}c}{a^{2} - c^{2}\cos^{2}\alpha}$ .
+
+又根据焦点弦长公式得 $|PQ| = \frac{2ab^{2}}{a^{2} - c^{2}\cos^{2}\alpha}$ , 所以 $\frac{|DF_{1}|}{|PQ|} = \frac{b^{2}c}{2ab^{2}} = \frac{c}{2a}$ , 其值是一个常数.
+
+6.【解析】(1)根据题意可得 $F(1,0)$ ，设直线 l 的倾斜角为 $\alpha(0^{\circ}<\alpha<90^{\circ})$ ，则根据抛物线的焦点弦长公式，有 $\left|AB\right|=\frac{2p}{\sin^{2}\alpha}=\frac{4}{\sin^{2}\alpha}=8$ ，所以 $\sin\alpha=\frac{\sqrt{2}}{2}\Rightarrow\alpha=45^{\circ}$ ，则直线 l 的斜率为 1，由此可得直线 l 的方程为 y=x-1。
+
+(2)联立方程组 $\left\{ \begin{array}{l} y^{2} = 4x \\ y = x - 1 \end{array} \right.$ , 得 $x^{2} - 6x + 1 = 0$ , 设 $A(x_{1},y_{1}), B(x_{2},y_{2}), AB$ 的中点为 $M$ , 则 $x_{1} + x_{2} = 6, y_{1} +$ $y_{2}=x_{1}-1+x_{2}-1=4$ ，所以 $M\left(\frac{x_{1}+x_{2}}{2},\frac{y_{1}+y_{2}}{2}\right)=(3,2)$ ，直线 AB 的垂直平分线方程为 $y-2=-(x-3)$ ，即 $y=-x+5$ 。
+
+如图所示, 设过点 $A, B$ 的圆的圆心为 $(a, 5 - a)$ , 因为该圆与 $C$ 的准线 $x = -1$ 相切, 所以半径 $r = a + 1$ , 圆心 $(a, 5 - a)$ 到直线 $AB: y = x - 1$ 的距离 $d = \frac{|2a - 6|}{\sqrt{2}}$ , $|AB| = 8$ , 所以 $\left(\frac{|2a - 6|}{\sqrt{2}}\right)^2 + 4^2 = (a + 1)^2$ , 解得 $a = 3$ 或 $a = 11$ . 则圆心的坐标为 $(3, 2)$ , 半径为 4, 或圆心的坐标为 $(11, -6)$ , 半径为 12, 故圆的方程为 $(x - 3)^2 + (y - 2)^2 = 16$ 或 $(x - 11)^2 + (y + 6)^2 = 144$ .
+
+![](images/combined/part-002/5cadfa07a629bceb930951d41d9a6ef5b77470223354b8b6bfc3dabc430bc160.jpg)
+
+7.【解析】(1)由椭圆的离心率为 $\frac{\sqrt{3}}{2}$ , 可得 $\frac{c}{a} = \frac{\sqrt{a^2 - b^2}}{a} = \frac{\sqrt{3}}{2} \Rightarrow a^2 = 4b^2$ ①. 由椭圆的通径长为 1, 可得 $\frac{2b^2}{a} = 1$ ②, ①②联立, 可得 $a^2 = 4, b^2 = 1$ , 所以椭圆的方程为 $\frac{x^2}{4} + y^2 = 1$ . (2) 因为 $PM$ 平分 $\angle F_1PF_2$ , 所以 $\frac{|PF_1|}{|PF_2|} = \frac{|F_1M|}{|F_2M|}$ . 设点 $P$ 的坐标为 $(x_0, y_0)$ , 根据椭圆的焦半径公式的代数形式, 可得 $|PF_1| = a + ex_0, |PF_2| = a - ex_0$ , 所以 $\frac{a + ex_0}{a - ex_0} = \frac{m + c}{c - m}$ , 解得 $m = \frac{ec}{a} x_0 = \frac{c^2}{a^2} x_0 = \frac{3}{4} x_0$ . 又 $x_0 \in (-2, 2)$ , 所以 $m$ 的取值范围是 $\left(-\frac{3}{2}, \frac{3}{2}\right)$ .
+
+8.【解析】(1)设椭圆方程为 $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1(a>b>0)$ ，则联立方程组 $\left\{\begin{aligned}\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}&=1\\ y&=x-\sqrt{3}\end{aligned}\right.$ ，得 $(a^{2}+b^{2})x^{2}-2\sqrt{3}a^{2}x+3a^{2}-a^{2}b^{2}=0$ 。
+因为椭圆 $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1$ 与直线 $y=x-\sqrt{3}$ 相切，所以 $\Delta=(2\sqrt{3}a^{2})^{2}-4(a^{2}+b^{2})(3a^{2}-a^{2}b^{2})=0\Rightarrow a^{2}+b^{2}=3$ ，又 $a^{2}-b^{2}=1$ ，则解方程组 $\left\{\begin{aligned}a^{2}+b^{2}&=3\\ a^{2}-b^{2}&=1\end{aligned}\right.$ ，得 $\left\{\begin{aligned}a^{2}&=2\\ b^{2}&=1\end{aligned}\right.$ ，即椭圆的方程为 $\frac{x^{2}}{2}+y^{2}=1$ 。
+(2)由椭圆的焦点弦长公式得椭圆的焦点弦长 $l=\frac{2ab^{2}}{a^{2}-c^{2}\cos^{2}\theta}=\frac{2\sqrt{2}}{2-\cos^{2}\theta}$ 设直线 $l_{1},l_{2}$ 与x轴正半轴所成的角分别为 $\theta,\theta+\frac{\pi}{2}$ ，其中 $\theta\in\left[0,\frac{\pi}{2}\right)$ ，则 $|PQ|=\frac{2\sqrt{2}}{2-\cos^{2}\theta}$ ， $|MN|=$ $\frac{2\sqrt{2}}{2-\cos^{2}\left(\theta+\frac{\pi}{2}\right)}=\frac{2\sqrt{2}}{2-\sin^{2}\theta}$ ，所以四边形PNQM的面积 $S=\frac{1}{2}|PQ||MN|=\frac{1}{2}\cdot\frac{2\sqrt{2}}{2-\cos^{2}\theta}\cdot\frac{2\sqrt{2}}{2-\sin^{2}\theta}=$ $\frac{1}{2}\cdot\frac{2\sqrt{2}}{1+\sin^{2}\theta}\cdot\frac{2\sqrt{2}}{1+\cos^{2}\theta}=\frac{4}{(1+\sin^{2}\theta)(1+\cos^{2}\theta)}=\frac{4}{2+\frac{1}{4}\sin^{2}2\theta}.$ 因为 $\theta\in\left[0,\frac{\pi}{2}\right)$ ，所以 $\sin^{2}2\theta\in[0,1]$ ，于是四边形PNQM的面积的最大值为2，最小值为 $\frac{16}{9}$ .
+
+9.【解析】(1)由题中条件可得 A(a,0)，所以 $\triangle EFA$ 的面积为 $\frac{1}{2}|FA||OE|=\frac{1}{2}(|OF|+|OA|)|OE|=$ $\frac{1}{2}(c+a)c=\frac{b^{2}}{2}$ ，将 $b^{2}=a^{2}-c^{2}$ 代入得 $2c^{2}+ac-a^{2}=0$ ，解得 $e=\frac{1}{2}$ ，所以椭圆的离心率为 $\frac{c}{a}=\frac{1}{2}$ .
+
+(2) (i) 不妨设直线 $FP$ 的倾斜角为 $\theta$ ( $0^\circ < \theta < 90^\circ$ ), 则根据 $F(-c,0)$ , $|FQ| = \frac{3}{2} c$ 可得 $Q\left(\frac{3}{2} c \cos \theta - c, \frac{3}{2} c \sin \theta\right)$ , 再根据 $E, Q, A$ 三点共线可得 $k_{QA} = k_{EA}$ , 即 $\frac{\frac{3}{2} c \sin \theta - 0}{\frac{3}{2} c \cos \theta - c - a} = \frac{c - 0}{0 - a}$ , 将 $a = 2c$ 代入得 $\sin \theta + \frac{1}{2} \cos \theta = 1$ , 结合 $\sin^2 \theta + \cos^2 \theta = 1$ , 可得 $\sin \theta = \frac{3}{5}, \cos \theta = \frac{4}{5}$ , 所以 $\tan \theta = \frac{3}{4}$ , 故直线 $FP$ 的斜率为 $\frac{3}{4}$ .
+
+$$
+\left\{ \begin{array}{l} \sin \theta = \frac {3}{5} \\ \cos \theta = \frac {4}{5} \end{array} \right.
+$$
+
+$$
+Q \left(\frac {3}{2} c \cos \theta - c, \frac {3}{2} c \sin \theta\right) = \left(\frac {1}{5} c, \frac {9}{1 0} c\right)
+$$
+
+根据椭圆的焦半径公式, 可得 $\left|PF\right|=\frac{b^{2}}{a-c\cos\theta}=\frac{3c^{2}}{2c-\frac{4}{5}c}=\frac{5}{2}c$ , 所以 $P\left(\frac{5}{2}c\cos\theta-c,\frac{5}{2}c\sin\theta\right)=\left(c,\frac{3}{2}c\right)$ ，由两点间距离公式得 $\left|PQ\right|=\sqrt{\left(c-\frac{1}{5}c\right)^{2}+\left(\frac{3}{2}c-\frac{9}{10}c\right)^{2}}=c.$
+
+又 $PM \parallel QN$ , 且直线 $PM$ 与直线 $QN$ 间的距离为 $c$ , 所以 $PM \perp FP, QN \perp FP$ , 则四边形 $PQNM$ 的面积 $S = S_{\triangle MPF} - S_{\triangle NQF} = \frac{1}{2} |FP||PM| - \frac{1}{2} |FQ||QN| = \frac{1}{2} |FP||FP|\tan \theta - \frac{1}{2} |FQ||FQ|\tan \theta = \frac{1}{2} \times \frac{3}{4} \cdot \left[\left(\frac{5}{2} c\right)^2 - \left(\frac{3}{2} c\right)^2\right] = \frac{3}{2} c^2 = 3c$ , 得 $c = 2$ , 故椭圆的方程为 $\frac{x^2}{16} + \frac{y^2}{12} = 1$ .
+
+$$
+\triangle P Q F _ {1}
+$$
+
+$$
+4 a = 2 \sqrt {3} \cdot 2 b
+$$
+
+设 $b = \lambda$ ，则 $a = \sqrt{3}\lambda$ ，易得椭圆的方程为 $\frac{x^2}{3} + y^2 = \lambda^2 (\lambda >0)$ ，所以椭圆 $C$ 的离心率为 $\frac{c}{a} = \frac{\sqrt{(\sqrt{3}\lambda)^2 - \lambda^2}}{\sqrt{3}\lambda} = \frac{\sqrt{6}}{3}.$
+
+(2) 假设存在点 $M$ , 使得 $\overrightarrow{OM} = 2\overrightarrow{OP} + \overrightarrow{OQ}$ , 设 $P(x_1, y_1), Q(x_2, y_2), M(x_0, y_0)$ , 且假设点 $P$ 在 $x$ 轴的上方. 根据 $\overrightarrow{OM} = 2\overrightarrow{OP} + \overrightarrow{OQ}$ 可得 $\left\{ \begin{array}{l} x_0 = 2x_1 + x_2 \\ y_0 = 2y_1 + y_2 \end{array} \right.$ . 依题意可知直线 $l$ 的倾斜角为 $\theta = 45^\circ$ , 又因为 $a = \sqrt{3}\lambda, b = \lambda$ , $c = \sqrt{2}\lambda$ , 所以根据椭圆的焦半径公式可得 $|PF_2| = \frac{b^2}{a + c\cos\theta} = \frac{\sqrt{3} - 1}{2}\lambda$ . 因为 $|PF_2| = a - ex_1 = \sqrt{3}\lambda - \frac{\sqrt{6}}{3}x_1$ , 所以 $\frac{\sqrt{3} - 1}{2}\lambda = \sqrt{3}\lambda - \frac{\sqrt{6}}{3}x_1$ , 解得 $x_1 = \frac{3 + \sqrt{3}}{2\sqrt{2}}\lambda$ . 又直线 $PQ$ 的方程为 $y = x - \sqrt{2}\lambda$ , 所以 $y_1 = \frac{\sqrt{3} - 1}{2\sqrt{2}}\lambda$ .
+
+同理可得 $x_{2} = \frac{3 - \sqrt{3}}{2\sqrt{2}}\lambda ,y_{2} = -\frac{\sqrt{3} + 1}{2\sqrt{2}}\lambda$ ，所以 $x_0 = \frac{9 + \sqrt{3}}{2\sqrt{2}}\lambda ,y_0 = \frac{\sqrt{3} - 3}{2\sqrt{2}}\lambda ,\frac{x_0^2}{3} +y_0^2 = \frac{1}{3}\left(\frac{9 + \sqrt{3}}{2\sqrt{2}}\lambda\right)^2 +$ $\left(\frac{\sqrt{3} - 3}{2\sqrt{2}}\lambda\right)^2 = 5\lambda^2\neq \lambda^2.$
+
+这说明点 $M$ 不在椭圆 $\frac{x^2}{3} + y^2 = \lambda^2$ 上，所以不存在满足题目要求的点 $M$ .
+
+## 训练 18
+
+1.【解析】由题意可得 $a^{2}=9, b^{2}=4$ ，则 $\left|MF_{1}\right|+\left|MF_{2}\right|=2a=6$ ，所以 $\left|MF_{1}\right|\left|MF_{2}\right|\leqslant\left(\frac{\left|MF_{1}\right|+\left|MF_{2}\right|}{2}\right)^{2}=$ 9(当且仅当 $\left|MF_{1}\right|=\left|MF_{2}\right|=3$ 时，等号成立).
+故选 C.
+
+2.【解析】由题意可知,线段 $MF_{2}$ 的中点 A 恰好在 y 轴上,如图所示.
+
+O 是 $F_{1}F_{2}$ 的中点，则 OA 是 $\triangle MF_{1}F_{2}$ 的中位线，故 $MN \parallel OA$ ，即直线 $MN \perp x$ 轴，故点 M 横坐标为 -c，代入 $C: \frac{x^{2}}{a^{2}} - \frac{y^{2}}{b^{2}} = 1$ ，解得 $|MF_{1}| = \frac{b^{2}}{a}$ .
+
+因为 $\cos \angle MF_2F_1 = \frac{1}{3}$ , 所以 $\sin \angle MF_2F_1 = \frac{2\sqrt{2}}{3}, \tan \angle MF_2F_1 = 2\sqrt{2}$ , 则在 $\triangle MF_1F_2$
+
+![](images/combined/part-002/0a361a46d40013d3aad3492c9d031448832200bc3667fd14dd9e0fac7588608a.jpg)
+
+中， $\tan \angle MF_2F_1 = \frac{|MF_1|}{|F_1F_2|} = \frac{\frac{b^2}{a}}{2c} = \frac{b^2}{2ac} = 2\sqrt{2}, b^2 = 4\sqrt{2}ac$ ，即 $c^2 - a^2 = 4\sqrt{2}ac$ ，两边同除以 $a^2$ 得 $e^2 - 4\sqrt{2}e - 1 = 0$ ，而 $e > 1$ ，解得 $e = 2\sqrt{2} + 3$ 。故选B.
+
+3.【解析】如图所示,设 $\left|A{F}_{1}\right| = {2m}\left( {m > 0}\right)$ ,因为 $\overrightarrow{A{F}_{1}} = 2\overrightarrow{{F}_{1}B}$ ,所以 $\left| B{F}_{1}\right|  = m$ .
+
+又 $\overrightarrow{AF_2} \cdot \overrightarrow{AF_1} = 0, |F_1F_2| = 2c$ ，所以 $|AF_2| = \sqrt{|F_1F_2|^2 - |AF_1|^2} = 2\sqrt{c^2 - m^2}$ ， $|BF_2| = \sqrt{|AB|^2 + |AF_2|^2} = \sqrt{4c^2 + 5m^2}$ ，且 $|AF_1| + |AF_2| = |BF_1| + |BF_2| = 2a$ ，
+
+所以 $2m + 2\sqrt{c^2 - m^2} = m + \sqrt{4c^2 + 5m^2}, m + 2\sqrt{c^2 - m^2} = \sqrt{4c^2 + 5m^2},$ $m^2 + 4c^2 - 4m^2 + 4m\sqrt{c^2 - m^2} = 4c^2 + 5m^2, c^2 = 5m^2,$ 即 $c = \sqrt{5} m.$
+
+又 $2a = 2m + 2\sqrt{c^2 - m^2} = 6m$ ，所以 $a = 3m, e = \frac{c}{a} = \frac{\sqrt{5}m}{3m} = \frac{\sqrt{5}}{3}$ 故答案为 $\frac{\sqrt{5}}{3}$ .
+
+![](images/combined/part-002/fbd7849359a7d220a5e5d574e3ef08d35917baf271894e91706b9120118deff1.jpg)
+
+4.【解析】如图所示，由 $(\overrightarrow{BA}+\overrightarrow{BF_{2}})\cdot\overrightarrow{AF_{2}}=(\overrightarrow{BA}+\overrightarrow{BF_{2}})\cdot(\overrightarrow{BF_{2}}-\overrightarrow{BA})=|\overrightarrow{BF_{2}}|^{2}-|\overrightarrow{BA}|^{2}=0$ 得 $|BF_{2}|=|BA|$ .
+
+又由题意可得， $A$ 为双曲线左支上的点， $B$ 为双曲线右支上的点，根据双曲线的定义可得 $\vert BF_1\vert -\vert BF_2\vert = 2a,\vert AF_2\vert -\vert AF_1\vert = 2a,$
+
+所以 $|AF_1| = |BF_1| - |BA| = |BF_1| - |BF_2| = 2a$ ，因此 $|AF_2| = 2a + |AF_1| = 4a$ .
+
+因为直线 $AB$ 的斜率为 $\sqrt{3}$ , 所以 $\angle AF_{1}F_{2}=60^{\circ}$ , 又 $|F_{1}F_{2}|=2c$ , 所以 $\cos 60^{\circ}=$ $\frac{|AF_1|^2 + |F_1F_2|^2 - |AF_2|^2}{2|AF_1||F_1F_2|} = \frac{4a^2 + 4c^2 - 16a^2}{4a \cdot 2c} = \frac{c^2 - 3a^2}{2ac} = \frac{1}{2}$ , 即 $c^2 - ac - 3a^2 = 0$ , 所以 $e^2 - e - 3 = 0$ , 解得 $e = \frac{1 + \sqrt{13}}{2}$ 或 $e = \frac{1 - \sqrt{13}}{2}$ (舍去, 双曲线的离心率大于 1). 故答案为 $\frac{1 + \sqrt{13}}{2}$ .
+
+![](images/combined/part-002/3db780a45795aba1b18c0cac27519d80f59fe5be37f54a409047f1b9f5656edb.jpg)
+
+5.【解析】由题意可设 $B(0,b), F(c,0)$ , 线段 $AB$ 中点为 $K$ , 且 $CF=2FK$ , 可得 $F$ 为 $\triangle ABC$ 的重心, 设 $A(x_1,y_1), C(x_2,y_2)$ , 由重心坐标公式可得, $x_1+x_2+0=3c, y_1+y_2+b=0$ , 即有 $AC$ 的中点 $M(x,y)$ , 可得 $x=\frac{x_1+x_2}{2}=\frac{3c}{2}, y=\frac{y_1+y_2}{2}=-\frac{b}{2}$ . 由题意可得点 $M$ 在椭圆内, 可得 $\frac{9c^2}{4a^2}+\frac{1}{4}<1$ , 由 $e=\frac{c}{a}$ , 可得 $e^2<\frac{1}{3}$ , 即有 $0<e<\frac{\sqrt{3}}{3}$ . 故答案为 $(0,\frac{\sqrt{3}}{3})$ .
+
+6.【解析】(1)由点 $P$ 在抛物线 $E$ 上知, $x_0 = \frac{2}{3}$ , 则 $P$ 到抛物线准线的距离为 $\frac{5}{3}$ , 所以 $|PF| = \frac{5}{3}$ ,
+
+设椭圆左焦点为 $F_{1}$ , 则 $PF_{1} = \sqrt{\left(\frac{5}{3}\right)^{2} + \left(\frac{2\sqrt{6}}{3}\right)^{2}} = \frac{7}{3}$ , 所以 $2a = \frac{5}{3} + \frac{7}{3} = 4, a = 2$ , 又 $c = 1$ , 所以 $b = \sqrt{3}$ , 故椭圆 $C$ 的方程为 $\frac{x^2}{4} + \frac{y^2}{3} = 1$ .
+
+(2)设直线 l 的方程为 $x=my+1$ ，当 m=0 时，易知与题意不符，所以 $m\neq0$ ，把直线 l 与椭圆 C 的方程联立得 $(3m^{2}+4)y^{2}+6my-9=0$ ，设 $A(x_{1},y_{1}), B(x_{2},y_{2})$ ，则 $y_{1}+y_{2}=\frac{-6m}{3m^{2}+4}, y_{1}y_{2}=\frac{-9}{3m^{2}+4}$ ，由 $AB\perp MN$ 知 $\frac{|AB|}{|MN|}=\frac{|y_{1}-y_{2}|}{|x_{M}-0|}, |y_{1}-y_{2}|=\sqrt{(y_{1}+y_{2})^{2}-4y_{1}y_{2}}=\frac{12\sqrt{m^{2}+1}}{3m^{2}+4}$ .
+设 AB 中点坐标为 $(x_{0}, y_{0})$ ，则 $y_{0}=\frac{y_{1}+y_{2}}{2}=\frac{-3m}{3m^{2}+4}, x_{0}=my_{0}+1=\frac{4}{3m^{2}+4}$ ，故 AB 中垂线方程为 $y+\frac{3m}{3m^{2}+4}=-m\left(x-\frac{4}{3m^{2}+4}\right)$ ，令 y=0，得 $x_{M}=\frac{1}{3m^{2}+4}$ ，所以 $\frac{|AB|}{|MN|}=12\sqrt{m^{2}+1}\in(12,+\infty)$ .
+
+7.【解析】(1)由题意可知 R 是线段 PF 的中点, 因为 $RQ \perp PF$ , 所以 RQ 所在直线为线段 PF 的垂直平分线, 连接 QF, 所以 $|QP| = |QF|$ , 又 $PQ \perp l$ , 所以点 Q 到点 F 的距离和到直线 l 的距离相等, 设 $Q(x, y)$ , 则 $|x + 1| = \sqrt{(x - 1)^2 + y^2}$ , 化简得 $y^2 = 4x$ , 所以动点 Q 的轨迹 E 的方程为 $y^2 = 4x$ .
+
+(2)由题意可知直线 PF 的斜率存在且不为 0, 设直线 $PF: y = k(x - 1) (k \neq 0)$ , 则 $CD: y = -\frac{1}{k}(x - 1)$ , 联立方程, 得 $\begin{cases} y = k(x - 1) \\ y^2 = 4x \end{cases}$ , 消去 y, 得 $k^2 x^2 - (2k^2 + 4)x + k^2 = 0$ , 设 $A(x_1, y_1), B(x_2, y_2)$ , 则 $x_1 + x_2 = \frac{2k^2 + 4}{k^2}, x_1 \cdot x_2 = 1$ .
+
+因为向量 $\overrightarrow{FA}, \overrightarrow{FB}$ 方向相反, 所以 $\overrightarrow{FA} \cdot \overrightarrow{FB} = -|\overrightarrow{FA}| |\overrightarrow{FB}| = -(x_1 + 1)(x_2 + 1) = -(x_1 x_2 + x_1 + x_2 + 1) =$
+
+$$
+- \left(\frac {4}{k ^ {2}} + 4\right).
+$$
+
+同理, 设 $C(x_{3}, y_{3}), D(x_{4}, y_{4})$ , 可得 $\overrightarrow{FC} \cdot \overrightarrow{FD} = -|\overrightarrow{FC}| |\overrightarrow{FD}| = -4k^{2} - 4$ , 所以 $\overrightarrow{FA} \cdot \overrightarrow{FB} + \overrightarrow{FC} \cdot \overrightarrow{FD} = -4(k^{2} + \frac{1}{k^{2}}) - 8$ , 因为 $k^{2} + \frac{1}{k^{2}} \geqslant 2$ , 当且仅当 $k^{2} = 1$ , 即 $k = \pm 1$ 时取等号. 所以 $\overrightarrow{FA} \cdot \overrightarrow{FB} + \overrightarrow{FC} \cdot \overrightarrow{FD}$ 的最大值为 -16.
+
+3.【解析】(1)由题设条件可得,椭圆的方程为 $\frac{x^{2}}{4}+y^{2}=1$ ,直线AB的方程为 $x+2y-2=0$ .
+
+设 $D(x_{0},kx_{0}),E(x_{1},kx_{1}),F(x_{2},kx_{2})$ ,其中 $x_{1}<x_{2}$ ,由 $\left\{\begin{aligned}y&=kx\\ \frac{x^{2}}{4}+y^{2}&=1\end{aligned}\right.$ 得 $(1+4k^{2})x^{2}=4$ ,解得 $x_{2}=-x_{1}=\frac{2}{\sqrt{1+4k^{2}}}$ ①.
+
+由 $\overrightarrow{ED}=6\overrightarrow{DF}$ 得 $(x_{0}-x_{1},k(x_{0}-x_{1}))=6(x_{2}-x_{0},k(x_{2}-x_{0}))$ ,即 $x_{0}-x_{1}=6(x_{2}-x_{0})$ ,所以 $x_{0}=\frac{1}{7}(6x_{2}+x_{1})=\frac{5}{7}x_{2}=\frac{10}{7\sqrt{1+4k^{2}}}$ .由D在AB上得 $x_{0}+2kx_{0}-2=0$ ,所以 $x_{0}=\frac{2}{1+2k},\frac{2}{1+2k}=\frac{10}{7\sqrt{1+4k^{2}}}$ ,化简得 $24k^{2}-25k+6=0$ ,解得 $k=\frac{2}{3}$ 或 $k=\frac{3}{8}$ .
+
+(2)根据点到直线的距离公式和①式可知,点E,F到AB的距离分别为 $d_{1}=\frac{|x_{1}+2kx_{1}-2|}{\sqrt{5}}=\frac{2(1+2k)+2\sqrt{1+4k^{2}}}{\sqrt{5(1+4k^{2})}},d_{2}=\frac{|x_{2}+2kx_{2}-2|}{\sqrt{5}}=\frac{2(1+2k)-2\sqrt{1+4k^{2}}}{\sqrt{5(1+4k^{2})}}$ .
+
+又 $|AB|=\sqrt{2^{2}+1^{\prime}}=\sqrt{5}$ ,所以四边形AEBF的面积 $S=\frac{1}{2}|AB|(d_{1}+d_{2})=\frac{1}{2}\times\sqrt{5}\times\frac{4(1+2k)}{\sqrt{5(1+4k^{2})}}=\frac{2(1+2k)}{\sqrt{1+4k^{2}}}=2\sqrt{\frac{1+4k^{2}+4k}{1+4k^{2}}}=2\sqrt{1+\frac{4k}{1+4k^{2}}}=2\sqrt{\frac{1+\frac{4}{4k+\frac{1}{k}}}{\sqrt{4k}\cdot\frac{1}{k}}}\leqslant2\sqrt{\frac{1+\frac{4}{4k}\cdot\frac{1}{k}}{\sqrt{4k}\cdot\frac{1}{k}}}=2\sqrt{2}$ ,当且仅当 $4k=\frac{1}{k}(k>0)$ ,即 $k=\frac{1}{2}$ 或 $k=-\frac{1}{2}$ (舍去)时等号成立.
+
+所以当 $k=\frac{1}{2}$ 时,等号成立.故四边形AEBF面积的最大值为 $2\sqrt{2}$ .
+
+9.【解析】(1)由题意得 $\frac{p}{2}=1$ ，即p=2。所以抛物线的准线方程为x=-1。
+
+(2) 设 $A(x_{A}, y_{A}), B(x_{B}, y_{B}), C(x_{C}, y_{C})$ ，重心 $G(x_{G}, y_{G})$ 。令 $y_{A} = 2t, t \neq 0$ ，则 $x_{A} = t^{2}$ 。
+
+由于直线 $AB$ 过 $F$ , 故直线 $AB$ 方程为 $x = \frac{t^2 - 1}{2t} y + 1$ , 代入 $y^2 = 4x$ , 得 $y^2 - \frac{2(t^2 - 1)}{t} y - 4 = 0$ , 故 $y_A y_B = 2ty_B = -4$ , 即 $y_B = -\frac{2}{t}$ , 所以 $B\left(\frac{1}{t^2}, -\frac{2}{t}\right)$ .
+
+又由于 $x_{G} = \frac{1}{3} (x_{A} + x_{B} + x_{C}), y_{G} = \frac{1}{3} (y_{A} + y_{B} + y_{C})$ 及重心 $G$ 在 $x$ 轴上，故 $2t - \frac{2}{t} + y_{C} = 0$
+
+得 $C\left(\left(\frac{1}{t} - t\right)^2, 2\left(\frac{1}{t} - t\right)\right), G\left(\frac{2t^4 - 2t^2 + 2}{3t^2}, 0\right)$ .
+
+所以直线 AC 方程为 $y-2t=2t(x-t^{2})$ ，得 $Q(t^{2}-1,0)$ .
+
+由于 Q 在焦点 F 的右侧, 故 $t^{2} > 2$ .
+
+$$
+\frac {S _ {1}}{S _ {2}} = \frac {\frac {1}{2} | F G | | y _ {A} |}{\frac {1}{2} | Q G | | y _ {C} |} = \frac {\left| \frac {2 t ^ {4} - 2 t ^ {2} + 2}{3 t ^ {2}} - 1 \right| | 2 t |}{| t ^ {2} - 1 - \frac {2 t ^ {4} - 2 t ^ {2} + 2}{3 t ^ {2}} | | \frac {2}{t} - 2 t |} = \frac {2 t ^ {4} - t ^ {2}}{t ^ {4} - 1} = 2 - \frac {t ^ {2} - 2}{t ^ {4} - 1}.
+$$
+
+令 $m = t^2 - 2$ ，则 $m > 0$
+
+$$
+\frac {S _ {1}}{S _ {2}} = 2 - \frac {m}{m ^ {2} + 4 m + 3} = 2 - \frac {1}{m + \frac {3}{m} + 4} \geqslant 2 - \frac {1}{2 \sqrt {m \cdot \frac {3}{m}} + 4} = 1 + \frac {\sqrt {3}}{2}.
+$$
+
+当 $m = \sqrt{3}$ 时， $\frac{S_1}{S_2}$ 取得最小值 $1 + \frac{\sqrt{3}}{2}$ ，此时 $G(2,0)$ .
+
+## 训练 19
+
+1.【解析】(1)设 $P(x_{1},y_{1})$ , $Q(x_{2},y_{2})$ , OP: $y=k_{1}x$ , $OQ:y=k_{2}x$ ，则 $\left\{\begin{aligned}y&=k_{1}x\\ \frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1\end{aligned}\right.$ ，消 y 得 $b^{2}x^{2}+a^{2}k_{1}^{2}x^{2}=a^{2}b^{2}$ ，即 $(a^{2}k_{1}^{2}+b^{2})x^{2}=a^{2}b^{2}$ ，得 $x_{1}^{2}=\frac{a^{2}b^{2}}{a^{2}k_{1}^{2}+b^{2}}$ ，同理可得 $x_{2}^{2}=\frac{a^{2}b^{2}}{a^{2}k_{2}^{2}+b^{2}}$ 。因为 $|OP|^{2}+|OQ|^{2}=x_{1}^{2}+k_{1}^{2}x_{1}^{2}+x_{2}^{2}+k_{2}^{2}x_{2}^{2}=(1+k_{1}^{2})x_{1}^{2}+(1+k_{2}^{2})x_{2}^{2}$ ，所以 $|OP|^{2}+|OQ|^{2}=(1+k_{1}^{2})\cdot\frac{a^{2}b^{2}}{a^{2}k_{1}^{2}+b^{2}}+(1+k_{2}^{2})\cdot\frac{a^{2}b^{2}}{a^{2}k_{2}^{2}+b^{2}}=a^{2}b^{2}\left(\frac{1+k_{1}^{2}}{a^{2}k_{1}^{2}+b^{2}}+\frac{1+k_{2}^{2}}{a^{2}k_{2}^{2}+b^{2}}\right)$ 。又 $k_{1}k_{2}=-\frac{b^{2}}{a^{2}}$ ，所以 $k_{1}^{2}k_{2}^{2}=\frac{b^{4}}{a^{4}}$ ，则 $k_{2}^{2}=\frac{b^{4}}{a^{4}k_{1}^{2}}$ ， $|OP|^{2}+|OQ|^{2}=a^{2}b^{2}\left(\frac{1+k_{1}^{2}}{a^{2}k_{1}^{2}+b^{2}}+\frac{1+\frac{b^{4}}{a^{4}k_{1}^{2}}}{\frac{b^{4}}{a^{2}k_{1}^{2}}+b^{2}}\right)=$ $a^{2}b^{2}\left(\frac{1+k_{1}^{2}}{a^{2}k_{1}^{2}+b^{2}}+\frac{a^{4}k_{1}^{2}+b^{4}}{a^{2}b^{4}+a^{4}b^{2}k_{1}^{2}}\right)=a^{2}b^{2}\cdot\frac{a^{2}b^{2}(1+k_{1}^{2})+a^{4}k_{1}^{2}+b^{4}}{a^{2}b^{2}(b^{2}+a^{2}k_{1}^{2})}=a^{2}b^{2}+a^{2}b^{2}k_{1}^{2}+a^{4}k_{1}^{2}+b^{4}=$ $\frac{b^{2}(a^{2}+b^{2})+a^{2}k_{1}^{2}(a^{2}+b^{2})}{b^{2}+a^{2}k_{1}^{2}}=a^{2}+b^{2}.$ (2)圆心 $M(x_{0},y_{0})$ 到直线 y=k\_{1}x 的距离为 r，则 $r=\frac{|k_{1}x_{0}-y_{0}|}{\sqrt{1+k_{1}^{2}}}=\frac{|k_{2}x_{0}-y_{0}|}{\sqrt{1+k_{2}^{2}}}$ ，得 $(k_{1}x_{0}-y_{0})^{2}=r^{2}(1+k_{1}^{2})$ ，即 $(x_{0}^{2}-r^{2})k_{1}^{2}-2x_{0}y_{0}k_{1}+y_{0}^{2}-r^{2}=0$ ，同理 $(x_{0}^{\prime}-r^{\prime})k_{1}^{\prime}-3x_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_{0}s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_0s_n$ 因此 $k_{1}, k_{2}$ 是方程 $(x_{0}^{\prime}-r^{\prime})k^{\prime}-3x_{0}s_{0}\cdot k+y_{0}^{\prime}-r^{\prime}=0$ 的两根，故 $k_{1}s_{k_{1}}=\frac{y_{0}^{\prime}-r^{\prime}}{x_{0}^{\prime}-r^{\prime}}=-\frac{b^{\prime}}{a^{\prime}}$ ，即 $b^{\prime }x _ { 0 } ^ { ② } + a ^ { ② } y _ { 0 } ^ { ② } =$ $(a ^ { ② } + b ^ { ② } )r ^ { ② } = a ^ { ② } b ^ { ② }$ ，则 $r ^ { ② } = \frac { a ^ { ② } b ^ { ② } } { a ^ { ② } + b ^ { ② } } .$ 【解析】(1)因为 $\frac { c } { a } = \frac { \sqrt { 6 } } { 3 }$ ，所以 $\frac { c ^ { ② } } { a ^ { ② } } = \frac { ② } { 3 } , \frac { b ^ { ② } } { a ^ { ② } } = \frac { ① } { 3 }$ ，又椭圆过点 $(\sqrt { 2 },\frac {\sqrt { 3 }}{ 3 })$ ，所以 $\frac { ② } { 3 b ^ { ② } } + \frac { ① } { 3 b ^ { ② } } = 1$ ，故 $b ^ { ② } = 1$ 。
+
+所以 $a^{2}=3$ ，即椭圆 C 的方程为 $\frac{x^{2}}{3}+y^{2}=1$ .
+
+(2) $A, B$ 在 $x$ 轴同侧， $\overrightarrow{AF_2} = \lambda \overrightarrow{BF_1}$ ，所以 $AF_2 \parallel BF_1$ .
+
+如图所示, 延长 $AF_{2}$ 交 $C$ 于点 $P$ , 由椭圆的对称性可得 $PF_{2} \parallel BF_{1}$ .
+
+![](images/combined/part-002/05f267b19ec163649895145e83b4c6bbac86c9e3a213af00c376b0b9ce9227aa.jpg)
+
+故四边形 $ABF_{1}F_{2}$ 的面积 $S = \frac{1}{2} (|BF_{1}| + |AF_{2}|) d = \frac{1}{2} |AP| d, d$ 为 $F_{1}$ 到 $AF_{2}$ 的距离.
+
+令直线 $AF_{2}$ 的方程为 $x = ty + \sqrt{2}$ ，联立 $\left\{ \begin{array}{l} x = ty + \sqrt{2} \\ \frac{x^2}{3} + y^2 = 1 \end{array} \right. \Rightarrow (3 + t^2)y^2 + 2\sqrt{2}ty - 1 = 0.$
+
+又 $\Delta > 0, A(x_1, y_1), P(x_2, y_2), y_1 + y_2 = \frac{-2\sqrt{2}t}{3 + t^2}, y_1y_2 = \frac{-1}{3 + t^2}, |AP| = |AF_2| + |BF_1| =$ $\sqrt{1 + t^2}|y_1 - y_2| = \sqrt{1 + t^2}\frac{\sqrt{8t^2 + 4(3 + t^2)}}{3 + t^2} = \frac{2\sqrt{3}(1 + t^2)}{3 + t^2}.$
+
+又 $d = \frac{2\sqrt{2}}{\sqrt{1 + t^2}}$ ，所以 $S_{\triangle F_1AP} = \frac{1}{2}|AP|d = \frac{2\sqrt{6}\sqrt{1 + t^2}}{3 + t^2} = \frac{2\sqrt{6}\sqrt{1 + t^2}}{(t^2 + 1) + 2}$ ，令 $u = \sqrt{1 + t^2}\geqslant 1.$
+
+则 $S_{\triangle F_1\triangle P} = \frac{2\sqrt{6}}{u + \frac{2}{u}}$ ，当且仅当 $u = \sqrt{2}$ 时，即 $|t| = 1$ 时， $S_{\max} = \frac{2\sqrt{6}}{2\sqrt{2}} = \sqrt{3}$ .
+
+将 $t = \pm 1$ 代入韦达定理解出 $y_{1}, y_{2}, \lambda = \frac{|\overrightarrow{AF_{2}}|}{|\overrightarrow{BF_{1}}|} = \frac{|\overrightarrow{AF_{2}}|}{|\overrightarrow{PF_{2}}|} = \frac{|y_{1}|}{|y_{2}|}$ , 所以 $\lambda = \frac{\frac{\sqrt{6} + \sqrt{2}}{4}}{\frac{\sqrt{6} - \sqrt{2}}{4}} = 2 + \sqrt{3}$ 或 $\lambda = \frac{\frac{\sqrt{6} - \sqrt{2}}{4}}{\frac{\sqrt{6} + \sqrt{2}}{4}} = 2 - \sqrt{3}$ .
+
+综上, 四边形 $ABF_{1}F_{2}$ 面积的最大值为 $\sqrt{3}$ , 此时 $\lambda = 2 \pm \sqrt{3}$ .
+
+另 $S_{\triangle F_1AP} = \frac{1}{2}|F_1F_2||y_1 - y_2| = \sqrt{2}\cdot \frac{2\sqrt{3}\sqrt{1 + t^2}}{3 + t^2}\leqslant \sqrt{3}.$ 以下解法同上.
+
+3.【解析】设直线 AB, CD 相交于点 $M(x_{0}, y_{0})$ ，直线 AB 的倾斜角为 $\alpha\left(0 < \alpha < \frac{\pi}{2}\right)$ ，则直线 CD 的倾斜角为 $\pi - \alpha$ ，则直线 AB, CD 的参数方程分别为： $\left\{\begin{aligned} x &= x_{0} + t\cos\alpha \\ y &= y_{0} + t\sin\alpha \end{aligned}\right.$ （其中 t 为参数）， $\left\{\begin{aligned} x &= x_{0} + t\cos(\pi - \alpha) \\ y &= y_{0} + t\sin(\pi - \alpha) \end{aligned}\right.$ （其中 t 为参数）.
+
+将直线 $AB$ 的参数方程代入椭圆，可得 $b^{2}(x_{0} + t\cos \alpha)^{2} + a^{2}(y_{0} + t\sin \alpha)^{2} - a^{2}b^{2} = 0$ ，即 $(b^{2}\cos^{2}\alpha + a^{2}\sin^{2}\alpha)t^{2} + 2(b^{2}x_{0}\cos \alpha + a^{2}y_{0}\sin \alpha)t + b^{2}x_{0}^{2} + a^{2}y_{0}^{2} - a^{2}b^{2} = 0$ ，所以 $|MA||MB| = |t_1t_2| = \frac{a^2b^2 - b^2x_0^2 - a^2y_0^2}{b^2\cos^2\alpha + a^2\sin^2\alpha}.$
+
+同理可得 $|MC||MD| = |t_3t_4| = \frac{a^2b^2 - b^2x_0^2 - a^2y_0^2}{b^2\cos^2\alpha + a^2\sin^2\alpha}$ ，所以 $|MC||MD| = |MA||MB|$ .
+
+由相交弦定理可得 A, B, C, D 四点共圆.
+
+4.【解析】如图所示,不妨设 F 为椭圆的左焦点,以 F 为极点,x 轴为极轴建立极坐标系.
+
+则椭圆的极坐标方程为 $\rho = \frac{ep}{1 - e\cos\alpha} (\rho > 0)$ , 其中 $e = \frac{c}{a}, p = \frac{b^2}{c}, c = \sqrt{a^2 - b^2}$ .
+
+![](images/combined/part-002/1035edc0d8e1b5c5ff7f5df38246cdc706cfe209183a8898f90c95a844e80b8d.jpg)
+
+设 $A(\rho_1, \alpha), B(\rho_2, \pi + \alpha), C(\rho_3, \frac{\pi}{2} + \alpha), D(\rho_4, \frac{3\pi}{2} + \alpha), \alpha \in [0, \frac{\pi}{2}]$ , 则 $\frac{1}{|FA|} + \frac{1}{|FB|} =$
+
+$\frac{1}{|\rho_1|} + \frac{1}{|\rho_2|} = \frac{1 - e\cos\alpha}{ep} + \frac{1 + e\cos\alpha}{ep} = \frac{2}{ep} = \frac{2a}{b^2}$ , 为定值; $\frac{1}{|AB|} + \frac{1}{|CD|} = \frac{1}{\rho_1 + \rho_2} + \frac{1}{\rho_3 + \rho_4} = \frac{1 - e^2\cos^2\alpha}{2ep} + \frac{1 - e^2\sin^2\alpha}{2ep} = \frac{2 - e^2}{2ep} = \frac{a^2 + b^2}{2ab^2}$ , 为定值.
+
+(2) $|AB| + |CD| = \rho_1 + \rho_2 + \rho_3 + \rho_4$ $= \frac{ep}{1 - e\cos\alpha} + \frac{ep}{1 + e\cos\alpha} + \frac{ep}{1 + e\sin\alpha} + \frac{ep}{1 - e\sin\alpha}$ $= 2ep\left(\frac{1}{1 - e^2\cos^2\alpha} + \frac{1}{1 - e^2\sin^2\alpha}\right) = \frac{2ep(2 - e^2)}{1 - e^2 + e^4\sin^2\alpha\cos^2\alpha}$ $\geqslant \frac{2ep(2 - e^2)}{1 - e^2 + \frac{1}{4}e^4} = \frac{8ab^2}{a^2 + b^2}.$ 当且仅当 $\theta = \frac{\pi}{4}$ 时取到最小值 $\frac{8ab^2}{a^2 + b^2}.$
+
+$|AB||CD| = \frac{|AB| + |CD|}{\frac{1}{|AB|} + \frac{1}{|CD|}} \geqslant \frac{\frac{8ab^2}{a^2 + b^2}}{\frac{a^2 + b^2}{2ab^2}} = \frac{16a^2b^4}{(a^2 + b^2)^2}$ , 当且仅当 $\theta = \frac{\pi}{4}$ 时取到最小值 $\frac{16a^2b^4}{(a^2 + b^2)^2}$ .
+
+5.【解析】(1)设 $C(x_{1},y_{1})$ , $D(x_{2},y_{2})$ ，联立直线 l 与椭圆方程 $\left\{\begin{aligned}x^{2}+\frac{y^{2}}{4}&=1\\ kx-y+1&=0\end{aligned}\right.$ ，消去 y 得 $(4+k^{2})x^{2}+2kx-$ 3=0，则 $\left\{\begin{aligned}x_{1}+x_{2}&=\frac{-2k}{k^{2}+4}\\ x_{1}x_{2}&=\frac{-3}{k^{2}+4}\end{aligned}\right.$
+
+已知 $E\left(-\frac{1}{k},0\right),F(0,1)$ ，又 $\overrightarrow{CE} = \overrightarrow{FD}$ ，所以 $\left(-\frac{1}{k} -x_1, - y_1\right) = (x_2,y_2 - 1), - \frac{1}{k} -x_1 = x_2$ ，即 $x_{2} + x_{1} =$ $-\frac{1}{k}$ ，则 $\frac{-2k}{k^2 + 4} = -\frac{1}{k}$ 解得 $k = \pm 2$ ，符合题意.
+
+所以直线 l 的方程为 $2x - y + 1 = 0$ 或 $2x + y - 1 = 0$ .
+
+(2)解法一(椭圆第三定义): 设 $C(x_{1}, y_{1})$ , $D(x_{2}, y_{2})$ ，联立直线 l 与椭圆方程 $\left\{\begin{aligned} x^{2} + \frac{y^{2}}{4} &= 1 \\ kx - y + 1 &= 0 \end{aligned}\right.$ ，消去 y 得
+
+(4 + $k^{2}$ ) $x^{2} + 2kx - 3 = 0$ ，则 $\left\{\begin{aligned} x_{1} + x_{2} &= \frac{-2k}{k^{2} + 4} \\ x_{1}x_{2} &= \frac{-3}{k^{2} + 4} \end{aligned}\right.$ ， $\left\{\begin{aligned} y_{1} + y_{2} &= \frac{8}{k^{2} + 4} \\ y_{1}y_{2} &= \frac{4(1 - k^{2})}{k^{2} + 4}\end{aligned}\right.$ 又 A(-1,0), B(1,0)，由于 $k_{CA} \cdot k_{CB} = \frac{y_{1}}{x_{1} + 1} \cdot \frac{y_{1}}{x_{1} - 1} = \frac{y_{1}^{2}}{x_{1}^{2} - 1} = \frac{4(1 - x_{1}^{2})}{x_{1}^{2} - 1} = -4$ ，则 $k_{CB} = \frac{-4}{k_{CA}}$ .
+
+又 $\frac{k_1}{k_2} = \frac{k_{AD}}{k_{CB}} = \frac{k_{AD}}{\frac{-4}{k_{CA}}} = 2$ ，即 $k_{CA} \cdot k_{AD} = \frac{y_1}{x_1 + 1} \cdot \frac{y_2}{x_2 + 1} = \frac{y_1 y_2}{x_1 x_2 + (x_1 + x_2) + 1} = -8$ （※），将根与系数的关系式代入（※）式得 $-8 = \frac{y_1 y_2}{x_1 x_2 + (x_1 + x_2) + 1} = \frac{4(1 - k^2)}{(-3) + (-2k) + (k^2 + 4)} = -4 \cdot \frac{k + 1}{k - 1}$ ，解得 $k = 3$ .
+
+解法二：设 $C(x_1, y_1), D(x_2, y_2)$ ，联立直线 $l$ 与椭圆方程 $\left\{ \begin{array}{l} x^2 + \frac{y^2}{4} = 1 \\ kx - y + 1 = 0 \end{array} \right.$ ，消去 $y$ 得 $(4 + k^2)x^2 + 2kx - 3 = 0$ ，则 $\left\{ \begin{array}{l} x_1 + x_2 = \frac{-2k}{k^2 + 4} \\ x_1 x_2 = \frac{-3}{k^2 + 4} \end{array} \right.$ .
+
+由 $\frac{k_1}{k_2} = \frac{\frac{y_2}{x_2 + 1}}{\frac{y_1}{x_1 - 1}} = \frac{y_2}{y_1} \cdot \frac{x_1 - 1}{x_2 + 1} = 2$ ，平方得 $\frac{y_2^2(x_1 - 1)^2}{y_1^2(x_2 + 1)^2} = 4$ （※）.
+
+又 $x_1^2 + \frac{y_1^2}{4} = 1$ ，所以 $y_1^2 = 4(1 - x_1^2)$ ，同理 $y_2^2 = 4(1 - x_2^2)$ ，代入（※）式并化简得 $\frac{(1 - x_2)(1 - x_1)}{(1 + x_1)(1 + x_2)} = 4$ ，即 $3x_1x_2 + 5(x_1 + x_2) + 3 = 0$ ，将根与系数的关系式代入并化简得 $3k^2 - 10k + 3 = 0$ ，解得 $k = 3$ 或 $k = \frac{1}{3}$ .
+
+因为 $\frac{y_2(x_1 - 1)}{y_1(x_2 + 1)} = \frac{2}{1}, x_1, x_2 \in (-1, 1)$ ，所以 $y_1, y_2$ 异号，故舍去 $k = \frac{1}{3}$ ，所以 $k = 3$ .
+
+解法三：设 $C(x_1, y_1), D(x_2, y_2)$ ，联立直线 $l$ 与椭圆方程 $\left\{ \begin{array}{l} x^2 + \frac{y^2}{4} = 1 \\ kx - y + 1 = 0 \end{array} \right.$ ，消去 $y$ 得 $(4 + k^2)x^2 - 2kx - 3 = 0$ .
+
+由 $2 = \frac{k_1}{k_2} = \frac{\frac{y_2}{x_2 + 1}}{\frac{y_1}{x_1 - 1}} = \frac{y_2}{y_1} \cdot \frac{x_1 - 1}{x_2 + 1} = \frac{kx_2 + 1}{kx_1 + 1} \cdot \frac{x_1 - 1}{x_2 + 1} = \frac{kx_2x_1 + x_1 - (kx_2 + 1)}{kx_2x_1 + x_2 + kx_1 + 1}$ （※），又 $\left\{ \begin{array}{l} x_1 + x_2 = \frac{-2k}{k^2 + 4} \\ x_1x_2 = \frac{-3}{k^2 + 4} \end{array} \right.$ ，则 $\left\{ \begin{array}{l} x_1 = \frac{-2k}{k^2 + 4} - x_2 \\ x_1x_2 = \frac{-3}{k^2 + 4} \end{array} \right.$ ，代入（※）式得 $2 = \frac{kx_2x_1 + x_1 - (kx_2 + 1)}{kx_2x_1 + x_2 + kx_1 + 1} = \frac{\frac{-3k}{k^2 + 4} + \frac{-2k}{k^2 + 4} - 1 - (k + 1)x_2}{\frac{-3k}{k^2 + 4} + \frac{-2k^2}{k^2 + 4} + 1 + (1 - k)x_2} =$
+
+$(k-3)x_{2}+3=0$ (※).
+
+联立直线 l 与椭圆方程 $\left\{\begin{aligned}x^{2}+\frac{y^{2}}{4}&=1\\ kx-y+1&=0\end{aligned}\right.$ ，得 $(4+k^{2})x^{2}+2kx-3=0$ ，故 $x_{1}+x_{2}=\frac{-2k}{k^{2}+4},x_{1}x_{2}=\frac{-3}{k^{2}+4},x_{2}=$ $\frac{-k+2\sqrt{k^{2}+3}}{k^{2}+4}$ ，代入（※）式得 $k\frac{-3}{k^{2}+4}+(2k-1)\frac{-2k}{k^{2}+4}-(k-3)\frac{-k+2\sqrt{k^{2}+3}}{k^{2}+4}+3=0.$ 化简得 $12-4k+(6-2k)\sqrt{k^{2}+3}=0$ ，即 $2(3-k)(2+\sqrt{k^{2}+3})=0$ ，解得 k=3。
+
+6.【解析】(1)依题意可得 c=1，由 $\angle AF_{1}O=60^{\circ}$ ，得 $\frac{b}{c}=\sqrt{3}$ ，所以 $b=\sqrt{3}, a=2$ 。故椭圆 C 的方程为 $\frac{x^{2}}{4}+\frac{y^{2}}{3}=1$ 。
+
+![](images/combined/part-002/937581a36fdd35eb37c03ef050be47f60337af91a7fd6168c05cf1d9beb55e3d.jpg)
+
+(2)如图所示,建立新平面直角坐标系 $x^{\prime}Ay^{\prime}$ , 则 $\left\{ \begin{array}{l} x = x^{\prime} \\ y = y^{\prime} + \sqrt{3} \end{array} \right.$ .
+
+椭圆 $C: \frac{x'^{2}}{4} + \frac{(y' + \sqrt{3})^{2}}{3} = 1$ , 即 $3x'^{2} + 4y'^{2} + 8\sqrt{3}y' = 0$ .
+
+令 $MN: mx' + ny' = 1$ , 则 $3x'^{2} + 4y'^{2} + 8\sqrt{3}y'(mx' + ny') = 0$ , 所以 $(4 + 8\sqrt{3}n)y'^{2} + 8\sqrt{3}mx'y' + 3x'^{2} = 0, (4 + 8\sqrt{3}n)\left(\frac{y'}{x'}\right)^{2} + 8\sqrt{3}m\left(\frac{y'}{x'}\right) + 3 = 0$ , 又 $k_{1} + k_{2} = \frac{-8\sqrt{3}m}{4 + 8\sqrt{3}n}$ , 即 $k_{1}k_{2} = \frac{3}{4 + 8\sqrt{3}n}$ .
+
+因为 $k_{2} = \frac{k_{1}}{k_{1}-1}$ , 即 $k_{1}k_{2} = k_{1} + k_{2}$ , 所以 $-8\sqrt{3}m = 3$ , 即 $m = -\frac{\sqrt{3}}{8}$ .
+
+直线 $MN: -\frac{\sqrt{3}}{8}x' + ny' = 1$ 在新坐标系下恒过定点 $\left(-\frac{8}{\sqrt{3}}, 0\right)$ , 则在原平面直角坐标系 $xOy$ 下, 直线 $MN$ 恒过定点 $\left(-\frac{8\sqrt{3}}{3}, \sqrt{3}\right)$ .
+
+## 训练 20
+
+$$
+\left\{ \begin{array}{l} x + y \leqslant 1 \\ x \geqslant 0 \\ y \geqslant 0 \end{array} \right.
+$$
+
+$$
+S _ {A} = \frac {1}{2}
+$$
+
+$$
+\left\{ \begin{array}{l} x ^ {\prime} = x + y \\ y ^ {\prime} = x - y \end{array} \right.
+$$
+
+![](images/combined/part-002/cfae4e0387312b51c3de7458112041423a42baa62cfb86ac5e08f771104c1327.jpg)
+
+$$
+\frac {S _ {B}}{S _ {A}} = \left| \left| \begin{array}{c c} 1 & 1 \\ 1 & - 1 \end{array} \right| \right| = 2
+$$
+
+$$
+S _ {B} = 2 S _ {A} = 1
+$$
+
+2.【解析】画出题目的示意图如图所示：
+①根据椭圆的第二定义可知应为 $e=\frac{|AF_{1}|}{d_{2}}=\frac{|AF_{2}|}{d_{1}}$ ，故①错误.
+
+②如图所示，利用椭圆极坐标方程的推导方法得 $e = \frac{|AF_1|}{|AF_1|\cos\theta + |F_1K|} = \frac{|F_1B|}{|F_1B|\cos(\theta + \pi) + |F_1K|}$ ，解得 $\frac{1}{|AF_1|} + \frac{1}{|F_1B|} = \frac{1 - e\cos\theta}{e|F_1K|} + \frac{1 + e\cos\theta}{e|F_1K|} = \frac{2}{e|F_1K|} = \frac{2a}{b^2}$ ，同理可以求得 $\frac{1}{|AF_2|} + \frac{1}{|F_2C|} = \frac{2a}{b^2}$ ，所以 $\frac{|AF_1|}{|F_1B|} + \frac{|AF_2|}{|F_2C|} = \frac{2a}{b^2}|AF_1|-1 + \frac{2a}{b^2}|AF_2|-1 = \frac{2a}{b^2}$ （ $|AF_1| + |AF_2|)-2 = \frac{2(1 + e^2)}{1 - e^2}$ 为定值，故②错误.
+
+![](images/combined/part-002/9857b64cb55eb9044bbf96a6ce689451e39620e6f331a840ce9f77eb9e205f7b.jpg)
+
+③已知椭圆的光学性质:入射光线 $F_{1}A$ 经椭圆的切线 l 反射后的反射光线为 $AF_{2}$ ，又因为 $\frac{|AF_{1}|}{|AF_{2}|} = \frac{|F_{1}M|}{|MF_{2}|}$ ，所以 $\angle F_{1}AM = \angle F_{2}AM, AM \perp l$ ，故③正确.
+
+④设直线 $l_{0} //$ 直线 $l$ , 且直线 $l_{0}$ 过坐标原点交椭圆于 $D, E$ 两点, 作仿射变换: $\left\{ \begin{array}{l} x' = x \\ y' = \frac{a}{b} y \end{array} \right.$ , 则仿射变换将椭圆 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1$ 变为圆 $x^{\prime 2} + y^{\prime 2} = a^{2}$ , 根据仿射变换的性质可知直线 $l_{0}$ 变为圆的一条直径 $l_{0}'$ , 切线 $l$ 变为圆的切线 $l'$ , 且 $l_{0}'$ 与 $l'$ 仍然平行, 所以 $S_{\triangle A'D'E'} = a^{2}$ .
+
+因为 $S_{\triangle A^{\prime}D^{\prime}E^{\prime}}=\frac{a}{b}S_{\triangle ADE}$ ，所以 $S_{\triangle ADE}=ab$ 。设点 A 关于原点对称的点为 $A^{\prime}$ ，则四边形 $ADA^{\prime}E$ 的面积为 2ab，故④错误（另解：设过点 $A(x_{0},y_{0})$ 的切线方程为 $\frac{x_{0}x}{a^{2}}+\frac{y_{0}y}{b^{2}}=1$ ，直线 $l_{0}$ 的方程为 $\frac{x_{0}x}{a^{2}}+\frac{y_{0}y}{b^{2}}=0$ ，利用点到直线的距离以及弦长公式证明④错误）。故选 A。
+
+3.【解析】把 $xOy$ 平面上所有点的横坐标不变, 纵坐标变为原来的 $\sqrt{3}$ 倍, 即作仿射变换 $\left\{\begin{array}{l} x' = x \\ y' = \sqrt{3} y \end{array}\right.$ , 得到 $x'Oy'$ 平面, 则椭圆 $\frac{x^2}{3} + y^2 = 1$ 变成圆 $x'^2 + y'^2 = 3$ , 任意一个平面图形的面积变为原来的 $\sqrt{3}$ 倍.
+
+因为 $S_{\triangle A'OB'} = \frac{1}{2} |OA'| |OB'| \sin \angle A'OB' = \frac{3}{2} \sin \angle A'OB'$ , 所以当 $\angle A'OB' = 90^\circ$ 时, $S_{\triangle A'OB'}$ 取得最大值, 且最大值为 $\frac{3}{2}$ , 所以椭圆中 $\triangle AOB$ 面积的最大值为 $(S_{\triangle AOB})_{\max} = \frac{1}{\sqrt{3}} (S_{\triangle A'OB'})_{\max} = \frac{1}{\sqrt{3}} \times \frac{3}{2} = \frac{\sqrt{3}}{2}$ .
+
+【评注】本题中 $|AB| = \sqrt{3}$ 是一个非本质的条件, 我们知道当 $\angle A'OB' = 90^\circ$ 时, $|A'B'| = \sqrt{6}$ , 若 $A'B' // x$ 轴, 则压缩成椭圆后 $|AB| = \sqrt{6}$ ; 若 $A'B' \perp x$ 轴, 则压缩成椭圆后 $|AB| = \sqrt{2}$ , 所以只要 $|AB|$ 在 $[\sqrt{2}, \sqrt{6}]$ 内取值, 本题的答案就不变.
+
+4.【解析】如图所示,把 $xOy$ 平面上所有点的横坐标不变,纵坐标变为原来的 $\frac{2}{\sqrt{3}}$ 倍,即作仿射变换 $\left\{ \begin{array}{l} x' = x \\ y' = \frac{2}{\sqrt{3}} y \end{array} \right.$ , 得到 $x'Oy'$ 平面,于是椭圆 $\frac{x^2}{4} + \frac{y^2}{3} = 1$ 变成圆 $x'^2 + y'^2 = 4$ ,并且任意一个平面图形的面积变为原来的 $\frac{2}{\sqrt{3}}$ 倍.先求 $x^{\prime}Oy^{\prime}$ 平面上相应平行四边形 $A'B'C'D'$ 面积的最大值: 易知圆的内接平行四边形一定是矩形, 且圆心是矩形对角线的交点, 所以矩形 $A'B'C'D'$ 的面积等于三角形 $OA'B'$ 的面积的 4 倍, 如图所示, 作 $A'B'$ 边上的高 $OM'$ , 设 $|OM'| = d$ , 则 $S_{\triangle OA'B'} = d \sqrt{4 - d^2} = \sqrt{d^2(4 - d^2)}$ , 且 $0 < d \leqslant 1$ , 由二次函数的性质可知: 当 $d = 1$ 时, $S_{\triangle OA'B'}$ 取得最大值 $\sqrt{3}$ , 所以矩形 $A'B'C'D'$ 面积的最大值为 $4\sqrt{3}$ , 由仿射变换的性质知: 对应椭圆的内接平行四边形面积的最大值为 $4\sqrt{3} \div \frac{2}{\sqrt{3}} = 6$ .
+
+![](images/combined/part-002/890631accd52e49af60436ac96aa66c829dfb505f609dfdeee006549401e553c.jpg)
+
+5.【解析】(1)如图所示,作仿射变换 $\left\{\begin{aligned}x^{\prime}&=\frac{x}{a}\\ &y^{\prime}&=\frac{y}{b}\end{aligned}\right.$ ,则椭圆 $\frac{x^{2}}{a^{2}}+\frac{y^{2}}{b^{2}}=1$ 变为单位圆 $x^{\prime 2}+y^{\prime 2}=1$ ,点A,B,T变换后对应的点分别为 $A^{\prime},B^{\prime},T^{\prime}$ ,且 $A^{\prime}\left(\frac{2}{a},0\right),B^{\prime}\left(0,\frac{1}{b}\right)$ .
+
+![](images/combined/part-002/bd1ce420632acd62f93453cd23601f4c1de1101a8924b3b59711a9827651774a.jpg)
+
+![](images/combined/part-002/15e04b5f2797f26c75385bfbace2096768892885baa824c9b044a59e98f2c87b.jpg)
+
+因为直线 $AB: \frac{x}{2} + y = 1$ 与椭圆 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1$ 相切，所以直线 $A'B': \frac{ax'}{2} + by' = 1$ 与圆 $x'^{2} + y'^{2} = 1$ 相切， $\frac{1}{\sqrt{\left(\frac{a}{2}\right)^{2}+b^{2}}} = 1.$ 又 $\frac{c}{a} = \sqrt{\frac{a^{2}-b^{2}}{a^{2}}} = \frac{\sqrt{3}}{2}$ ，解得 $\left\{\begin{aligned}a^{2}&=2\\ b^{2}&=\frac{1}{2}\end{aligned}\right.$ ，所以椭圆的方程为 $\frac{x^{2}}{2} + 2y^{2} = 1$ .
+
+(2)由(1)可知 $A'(\sqrt{2},0), B'(0,\sqrt{2})$ , 且直线 $A'B': x' + y' = \sqrt{2}$ 与圆 $x'^{2} + y'^{2} = 1$ 相切于点 $T'$ , 所以 $OT' \perp A'B'$ , 又 $OA' = OB'$ , 所以 $A'T' = B'T'$ , 即点 $T'$ 为线段 $A'B'$ 的中点.
+
+由仿射变换的性质, 可知点 T 为线段 AB 的中点, 所以 $\left|AT\right|=\frac{1}{2}\left|AB\right|=\frac{\sqrt{5}}{2}$ .
+
+又易求得 $F_{1}\left(-\frac{\sqrt{6}}{2},0\right),F_{2}\left(\frac{\sqrt{6}}{2},0\right),M\left(1 + \frac{\sqrt{6}}{4},0\right)$ ，所以 $\mid AF_1\mid = 2 + \frac{\sqrt{6}}{2},\mid AM\mid = 1 - \frac{\sqrt{6}}{4},$
+
+$|AF_1||AM| = \left(2 + \frac{\sqrt{6}}{2}\right) \times \left(1 - \frac{\sqrt{6}}{4}\right) = 2 \times \left(1 + \frac{\sqrt{6}}{4}\right) \times \left(1 - \frac{\sqrt{6}}{4}\right) = \frac{5}{4} = |AT|^2$ ，即 $\frac{|AM|}{|AT|} = \frac{|AT|}{|AF_1|}$ ，又因为 $\angle MAT = \angle TAF_1$ ，所以 $\triangle MAT \sim \triangle TAF_1$ ，故 $\angle ATM = \angle AF_1T$ 。
+
+6.【解析】(1)因为 $|\overrightarrow{BC}| = 2|\overrightarrow{AC}|$ , 且 $BC$ 过椭圆的中心 $O$ , 所以 $|\overrightarrow{OC}| = |\overrightarrow{AC}|$ . 因为 $\overrightarrow{AC} \cdot \overrightarrow{BC} = 0$ , 所以 $\angle ACO = \frac{\pi}{2}$ , 又 $A(2\sqrt{3}, 0)$ , 则点 $C$ 的坐标为 $(\sqrt{3}, \sqrt{3})$ . 因为 $A(2\sqrt{3}, 0)$ 是椭圆的右顶点, 所以 $a = 2\sqrt{3}$ , 椭圆的方程为 $\frac{x^2}{12} + \frac{y^2}{b^2} = 1$ .
+
+将点 C 的坐标 $(\sqrt{3}, \sqrt{3})$ 代入 $\frac{x^{2}}{12} + \frac{y^{2}}{b^{2}} = 1$ 中，得 $b^{2} = 4$ ，故椭圆 E 的方程为 $\frac{x^{2}}{12} + \frac{y^{2}}{4} = 1$ .
+
+(2)如图1所示,作点C关于x轴的对称点M,则直线CM的方程为 $x=\sqrt{3}$ .
+
+如图2所示，作仿射变换 $\left\{ \begin{array}{l} x' = x \\ y' = \sqrt{3}y \end{array} \right.$ ，则椭圆 $\frac{x^2}{12} + \frac{y^2}{4} = 1$ 变为圆 $x'^2 + y'^2 = 12$ ，点 $A, B, C, P, Q, M$ 变换后对应的点分别为 $A', B', C', P', Q', M'$ ，且 $C'(\sqrt{3}, 3), M'(\sqrt{3}, -3)$ ， $\left\{ \begin{array}{l} k_{P'C'} = \sqrt{3}k_{PC} \\ k_{Q'C'} = \sqrt{3}k_{QC} \end{array} \right.$ .
+
+因为直线 $PC$ 与直线 $QC$ 关于直线 $x = \sqrt{3}$ 对称, 所以 $k_{PC} = -k_{QC}, k_{P'C'} = -k_{Q'C'}$ , 即直线 $P'C'$ 与直线 $Q'C'$ 关于直线 $x' = \sqrt{3}$ 对称, 则 $\angle P'C'M' = \angle Q'C'M', \widehat{P'M'} = \widehat{Q'M'}$ . 由垂径定理的推论可得 $OM' \perp P'Q'$ , 即 $k_{P'Q'} = -\frac{1}{k_{OM'}} = \frac{\sqrt{3}}{3}$ , 故 $k_{PQ} = \frac{1}{\sqrt{3}} k_{P'Q'} = \frac{1}{3}$ .
+
+![](images/combined/part-002/4df443f48cccda031c71e0b323c1aa422ab21418dee74dc299e9cd617f18ca25.jpg)
+图1
+
+![](images/combined/part-002/408e09ac44fee8623c921bd309149965185e42d581b2c57fb034d29f0c1679ff.jpg)
+图2
+
+7.【解析】(1)依题意可得 $e=\frac{c}{a}=\frac{1}{2}$ ，且 $\sqrt{(2+c)^{2}+1^{2}}=\sqrt{10}$ ，得 a=2, c=1, $b=\sqrt{3}$ ，故椭圆 C 的方程为 $\frac{x^{2}}{4}+\frac{y^{2}}{3}=1$ .
+
+(2)在仿射变换 $\left\{ \begin{array}{l} x' = \frac{x}{2} \\ y' = \frac{y}{\sqrt{3}} \end{array} \right.$ 的作用下，椭圆 $\frac{x^2}{4} + \frac{y^2}{3} = 1$ 变成单位圆 $x'^2 + y'^2 = 1$ ，点 $P(2,1)$ 变成点 $P'\left(1, \frac{1}{\sqrt{3}}\right)$ ，如图1、图2所示。由仿射变换的性质可知线段 $A'B'$ 依然被直线 $OP'$ 平分。
+
+设线段 $A^{\prime}B^{\prime}$ 与直线 $OP^{\prime}$ 相交于点 $Q^{\prime}$ ，则点 $Q^{\prime}$ 为 $A^{\prime}B^{\prime}$ 的中点，所以 $P^{\prime}Q^{\prime}\perp A^{\prime}B^{\prime}$ ，由 $k_{P^{\prime}Q^{\prime}}=\frac{1}{\sqrt{3}}$ 得 $k_{A^{\prime}B^{\prime}}=-\sqrt{3}$ ，可设直线 $A^{\prime}B^{\prime}$ 的方程为 $y^{\prime}=-\sqrt{3}x^{\prime}+m$ ，由点到直线的距离公式得 $|OQ^{\prime}|=\frac{|m|}{2}$ ， $|P^{\prime}Q^{\prime}|=\frac{-\sqrt{3}+m-\frac{1}{\sqrt{3}}}{2}=\frac{1}{2}\left|m-\frac{4\sqrt{3}}{3}\right|$ .
+
+又直线 $A'B'$ 与圆 $x'^2 + y'^2 = 1$ 相交且不过原点，所以 $0 < |OQ'| = \frac{|m|}{2} < 1$ ，解得 $m \in (-2,0) \cup (0,2)$ .
+
+根据圆中的垂径定理得 $|A'B'| = 2\sqrt{1 - |OQ'|^2} = \sqrt{4 - m^2}$ , 所以 $S_{\triangle A'B'P'} = \frac{1}{2}|A'B'||P'Q'| = \frac{1}{2} \cdot \sqrt{4 - m^2} \cdot \frac{1}{2} \left|m - \frac{4\sqrt{3}}{3}\right| = \frac{1}{4}\sqrt{(4 - m^2)(m - \frac{4\sqrt{3}}{3})^2}$ .
+
+记 $u(m) = (4 - m^2)\left(m - \frac{4\sqrt{3}}{3}\right)^2$ ，则 $u'(m) = -4\left(m - \frac{4\sqrt{3}}{3}\right)\left(m - \frac{1 + \sqrt{7}}{\sqrt{3}}\right)\left(m - \frac{1 - \sqrt{7}}{\sqrt{3}}\right)$ ，讨论 $u(m)$ 在 $m \in (-2,0) \cup (0,2)$ 时的单调性可得：当且仅当 $m = \frac{1 - \sqrt{7}}{\sqrt{3}}$ 时， $S_{\triangle A'B'P'}$ 取得最大值， $S_{\triangle ABP}$ 也取得最大值，此时直线 $A'B'$ 的方程为 $y' = -\sqrt{3}x' + \frac{1 - \sqrt{7}}{\sqrt{3}}$ ，所以所求直线 $l$ 的方程为 $\frac{y}{\sqrt{3}} = -\sqrt{3} \cdot \frac{x}{2} + \frac{1 - \sqrt{7}}{\sqrt{3}}$ ，即 $y = -\frac{3}{2}x + 1 - \sqrt{7}$ .
+
+![](images/combined/part-002/bc02ca4173ab7281e4b4d20470a19d3659e7dce34a1d3656a31736c2e9d863f9.jpg)
+图1
+
+![](images/combined/part-002/2cf595adb24d002da17e1c2aaa70857600d0b0bb10b589d1d0c956e194ba5518.jpg)
+图2
+
+## 训练 21
+
+1.【解析】(1)易知抛物线 C 的方程为 $x^{2}=4cy$ ，由 $\frac{|0-c-2|}{\sqrt{1^{2}+1^{2}}}=\frac{3\sqrt{2}}{2}$ ，结合 c>0 可得 c=1，所以抛物线 C 的方程是 $x^{2}=4y$ .
+
+(2)抛物线 C 的方程为 $x^{2}=4y$ ，即 $y=\frac{1}{4}x^{2}$ ，求导数得 $y'=\frac{1}{2}x$ .
+
+设 $A(x_{1},y_{1}),B(x_{2},y_{2})$ （其中 $y_{1} = \frac{x_{1}^{2}}{4},y_{2} = \frac{x_{2}^{2}}{4})$ ，则切线 $PA,PB$ 的斜率分别为 $\frac{1}{2} x_1,\frac{1}{2} x_2$
+
+所以切线 $PA$ 的方程为 $y - y_{1} = \frac{x_{1}}{2} (x - x_{1})$ ，即 $y = \frac{x_{1}}{2} x - \frac{x_{1}^{2}}{2} + y_{1}, x_{1}x - 2y - 2y_{1} = 0$ ，同理可得切线 $PB$ 的方程为 $x_{2}x - 2y - 2y_{2} = 0$ .
+
+因为切线 $PA, PB$ 均过点 $P(x_0, y_0)$ , 所以 $x_1 x_0 - 2y_0 - 2y_1 = 0$ , $x_2 x_0 - 2y_0 - 2y_2 = 0$ , 则 $A(x_1, y_1)$ , $B(x_2, y_2)$ 两点均在直线 $x_0 x - 2y_0 - 2y = 0$ 上, 故直线 $AB$ 的方程为 $x_0 x - 2y - 2y_0 = 0$ .
+
+(3)由抛物线的定义得 $|AF| = y_1 + 1$ , $|BF| = y_2 + 1$ , 所以 $|AF||BF| = (y_1 + 1)(y_2 + 1) = y_1y_2 + (y_1 + y_2) + 1$ .
+
+当 $x_0 = 0$ 时， $y_0 = -2$ ，直线 $AB$ 的方程是 $y - 2 = 0$ ，联立方程组 $\left\{ \begin{array}{l} x^2 = 4y \\ y - 2 = 0 \end{array} \right.$ ，解得 $A(-2\sqrt{2}, 2), B(2\sqrt{2}, 2)$ 。所以 $|AF||BF| = y_1y_2 + (y_1 + y_2) + 1 = 2 \times 2 + (2 + 2) + 1 = 9$ 。
+
+当 $x_0 \neq 0$ 时，联立方程组 $\left\{ \begin{array}{l} x^2 = 4y \\ x_0x - 2y - 2y_0 = 0 \end{array} \right.$ ，消去 $x$ 得 $y^2 + (2y_0 - x_0^2)y + y_0^2 = 0$ ，根据一元二次方程的根与系数的关系可得 $y_1 + y_2 = x_0^2 - 2y_0, y_1y_2 = y_0^2$ ，所以 $|AF||BF| = y_1y_2 + (y_1 + y_2) + 1 = y_0^2 + x_0^2 - 2y_0 + 1$ 。又因为点 $P(x_0, y_0)$ 在直线 $l: x - y - 2 = 0$ 上，所以 $x_0 = y_0 + 2, |AF||BF| = y_0^2 + (y_0 + 2)^2 - 2y_0 + 1 = 2(y_0 + \frac{1}{2})^2 + \frac{9}{2}$ ，当 $y_0 = -\frac{1}{2}$ 时， $|AF||BF|$ 取得最小值 $\frac{9}{2}$ 。
+
+综上可得 $|AF||BF|$ 的最小值为 $\frac{9}{2}$ .
+
+2.【解析】(1)设椭圆 E 的方程为 $\frac{x^{2}}{a^{2}} + \frac{y^{2}}{b^{2}} = 1 (a > b > 0)$ ，半焦距为 c.
+
+由已知条件, 得 $F(0,1)$ , 所以 $\left\{\begin{aligned}b&=1\\ \frac{c}{a}&=\frac{\sqrt{3}}{2}\\ a^{2}&=b^{2}+c^{2}\end{aligned}\right.$ , 解得 $\left\{\begin{aligned}a&=2\\ b&=1\end{aligned}\right.$ .
+
+故椭圆 E 的方程为 $\frac{x^{2}}{4} + y^{2} = 1$ .
+
+(2)显然直线 $l$ 的斜率存在, 否则直线 $l$ 与抛物线 $C$ 只有一个交点, 不符合题意, 所以可设直线 $l$ 的方程为 $y = kx + 1$ , 且 $A(x_{1}, y_{1}), B(x_{2}, y_{2}) (x_{1} \neq x_{2})$ .
+
+由 $\left\{\begin{aligned}y&=kx+1\\ x^{2}&=4y\end{aligned}\right.$ 消去 y 并整理得 $x^{2}-4kx-4=0$ ，所以 $x_{1}x_{2}=-4$ 。
+
+因为抛物线 C 的方程为 $y=\frac{1}{4}x^{2}$ ，求导数得 $y'=\frac{1}{2}x$ ，所以过抛物线 C 上 A，B 两点的切线方程分别是 $y-y_{1}=\frac{1}{2}x_{1}(x-x_{1})$ ， $y-y_{2}=\frac{1}{2}x_{2}(x-x_{2})$ ，即 $y=\frac{1}{2}x_{1}x-\frac{1}{4}x_{1}^{2}$ ， $y=\frac{1}{2}x_{2}x-\frac{1}{4}x_{2}^{2}$ ，联立方程组 $\left\{\begin{aligned}&y=\frac{1}{2}x_{1}x-\frac{1}{4}x_{1}^{2}\\ &y=\frac{1}{2}x_{2}x-\frac{1}{4}x_{2}^{2}\end{aligned}\right.$ ，解得两条切线 $l_{1}, l_{2}$ 的交点 M 的坐标为 $\left(\frac{x_{1}+x_{2}}{2},\frac{x_{1}x_{2}}{4}\right)$ ，即 $M\left(\frac{x_{1}+x_{2}}{2},-1\right)$ .
+
+所以 $\overrightarrow{FM} \cdot \overrightarrow{AB} = \left(\frac{x_1 + x_2}{2}, -2\right) \cdot (x_2 - x_1, y_2 - y_1) = \frac{1}{2}(x_2^2 - x_1^2) - 2\left(\frac{1}{4} x_2^2 - \frac{1}{4} x_1^2\right) = 0$ ，即 $AB \perp MF$ .
+
+(3)假设存在点 $M'$ 满足题意, 由 (2) 知点 $M'$ 必在直线 $y = -1$ 上, 又直线 $y = -1$ 与椭圆 $E$ 有唯一交点, 所以点 $M'$ 的坐标为 $(0, -1)$ .
+
+设过点 $M'$ 且与抛物线 C 相切的切线方程为 $y - y_{0} = \frac{1}{2} x_{0} (x - x_{0})$ ，其中 $(x_{0}, y_{0})$ 为切点，将点 $M'(0, -1)$ 的坐标代入得 $-1 - \frac{1}{4} x_{0}^{2} = \frac{1}{2} x_{0} (0 - x_{0})$ ，解得 $x_{0} = 2$ 或 $x_{0} = -2$ ，所以不妨取 $A'(-2, 1)$ ， $B'(2, 1)$ ，容易验证直线 $A'B'$ 过点 F.
+
+综上所述, 椭圆 $E$ 上存在一点 $M'(0, -1)$ , 经过点 $M'$ 作抛物线 $C$ 的两条切线 $M'A', M'B'(A', B'$ 为切点), 能使直线 $A'B'$ 过点 $F$ , 此时两切线的方程分别为 $y = -x - 1$ 和 $y = x - 1$ , 抛物线 $C$ 与切线 $M'A', M'B'$ 所围成图形的面积 $S = 2\int_{0}^{2}\left[\frac{1}{4} x^{2} - (x - 1)\right]\mathrm{d}x = 2\left(\frac{1}{12} x^{3} - \frac{1}{2} x^{2} + x\right)\Bigg|_{0}^{2} = \frac{4}{3}$ .
+
+【评注】本小题主要考查椭圆、抛物线、直线、定积分等知识,同时考查数形结合、化归与转化等数学思想以及推理论证能力和运算求解能力.
+
+3.【解析】(1) 设 $A(x_{1}, y_{1}), B(x_{2}, y_{2})$ ，代入曲线 $C$ 的方程得 $y_{1} = \frac{x_{1}^{2}}{4}, y_{2} = \frac{x_{2}^{2}}{4}$ ，两式相减得 $y_{1} - y_{2} = \frac{1}{4}(x_{1} - x_{2})(x_{1} + x_{2})$ ，则 $k_{AB} = \frac{y_{1} - y_{2}}{x_{1} - x_{2}} = \frac{1}{4}(x_{1} + x_{2}) = 1$ ，即直线 $AB$ 的斜率为 1。
+
+$$
+y = \frac {x ^ {2}}{4}
+$$
+
+$$
+y ^ {\prime} = \frac {x}{2}
+$$
+
+$$
+y ^ {\prime} = \frac {x}{2} = 1
+$$
+
+平移坐标系, 将坐标原点平移到点 $M$ , 则任意一点的原坐标 $(x, y)$ 与新坐标 $(x', y')$ 的关系为 $\left\{ \begin{array}{l} x = x' + 2 \\ y = y' + 1 \end{array} \right.$ , 平移后直线 $AB$ 的斜率不变. 设直线 $AB$ 的方程为 $mx' - my' = 1$ , 平移后曲线 $C$ 的方程为 $\frac{(x' + 2)^2}{4} = y' + 1$ , 即 $x'^2 - 4y' + 4x' = 0$ .
+
+将直线 $AB$ 的方程代入曲线 $C$ 的方程, 齐次化得 $x'^2 - 4(y' - x') (mx' - my') = 0$ , 化简得 $4my'^2 - 8my'x' + (4m + 1)x'^2 = 0$ , 该等式的左、右两边同时除以 $x'^2$ , 得 $4m \left(\frac{y'}{x'}\right)^2 - 8m \cdot \frac{y'}{x'} + 4m + 1 = 0$ , 方程的两根即为直线 $MA$ 与直线 $MB$ 的斜率, 所以由韦达定理得 $k_{MA} \cdot k_{MB} = \frac{y_1'}{x_1'} \cdot \frac{y_2'}{x_2'} = \frac{4m + 1}{4m} = -1$ , 解得 $m = -\frac{1}{8}$ , 所以直线 $AB: x' - y' = -8$ .
+
+故直线 AB 在原坐标系中的方程为 $(x-2)-(y-1)=-8$ ，即 $y=x+7$ 。
+
+![](images/combined/part-002/72ecdaf02abef69537e39ab6762563fd829828897fa32745aacc1b8cb5cb0eee.jpg)
+
+4.【解析】证明:如图所示,分别平移 $x$ 轴、 $y$ 轴,建立以 $A$ 为原点的直角坐标系 $x^{\prime} A y^{\prime}$ ,则任意一点的原坐标 $(x, y)$ 与新坐标 $(x^{\prime}, y^{\prime})$ 的关系为 $\left\{ \begin{array}{l} x = x^{\prime} + 0 \\ y = y^{\prime} + 1 \end{array} \right.$ . 在新坐标系 $x^{\prime} A y^{\prime}$ 下, $A(0,0)$ ,设 $C(x_1', y_1'), D(x_2', y_2')$ ,直线 $CD: mx^{\prime} + n y^{\prime} = 1$ ,椭圆的方程为 $\frac{x'^{2}}{4} + (y' + 1)^{2} = 1$ ,变形可得 $4y'^{2} + 8y' + x'^{2} = 0$ ,由 $\left\{ \begin{array}{l} 4y'^{2} + 8y' + x'^{2} = 0 \\ mx' + n y' = 1 \end{array} \right.$ ,联立可得 $4y'^{2} + 8y'(mx' + n y') + x'^{2} = 0$ ,展开得 $(4 + 8n)y'^{2} + 8mx'y' + x'^{2} = 0$ ,方程两边同除以 $x'^{2}$ ,得 $(4 + 8n)\left(\frac{y'}{x'}\right)^{2} + 8m\left(\frac{y'}{x'}\right) + 1 = 0$ (※). 因为直线 $l_{1}, l_{2}$ 的方程分别为 $y' = k_{1}'x'$ , $y' = k_{2}'x'$ ,且与动圆 $(x' + 1)^{2} + (y' + 1)^{2} = r^{2}$ 相切,所以由直线与圆相切的充要条件得 $\frac{|-k_{1}' + 1|}{\sqrt{1 + k_{1}'^{2}}} = \frac{|-k_{2}' + 1|}{\sqrt{1 + k_{2}'^{2}}} = r$ ,对 $\frac{|-k_{1}' + 1|}{\sqrt{1 + k_{1}'^{2}}} = \frac{|-k_{2}' + 1|}{\sqrt{1 + k_{2}'^{2}}}$ 两边平方整理,得 $(k_{1}' - k_{2}') (k_{1}'k_{2}' - 1) = 0$ ,显然 $k_{1}' \neq k_{2}'$ ,所以 $k_{1}'k_{2}' = 1$ . 由(※)及韦达定理得 $k_{1}'k_{2}' = \frac{y_{1}'}{x_{1}'} \cdot \frac{y_{2}'}{x_{2}'} = \frac{1}{4 + 8n} = 1$ ,解得 $n = -\frac{3}{8}$ ,所以直线 $CD$ 的方程为 $mx' - \frac{3}{8}y' = 1$ ,即
+
+$$
+m x ^ {\prime} - \frac {3}{8} \left(y ^ {\prime} + \frac {8}{3}\right) = 0.
+$$
+
+故直线 $CD$ 在直角坐标系 $x^{\prime}Ay^{\prime}$ 中过定点 $\left(0, -\frac{8}{3}\right)$ , 从而在原坐标系中过定点 $\left(0, -\frac{5}{3}\right)$ .
+
+5.【解析】设 $P\left(\frac{y_{0}^{2}}{4},y_{0}\right)$ , $A\left(\frac{y_{1}^{2}}{4},y_{1}\right)$ , $P\left(\frac{y_{2}^{2}}{4},y_{2}\right)$ ，则 PA 的方程为 $y-y_{0}=\frac{y_{1}-y_{0}}{\frac{y_{1}^{2}}{4}-\frac{y_{0}^{2}}{4}}\left(x-\frac{y_{0}^{2}}{4}\right)$ ，即 $4x-(y_{1}+y_{0})y+y_{1}y_{0}=0$ .
+
+由 $PA$ 与圆 $C_2$ 相切，得 $\frac{|12 + y_1y_0|}{\sqrt{4^2 + (y_1 + y_0)^2}} = r$ ，化简得 $(r^2 - y_0^2)y_1^2 + 2(r^2 - 12)y_1y_0 + r^2y_0^2 + 16r^2 - 144 = 0,$
+
+即 $y_{1}$ 是方程 $(r^2 - y_0^2)y^2 + 2(r^2 - 12) \cdot y_0y + r^2y_0^2 + 16r^2 - 144 = 0$ 的解.
+
+同理得 $y_{2}$ 也是该方程的解，所以 $y_{1} + y_{2} = -\frac{2(r^{2} - 12)y_{0}}{r^{2} - y_{0}^{2}}, y_{1}y_{2} = \frac{r^{2}y_{0}^{2} + 16r^{2} - 144}{r^{2} - y_{0}^{2}}$ ①，类似的方法得到AB方程为 $4x - (y_{1} + y_{2})y + y_{1}y_{2} = 0$ .
+
+圆 $C_2$ 与 $AB$ 相切，即 $\frac{|12 + y_1y_2|}{\sqrt{4^2 + (y_1 + y_2)^2}} = r$ ，代入①得 $r = 2$
+
+(注:为了计算简便,可只找到同类项的系数(例如找 $y_{0}^{4}$ 的系数),比较系数求出 r.)
+
+6.【解析】(1)根据题意可得因为直线不平行于坐标轴,则斜率 $k$ 必然存在,故设直线 $l$ 为 $y = kx + b (k \neq 0, b \neq 0), A(x_1, y_1), B(x_2, y_2), M(x_M, y_M)$ .
+
+将 $y = kx + b$ 代入 $C:9x^{2} + y^{2} = m^{2}$ ，得 $(k^2 +9)x^2 +2kbx + b^2 -m^2 = 0$ ，故 $x_{M} = \frac{x_{1} + x_{2}}{2} = -\frac{kb}{k^{2} + 9},y_{M} =$ $kx_{M} + b = \frac{9b}{k^{2} + 9}$ ，于是直线OM的斜率 $k_{OM} = \frac{y_M}{x_M} = -\frac{9}{k}$ 即 $k_{OM}\cdot k = -9.$
+
+故直线 OM 的斜率与 l 的斜率的乘积为定值.
+
+(2)不妨设四边形 OAPB 能为平行四边形.
+
+因为直线 l 过点 $\left(\frac{m}{3}, m\right)$ ，所以 l 不过原点且与 C 有两个交点的充要条件是 k > 0 且 $k \neq 3$ .
+
+由(1)得 $OM$ 的方程为 $y = -\frac{9}{k} x$ . 设点 $P$ 的横坐标为 $x_{P}$ . 由 $\left\{ \begin{array}{l} y = -\frac{9}{k} x \\ 9x^{2} + y^{2} = m^{2} \end{array} \right.$ , 得 $x_{P}^{2} = \frac{k^{2}m^{2}}{9k^{2} + 81}$ , 即 $x_{P} = \frac{\pm km}{3\sqrt{k^{2} + 9}}$ .
+
+将点 $\left(\frac{m}{3},m\right)$ 的坐标代入直线l的方程得 $b=\frac{m(3-k)}{3}$ ，因此 $x_{M}=\frac{k(k-3)m}{3(k^{2}+9)}$ .
+
+四边形 OAPB 为平行四边形, 当且仅当线段 AB 与线段 OP 互相平分, 即 $x_{P}=2x_{M}$ , 则 $\frac{\pm km}{3\sqrt{k^{2}+9}}=2\cdot\frac{k(k-3)m}{3(k^{2}+9)}$ , 解得 $k_{1}=4-\sqrt{7}, k_{2}=4+\sqrt{7}$ .
+
+因为 $k_{i} > 0, k_{i} \neq 3, i = 1,2$ ，所以当 $l$ 的斜率为 $4 - \sqrt{7}$ 或 $4 + \sqrt{7}$ 时，四边形 OAPB 为平行四边形.
+
+7.【解析】(1)由题意得椭圆 $E: \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 (a > b > 0)$ 过点 $M(2, \sqrt{2}), N(\sqrt{6}, 1)$ 两点，所以 $\left\{ \begin{array}{l} \frac{4}{a^2} + \frac{2}{b^2} = 1 \\ \frac{6}{a^2} + \frac{1}{b^2} = 1 \end{array} \right.$ ，解得 $a^2 = 8, b^2 = 4$ 。
+
+故椭圆 $E$ 的方程为 $\frac{x^2}{8} + \frac{y^2}{4} = 1$ 。
+
+(2)由(1)得椭圆 $E$ 的方程为 $\frac{x^2}{8} + \frac{y^2}{4} = 1$ ，则 $a = 2\sqrt{2}, b = 2$ ，假设存在符合题意的圆，且圆的半径为 $r$ ，则 $0 < r < 2$ ，圆的方程为 $x^2 + y^2 = r^2$ 。
+
+①当切点为 $(r, 0)$ 时，直线 $AB$ 的方程为 $x = r$ 。
+
+由于 $\overrightarrow{OA} \perp \overrightarrow{OB}$ ，而 $|\overrightarrow{OA}| = |\overrightarrow{OB}|$ ，所以三角形 $OAB$ 是等腰直角三角形。
+
+不妨设 $A(r, r)$ ，代入 $\frac{x^2}{8} + \frac{y^2}{4} = 1$ ，得 $\frac{r^2}{8} + \frac{r^2}{4} = 1$ ，可得 $r^2 = \frac{8}{3}, r = \frac{2\sqrt{6}}{3}, |AB| = \frac{2\sqrt{6}}{3} \times 2 = \frac{4\sqrt{6}}{3}$ 。
+
+当切点为 $(-r, 0), (0, r), (0, -r)$ 时，同理可求得 $r^2 = \frac{8}{3}, r = \frac{2\sqrt{6}}{3}, |AB| = \frac{2\sqrt{6}}{3} \times 2 = \frac{4\sqrt{6}}{3}$ 。
+
+故猜想所求圆的方程为 $x^2 + y^2 = \frac{8}{3}$ 。
+
+②当直线 $AB$ 的斜率存在时，设直线 $AB: y = kx + m$ ，则 $\frac{|m|}{\sqrt{1 + k^2}} = \frac{2\sqrt{6}}{3}$ ，即 $3m^2 - 8k^2 - 8 = 0$ 。
+
+设 $A(x_1, y_1), B(x_2, y_2)$ ，由 $\left\{ \begin{array}{l} y = kx + m \\ x^2 + 2y^2 = 8 \end{array} \right.$ ，可得 $(1 + 2k^2) \cdot x^2 + 4kmx + 2m^2 - 8 = 0$ ，则 $\Delta = 64k^2 - 8m^2 + 32 = \frac{128k^2 + 32}{3} > 0, x_1 + x_2 = -\frac{4km}{1 + 2k^2}, x_1x_2 = \frac{2m^2 - 8}{1 + 2k^2}, \overrightarrow{OA} \cdot \overrightarrow{OB} = x_1x_2 + y_1y_2 = (1 + k^2)x_1x_2 + km(x_1 + x_2) + m^2 = (1 + k^2)\frac{2m^2 - 8}{1 + 2k^2} - \frac{4k^2m^2}{1 + 2k^2} + m^2 = \frac{3m^2 - 8k^2 - 8}{1 + 2k^2} = 0.$ 故 $OA \perp OB$ 。
+
+此时 $|AB| = \sqrt{1 + k^2} \cdot \frac{\sqrt{\frac{128k^2 + 32}{3}}}{1 + 2k^2} = \frac{4\sqrt{6}}{3} \cdot \frac{\sqrt{(1 + k^2)(4k^2 + 1)}}{1 + 2k^2}$ 。
+
+令 $t = 1 + 2k^2 > 1$ ，则 $|AB| = \frac{4\sqrt{6}}{3} \cdot \sqrt{\frac{2t^2 + t - 1}{2t^2}} = \frac{4\sqrt{6}}{3} \cdot \sqrt{-\frac{1}{2}\left(\frac{1}{t} - \frac{1}{2}\right)^2 + \frac{9}{8}}$ ，因为 $\frac{1}{t} \in (0, 1)$ ，则 $1 < \sqrt{-\frac{1}{2}\left(\frac{1}{t} - \frac{1}{2}\right)^2 + \frac{9}{8}} \leqslant \frac{3\sqrt{2}}{4}$ ，所以 $\frac{4\sqrt{6}}{3} < |AB| \leqslant 2\sqrt{3}$ 。
+
+由猜测过程可得当 $AB$ 的斜率不存在时也满足 $OA \perp OB$ 且 $|AB| = \frac{4\sqrt{6}}{3}$ 。
+
+综上所述， $|AB|$ 的取值范围是 $\left[\frac{4\sqrt{6}}{3}, 2\sqrt{3}\right]$ 。
+
+8.【解析】(1)依题意得 $\left\{\begin{aligned}\frac{c}{a}&=\frac{1}{2}\\ \frac{1}{a^{2}}+\frac{9}{4b^{2}}&=1\end{aligned}\right.$ ，解得 $a^{2}=4,b^{2}=3$ ，故椭圆E的方程为 $\frac{x^{2}}{4}+\frac{y^{2}}{3}=1$ .
+
+(2)如图所示, 设 $B(x_{1}, y_{1}), C(x_{2}, y_{2})$ , 因为点 $B$ 为椭圆 $E$ 上异于左、右顶点的动点, 则直线 $BC$ 不与 $x$ 轴重合, 则可设 $BC$ 为 $x = my + t$ , 与椭圆方程联立得 $(3m^{2} + 4)y^{2} + 6mty + 3t^{2} - 12 = 0$ , 则 $\Delta = 36m^{2}t^{2} - 12(3m^{2} + 4)(t^{2} - 4) > 0$ , 可得 $t^{2} < 3m^{2} + 4$ , 由韦达定理可得 $y_{1} + y_{2} = -\frac{6mt}{3m^{2} + 4}, y_{1}y_{2} = \frac{3t^{2} - 12}{3m^{2} + 4}$ . 直线 $BA$ 的方程为 $y = \frac{y_{1}}{x_{1} - 2}(x - 2)$ , 令 $x = t$ 得点 $M$ 的纵坐标 $y_{M} = \frac{y_{1}(t - 2)}{x_{1} - 2}$ .
+
+同理可得, 点 N 纵坐标 $y_{N}=\frac{y_{2}(t-2)}{x_{2}-2}$ .
+
+当 $O, A, M, N$ 四点共圆时，由割线定理可得 $\left|PA\right|\left|PO\right| = \left|PM\right|\left|PN\right|$ ，即 $t(t - 2) = \left|y_{M}y_{N}\right|$ .
+
+$$
+\begin{array}{r l} y _ {M} y _ {N} & = \frac {y _ {1} y _ {2} (t - 2) ^ {2}}{(x _ {1} - 2) (x _ {2} - 2)} = \frac {y _ {1} y _ {2} (t - 2) ^ {2}}{(m y _ {1} + t - 2) (m y _ {2} + t - 2)} \\ & = \frac {y _ {1} y _ {2} (t - 2) ^ {2}}{m ^ {2} y _ {1} y _ {2} + m (t - 2) (y _ {1} + y _ {2}) + (t - 2) ^ {2}} \\ & = \frac {3 (t ^ {2} - 4) (t - 2) ^ {2}}{3 m ^ {2} (t ^ {2} - 4) - 6 m ^ {2} t (t - 2) + (3 m ^ {2} + 4) (t - 2) ^ {2}} \\ & = \frac {3 (t + 2) (t - 2) ^ {2}}{3 m ^ {2} (t + 2) - 6 m ^ {2} t + (3 m ^ {2} + 4) (t - 2)} \\ & = \frac {3 (t + 2) (t - 2) ^ {2}}{3 m ^ {2} t + 6 m ^ {2} - 6 m ^ {2} t + 3 m ^ {2} t - 6 m ^ {2} + 4 t - 8} \\ & = \frac {3 (t + 2) (t - 2) ^ {2}}{4 (t - 2)} = \frac {3}{4} (t + 2) (t - 2). \end{array}
+$$
+
+![](images/combined/part-002/b582c9469002c0741eb16b539b85c6d692d5007e7dca1f2e56ca9bd51a789717.jpg)
+
+$t > 2$ ，故 $t(t - 2) = \frac{3}{4} (t + 2)(t - 2)$ ，解得 $t = 6$
+
+## 训练 22
+
+1.【解析】设 $P(x_{1},y_{1})$ , $Q(x_{0},y_{0})$ ，则直线 MN: $\left\{\begin{aligned}\frac{x_{1}x}{4}+\frac{y_{1}y}{3}&=1\\ x_{0}x+y_{0}y&=12\end{aligned}\right.\Rightarrow\left\{\begin{aligned}\frac{x_{1}x}{4}+\frac{y_{1}y}{3}&=1\\ \frac{x_{0}x}{12}+\frac{y_{0}y}{12}&=1\end{aligned}\right.$ ，即 $\left\{\begin{aligned}x_{0}&=3x_{1}\\ y_{0}&=4y_{1}\end{aligned}\right.$ ，又 P 在椭圆上，则 $\frac{x_{1}^{2}}{4}+\frac{y_{1}^{2}}{3}=1\Rightarrow\frac{x_{0}^{2}}{36}+\frac{y_{0}^{2}}{48}=1$ 。B 正确。
+设 OQ: $y_{0}x - x_{0}y = 0$ , PK ⊥ OQ 于 K, 则 |PK| = $\frac{|y_{0}x_{1}-x_{0}y_{1}|}{\sqrt{x_{0}^{2}+y_{0}^{2}}}$ . 又 |OQ| = $\sqrt{x_{0}^{2}+y_{0}^{2}}$ , 则 $S_{\triangle OPQ} = \frac{1}{2}|OQ||PK|=\frac{1}{2}|y_{0}x_{1}-x_{0}y_{1}|$ , 即 $S=\frac{1}{2}|4x_{1}y_{1}-3x_{1}y_{1}|=\frac{1}{2}|x_{1}y_{1}|=\frac{1}{2}\sqrt{x_{1}^{2}y_{1}^{2}}=\frac{1}{2}\sqrt{12\cdot\frac{x_{1}^{2}}{4}\cdot\frac{y_{1}^{2}}{3}}\leqslant$
+
+$\frac{1}{2}\sqrt{12 \times \frac{1}{4} \left( \frac{x_1^2}{4} + \frac{y_1^2}{3} \right)^2} = \frac{\sqrt{3}}{2}$ . C 正确. 故选 BC.
+
+2.【解析】运用定比点差法证明.
+
+令 $\lambda = \frac{AP}{PB} = \frac{MA}{MB}$ , 得 $\overrightarrow{PA} = \lambda \overrightarrow{PB}, \overrightarrow{MA} = -\lambda \overrightarrow{MB}$ , 设 $A(x_1, y_1), B(x_2, y_2), P(x_0, y_0), M(x, y)$ , 所以 $\left\{ \begin{array}{l} x_1 - x_0 = \lambda (x_2 - x_0) \\ y_1 - y_0 = \lambda (y_2 - y_0) \end{array} \right.$ , 即 $\left\{ \begin{array}{l} x_0 = \frac{x_1 - \lambda x_2}{1 - \lambda} \\ y_0 = \frac{y_1 - \lambda y_2}{1 - \lambda} \end{array} \right.$ , 即 $\left\{ \begin{array}{l} x_1 - x = -\lambda (x_2 - x) \\ y_1 - y = -\lambda (y_2 - y) \end{array} \right.$ , 即 $\left\{ \begin{array}{l} x = \frac{x_1 + \lambda x_2}{1 + \lambda} \\ y = \frac{y_1 + \lambda y_2}{1 + \lambda} \end{array} \right.$ .
+将 $A, B$ 两点坐标代入椭圆方程 $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ 中, 得 $\left\{ \begin{array}{l} \frac{x_1^2}{a^2} + \frac{y_1^2}{b^2} = 1 \\ \frac{x_2^2}{a^2} + \frac{y_2^2}{b^2} = 1 \end{array} \right.$ , 即 $\left\{ \begin{array}{l} \frac{x_1^2}{a^2} + \frac{y_1^2}{b^2} = 1 \\ \frac{\lambda^2 x_2^2}{a^2} + \frac{\lambda^2 y_2^2}{b^2} = \lambda^2 \end{array} \right.$ .
+两式作差得 $\frac{x_1^2 - \lambda^2 x_2^2}{a^2} + \frac{y_1^2 - \lambda^2 y_2^2}{b^2} = 1 - \lambda^2$ , 因此 $\frac{(x_1 + \lambda x_2)(x_1 - \lambda x_2)}{a^2(1 + \lambda)(1 - \lambda)} + \frac{(y_1 + \lambda y_2)(y_1 - \lambda y_2)}{b^2(1 + \lambda)(1 - \lambda)} = 1$ , 即 $\frac{x_0 x}{a^2} + \frac{y_0 y}{b^2} = 1$ .
+故点 $M$ 在直线 $\frac{x_0 x}{a^2} + \frac{y_0 y}{b^2} = 1$ 上.
+
+3.【解析】(1) $a = 2, e = \frac{1}{2}$ , 所以 $c = 1, b = \sqrt{3}$ , 则椭圆 $C: \frac{x^2}{4} + \frac{y^2}{3} = 1$ .
+
+$$
+l: x = t y + n
+$$
+
+$$
+\left\{ \begin{array}{l} x = t y + n \\ \frac {x ^ {2}}{4} + \frac {y ^ {2}}{3} = 1 \end{array} \right.
+$$
+
+$$
+3 (t y + n) ^ {2} + 4 y ^ {2} = 1 2
+$$
+
+$$
+(3 t ^ {2} + 4) y ^ {2} + 6 n t y + 3 n ^ {2} - 1 2 = 0
+$$
+
+$\Delta = 36n^{2}t^{2} - 4(3t^{2} + 4)(3n^{2} - 12) = 12(12t^{2} + 16 - 4n^{2}) = 48(3t^{2} + 4 - n^{2}) = 0$ ，所以 $n^2 = 3t^2 +4,y_E =$ $\frac{-3nt}{3t^2 + 4} = -\frac{3t}{n}$ 则 $x_{E} = ty_{E} + n = n - \frac{3t^{2}}{n} = \frac{n^{2} - 3t^{2}}{n} = \frac{4}{n}.$
+
+所以 $\frac{|TA|}{|TB|} = \frac{\left|\frac{4}{n} + 2\right|}{\left|\frac{4}{n} - 2\right|} = \frac{|4 + 2n|}{|4 - 2n|} = \frac{|2 + n|}{|2 - n|}$ , 又 $\frac{|GA|}{|GB|} = \frac{|n + 2|}{|n - 2|} = \frac{|TA|}{|TB|}$ .
+
+【评注】由极点极线理论， $G(n,0)$ 关于椭圆： $\frac{x^{2}}{4}+\frac{y^{2}}{3}=1$ 对应的极线方程为 $\frac{nx}{4}+0=1$ ，所以 $x=\frac{4}{n}$ 。即直线 ET 的方程为 $x=\frac{4}{n}$ ，G，T 调和分割 AB，所以 $\left|\frac{GA}{GB}\right|=\left|\frac{TA}{TB}\right|$ 。
+
+4.【解析】(1)由题意设 $M(x,y)$ ，则 $\frac{y}{x+2} \cdot \frac{y}{x-2} = -\frac{3}{4}, x \neq \pm 2$ ，化简得 $3x^{2} + 4y^{2} = 12$ 。即曲线 E 的方程为 $\frac{x^{2}}{4} + \frac{y^{2}}{3} = 1 (x \neq \pm 2)$ 。
+
+(2) 设 $l: x = ty + 1$ , 代入椭圆 $E$ 的方程, 得 $(3t^2 + 4)y^2 + 6ty - 9 = 0, \Delta > 0$ , 如图所示, 令 $P(x_1, y_1)$ .
+
+$Q(x_{2},y_{2})$ ，则 $y_{1} + y_{2} = \frac{-6t}{3t^{2} + 4},y_{1}y_{2} = \frac{-9}{3t^{2} + 4},ty_{1}y_{2} = \frac{3}{2} (y_{1} + y_{2}).$
+
+又 $A_{1}(-2,0), A_{2}(2,0)$ .
+
+$$
+① \frac {k _ {1}}{k _ {2}} = \frac {y _ {2}}{x _ {2} + 2} \cdot \frac {x _ {1} - 2}{y _ {1}} = \frac {y _ {2} (t y _ {1} - 1)}{y _ {1} (t y _ {2} + 3)} = \frac {t y _ {1} y _ {2} - y _ {2}}{t y _ {1} y _ {2} + 3 y _ {1}} = \frac {\frac {3}{2} (y _ {1} + y _ {2}) - y _ {2}}{\frac {3}{2} (y _ {1} + y _ {2}) + 3 y _ {1}} = \frac {1}{3}.
+$$
+
+![](images/combined/part-002/40f651befb05474cf7a97190378cb7c5ffe535cf77a993bdafc46b17906685bb.jpg)
+
+②由①知 $Q_{1}(x_{2},-y_{2})$ ，所以 $S_{\triangle PFQ_{1}}=S_{\triangle PQQ_{1}}-S_{\triangle FQQ_{1}}=\frac{1}{2}|QQ_{1}||x_{1}-1|=|y_{2}||x_{1}-1|=|ty_{1}y_{2}|=$ $\frac{|9t|}{3t^{2}+4}=\frac{9}{3|t|+\frac{4}{|t|}}.$
+
+$3|t| + \frac{4}{|t|}\geqslant 4\sqrt{3}$ ，所以 $S_{\triangle PFQ_1}\leqslant \frac{9}{4\sqrt{3}} = \frac{3\sqrt{3}}{4}.$ 当且仅当 $t^2 = \frac{4}{3}$ 时，等号成立.
+
+所以 $\triangle PFQ_{1}$ 面积最大值为 $\frac{3\sqrt{3}}{4}$ .
+
+【评注】由极点极线理论可知,极点 $F(1,0)$ 关于椭圆 $\frac{x^{2}}{4} + \frac{y^{2}}{3} = 1$ 对应的极线为 x = 4.
+
+①所以 $A_{1}Q$ 与 $A_{2}P$ 的交点 T 在直线 x=4 上，设 $T(4,n)$ ，则 $\frac{k_{1}}{k_{2}}=\frac{n}{6}\cdot\frac{2}{n}=\frac{1}{3}$ .
+
+②设 $E(4,0)$ ，则 E, F 为调和共轭点，再由对称性（等角性质）知， $Q_{1}P$ 恒过定点 $E(4,0)$ ， $S_{\triangle PFQ_{1}} = S_{\triangle Q_{1}EF} - S_{\triangle PEF} = \frac{1}{2}|EF| |y_{1} + y_{2}| = \frac{|9t|}{3t^{2} + 4} \leqslant \frac{3\sqrt{3}}{4}$ .

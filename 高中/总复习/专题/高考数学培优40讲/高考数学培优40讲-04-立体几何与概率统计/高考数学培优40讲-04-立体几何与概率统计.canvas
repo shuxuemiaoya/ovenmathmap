@@ -1,0 +1,866 @@
+{
+  "nodes": [
+    {
+      "id": "ec64184d133d4373",
+      "type": "group",
+      "label": "第34讲 立体几何中的截面及空间轨迹问题",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "266f72281588fb04",
+      "type": "text",
+      "text": "[34.1 截面问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC34%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%88%AA%E9%9D%A2%E5%8F%8A%E7%A9%BA%E9%97%B4%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/34_1_%E6%88%AA%E9%9D%A2%E9%97%AE%E9%A2%98/34_1_%E6%88%AA%E9%9D%A2%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "2c11ec4495cb39d0",
+      "type": "text",
+      "text": "[34.2 空间轨迹问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC34%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%88%AA%E9%9D%A2%E5%8F%8A%E7%A9%BA%E9%97%B4%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/34_2_%E7%A9%BA%E9%97%B4%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/34_2_%E7%A9%BA%E9%97%B4%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 340,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "8926b82436c340c7",
+      "type": "text",
+      "text": "[训练 34](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC34%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%88%AA%E9%9D%A2%E5%8F%8A%E7%A9%BA%E9%97%B4%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83_34/%E8%AE%AD%E7%BB%83_34.md)",
+      "role": "hierarchy",
+      "x": 680,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "fd0ca90dc6175762",
+      "type": "group",
+      "label": "第35讲 立体几何中的折展问题及空间动态最值问题",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "56eb4a22eed139dc",
+      "type": "text",
+      "text": "[35.1 折叠问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC35%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%8A%98%E5%B1%95%E9%97%AE%E9%A2%98%E5%8F%8A%E7%A9%BA%E9%97%B4%E5%8A%A8%E6%80%81%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/35_1_%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/35_1_%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 1020,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "2a4758390e46b2fb",
+      "type": "text",
+      "text": "[35.2 展开问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC35%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%8A%98%E5%B1%95%E9%97%AE%E9%A2%98%E5%8F%8A%E7%A9%BA%E9%97%B4%E5%8A%A8%E6%80%81%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/35_2_%E5%B1%95%E5%BC%80%E9%97%AE%E9%A2%98/35_2_%E5%B1%95%E5%BC%80%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 1360,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "380965990c4c7400",
+      "type": "text",
+      "text": "[35.3 动态几何量的变化趋势](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC35%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%8A%98%E5%B1%95%E9%97%AE%E9%A2%98%E5%8F%8A%E7%A9%BA%E9%97%B4%E5%8A%A8%E6%80%81%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/35_3_%E5%8A%A8%E6%80%81%E5%87%A0%E4%BD%95%E9%87%8F%E7%9A%84%E5%8F%98%E5%8C%96%E8%B6%8B%E5%8A%BF/35_3_%E5%8A%A8%E6%80%81%E5%87%A0%E4%BD%95%E9%87%8F%E7%9A%84%E5%8F%98%E5%8C%96%E8%B6%8B%E5%8A%BF.md)",
+      "role": "hierarchy",
+      "x": 1700,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "396e2751009d7a84",
+      "type": "text",
+      "text": "[训练 35](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC35%E8%AE%B2_%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%AD%E7%9A%84%E6%8A%98%E5%B1%95%E9%97%AE%E9%A2%98%E5%8F%8A%E7%A9%BA%E9%97%B4%E5%8A%A8%E6%80%81%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83_35/%E8%AE%AD%E7%BB%83_35.md)",
+      "role": "hierarchy",
+      "x": 2040,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "cf2cb43ead548286",
+      "type": "group",
+      "label": "第36讲 球体及几何体模型应用",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "10fd4a80420c32cc",
+      "type": "text",
+      "text": "[柱体外接球问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E6%9F%B1%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/%E6%9F%B1%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 2380,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "6f475cbbe084caeb",
+      "type": "text",
+      "text": "[36.1 长方体模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E6%9F%B1%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_1_%E9%95%BF%E6%96%B9%E4%BD%93%E6%A8%A1%E5%9E%8B/36_1_%E9%95%BF%E6%96%B9%E4%BD%93%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "a285a764958b5af1",
+      "type": "text",
+      "text": "[36.2 汉堡模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E6%9F%B1%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_2_%E6%B1%89%E5%A0%A1%E6%A8%A1%E5%9E%8B/36_2_%E6%B1%89%E5%A0%A1%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 340,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "ea72b5a6e3fb2a1f",
+      "type": "text",
+      "text": "[锥体外接球问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 2720,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "9d0d1e9fcfa475d5",
+      "type": "text",
+      "text": "[36.3 墙角模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_3_%E5%A2%99%E8%A7%92%E6%A8%A1%E5%9E%8B/36_3_%E5%A2%99%E8%A7%92%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 680,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "830cbca992064014",
+      "type": "text",
+      "text": "[36.4 对棱相等模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_4_%E5%AF%B9%E6%A3%B1%E7%9B%B8%E7%AD%89%E6%A8%A1%E5%9E%8B/36_4_%E5%AF%B9%E6%A3%B1%E7%9B%B8%E7%AD%89%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 1020,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "cc01719d4020128f",
+      "type": "text",
+      "text": "[36.5 切瓜模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_5_%E5%88%87%E7%93%9C%E6%A8%A1%E5%9E%8B/36_5_%E5%88%87%E7%93%9C%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 1360,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "4e67cd3a2bbf62d3",
+      "type": "text",
+      "text": "[36.6 垂面模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_6_%E5%9E%82%E9%9D%A2%E6%A8%A1%E5%9E%8B/36_6_%E5%9E%82%E9%9D%A2%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 1700,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "981021a543ef2554",
+      "type": "text",
+      "text": "[36.7 折叠问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E9%94%A5%E4%BD%93%E5%A4%96%E6%8E%A5%E7%90%83%E9%97%AE%E9%A2%98/36_7_%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98/36_7_%E6%8A%98%E5%8F%A0%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 2040,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "ab39b6a8e9c6a555",
+      "type": "text",
+      "text": "[内切球问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E5%86%85%E5%88%87%E7%90%83%E9%97%AE%E9%A2%98/%E5%86%85%E5%88%87%E7%90%83%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 3060,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "5f359c8a4bf25ac1",
+      "type": "text",
+      "text": "[36.8 内切球相关量的计算](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E5%86%85%E5%88%87%E7%90%83%E9%97%AE%E9%A2%98/36_8_%E5%86%85%E5%88%87%E7%90%83%E7%9B%B8%E5%85%B3%E9%87%8F%E7%9A%84%E8%AE%A1%E7%AE%97/36_8_%E5%86%85%E5%88%87%E7%90%83%E7%9B%B8%E5%85%B3%E9%87%8F%E7%9A%84%E8%AE%A1%E7%AE%97.md)",
+      "role": "hierarchy",
+      "x": 2380,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "d356f63802e05ab1",
+      "type": "text",
+      "text": "[几何体模型应用问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E9%97%AE%E9%A2%98/%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 3400,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "e5d1d88636304203",
+      "type": "text",
+      "text": "[36.9 几何体模型的应用](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E9%97%AE%E9%A2%98/36_9_%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BA%94%E7%94%A8/36_9_%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "role": "hierarchy",
+      "x": 2720,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "41125a6e57439cbb",
+      "type": "text",
+      "text": "[训练 36](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC36%E8%AE%B2_%E7%90%83%E4%BD%93%E5%8F%8A%E5%87%A0%E4%BD%95%E4%BD%93%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8/%E8%AE%AD%E7%BB%83_36/%E8%AE%AD%E7%BB%83_36.md)",
+      "role": "hierarchy",
+      "x": 3740,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "788940d236791a84",
+      "type": "group",
+      "label": "第37讲 四大计数原理的应用",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "bc2f83622f88723d",
+      "type": "text",
+      "text": "[加法原理与乘法原理](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%8A%A0%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B9%98%E6%B3%95%E5%8E%9F%E7%90%86/%E5%8A%A0%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B9%98%E6%B3%95%E5%8E%9F%E7%90%86.md)",
+      "role": "hierarchy",
+      "x": 4080,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "305f0039537701eb",
+      "type": "text",
+      "text": "[37.1 代数计数](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%8A%A0%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B9%98%E6%B3%95%E5%8E%9F%E7%90%86/37_1_%E4%BB%A3%E6%95%B0%E8%AE%A1%E6%95%B0/37_1_%E4%BB%A3%E6%95%B0%E8%AE%A1%E6%95%B0.md)",
+      "role": "hierarchy",
+      "x": 3060,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "21ad3f8eaa647aa0",
+      "type": "text",
+      "text": "[37.2 几何计数](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%8A%A0%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B9%98%E6%B3%95%E5%8E%9F%E7%90%86/37_2_%E5%87%A0%E4%BD%95%E8%AE%A1%E6%95%B0/37_2_%E5%87%A0%E4%BD%95%E8%AE%A1%E6%95%B0.md)",
+      "role": "hierarchy",
+      "x": 3400,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "591edf3f37e7d553",
+      "type": "text",
+      "text": "[37.3 涂色问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%8A%A0%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B9%98%E6%B3%95%E5%8E%9F%E7%90%86/37_3_%E6%B6%82%E8%89%B2%E9%97%AE%E9%A2%98/37_3_%E6%B6%82%E8%89%B2%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 3740,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "4b2a94271ef055a0",
+      "type": "text",
+      "text": "[容斥原理](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86/%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86.md)",
+      "role": "hierarchy",
+      "x": 4420,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "be18bccae27198bd",
+      "type": "text",
+      "text": "[37.4 客斥原理的应用](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86/37_4_%E5%AE%A2%E6%96%A5%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/37_4_%E5%AE%A2%E6%96%A5%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "role": "hierarchy",
+      "x": 4080,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "1a4083c5affd81ad",
+      "type": "text",
+      "text": "[37.5 筛法公式的应用](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86/37_5_%E7%AD%9B%E6%B3%95%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8/37_5_%E7%AD%9B%E6%B3%95%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "role": "hierarchy",
+      "x": 4420,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "06d1d6c853723ff1",
+      "type": "text",
+      "text": "[抽屉原理](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E6%8A%BD%E5%B1%89%E5%8E%9F%E7%90%86/%E6%8A%BD%E5%B1%89%E5%8E%9F%E7%90%86.md)",
+      "role": "hierarchy",
+      "x": 4760,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "e01dc8115a488305",
+      "type": "text",
+      "text": "[37.6 代数问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E6%8A%BD%E5%B1%89%E5%8E%9F%E7%90%86/37_6_%E4%BB%A3%E6%95%B0%E9%97%AE%E9%A2%98/37_6_%E4%BB%A3%E6%95%B0%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 4760,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "80d2767382dc9321",
+      "type": "text",
+      "text": "[37.7 同色三角形模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E6%8A%BD%E5%B1%89%E5%8E%9F%E7%90%86/37_7_%E5%90%8C%E8%89%B2%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B/37_7_%E5%90%8C%E8%89%B2%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B.md)",
+      "role": "hierarchy",
+      "x": 5100,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "43e6f53993cb227c",
+      "type": "text",
+      "text": "[训练 37](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC37%E8%AE%B2_%E5%9B%9B%E5%A4%A7%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/%E8%AE%AD%E7%BB%83_37/%E8%AE%AD%E7%BB%83_37.md)",
+      "role": "hierarchy",
+      "x": 5100,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "015a5fd694913d64",
+      "type": "group",
+      "label": "第38讲 排列组合中的转化与化归思想",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "43712048389f5677",
+      "type": "text",
+      "text": "[38.1 错位排列](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC38%E8%AE%B2_%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E4%B8%AD%E7%9A%84%E8%BD%AC%E5%8C%96%E4%B8%8E%E5%8C%96%E5%BD%92%E6%80%9D%E6%83%B3/38_1_%E9%94%99%E4%BD%8D%E6%8E%92%E5%88%97/38_1_%E9%94%99%E4%BD%8D%E6%8E%92%E5%88%97.md)",
+      "role": "hierarchy",
+      "x": 5440,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "8ceecbf6ade86276",
+      "type": "text",
+      "text": "[38.2 圆排列与项链排列](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC38%E8%AE%B2_%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E4%B8%AD%E7%9A%84%E8%BD%AC%E5%8C%96%E4%B8%8E%E5%8C%96%E5%BD%92%E6%80%9D%E6%83%B3/38_2_%E5%9C%86%E6%8E%92%E5%88%97%E4%B8%8E%E9%A1%B9%E9%93%BE%E6%8E%92%E5%88%97/38_2_%E5%9C%86%E6%8E%92%E5%88%97%E4%B8%8E%E9%A1%B9%E9%93%BE%E6%8E%92%E5%88%97.md)",
+      "role": "hierarchy",
+      "x": 5780,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "787621040a713e68",
+      "type": "text",
+      "text": "[38.3 相异元素的可重组合](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC38%E8%AE%B2_%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E4%B8%AD%E7%9A%84%E8%BD%AC%E5%8C%96%E4%B8%8E%E5%8C%96%E5%BD%92%E6%80%9D%E6%83%B3/38_3_%E7%9B%B8%E5%BC%82%E5%85%83%E7%B4%A0%E7%9A%84%E5%8F%AF%E9%87%8D%E7%BB%84%E5%90%88/38_3_%E7%9B%B8%E5%BC%82%E5%85%83%E7%B4%A0%E7%9A%84%E5%8F%AF%E9%87%8D%E7%BB%84%E5%90%88.md)",
+      "role": "hierarchy",
+      "x": 6120,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "cc479834e1694412",
+      "type": "text",
+      "text": "[训练 38](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC38%E8%AE%B2_%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E4%B8%AD%E7%9A%84%E8%BD%AC%E5%8C%96%E4%B8%8E%E5%8C%96%E5%BD%92%E6%80%9D%E6%83%B3/%E8%AE%AD%E7%BB%83_38/%E8%AE%AD%E7%BB%83_38.md)",
+      "role": "hierarchy",
+      "x": 6460,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "8ee126415f484c6d",
+      "type": "group",
+      "label": "第39讲 概率统计中的决策问题",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "e87429c6754f3316",
+      "type": "text",
+      "text": "[39.1 小概率事件原理](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC39%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/39_1_%E5%B0%8F%E6%A6%82%E7%8E%87%E4%BA%8B%E4%BB%B6%E5%8E%9F%E7%90%86/39_1_%E5%B0%8F%E6%A6%82%E7%8E%87%E4%BA%8B%E4%BB%B6%E5%8E%9F%E7%90%86.md)",
+      "role": "hierarchy",
+      "x": 6800,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "82317b386f5342e1",
+      "type": "text",
+      "text": "[39.2 依据概率、期望、方差决策](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC39%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/39_2_%E4%BE%9D%E6%8D%AE%E6%A6%82%E7%8E%87_%E6%9C%9F%E6%9C%9B_%E6%96%B9%E5%B7%AE%E5%86%B3%E7%AD%96/39_2_%E4%BE%9D%E6%8D%AE%E6%A6%82%E7%8E%87_%E6%9C%9F%E6%9C%9B_%E6%96%B9%E5%B7%AE%E5%86%B3%E7%AD%96.md)",
+      "role": "hierarchy",
+      "x": 7140,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "4f7ac73d7328b6e0",
+      "type": "text",
+      "text": "[39.3 正态分布决策](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC39%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/39_3_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%86%B3%E7%AD%96/39_3_%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%86%B3%E7%AD%96.md)",
+      "role": "hierarchy",
+      "x": 7480,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "c63d6dc0604ef25e",
+      "type": "text",
+      "text": "[39.4 构造新统计量做出决策](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC39%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/39_4_%E6%9E%84%E9%80%A0%E6%96%B0%E7%BB%9F%E8%AE%A1%E9%87%8F%E5%81%9A%E5%87%BA%E5%86%B3%E7%AD%96/39_4_%E6%9E%84%E9%80%A0%E6%96%B0%E7%BB%9F%E8%AE%A1%E9%87%8F%E5%81%9A%E5%87%BA%E5%86%B3%E7%AD%96.md)",
+      "role": "hierarchy",
+      "x": 7820,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "5ca367942b397287",
+      "type": "text",
+      "text": "[39.5 比赛中的决策问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC39%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/39_5_%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/39_5_%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98.md)",
+      "role": "hierarchy",
+      "x": 8160,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "9ea5cea5e6f6e2e4",
+      "type": "text",
+      "text": "[训练 39](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC39%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E9%97%AE%E9%A2%98/%E8%AE%AD%E7%BB%83_39/%E8%AE%AD%E7%BB%83_39.md)",
+      "role": "hierarchy",
+      "x": 8500,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "e83e160962fa2c8f",
+      "type": "group",
+      "label": "第40讲 概率统计核心概念与数学建模思想在高考中的应用",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f29b60ab435ee467",
+      "type": "text",
+      "text": "[概率统计中的核心概念和性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8.md)",
+      "role": "hierarchy",
+      "x": 8840,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "301096c1670994b2",
+      "type": "text",
+      "text": "[40.1 通过严谨量化判断独立性](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8/40_1_%E9%80%9A%E8%BF%87%E4%B8%A5%E8%B0%A8%E9%87%8F%E5%8C%96%E5%88%A4%E6%96%AD%E7%8B%AC%E7%AB%8B%E6%80%A7/40_1_%E9%80%9A%E8%BF%87%E4%B8%A5%E8%B0%A8%E9%87%8F%E5%8C%96%E5%88%A4%E6%96%AD%E7%8B%AC%E7%AB%8B%E6%80%A7.md)",
+      "role": "hierarchy",
+      "x": 5440,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "d858ee1eb40a4953",
+      "type": "text",
+      "text": "[40.2 条件概率的计算](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8/40_2_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E8%AE%A1%E7%AE%97/40_2_%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E8%AE%A1%E7%AE%97.md)",
+      "role": "hierarchy",
+      "x": 5780,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "12f46201b562410c",
+      "type": "text",
+      "text": "[40.3 事件互斥性的判断](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8/40_3_%E4%BA%8B%E4%BB%B6%E4%BA%92%E6%96%A5%E6%80%A7%E7%9A%84%E5%88%A4%E6%96%AD/40_3_%E4%BA%8B%E4%BB%B6%E4%BA%92%E6%96%A5%E6%80%A7%E7%9A%84%E5%88%A4%E6%96%AD.md)",
+      "role": "hierarchy",
+      "x": 6120,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "b04b1bdca7070cb9",
+      "type": "text",
+      "text": "[40.4 等可能性的深度理解](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8/40_4_%E7%AD%89%E5%8F%AF%E8%83%BD%E6%80%A7%E7%9A%84%E6%B7%B1%E5%BA%A6%E7%90%86%E8%A7%A3/40_4_%E7%AD%89%E5%8F%AF%E8%83%BD%E6%80%A7%E7%9A%84%E6%B7%B1%E5%BA%A6%E7%90%86%E8%A7%A3.md)",
+      "role": "hierarchy",
+      "x": 6460,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "bf1c9be8c22c7948",
+      "type": "text",
+      "text": "[40.5 抽样方法与数字特征](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8/40_5_%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95%E4%B8%8E%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81/40_5_%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95%E4%B8%8E%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81.md)",
+      "role": "hierarchy",
+      "x": 6800,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "583aacf8dacfc175",
+      "type": "text",
+      "text": "[概率中的数学建模思想](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3/%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3.md)",
+      "role": "hierarchy",
+      "x": 9180,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "798a4fcfe6a63c40",
+      "type": "text",
+      "text": "[40.6 概率中的函数思想](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3/40_6_%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E6%80%9D%E6%83%B3/40_6_%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E6%80%9D%E6%83%B3.md)",
+      "role": "hierarchy",
+      "x": 7140,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "88d09fa66788cf52",
+      "type": "text",
+      "text": "[40.7 概率中的数列思想](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3/40_7_%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E6%95%B0%E5%88%97%E6%80%9D%E6%83%B3/40_7_%E6%A6%82%E7%8E%87%E4%B8%AD%E7%9A%84%E6%95%B0%E5%88%97%E6%80%9D%E6%83%B3.md)",
+      "role": "hierarchy",
+      "x": 7480,
+      "y": 660,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "ff89666eb6f968ad",
+      "type": "text",
+      "text": "[训练 40](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-04-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E4%B8%8E%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1/%E7%AC%AC40%E8%AE%B2_%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%80%9D%E6%83%B3%E5%9C%A8%E9%AB%98%E8%80%83%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/%E8%AE%AD%E7%BB%83_40/%E8%AE%AD%E7%BB%83_40.md)",
+      "role": "hierarchy",
+      "x": 9520,
+      "y": 440,
+      "width": 300,
+      "height": 90
+    },
+    {
+      "id": "564081b18a12a374",
+      "type": "group",
+      "label": "参考答案",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": [
+    {
+      "id": "49f41b6cbfc7d867",
+      "fromNode": "ec64184d133d4373",
+      "toNode": "266f72281588fb04"
+    },
+    {
+      "id": "71aec70b88d64762",
+      "fromNode": "ec64184d133d4373",
+      "toNode": "2c11ec4495cb39d0"
+    },
+    {
+      "id": "2f511c1d2b8c823b",
+      "fromNode": "ec64184d133d4373",
+      "toNode": "8926b82436c340c7"
+    },
+    {
+      "id": "356826afdd6692ea",
+      "fromNode": "fd0ca90dc6175762",
+      "toNode": "56eb4a22eed139dc"
+    },
+    {
+      "id": "a96e5e7fe5cdac7a",
+      "fromNode": "fd0ca90dc6175762",
+      "toNode": "2a4758390e46b2fb"
+    },
+    {
+      "id": "61ad44f21ba10e81",
+      "fromNode": "fd0ca90dc6175762",
+      "toNode": "380965990c4c7400"
+    },
+    {
+      "id": "ef340add74cef01d",
+      "fromNode": "fd0ca90dc6175762",
+      "toNode": "396e2751009d7a84"
+    },
+    {
+      "id": "188220cb5018292c",
+      "fromNode": "cf2cb43ead548286",
+      "toNode": "10fd4a80420c32cc"
+    },
+    {
+      "id": "d9ae4cf262fdbc18",
+      "fromNode": "10fd4a80420c32cc",
+      "toNode": "6f475cbbe084caeb"
+    },
+    {
+      "id": "0167ee5cfbab8969",
+      "fromNode": "10fd4a80420c32cc",
+      "toNode": "a285a764958b5af1"
+    },
+    {
+      "id": "e475704dc8cbb9bd",
+      "fromNode": "cf2cb43ead548286",
+      "toNode": "ea72b5a6e3fb2a1f"
+    },
+    {
+      "id": "6c38a17cfb99e267",
+      "fromNode": "ea72b5a6e3fb2a1f",
+      "toNode": "9d0d1e9fcfa475d5"
+    },
+    {
+      "id": "44889a410536d41b",
+      "fromNode": "ea72b5a6e3fb2a1f",
+      "toNode": "830cbca992064014"
+    },
+    {
+      "id": "a75b363af3842569",
+      "fromNode": "ea72b5a6e3fb2a1f",
+      "toNode": "cc01719d4020128f"
+    },
+    {
+      "id": "66d9f20de5c81f51",
+      "fromNode": "ea72b5a6e3fb2a1f",
+      "toNode": "4e67cd3a2bbf62d3"
+    },
+    {
+      "id": "bbf037481f011a59",
+      "fromNode": "ea72b5a6e3fb2a1f",
+      "toNode": "981021a543ef2554"
+    },
+    {
+      "id": "2932d2eda23ec4dc",
+      "fromNode": "cf2cb43ead548286",
+      "toNode": "ab39b6a8e9c6a555"
+    },
+    {
+      "id": "66c6574c570ed827",
+      "fromNode": "ab39b6a8e9c6a555",
+      "toNode": "5f359c8a4bf25ac1"
+    },
+    {
+      "id": "3a692612c11b3dc8",
+      "fromNode": "cf2cb43ead548286",
+      "toNode": "d356f63802e05ab1"
+    },
+    {
+      "id": "0b7b2311f029542a",
+      "fromNode": "d356f63802e05ab1",
+      "toNode": "e5d1d88636304203"
+    },
+    {
+      "id": "94a806923f0cb731",
+      "fromNode": "cf2cb43ead548286",
+      "toNode": "41125a6e57439cbb"
+    },
+    {
+      "id": "d941de1323e659fa",
+      "fromNode": "788940d236791a84",
+      "toNode": "bc2f83622f88723d"
+    },
+    {
+      "id": "861848dd70eac302",
+      "fromNode": "bc2f83622f88723d",
+      "toNode": "305f0039537701eb"
+    },
+    {
+      "id": "093674ae5dd1edd8",
+      "fromNode": "bc2f83622f88723d",
+      "toNode": "21ad3f8eaa647aa0"
+    },
+    {
+      "id": "d4d73a3c8fb8d04a",
+      "fromNode": "bc2f83622f88723d",
+      "toNode": "591edf3f37e7d553"
+    },
+    {
+      "id": "f7a52211317d3247",
+      "fromNode": "788940d236791a84",
+      "toNode": "4b2a94271ef055a0"
+    },
+    {
+      "id": "3a6979d63e722fe0",
+      "fromNode": "4b2a94271ef055a0",
+      "toNode": "be18bccae27198bd"
+    },
+    {
+      "id": "eb222012f2334fd8",
+      "fromNode": "4b2a94271ef055a0",
+      "toNode": "1a4083c5affd81ad"
+    },
+    {
+      "id": "0ada7f8b23d56ea8",
+      "fromNode": "788940d236791a84",
+      "toNode": "06d1d6c853723ff1"
+    },
+    {
+      "id": "ae9501a1fd299cf8",
+      "fromNode": "06d1d6c853723ff1",
+      "toNode": "e01dc8115a488305"
+    },
+    {
+      "id": "ed329854116e8fe9",
+      "fromNode": "06d1d6c853723ff1",
+      "toNode": "80d2767382dc9321"
+    },
+    {
+      "id": "4490f104327643ff",
+      "fromNode": "788940d236791a84",
+      "toNode": "43e6f53993cb227c"
+    },
+    {
+      "id": "5c654ed4b7033aa7",
+      "fromNode": "015a5fd694913d64",
+      "toNode": "43712048389f5677"
+    },
+    {
+      "id": "083c6d5dee3a7472",
+      "fromNode": "015a5fd694913d64",
+      "toNode": "8ceecbf6ade86276"
+    },
+    {
+      "id": "22b48006a6c22b6f",
+      "fromNode": "015a5fd694913d64",
+      "toNode": "787621040a713e68"
+    },
+    {
+      "id": "c8ffc66832ac962b",
+      "fromNode": "015a5fd694913d64",
+      "toNode": "cc479834e1694412"
+    },
+    {
+      "id": "b82efd61b479b61f",
+      "fromNode": "8ee126415f484c6d",
+      "toNode": "e87429c6754f3316"
+    },
+    {
+      "id": "d08c1352ef8ecfa7",
+      "fromNode": "8ee126415f484c6d",
+      "toNode": "82317b386f5342e1"
+    },
+    {
+      "id": "94b38d49fa57a2e9",
+      "fromNode": "8ee126415f484c6d",
+      "toNode": "4f7ac73d7328b6e0"
+    },
+    {
+      "id": "16281c1b932266ee",
+      "fromNode": "8ee126415f484c6d",
+      "toNode": "c63d6dc0604ef25e"
+    },
+    {
+      "id": "813cc61821a0eea1",
+      "fromNode": "8ee126415f484c6d",
+      "toNode": "5ca367942b397287"
+    },
+    {
+      "id": "06fe17c1309908e6",
+      "fromNode": "8ee126415f484c6d",
+      "toNode": "9ea5cea5e6f6e2e4"
+    },
+    {
+      "id": "18283ad0cd480b28",
+      "fromNode": "e83e160962fa2c8f",
+      "toNode": "f29b60ab435ee467"
+    },
+    {
+      "id": "590e961f1577c466",
+      "fromNode": "f29b60ab435ee467",
+      "toNode": "301096c1670994b2"
+    },
+    {
+      "id": "903972c7e575dff6",
+      "fromNode": "f29b60ab435ee467",
+      "toNode": "d858ee1eb40a4953"
+    },
+    {
+      "id": "c80035ffe2cad165",
+      "fromNode": "f29b60ab435ee467",
+      "toNode": "12f46201b562410c"
+    },
+    {
+      "id": "62e78dfb9f8b22c0",
+      "fromNode": "f29b60ab435ee467",
+      "toNode": "b04b1bdca7070cb9"
+    },
+    {
+      "id": "b5938b82712affaf",
+      "fromNode": "f29b60ab435ee467",
+      "toNode": "bf1c9be8c22c7948"
+    },
+    {
+      "id": "8d8b0ef1ae96dea7",
+      "fromNode": "e83e160962fa2c8f",
+      "toNode": "583aacf8dacfc175"
+    },
+    {
+      "id": "44171186ca9adf6f",
+      "fromNode": "583aacf8dacfc175",
+      "toNode": "798a4fcfe6a63c40"
+    },
+    {
+      "id": "32e1e438c18837af",
+      "fromNode": "583aacf8dacfc175",
+      "toNode": "88d09fa66788cf52"
+    },
+    {
+      "id": "73bd6455e52bcaf7",
+      "fromNode": "e83e160962fa2c8f",
+      "toNode": "ff89666eb6f968ad"
+    }
+  ]
+}
