@@ -1,0 +1,1311 @@
+{
+  "nodes": [
+    {
+      "id": "27b3ae162c718be7",
+      "type": "group",
+      "label": "第15讲",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "4004603f57d2fddd",
+      "type": "group",
+      "label": "第16讲",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8e3d73d800bd4027",
+      "type": "group",
+      "label": "第17讲",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "4c413ce85eed3944",
+      "type": "group",
+      "label": "第20讲",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "883e4abdccf74540",
+      "type": "group",
+      "label": "第21讲",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0803412a25188b2d",
+      "type": "group",
+      "label": "第22讲",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "8eafa50580382893",
+      "type": "text",
+      "text": "[15.1 以向量为背景的转化](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/01_%E7%AC%AC15%E8%AE%B2/15_1_%E4%BB%A5%E5%90%91%E9%87%8F%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%BD%AC%E5%8C%96/15_1_%E4%BB%A5%E5%90%91%E9%87%8F%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%BD%AC%E5%8C%96.md)",
+      "x": 0,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "58958f161c4e56e5",
+      "type": "text",
+      "text": "[15.2 以斜率为背景的转化](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/01_%E7%AC%AC15%E8%AE%B2/15_2_%E4%BB%A5%E6%96%9C%E7%8E%87%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%BD%AC%E5%8C%96/15_2_%E4%BB%A5%E6%96%9C%E7%8E%87%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%BD%AC%E5%8C%96.md)",
+      "x": 340,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ce7b668a9dd36e21",
+      "type": "text",
+      "text": "[15.3 以几何图形为背景的转化](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/01_%E7%AC%AC15%E8%AE%B2/15_3_%E4%BB%A5%E5%87%A0%E4%BD%95%E5%9B%BE%E5%BD%A2%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%BD%AC%E5%8C%96/15_3_%E4%BB%A5%E5%87%A0%E4%BD%95%E5%9B%BE%E5%BD%A2%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%BD%AC%E5%8C%96.md)",
+      "x": 680,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "331e900067095194",
+      "type": "text",
+      "text": "[16.1 动点在已知轨迹上求最值](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/02_%E7%AC%AC16%E8%AE%B2/16_1_%E5%8A%A8%E7%82%B9%E5%9C%A8%E5%B7%B2%E7%9F%A5%E8%BD%A8%E8%BF%B9%E4%B8%8A%E6%B1%82%E6%9C%80%E5%80%BC/16_1_%E5%8A%A8%E7%82%B9%E5%9C%A8%E5%B7%B2%E7%9F%A5%E8%BD%A8%E8%BF%B9%E4%B8%8A%E6%B1%82%E6%9C%80%E5%80%BC.md)",
+      "x": 1020,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0b2380187ba47637",
+      "type": "text",
+      "text": "[16.2 模型一: $90^{\\circ}$ 的圆周角](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/02_%E7%AC%AC16%E8%AE%B2/16_2_%E6%A8%A1%E5%9E%8B%E4%B8%80___90___circ___%E7%9A%84%E5%9C%86%E5%91%A8%E8%A7%92/16_2_%E6%A8%A1%E5%9E%8B%E4%B8%80___90___circ___%E7%9A%84%E5%9C%86%E5%91%A8%E8%A7%92.md)",
+      "x": 1360,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a1140472475a1894",
+      "type": "text",
+      "text": "[16.3 模型二:蒙日圆](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/02_%E7%AC%AC16%E8%AE%B2/16_3_%E6%A8%A1%E5%9E%8B%E4%BA%8C_%E8%92%99%E6%97%A5%E5%9C%86/16_3_%E6%A8%A1%E5%9E%8B%E4%BA%8C_%E8%92%99%E6%97%A5%E5%9C%86.md)",
+      "x": 1700,
+      "y": 850,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "479e2620b65362bf",
+      "type": "text",
+      "text": "[16.4 模型三:阿波罗尼斯圆](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/02_%E7%AC%AC16%E8%AE%B2/16_4_%E6%A8%A1%E5%9E%8B%E4%B8%89_%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86/16_4_%E6%A8%A1%E5%9E%8B%E4%B8%89_%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86.md)",
+      "x": 0,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0663851bc7a2af81",
+      "type": "text",
+      "text": "[16.5 模型四:矩形性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/02_%E7%AC%AC16%E8%AE%B2/16_5_%E6%A8%A1%E5%9E%8B%E5%9B%9B_%E7%9F%A9%E5%BD%A2%E6%80%A7%E8%B4%A8/16_5_%E6%A8%A1%E5%9E%8B%E5%9B%9B_%E7%9F%A9%E5%BD%A2%E6%80%A7%E8%B4%A8.md)",
+      "x": 340,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "78abeca531eb32b3",
+      "type": "text",
+      "text": "[17.1 圆锥曲线的极坐标方程](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/17_1_%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%9E%81%E5%9D%90%E6%A0%87%E6%96%B9%E7%A8%8B/17_1_%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%9E%81%E5%9D%90%E6%A0%87%E6%96%B9%E7%A8%8B.md)",
+      "x": 680,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d460d243da0b2272",
+      "type": "text",
+      "text": "[17.2 焦半径公式的应用](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/17_2_%E7%84%A6%E5%8D%8A%E5%BE%84%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8/17_2_%E7%84%A6%E5%8D%8A%E5%BE%84%E5%85%AC%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 1020,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b34df7d5967adbcf",
+      "type": "text",
+      "text": "[17.3 焦半径、焦点弦的性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/17_3_%E7%84%A6%E5%8D%8A%E5%BE%84_%E7%84%A6%E7%82%B9%E5%BC%A6%E7%9A%84%E6%80%A7%E8%B4%A8/17_3_%E7%84%A6%E5%8D%8A%E5%BE%84_%E7%84%A6%E7%82%B9%E5%BC%A6%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1360,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6fc90685723ebd36",
+      "type": "text",
+      "text": "[1. 焦半径的性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/1__%E7%84%A6%E5%8D%8A%E5%BE%84%E7%9A%84%E6%80%A7%E8%B4%A8/1__%E7%84%A6%E5%8D%8A%E5%BE%84%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 1700,
+      "y": 1000,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "f08b3796f91e93f2",
+      "type": "text",
+      "text": "[2. 焦点弦的性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/2__%E7%84%A6%E7%82%B9%E5%BC%A6%E7%9A%84%E6%80%A7%E8%B4%A8/2__%E7%84%A6%E7%82%B9%E5%BC%A6%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 0,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "20e047b236c6be34",
+      "type": "text",
+      "text": "[17.4 焦点三角形的性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/17_4_%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8/17_4_%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 340,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "394e1a062ea504af",
+      "type": "text",
+      "text": "[17.5 焦半径和焦点弦问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/17_5_%E7%84%A6%E5%8D%8A%E5%BE%84%E5%92%8C%E7%84%A6%E7%82%B9%E5%BC%A6%E9%97%AE%E9%A2%98/17_5_%E7%84%A6%E5%8D%8A%E5%BE%84%E5%92%8C%E7%84%A6%E7%82%B9%E5%BC%A6%E9%97%AE%E9%A2%98.md)",
+      "x": 680,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6291c429c8890f6b",
+      "type": "text",
+      "text": "[1. 圆锥曲线代数形式的焦点弦长](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/1__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%BB%A3%E6%95%B0%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%84%A6%E7%82%B9%E5%BC%A6%E9%95%BF/1__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%BB%A3%E6%95%B0%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%84%A6%E7%82%B9%E5%BC%A6%E9%95%BF.md)",
+      "x": 1020,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "855bc63b431bd837",
+      "type": "text",
+      "text": "[2. 圆锥曲线的几何形式的焦半径公式](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/2__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%87%A0%E4%BD%95%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%84%A6%E5%8D%8A%E5%BE%84%E5%85%AC%E5%BC%8F/2__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%87%A0%E4%BD%95%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%84%A6%E5%8D%8A%E5%BE%84%E5%85%AC%E5%BC%8F.md)",
+      "x": 1360,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2e8a4fa464b64d05",
+      "type": "text",
+      "text": "[3. 圆锥曲线几何形式的焦点弦长](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/3__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%87%A0%E4%BD%95%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%84%A6%E7%82%B9%E5%BC%A6%E9%95%BF/3__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%87%A0%E4%BD%95%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%84%A6%E7%82%B9%E5%BC%A6%E9%95%BF.md)",
+      "x": 1700,
+      "y": 1150,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "7fca65f1861c4973",
+      "type": "text",
+      "text": "[17.6 焦点三角形问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/17_6_%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E9%97%AE%E9%A2%98/17_6_%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2162b44b4795cc60",
+      "type": "text",
+      "text": "[18.1 利用定义与几何性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/18_1_%E5%88%A9%E7%94%A8%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%87%A0%E4%BD%95%E6%80%A7%E8%B4%A8/18_1_%E5%88%A9%E7%94%A8%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%87%A0%E4%BD%95%E6%80%A7%E8%B4%A8.md)",
+      "x": 340,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "5afb83f71b8a57c6",
+      "type": "text",
+      "text": "[18.2 构造齐次式](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/18_2_%E6%9E%84%E9%80%A0%E9%BD%90%E6%AC%A1%E5%BC%8F/18_2_%E6%9E%84%E9%80%A0%E9%BD%90%E6%AC%A1%E5%BC%8F.md)",
+      "x": 680,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1a3df88c3b2825e8",
+      "type": "text",
+      "text": "[18.3 离心率的取值范围](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/18_3_%E7%A6%BB%E5%BF%83%E7%8E%87%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4/18_3_%E7%A6%BB%E5%BF%83%E7%8E%87%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4.md)",
+      "x": 1020,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "21bacb2dc8bef5a4",
+      "type": "text",
+      "text": "[18.4 距离最值问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/18_4_%E8%B7%9D%E7%A6%BB%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/18_4_%E8%B7%9D%E7%A6%BB%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e2ce66208870d104",
+      "type": "text",
+      "text": "[18.5 面积最值问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/18_5_%E9%9D%A2%E7%A7%AF%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/18_5_%E9%9D%A2%E7%A7%AF%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 1700,
+      "y": 1300,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "613d62f05f8b2854",
+      "type": "text",
+      "text": "[18.6 向量相关最值问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/18_6_%E5%90%91%E9%87%8F%E7%9B%B8%E5%85%B3%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98/18_6_%E5%90%91%E9%87%8F%E7%9B%B8%E5%85%B3%E6%9C%80%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 0,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0fac7521e7787c29",
+      "type": "text",
+      "text": "[19.1 设线: 圆锥曲线硬解公式](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_1_%E8%AE%BE%E7%BA%BF__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%A1%AC%E8%A7%A3%E5%85%AC%E5%BC%8F/19_1_%E8%AE%BE%E7%BA%BF__%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%A1%AC%E8%A7%A3%E5%85%AC%E5%BC%8F.md)",
+      "x": 340,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e42f96918a739a84",
+      "type": "text",
+      "text": "[19.2 设点消元](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_2_%E8%AE%BE%E7%82%B9%E6%B6%88%E5%85%83/19_2_%E8%AE%BE%E7%82%B9%E6%B6%88%E5%85%83.md)",
+      "x": 680,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1d6e90522979ee66",
+      "type": "text",
+      "text": "[19.3 对称结构的简化计算](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_3_%E5%AF%B9%E7%A7%B0%E7%BB%93%E6%9E%84%E7%9A%84%E7%AE%80%E5%8C%96%E8%AE%A1%E7%AE%97/19_3_%E5%AF%B9%E7%A7%B0%E7%BB%93%E6%9E%84%E7%9A%84%E7%AE%80%E5%8C%96%E8%AE%A1%E7%AE%97.md)",
+      "x": 1020,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e1386897f724b19a",
+      "type": "text",
+      "text": "[19.4 非对称问题的处理策略](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_4_%E9%9D%9E%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98%E7%9A%84%E5%A4%84%E7%90%86%E7%AD%96%E7%95%A5/19_4_%E9%9D%9E%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98%E7%9A%84%E5%A4%84%E7%90%86%E7%AD%96%E7%95%A5.md)",
+      "x": 1360,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "99fd7ace9b5492cc",
+      "type": "text",
+      "text": "[19.5 应用参数方程简化](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_5_%E5%BA%94%E7%94%A8%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B%E7%AE%80%E5%8C%96/19_5_%E5%BA%94%E7%94%A8%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B%E7%AE%80%E5%8C%96.md)",
+      "x": 1700,
+      "y": 1450,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "c3ffc888b5ccec63",
+      "type": "text",
+      "text": "[19.6 应用极坐标简化](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_6_%E5%BA%94%E7%94%A8%E6%9E%81%E5%9D%90%E6%A0%87%E7%AE%80%E5%8C%96/19_6_%E5%BA%94%E7%94%A8%E6%9E%81%E5%9D%90%E6%A0%87%E7%AE%80%E5%8C%96.md)",
+      "x": 0,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b6cb5596aca023a7",
+      "type": "text",
+      "text": "[一、坐标系的平移](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/%E4%B8%80_%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E5%B9%B3%E7%A7%BB/%E4%B8%80_%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E5%B9%B3%E7%A7%BB.md)",
+      "x": 340,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "87823477f60133f7",
+      "type": "text",
+      "text": "[二、坐标平移齐次化](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/%E4%BA%8C_%E5%9D%90%E6%A0%87%E5%B9%B3%E7%A7%BB%E9%BD%90%E6%AC%A1%E5%8C%96/%E4%BA%8C_%E5%9D%90%E6%A0%87%E5%B9%B3%E7%A7%BB%E9%BD%90%E6%AC%A1%E5%8C%96.md)",
+      "x": 680,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "4f12f59279790672",
+      "type": "text",
+      "text": "[19.7 化齐次求斜率之积](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_7_%E5%8C%96%E9%BD%90%E6%AC%A1%E6%B1%82%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF/19_7_%E5%8C%96%E9%BD%90%E6%AC%A1%E6%B1%82%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF.md)",
+      "x": 1020,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "940b8447e62f10b1",
+      "type": "text",
+      "text": "[19.8 坐标平移化齐次求斜率之积](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_8_%E5%9D%90%E6%A0%87%E5%B9%B3%E7%A7%BB%E5%8C%96%E9%BD%90%E6%AC%A1%E6%B1%82%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF/19_8_%E5%9D%90%E6%A0%87%E5%B9%B3%E7%A7%BB%E5%8C%96%E9%BD%90%E6%AC%A1%E6%B1%82%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF.md)",
+      "x": 1360,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b718d0da2040daa0",
+      "type": "text",
+      "text": "[19.9 坐标平移化齐次求斜率之和](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_9_%E5%9D%90%E6%A0%87%E5%B9%B3%E7%A7%BB%E5%8C%96%E9%BD%90%E6%AC%A1%E6%B1%82%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C/19_9_%E5%9D%90%E6%A0%87%E5%B9%B3%E7%A7%BB%E5%8C%96%E9%BD%90%E6%AC%A1%E6%B1%82%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C.md)",
+      "x": 1700,
+      "y": 1600,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "de894104f84548ba",
+      "type": "text",
+      "text": "[19.10 曲线系及其应用](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/03_%E7%AC%AC17%E8%AE%B2/19_10_%E6%9B%B2%E7%BA%BF%E7%B3%BB%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/19_10_%E6%9B%B2%E7%BA%BF%E7%B3%BB%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)",
+      "x": 0,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "8ceed1a3eaac053d",
+      "type": "text",
+      "text": "[20.1 仿射变换的定义](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/20_1_%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2%E7%9A%84%E5%AE%9A%E4%B9%89/20_1_%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "x": 340,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "acaab4436d6d21aa",
+      "type": "text",
+      "text": "[20.2 仿射变换的基本性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/20_2_%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8/20_2_%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "x": 680,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "04c56aeb05560b0d",
+      "type": "text",
+      "text": "[20.3 常用的仿射变换](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/20_3_%E5%B8%B8%E7%94%A8%E7%9A%84%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2/20_3_%E5%B8%B8%E7%94%A8%E7%9A%84%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2.md)",
+      "x": 1020,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "49dedf1786bc75e8",
+      "type": "text",
+      "text": "[1. 伸缩变换](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/1__%E4%BC%B8%E7%BC%A9%E5%8F%98%E6%8D%A2/1__%E4%BC%B8%E7%BC%A9%E5%8F%98%E6%8D%A2.md)",
+      "x": 1360,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0042d7cc1e65142d",
+      "type": "text",
+      "text": "[2. 伸缩变换下化椭圆为圆](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/2__%E4%BC%B8%E7%BC%A9%E5%8F%98%E6%8D%A2%E4%B8%8B%E5%8C%96%E6%A4%AD%E5%9C%86%E4%B8%BA%E5%9C%86/2__%E4%BC%B8%E7%BC%A9%E5%8F%98%E6%8D%A2%E4%B8%8B%E5%8C%96%E6%A4%AD%E5%9C%86%E4%B8%BA%E5%9C%86.md)",
+      "x": 1700,
+      "y": 1750,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d8d92c64b0394758",
+      "type": "text",
+      "text": "[20.4 仿射变换性质应用](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/20_4_%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2%E6%80%A7%E8%B4%A8%E5%BA%94%E7%94%A8/20_4_%E4%BB%BF%E5%B0%84%E5%8F%98%E6%8D%A2%E6%80%A7%E8%B4%A8%E5%BA%94%E7%94%A8.md)",
+      "x": 0,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "abffa964b68e34d1",
+      "type": "text",
+      "text": "[20.5 化椭圆为圆](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/20_5_%E5%8C%96%E6%A4%AD%E5%9C%86%E4%B8%BA%E5%9C%86/20_5_%E5%8C%96%E6%A4%AD%E5%9C%86%E4%B8%BA%E5%9C%86.md)",
+      "x": 340,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d2a69a096e6d75b5",
+      "type": "text",
+      "text": "[1. 妙解以求弦长为背景的解析几何问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/1__%E5%A6%99%E8%A7%A3%E4%BB%A5%E6%B1%82%E5%BC%A6%E9%95%BF%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E9%97%AE%E9%A2%98/1__%E5%A6%99%E8%A7%A3%E4%BB%A5%E6%B1%82%E5%BC%A6%E9%95%BF%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E9%97%AE%E9%A2%98.md)",
+      "x": 680,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "000204f9c5aaca78",
+      "type": "text",
+      "text": "[2. 妙解以求斜率为背景的解析几何题目](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/2__%E5%A6%99%E8%A7%A3%E4%BB%A5%E6%B1%82%E6%96%9C%E7%8E%87%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E9%A2%98%E7%9B%AE/2__%E5%A6%99%E8%A7%A3%E4%BB%A5%E6%B1%82%E6%96%9C%E7%8E%87%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E9%A2%98%E7%9B%AE.md)",
+      "x": 1020,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "4ab37d6dc53dc76e",
+      "type": "text",
+      "text": "[3. 妙解以求面积最值为背景的解析几何题目](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/3__%E5%A6%99%E8%A7%A3%E4%BB%A5%E6%B1%82%E9%9D%A2%E7%A7%AF%E6%9C%80%E5%80%BC%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E9%A2%98%E7%9B%AE/3__%E5%A6%99%E8%A7%A3%E4%BB%A5%E6%B1%82%E9%9D%A2%E7%A7%AF%E6%9C%80%E5%80%BC%E4%B8%BA%E8%83%8C%E6%99%AF%E7%9A%84%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95%E9%A2%98%E7%9B%AE.md)",
+      "x": 1360,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "7d85569f60844380",
+      "type": "text",
+      "text": "[20.6 化椭圆为单位圆](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/04_%E7%AC%AC20%E8%AE%B2/20_6_%E5%8C%96%E6%A4%AD%E5%9C%86%E4%B8%BA%E5%8D%95%E4%BD%8D%E5%9C%86/20_6_%E5%8C%96%E6%A4%AD%E5%9C%86%E4%B8%BA%E5%8D%95%E4%BD%8D%E5%9C%86.md)",
+      "x": 1700,
+      "y": 1900,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "674e5766698137b2",
+      "type": "text",
+      "text": "[21.1 直线定向或过定点模型及延伸](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_1_%E7%9B%B4%E7%BA%BF%E5%AE%9A%E5%90%91%E6%88%96%E8%BF%87%E5%AE%9A%E7%82%B9%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BB%B6%E4%BC%B8/21_1_%E7%9B%B4%E7%BA%BF%E5%AE%9A%E5%90%91%E6%88%96%E8%BF%87%E5%AE%9A%E7%82%B9%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BB%B6%E4%BC%B8.md)",
+      "x": 0,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "804fb2eb1cb5879d",
+      "type": "text",
+      "text": "[21.1.1 斜率之积为定值](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_1_1_%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF%E4%B8%BA%E5%AE%9A%E5%80%BC/21_1_1_%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF%E4%B8%BA%E5%AE%9A%E5%80%BC.md)",
+      "x": 340,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ecbb038f34d6bd99",
+      "type": "text",
+      "text": "[1. 斜率之积为 -1](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/1__%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF%E4%B8%BA__1/1__%E6%96%9C%E7%8E%87%E4%B9%8B%E7%A7%AF%E4%B8%BA__1.md)",
+      "x": 680,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2f06907ceb27ea08",
+      "type": "text",
+      "text": "[1. 双曲线中的结论](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/1__%E5%8F%8C%E6%9B%B2%E7%BA%BF%E4%B8%AD%E7%9A%84%E7%BB%93%E8%AE%BA/1__%E5%8F%8C%E6%9B%B2%E7%BA%BF%E4%B8%AD%E7%9A%84%E7%BB%93%E8%AE%BA.md)",
+      "x": 1020,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "916628e5e45d1191",
+      "type": "text",
+      "text": "[2. 抛物线中的结论](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/2__%E6%8A%9B%E7%89%A9%E7%BA%BF%E4%B8%AD%E7%9A%84%E7%BB%93%E8%AE%BA/2__%E6%8A%9B%E7%89%A9%E7%BA%BF%E4%B8%AD%E7%9A%84%E7%BB%93%E8%AE%BA.md)",
+      "x": 1360,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "397b75c5ee8457d7",
+      "type": "text",
+      "text": "[21.1.2 斜率之和为定值](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_1_2_%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C%E4%B8%BA%E5%AE%9A%E5%80%BC/21_1_2_%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C%E4%B8%BA%E5%AE%9A%E5%80%BC.md)",
+      "x": 1700,
+      "y": 2050,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "59ded6e37023d7aa",
+      "type": "text",
+      "text": "[1. 斜率之和为 0](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/1__%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C%E4%B8%BA_0/1__%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C%E4%B8%BA_0.md)",
+      "x": 0,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d8a9f06d34f590c8",
+      "type": "text",
+      "text": "[2. 斜率之和不为 0](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/2__%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C%E4%B8%8D%E4%B8%BA_0/2__%E6%96%9C%E7%8E%87%E4%B9%8B%E5%92%8C%E4%B8%8D%E4%B8%BA_0.md)",
+      "x": 340,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "bc928620eba2145a",
+      "type": "text",
+      "text": "[21.2 垂直弦模型及延伸](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_2_%E5%9E%82%E7%9B%B4%E5%BC%A6%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BB%B6%E4%BC%B8/21_2_%E5%9E%82%E7%9B%B4%E5%BC%A6%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BB%B6%E4%BC%B8.md)",
+      "x": 680,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "e535fc4a6532dcee",
+      "type": "text",
+      "text": "[21.3 中点弦模型及延伸](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_3_%E4%B8%AD%E7%82%B9%E5%BC%A6%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BB%B6%E4%BC%B8/21_3_%E4%B8%AD%E7%82%B9%E5%BC%A6%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%BB%B6%E4%BC%B8.md)",
+      "x": 1020,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "66c6ac07d412f6cd",
+      "type": "text",
+      "text": "[21.4 阿基米德三角形及延伸](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_4_%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E5%8F%8A%E5%BB%B6%E4%BC%B8/21_4_%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E5%8F%8A%E5%BB%B6%E4%BC%B8.md)",
+      "x": 1360,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "c4a54dad53de9328",
+      "type": "text",
+      "text": "[21.4.1 阿基米德三角形模型及其性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_4_1_%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/21_4_1_%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.md)",
+      "x": 1700,
+      "y": 2200,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "f35f463b73c0fe4a",
+      "type": "text",
+      "text": "[1. 阿基米德三角形模型](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/1__%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B/1__%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B.md)",
+      "x": 0,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "18db5687be80135e",
+      "type": "text",
+      "text": "[2. 阿基米德三角形的得名及其结论的证明](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/2__%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E5%BE%97%E5%90%8D%E5%8F%8A%E5%85%B6%E7%BB%93%E8%AE%BA%E7%9A%84%E8%AF%81%E6%98%8E/2__%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E5%BE%97%E5%90%8D%E5%8F%8A%E5%85%B6%E7%BB%93%E8%AE%BA%E7%9A%84%E8%AF%81%E6%98%8E.md)",
+      "x": 340,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "ed6a3304d038f3db",
+      "type": "text",
+      "text": "[3. 阿基米德三角形模型的性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/3__%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%80%A7%E8%B4%A8/3__%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "x": 680,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "92f5bc11f71c99be",
+      "type": "text",
+      "text": "[21.4.2 阿基米德三角形模型的拓展](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_4_2_%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8B%93%E5%B1%95/21_4_2_%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8B%93%E5%B1%95.md)",
+      "x": 1020,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "47a01c362911422e",
+      "type": "text",
+      "text": "[21.5 彭色列闭合定理及延伸](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_5_%E5%BD%AD%E8%89%B2%E5%88%97%E9%97%AD%E5%90%88%E5%AE%9A%E7%90%86%E5%8F%8A%E5%BB%B6%E4%BC%B8/21_5_%E5%BD%AD%E8%89%B2%E5%88%97%E9%97%AD%E5%90%88%E5%AE%9A%E7%90%86%E5%8F%8A%E5%BB%B6%E4%BC%B8.md)",
+      "x": 1360,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "fd467eaf8f4495e7",
+      "type": "text",
+      "text": "[21.6 圆锥曲线四点共圆及延伸](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_6_%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%9B%9B%E7%82%B9%E5%85%B1%E5%9C%86%E5%8F%8A%E5%BB%B6%E4%BC%B8/21_6_%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%9B%9B%E7%82%B9%E5%85%B1%E5%9C%86%E5%8F%8A%E5%BB%B6%E4%BC%B8.md)",
+      "x": 1700,
+      "y": 2350,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "34cfaa6916e8db19",
+      "type": "text",
+      "text": "[21.6.1 重要性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_6_1_%E9%87%8D%E8%A6%81%E6%80%A7%E8%B4%A8/21_6_1_%E9%87%8D%E8%A6%81%E6%80%A7%E8%B4%A8.md)",
+      "x": 0,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "912b2bcbd8eee16e",
+      "type": "text",
+      "text": "[21.6.2 常用方法](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/05_%E7%AC%AC21%E8%AE%B2/21_6_2_%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/21_6_2_%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)",
+      "x": 340,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "2e1193063a0d677c",
+      "type": "text",
+      "text": "[22.1 切线与切点弦问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/22_1_%E5%88%87%E7%BA%BF%E4%B8%8E%E5%88%87%E7%82%B9%E5%BC%A6%E9%97%AE%E9%A2%98/22_1_%E5%88%87%E7%BA%BF%E4%B8%8E%E5%88%87%E7%82%B9%E5%BC%A6%E9%97%AE%E9%A2%98.md)",
+      "x": 680,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "a166850203a32c0f",
+      "type": "text",
+      "text": "[一、圆锥曲线中的切线与切点弦](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/%E4%B8%80_%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%B8%AD%E7%9A%84%E5%88%87%E7%BA%BF%E4%B8%8E%E5%88%87%E7%82%B9%E5%BC%A6/%E4%B8%80_%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%B8%AD%E7%9A%84%E5%88%87%E7%BA%BF%E4%B8%8E%E5%88%87%E7%82%B9%E5%BC%A6.md)",
+      "x": 1020,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "81a89abf16fbfa25",
+      "type": "text",
+      "text": "[1. 点在圆锥曲线上的切线方程](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/1__%E7%82%B9%E5%9C%A8%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%B8%8A%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B/1__%E7%82%B9%E5%9C%A8%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%B8%8A%E7%9A%84%E5%88%87%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 1360,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "66931e01dd307fa2",
+      "type": "text",
+      "text": "[2. 点在圆锥曲线外的切点弦方程](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/2__%E7%82%B9%E5%9C%A8%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%A4%96%E7%9A%84%E5%88%87%E7%82%B9%E5%BC%A6%E6%96%B9%E7%A8%8B/2__%E7%82%B9%E5%9C%A8%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%A4%96%E7%9A%84%E5%88%87%E7%82%B9%E5%BC%A6%E6%96%B9%E7%A8%8B.md)",
+      "x": 1700,
+      "y": 2500,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "0cae5361a5a7638e",
+      "type": "text",
+      "text": "[3. 点在圆锥曲线内, 割线的端点处切线的交点所在直线方程](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/3__%E7%82%B9%E5%9C%A8%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%86%85__%E5%89%B2%E7%BA%BF%E7%9A%84%E7%AB%AF%E7%82%B9%E5%A4%84%E5%88%87%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E6%89%80%E5%9C%A8%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B/3__%E7%82%B9%E5%9C%A8%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%86%85__%E5%89%B2%E7%BA%BF%E7%9A%84%E7%AB%AF%E7%82%B9%E5%A4%84%E5%88%87%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E6%89%80%E5%9C%A8%E7%9B%B4%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 0,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b9dcc096fb1793c2",
+      "type": "text",
+      "text": "[二、极点极线的定义](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/%E4%BA%8C_%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89/%E4%BA%8C_%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "x": 340,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "6fd97b3807afd59b",
+      "type": "text",
+      "text": "[22.2 割线的极点极线](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/22_2_%E5%89%B2%E7%BA%BF%E7%9A%84%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF/22_2_%E5%89%B2%E7%BA%BF%E7%9A%84%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF.md)",
+      "x": 680,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "25264e3e091b96bb",
+      "type": "text",
+      "text": "[1. 自配极三角形](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/1__%E8%87%AA%E9%85%8D%E6%9E%81%E4%B8%89%E8%A7%92%E5%BD%A2/1__%E8%87%AA%E9%85%8D%E6%9E%81%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "x": 1020,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d70d61c5ba7c5f6a",
+      "type": "text",
+      "text": "[2. 极点极线的几何意义](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/2__%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89/2__%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "x": 1360,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "78173ec08d8abe4c",
+      "type": "text",
+      "text": "[3. 极点在特殊位置的极线方程](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/3__%E6%9E%81%E7%82%B9%E5%9C%A8%E7%89%B9%E6%AE%8A%E4%BD%8D%E7%BD%AE%E7%9A%84%E6%9E%81%E7%BA%BF%E6%96%B9%E7%A8%8B/3__%E6%9E%81%E7%82%B9%E5%9C%A8%E7%89%B9%E6%AE%8A%E4%BD%8D%E7%BD%AE%E7%9A%84%E6%9E%81%E7%BA%BF%E6%96%B9%E7%A8%8B.md)",
+      "x": 1700,
+      "y": 2650,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "fca35d8e4d8fb271",
+      "type": "text",
+      "text": "[4. 配极性质](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/4__%E9%85%8D%E6%9E%81%E6%80%A7%E8%B4%A8/4__%E9%85%8D%E6%9E%81%E6%80%A7%E8%B4%A8.md)",
+      "x": 0,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "d98e7765b0d4c660",
+      "type": "text",
+      "text": "[1. 轨迹问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/1__%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98/1__%E8%BD%A8%E8%BF%B9%E9%97%AE%E9%A2%98.md)",
+      "x": 340,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "1fa5c62106520dea",
+      "type": "text",
+      "text": "[2. 定点、定值问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/2__%E5%AE%9A%E7%82%B9_%E5%AE%9A%E5%80%BC%E9%97%AE%E9%A2%98/2__%E5%AE%9A%E7%82%B9_%E5%AE%9A%E5%80%BC%E9%97%AE%E9%A2%98.md)",
+      "x": 680,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "b7c8962aced9d2be",
+      "type": "text",
+      "text": "[22.3 极点极线和调和分割](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/22_3_%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E5%92%8C%E8%B0%83%E5%92%8C%E5%88%86%E5%89%B2/22_3_%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E5%92%8C%E8%B0%83%E5%92%8C%E5%88%86%E5%89%B2.md)",
+      "x": 1020,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    },
+    {
+      "id": "691d221003fc68f4",
+      "type": "text",
+      "text": "[22.4 等角问题](%E9%AB%98%E4%B8%AD/%E6%80%BB%E5%A4%8D%E4%B9%A0/%E4%B8%93%E9%A2%98/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2/%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E5%9F%B9%E4%BC%9840%E8%AE%B2-02-%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/06_%E7%AC%AC22%E8%AE%B2/22_4_%E7%AD%89%E8%A7%92%E9%97%AE%E9%A2%98/22_4_%E7%AD%89%E8%A7%92%E9%97%AE%E9%A2%98.md)",
+      "x": 1360,
+      "y": 2800,
+      "width": 300,
+      "height": 90,
+      "role": "knowledge-item"
+    }
+  ],
+  "edges": [
+    {
+      "id": "ff2f89c175d2d628",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "8eafa50580382893"
+    },
+    {
+      "id": "c6ba4db5abee84ff",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "58958f161c4e56e5"
+    },
+    {
+      "id": "e4170a72162a7a58",
+      "fromNode": "27b3ae162c718be7",
+      "toNode": "ce7b668a9dd36e21"
+    },
+    {
+      "id": "40d7ea8add634a4e",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "331e900067095194"
+    },
+    {
+      "id": "adbc7d02fb64a0fe",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "0b2380187ba47637"
+    },
+    {
+      "id": "148222f9137e034b",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "a1140472475a1894"
+    },
+    {
+      "id": "2dcc7713fc7ee1f2",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "479e2620b65362bf"
+    },
+    {
+      "id": "a6587a0f77a7d874",
+      "fromNode": "4004603f57d2fddd",
+      "toNode": "0663851bc7a2af81"
+    },
+    {
+      "id": "082ad55b5df76f2c",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "78abeca531eb32b3"
+    },
+    {
+      "id": "c365a9a4889d5f56",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "d460d243da0b2272"
+    },
+    {
+      "id": "2526d0eed3147c31",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "b34df7d5967adbcf"
+    },
+    {
+      "id": "364fed63bf974d1e",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "6fc90685723ebd36"
+    },
+    {
+      "id": "49722394ecedc727",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "f08b3796f91e93f2"
+    },
+    {
+      "id": "ef56f47ee790e5eb",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "20e047b236c6be34"
+    },
+    {
+      "id": "34c30fe9a991e4a2",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "394e1a062ea504af"
+    },
+    {
+      "id": "eceefe0c1de00133",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "6291c429c8890f6b"
+    },
+    {
+      "id": "9af2e06ef70ced42",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "855bc63b431bd837"
+    },
+    {
+      "id": "6926a35bf09a41f4",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "2e8a4fa464b64d05"
+    },
+    {
+      "id": "0cfc8a128a957cbd",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "7fca65f1861c4973"
+    },
+    {
+      "id": "549862dccd6724a5",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "2162b44b4795cc60"
+    },
+    {
+      "id": "7baf658b7f72172a",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "5afb83f71b8a57c6"
+    },
+    {
+      "id": "016dc45d05e5d86f",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "1a3df88c3b2825e8"
+    },
+    {
+      "id": "90c39cd24e598fae",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "21bacb2dc8bef5a4"
+    },
+    {
+      "id": "9f9cb36cbcbf40ef",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "e2ce66208870d104"
+    },
+    {
+      "id": "c4982a9f5eaf11d7",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "613d62f05f8b2854"
+    },
+    {
+      "id": "ec3c76d86a2d763d",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "0fac7521e7787c29"
+    },
+    {
+      "id": "835d9ca8ccaf916e",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "e42f96918a739a84"
+    },
+    {
+      "id": "14881ffd946d4a7b",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "1d6e90522979ee66"
+    },
+    {
+      "id": "9f1f95e3cc3fca2a",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "e1386897f724b19a"
+    },
+    {
+      "id": "d05835b8decfa8e0",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "99fd7ace9b5492cc"
+    },
+    {
+      "id": "0ec785336db65a98",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "c3ffc888b5ccec63"
+    },
+    {
+      "id": "085ab07ae5813932",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "b6cb5596aca023a7"
+    },
+    {
+      "id": "ea303d1ea0ffcbff",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "87823477f60133f7"
+    },
+    {
+      "id": "00f1e1a13f2d1b83",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "4f12f59279790672"
+    },
+    {
+      "id": "11b62735e03abe9e",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "940b8447e62f10b1"
+    },
+    {
+      "id": "5fc4c06ef998c227",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "b718d0da2040daa0"
+    },
+    {
+      "id": "432c835da83bb50a",
+      "fromNode": "8e3d73d800bd4027",
+      "toNode": "de894104f84548ba"
+    },
+    {
+      "id": "abc2514f301c462f",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "8ceed1a3eaac053d"
+    },
+    {
+      "id": "646b5cdaa5473bed",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "acaab4436d6d21aa"
+    },
+    {
+      "id": "fb8209962bb9026d",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "04c56aeb05560b0d"
+    },
+    {
+      "id": "ee9aa780e2d2064b",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "49dedf1786bc75e8"
+    },
+    {
+      "id": "06a75aea9889fd5d",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "0042d7cc1e65142d"
+    },
+    {
+      "id": "625273e6e63e5cbd",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "d8d92c64b0394758"
+    },
+    {
+      "id": "7cc8a7c2434f30e1",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "abffa964b68e34d1"
+    },
+    {
+      "id": "03c6de7a1e03011f",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "d2a69a096e6d75b5"
+    },
+    {
+      "id": "32f1db483212c904",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "000204f9c5aaca78"
+    },
+    {
+      "id": "78bbaafc8b4ea595",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "4ab37d6dc53dc76e"
+    },
+    {
+      "id": "7c4111892a58baf8",
+      "fromNode": "4c413ce85eed3944",
+      "toNode": "7d85569f60844380"
+    },
+    {
+      "id": "e085d6a20207c368",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "674e5766698137b2"
+    },
+    {
+      "id": "d4c888b45ce7c649",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "804fb2eb1cb5879d"
+    },
+    {
+      "id": "fd5d368a994d4333",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "ecbb038f34d6bd99"
+    },
+    {
+      "id": "dd044ebf07b5788f",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "2f06907ceb27ea08"
+    },
+    {
+      "id": "a0e79a64a4c39dec",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "916628e5e45d1191"
+    },
+    {
+      "id": "7c5b6b2ccb8ac4ee",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "397b75c5ee8457d7"
+    },
+    {
+      "id": "5af3745430a79ec4",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "59ded6e37023d7aa"
+    },
+    {
+      "id": "6fafb15a7b999caa",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "d8a9f06d34f590c8"
+    },
+    {
+      "id": "bbd2c156e49a03a1",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "bc928620eba2145a"
+    },
+    {
+      "id": "4ef6523ea13e9035",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "e535fc4a6532dcee"
+    },
+    {
+      "id": "e907a15e06af8054",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "66c6ac07d412f6cd"
+    },
+    {
+      "id": "2cb4633457b8342d",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "c4a54dad53de9328"
+    },
+    {
+      "id": "b851d985d81bebbc",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "f35f463b73c0fe4a"
+    },
+    {
+      "id": "28a0817ec3398fda",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "18db5687be80135e"
+    },
+    {
+      "id": "8778f3f182ef0770",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "ed6a3304d038f3db"
+    },
+    {
+      "id": "541ed4c908ff2628",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "92f5bc11f71c99be"
+    },
+    {
+      "id": "adaa8e4b26aceaaa",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "47a01c362911422e"
+    },
+    {
+      "id": "345090af63a971f4",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "fd467eaf8f4495e7"
+    },
+    {
+      "id": "c158d802ee4a9f93",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "34cfaa6916e8db19"
+    },
+    {
+      "id": "e7f0232521a0c349",
+      "fromNode": "883e4abdccf74540",
+      "toNode": "912b2bcbd8eee16e"
+    },
+    {
+      "id": "242dd304798ab4dc",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "2e1193063a0d677c"
+    },
+    {
+      "id": "21d58b02c139976c",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "a166850203a32c0f"
+    },
+    {
+      "id": "cb23d1ddcb6bb49d",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "81a89abf16fbfa25"
+    },
+    {
+      "id": "da31db512f9a2f33",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "66931e01dd307fa2"
+    },
+    {
+      "id": "4edf5fbca165287f",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "0cae5361a5a7638e"
+    },
+    {
+      "id": "1b695e7e300fe0c5",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "b9dcc096fb1793c2"
+    },
+    {
+      "id": "8684b8d33966293d",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "6fd97b3807afd59b"
+    },
+    {
+      "id": "fa8dbe67b6a34d11",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "25264e3e091b96bb"
+    },
+    {
+      "id": "718a1fb95287db4e",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "d70d61c5ba7c5f6a"
+    },
+    {
+      "id": "7d4ca6a8c7b40355",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "78173ec08d8abe4c"
+    },
+    {
+      "id": "922eee2c9c2004d3",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "fca35d8e4d8fb271"
+    },
+    {
+      "id": "d9687329ee8bd016",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "d98e7765b0d4c660"
+    },
+    {
+      "id": "aa7a657b348cc845",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "1fa5c62106520dea"
+    },
+    {
+      "id": "959a5b939d53eb89",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "b7c8962aced9d2be"
+    },
+    {
+      "id": "af10d152032f9ea1",
+      "fromNode": "0803412a25188b2d",
+      "toNode": "691d221003fc68f4"
+    }
+  ]
+}

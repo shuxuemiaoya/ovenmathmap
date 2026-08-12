@@ -1063,10 +1063,10 @@ $\triangle F_{1}F_{1}^{\prime}F_{2}$ 的中位线, 所以 $|OM| = \frac{1}{2}|F_
 
 如图②所示,当 $A,B$ 两点位于双曲线的同一支上时,可得到相同的结论.
 
-![](images/combined/part-001/8d190cabba22f43c1a38a495e2fde42c8c4006cdb2985e41c4da8a995dc994a5.jpg)  
+![](images/combined/part-001/8d190cabba22f43c1a38a495e2fde42c8c4006cdb2985e41c4da8a995dc994a5.jpg)
 ①
 
-![](images/combined/part-001/c3a96ee4c515e6e885f8775efad66e34195ce0e111a68c48a2da001d5a5e58a0.jpg)  
+![](images/combined/part-001/c3a96ee4c515e6e885f8775efad66e34195ce0e111a68c48a2da001d5a5e58a0.jpg)
 ②
 
 定理 3(圆的蒙日圆): 过圆 $x^{2} + y^{2} = a^{2} (a > 0)$ 上任意不同两点 A, B 作圆的切线, 如果两条切线垂直且相交于点 P, 那么动点 P 的轨迹为圆, 其方程为 $x^{2} + y^{2} = 2a^{2}$ .
