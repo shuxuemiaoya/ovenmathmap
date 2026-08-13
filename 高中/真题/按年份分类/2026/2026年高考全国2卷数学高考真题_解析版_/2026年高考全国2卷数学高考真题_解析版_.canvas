@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0eb730c6f33ef5d8","type":"group","label":"一、单项选择题（本题共8小题，每小题5分，共40分）","role":"hierarchy","x":0,"y":0,"width":1700,"height":1500},
+		{"id":"c8b8312803a112ba","type":"group","label":"二、多项选择题（本题共3小题，每小题6分，共18分．全部选对的得6分，部分选对的得部分分，有选错的得0分）","role":"hierarchy","x":1900,"y":0,"width":1700,"height":1500},
+		{"id":"b44e248e40e1f878","type":"group","label":"三、填空题（本题共3小题，每小题5分，共15分）","role":"hierarchy","x":3800,"y":0,"width":1700,"height":1500},
+		{"id":"f348d8a31f768385","type":"group","label":"四、解答题（本大题共5小题，共77分．解答应写出文字说明、证明过程或演算步骤.）","role":"hierarchy","x":5700,"y":0,"width":1700,"height":1500}
+	],
+	"edges":[]
+}

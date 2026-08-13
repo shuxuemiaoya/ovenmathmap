@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "stage": "exam-paper-parser",
+  "status": "passed",
+  "source_pdf": "/Users/oven/Documents/数学妙呀资料/高中/高考真题/高考真题/2026/pdf/2026年高考全国2卷数学高考真题（解析版）.pdf",
+  "source_sha256": "7ba70851c238c7e722792ac87225558660ab4ffc9c2737cc53a4cf2d555bfc47",
+  "raw_markdown": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/cache/7ba70851c238c7e722792ac87225558660ab4ffc9c2737cc53a4cf2d555bfc47/raw.md",
+  "raw_markdown_sha256": "1cf1c0325eff128d9f5e41199171fe32ff6c183e774b166d142f6f4cf89e3b75",
+  "vault_root": "/Users/oven/Documents/ovenmathmap",
+  "graph_root": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_",
+  "staging_root": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/runs/7ba70851c238c7e7",
+  "root_note": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/2026年高考全国2卷数学高考真题_解析版_.md",
+  "canvas_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/2026年高考全国2卷数学高考真题_解析版_.canvas",
+  "final_audit_report": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/runs/7ba70851c238c7e7/final-audit-report.json",
+  "registry": "/Users/oven/Documents/ovenmathmap/.question-type-graph/question-id-registry.json",
+  "provenance_block_count": 388,
+  "sections": [
+    {
+      "index": 0,
+      "title": "一、单项选择题（本题共8小题，每小题5分，共40分）",
+      "expected_count": 8,
+      "detected_count": 8,
+      "note_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/一_单项选择题_本题共8小题_每小题5分_共40分_.md"
+    },
+    {
+      "index": 1,
+      "title": "二、多项选择题（本题共3小题，每小题6分，共18分．全部选对的得6分，部分选对的得部分分，有选错的得0分）",
+      "expected_count": 3,
+      "detected_count": 3,
+      "note_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_.md"
+    },
+    {
+      "index": 2,
+      "title": "三、填空题（本题共3小题，每小题5分，共15分）",
+      "expected_count": 3,
+      "detected_count": 3,
+      "note_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/三_填空题_本题共3小题_每小题5分_共15分_.md"
+    },
+    {
+      "index": 3,
+      "title": "四、解答题（本大题共5小题，共77分．解答应写出文字说明、证明过程或演算步骤.）",
+      "expected_count": null,
+      "detected_count": 5,
+      "note_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__.md"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "qid": "Q00020256",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020256.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020256A1.md",
+      "question_body_sha256": "5f836959fb66970d3d91514adb93d906fee5d8aade6fab4ee25b52d4a1c1c1d3",
+      "solution_body_sha256": "69e26755171aa15cab56c0dfa87e9b99d1af9e9a39fe551b736c99d9756b8288",
+      "choice": true,
+      "answer": "B",
+      "answer_source": "pdf-text-recovery",
+      "explanation_char_count": 47,
+      "source_start_line": 3,
+      "source_solution_line": 5,
+      "source_provenance": {
+        "source_page": 1,
+        "bbox": [
+          85,
+          96,
+          774,
+          153
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b1"
+      },
+      "pdf_answer_recovery": {
+        "answer": "B",
+        "source_page": 1,
+        "evidence": "【答案】B"
+      }
+    },
+    {
+      "number": 2,
+      "qid": "Q00020257",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020257.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020257A1.md",
+      "question_body_sha256": "a1d3622548bfc22a387223e6e855dea9138b605138d22091b5411283b6b67270",
+      "solution_body_sha256": "e1627da34a48d88d6923dbf0490b274f6c0cb4c5ab136540de57e5d7e090d101",
+      "choice": true,
+      "answer": "A",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 16,
+      "source_start_line": 7,
+      "source_solution_line": 9,
+      "source_provenance": {
+        "source_page": 1,
+        "bbox": [
+          84,
+          253,
+          793,
+          318
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b3"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 3,
+      "qid": "Q00020258",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020258.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020258A1.md",
+      "question_body_sha256": "72034d1e14987eabbf7ed3b7e89617edeac71873cd82d4c4f5523956506c9b0f",
+      "solution_body_sha256": "4f20a034177f0852f791ad2c7c0d78628b0566b31909eda808b77ba52e6f8189",
+      "choice": true,
+      "answer": "D",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 195,
+      "source_start_line": 13,
+      "source_solution_line": 16,
+      "source_provenance": {
+        "source_page": 1,
+        "bbox": [
+          85,
+          420,
+          764,
+          489
+        ],
+        "match": "normalized-containment",
+        "block_id": "p1:b6"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 4,
+      "qid": "Q00020259",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020259.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020259A1.md",
+      "question_body_sha256": "3208435707cd8d0be43515773863809f8868904ac1dc6c4b9ed56dbf8acda872",
+      "solution_body_sha256": "a3c0b5a745ca1fea7f627ecda56b36f942041dc2777eb92b5f25f35d720be3be",
+      "choice": true,
+      "answer": "B",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 219,
+      "source_start_line": 32,
+      "source_solution_line": 34,
+      "source_provenance": {
+        "source_page": 1,
+        "bbox": [
+          84,
+          772,
+          912,
+          872
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b15"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 5,
+      "qid": "Q00020260",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020260.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020260A1.md",
+      "question_body_sha256": "399dbd51e86e5be282bba7c4fc5735f2d08df9ce0440a1f905b8e9c93e297c71",
+      "solution_body_sha256": "ae502e2d520bea26ac09f0aa6a186a339b6d550b4de8e57cb0bd3185f3b7e581",
+      "choice": true,
+      "answer": "D",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 254,
+      "source_start_line": 43,
+      "source_solution_line": 47,
+      "source_provenance": {
+        "source_page": 2,
+        "bbox": [
+          84,
+          472,
+          907,
+          565
+        ],
+        "match": "normalized-containment",
+        "block_id": "p1:b20"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 6,
+      "qid": "Q00020261",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020261.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020261A1.md",
+      "question_body_sha256": "a8d934bcd57d7d7975920cea3c2a7b288360a5990212ccd74ac2d996d7dbc552",
+      "solution_body_sha256": "54b262ddcd4db5266a7f44dd6f8c18bac3d4752707f4a3b7f7ac6b8102764e60",
+      "choice": true,
+      "answer": "C",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 215,
+      "source_start_line": 58,
+      "source_solution_line": 61,
+      "source_provenance": {
+        "source_page": 2,
+        "bbox": [
+          84,
+          821,
+          902,
+          895
+        ],
+        "match": "normalized-containment",
+        "block_id": "p1:b26"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 7,
+      "qid": "Q00020262",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020262.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020262A1.md",
+      "question_body_sha256": "79aa6d7b27287d1dc7694c1fb139892771d9bb243f37a4427fa1b5e80bce23b0",
+      "solution_body_sha256": "2e66516a90b3fef77ac22210ef4303766a78362122d8e981bb6f4e62ecd29020",
+      "choice": true,
+      "answer": "C",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 295,
+      "source_start_line": 91,
+      "source_solution_line": 93,
+      "source_provenance": {
+        "source_page": 3,
+        "bbox": [
+          84,
+          512,
+          757,
+          582
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b42"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 8,
+      "qid": "Q00020263",
+      "section_index": 0,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/Q00020263.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/一_单项选择题_本题共8小题_每小题5分_共40分_/题目/answers/Q00020263A1.md",
+      "question_body_sha256": "7eb6d670e62abe06e2515a094c1519f889bd0febb32370c759fd30a394750d8a",
+      "solution_body_sha256": "b6d13c831fd4d44d418014d1d0bdcecc16605e9256777058e1053f9cf03d57ee",
+      "choice": true,
+      "answer": "D",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 135,
+      "source_start_line": 111,
+      "source_solution_line": 113,
+      "source_provenance": {
+        "source_page": 4,
+        "bbox": [
+          82,
+          165,
+          904,
+          293
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b52"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 9,
+      "qid": "Q00020264",
+      "section_index": 1,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/题目/Q00020264.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/题目/answers/Q00020264A1.md",
+      "question_body_sha256": "821e397848b241943f86087e2d635a614fdad775cca32669d30a12266c1191c8",
+      "solution_body_sha256": "cc3cec5a0bfe2ec67417beb974614e55bd230d6971b889f350e584bcf436c729",
+      "choice": true,
+      "answer": "BC",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 273,
+      "source_start_line": 128,
+      "source_solution_line": 132,
+      "source_provenance": {
+        "source_page": 4,
+        "bbox": [
+          82,
+          785,
+          813,
+          902
+        ],
+        "match": "normalized-containment",
+        "block_id": "p1:b57"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 10,
+      "qid": "Q00020265",
+      "section_index": 1,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/题目/Q00020265.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/题目/answers/Q00020265A1.md",
+      "question_body_sha256": "38f0dbe30be1821971bc99b109ab2da096be5f58a00fdbfb7c4fd05ec8840d8b",
+      "solution_body_sha256": "36cc97a97d8d5ca1e77b06b06fa7389aeedc6c33ea83ce220afb7dbdc2ceb084",
+      "choice": true,
+      "answer": "ACD",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 1107,
+      "source_start_line": 150,
+      "source_solution_line": 152,
+      "source_provenance": {
+        "source_page": 5,
+        "bbox": [
+          84,
+          563,
+          910,
+          663
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b65"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 11,
+      "qid": "Q00020266",
+      "section_index": 1,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/题目/Q00020266.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/二_多项选择题_本题共3小题_每小题6分_共18分_全部选对的得6分_部分选对的得部分分_有选错的得0分_/题目/answers/Q00020266A1.md",
+      "question_body_sha256": "bbf82149324e8e4443720ba7b6b6f00a3690aa1b369b137166ca70f2551137e1",
+      "solution_body_sha256": "a43afd5add7505b6975f98609578372fe560cbfaadda9e940016a4d2d6e91b57",
+      "choice": true,
+      "answer": "ABD",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 1147,
+      "source_start_line": 219,
+      "source_solution_line": 223,
+      "source_provenance": {
+        "source_page": 7,
+        "bbox": [
+          84,
+          268,
+          910,
+          464
+        ],
+        "match": "normalized-containment",
+        "block_id": "p1:b87"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 12,
+      "qid": "Q00020267",
+      "section_index": 2,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/题目/Q00020267.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/题目/answers/Q00020267A1.md",
+      "question_body_sha256": "73846d1d2f775d2ae69c526ce36402026a1623aaf448e3386faa2ba9cbadea03",
+      "solution_body_sha256": "6d10344521639a85e495cfd987b2ab1c72614e0807349a2e36f0950accac1047",
+      "choice": false,
+      "answer": "24",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 96,
+      "source_start_line": 276,
+      "source_solution_line": 278,
+      "source_provenance": {
+        "source_page": 9,
+        "bbox": [
+          85,
+          304,
+          717,
+          323
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b112"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 13,
+      "qid": "Q00020268",
+      "section_index": 2,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/题目/Q00020268.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/题目/answers/Q00020268A1.md",
+      "question_body_sha256": "4984608a8fb4c3f68cfe93e84ad1e6239dc5bf3f68a7de3ef3791795167b5f5c",
+      "solution_body_sha256": "5218d54ced41a1532c97058873d136ca92b916680ee38dec1f08becbf3b2d7c1",
+      "choice": false,
+      "answer": "$(4, + \\infty)$",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 408,
+      "source_start_line": 292,
+      "source_solution_line": 294,
+      "source_provenance": {
+        "source_page": 9,
+        "bbox": [
+          85,
+          592,
+          685,
+          609
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b120"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 14,
+      "qid": "Q00020269",
+      "section_index": 2,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/题目/Q00020269.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/三_填空题_本题共3小题_每小题5分_共15分_/题目/answers/Q00020269A1.md",
+      "question_body_sha256": "4cf8307eb000fa9d9bbe40c5feaf2040972ef3f4323d6a894b01ef74785daa98",
+      "solution_body_sha256": "0a9b7935b6d1e12acade5c17b5a62adfdce11356d9859e370d774706e9787940",
+      "choice": false,
+      "answer": "$\\frac{5\\sqrt{3}}{4}$",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 413,
+      "source_start_line": 313,
+      "source_solution_line": 315,
+      "source_provenance": {
+        "source_page": 10,
+        "bbox": [
+          87,
+          583,
+          821,
+          640
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b129"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 15,
+      "qid": "Q00020270",
+      "section_index": 3,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/Q00020270.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/answers/Q00020270A1.md",
+      "question_body_sha256": "5f4d12e6070b7c3227ce914176a154cddc9123182ba0a690c86bfa3e9c52be49",
+      "solution_body_sha256": "d8c67dfd22d3c05ba823bdf01df6719dffb7bb14ff3c2bfa228155fff9e01a63",
+      "choice": false,
+      "answer": "（1）第一四分位数为 370，中位数为 381； (2) (i) 0.15; (ii) $E(X) = 15$ , $D(X) = 12.75$ .",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 358,
+      "source_start_line": 343,
+      "source_solution_line": 357,
+      "source_provenance": {
+        "source_page": 11,
+        "bbox": [
+          84,
+          524,
+          907,
+          568
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b144"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 16,
+      "qid": "Q00020271",
+      "section_index": 3,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/Q00020271.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/answers/Q00020271A1.md",
+      "question_body_sha256": "506ac722e136aa4fdcafa810915c707b7c87ac48127f442a2d277af938ae0ac3",
+      "solution_body_sha256": "f266708b672ce899613941189d848d36b21b811c483bd15ef752277fe342bf57",
+      "choice": false,
+      "answer": "（1）证明： 因为 $AE \\perp CE$ 且 $AE \\perp DE$ ， $CE \\cap DE = E$ ，且 $CE, DE \\subset$ 平面 $BCD$ ， 所以 $AE \\perp$ 平面 $BCD$ . 因为 $CD \\subset$ 平面 $BCD$ ，所以 $AE \\perp CD$ . 又 $AD \\perp CD$ ， $AE \\cap AD = A$ ， $AE \\subset$ 平面ABD， $AD \\subset$ 平面 ABD， $CD \\not\\subset$ 平面 ABD， 所以 $CD \\perp$ 平面ABD， 故 $CD \\perp AB$ . (2) $\\frac{\\sqrt{6}}{3}$",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 1297,
+      "source_start_line": 393,
+      "source_solution_line": 401,
+      "source_provenance": {
+        "source_page": 12,
+        "bbox": [
+          85,
+          663,
+          776,
+          678
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b168"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 17,
+      "qid": "Q00020272",
+      "section_index": 3,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/Q00020272.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/answers/Q00020272A1.md",
+      "question_body_sha256": "102282fe8285b271f5f119963475fa6a7281c95f6bbc53c492c4761791672737",
+      "solution_body_sha256": "9364816c9a834cda4e9db74f061724a2dd4303bd760f640267e0d0e3722a9620",
+      "choice": false,
+      "answer": "详见解析",
+      "answer_source": "publisher-solution",
+      "explanation_char_count": 778,
+      "source_start_line": 476,
+      "source_solution_line": 482,
+      "source_provenance": {
+        "source_page": 14,
+        "bbox": [
+          87,
+          796,
+          598,
+          831
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b208"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 18,
+      "qid": "Q00020273",
+      "section_index": 3,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/Q00020273.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/answers/Q00020273A1.md",
+      "question_body_sha256": "0b0bc5318538db281f47aae3cb32a7068133f708672be0b1f0f4120a28f2db54",
+      "solution_body_sha256": "db3e20695c015bb4ff248e191dc7c99497bbdeea8c3b032b69c51aca7dde0d30",
+      "choice": false,
+      "answer": "详见解析",
+      "answer_source": "publisher-solution",
+      "explanation_char_count": 3415,
+      "source_start_line": 540,
+      "source_solution_line": 550,
+      "source_provenance": {
+        "source_page": 16,
+        "bbox": [
+          85,
+          349,
+          783,
+          388
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b239"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 19,
+      "qid": "Q00020274",
+      "section_index": 3,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/Q00020274.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/四_解答题_本大题共5小题_共77分_解答应写出文字说明_证明过程或演算步骤__/题目/answers/Q00020274A1.md",
+      "question_body_sha256": "63ed2af6d72285fb1c39eae85de016eb9463a5a42118525c03c0e5d0b79e4c7b",
+      "solution_body_sha256": "55580da80a69a2e43b9ae7d3bc8993ba596eca1fec2c04846f337e089fd1c0d2",
+      "choice": false,
+      "answer": "（1） $a = -3, b = 1$ (2) $\\left[2\\ln 2, +\\infty\\right)$ (3) -2",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 2601,
+      "source_start_line": 663,
+      "source_solution_line": 671,
+      "source_provenance": {
+        "source_page": 20,
+        "bbox": [
+          85,
+          757,
+          789,
+          777
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b288"
+      },
+      "pdf_answer_recovery": null
+    }
+  ],
+  "metrics": {
+    "question_count": 19,
+    "answer_count": 19,
+    "section_count": 4,
+    "asset_count": 36,
+    "pdf_answer_recovery_count": 1,
+    "llm_calls": 0,
+    "adapter_reviews": 0,
+    "duration_seconds": 0.629,
+    "ocr_cache_hit": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "stage": "ocr",
+  "status": "completed",
+  "source_pdf": "/Users/oven/Documents/数学妙呀资料/高中/高考真题/高考真题/2026/pdf/2026年高考全国1卷数学高考真题（解析版）.pdf",
+  "source_sha256": "8def381f091f430b79e8047385af2ca8983cb1739d59512b99a0e1a9b66fcfde",
+  "page_count": 29,
+  "raw_markdown": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/cache/8def381f091f430b79e8047385af2ca8983cb1739d59512b99a0e1a9b66fcfde/raw.md",
+  "raw_markdown_sha256": "8b941119df8ac0db0b0af10355bbb6792fe366480d305a54800b892308b25cf5",
+  "asset_root": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/cache/8def381f091f430b79e8047385af2ca8983cb1739d59512b99a0e1a9b66fcfde/images",
+  "asset_count": 51,
+  "provenance_block_count": 461,
+  "ocr_forced": true,
+  "model_version": "vlm",
+  "formula_enabled": true,
+  "table_enabled": true,
+  "duration_seconds": 28.8,
+  "cache_hit": false
+}
