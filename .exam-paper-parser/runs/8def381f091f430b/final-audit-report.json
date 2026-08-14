@@ -1,17 +1,11 @@
 {
   "schema_version": 1,
   "stage": "final-audit",
-  "status": "review_required",
+  "status": "passed",
   "source_hashes_unchanged": true,
   "question_count": 19,
   "section_count": 4,
-  "errors": [
-    {
-      "kind": "broken-image",
-      "number": 15,
-      "destination": "images/combined/53acdf7d99c861db1f2f7c7eba3c4eb65a260e56ad055ab964ed88b8801cecf5.jpg"
-    }
-  ],
+  "errors": [],
   "warnings": [],
   "manifest": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/runs/8def381f091f430b/exam-paper-manifest.json",
   "graph_root": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国1卷数学高考真题_解析版_"

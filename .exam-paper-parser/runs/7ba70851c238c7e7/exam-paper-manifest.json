@@ -10,7 +10,6 @@
   "graph_root": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_",
   "staging_root": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/runs/7ba70851c238c7e7",
   "root_note": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/2026年高考全国2卷数学高考真题_解析版_.md",
-  "canvas_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/2026年高考全国2卷数学高考真题_解析版_.canvas",
   "final_audit_report": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/runs/7ba70851c238c7e7/final-audit-report.json",
   "registry": "/Users/oven/Documents/ovenmathmap/.question-type-graph/question-id-registry.json",
   "provenance_block_count": 388,
@@ -57,6 +56,7 @@
       "answer": "B",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 47,
+      "detail_markers": [],
       "source_start_line": 3,
       "source_solution_line": 5,
       "source_provenance": {
@@ -88,6 +88,7 @@
       "answer": "A",
       "answer_source": "explicit-answer",
       "explanation_char_count": 16,
+      "detail_markers": [],
       "source_start_line": 7,
       "source_solution_line": 9,
       "source_provenance": {
@@ -115,6 +116,7 @@
       "answer": "D",
       "answer_source": "explicit-answer",
       "explanation_char_count": 195,
+      "detail_markers": [],
       "source_start_line": 13,
       "source_solution_line": 16,
       "source_provenance": {
@@ -142,6 +144,7 @@
       "answer": "B",
       "answer_source": "explicit-answer",
       "explanation_char_count": 219,
+      "detail_markers": [],
       "source_start_line": 32,
       "source_solution_line": 34,
       "source_provenance": {
@@ -169,6 +172,7 @@
       "answer": "D",
       "answer_source": "explicit-answer",
       "explanation_char_count": 254,
+      "detail_markers": [],
       "source_start_line": 43,
       "source_solution_line": 47,
       "source_provenance": {
@@ -196,6 +200,7 @@
       "answer": "C",
       "answer_source": "explicit-answer",
       "explanation_char_count": 215,
+      "detail_markers": [],
       "source_start_line": 58,
       "source_solution_line": 61,
       "source_provenance": {
@@ -223,6 +228,7 @@
       "answer": "C",
       "answer_source": "explicit-answer",
       "explanation_char_count": 295,
+      "detail_markers": [],
       "source_start_line": 91,
       "source_solution_line": 93,
       "source_provenance": {
@@ -250,6 +256,7 @@
       "answer": "D",
       "answer_source": "explicit-answer",
       "explanation_char_count": 135,
+      "detail_markers": [],
       "source_start_line": 111,
       "source_solution_line": 113,
       "source_provenance": {
@@ -277,6 +284,7 @@
       "answer": "BC",
       "answer_source": "explicit-answer",
       "explanation_char_count": 273,
+      "detail_markers": [],
       "source_start_line": 128,
       "source_solution_line": 132,
       "source_provenance": {
@@ -304,6 +312,7 @@
       "answer": "ACD",
       "answer_source": "explicit-answer",
       "explanation_char_count": 1107,
+      "detail_markers": [],
       "source_start_line": 150,
       "source_solution_line": 152,
       "source_provenance": {
@@ -331,6 +340,7 @@
       "answer": "ABD",
       "answer_source": "explicit-answer",
       "explanation_char_count": 1147,
+      "detail_markers": [],
       "source_start_line": 219,
       "source_solution_line": 223,
       "source_provenance": {
@@ -358,6 +368,7 @@
       "answer": "24",
       "answer_source": "explicit-answer",
       "explanation_char_count": 96,
+      "detail_markers": [],
       "source_start_line": 276,
       "source_solution_line": 278,
       "source_provenance": {
@@ -385,6 +396,7 @@
       "answer": "$(4, + \\infty)$",
       "answer_source": "explicit-answer",
       "explanation_char_count": 408,
+      "detail_markers": [],
       "source_start_line": 292,
       "source_solution_line": 294,
       "source_provenance": {
@@ -412,6 +424,7 @@
       "answer": "$\\frac{5\\sqrt{3}}{4}$",
       "answer_source": "explicit-answer",
       "explanation_char_count": 413,
+      "detail_markers": [],
       "source_start_line": 313,
       "source_solution_line": 315,
       "source_provenance": {
@@ -438,7 +451,11 @@
       "choice": false,
       "answer": "（1）第一四分位数为 370，中位数为 381； (2) (i) 0.15; (ii) $E(X) = 15$ , $D(X) = 12.75$ .",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 358,
+      "explanation_char_count": 316,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 343,
       "source_solution_line": 357,
       "source_provenance": {
@@ -465,7 +482,11 @@
       "choice": false,
       "answer": "（1）证明： 因为 $AE \\perp CE$ 且 $AE \\perp DE$ ， $CE \\cap DE = E$ ，且 $CE, DE \\subset$ 平面 $BCD$ ， 所以 $AE \\perp$ 平面 $BCD$ . 因为 $CD \\subset$ 平面 $BCD$ ，所以 $AE \\perp CD$ . 又 $AD \\perp CD$ ， $AE \\cap AD = A$ ， $AE \\subset$ 平面ABD， $AD \\subset$ 平面 ABD， $CD \\not\\subset$ 平面 ABD， 所以 $CD \\perp$ 平面ABD， 故 $CD \\perp AB$ . (2) $\\frac{\\sqrt{6}}{3}$",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 1297,
+      "explanation_char_count": 1226,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 393,
       "source_solution_line": 401,
       "source_provenance": {
@@ -492,7 +513,11 @@
       "choice": false,
       "answer": "详见解析",
       "answer_source": "publisher-solution",
-      "explanation_char_count": 778,
+      "explanation_char_count": 699,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 476,
       "source_solution_line": 482,
       "source_provenance": {
@@ -519,7 +544,11 @@
       "choice": false,
       "answer": "详见解析",
       "answer_source": "publisher-solution",
-      "explanation_char_count": 3415,
+      "explanation_char_count": 3308,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 540,
       "source_solution_line": 550,
       "source_provenance": {
@@ -546,7 +575,12 @@
       "choice": false,
       "answer": "（1） $a = -3, b = 1$ (2) $\\left[2\\ln 2, +\\infty\\right)$ (3) -2",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 2601,
+      "explanation_char_count": 2448,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】",
+        "【小问 3 详解】"
+      ],
       "source_start_line": 663,
       "source_solution_line": 671,
       "source_provenance": {
@@ -571,7 +605,7 @@
     "pdf_answer_recovery_count": 1,
     "llm_calls": 0,
     "adapter_reviews": 0,
-    "duration_seconds": 0.629,
+    "duration_seconds": 0.621,
     "ocr_cache_hit": true
   }
 }

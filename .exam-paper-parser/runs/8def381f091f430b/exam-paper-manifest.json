@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "stage": "exam-paper-parser",
-  "status": "review_required",
+  "status": "passed",
   "source_pdf": "/Users/oven/Documents/数学妙呀资料/高中/高考真题/高考真题/2026/pdf/2026年高考全国1卷数学高考真题（解析版）.pdf",
   "source_sha256": "8def381f091f430b79e8047385af2ca8983cb1739d59512b99a0e1a9b66fcfde",
   "raw_markdown": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/cache/8def381f091f430b79e8047385af2ca8983cb1739d59512b99a0e1a9b66fcfde/raw.md",
@@ -56,6 +56,7 @@
       "answer": "B",
       "answer_source": "explicit-answer",
       "explanation_char_count": 24,
+      "detail_markers": [],
       "source_start_line": 15,
       "source_solution_line": 18,
       "source_provenance": {
@@ -83,6 +84,7 @@
       "answer": "A",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 77,
+      "detail_markers": [],
       "source_start_line": 23,
       "source_solution_line": 29,
       "source_provenance": {
@@ -114,6 +116,7 @@
       "answer": "C",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 221,
+      "detail_markers": [],
       "source_start_line": 35,
       "source_solution_line": 39,
       "source_provenance": {
@@ -145,6 +148,7 @@
       "answer": "D",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 59,
+      "detail_markers": [],
       "source_start_line": 45,
       "source_solution_line": 48,
       "source_provenance": {
@@ -176,6 +180,7 @@
       "answer": "D",
       "answer_source": "explicit-answer",
       "explanation_char_count": 302,
+      "detail_markers": [],
       "source_start_line": 52,
       "source_solution_line": 56,
       "source_provenance": {
@@ -203,6 +208,7 @@
       "answer": "B",
       "answer_source": "explicit-answer",
       "explanation_char_count": 1192,
+      "detail_markers": [],
       "source_start_line": 78,
       "source_solution_line": 80,
       "source_provenance": {
@@ -230,6 +236,7 @@
       "answer": "B",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 310,
+      "detail_markers": [],
       "source_start_line": 164,
       "source_solution_line": 166,
       "source_provenance": {
@@ -261,6 +268,7 @@
       "answer": "A",
       "answer_source": "explicit-answer",
       "explanation_char_count": 518,
+      "detail_markers": [],
       "source_start_line": 170,
       "source_solution_line": 173,
       "source_provenance": {
@@ -288,6 +296,7 @@
       "answer": "ACD",
       "answer_source": "explicit-answer",
       "explanation_char_count": 408,
+      "detail_markers": [],
       "source_start_line": 225,
       "source_solution_line": 227,
       "source_provenance": {
@@ -315,6 +324,7 @@
       "answer": "BC",
       "answer_source": "explicit-answer",
       "explanation_char_count": 583,
+      "detail_markers": [],
       "source_start_line": 236,
       "source_solution_line": 238,
       "source_provenance": {
@@ -342,6 +352,7 @@
       "answer": "BCD",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 1402,
+      "detail_markers": [],
       "source_start_line": 284,
       "source_solution_line": 294,
       "source_provenance": {
@@ -373,6 +384,7 @@
       "answer": "$\\frac{\\sqrt{66}}{6}$",
       "answer_source": "explicit-answer",
       "explanation_char_count": 156,
+      "detail_markers": [],
       "source_start_line": 380,
       "source_solution_line": 380,
       "source_provenance": {
@@ -400,6 +412,7 @@
       "answer": "①. $\\frac{3\\pi}{2}$ ②. 1",
       "answer_source": "explicit-answer",
       "explanation_char_count": 1270,
+      "detail_markers": [],
       "source_start_line": 390,
       "source_solution_line": 392,
       "source_provenance": {
@@ -427,6 +440,7 @@
       "answer": "$\\sqrt[3]{\\frac{3}{2}}$",
       "answer_source": "explicit-answer",
       "explanation_char_count": 352,
+      "detail_markers": [],
       "source_start_line": 456,
       "source_solution_line": 458,
       "source_provenance": {
@@ -453,7 +467,11 @@
       "choice": false,
       "answer": "(1) 由题意证明如下: 如图，作出符合题意的图形，连接 $BC_{1}$ ， ![](images/combined/53acdf7d99c861db1f2f7c7eba3c4eb65a260e56ad055ab964ed88b8801cecf5.jpg) 在 $\\triangle ABC_{1}$ 中，D，E 分别为 AB， $AC_{1}$ 中点，∴ $DE \\parallel BC_{1}$ ， ∵ $DE \\not\\subset$ 平面 $BCC_{1}B_{1}$ ， $BC_{1} \\subset$ 平面 $BCC_{1}B_{1}$ ， ∴ DE// 平面 $BCC_{1}B_{1}$ . (2) 距离为 1.",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 1492,
+      "explanation_char_count": 1295,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 490,
       "source_solution_line": 496,
       "source_provenance": {
@@ -480,7 +498,11 @@
       "choice": false,
       "answer": "（1） $\\frac{1}{3}$ (2) $3\\sqrt{5}$",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 793,
+      "explanation_char_count": 748,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 594,
       "source_solution_line": 599,
       "source_provenance": {
@@ -507,7 +529,11 @@
       "choice": false,
       "answer": "详见解析",
       "answer_source": "publisher-solution",
-      "explanation_char_count": 697,
+      "explanation_char_count": 634,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 639,
       "source_solution_line": 649,
       "source_provenance": {
@@ -534,7 +560,11 @@
       "choice": false,
       "answer": "（1） $\\frac{x^{2}}{4}+\\frac{y^{2}}{3}=1$ (2) (i) $y = \\frac{\\sqrt{5}}{2} (x + 1)$ ; (ii) $4\\sqrt{3}$",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 2595,
+      "explanation_char_count": 2481,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】"
+      ],
       "source_start_line": 715,
       "source_solution_line": 725,
       "source_provenance": {
@@ -561,7 +591,12 @@
       "choice": false,
       "answer": "详见解析",
       "answer_source": "publisher-solution",
-      "explanation_char_count": 2723,
+      "explanation_char_count": 2381,
+      "detail_markers": [
+        "【小问 1 详解】",
+        "【小问 2 详解】",
+        "【小问3详解】"
+      ],
       "source_start_line": 843,
       "source_solution_line": 855,
       "source_provenance": {
@@ -586,7 +621,7 @@
     "pdf_answer_recovery_count": 5,
     "llm_calls": 0,
     "adapter_reviews": 0,
-    "duration_seconds": 0.863,
+    "duration_seconds": 0.722,
     "ocr_cache_hit": true
   }
 }
