@@ -25,7 +25,7 @@
 5. 你画出的函数图象与图1类似吗?
 
 <div align="center">
-  <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/5c57a7c5246158857d2b3ffd3183ac3c9475d1f99db139c8bd4d2a6dcd9fde42.jpg" width="55%" />
+  <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/5c57a7c5246158857d2b3ffd3183ac3c9475d1f99db139c8bd4d2a6dcd9fde42.jpg" width="55%" />
   <br />
   图1
 </div>

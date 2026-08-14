@@ -17,7 +17,7 @@
 > > $\begin{array}{l} 4 5 ^ {\circ} - 2 \times 1 8 0 ^ {\circ} = - 3 1 5 ^ {\circ}, \\ 4 5 ^ {\circ} - 1 \times 1 8 0 ^ {\circ} = - 1 3 5 ^ {\circ}, \\ 4 5 ^ {\circ} + 0 \times 1 8 0 ^ {\circ} = 4 5 ^ {\circ}, \\ 4 5 ^ {\circ} + 1 \times 1 8 0 ^ {\circ} = 2 2 5 ^ {\circ}, \\ 4 5 ^ {\circ} + 2 \times 1 8 0 ^ {\circ} = 4 0 5 ^ {\circ}, \\ 4 5 ^ {\circ} + 3 \times 1 8 0 ^ {\circ} = 5 8 5 ^ {\circ}. \\ \end{array}$
 > >
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/4f4b4cb8418a6d19b4ccc934e9bed731de27ef567f350adf22f6549a6153bb28.jpg" width="55%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/4f4b4cb8418a6d19b4ccc934e9bed731de27ef567f350adf22f6549a6153bb28.jpg" width="55%" />
 > >   <br />
 > >   图5.1-8
 > > </div>

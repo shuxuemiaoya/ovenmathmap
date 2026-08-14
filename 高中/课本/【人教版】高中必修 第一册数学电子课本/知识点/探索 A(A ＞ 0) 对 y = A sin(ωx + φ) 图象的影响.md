@@ -15,7 +15,7 @@
 当 A=1 时，如图 5.6-6，可得 $y=\sin\left(2x+\frac{\pi}{6}\right)$ 的图象.
 
 <div align="center">
-  <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/d89dceb182c2890593961a73eb7260c122b4d99ae6b043c5784ff26b42b138e2.jpg" width="55%" />
+  <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/d89dceb182c2890593961a73eb7260c122b4d99ae6b043c5784ff26b42b138e2.jpg" width="55%" />
   <br />
   图5.6-6
 </div>

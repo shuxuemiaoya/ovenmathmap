@@ -21,13 +21,13 @@
 > > （1）在同一直角坐标系中画出函数 $f(x)$ ， $g(x)$ 的图象（图 3.1-4）.
 > >
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/fc8c186122468b78bd12fc293a62a47d8d67d7b00c2f79aae9d6c87c3cecefd9.jpg" width="55%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/fc8c186122468b78bd12fc293a62a47d8d67d7b00c2f79aae9d6c87c3cecefd9.jpg" width="55%" />
 > >   <br />
 > >   图3.1-4
 > > </div>
 > >
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/8b741c64165230cb71c2a7f5ae3de40276e1b62dbc42db3195bebc2ece95d043.jpg" width="55%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/8b741c64165230cb71c2a7f5ae3de40276e1b62dbc42db3195bebc2ece95d043.jpg" width="55%" />
 > >   <br />
 > >   图3.1-5
 > > </div>

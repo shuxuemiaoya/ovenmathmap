@@ -19,7 +19,7 @@
 > > 如图 1.3-2，还可以利用数轴直观表示例 2 中求并集 $A \cup B$ 的过程.
 > >
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/b12bc2e0807a7ebbb80b3637422fb83829acee14a3093783463acb4b009395ee.jpg" width="55%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/b12bc2e0807a7ebbb80b3637422fb83829acee14a3093783463acb4b009395ee.jpg" width="55%" />
 > >   <br />
 > >   图1.3-2
 > > </div>

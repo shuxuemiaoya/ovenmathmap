@@ -12,7 +12,7 @@
 >
 > > [!success]- 解：
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/1f4f57d32fefb907eef7266e3054142716f13dadb82b34bf1138bd1534db9a8e.jpg" width="35%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/1f4f57d32fefb907eef7266e3054142716f13dadb82b34bf1138bd1534db9a8e.jpg" width="35%" />
 > >   <br />
 > >   图5.2-3
 > > </div>

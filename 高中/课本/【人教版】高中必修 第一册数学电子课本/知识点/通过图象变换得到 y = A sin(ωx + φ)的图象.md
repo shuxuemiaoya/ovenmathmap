@@ -25,12 +25,12 @@
 
 
 <div align="center">
-  <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/bff46328cef7496ddeb2f05da51d14c47847404b31183c663a3880067715cc3d.jpg" width="55%" />
+  <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/bff46328cef7496ddeb2f05da51d14c47847404b31183c663a3880067715cc3d.jpg" width="55%" />
 </div>
 
 补全步骤2和3的函数及图象.
 
-![](高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/Gemini_Generated_Image_dcpwmbdcpwmbdcpw.png)
+![](高中/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/Gemini_Generated_Image_dcpwmbdcpwmbdcpw.png)
 
 从上述步骤可以清楚地看到，参数 $A$ ， $\omega$ ， $\varphi$ 是如何对函数图象产生影响的.
 

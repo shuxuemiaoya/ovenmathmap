@@ -14,7 +14,7 @@
 下面，仍然通过数学实验来探索．如图5.6-5，取圆的半径 $A = 1$ ，为了研究方便，不妨令 $\varphi = \frac{\pi}{6}$ 当 $\omega = 1$ 时得到 $y = \sin \left(x + \frac{\pi}{6}\right)$ 的图象.
 
 <div align="center">
-  <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/70a93fea14b3bd231edabc59eaf8ada21df747fd7ab113ce6f30615ea3e41d44.jpg" width="55%" />
+  <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/70a93fea14b3bd231edabc59eaf8ada21df747fd7ab113ce6f30615ea3e41d44.jpg" width="55%" />
   <br />
   图5.6-5
 </div>

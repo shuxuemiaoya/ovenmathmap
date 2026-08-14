@@ -19,7 +19,7 @@
 > > （2）必要性 $(q\Rightarrow p)$ ：若直线l与 $\odot O$ 相切，不妨设切点为P，则 $OP\perp l$ 。因此，d=OP=r。
 > >
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/4185f0cf6a5d14fa86934d14ec322abe4d1df3cf832a8c56b1d03dda0482c143.jpg" width="55%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/4185f0cf6a5d14fa86934d14ec322abe4d1df3cf832a8c56b1d03dda0482c143.jpg" width="55%" />
 > >   <br />
 > >   图1.4-2
 > > </div>

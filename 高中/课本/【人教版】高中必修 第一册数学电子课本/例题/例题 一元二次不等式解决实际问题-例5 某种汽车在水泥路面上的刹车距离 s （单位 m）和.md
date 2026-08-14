@@ -27,7 +27,7 @@
 > > 刹车距离是指汽车刹车后由于惯性往前滑行的距离.
 > >
 > > <div align="center">
-> >   <img src="/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/81baa67c83bbe706206fac1ccab90761735bd828a3d4e7449174c1eb61ae7c95.jpg" width="55%" />
+> >   <img src="/高中/课本/【人教版】高中必修%20第一册数学电子课本/知识点/images/81baa67c83bbe706206fac1ccab90761735bd828a3d4e7449174c1eb61ae7c95.jpg" width="55%" />
 > >   <br />
 > >   图2.3-7
 > > </div>
