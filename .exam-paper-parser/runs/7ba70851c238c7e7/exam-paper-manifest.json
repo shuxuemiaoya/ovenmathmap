@@ -18,7 +18,7 @@
       "index": 0,
       "title": "一、单项选择题（本题共8小题，每小题5分，共40分）",
       "expected_count": 8,
-      "detected_count": 11,
+      "detected_count": 10,
       "note_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/选择题.md"
     },
     {
@@ -32,43 +32,11 @@
       "index": 2,
       "title": "四、解答题（本大题共5小题，共77分．",
       "expected_count": null,
-      "detected_count": 5,
+      "detected_count": 33,
       "note_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/解答题.md"
     }
   ],
   "questions": [
-    {
-      "number": 1,
-      "qid": "Q00027305",
-      "section_index": 0,
-      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/Q00027305.md",
-      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/answers/Q00027305A1.md",
-      "question_body_sha256": "271449748e2839054fd68167783a0e154445fc0021357f45eb5283faaa731040",
-      "solution_body_sha256": "07721672a0e06c2510a9faae3c0d54f8c34592838a9ff21c563bf09524e307aa",
-      "choice": true,
-      "answer": "B",
-      "answer_source": "pdf-text-recovery",
-      "explanation_char_count": 47,
-      "detail_markers": [],
-      "source_start_line": 3,
-      "source_solution_line": 6,
-      "source_provenance": {
-        "source_page": 1,
-        "bbox": [
-          85,
-          96,
-          774,
-          153
-        ],
-        "match": "normalized-containment",
-        "block_id": "p1:b1"
-      },
-      "pdf_answer_recovery": {
-        "answer": "B",
-        "source_page": 1,
-        "evidence": "【答案】B"
-      }
-    },
     {
       "number": 2,
       "qid": "Q00021833",
@@ -76,14 +44,14 @@
       "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/Q00021833.md",
       "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/answers/Q00021833A1.md",
       "question_body_sha256": "a866ec1bff020f9151747eed302a2427420ddd42c2ae87885e14b391b9bd962a",
-      "solution_body_sha256": "eb269ca388114058df98893f040c1cd76f7ba0e1884de3bb0188255bf68cc57e",
+      "solution_body_sha256": "1333c574822972f25707c92546fcb21aa55ed04ec0c681f9b9951ea157daeabc",
       "choice": true,
       "answer": "A",
       "answer_source": "pdf-text-recovery",
-      "explanation_char_count": 16,
+      "explanation_char_count": 755,
       "detail_markers": [],
-      "source_start_line": 8,
-      "source_solution_line": 11,
+      "source_start_line": 9,
+      "source_solution_line": 12,
       "source_provenance": {
         "source_page": 1,
         "bbox": [
@@ -114,8 +82,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 195,
       "detail_markers": [],
-      "source_start_line": 19,
-      "source_solution_line": 23,
+      "source_start_line": 20,
+      "source_solution_line": 24,
       "source_provenance": {
         "source_page": 1,
         "bbox": [
@@ -146,8 +114,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 219,
       "detail_markers": [],
-      "source_start_line": 41,
-      "source_solution_line": 44,
+      "source_start_line": 42,
+      "source_solution_line": 45,
       "source_provenance": {
         "source_page": 1,
         "bbox": [
@@ -178,8 +146,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 254,
       "detail_markers": [],
-      "source_start_line": 56,
-      "source_solution_line": 61,
+      "source_start_line": 57,
+      "source_solution_line": 62,
       "source_provenance": {
         "source_page": 2,
         "bbox": [
@@ -210,8 +178,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 215,
       "detail_markers": [],
-      "source_start_line": 75,
-      "source_solution_line": 79,
+      "source_start_line": 76,
+      "source_solution_line": 80,
       "source_provenance": {
         "source_page": 2,
         "bbox": [
@@ -242,8 +210,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 295,
       "detail_markers": [],
-      "source_start_line": 112,
-      "source_solution_line": 115,
+      "source_start_line": 113,
+      "source_solution_line": 116,
       "source_provenance": {
         "source_page": 3,
         "bbox": [
@@ -268,14 +236,14 @@
       "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/Q00021839.md",
       "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/answers/Q00021839A1.md",
       "question_body_sha256": "ed7491d9a285ac72c56936c5caa0fd3aa36f876402cbf30f5cca13573532bde6",
-      "solution_body_sha256": "aa9d6506d5fb3176861c76a55541c13c48ba9a9381a9d95a6309c19d34def3ea",
+      "solution_body_sha256": "65968f44e8a3c6fe6eae2fd42d5d2e694ee936c9ab94016fd7c62b19a33658ce",
       "choice": true,
       "answer": "D",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 180,
       "detail_markers": [],
-      "source_start_line": 136,
-      "source_solution_line": 139,
+      "source_start_line": 137,
+      "source_solution_line": 140,
       "source_provenance": {
         "source_page": 4,
         "bbox": [
@@ -306,8 +274,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 273,
       "detail_markers": [],
-      "source_start_line": 158,
-      "source_solution_line": 165,
+      "source_start_line": 160,
+      "source_solution_line": 167,
       "source_provenance": {
         "source_page": 4,
         "bbox": [
@@ -338,8 +306,8 @@
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 1107,
       "detail_markers": [],
-      "source_start_line": 188,
-      "source_solution_line": 191,
+      "source_start_line": 190,
+      "source_solution_line": 193,
       "source_provenance": {
         "source_page": 5,
         "bbox": [
@@ -364,14 +332,14 @@
       "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/Q00021842.md",
       "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/选择题/题目/answers/Q00021842A1.md",
       "question_body_sha256": "4cb7ca6c375b72eea132827a0aaebf313e65284dfb566873242f5af6e1c9abc5",
-      "solution_body_sha256": "ab08a137be797717c27d44fa7b031b05ce63c656549008737feda672674d8ce6",
+      "solution_body_sha256": "7b5e5a61c57fa2ccde97f6e34557d20d1715615d6d5b33b92f13a88e964bc68b",
       "choice": true,
       "answer": "ABD",
       "answer_source": "pdf-text-recovery",
       "explanation_char_count": 1147,
       "detail_markers": [],
-      "source_start_line": 261,
-      "source_solution_line": 266,
+      "source_start_line": 263,
+      "source_solution_line": 268,
       "source_provenance": {
         "source_page": 7,
         "bbox": [
@@ -402,8 +370,8 @@
       "answer_source": "explicit-answer",
       "explanation_char_count": 96,
       "detail_markers": [],
-      "source_start_line": 322,
-      "source_solution_line": 325,
+      "source_start_line": 325,
+      "source_solution_line": 328,
       "source_provenance": {
         "source_page": 9,
         "bbox": [
@@ -430,8 +398,8 @@
       "answer_source": "explicit-answer",
       "explanation_char_count": 408,
       "detail_markers": [],
-      "source_start_line": 342,
-      "source_solution_line": 345,
+      "source_start_line": 345,
+      "source_solution_line": 348,
       "source_provenance": {
         "source_page": 9,
         "bbox": [
@@ -452,14 +420,14 @@
       "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/填空题/题目/Q00021845.md",
       "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/填空题/题目/answers/Q00021845A1.md",
       "question_body_sha256": "49a8839202a10cb69ac8093648c270127c98a86e723c67f0d7185e713eabba89",
-      "solution_body_sha256": "c282fcc02c8b29b60e6c2c9111541457f89bc33ba81396efe4bd3f37d43fdf94",
+      "solution_body_sha256": "07ba3364fe7b3a1ed4119144c277ee5a355834be98c0be80599f89761be60642",
       "choice": false,
       "answer": "$\\frac{5\\sqrt{3}}{4}$ 【",
       "answer_source": "explicit-answer",
       "explanation_char_count": 413,
       "detail_markers": [],
-      "source_start_line": 367,
-      "source_solution_line": 370,
+      "source_start_line": 370,
+      "source_solution_line": 373,
       "source_provenance": {
         "source_page": 10,
         "bbox": [
@@ -474,20 +442,48 @@
       "pdf_answer_recovery": null
     },
     {
-      "number": 15,
-      "qid": "Q00021846",
+      "number": 1,
+      "qid": "Q00029398",
       "section_index": 2,
-      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00021846.md",
-      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00021846A1.md",
-      "question_body_sha256": "909de6af3e20f65ab424058cc0b7ec2b8cf357292e58c305d2ee35765456e8b3",
-      "solution_body_sha256": "adc8382df432df3e3a63d649f63bb9df3ccb4e3d3c22ad14db416a605eb00888",
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00029398.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00029398A1.md",
+      "question_body_sha256": "e542e8e1a583b6d476889e20b7797ea3af54dff9bcae41463bb5dfeb213ea169",
+      "solution_body_sha256": "a06a6f563c2b8dadc503bd72f7ff4831686766365923820faf17aa1a46ad7815",
       "choice": false,
-      "answer": "（1）第一四分位数为 370，中位数为 381； (2) (i) 0.15; (ii) $E(X) = 15$ , $D(X) = 12.75$ . 【",
-      "answer_source": "explicit-answer",
-      "explanation_char_count": 309,
+      "answer": "详见解析",
+      "answer_source": "publisher-solution",
+      "explanation_char_count": 1333,
       "detail_markers": [],
-      "source_start_line": 402,
-      "source_solution_line": 417,
+      "source_start_line": 410,
+      "source_solution_line": 410,
+      "source_provenance": {
+        "source_page": 11,
+        "bbox": [
+          94,
+          774,
+          337,
+          790
+        ],
+        "match": "normalized-exact",
+        "block_id": "p1:b146"
+      },
+      "pdf_answer_recovery": null
+    },
+    {
+      "number": 15,
+      "qid": "Q00029399",
+      "section_index": 2,
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00029399.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00029399A1.md",
+      "question_body_sha256": "096efb2b56150224c25f4c0265095287f9f72a46af4750ce2a56e4e97a33c8b2",
+      "solution_body_sha256": "ece0712e6479ea3922f8b362c3b5bc3405a8cc8595934716f7a33e106a14c66d",
+      "choice": false,
+      "answer": "详见",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 0,
+      "detail_markers": [],
+      "source_start_line": 406,
+      "source_solution_line": 406,
       "source_provenance": {
         "source_page": 11,
         "bbox": [
@@ -503,19 +499,19 @@
     },
     {
       "number": 16,
-      "qid": "Q00021847",
+      "qid": "Q00029400",
       "section_index": 2,
-      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00021847.md",
-      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00021847A1.md",
-      "question_body_sha256": "36aeac1f21afedae0057991c0b88d9b7b05c3dcfe2ce9ee23e9c1b773d36336e",
-      "solution_body_sha256": "e4a343cf733c37913e0aff69cf91d8305987c7dfd0d98094700a381fd2051e1c",
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00029400.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00029400A1.md",
+      "question_body_sha256": "af4fcf0680ae643b88c271c8d0d70326a68b77d6b702bb6b63a37243aaafed90",
+      "solution_body_sha256": "ece0712e6479ea3922f8b362c3b5bc3405a8cc8595934716f7a33e106a14c66d",
       "choice": false,
-      "answer": "（1）证明： 因为 $AE \\perp CE$ 且 $AE \\perp DE$ ， $CE \\cap DE = E$ ，且 $CE, DE \\subset$ 平面 $BCD$ ， 所以 $AE \\perp$ 平面 $BCD$ . 因为 $CD \\subset$ 平面 $BCD$ ，所以 $AE \\perp CD$ . 又 $AD \\perp CD$ ， $AE \\cap AD = A$ ， $AE \\subset$ 平面ABD， $AD \\subset$ 平面 ABD， $CD \\not\\subset$ 平面 ABD， 所以 $CD \\perp$ 平面ABD， 故 $CD \\perp AB$ . (2) $\\frac{\\sqrt{6}}{3}$ 【",
+      "answer": "详见",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 1219,
+      "explanation_char_count": 0,
       "detail_markers": [],
-      "source_start_line": 461,
-      "source_solution_line": 470,
+      "source_start_line": 467,
+      "source_solution_line": 467,
       "source_provenance": {
         "source_page": 12,
         "bbox": [
@@ -531,19 +527,19 @@
     },
     {
       "number": 17,
-      "qid": "Q00021848",
+      "qid": "Q00029401",
       "section_index": 2,
-      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00021848.md",
-      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00021848A1.md",
-      "question_body_sha256": "748cb72bcd6b23edef1eb24932051c65ccdeef25da3ee4141e52730f271d68cb",
-      "solution_body_sha256": "1cb617beb42237fadc1e75d67b58e739700792035b7a42f6bb49a2a0eea14c0f",
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00029401.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00029401A1.md",
+      "question_body_sha256": "4cbb041c5b3e9f41ad7be1a6dbae13f54d71ce4bc6c1b001e3875d867f1485c1",
+      "solution_body_sha256": "ece0712e6479ea3922f8b362c3b5bc3405a8cc8595934716f7a33e106a14c66d",
       "choice": false,
-      "answer": "详见解析",
-      "answer_source": "publisher-solution",
-      "explanation_char_count": 692,
+      "answer": "详见",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 0,
       "detail_markers": [],
-      "source_start_line": 553,
-      "source_solution_line": 560,
+      "source_start_line": 562,
+      "source_solution_line": 562,
       "source_provenance": {
         "source_page": 14,
         "bbox": [
@@ -559,18 +555,18 @@
     },
     {
       "number": 18,
-      "qid": "Q00021849",
+      "qid": "Q00029402",
       "section_index": 2,
-      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00021849.md",
-      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00021849A1.md",
-      "question_body_sha256": "297d1c1cf9c90e5e8bcaf01d3af2b17fabbbf090a101d7e2f2074e4589d5f7e1",
-      "solution_body_sha256": "73c217765770b649adf784aba997eb5c4c72d2ee4f7ca9ddff031274563f771c",
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00029402.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00029402A1.md",
+      "question_body_sha256": "a6f1c0a9ad2eaeb15a80dc5beec7b0133a61a2eeb5192bea75435796bed39402",
+      "solution_body_sha256": "ece0712e6479ea3922f8b362c3b5bc3405a8cc8595934716f7a33e106a14c66d",
       "choice": false,
-      "answer": "详见解析",
-      "answer_source": "publisher-solution",
-      "explanation_char_count": 3301,
+      "answer": "详见",
+      "answer_source": "explicit-answer",
+      "explanation_char_count": 0,
       "detail_markers": [],
-      "source_start_line": 626,
+      "source_start_line": 637,
       "source_solution_line": 637,
       "source_provenance": {
         "source_page": 16,
@@ -587,19 +583,19 @@
     },
     {
       "number": 19,
-      "qid": "Q00021850",
+      "qid": "Q00029403",
       "section_index": 2,
-      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00021850.md",
-      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00021850A1.md",
-      "question_body_sha256": "4b12a137381d57670ca4075ae25fc027deb7e367164bcf0a272ce6ac073d6113",
-      "solution_body_sha256": "50a6e0d79993edfe024d0f11cda9b97bda90a12de80f1ef6ce2a324e5639134d",
+      "question_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/Q00029403.md",
+      "answer_path": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国2卷数学高考真题_解析版_/解答题/题目/answers/Q00029403A1.md",
+      "question_body_sha256": "023b732fcab03b0020db12d6ca2bb7ad1cbfc0b6e1fcc273f3c5f84b064ad8d3",
+      "solution_body_sha256": "ece0712e6479ea3922f8b362c3b5bc3405a8cc8595934716f7a33e106a14c66d",
       "choice": false,
-      "answer": "（1） $a = -3, b = 1$ (2) $\\left[2\\ln 2, +\\infty\\right)$ (3) -2 【",
+      "answer": "详见",
       "answer_source": "explicit-answer",
-      "explanation_char_count": 2439,
+      "explanation_char_count": 0,
       "detail_markers": [],
-      "source_start_line": 758,
-      "source_solution_line": 767,
+      "source_start_line": 772,
+      "source_solution_line": 772,
       "source_provenance": {
         "source_page": 20,
         "bbox": [
@@ -619,10 +615,10 @@
     "answer_count": 19,
     "section_count": 3,
     "asset_count": 36,
-    "pdf_answer_recovery_count": 11,
+    "pdf_answer_recovery_count": 10,
     "llm_calls": 0,
     "adapter_reviews": 0,
-    "duration_seconds": 0.908,
+    "duration_seconds": 0.976,
     "ocr_cache_hit": true
   }
 }
