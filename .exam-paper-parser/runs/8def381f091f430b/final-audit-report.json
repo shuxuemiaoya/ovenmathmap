@@ -4,9 +4,14 @@
   "status": "passed",
   "source_hashes_unchanged": true,
   "question_count": 19,
-  "section_count": 4,
+  "section_count": 3,
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    {
+      "kind": "section-count-mismatch",
+      "section": "一、选择题：本题共8小题，每小题5分，共40分．在每小题给出的四个选项中，只有一项是符合题目要求的."
+    }
+  ],
   "manifest": "/Users/oven/Documents/ovenmathmap/.exam-paper-parser/runs/8def381f091f430b/exam-paper-manifest.json",
   "graph_root": "/Users/oven/Documents/ovenmathmap/高中/真题/按年份分类/2026/2026年高考全国1卷数学高考真题_解析版_"
 }
