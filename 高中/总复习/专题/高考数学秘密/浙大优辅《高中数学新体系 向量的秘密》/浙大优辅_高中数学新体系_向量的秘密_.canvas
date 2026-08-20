@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    {
+      "id": "9f67021fc4ce04cd",
+      "type": "group",
+      "label": "4.2 向量的夹角",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "84655e6bff587c18",
+      "type": "group",
+      "label": "4.3 向量的投影",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0d5ce2cba108e95a",
+      "type": "group",
+      "label": "思考题",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "d388ed4146ddcdbe",
+      "type": "group",
+      "label": "第5讲 玩转“剪刀手”模型,轻松搞定数量积",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "e22a036281239d71",
+      "type": "group",
+      "label": "5.1 数量积的定义",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "2ac73e2f91d5b760",
+      "type": "group",
+      "label": "5.2 要素“一问三不知”——转基底",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "25556e248d1dca76",
+      "type": "group",
+      "label": "5.3 已知单向量模长——转投影",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "394917732ee226d5",
+      "type": "group",
+      "label": "5.4 知道指尖连线长——转极化",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f14d7107347eab9f",
+      "type": "group",
+      "label": "5.5 咁都不定可建系——转坐标",
+      "role": "hierarchy",
+      "x": 15200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "1f646142af43e315",
+      "type": "group",
+      "label": "5.6 “五W”法则巩固模型",
+      "role": "hierarchy",
+      "x": 17100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "a626203ad86225d8",
+      "type": "group",
+      "label": "思考题",
+      "role": "hierarchy",
+      "x": 19000,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "5c5d24b402808042",
+      "type": "group",
+      "label": "第6讲 向量运算的灵魂——运算法则显威力",
+      "role": "hierarchy",
+      "x": 20900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "ce12a0f6288baf51",
+      "type": "group",
+      "label": "6.1 向量基本不等式",
+      "role": "hierarchy",
+      "x": 22800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "d2b8369b494331a8",
+      "type": "group",
+      "label": "6.2 向量三角不等式",
+      "role": "hierarchy",
+      "x": 24700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "9e807ed4eb63c94e",
+      "type": "group",
+      "label": "6.3 向量回路恒等式",
+      "role": "hierarchy",
+      "x": 26600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "aaa014967cb17cee",
+      "type": "group",
+      "label": "6.4 向量对角线定理",
+      "role": "hierarchy",
+      "x": 28500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "1eaddf2d32f9723b",
+      "type": "group",
+      "label": "6.5 互换系数恒等式",
+      "role": "hierarchy",
+      "x": 30400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "a432c215ed1ea914",
+      "type": "group",
+      "label": "6.6 极化恒等式及其对偶形式",
+      "role": "hierarchy",
+      "x": 32300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "54f61899e1c939ce",
+      "type": "group",
+      "label": "6.7 三项完全平方公式",
+      "role": "hierarchy",
+      "x": 34200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "548859e6dc1f22da",
+      "type": "group",
+      "label": "思考题",
+      "role": "hierarchy",
+      "x": 36100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "09e064a66953ee5a",
+      "type": "group",
+      "label": "第7讲 向量的几何表示——向量,如图所示",
+      "role": "hierarchy",
+      "x": 38000,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "9d30ac18a88e5362",
+      "type": "group",
+      "label": "7.1 以大换小,代数转入几何",
+      "role": "hierarchy",
+      "x": 39900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "fea9890df782cd38",
+      "type": "group",
+      "label": "7.2 动笔画图,探寻几何元素",
+      "role": "hierarchy",
+      "x": 41800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c62874b9d07a7da5",
+      "type": "group",
+      "label": "7.3 数形结合,开启编题之旅",
+      "role": "hierarchy",
+      "x": 43700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "01aa60022f1f97e8",
+      "type": "group",
+      "label": "7.4 视角各异,画图方式不同",
+      "role": "hierarchy",
+      "x": 45600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c225761b7a16b3f2",
+      "type": "group",
+      "label": "思考题",
+      "role": "hierarchy",
+      "x": 47500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}

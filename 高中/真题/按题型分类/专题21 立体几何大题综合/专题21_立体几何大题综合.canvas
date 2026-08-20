@@ -1,0 +1,55 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "考点01 空间中的平行关系（第一问）",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "考点02 空间中的垂直关系（第一问）",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "考点05 异面直线所成角及最值或范围",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "084a6b47b72ca40c",
+      "type": "group",
+      "label": "考点06 求线面角及最值或范围",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f12b2475b7610235",
+      "type": "group",
+      "label": "考点07 求二面角及最值或范围",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}

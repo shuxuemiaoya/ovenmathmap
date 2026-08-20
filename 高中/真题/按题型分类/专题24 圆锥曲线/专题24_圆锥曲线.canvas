@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "考点01 第二问求曲线方程",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "考点02 求轨迹方程",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "考点03 求直线方程",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "084a6b47b72ca40c",
+      "type": "group",
+      "label": "考点04 求斜率值或范围",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f12b2475b7610235",
+      "type": "group",
+      "label": "考点 05 离心率求值或范围综合",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "2325203ea1764823",
+      "type": "group",
+      "label": "考点06 弦长类求值或范围综合",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "fcf5de3671b27eae",
+      "type": "group",
+      "label": "考点 07 其他综合类求值或范围综合",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "ae338e57688c9c61",
+      "type": "group",
+      "label": "考点08 定值定点定直线问题",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "80c3e737ae6adab1",
+      "type": "group",
+      "label": "考点 09 其他证明综合",
+      "role": "hierarchy",
+      "x": 15200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c9844758c79c6671",
+      "type": "group",
+      "label": "考点 10 圆锥曲线与其他知识点杂糅问题",
+      "role": "hierarchy",
+      "x": 17100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}

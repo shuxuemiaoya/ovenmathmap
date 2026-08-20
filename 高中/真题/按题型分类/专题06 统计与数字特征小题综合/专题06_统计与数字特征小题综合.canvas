@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "考点02 图表类统计图综合",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "考点03 样本的数字特征",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "考点04 变量间的相关关系",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}

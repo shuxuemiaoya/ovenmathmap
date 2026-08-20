@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "考点01 求面积的值及范围或最值",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "考点02 求边长、周长的值及范围或最值",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "考点03 求角和三角函数的值及范围或最值",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "084a6b47b72ca40c",
+      "type": "group",
+      "label": "考点05 三角形中的证明问题",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}

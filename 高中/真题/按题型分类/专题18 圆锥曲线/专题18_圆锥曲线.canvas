@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "考点01 椭圆方程及其性质",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "考点02 双曲线方程及其性质",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "考点03 抛物线方程及其性质",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "084a6b47b72ca40c",
+      "type": "group",
+      "label": "考点 04 椭圆的离心率及其应用",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f12b2475b7610235",
+      "type": "group",
+      "label": "考点05 双曲线的离心率及其应用",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "2325203ea1764823",
+      "type": "group",
+      "label": "考点 06 直线与圆锥曲线的位置关系及其应用",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "fcf5de3671b27eae",
+      "type": "group",
+      "label": "考点 07 曲线方程及曲线轨迹",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "ae338e57688c9c61",
+      "type": "group",
+      "label": "考点08 圆锥曲线中的最值及范围问题",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}

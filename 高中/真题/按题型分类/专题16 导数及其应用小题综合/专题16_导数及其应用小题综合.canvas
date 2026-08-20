@@ -1,0 +1,105 @@
+{
+  "nodes": [
+    {
+      "id": "1e47b5952e270a8d",
+      "type": "group",
+      "label": "考点01 导数的基本计算及其应用",
+      "role": "hierarchy",
+      "x": 0,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "0581359066922163",
+      "type": "group",
+      "label": "考点02 求切线方程及其应用",
+      "role": "hierarchy",
+      "x": 1900,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "027e234b7ab33044",
+      "type": "group",
+      "label": "考点 03 公切线问题",
+      "role": "hierarchy",
+      "x": 3800,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "084a6b47b72ca40c",
+      "type": "group",
+      "label": "考点04 利用导数判断函数单调性及其应用",
+      "role": "hierarchy",
+      "x": 5700,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "f12b2475b7610235",
+      "type": "group",
+      "label": "考点05 求极值与最值及其应用",
+      "role": "hierarchy",
+      "x": 7600,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "2325203ea1764823",
+      "type": "group",
+      "label": "考点06 利用导数研究函数的极值点及其应用",
+      "role": "hierarchy",
+      "x": 9500,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "fcf5de3671b27eae",
+      "type": "group",
+      "label": "考点07 导数与函数的基本性质结合问题",
+      "role": "hierarchy",
+      "x": 11400,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "ae338e57688c9c61",
+      "type": "group",
+      "label": "考点08 利用导数研究函数的零点及其应用",
+      "role": "hierarchy",
+      "x": 13300,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "80c3e737ae6adab1",
+      "type": "group",
+      "label": "考点09 利用导数研究方程的根及其应用",
+      "role": "hierarchy",
+      "x": 15200,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    },
+    {
+      "id": "c9844758c79c6671",
+      "type": "group",
+      "label": "考点10 构建函数利用导数判断函数单调性比较函数值大小关系",
+      "role": "hierarchy",
+      "x": 17100,
+      "y": 0,
+      "width": 1700,
+      "height": 1500
+    }
+  ],
+  "edges": []
+}
