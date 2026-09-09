@@ -1,4 +1,12 @@
 .obsidian/workspace.json
 /.temp
 /.exam-paper-parser
-/.exam-paper-parser
+
+# 云存储配置与凭证保护 (防止泄露至 GitHub)
+scripts/cloud-video-sync/config.json
+scripts/cloud-video-sync/.env
+scripts/cloud-video-sync/upload_progress.json
+
+# 本地视频大文件排除 (防止 120GB 撑爆 Git)
+**/videos/*.mp4
+**/videos/*.tmp
