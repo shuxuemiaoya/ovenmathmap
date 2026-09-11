@@ -1,0 +1,11 @@
+/* 隐藏嵌入笔记（Internal Embed）顶部显示的文件标题 */
+.markdown-embed-title,
+.internal-embed .markdown-embed-title,
+.internal-embed .inline-title {
+    display: none !important;
+}
+
+/* 消除标题隐藏后的顶部多余留白 */
+.markdown-embed .markdown-rendered {
+    padding-top: 0 !important;
+}

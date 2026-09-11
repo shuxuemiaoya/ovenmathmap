@@ -1,4 +1,7 @@
 {
   "baseFontSize": 16,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "hide-embed-title"
+  ]
 }
