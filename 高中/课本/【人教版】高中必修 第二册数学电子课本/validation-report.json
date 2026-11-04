@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "manifest": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第二册数学电子课本/book-graph.json",
+  "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第二册数学电子课本",
+  "errors": [],
+  "warnings": [
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-021"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-013"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-023"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-004"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-044"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-012"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-020"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-026"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-015"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-005"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-045"
+    }
+  ],
+  "counts": {
+    "nodes": 979,
+    "organizers": 111,
+    "atoms": 849,
+    "derived_atoms": 19,
+    "atom_categories": {
+      "knowledge": 90,
+      "worked-example": 84,
+      "exercise": 536,
+      "scenario": 139,
+      "concept": 19,
+      "formula": 0
+    },
+    "relations": 92,
+    "source_lines": 10425,
+    "covered_nonblank_lines": 5901
+  }
+}

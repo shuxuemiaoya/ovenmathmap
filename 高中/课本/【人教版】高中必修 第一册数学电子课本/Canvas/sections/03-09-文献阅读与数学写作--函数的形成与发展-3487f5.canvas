@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"b4172a1a03f50548","type":"group","label":"文献阅读与数学写作* 函数的形成与发展","x":0,"y":0,"width":2072,"height":210},
+		{"id":"26ba3aa0d2171666","type":"text","text":"[✦ 情景引入 · 文献阅读与数学写作* 函数的形成与发展·本节导语](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/情景引入/0022-S.md)","x":56,"y":76,"width":280,"height":78,"color":"5"},
+		{"id":"b27cf30bd3a883e7","type":"text","text":"[✦ 一、目标](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0021-K.md)","x":476,"y":76,"width":280,"height":78,"color":"2"},
+		{"id":"0e5cc8dae0dc2b64","type":"text","text":"[✦ 二、实施建议](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0022-K.md)","x":896,"y":76,"width":280,"height":78,"color":"2"},
+		{"id":"c5459afbe455a378","type":"text","text":"[✦ 三、参考选题](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0023-K.md)","x":1316,"y":76,"width":280,"height":78,"color":"2"},
+		{"id":"ef50e79721768551","type":"text","text":"[✦ 四、文献综述的结构](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0024-K.md)","x":1736,"y":76,"width":280,"height":78,"color":"2"},
+		{"id":"5ca78e83b110e47d","type":"text","text":"# [文献阅读与数学写作* 函数的形成与发展](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第三章%20函数的概念与性质/文献阅读与数学写作－%20函数的形成与发展.md)\n\n知识分簇 · 沿连线阅读","x":0,"y":-180,"width":390,"height":150,"color":"1"},
+		{"id":"7ab8091be267b6c6","type":"text","text":"[← 返回章节](高中/课本/【人教版】高中必修%20第一册数学电子课本/Canvas/chapters/03-第三章-函数的概念与性质-8c58a6.canvas)","x":490,"y":-180,"width":230,"height":66},
+		{"id":"648b761a66cdacef","type":"text","text":"✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层","x":820,"y":-180,"width":400,"height":86}
+	],
+	"edges":[
+		{"id":"a47f66fd850a1a37","fromNode":"0e5cc8dae0dc2b64","toNode":"c5459afbe455a378","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"37877c043c425281","fromNode":"c5459afbe455a378","toNode":"ef50e79721768551","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"5ae6240aa8984d70","fromNode":"b27cf30bd3a883e7","toNode":"0e5cc8dae0dc2b64","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"e1fb73cba036e5f8","fromNode":"26ba3aa0d2171666","toNode":"b27cf30bd3a883e7","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"05ed0ab377f8e017","fromNode":"0e5cc8dae0dc2b64","toNode":"c5459afbe455a378","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"5463c6b8199d516b","fromNode":"26ba3aa0d2171666","toNode":"b27cf30bd3a883e7","fromSide":"right","toSide":"top","label":"主线 · 引发","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"e9641c099b278650","fromNode":"c5459afbe455a378","toNode":"ef50e79721768551","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"6b2dcda5ce238a40","fromNode":"b27cf30bd3a883e7","toNode":"0e5cc8dae0dc2b64","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"}
+	]
+}

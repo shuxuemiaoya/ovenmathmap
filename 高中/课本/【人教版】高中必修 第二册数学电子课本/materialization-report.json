@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第二册数学电子课本",
+  "manifest": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第二册数学电子课本/book-graph.json",
+  "profile": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第二册数学电子课本/book-profile.json",
+  "source_markdown": "/Users/oven/Documents/ovenmathmap/.temp/book-wiki-graph-staging/【人教版】高中必修 第二册数学电子课本/book.toc-formatted.md",
+  "source_markdown_sha256": "eeade961ad0856e7ad110847d1ce78670ad0ec75d38dfc6475211bf515c044d0",
+  "atomization_final_sha256": "455f79da4bc9dfcb94210b732f06ee0136206c9b54b85a8ee350371713e67454",
+  "root_key": "book-root",
+  "counts": {
+    "organizers": 111,
+    "atoms": 849,
+    "derived_atoms": 19,
+    "atom_categories": {
+      "knowledge": 90,
+      "worked-example": 84,
+      "exercise": 536,
+      "scenario": 139,
+      "concept": 19,
+      "formula": 0
+    },
+    "assets": 546,
+    "derived_indexes": 5
+  },
+  "unresolved_assets": []
+}

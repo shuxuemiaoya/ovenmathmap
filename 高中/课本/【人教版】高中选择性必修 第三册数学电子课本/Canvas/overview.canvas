@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1047653114df3a13","type":"text","text":"# ✦ 普通高中教科书 数学 选择性必修 第三册\n\n全书知识星图","x":-190,"y":-80,"width":380,"height":160,"color":"1"},
+		{"id":"507d174c02991622","type":"text","text":"[## ✦ 第六章 计数原理](高中/课本/【人教版】高中选择性必修%20第三册数学电子课本/Canvas/chapters/01-第六章-计数原理-75a20e.canvas)","x":-180,"y":-780,"width":360,"height":120,"color":"1"},
+		{"id":"e4bc12fb1cf05f93","type":"text","text":"[## ✦ 第七章 随机变量及其分布](高中/课本/【人教版】高中选择性必修%20第三册数学电子课本/Canvas/chapters/02-第七章-随机变量及其分布-ba3a64.canvas)","x":540,"y":-60,"width":360,"height":120,"color":"1"},
+		{"id":"ec154cddddbcee92","type":"text","text":"[## ✦ 第八章 成对数据的统计分析](高中/课本/【人教版】高中选择性必修%20第三册数学电子课本/Canvas/chapters/03-第八章-成对数据的统计分析-a037af.canvas)","x":-180,"y":660,"width":360,"height":120,"color":"1"},
+		{"id":"052e98068860465c","type":"text","text":"[## ✦ 数学建模 建立统计模型进行预测](高中/课本/【人教版】高中选择性必修%20第三册数学电子课本/Canvas/chapters/04-数学建模-建立统计模型进行预测-3702e5.canvas)","x":-900,"y":-60,"width":360,"height":120,"color":"1"},
+		{"id":"e103b230f3be26af","type":"text","text":"**图例**\n\n黄色：主学习路线  ·  灰色：原书顺序\n彩色：跨章知识联系","x":-180,"y":150,"width":360,"height":180}
+	],
+	"edges":[
+		{"id":"50f4315328af6373","fromNode":"507d174c02991622","toNode":"e4bc12fb1cf05f93","fromSide":"right","toSide":"left","label":"书序","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"9746a0337ffbf067","fromNode":"e4bc12fb1cf05f93","toNode":"ec154cddddbcee92","fromSide":"right","toSide":"left","label":"书序","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"57f2acc85dde730e","fromNode":"ec154cddddbcee92","toNode":"052e98068860465c","fromSide":"right","toSide":"left","label":"书序","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"bb6bda0fd79ef98e","fromNode":"e4bc12fb1cf05f93","toNode":"ec154cddddbcee92","fromSide":"right","toSide":"left","label":"主线 · 先修 ×1","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"08247cb5d150eb73","fromNode":"ec154cddddbcee92","toNode":"052e98068860465c","fromSide":"right","toSide":"left","label":"主线 · 先修 ×1","color":"3","fromEnd":"none","toEnd":"arrow"}
+	]
+}

@@ -1,0 +1,6592 @@
+{
+  "schema_version": 3,
+  "manifest": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第一册数学电子课本/book-graph.json",
+  "manifest_sha256": "1809676fee4019661f6d55ad07622bed198b957300bd58d068c52618951532c4",
+  "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中必修 第一册数学电子课本",
+  "relation_status": "passed",
+  "layout": {
+    "mode": "three-level-constellation",
+    "theme": "adaptive",
+    "zoom_levels": [
+      "book-chapters",
+      "chapter-core",
+      "section-detail"
+    ],
+    "learning_direction": "edge-constrained-clusters",
+    "organization_encoding": "regions-and-organizer-groups",
+    "atom_visibility": "chapter-core-and-section-detail",
+    "exercise_representation": "chapter-counts-section-primary-entries",
+    "concept_hub_visibility": "hidden",
+    "edge_noise_policy": "semantic-or-labelled-membership",
+    "edge_ports": {
+      "progression": "right-to-left",
+      "inspiration": "right-to-top",
+      "support-and-containment": "bottom-to-top"
+    },
+    "revision": "compact-v1",
+    "navigation": "unconnected-header-and-local-portals",
+    "direction_constraints": {
+      "right_outgoing": "target.left>=source.right+gap",
+      "bottom_outgoing": "target.top>=source.bottom+gap"
+    },
+    "spacing": {
+      "node_margin": 100,
+      "region_gap": 160,
+      "right_gap": 140,
+      "down_gap": 110
+    }
+  },
+  "atlas": {
+    "role": "book-atlas",
+    "root_key": "book-root",
+    "path": "overview.canvas",
+    "counts": {
+      "cards": 8,
+      "groups": 0,
+      "edges": 7,
+      "organizers": 7,
+      "atoms": 0,
+      "internal_atoms": 0,
+      "external_portals": 0,
+      "landmarks": 0,
+      "navigation_nodes": 2,
+      "regions": 0,
+      "backbone_edges": 2,
+      "supporting_edges": 0,
+      "source_order_edges": 5,
+      "semantic_edges": 2,
+      "landmark_edges": 0
+    },
+    "bounds": {
+      "x": -804,
+      "y": -780,
+      "width": 1608,
+      "height": 1560,
+      "aspect_ratio": 1.0308
+    },
+    "png_path": "overview.png",
+    "png_sha256": "b5da7688d30b73edae37f84bb7b9f57a22aedde00f95b0a5db77c0ef2feceba4",
+    "png_dimensions": [
+      2400,
+      2335
+    ]
+  },
+  "chapter_maps": [
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-001",
+      "status": "ready",
+      "path": "chapters/01-第一章-集合与常用逻辑用语-75a20e.canvas",
+      "counts": {
+        "cards": 73,
+        "groups": 14,
+        "edges": 62,
+        "internal_atoms": 56,
+        "source_atoms": 126,
+        "knowledge_atoms": 12,
+        "scenario_atoms": 26,
+        "featured_examples": 18,
+        "exercise_atoms_summarized": 70,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 10,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 13,
+        "concept_relation_edges": 11,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 38,
+        "navigation_nodes": 17,
+        "regions": 9,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 9040,
+        "height": 3282,
+        "aspect_ratio": 2.7544
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 28,
+        "edge_length_median": 552,
+        "edge_length_p90": 1802,
+        "edge_length_max": 2183,
+        "edges_over_2000": 2,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-002",
+          "node_id": "0c089fe1014bec8e",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "14583c5655a5a508",
+            "186894ca91598c1e",
+            "4f80d8c79490ce88",
+            "4fa42471572e77bf",
+            "6a70e9e8bf0bad17",
+            "8a55f4ba5b8a8556",
+            "96fd99e41ed346bb",
+            "baae0d944549fe4d",
+            "e366ec0eadfd1dc4",
+            "f06a37d2218be22b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-003",
+          "node_id": "abc52b1eeca7a3c9",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "03b17cb28c6075ae",
+            "2b1701e8672cb19b",
+            "3e3911c220cec4d7",
+            "8199b1b2ea9dd961",
+            "a133b790f2a4cefb",
+            "ce40d812c164887c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-004",
+          "node_id": "86ea37c0dfe5c875",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "082b66ee25e19828",
+            "0e4d2095f6c7f933",
+            "4e7e81cb8777e246",
+            "4fb0102da84b3208",
+            "5e50d03aa6df5999",
+            "6376411780e22792",
+            "852ed96f3e6dc188",
+            "d0b6e72a1abb864e",
+            "ec0ebe08546cff64"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-005",
+          "node_id": "3489b66a2f0b48f2",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "9855926ba5fc38da",
+            "c1afb1d0ffb8484a"
+          ]
+        },
+        {
+          "organizer_key": "semantic-00916",
+          "node_id": "0b0de4157c9dc6cf",
+          "parent_id": "ff27f811061db630",
+          "member_ids": [
+            "17ebf1bd71d7a0e0",
+            "44ff41d7407d581c",
+            "497e5b50b63a77e9",
+            "8c257e296fccbb66",
+            "a013f7d56e1f06c8",
+            "a0e6c4ec3a69eeaf",
+            "c8c9591ef1736c1a",
+            "fa26a8146da686c6",
+            "ff740f4a0a9d76da"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01069",
+          "node_id": "edddeffbbee32244",
+          "parent_id": "ff27f811061db630",
+          "member_ids": [
+            "0bfa428d1c92ba2b",
+            "8314854d2f5f99d6",
+            "8cc82516e637cd80",
+            "ab0016c61eba9e58",
+            "c85baf83c8699868",
+            "d2e6754c890b96a8",
+            "dd6595da576b7871"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-006",
+          "node_id": "ff27f811061db630",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "0bfa428d1c92ba2b",
+            "17ebf1bd71d7a0e0",
+            "44ff41d7407d581c",
+            "497e5b50b63a77e9",
+            "76cce221f4d054e3",
+            "8314854d2f5f99d6",
+            "8c257e296fccbb66",
+            "8cc82516e637cd80",
+            "a013f7d56e1f06c8",
+            "a0e6c4ec3a69eeaf",
+            "ab0016c61eba9e58",
+            "c85baf83c8699868",
+            "c8c9591ef1736c1a",
+            "d2e6754c890b96a8",
+            "d5bd5c4d33127ec5",
+            "dd6595da576b7871",
+            "fa26a8146da686c6",
+            "ff740f4a0a9d76da"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-007",
+          "node_id": "6ce3d89c8f04f37e",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "040d7ae4187c4cf2",
+            "607187baa6eedfd9",
+            "7c1e764deff987fc",
+            "8b67c865749d99d5",
+            "cbd67c558413280c"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01292",
+          "node_id": "7a9a0ad5ef68cd10",
+          "parent_id": "2107539e5d85b680",
+          "member_ids": [
+            "04da271b463393ac",
+            "1edef63719ce7230",
+            "532deb739d604583",
+            "9be22d7295eb4acd",
+            "d46cab266a446da5",
+            "fa9221672d8f820f"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01404",
+          "node_id": "0e430985172e54a8",
+          "parent_id": "2107539e5d85b680",
+          "member_ids": [
+            "2d0f6fa36d7ba88f",
+            "4effef7423482307",
+            "54e1be4f9baaa842",
+            "80aaf4be844dd942",
+            "a383ea241dc0e7aa",
+            "bc7a334ee65c8993",
+            "c187214eed2f4363"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-008",
+          "node_id": "2107539e5d85b680",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "04da271b463393ac",
+            "1edef63719ce7230",
+            "2d0f6fa36d7ba88f",
+            "31e0641c9efe1962",
+            "4effef7423482307",
+            "532deb739d604583",
+            "54e1be4f9baaa842",
+            "587ada2a9e48174f",
+            "80aaf4be844dd942",
+            "9be22d7295eb4acd",
+            "a383ea241dc0e7aa",
+            "bc7a334ee65c8993",
+            "c187214eed2f4363",
+            "d46cab266a446da5",
+            "fa9221672d8f820f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-009",
+          "node_id": "b6318faf41fc2aea",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "cf710a1b425fa9dc",
+            "fad03cd592af69bd"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-010",
+          "node_id": "73f1e5d0f8bb5a84",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "251bb60dfccbdb1a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-001",
+          "node_id": "87ad805e9f5e5d9b",
+          "parent_id": null,
+          "member_ids": [
+            "03b17cb28c6075ae",
+            "040d7ae4187c4cf2",
+            "04da271b463393ac",
+            "082b66ee25e19828",
+            "0bfa428d1c92ba2b",
+            "0e4d2095f6c7f933",
+            "14583c5655a5a508",
+            "17ebf1bd71d7a0e0",
+            "186894ca91598c1e",
+            "1edef63719ce7230",
+            "251bb60dfccbdb1a",
+            "2b1701e8672cb19b",
+            "2d0f6fa36d7ba88f",
+            "31e0641c9efe1962",
+            "3e3911c220cec4d7",
+            "44ff41d7407d581c",
+            "497e5b50b63a77e9",
+            "4e7e81cb8777e246",
+            "4effef7423482307",
+            "4f80d8c79490ce88",
+            "4fa42471572e77bf",
+            "4fb0102da84b3208",
+            "532deb739d604583",
+            "54e1be4f9baaa842",
+            "587ada2a9e48174f",
+            "5e50d03aa6df5999",
+            "607187baa6eedfd9",
+            "6376411780e22792",
+            "6a70e9e8bf0bad17",
+            "76cce221f4d054e3",
+            "7c1e764deff987fc",
+            "80aaf4be844dd942",
+            "8199b1b2ea9dd961",
+            "8314854d2f5f99d6",
+            "852ed96f3e6dc188",
+            "8a55f4ba5b8a8556",
+            "8b67c865749d99d5",
+            "8c257e296fccbb66",
+            "8cc82516e637cd80",
+            "96fd99e41ed346bb",
+            "9855926ba5fc38da",
+            "9be22d7295eb4acd",
+            "a013f7d56e1f06c8",
+            "a0e6c4ec3a69eeaf",
+            "a133b790f2a4cefb",
+            "a383ea241dc0e7aa",
+            "ab0016c61eba9e58",
+            "baae0d944549fe4d",
+            "bc7a334ee65c8993",
+            "c187214eed2f4363",
+            "c1afb1d0ffb8484a",
+            "c3e0e5a375ded2b3",
+            "c85baf83c8699868",
+            "c8c9591ef1736c1a",
+            "cbd67c558413280c",
+            "ce40d812c164887c",
+            "cf710a1b425fa9dc",
+            "d0b6e72a1abb864e",
+            "d2e6754c890b96a8",
+            "d46cab266a446da5",
+            "d5bd5c4d33127ec5",
+            "dd6595da576b7871",
+            "e366ec0eadfd1dc4",
+            "e56ab7c6930c793e",
+            "ec0ebe08546cff64",
+            "f06a37d2218be22b",
+            "fa26a8146da686c6",
+            "fa9221672d8f820f",
+            "fad03cd592af69bd",
+            "ff740f4a0a9d76da"
+          ]
+        }
+      ],
+      "png_path": "chapters/01-第一章-集合与常用逻辑用语-75a20e.png",
+      "png_sha256": "7fddc685eaff4a5c15317d55e80f86da6e0ab55a8f529d3ee1652e16188b5c7c",
+      "png_dimensions": [
+        2400,
+        898
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-011",
+      "status": "ready",
+      "path": "chapters/02-第二章-一元二次函数、方程和不等式-9775d4.canvas",
+      "counts": {
+        "cards": 24,
+        "groups": 6,
+        "edges": 15,
+        "internal_atoms": 15,
+        "source_atoms": 73,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 7,
+        "featured_examples": 6,
+        "exercise_atoms_summarized": 58,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 6,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 4,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 10,
+        "navigation_nodes": 9,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1668,
+        "height": 2770,
+        "aspect_ratio": 0.6022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 3,
+        "edge_length_median": 523,
+        "edge_length_p90": 974,
+        "edge_length_max": 1072,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-012",
+          "node_id": "68764399e5f0f6c5",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "13b4515eedfa6232",
+            "377f0654673933f8",
+            "86117d00ea55a15e",
+            "aa7a8756929f642f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-013",
+          "node_id": "e99152bbd2e14c41",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "3223d7617ebe8313",
+            "355cbbe8f6ae5946",
+            "4c5996a2f33474b8",
+            "91dd964854095958",
+            "af8cf1c13772af60",
+            "fdeb03a560dc9ddf"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-014",
+          "node_id": "2b4c5179f8f632a6",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "081bac92c3b0f8d2",
+            "610317428ebe0e9f",
+            "a3654c73afd22a8c",
+            "b6509906452adb85",
+            "b834a8da0fab1e4a",
+            "ed13034de1b2882b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-015",
+          "node_id": "06f59a71530f6566",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "61c0efd286d8b9d1",
+            "e35026e32ac2f5bb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-016",
+          "node_id": "8b5840c4af38150f",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "dbf532350733e006"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-011",
+          "node_id": "b4084bfa85c6bcb1",
+          "parent_id": null,
+          "member_ids": [
+            "081bac92c3b0f8d2",
+            "13b4515eedfa6232",
+            "2022ccb496423307",
+            "22a7ee04ae14853c",
+            "3223d7617ebe8313",
+            "355cbbe8f6ae5946",
+            "377f0654673933f8",
+            "4c5996a2f33474b8",
+            "610317428ebe0e9f",
+            "61c0efd286d8b9d1",
+            "86117d00ea55a15e",
+            "91dd964854095958",
+            "a3654c73afd22a8c",
+            "aa7a8756929f642f",
+            "af8cf1c13772af60",
+            "b6509906452adb85",
+            "b834a8da0fab1e4a",
+            "dbf532350733e006",
+            "e35026e32ac2f5bb",
+            "ed13034de1b2882b",
+            "fdeb03a560dc9ddf"
+          ]
+        }
+      ],
+      "png_path": "chapters/02-第二章-一元二次函数、方程和不等式-9775d4.png",
+      "png_sha256": "9762777ccaa58077bc4e33b3b796316f3afae1a8f53b602175f38f15e2cc0093",
+      "png_dimensions": [
+        2400,
+        3847
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-017",
+      "status": "ready",
+      "path": "chapters/03-第三章-函数的概念与性质-8c58a6.canvas",
+      "counts": {
+        "cards": 60,
+        "groups": 15,
+        "edges": 48,
+        "internal_atoms": 42,
+        "source_atoms": 128,
+        "knowledge_atoms": 11,
+        "scenario_atoms": 21,
+        "featured_examples": 10,
+        "exercise_atoms_summarized": 86,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 11,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 15,
+        "concept_relation_edges": 10,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 23,
+        "navigation_nodes": 18,
+        "regions": 10,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 7420,
+        "height": 2068,
+        "aspect_ratio": 3.588
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 508,
+        "edge_length_p90": 920,
+        "edge_length_max": 1431,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-02746",
+          "node_id": "5bb42ba771ea991d",
+          "parent_id": "c3e412f0efbb8df0",
+          "member_ids": [
+            "206a8efd6bbe1b6e",
+            "272536c2a2bf6b44",
+            "2acfa2b0a5295a26",
+            "3f8005e085e72a57",
+            "704cd609f7acf490",
+            "b9fbe67a5434183a"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03001",
+          "node_id": "491e414bbe62021d",
+          "parent_id": "c3e412f0efbb8df0",
+          "member_ids": [
+            "115a8badc4f10c66",
+            "55e34d246a342b06",
+            "89141307d9f98ef6",
+            "8ed7ce83c6395d9d",
+            "9c07bf86a5f967cd",
+            "ac33e9e59b8eb25b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-018",
+          "node_id": "c3e412f0efbb8df0",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "115a8badc4f10c66",
+            "206a8efd6bbe1b6e",
+            "272536c2a2bf6b44",
+            "2acfa2b0a5295a26",
+            "3f8005e085e72a57",
+            "55e34d246a342b06",
+            "6e1770239f846025",
+            "704cd609f7acf490",
+            "89141307d9f98ef6",
+            "8ed7ce83c6395d9d",
+            "9c07bf86a5f967cd",
+            "a11d4115d82c95d2",
+            "ac33e9e59b8eb25b",
+            "b9fbe67a5434183a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-019",
+          "node_id": "3e23eb4eb038733c",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "49303c6a96b9bd38",
+            "6061c387ab2bd775"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03349",
+          "node_id": "d0d74041204674df",
+          "parent_id": "011e040728fd01d5",
+          "member_ids": [
+            "17e9b6532f32d750",
+            "67b27fc48855b420",
+            "8f6501d98b6790f3",
+            "a5ae9d9c7c23298f",
+            "b0b0a1e8bdf27d81",
+            "bfca3e6a30cbabd4",
+            "cf5020e89e19d14a"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03603",
+          "node_id": "a0ba7517d16d3c97",
+          "parent_id": "011e040728fd01d5",
+          "member_ids": [
+            "09c44de68046fdc3",
+            "1cbfdf0c6a6b6d05",
+            "72a84d41bf27737f",
+            "7b60a7cb42b3c827",
+            "bb184535e5de0e09",
+            "bd20bcd71346b38b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-020",
+          "node_id": "011e040728fd01d5",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "09c44de68046fdc3",
+            "0c3d3b9e31fd36a0",
+            "17e9b6532f32d750",
+            "1cbfdf0c6a6b6d05",
+            "67b27fc48855b420",
+            "72a84d41bf27737f",
+            "7b60a7cb42b3c827",
+            "8f6501d98b6790f3",
+            "a5ae9d9c7c23298f",
+            "b0b0a1e8bdf27d81",
+            "bb184535e5de0e09",
+            "bd20bcd71346b38b",
+            "bfca3e6a30cbabd4",
+            "cf5020e89e19d14a",
+            "e4944391a0105488"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-021",
+          "node_id": "f8dc93a11b6ab09b",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "06d3a643ba65162e",
+            "573231890c786eca",
+            "7fa76e2a138888cb",
+            "c5ca5a22d1961a53"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-022",
+          "node_id": "45f0b654cad31196",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "380da2c532ff2c83",
+            "b93dde36afdab02a",
+            "c2b3a114dd6e25ec",
+            "d4504cba31e3fe1a",
+            "fedc65b29f654454"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-023",
+          "node_id": "503e1ca07df424ca",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "396452666b18807d",
+            "e3122741ef2ef119"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-024",
+          "node_id": "2b1384c18ee6d01b",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "17ecff255bfd34b7",
+            "3a45c7122964a9d9",
+            "ab21db4b243efc15",
+            "e11ef0d80252d330"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-025",
+          "node_id": "3981d799216bf67e",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "0e5cc8dae0dc2b64",
+            "25e91fde38972ee8",
+            "26ba3aa0d2171666",
+            "b27cf30bd3a883e7",
+            "c5459afbe455a378",
+            "ef50e79721768551"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-026",
+          "node_id": "69e93bd25337be9d",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "cac669a8ef10eeef",
+            "f813a96b5f8ca701"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-027",
+          "node_id": "52b05a34a7983c9e",
+          "parent_id": "dc63773ff31927f4",
+          "member_ids": [
+            "6a80498d2f5e9b04"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-017",
+          "node_id": "dc63773ff31927f4",
+          "parent_id": null,
+          "member_ids": [
+            "06d3a643ba65162e",
+            "09c44de68046fdc3",
+            "09d8e89f22cc40dc",
+            "0c3d3b9e31fd36a0",
+            "0e5cc8dae0dc2b64",
+            "115a8badc4f10c66",
+            "17e9b6532f32d750",
+            "17ecff255bfd34b7",
+            "1cbfdf0c6a6b6d05",
+            "206a8efd6bbe1b6e",
+            "25e91fde38972ee8",
+            "26ba3aa0d2171666",
+            "272536c2a2bf6b44",
+            "2acfa2b0a5295a26",
+            "2bb268629e7aaca5",
+            "380da2c532ff2c83",
+            "396452666b18807d",
+            "3a45c7122964a9d9",
+            "3f8005e085e72a57",
+            "49303c6a96b9bd38",
+            "55e34d246a342b06",
+            "573231890c786eca",
+            "6061c387ab2bd775",
+            "67b27fc48855b420",
+            "6a80498d2f5e9b04",
+            "6e1770239f846025",
+            "704cd609f7acf490",
+            "72a84d41bf27737f",
+            "7b60a7cb42b3c827",
+            "7fa76e2a138888cb",
+            "89141307d9f98ef6",
+            "8ed7ce83c6395d9d",
+            "8f6501d98b6790f3",
+            "9c07bf86a5f967cd",
+            "a11d4115d82c95d2",
+            "a5ae9d9c7c23298f",
+            "ab21db4b243efc15",
+            "ac33e9e59b8eb25b",
+            "b0b0a1e8bdf27d81",
+            "b27cf30bd3a883e7",
+            "b93dde36afdab02a",
+            "b9fbe67a5434183a",
+            "bb184535e5de0e09",
+            "bd20bcd71346b38b",
+            "bfca3e6a30cbabd4",
+            "c2b3a114dd6e25ec",
+            "c5459afbe455a378",
+            "c5ca5a22d1961a53",
+            "cac669a8ef10eeef",
+            "cf5020e89e19d14a",
+            "d4504cba31e3fe1a",
+            "e11ef0d80252d330",
+            "e3122741ef2ef119",
+            "e4944391a0105488",
+            "ef50e79721768551",
+            "f813a96b5f8ca701",
+            "fedc65b29f654454"
+          ]
+        }
+      ],
+      "png_path": "chapters/03-第三章-函数的概念与性质-8c58a6.png",
+      "png_sha256": "39b9f88d4bc3f95608a88ceedc361cf673c0690c257065564fd1701cc023e0e4",
+      "png_dimensions": [
+        2400,
+        706
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-028",
+      "status": "ready",
+      "path": "chapters/04-第四章-指数函数与对数函数-3702e5.canvas",
+      "counts": {
+        "cards": 100,
+        "groups": 26,
+        "edges": 81,
+        "internal_atoms": 72,
+        "source_atoms": 184,
+        "knowledge_atoms": 19,
+        "scenario_atoms": 32,
+        "featured_examples": 21,
+        "exercise_atoms_summarized": 112,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 14,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 22,
+        "concept_relation_edges": 18,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 41,
+        "navigation_nodes": 28,
+        "regions": 13,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 14146,
+        "height": 2064,
+        "aspect_ratio": 6.8537
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 25,
+        "edge_length_median": 508,
+        "edge_length_p90": 1132,
+        "edge_length_max": 1952,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-04357",
+          "node_id": "9e9d601e609dbd85",
+          "parent_id": "c22595ecac92719f",
+          "member_ids": [
+            "1eef3997b6a2381f",
+            "2bb9c838a99daceb",
+            "3e99d5ebee88eee0",
+            "469fc23fc58b4188",
+            "5fc0e8351cee4180",
+            "a821ecea91e5bf7e",
+            "b70300431b34bc81",
+            "cd0726dffd446522"
+          ]
+        },
+        {
+          "organizer_key": "semantic-04534",
+          "node_id": "fab6545743ef0542",
+          "parent_id": "c22595ecac92719f",
+          "member_ids": [
+            "5bc74129f42cd227",
+            "7d17322c984da10f",
+            "8756e545f596a63b",
+            "a27c8a12fd6bbea3"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-029",
+          "node_id": "c22595ecac92719f",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "19df17528a99c7c3",
+            "1eef3997b6a2381f",
+            "2bb9c838a99daceb",
+            "3e99d5ebee88eee0",
+            "469fc23fc58b4188",
+            "5bc74129f42cd227",
+            "5fc0e8351cee4180",
+            "7d17322c984da10f",
+            "8756e545f596a63b",
+            "983dc8ad60dece22",
+            "a27c8a12fd6bbea3",
+            "a821ecea91e5bf7e",
+            "b70300431b34bc81",
+            "cd0726dffd446522"
+          ]
+        },
+        {
+          "organizer_key": "semantic-04649",
+          "node_id": "c61d9feb079f8c67",
+          "parent_id": "9fbf9cdf481da5cb",
+          "member_ids": [
+            "5419f2c1502f62ce",
+            "89c74ce5da8281da",
+            "b737f591d5d07e37",
+            "caf2a97bfdf0d80c",
+            "d77078e5cd4b4cf4",
+            "ea5e503ee8189fbb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-030",
+          "node_id": "9fbf9cdf481da5cb",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "5419f2c1502f62ce",
+            "89c74ce5da8281da",
+            "9993b3794e7ccc9a",
+            "b737f591d5d07e37",
+            "caf2a97bfdf0d80c",
+            "d640dd9dabab488e",
+            "d77078e5cd4b4cf4",
+            "ea5e503ee8189fbb"
+          ]
+        },
+        {
+          "organizer_key": "semantic-04853",
+          "node_id": "af54d91233656459",
+          "parent_id": "47dfc327b148a4c6",
+          "member_ids": [
+            "106e431a7b54f924",
+            "4933cfcdec138860",
+            "6d53e7680cd69c11",
+            "6fe1f5b59684b465",
+            "e958c49ecaee89fd",
+            "f3746d45c252fcd2"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-031",
+          "node_id": "47dfc327b148a4c6",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "106e431a7b54f924",
+            "30da1d11b1b7a638",
+            "4933cfcdec138860",
+            "6d53e7680cd69c11",
+            "6fe1f5b59684b465",
+            "dfd2e5e820ceb8a0",
+            "e958c49ecaee89fd",
+            "f3746d45c252fcd2"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-032",
+          "node_id": "4ea4bd50eca27136",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "84fe10d57137a1a3",
+            "96db1810b6a69f92"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05044",
+          "node_id": "2fd58d73df321e3e",
+          "parent_id": "5e84ef4f95479745",
+          "member_ids": [
+            "5a19e7a582e64c0f",
+            "636552c066ff574f",
+            "8fce60ac05d4ca8f",
+            "ecae1474060a1347"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05149",
+          "node_id": "5dddcd95e82cff9a",
+          "parent_id": "5e84ef4f95479745",
+          "member_ids": [
+            "0ed91e4c741386f8",
+            "242d047484b2918e",
+            "61ffe0831910d448",
+            "77de9406f1d5c175",
+            "97a7fdfee6b7cc4b",
+            "a055bdd0e69759dd",
+            "e6364a403c87c807"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-033",
+          "node_id": "5e84ef4f95479745",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "0ed91e4c741386f8",
+            "242d047484b2918e",
+            "5a19e7a582e64c0f",
+            "61ffe0831910d448",
+            "636552c066ff574f",
+            "63d0bfb7a17db54a",
+            "77de9406f1d5c175",
+            "8fce60ac05d4ca8f",
+            "97a7fdfee6b7cc4b",
+            "a055bdd0e69759dd",
+            "d2fa56ea41d31c0b",
+            "e6364a403c87c807",
+            "ecae1474060a1347"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-034",
+          "node_id": "e6dd759e53388371",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "1931291b0b1ed2ad",
+            "dc0bb7e08b1867f1"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05371",
+          "node_id": "e34e5e64a14989b8",
+          "parent_id": "dd45cc4b1c6c55fd",
+          "member_ids": [
+            "11e8b5edc7e3d802",
+            "28bf059037c2a09f",
+            "696f2b2b89c4ad24",
+            "6a42180dd64ee8f5",
+            "84a2d20cc2b5cb9a"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05452",
+          "node_id": "b28e297377254f8f",
+          "parent_id": "dd45cc4b1c6c55fd",
+          "member_ids": [
+            "1429596e10373f31",
+            "2a297456a253fe6b",
+            "2ae3e2ee8db556e3",
+            "48b0abacd814920a",
+            "79d48efe43d8fd57",
+            "a639f388bc5acc46",
+            "df53d1ef6a0acc4f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-035",
+          "node_id": "dd45cc4b1c6c55fd",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "11e8b5edc7e3d802",
+            "1429596e10373f31",
+            "28bf059037c2a09f",
+            "2a297456a253fe6b",
+            "2ae3e2ee8db556e3",
+            "48b0abacd814920a",
+            "508625afb3dbb293",
+            "696f2b2b89c4ad24",
+            "6a42180dd64ee8f5",
+            "79d48efe43d8fd57",
+            "84a2d20cc2b5cb9a",
+            "a639f388bc5acc46",
+            "df53d1ef6a0acc4f",
+            "ef8b1ecf80befd5b"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05586",
+          "node_id": "889124070ce8d446",
+          "parent_id": "7653e4c64d37beb0",
+          "member_ids": [
+            "13e1b9abd6542d86",
+            "391827354aeb35ba",
+            "9ca925f5831d03a0",
+            "b2914a3d3057ac82",
+            "e2f31cecda65d02c",
+            "f4a281cade46af44"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-036",
+          "node_id": "7653e4c64d37beb0",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "13e1b9abd6542d86",
+            "391827354aeb35ba",
+            "6dee767b59280a89",
+            "9ca925f5831d03a0",
+            "b2914a3d3057ac82",
+            "cd088d4f6ecded60",
+            "d03aac8ed632790d",
+            "e2f31cecda65d02c",
+            "f4a281cade46af44"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05778",
+          "node_id": "f425d28ee1d450c1",
+          "parent_id": "8fd2dbc1f1b2c5ed",
+          "member_ids": [
+            "29304023386f872b",
+            "718c741aecf48902",
+            "b8d2a9bcd1dbf488",
+            "cbc0089700d9b7d6",
+            "f661d9b63a21cb5f"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05850",
+          "node_id": "42f6837ad9db0538",
+          "parent_id": "8fd2dbc1f1b2c5ed",
+          "member_ids": [
+            "7fa6941943716b7c",
+            "894261cfaab61ece"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-037",
+          "node_id": "8fd2dbc1f1b2c5ed",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "29304023386f872b",
+            "718c741aecf48902",
+            "7fa6941943716b7c",
+            "894261cfaab61ece",
+            "9c8bfe842d8d1b45",
+            "b8d2a9bcd1dbf488",
+            "cbc0089700d9b7d6",
+            "e2d20f6ff0bf9414",
+            "f661d9b63a21cb5f"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05956",
+          "node_id": "687ff317f90b8ef6",
+          "parent_id": "da9193f6db513ff3",
+          "member_ids": [
+            "56f7c692fb116125",
+            "838d4fa2c48ecc49",
+            "92292b94eac4e180",
+            "a6a62af6cd2b2bf5",
+            "c5bdae8d8a76c737",
+            "e13e4547aba90f28"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-038",
+          "node_id": "da9193f6db513ff3",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "4407d94bb7bfb121",
+            "56f7c692fb116125",
+            "838d4fa2c48ecc49",
+            "92292b94eac4e180",
+            "a6a62af6cd2b2bf5",
+            "c5bdae8d8a76c737",
+            "e13e4547aba90f28",
+            "e3a9118323fb832a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-039",
+          "node_id": "d707fce7f6c51272",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "079c100a21623860",
+            "1702537f2b3cd227",
+            "6aa3572a515926b9",
+            "aff1a36c40bcb6ca",
+            "b5380f3ccda103cb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-040",
+          "node_id": "99fe729748df8379",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "10f427240db6941a",
+            "203f07f4b8f2189c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-041",
+          "node_id": "7291b127b082294a",
+          "parent_id": "30ec2d0f130da97e",
+          "member_ids": [
+            "128bf41d5fe7a6e0"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-028",
+          "node_id": "30ec2d0f130da97e",
+          "parent_id": null,
+          "member_ids": [
+            "079c100a21623860",
+            "0ed91e4c741386f8",
+            "106e431a7b54f924",
+            "10f427240db6941a",
+            "11e8b5edc7e3d802",
+            "128bf41d5fe7a6e0",
+            "13e1b9abd6542d86",
+            "1429596e10373f31",
+            "1702537f2b3cd227",
+            "1931291b0b1ed2ad",
+            "19df17528a99c7c3",
+            "1eef3997b6a2381f",
+            "203f07f4b8f2189c",
+            "242d047484b2918e",
+            "28bf059037c2a09f",
+            "29304023386f872b",
+            "2a297456a253fe6b",
+            "2ae3e2ee8db556e3",
+            "2bb9c838a99daceb",
+            "30da1d11b1b7a638",
+            "391827354aeb35ba",
+            "3e99d5ebee88eee0",
+            "4407d94bb7bfb121",
+            "469fc23fc58b4188",
+            "4705ec85b9ee75d0",
+            "48b0abacd814920a",
+            "4933cfcdec138860",
+            "508625afb3dbb293",
+            "5419f2c1502f62ce",
+            "56f7c692fb116125",
+            "5a19e7a582e64c0f",
+            "5bc74129f42cd227",
+            "5fc0e8351cee4180",
+            "61ffe0831910d448",
+            "636552c066ff574f",
+            "63d0bfb7a17db54a",
+            "696f2b2b89c4ad24",
+            "6a42180dd64ee8f5",
+            "6aa3572a515926b9",
+            "6d53e7680cd69c11",
+            "6dee767b59280a89",
+            "6fe1f5b59684b465",
+            "718c741aecf48902",
+            "77de9406f1d5c175",
+            "79d48efe43d8fd57",
+            "7d17322c984da10f",
+            "7fa6941943716b7c",
+            "838d4fa2c48ecc49",
+            "84a2d20cc2b5cb9a",
+            "84fe10d57137a1a3",
+            "8756e545f596a63b",
+            "894261cfaab61ece",
+            "89c74ce5da8281da",
+            "8fce60ac05d4ca8f",
+            "92292b94eac4e180",
+            "96db1810b6a69f92",
+            "97a7fdfee6b7cc4b",
+            "983dc8ad60dece22",
+            "9993b3794e7ccc9a",
+            "9c8bfe842d8d1b45",
+            "9ca925f5831d03a0",
+            "a055bdd0e69759dd",
+            "a27c8a12fd6bbea3",
+            "a639f388bc5acc46",
+            "a6a62af6cd2b2bf5",
+            "a821ecea91e5bf7e",
+            "aff1a36c40bcb6ca",
+            "b2914a3d3057ac82",
+            "b5380f3ccda103cb",
+            "b70300431b34bc81",
+            "b737f591d5d07e37",
+            "b8d2a9bcd1dbf488",
+            "c5bdae8d8a76c737",
+            "caf2a97bfdf0d80c",
+            "cbc0089700d9b7d6",
+            "cd0726dffd446522",
+            "cd088d4f6ecded60",
+            "d03aac8ed632790d",
+            "d2fa56ea41d31c0b",
+            "d640dd9dabab488e",
+            "d77078e5cd4b4cf4",
+            "dc0bb7e08b1867f1",
+            "dea3b7eb18a9ab2b",
+            "df53d1ef6a0acc4f",
+            "dfd2e5e820ceb8a0",
+            "e13e4547aba90f28",
+            "e2d20f6ff0bf9414",
+            "e2f31cecda65d02c",
+            "e3a9118323fb832a",
+            "e6364a403c87c807",
+            "e958c49ecaee89fd",
+            "ea5e503ee8189fbb",
+            "ecae1474060a1347",
+            "ef8b1ecf80befd5b",
+            "f3746d45c252fcd2",
+            "f4a281cade46af44",
+            "f661d9b63a21cb5f"
+          ]
+        }
+      ],
+      "png_path": "chapters/04-第四章-指数函数与对数函数-3702e5.png",
+      "png_sha256": "daa14b7fb12c6849b0a6200dc2bf581b5c35ddd9015355cd50c1c09133742a0f",
+      "png_dimensions": [
+        2400,
+        374
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-042",
+      "status": "ready",
+      "path": "chapters/05-数学建模-建立函数模型解决实际问题-a2f4dd.canvas",
+      "counts": {
+        "cards": 18,
+        "groups": 1,
+        "edges": 25,
+        "internal_atoms": 14,
+        "source_atoms": 14,
+        "knowledge_atoms": 13,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 1,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 13,
+        "concept_relation_edges": 12,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 6212,
+        "height": 406,
+        "aspect_ratio": 15.3005
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 780,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-042",
+          "node_id": "1b1057802f4ba803",
+          "parent_id": null,
+          "member_ids": [
+            "2917ed36f7272c5a",
+            "38fd62f2308e344a",
+            "48a4373bb97edb52",
+            "4d6924f0f8280ced",
+            "6512c9b0eac153ad",
+            "66ff62c820cb4a6a",
+            "9f9a4ab0fcd303fb",
+            "a10f209e18a7bd47",
+            "a5714f455e3618dd",
+            "b1d85757ab041a57",
+            "c40eec955c8a81f0",
+            "c7f42931dee06311",
+            "cb30582f321e4327",
+            "e3b8ab92ef3aa5e3",
+            "fa68312f7592c5a5"
+          ]
+        }
+      ],
+      "png_path": "chapters/05-数学建模-建立函数模型解决实际问题-a2f4dd.png",
+      "png_sha256": "cfe34c10ed4e50e8bc5735841f306f59f7af6940cf345eacf2f2a5c6d858bdb5",
+      "png_dimensions": [
+        2400,
+        214
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-043",
+      "status": "ready",
+      "path": "chapters/06-第五章-三角函数-c80f27.canvas",
+      "counts": {
+        "cards": 118,
+        "groups": 26,
+        "edges": 102,
+        "internal_atoms": 89,
+        "source_atoms": 285,
+        "knowledge_atoms": 22,
+        "scenario_atoms": 42,
+        "featured_examples": 25,
+        "exercise_atoms_summarized": 196,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 15,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 27,
+        "concept_relation_edges": 21,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 54,
+        "navigation_nodes": 29,
+        "regions": 14,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 15174,
+        "height": 2896,
+        "aspect_ratio": 5.2396
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 47,
+        "edge_length_median": 508,
+        "edge_length_p90": 1436,
+        "edge_length_max": 5124,
+        "edges_over_2000": 5,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-06704",
+          "node_id": "1ed54581baf21742",
+          "parent_id": "d938ff4569428849",
+          "member_ids": [
+            "15acf9b66b934e3d",
+            "1f77d0611a172fe3",
+            "2476a652d4d7065a",
+            "530228bc8a86d776",
+            "97a2ce2baf248291",
+            "ec4761a9aea80695"
+          ]
+        },
+        {
+          "organizer_key": "semantic-06842",
+          "node_id": "91fee0f67560e885",
+          "parent_id": "d938ff4569428849",
+          "member_ids": [
+            "259cb710996cc3fe",
+            "46646058e9a88f22",
+            "49304e3b4d8f377d",
+            "920047cbe8ec647f",
+            "b18b94b1bff80e27",
+            "b8378a7c79cc2a99",
+            "e7278c5d28216be8"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-044",
+          "node_id": "d938ff4569428849",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "15acf9b66b934e3d",
+            "1f77d0611a172fe3",
+            "2476a652d4d7065a",
+            "259cb710996cc3fe",
+            "46646058e9a88f22",
+            "49304e3b4d8f377d",
+            "530228bc8a86d776",
+            "920047cbe8ec647f",
+            "95cc37b58a580cc9",
+            "97a2ce2baf248291",
+            "b18b94b1bff80e27",
+            "b8378a7c79cc2a99",
+            "dc15db5f3c050441",
+            "e7278c5d28216be8",
+            "ec4761a9aea80695"
+          ]
+        },
+        {
+          "organizer_key": "semantic-07094",
+          "node_id": "c7b0c3dfc01be8e4",
+          "parent_id": "9b4c6779580b7b06",
+          "member_ids": [
+            "39489a72a9b44245",
+            "485c9770b872c3ae",
+            "4934809b354d9032",
+            "5e57177eac5c1ae9",
+            "6b6dacb4fc242dd1",
+            "f9b743a89a245f4c"
+          ]
+        },
+        {
+          "organizer_key": "semantic-07363",
+          "node_id": "bc1c12c25c98df4a",
+          "parent_id": "9b4c6779580b7b06",
+          "member_ids": [
+            "62ba13cadbcb46c4",
+            "9d5571c35efa3788",
+            "cd04481f0deccb21",
+            "fa8214bce16d170a",
+            "fdfdaef4d36c52aa"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-045",
+          "node_id": "9b4c6779580b7b06",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "39489a72a9b44245",
+            "485c9770b872c3ae",
+            "4934809b354d9032",
+            "5e57177eac5c1ae9",
+            "62ba13cadbcb46c4",
+            "6b6dacb4fc242dd1",
+            "9d5571c35efa3788",
+            "bf9a7f37daf07c61",
+            "c5fe619dfecd4a72",
+            "cd04481f0deccb21",
+            "f9b743a89a245f4c",
+            "fa8214bce16d170a",
+            "fdfdaef4d36c52aa"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-046",
+          "node_id": "56426accd3fb4372",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "0f48567fa64d345a",
+            "e3ff144ec588c1b5"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-047",
+          "node_id": "b0303fe77297b58a",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "3d5537ea3f575f53",
+            "a8f30b8feabb959c",
+            "b325fb70f09afaf7",
+            "bf1ccab881af923e",
+            "e1afd91a7c3b189f"
+          ]
+        },
+        {
+          "organizer_key": "semantic-07924",
+          "node_id": "fcea687e23338ebc",
+          "parent_id": "a536d506ef91f7a3",
+          "member_ids": [
+            "0f1d8deb0b6f2272",
+            "265c796ba33f9b56",
+            "31ce61033fc990b1",
+            "36a5066e662bfa67",
+            "5fa95e7f5ed5f056",
+            "602031a34096f529",
+            "7774e9610facd6af",
+            "ab436401fe51f55b",
+            "bb21641904ce73b9"
+          ]
+        },
+        {
+          "organizer_key": "semantic-08058",
+          "node_id": "c284a4c3197f2604",
+          "parent_id": "a536d506ef91f7a3",
+          "member_ids": [
+            "20c22e74659f73cb",
+            "3f041aff03682566",
+            "7c83bae43dc01a6b",
+            "84848d6069a0768d",
+            "84d9e7b11d116f6d",
+            "b44cdc3940873fd0",
+            "c7dc644f942a0ff0",
+            "c9882fe05c80723c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-048",
+          "node_id": "a536d506ef91f7a3",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "0f1d8deb0b6f2272",
+            "1ce6053abb93d1d6",
+            "20c22e74659f73cb",
+            "265c796ba33f9b56",
+            "31ce61033fc990b1",
+            "36a5066e662bfa67",
+            "3f041aff03682566",
+            "5fa95e7f5ed5f056",
+            "602031a34096f529",
+            "676b3de7ab0acf13",
+            "7774e9610facd6af",
+            "7c83bae43dc01a6b",
+            "84848d6069a0768d",
+            "84d9e7b11d116f6d",
+            "ab436401fe51f55b",
+            "b44cdc3940873fd0",
+            "bb21641904ce73b9",
+            "c7dc644f942a0ff0",
+            "c9882fe05c80723c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-049",
+          "node_id": "c334cc53fe143e38",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "117a3d0918f0d1d0",
+            "36492b365a45c338",
+            "3e8b13a8047dc82a",
+            "4cfa86d12acec465",
+            "7e09f75147555ef7",
+            "883a4bfe77c6bba5",
+            "c9a41c547ccba39c",
+            "ebf0b8fd3dd7e72b"
+          ]
+        },
+        {
+          "organizer_key": "semantic-08468",
+          "node_id": "7eda9d72c4291591",
+          "parent_id": "cd222830aa07879e",
+          "member_ids": [
+            "01812b731da0fa13",
+            "0f9ffb4303df7f40",
+            "319616852bdccfe5",
+            "44d7c676131c16d5",
+            "7ac181abdb4ee559",
+            "ad590b621eff2929",
+            "c1fd68d07bc04cd2",
+            "ca3c73d5f0327514",
+            "d8236c633de1ee11",
+            "ef5b8dc92e34fbb2",
+            "fe1b19ac41d41e1c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-050",
+          "node_id": "cd222830aa07879e",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "01812b731da0fa13",
+            "0f9ffb4303df7f40",
+            "319616852bdccfe5",
+            "44d7c676131c16d5",
+            "5ad89cd048392e9e",
+            "7ac181abdb4ee559",
+            "7da3eb93e736b8dc",
+            "ad590b621eff2929",
+            "ad7e8498685109f9",
+            "c1fd68d07bc04cd2",
+            "ca3c73d5f0327514",
+            "d8236c633de1ee11",
+            "ef5b8dc92e34fbb2",
+            "fe1b19ac41d41e1c"
+          ]
+        },
+        {
+          "organizer_key": "semantic-08692",
+          "node_id": "0c7afc5c42a793ff",
+          "parent_id": "21f39865dd94c589",
+          "member_ids": [
+            "00054f48ed4c77a3",
+            "055b41df88d3495f",
+            "636fc16e90f3938d",
+            "648c4e75a0b0a547",
+            "ac1b1674a0b44dc0"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-051",
+          "node_id": "21f39865dd94c589",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "00054f48ed4c77a3",
+            "055b41df88d3495f",
+            "636fc16e90f3938d",
+            "648c4e75a0b0a547",
+            "74e744da55523941",
+            "8a04cb316dc95180",
+            "ac1b1674a0b44dc0"
+          ]
+        },
+        {
+          "organizer_key": "semantic-09132",
+          "node_id": "c80c50c1409fde93",
+          "parent_id": "90af616f25409ae4",
+          "member_ids": [
+            "40604773253763f2",
+            "6f26aaee2ef3bd00",
+            "904c21cd85f5d5a3",
+            "aa6e29f651046f0c",
+            "e529138168849418"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-052",
+          "node_id": "90af616f25409ae4",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "305c5baf8163e388",
+            "40604773253763f2",
+            "6f26aaee2ef3bd00",
+            "904c21cd85f5d5a3",
+            "aa6e29f651046f0c",
+            "e529138168849418",
+            "f817f4f2317b4bf9"
+          ]
+        },
+        {
+          "organizer_key": "semantic-09473",
+          "node_id": "37047fc2446e5c4c",
+          "parent_id": "78f2ee0f52165649",
+          "member_ids": [
+            "04b3aa7b41f81719",
+            "750b3d46cf4e4113",
+            "894ed6ecbc200795"
+          ]
+        },
+        {
+          "organizer_key": "semantic-09513",
+          "node_id": "bf4a75566eabf13c",
+          "parent_id": "78f2ee0f52165649",
+          "member_ids": [
+            "0a3148a2b316a285",
+            "2e983a7c530a6b69",
+            "3d91f8ba5da9750a",
+            "44f926f4cd3ff504",
+            "512532eadc075216",
+            "5f305a6e57ea1dd4",
+            "75bd9dd79da62073",
+            "7b9360aa80cbfd08",
+            "b54f6e2221d20ba4",
+            "ec5c23db21d255e2",
+            "f3b450f44fbbf358"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-053",
+          "node_id": "78f2ee0f52165649",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "04b3aa7b41f81719",
+            "0a3148a2b316a285",
+            "12399fc71feb5358",
+            "2e983a7c530a6b69",
+            "3d91f8ba5da9750a",
+            "44f926f4cd3ff504",
+            "512532eadc075216",
+            "5f305a6e57ea1dd4",
+            "750b3d46cf4e4113",
+            "75bd9dd79da62073",
+            "7b9360aa80cbfd08",
+            "894ed6ecbc200795",
+            "8a6c11d5fe09c30f",
+            "b54f6e2221d20ba4",
+            "ec5c23db21d255e2",
+            "f3b450f44fbbf358"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-054",
+          "node_id": "fe32fbcaef8736a5",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "2e67dad6de82dd87",
+            "3c9713f9a6540539"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-055",
+          "node_id": "c12a596033a1d607",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "cff77ab23ec4ba13",
+            "df5e2d40d1263940"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-056",
+          "node_id": "7412d986da7677f2",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "652414b3da90f42d",
+            "bd55de4cfc35aaf8"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-057",
+          "node_id": "cd65e934d6fac0a3",
+          "parent_id": "8ad3d5fd05ae3fa6",
+          "member_ids": [
+            "8687718ece9f5a81"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-043",
+          "node_id": "8ad3d5fd05ae3fa6",
+          "parent_id": null,
+          "member_ids": [
+            "00054f48ed4c77a3",
+            "01812b731da0fa13",
+            "04b3aa7b41f81719",
+            "055b41df88d3495f",
+            "0a3148a2b316a285",
+            "0f1d8deb0b6f2272",
+            "0f48567fa64d345a",
+            "0f9ffb4303df7f40",
+            "117a3d0918f0d1d0",
+            "12399fc71feb5358",
+            "15acf9b66b934e3d",
+            "1ce6053abb93d1d6",
+            "1f77d0611a172fe3",
+            "20c22e74659f73cb",
+            "2476a652d4d7065a",
+            "259cb710996cc3fe",
+            "265c796ba33f9b56",
+            "2e67dad6de82dd87",
+            "2e983a7c530a6b69",
+            "305c5baf8163e388",
+            "319616852bdccfe5",
+            "31ce61033fc990b1",
+            "36492b365a45c338",
+            "36a5066e662bfa67",
+            "39489a72a9b44245",
+            "3c9713f9a6540539",
+            "3d5537ea3f575f53",
+            "3d91f8ba5da9750a",
+            "3e8b13a8047dc82a",
+            "3f041aff03682566",
+            "40604773253763f2",
+            "44d7c676131c16d5",
+            "44f926f4cd3ff504",
+            "46646058e9a88f22",
+            "485c9770b872c3ae",
+            "49304e3b4d8f377d",
+            "4934809b354d9032",
+            "4cfa86d12acec465",
+            "512532eadc075216",
+            "530228bc8a86d776",
+            "5ad89cd048392e9e",
+            "5e57177eac5c1ae9",
+            "5f305a6e57ea1dd4",
+            "5fa95e7f5ed5f056",
+            "602031a34096f529",
+            "62ba13cadbcb46c4",
+            "636fc16e90f3938d",
+            "648c4e75a0b0a547",
+            "652414b3da90f42d",
+            "676b3de7ab0acf13",
+            "6b6dacb4fc242dd1",
+            "6f26aaee2ef3bd00",
+            "74e744da55523941",
+            "750b3d46cf4e4113",
+            "75bd9dd79da62073",
+            "7774e9610facd6af",
+            "7ac181abdb4ee559",
+            "7b9360aa80cbfd08",
+            "7c83bae43dc01a6b",
+            "7da3eb93e736b8dc",
+            "7e09f75147555ef7",
+            "84848d6069a0768d",
+            "84d9e7b11d116f6d",
+            "8687718ece9f5a81",
+            "883a4bfe77c6bba5",
+            "894ed6ecbc200795",
+            "8a04cb316dc95180",
+            "8a6c11d5fe09c30f",
+            "904c21cd85f5d5a3",
+            "920047cbe8ec647f",
+            "95cc37b58a580cc9",
+            "97a2ce2baf248291",
+            "9d5571c35efa3788",
+            "a8f30b8feabb959c",
+            "aa6e29f651046f0c",
+            "ab436401fe51f55b",
+            "ac1b1674a0b44dc0",
+            "ad590b621eff2929",
+            "ad7e8498685109f9",
+            "b18b94b1bff80e27",
+            "b325fb70f09afaf7",
+            "b44cdc3940873fd0",
+            "b54f6e2221d20ba4",
+            "b8378a7c79cc2a99",
+            "bb1b9d69f1951b8e",
+            "bb21641904ce73b9",
+            "bd55de4cfc35aaf8",
+            "bf1ccab881af923e",
+            "bf9a7f37daf07c61",
+            "c1fd68d07bc04cd2",
+            "c5fe619dfecd4a72",
+            "c7dc644f942a0ff0",
+            "c9882fe05c80723c",
+            "c9a41c547ccba39c",
+            "ca3c73d5f0327514",
+            "cd04481f0deccb21",
+            "cff77ab23ec4ba13",
+            "d8236c633de1ee11",
+            "dc15db5f3c050441",
+            "df5e2d40d1263940",
+            "e1afd91a7c3b189f",
+            "e3ff144ec588c1b5",
+            "e529138168849418",
+            "e7278c5d28216be8",
+            "ebf0b8fd3dd7e72b",
+            "ec4761a9aea80695",
+            "ec5c23db21d255e2",
+            "ef5b8dc92e34fbb2",
+            "f2527574612f8514",
+            "f3b450f44fbbf358",
+            "f817f4f2317b4bf9",
+            "f9b743a89a245f4c",
+            "fa8214bce16d170a",
+            "fdfdaef4d36c52aa",
+            "fe1b19ac41d41e1c"
+          ]
+        }
+      ],
+      "png_path": "chapters/06-第五章-三角函数-c80f27.png",
+      "png_sha256": "1d68ae62b6c2a64e34363b7aa10248267e6a73efa5e790894df3300c3f6f4e46",
+      "png_dimensions": [
+        2400,
+        479
+      ]
+    }
+  ],
+  "section_maps": [
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/01-01-章引入-55b0cf.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-001",
+          "node_id": "d8bb4198db846584",
+          "parent_id": null,
+          "member_ids": [
+            "98eb2a31e4642839",
+            "e56ab7c6930c793e"
+          ]
+        }
+      ],
+      "png_path": "sections/01-01-章引入-55b0cf.png",
+      "png_sha256": "eb14319ebb1d29ab9f5056cd4c02478bce0c991e558cbc4344d58f2de29dfd91",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-002",
+      "status": "ready",
+      "path": "sections/01-02-1.1-集合的概念-f18845.canvas",
+      "counts": {
+        "cards": 15,
+        "groups": 2,
+        "edges": 12,
+        "internal_atoms": 9,
+        "source_atoms": 18,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 4,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 9,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 3,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 5,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2184,
+        "height": 1218,
+        "aspect_ratio": 1.7931
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 508,
+        "edge_length_max": 840,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-00393",
+          "node_id": "3da7ca9a4f003ae3",
+          "parent_id": "1c0e58a8a06940cf",
+          "member_ids": [
+            "9ed9b6867cc80a8e"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-002",
+          "node_id": "1c0e58a8a06940cf",
+          "parent_id": null,
+          "member_ids": [
+            "14583c5655a5a508",
+            "186894ca91598c1e",
+            "4f80d8c79490ce88",
+            "4fa42471572e77bf",
+            "6a70e9e8bf0bad17",
+            "7fe43b378f2be032",
+            "8a55f4ba5b8a8556",
+            "96fd99e41ed346bb",
+            "9ed9b6867cc80a8e",
+            "d0c0fb68c79a2185",
+            "e366ec0eadfd1dc4",
+            "f06a37d2218be22b"
+          ]
+        }
+      ],
+      "png_path": "sections/01-02-1.1-集合的概念-f18845.png",
+      "png_sha256": "0740751fb2898926f5f9dee502052808f34b02a5424f97cde71b312e687e071c",
+      "png_dimensions": [
+        2400,
+        1411
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-003",
+      "status": "ready",
+      "path": "sections/01-03-1.2-集合间的基本关系-798c6c.canvas",
+      "counts": {
+        "cards": 11,
+        "groups": 2,
+        "edges": 5,
+        "internal_atoms": 5,
+        "source_atoms": 13,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 3,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 8,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 886,
+        "aspect_ratio": 1.5169
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 311,
+        "edge_length_p90": 342,
+        "edge_length_max": 508,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-00565",
+          "node_id": "1dcdeec14c8e060b",
+          "parent_id": "a83dc1363f225c7c",
+          "member_ids": [
+            "daa298b50c1d80a3"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-003",
+          "node_id": "a83dc1363f225c7c",
+          "parent_id": null,
+          "member_ids": [
+            "03b17cb28c6075ae",
+            "072e26fb89e7277d",
+            "37d637fd4623f8a3",
+            "3e3911c220cec4d7",
+            "8199b1b2ea9dd961",
+            "a133b790f2a4cefb",
+            "ce40d812c164887c",
+            "daa298b50c1d80a3"
+          ]
+        }
+      ],
+      "png_path": "sections/01-03-1.2-集合间的基本关系-798c6c.png",
+      "png_sha256": "a70507b5224544bde8200d8e61da2934b5924707ebb2c3e597138b5b1b4113f6",
+      "png_dimensions": [
+        2400,
+        1670
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-004",
+      "status": "ready",
+      "path": "sections/01-04-1.3-集合的基本运算-43a38d.canvas",
+      "counts": {
+        "cards": 14,
+        "groups": 2,
+        "edges": 8,
+        "internal_atoms": 8,
+        "source_atoms": 23,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 5,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 15,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 6,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 2254,
+        "aspect_ratio": 0.5413
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 510,
+        "edge_length_p90": 1008,
+        "edge_length_max": 1174,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-00809",
+          "node_id": "c35cf72644ab7e24",
+          "parent_id": "5b1b68c2905f5882",
+          "member_ids": [
+            "067b934cd1029e9f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-004",
+          "node_id": "5b1b68c2905f5882",
+          "parent_id": null,
+          "member_ids": [
+            "067b934cd1029e9f",
+            "082b66ee25e19828",
+            "0e4d2095f6c7f933",
+            "4e7e81cb8777e246",
+            "5e50d03aa6df5999",
+            "6376411780e22792",
+            "852ed96f3e6dc188",
+            "abf15a353cbf0c84",
+            "b3aabb8086fdf824",
+            "d0b6e72a1abb864e",
+            "ec0ebe08546cff64"
+          ]
+        }
+      ],
+      "png_path": "sections/01-04-1.3-集合的基本运算-43a38d.png",
+      "png_sha256": "619a27f72a2c1821d8105c6b34728ffcb243a71266a292a11b4c636638647c8e",
+      "png_dimensions": [
+        2400,
+        4199
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-005",
+      "status": "ready",
+      "path": "sections/01-05-阅读与思考-集合中元素的个数-c26549.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-005",
+          "node_id": "e475c4176b54c774",
+          "parent_id": null,
+          "member_ids": [
+            "93bd20838ccad6f5",
+            "9855926ba5fc38da"
+          ]
+        }
+      ],
+      "png_path": "sections/01-05-阅读与思考-集合中元素的个数-c26549.png",
+      "png_sha256": "3f104a817b6b1961a853e97e0c1e1da19e744be5760bc7fb880383916ddc97f7",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-006",
+      "status": "ready",
+      "path": "sections/01-06-1.4-充分条件与必要条件-91847a.canvas",
+      "counts": {
+        "cards": 23,
+        "groups": 4,
+        "edges": 19,
+        "internal_atoms": 15,
+        "source_atoms": 29,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 6,
+        "featured_examples": 6,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 14,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 3,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 11,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2896,
+        "height": 2022,
+        "aspect_ratio": 1.4322
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 26,
+        "edge_length_median": 824,
+        "edge_length_p90": 1334,
+        "edge_length_max": 1436,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-00916",
+          "node_id": "8ab9da108737e1b3",
+          "parent_id": "4d0dab08fbf4a606",
+          "member_ids": [
+            "17ebf1bd71d7a0e0",
+            "44ff41d7407d581c",
+            "50da8fecf903fe77",
+            "8c257e296fccbb66",
+            "a013f7d56e1f06c8",
+            "a0e6c4ec3a69eeaf",
+            "c8c9591ef1736c1a",
+            "edc0de8b95cf905d",
+            "fa26a8146da686c6",
+            "ff740f4a0a9d76da"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01069",
+          "node_id": "1e3b11b9731460c3",
+          "parent_id": "4d0dab08fbf4a606",
+          "member_ids": [
+            "059e1606eb74250e",
+            "0bfa428d1c92ba2b",
+            "8314854d2f5f99d6",
+            "8cc82516e637cd80",
+            "8fdcc774dcfdd057",
+            "c85baf83c8699868",
+            "d2e6754c890b96a8",
+            "dd6595da576b7871"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01168",
+          "node_id": "d89e0fec07d245e3",
+          "parent_id": "4d0dab08fbf4a606",
+          "member_ids": [
+            "a35a22d2cd183b14"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-006",
+          "node_id": "4d0dab08fbf4a606",
+          "parent_id": null,
+          "member_ids": [
+            "059e1606eb74250e",
+            "0bfa428d1c92ba2b",
+            "17ebf1bd71d7a0e0",
+            "44ff41d7407d581c",
+            "50da8fecf903fe77",
+            "8314854d2f5f99d6",
+            "8c257e296fccbb66",
+            "8cc82516e637cd80",
+            "8fdcc774dcfdd057",
+            "a013f7d56e1f06c8",
+            "a0e6c4ec3a69eeaf",
+            "a35a22d2cd183b14",
+            "c85baf83c8699868",
+            "c8c9591ef1736c1a",
+            "d2e6754c890b96a8",
+            "d5bd5c4d33127ec5",
+            "dd6595da576b7871",
+            "edc0de8b95cf905d",
+            "fa26a8146da686c6",
+            "ff740f4a0a9d76da"
+          ]
+        }
+      ],
+      "png_path": "sections/01-06-1.4-充分条件与必要条件-91847a.png",
+      "png_sha256": "034e97a8eca713d9062d38540144ba7882c437451797c87525d7da85d2e00c28",
+      "png_dimensions": [
+        2400,
+        1714
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-007",
+      "status": "ready",
+      "path": "sections/01-07-阅读与思考-几何命题与充分条件、必要条件-d98d2e.canvas",
+      "counts": {
+        "cards": 7,
+        "groups": 1,
+        "edges": 6,
+        "internal_atoms": 4,
+        "source_atoms": 4,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 3,
+        "concept_relation_edges": 3,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1652,
+        "height": 390,
+        "aspect_ratio": 4.2359
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 420,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-007",
+          "node_id": "9eed3a8856b6d5e4",
+          "parent_id": null,
+          "member_ids": [
+            "040d7ae4187c4cf2",
+            "607187baa6eedfd9",
+            "8b67c865749d99d5",
+            "cbd67c558413280c"
+          ]
+        }
+      ],
+      "png_path": "sections/01-07-阅读与思考-几何命题与充分条件、必要条件-d98d2e.png",
+      "png_sha256": "b6481f74194fe159e9f9ddd47c4b18cd0c8f2ea75a619716898168c816b2854a",
+      "png_dimensions": [
+        2400,
+        729
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-008",
+      "status": "ready",
+      "path": "sections/01-08-1.5-全称量词与存在量词-f97971.canvas",
+      "counts": {
+        "cards": 20,
+        "groups": 4,
+        "edges": 14,
+        "internal_atoms": 12,
+        "source_atoms": 24,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 6,
+        "featured_examples": 5,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 8,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1476,
+        "height": 1888,
+        "aspect_ratio": 0.7818
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 16,
+        "edge_length_median": 631,
+        "edge_length_p90": 842,
+        "edge_length_max": 1133,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-01292",
+          "node_id": "45c41868c82b6496",
+          "parent_id": "e39fc9839344d4ec",
+          "member_ids": [
+            "1edef63719ce7230",
+            "532deb739d604583",
+            "5df6275af917a81d",
+            "9be22d7295eb4acd",
+            "d46cab266a446da5",
+            "fa9221672d8f820f",
+            "fc5aceb5d32a9865"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01404",
+          "node_id": "2809d4f9cdea949b",
+          "parent_id": "e39fc9839344d4ec",
+          "member_ids": [
+            "19b3ff4b93e39a34",
+            "2d0f6fa36d7ba88f",
+            "4effef7423482307",
+            "54e1be4f9baaa842",
+            "a383ea241dc0e7aa",
+            "bc7a334ee65c8993",
+            "c187214eed2f4363",
+            "d2bc84d8424a9855"
+          ]
+        },
+        {
+          "organizer_key": "semantic-01566",
+          "node_id": "ee61dbf42d1c4b0c",
+          "parent_id": "e39fc9839344d4ec",
+          "member_ids": [
+            "ecb49d6a794307b7"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-008",
+          "node_id": "e39fc9839344d4ec",
+          "parent_id": null,
+          "member_ids": [
+            "19b3ff4b93e39a34",
+            "1edef63719ce7230",
+            "2d0f6fa36d7ba88f",
+            "4effef7423482307",
+            "532deb739d604583",
+            "54e1be4f9baaa842",
+            "587ada2a9e48174f",
+            "5df6275af917a81d",
+            "9be22d7295eb4acd",
+            "a383ea241dc0e7aa",
+            "bc7a334ee65c8993",
+            "c187214eed2f4363",
+            "d2bc84d8424a9855",
+            "d46cab266a446da5",
+            "ecb49d6a794307b7",
+            "fa9221672d8f820f",
+            "fc5aceb5d32a9865"
+          ]
+        }
+      ],
+      "png_path": "sections/01-08-1.5-全称量词与存在量词-f97971.png",
+      "png_sha256": "148ef4e0ee23515aa9dea8b17222955fbccdca83bc878e1d8c60497e63f41c86",
+      "png_dimensions": [
+        2400,
+        3005
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-009",
+      "status": "ready",
+      "path": "sections/01-09-第一章-集合与常用逻辑用语-小结-8b1d45.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-009",
+          "node_id": "804960d8d880a3dc",
+          "parent_id": null,
+          "member_ids": [
+            "757389dd3b334253",
+            "cf710a1b425fa9dc"
+          ]
+        }
+      ],
+      "png_path": "sections/01-09-第一章-集合与常用逻辑用语-小结-8b1d45.png",
+      "png_sha256": "d463c69e8501578ff71dad848fecc71e5e42835bd3abd4036b6df48ce9be83c6",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-010",
+      "status": "ready",
+      "path": "sections/01-10-第一章-集合与常用逻辑用语-复习参考题-1-70ee63.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 12,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-010",
+          "node_id": "7a90d4892e79d99f",
+          "parent_id": null,
+          "member_ids": [
+            "24118256bb547b1e"
+          ]
+        }
+      ],
+      "png_path": "sections/01-10-第一章-集合与常用逻辑用语-复习参考题-1-70ee63.png",
+      "png_sha256": "a14bda1b738debc615d0e42e1309dadad355cc4be3f0ae1cbf392d06ca2e727f",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/02-01-章引入-edf1c8.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-011",
+          "node_id": "1c9aa0286c8a2976",
+          "parent_id": null,
+          "member_ids": [
+            "2022ccb496423307",
+            "e18a99e9036465bf"
+          ]
+        }
+      ],
+      "png_path": "sections/02-01-章引入-edf1c8.png",
+      "png_sha256": "8c804ff3f0e6a40be81a75fb10154692c2ef571223a3de953727463944ebbddd",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-012",
+      "status": "ready",
+      "path": "sections/02-02-2.1-等式性质与不等式性质-bb4664.canvas",
+      "counts": {
+        "cards": 9,
+        "groups": 2,
+        "edges": 3,
+        "internal_atoms": 3,
+        "source_atoms": 22,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 2,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 19,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 1162,
+        "aspect_ratio": 1.0499
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 185,
+        "edge_length_p90": 185,
+        "edge_length_max": 311,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-02073",
+          "node_id": "253b44a6b1271532",
+          "parent_id": "712ee5dcfd6e1dd3",
+          "member_ids": [
+            "184c9821043ba41d"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-012",
+          "node_id": "712ee5dcfd6e1dd3",
+          "parent_id": null,
+          "member_ids": [
+            "184c9821043ba41d",
+            "377f0654673933f8",
+            "6964e49a3ec9c410",
+            "86117d00ea55a15e",
+            "aa7a8756929f642f",
+            "c4b15c9da439eef0"
+          ]
+        }
+      ],
+      "png_path": "sections/02-02-2.1-等式性质与不等式性质-bb4664.png",
+      "png_sha256": "cffdd5cee60a9edb194c010809e57ed0f4fcdee1a543f4b02dd15d20fb0ed8ae",
+      "png_dimensions": [
+        2400,
+        2300
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-013",
+      "status": "ready",
+      "path": "sections/02-03-2.2-基本不等式-60f712.canvas",
+      "counts": {
+        "cards": 11,
+        "groups": 2,
+        "edges": 6,
+        "internal_atoms": 5,
+        "source_atoms": 22,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 2,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 17,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 1,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 886,
+        "aspect_ratio": 1.5169
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 342,
+        "edge_length_p90": 468,
+        "edge_length_max": 508,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-02363",
+          "node_id": "0bf1934abd1f760f",
+          "parent_id": "ffb94ec7611d9e36",
+          "member_ids": [
+            "fc5212efc3f4dc8b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-013",
+          "node_id": "ffb94ec7611d9e36",
+          "parent_id": null,
+          "member_ids": [
+            "12e93f14c837f5cc",
+            "3223d7617ebe8313",
+            "355cbbe8f6ae5946",
+            "4c5996a2f33474b8",
+            "91dd964854095958",
+            "af8cf1c13772af60",
+            "fc5212efc3f4dc8b",
+            "ff3700971c8924ea"
+          ]
+        }
+      ],
+      "png_path": "sections/02-03-2.2-基本不等式-60f712.png",
+      "png_sha256": "c415607eb805a807fa5c39e4b33afe83db412264d8c6011a1bd2699ff0780425",
+      "png_dimensions": [
+        2400,
+        1670
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-014",
+      "status": "ready",
+      "path": "sections/02-04-2.3-二次函数与一元二次方程、不等式-27329a.canvas",
+      "counts": {
+        "cards": 11,
+        "groups": 2,
+        "edges": 5,
+        "internal_atoms": 5,
+        "source_atoms": 18,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 2,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 13,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 886,
+        "aspect_ratio": 1.5169
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 311,
+        "edge_length_p90": 342,
+        "edge_length_max": 508,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-02605",
+          "node_id": "b1abd969fcd91da8",
+          "parent_id": "fdd27008ae3fe4ba",
+          "member_ids": [
+            "d851300446fe8050"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-014",
+          "node_id": "fdd27008ae3fe4ba",
+          "parent_id": null,
+          "member_ids": [
+            "081bac92c3b0f8d2",
+            "610317428ebe0e9f",
+            "a3654c73afd22a8c",
+            "a6167cda8d5bc605",
+            "b6509906452adb85",
+            "b834a8da0fab1e4a",
+            "d851300446fe8050",
+            "ddefc156e5380503"
+          ]
+        }
+      ],
+      "png_path": "sections/02-04-2.3-二次函数与一元二次方程、不等式-27329a.png",
+      "png_sha256": "cc8df61d0470e534315dd2f6ec3f8c24c3530cf44049f2671f42aaae83e44cd7",
+      "png_dimensions": [
+        2400,
+        1670
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-015",
+      "status": "ready",
+      "path": "sections/02-05-第二章-一元二次函数、方程和不等式-小结-ec8b5b.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-015",
+          "node_id": "022d3f3e8a7804e2",
+          "parent_id": null,
+          "member_ids": [
+            "61c0efd286d8b9d1",
+            "e28babb5212f17ec"
+          ]
+        }
+      ],
+      "png_path": "sections/02-05-第二章-一元二次函数、方程和不等式-小结-ec8b5b.png",
+      "png_sha256": "c39e3774ea94f836bc3fdee1aabbe4ebde731d61e5ecfc8858d178e30d77b41b",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-016",
+      "status": "ready",
+      "path": "sections/02-06-第二章-一元二次函数、方程和不等式-复习参考题-2-24ed9f.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 9,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 9,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-016",
+          "node_id": "d645c253582d36b7",
+          "parent_id": null,
+          "member_ids": [
+            "990a616be032e9b7"
+          ]
+        }
+      ],
+      "png_path": "sections/02-06-第二章-一元二次函数、方程和不等式-复习参考题-2-24ed9f.png",
+      "png_sha256": "b47699f00eda1b7aaeada975e2e4c8728deb4c6f3dccc066037a39ad2ee848e7",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/03-01-章引入-337081.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-017",
+          "node_id": "2c7388710eb9e10e",
+          "parent_id": null,
+          "member_ids": [
+            "09d8e89f22cc40dc",
+            "fddd185124ab492c"
+          ]
+        }
+      ],
+      "png_path": "sections/03-01-章引入-337081.png",
+      "png_sha256": "698b2645334c04a949c28acd7891798016dc4bc745a4e2fd7d49973844c2dd34",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-018",
+      "status": "ready",
+      "path": "sections/03-02-3.1-函数的概念及其表示-41d1f8.canvas",
+      "counts": {
+        "cards": 20,
+        "groups": 4,
+        "edges": 11,
+        "internal_atoms": 11,
+        "source_atoms": 44,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 7,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 33,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 8,
+        "navigation_nodes": 6,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1916,
+        "height": 1608,
+        "aspect_ratio": 1.1915
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 344,
+        "edge_length_p90": 676,
+        "edge_length_max": 842,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-02746",
+          "node_id": "f57b6c5ab2deb9bf",
+          "parent_id": "40ea663b4db91852",
+          "member_ids": [
+            "206a8efd6bbe1b6e",
+            "272536c2a2bf6b44",
+            "2acfa2b0a5295a26",
+            "704cd609f7acf490",
+            "9ba67b9cdee8cad3",
+            "9dd7255e6d674b29",
+            "b9fbe67a5434183a"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03001",
+          "node_id": "a0525fbafd5125d8",
+          "parent_id": "40ea663b4db91852",
+          "member_ids": [
+            "028ecd22031f383b",
+            "115a8badc4f10c66",
+            "5445fc6c8e0c719c",
+            "55e34d246a342b06",
+            "89141307d9f98ef6",
+            "8ed7ce83c6395d9d",
+            "ac33e9e59b8eb25b"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03218",
+          "node_id": "8d187fbd33b42da2",
+          "parent_id": "40ea663b4db91852",
+          "member_ids": [
+            "0d3ec1a477a57597"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-018",
+          "node_id": "40ea663b4db91852",
+          "parent_id": null,
+          "member_ids": [
+            "028ecd22031f383b",
+            "0d3ec1a477a57597",
+            "115a8badc4f10c66",
+            "206a8efd6bbe1b6e",
+            "272536c2a2bf6b44",
+            "2acfa2b0a5295a26",
+            "5445fc6c8e0c719c",
+            "55e34d246a342b06",
+            "6e1770239f846025",
+            "704cd609f7acf490",
+            "89141307d9f98ef6",
+            "8ed7ce83c6395d9d",
+            "9ba67b9cdee8cad3",
+            "9dd7255e6d674b29",
+            "ac33e9e59b8eb25b",
+            "b9fbe67a5434183a",
+            "fbd111d338d9513b"
+          ]
+        }
+      ],
+      "png_path": "sections/03-02-3.1-函数的概念及其表示-41d1f8.png",
+      "png_sha256": "ed4f28acc147f436247ce8172616f6cd04da50f510715407db9477cfd919ab4b",
+      "png_dimensions": [
+        2400,
+        2044
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-019",
+      "status": "ready",
+      "path": "sections/03-03-阅读与思考-函数概念的发展历程-5a3b0d.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-019",
+          "node_id": "29d3c9a0c85a87f5",
+          "parent_id": null,
+          "member_ids": [
+            "49303c6a96b9bd38",
+            "70c6cdb56a2d4ac6"
+          ]
+        }
+      ],
+      "png_path": "sections/03-03-阅读与思考-函数概念的发展历程-5a3b0d.png",
+      "png_sha256": "aec1611a6cebda7c454d9f2006005d0af3d2b0fcb6af7dbd19c7d4fac9fefba8",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-020",
+      "status": "ready",
+      "path": "sections/03-04-3.2-函数的基本性质-001606.canvas",
+      "counts": {
+        "cards": 20,
+        "groups": 4,
+        "edges": 15,
+        "internal_atoms": 12,
+        "source_atoms": 36,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 7,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 24,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 9,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 2624,
+        "aspect_ratio": 0.4649
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 16,
+        "edge_length_median": 674,
+        "edge_length_p90": 1321,
+        "edge_length_max": 1613,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-03349",
+          "node_id": "0e052b8c96805114",
+          "parent_id": "ef61c68e8e0ec22e",
+          "member_ids": [
+            "17e9b6532f32d750",
+            "5307edd725fcd370",
+            "67b27fc48855b420",
+            "8f6501d98b6790f3",
+            "b0b0a1e8bdf27d81",
+            "bfca3e6a30cbabd4",
+            "cf5020e89e19d14a",
+            "d00d07b7ebce79a0"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03603",
+          "node_id": "70ac58b5757eda17",
+          "parent_id": "ef61c68e8e0ec22e",
+          "member_ids": [
+            "1cbfdf0c6a6b6d05",
+            "268c123b5f6b4eb8",
+            "72a84d41bf27737f",
+            "7b60a7cb42b3c827",
+            "a20805968add272f",
+            "bb184535e5de0e09",
+            "bd20bcd71346b38b"
+          ]
+        },
+        {
+          "organizer_key": "semantic-03766",
+          "node_id": "ea2a4e5052171d2e",
+          "parent_id": "ef61c68e8e0ec22e",
+          "member_ids": [
+            "4464be52de2704b0"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-020",
+          "node_id": "ef61c68e8e0ec22e",
+          "parent_id": null,
+          "member_ids": [
+            "17e9b6532f32d750",
+            "1cbfdf0c6a6b6d05",
+            "268c123b5f6b4eb8",
+            "4464be52de2704b0",
+            "5307edd725fcd370",
+            "67b27fc48855b420",
+            "72a84d41bf27737f",
+            "7b60a7cb42b3c827",
+            "8f6501d98b6790f3",
+            "a20805968add272f",
+            "b0b0a1e8bdf27d81",
+            "bb184535e5de0e09",
+            "bd20bcd71346b38b",
+            "bfca3e6a30cbabd4",
+            "cf5020e89e19d14a",
+            "d00d07b7ebce79a0",
+            "e4944391a0105488"
+          ]
+        }
+      ],
+      "png_path": "sections/03-04-3.2-函数的基本性质-001606.png",
+      "png_sha256": "232ff0e3cd65d0d137a984ac78b70104f33f02dedec78d3809977adba7738622",
+      "png_dimensions": [
+        2400,
+        4842
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-021",
+      "status": "ready",
+      "path": "sections/03-05-信息技术应用-用计算机绘制函数图象-b3135a.canvas",
+      "counts": {
+        "cards": 6,
+        "groups": 1,
+        "edges": 4,
+        "internal_atoms": 3,
+        "source_atoms": 3,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1232,
+        "height": 390,
+        "aspect_ratio": 3.159
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 420,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-021",
+          "node_id": "ce66e35a400a0d44",
+          "parent_id": null,
+          "member_ids": [
+            "06d3a643ba65162e",
+            "573231890c786eca",
+            "c5ca5a22d1961a53"
+          ]
+        }
+      ],
+      "png_path": "sections/03-05-信息技术应用-用计算机绘制函数图象-b3135a.png",
+      "png_sha256": "6700c81dc02bba768cf429271151072c8dc280968115ecd8fc8b18504799872c",
+      "png_dimensions": [
+        2400,
+        949
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-022",
+      "status": "ready",
+      "path": "sections/03-06-3.3-幂函数-3f5957.canvas",
+      "counts": {
+        "cards": 10,
+        "groups": 2,
+        "edges": 4,
+        "internal_atoms": 4,
+        "source_atoms": 11,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 4,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 7,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 742,
+        "aspect_ratio": 1.8113
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 185,
+        "edge_length_p90": 311,
+        "edge_length_max": 342,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-03946",
+          "node_id": "c9245d13f3de36d7",
+          "parent_id": "602b1f8e19b86a70",
+          "member_ids": [
+            "cdf1765757bd2b53"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-022",
+          "node_id": "602b1f8e19b86a70",
+          "parent_id": null,
+          "member_ids": [
+            "380da2c532ff2c83",
+            "b93dde36afdab02a",
+            "c2b3a114dd6e25ec",
+            "cdf1765757bd2b53",
+            "d4504cba31e3fe1a",
+            "ea4cfac4fc1bc44d",
+            "ee85b77575bab8c9"
+          ]
+        }
+      ],
+      "png_path": "sections/03-06-3.3-幂函数-3f5957.png",
+      "png_sha256": "9443684ebd22690e0c81933dd0c1b9f1a9c313ac5aa1917ae2eceea6e092e3c0",
+      "png_dimensions": [
+        2400,
+        1440
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-023",
+      "status": "ready",
+      "path": "sections/03-07-探究与发现-探究函数-$y-=-x-+--frac{1}{x}$-的图象与性质-b7d16e.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-023",
+          "node_id": "682e00023e756a60",
+          "parent_id": null,
+          "member_ids": [
+            "396452666b18807d",
+            "6d58d576943a7c87"
+          ]
+        }
+      ],
+      "png_path": "sections/03-07-探究与发现-探究函数-$y-=-x-+--frac{1}{x}$-的图象与性质-b7d16e.png",
+      "png_sha256": "5371f3ad42198e940e074a9936c3516141bdd5b7c7a90a4214650a5dbb5f8384",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-024",
+      "status": "ready",
+      "path": "sections/03-08-3.4-函数的应用(一)-030e3f.canvas",
+      "counts": {
+        "cards": 9,
+        "groups": 2,
+        "edges": 4,
+        "internal_atoms": 3,
+        "source_atoms": 12,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 9,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 986,
+        "aspect_ratio": 1.2373
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 314,
+        "edge_length_p90": 342,
+        "edge_length_max": 599,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-04125",
+          "node_id": "0a654af3f2672b0c",
+          "parent_id": "68f90485b9f93fcb",
+          "member_ids": [
+            "d029c447c7b04270"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-024",
+          "node_id": "68f90485b9f93fcb",
+          "parent_id": null,
+          "member_ids": [
+            "0e69581c825c9c4b",
+            "17ecff255bfd34b7",
+            "3a45c7122964a9d9",
+            "ab21db4b243efc15",
+            "d029c447c7b04270",
+            "d886cc1282e00162"
+          ]
+        }
+      ],
+      "png_path": "sections/03-08-3.4-函数的应用(一)-030e3f.png",
+      "png_sha256": "d36c68d7bbce1d19c8b1000e2951c1ca93af19d439d508613261c2a6f7effcd5",
+      "png_dimensions": [
+        2400,
+        1994
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-025",
+      "status": "ready",
+      "path": "sections/03-09-文献阅读与数学写作--函数的形成与发展-3487f5.canvas",
+      "counts": {
+        "cards": 8,
+        "groups": 1,
+        "edges": 8,
+        "internal_atoms": 5,
+        "source_atoms": 5,
+        "knowledge_atoms": 4,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 4,
+        "concept_relation_edges": 4,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2072,
+        "height": 390,
+        "aspect_ratio": 5.3128
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 420,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-025",
+          "node_id": "b4172a1a03f50548",
+          "parent_id": null,
+          "member_ids": [
+            "0e5cc8dae0dc2b64",
+            "26ba3aa0d2171666",
+            "b27cf30bd3a883e7",
+            "c5459afbe455a378",
+            "ef50e79721768551"
+          ]
+        }
+      ],
+      "png_path": "sections/03-09-文献阅读与数学写作--函数的形成与发展-3487f5.png",
+      "png_sha256": "280cc23e2c806d647cdd44b2e715e41660e115b807234124dc2990345e46c172",
+      "png_dimensions": [
+        2400,
+        592
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-026",
+      "status": "ready",
+      "path": "sections/03-10-第三章-函数的概念与性质-小结-4aef58.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-026",
+          "node_id": "a4f7a81bb6a8cae4",
+          "parent_id": null,
+          "member_ids": [
+            "49d0b94a85d445d4",
+            "f813a96b5f8ca701"
+          ]
+        }
+      ],
+      "png_path": "sections/03-10-第三章-函数的概念与性质-小结-4aef58.png",
+      "png_sha256": "d34f7389e3462e2272307674f82f327d84d460390db75d1e0fc2d3442326aaf6",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-017",
+      "root_key": "node-toc-027",
+      "status": "ready",
+      "path": "sections/03-11-第三章-函数的概念与性质-复习参考题-3-97ef97.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 13,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 13,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-027",
+          "node_id": "64caaaa018c10297",
+          "parent_id": null,
+          "member_ids": [
+            "11c6e1e8b7fc03fa"
+          ]
+        }
+      ],
+      "png_path": "sections/03-11-第三章-函数的概念与性质-复习参考题-3-97ef97.png",
+      "png_sha256": "6ead2f38507a014dc96e2b158d018a43366963e6bf5c6e22cce89e2527aa0d8d",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/04-01-章引入-eb468b.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-028",
+          "node_id": "1c680b068ac297e5",
+          "parent_id": null,
+          "member_ids": [
+            "80d4added28ac353",
+            "dea3b7eb18a9ab2b"
+          ]
+        }
+      ],
+      "png_path": "sections/04-01-章引入-eb468b.png",
+      "png_sha256": "9d203240f251e5c6ee2de238127d26016789a21489468fe55c4d5bda7e2976d1",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-029",
+      "status": "ready",
+      "path": "sections/04-02-4.1-指数-c72ff3.canvas",
+      "counts": {
+        "cards": 18,
+        "groups": 4,
+        "edges": 12,
+        "internal_atoms": 11,
+        "source_atoms": 23,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 6,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 8,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 2126,
+        "aspect_ratio": 0.5738
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 592,
+        "edge_length_p90": 875,
+        "edge_length_max": 1473,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-04357",
+          "node_id": "ecf7a6516bf6fc16",
+          "parent_id": "2a55353e59100375",
+          "member_ids": [
+            "154f879553d3d869",
+            "2bb9c838a99daceb",
+            "3e99d5ebee88eee0",
+            "469fc23fc58b4188",
+            "5fc0e8351cee4180",
+            "a821ecea91e5bf7e",
+            "b70300431b34bc81",
+            "c9cf9674d3fe140b",
+            "cd0726dffd446522"
+          ]
+        },
+        {
+          "organizer_key": "semantic-04534",
+          "node_id": "c36e31629d4d4664",
+          "parent_id": "2a55353e59100375",
+          "member_ids": [
+            "5bc74129f42cd227",
+            "5d4f172a225f21ef",
+            "7d17322c984da10f",
+            "a27c8a12fd6bbea3"
+          ]
+        },
+        {
+          "organizer_key": "semantic-04582",
+          "node_id": "3b02b6eb61d5b9fb",
+          "parent_id": "2a55353e59100375",
+          "member_ids": [
+            "fca77a95d1568269"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-029",
+          "node_id": "2a55353e59100375",
+          "parent_id": null,
+          "member_ids": [
+            "154f879553d3d869",
+            "2bb9c838a99daceb",
+            "3e99d5ebee88eee0",
+            "469fc23fc58b4188",
+            "5bc74129f42cd227",
+            "5d4f172a225f21ef",
+            "5fc0e8351cee4180",
+            "7d17322c984da10f",
+            "983dc8ad60dece22",
+            "a27c8a12fd6bbea3",
+            "a821ecea91e5bf7e",
+            "b70300431b34bc81",
+            "c9cf9674d3fe140b",
+            "cd0726dffd446522",
+            "fca77a95d1568269"
+          ]
+        }
+      ],
+      "png_path": "sections/04-02-4.1-指数-c72ff3.png",
+      "png_sha256": "4416c6fd3bbfbddb637abec98ea5400f27c7689790ec4e9dc824c5da37df14bd",
+      "png_dimensions": [
+        2400,
+        3976
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-030",
+      "status": "ready",
+      "path": "sections/04-03-4.2-指数函数-146403.canvas",
+      "counts": {
+        "cards": 11,
+        "groups": 2,
+        "edges": 7,
+        "internal_atoms": 6,
+        "source_atoms": 10,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 2,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 4,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 1676,
+        "aspect_ratio": 0.7279
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 468,
+        "edge_length_p90": 673,
+        "edge_length_max": 673,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-04649",
+          "node_id": "4f2695daa1ea08b5",
+          "parent_id": "f88a1b672ef0c7ae",
+          "member_ids": [
+            "5419f2c1502f62ce",
+            "7799d9732cad8f59",
+            "b737f591d5d07e37",
+            "caf2a97bfdf0d80c",
+            "d77078e5cd4b4cf4",
+            "e0dd95633253c381",
+            "ea5e503ee8189fbb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-030",
+          "node_id": "f88a1b672ef0c7ae",
+          "parent_id": null,
+          "member_ids": [
+            "5419f2c1502f62ce",
+            "7799d9732cad8f59",
+            "9993b3794e7ccc9a",
+            "b737f591d5d07e37",
+            "caf2a97bfdf0d80c",
+            "d77078e5cd4b4cf4",
+            "e0dd95633253c381",
+            "ea5e503ee8189fbb"
+          ]
+        }
+      ],
+      "png_path": "sections/04-03-4.2-指数函数-146403.png",
+      "png_sha256": "2c27008b5e7ca79b73a5d75234ad3f71f6a453a1f64ae7bcd3f3418b28c76714",
+      "png_dimensions": [
+        2400,
+        3194
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-031",
+      "status": "ready",
+      "path": "sections/04-04-阅读与思考-放射性物质的衰减-83ba4b.canvas",
+      "counts": {
+        "cards": 12,
+        "groups": 3,
+        "edges": 6,
+        "internal_atoms": 6,
+        "source_atoms": 20,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 4,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 14,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 1,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1456,
+        "height": 1426,
+        "aspect_ratio": 1.021
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 342,
+        "edge_length_p90": 557,
+        "edge_length_max": 593,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-04853",
+          "node_id": "7c5a1d5def214070",
+          "parent_id": "4680f066920d1d3e",
+          "member_ids": [
+            "4933cfcdec138860",
+            "6d53e7680cd69c11",
+            "6fe1f5b59684b465",
+            "79fcd0ad75cce82e",
+            "d342ff888e78c609",
+            "e958c49ecaee89fd",
+            "f3746d45c252fcd2"
+          ]
+        },
+        {
+          "organizer_key": "semantic-04953",
+          "node_id": "1d89e25925212414",
+          "parent_id": "4680f066920d1d3e",
+          "member_ids": [
+            "e6ce82ed24621100"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-031",
+          "node_id": "4680f066920d1d3e",
+          "parent_id": null,
+          "member_ids": [
+            "4933cfcdec138860",
+            "6d53e7680cd69c11",
+            "6fe1f5b59684b465",
+            "79fcd0ad75cce82e",
+            "d342ff888e78c609",
+            "dfd2e5e820ceb8a0",
+            "e6ce82ed24621100",
+            "e958c49ecaee89fd",
+            "f3746d45c252fcd2"
+          ]
+        }
+      ],
+      "png_path": "sections/04-04-阅读与思考-放射性物质的衰减-83ba4b.png",
+      "png_sha256": "805df1017297fc7eb73a6efa527f9950c15297a617ad3435db7bc8ad905eda13",
+      "png_dimensions": [
+        2400,
+        2356
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-032",
+      "status": "ready",
+      "path": "sections/04-05-信息技术应用-探究指数函数的性质-bf02d1.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-032",
+          "node_id": "31e870a6c4252d0d",
+          "parent_id": null,
+          "member_ids": [
+            "84fe10d57137a1a3",
+            "a234a03e8d78f381"
+          ]
+        }
+      ],
+      "png_path": "sections/04-05-信息技术应用-探究指数函数的性质-bf02d1.png",
+      "png_sha256": "7dfec77e5dc093b5e92f06952ee7c7ab9daabf615745e69a013d7a2d02a58a02",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-033",
+      "status": "ready",
+      "path": "sections/04-06-4.3-对数-aba2fb.canvas",
+      "counts": {
+        "cards": 18,
+        "groups": 4,
+        "edges": 13,
+        "internal_atoms": 10,
+        "source_atoms": 27,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 3,
+        "featured_examples": 5,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 17,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 7,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 2054,
+        "aspect_ratio": 0.594
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 16,
+        "edge_length_median": 559,
+        "edge_length_p90": 1008,
+        "edge_length_max": 1091,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-05044",
+          "node_id": "c02695aaf43e5fa1",
+          "parent_id": "a042db87b237ffc9",
+          "member_ids": [
+            "636552c066ff574f",
+            "65dc15cae241ab45",
+            "65fb20d97fe4c410",
+            "8fce60ac05d4ca8f",
+            "ecae1474060a1347"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05149",
+          "node_id": "800f441b276acdaf",
+          "parent_id": "a042db87b237ffc9",
+          "member_ids": [
+            "0ed91e4c741386f8",
+            "242d047484b2918e",
+            "61ffe0831910d448",
+            "77de9406f1d5c175",
+            "97a7fdfee6b7cc4b",
+            "a055bdd0e69759dd",
+            "a42878611107b904",
+            "b78e31e181d30eda"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05289",
+          "node_id": "a258f5940496c864",
+          "parent_id": "a042db87b237ffc9",
+          "member_ids": [
+            "85cdbd00c527c34e"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-033",
+          "node_id": "a042db87b237ffc9",
+          "parent_id": null,
+          "member_ids": [
+            "0ed91e4c741386f8",
+            "242d047484b2918e",
+            "61ffe0831910d448",
+            "636552c066ff574f",
+            "63d0bfb7a17db54a",
+            "65dc15cae241ab45",
+            "65fb20d97fe4c410",
+            "77de9406f1d5c175",
+            "85cdbd00c527c34e",
+            "8fce60ac05d4ca8f",
+            "97a7fdfee6b7cc4b",
+            "a055bdd0e69759dd",
+            "a42878611107b904",
+            "b78e31e181d30eda",
+            "ecae1474060a1347"
+          ]
+        }
+      ],
+      "png_path": "sections/04-06-4.3-对数-aba2fb.png",
+      "png_sha256": "e4446d88db121f48bf9b23919469ed0f9ee1dc586a092cf1253c017ecfa39fbf",
+      "png_dimensions": [
+        2400,
+        3851
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-034",
+      "status": "ready",
+      "path": "sections/04-07-阅读与思考-对数的发明-c33ec5.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-034",
+          "node_id": "6b95c89f50665609",
+          "parent_id": null,
+          "member_ids": [
+            "1931291b0b1ed2ad",
+            "6b9f4d370c7b2b5a"
+          ]
+        }
+      ],
+      "png_path": "sections/04-07-阅读与思考-对数的发明-c33ec5.png",
+      "png_sha256": "75addd99ba638cfce53a477e7495196fe6af3eded1dcfba169f35b98115684f6",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-035",
+      "status": "ready",
+      "path": "sections/04-08-4.4-对数函数-d38e6a.canvas",
+      "counts": {
+        "cards": 18,
+        "groups": 3,
+        "edges": 13,
+        "internal_atoms": 11,
+        "source_atoms": 19,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 4,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 8,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 1,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 8,
+        "navigation_nodes": 5,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1400,
+        "height": 1698,
+        "aspect_ratio": 0.8245
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 6,
+        "edge_length_median": 510,
+        "edge_length_p90": 759,
+        "edge_length_max": 840,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-05371",
+          "node_id": "80895a128f7c5c7b",
+          "parent_id": "b6fd97062425cf1c",
+          "member_ids": [
+            "11e8b5edc7e3d802",
+            "28bf059037c2a09f",
+            "2f44f9f27a6e08c7",
+            "696f2b2b89c4ad24",
+            "84a2d20cc2b5cb9a",
+            "9549ff2a756ad5f7"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05452",
+          "node_id": "6aa9db7deaa6beee",
+          "parent_id": "b6fd97062425cf1c",
+          "member_ids": [
+            "1429596e10373f31",
+            "2a297456a253fe6b",
+            "2ae3e2ee8db556e3",
+            "48b0abacd814920a",
+            "58b72adf5ce717db",
+            "79d48efe43d8fd57",
+            "a639f388bc5acc46",
+            "e3d776abff044859"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-035",
+          "node_id": "b6fd97062425cf1c",
+          "parent_id": null,
+          "member_ids": [
+            "11e8b5edc7e3d802",
+            "1429596e10373f31",
+            "28bf059037c2a09f",
+            "2a297456a253fe6b",
+            "2ae3e2ee8db556e3",
+            "2f44f9f27a6e08c7",
+            "48b0abacd814920a",
+            "508625afb3dbb293",
+            "58b72adf5ce717db",
+            "696f2b2b89c4ad24",
+            "79d48efe43d8fd57",
+            "84a2d20cc2b5cb9a",
+            "9549ff2a756ad5f7",
+            "a639f388bc5acc46",
+            "e3d776abff044859"
+          ]
+        }
+      ],
+      "png_path": "sections/04-08-4.4-对数函数-d38e6a.png",
+      "png_sha256": "e9a9e5c9905817e58e600cf99580def9024a811d34df0d064f4ed21c7ce9cc8c",
+      "png_dimensions": [
+        2400,
+        2859
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-036",
+      "status": "ready",
+      "path": "sections/04-09-探究与发现-互为反函数的两个函数图象间的关系-2f662a.canvas",
+      "counts": {
+        "cards": 13,
+        "groups": 3,
+        "edges": 10,
+        "internal_atoms": 7,
+        "source_atoms": 25,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 5,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 18,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 4,
+        "navigation_nodes": 4,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1364,
+        "height": 1524,
+        "aspect_ratio": 0.895
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 12,
+        "edge_length_median": 510,
+        "edge_length_p90": 891,
+        "edge_length_max": 891,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-05586",
+          "node_id": "d639c8d5b03dc7b1",
+          "parent_id": "df89d7ce39a1ff0c",
+          "member_ids": [
+            "21e64b7ee9e68636",
+            "391827354aeb35ba",
+            "9ca925f5831d03a0",
+            "b2914a3d3057ac82",
+            "d307d99846ef16af",
+            "e2f31cecda65d02c",
+            "f4a281cade46af44"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05689",
+          "node_id": "64946db64a48b1b1",
+          "parent_id": "df89d7ce39a1ff0c",
+          "member_ids": [
+            "ef47a19bed24bfc9"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-036",
+          "node_id": "df89d7ce39a1ff0c",
+          "parent_id": null,
+          "member_ids": [
+            "21e64b7ee9e68636",
+            "391827354aeb35ba",
+            "9ca925f5831d03a0",
+            "b2914a3d3057ac82",
+            "cd088d4f6ecded60",
+            "d03aac8ed632790d",
+            "d307d99846ef16af",
+            "e2f31cecda65d02c",
+            "ef47a19bed24bfc9",
+            "f4a281cade46af44"
+          ]
+        }
+      ],
+      "png_path": "sections/04-09-探究与发现-互为反函数的两个函数图象间的关系-2f662a.png",
+      "png_sha256": "32ba9261aaa381cdbf77ecd541e74fff8283ce24f5c3a2cd23efd6f388416575",
+      "png_dimensions": [
+        2400,
+        2652
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-037",
+      "status": "ready",
+      "path": "sections/04-10-4.5-函数的应用(二)-87e5ee.canvas",
+      "counts": {
+        "cards": 13,
+        "groups": 3,
+        "edges": 8,
+        "internal_atoms": 7,
+        "source_atoms": 13,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 4,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 6,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1224,
+        "height": 1722,
+        "aspect_ratio": 0.7108
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 6,
+        "edge_length_median": 510,
+        "edge_length_p90": 759,
+        "edge_length_max": 762,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-05778",
+          "node_id": "963ae8596b099e50",
+          "parent_id": "bfab2b17f3510301",
+          "member_ids": [
+            "188a4c81d381639d",
+            "29304023386f872b",
+            "718c741aecf48902",
+            "c18acb761c05746d",
+            "cbc0089700d9b7d6",
+            "f661d9b63a21cb5f"
+          ]
+        },
+        {
+          "organizer_key": "semantic-05850",
+          "node_id": "3bf065ef64c18f82",
+          "parent_id": "bfab2b17f3510301",
+          "member_ids": [
+            "7fa6941943716b7c",
+            "894261cfaab61ece",
+            "9dca9e21eed5c1bc"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-037",
+          "node_id": "bfab2b17f3510301",
+          "parent_id": null,
+          "member_ids": [
+            "188a4c81d381639d",
+            "29304023386f872b",
+            "718c741aecf48902",
+            "7fa6941943716b7c",
+            "894261cfaab61ece",
+            "9dca9e21eed5c1bc",
+            "c18acb761c05746d",
+            "cbc0089700d9b7d6",
+            "e2d20f6ff0bf9414",
+            "f661d9b63a21cb5f"
+          ]
+        }
+      ],
+      "png_path": "sections/04-10-4.5-函数的应用(二)-87e5ee.png",
+      "png_sha256": "121864905a5fc2c442ef1f9227217b63549b30ea9e17c47ccbb47913f6180c7e",
+      "png_dimensions": [
+        2400,
+        3264
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-038",
+      "status": "ready",
+      "path": "sections/04-11-阅读与思考-中外历史上的方程求解-136c0b.canvas",
+      "counts": {
+        "cards": 12,
+        "groups": 3,
+        "edges": 9,
+        "internal_atoms": 6,
+        "source_atoms": 27,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 2,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 21,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1364,
+        "height": 1802,
+        "aspect_ratio": 0.7569
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 508,
+        "edge_length_max": 1353,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-05956",
+          "node_id": "f1e8bc72bdd7df28",
+          "parent_id": "d2b0b618b3c06e23",
+          "member_ids": [
+            "18bae83150557626",
+            "231b8a834a967cbe",
+            "56f7c692fb116125",
+            "838d4fa2c48ecc49",
+            "92292b94eac4e180",
+            "a6a62af6cd2b2bf5",
+            "e13e4547aba90f28"
+          ]
+        },
+        {
+          "organizer_key": "semantic-06230",
+          "node_id": "445080bc6fc7c19f",
+          "parent_id": "d2b0b618b3c06e23",
+          "member_ids": [
+            "15ce8731e85b7826"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-038",
+          "node_id": "d2b0b618b3c06e23",
+          "parent_id": null,
+          "member_ids": [
+            "15ce8731e85b7826",
+            "18bae83150557626",
+            "231b8a834a967cbe",
+            "56f7c692fb116125",
+            "838d4fa2c48ecc49",
+            "92292b94eac4e180",
+            "a6a62af6cd2b2bf5",
+            "e13e4547aba90f28",
+            "e3a9118323fb832a"
+          ]
+        }
+      ],
+      "png_path": "sections/04-11-阅读与思考-中外历史上的方程求解-136c0b.png",
+      "png_sha256": "c48f8c8b55979524a1132f679f1b5b4bc3f141eb486a93f9d351131ae42e8802",
+      "png_dimensions": [
+        2400,
+        3090
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-039",
+      "status": "ready",
+      "path": "sections/04-12-文献阅读与数学写作--对数概念的形成与发展-4b22ed.canvas",
+      "counts": {
+        "cards": 7,
+        "groups": 1,
+        "edges": 6,
+        "internal_atoms": 4,
+        "source_atoms": 4,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 3,
+        "concept_relation_edges": 3,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1652,
+        "height": 390,
+        "aspect_ratio": 4.2359
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 420,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-039",
+          "node_id": "c84ef6ade0cc462f",
+          "parent_id": null,
+          "member_ids": [
+            "079c100a21623860",
+            "1702537f2b3cd227",
+            "aff1a36c40bcb6ca",
+            "b5380f3ccda103cb"
+          ]
+        }
+      ],
+      "png_path": "sections/04-12-文献阅读与数学写作--对数概念的形成与发展-4b22ed.png",
+      "png_sha256": "d11f060c4ef3a96ca71f78c89355782fe22bbb3d426e7101eab98581a995ff23",
+      "png_dimensions": [
+        2400,
+        729
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-040",
+      "status": "ready",
+      "path": "sections/04-13-第四章-指数函数与对数函数-小结-031add.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-040",
+          "node_id": "125b7261e46d8105",
+          "parent_id": null,
+          "member_ids": [
+            "203f07f4b8f2189c",
+            "bb3784dfa86ce06a"
+          ]
+        }
+      ],
+      "png_path": "sections/04-13-第四章-指数函数与对数函数-小结-031add.png",
+      "png_sha256": "a5afd53d6655045d7f1a4e7b0ab6eb1c379b0a9dac314ccccdbc42758768b3bb",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-028",
+      "root_key": "node-toc-041",
+      "status": "ready",
+      "path": "sections/04-14-第四章-指数函数与对数函数-复习参考题4-ba933c.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 12,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-041",
+          "node_id": "1a5bf538f868092b",
+          "parent_id": null,
+          "member_ids": [
+            "a2592795317b607d"
+          ]
+        }
+      ],
+      "png_path": "sections/04-14-第四章-指数函数与对数函数-复习参考题4-ba933c.png",
+      "png_sha256": "9780fd396fc2506aef9f5915c09f60f2ed0d1aa2d4f5b308a53aef90608f3bba",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-042",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/05-01-章引入-97cbba.canvas",
+      "counts": {
+        "cards": 17,
+        "groups": 1,
+        "edges": 25,
+        "internal_atoms": 14,
+        "source_atoms": 14,
+        "knowledge_atoms": 13,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 13,
+        "concept_relation_edges": 12,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 5852,
+        "height": 390,
+        "aspect_ratio": 15.0051
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 420,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-042",
+          "node_id": "d8cd0a5dd6aa9dde",
+          "parent_id": null,
+          "member_ids": [
+            "2917ed36f7272c5a",
+            "38fd62f2308e344a",
+            "48a4373bb97edb52",
+            "4d6924f0f8280ced",
+            "6512c9b0eac153ad",
+            "66ff62c820cb4a6a",
+            "9f9a4ab0fcd303fb",
+            "a10f209e18a7bd47",
+            "a5714f455e3618dd",
+            "b1d85757ab041a57",
+            "c7f42931dee06311",
+            "cb30582f321e4327",
+            "e3b8ab92ef3aa5e3",
+            "fa68312f7592c5a5"
+          ]
+        }
+      ],
+      "png_path": "sections/05-01-章引入-97cbba.png",
+      "png_sha256": "c0d167ed1594917cb0cadbd8cbc0878b00b7f517a1a7b33de6a23840fc0ea77e",
+      "png_dimensions": [
+        2400,
+        220
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/06-01-章引入-94faad.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-043",
+          "node_id": "781be3ce05c5c43e",
+          "parent_id": null,
+          "member_ids": [
+            "635f26f2ff6e1afe",
+            "bb1b9d69f1951b8e"
+          ]
+        }
+      ],
+      "png_path": "sections/06-01-章引入-94faad.png",
+      "png_sha256": "a329edc1ea4c8faa2f81138487a367d0ad69829fa476e2cec38da839a7c78737",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-044",
+      "status": "ready",
+      "path": "sections/06-02-5.1-任意角和弧度制-b53717.canvas",
+      "counts": {
+        "cards": 21,
+        "groups": 4,
+        "edges": 12,
+        "internal_atoms": 12,
+        "source_atoms": 33,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 6,
+        "featured_examples": 6,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 21,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 9,
+        "navigation_nodes": 6,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1496,
+        "height": 2054,
+        "aspect_ratio": 0.7283
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 361,
+        "edge_length_p90": 676,
+        "edge_length_max": 842,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-06704",
+          "node_id": "b43193589aa0ecdf",
+          "parent_id": "e600360289c03d1d",
+          "member_ids": [
+            "0104e8f8ab303855",
+            "15acf9b66b934e3d",
+            "1f77d0611a172fe3",
+            "2476a652d4d7065a",
+            "530228bc8a86d776",
+            "ac96b39baa21f851",
+            "ec4761a9aea80695"
+          ]
+        },
+        {
+          "organizer_key": "semantic-06842",
+          "node_id": "946da7ab564636b5",
+          "parent_id": "e600360289c03d1d",
+          "member_ids": [
+            "0103398a7c862aaf",
+            "46646058e9a88f22",
+            "49304e3b4d8f377d",
+            "7339fad389a0e514",
+            "920047cbe8ec647f",
+            "b18b94b1bff80e27",
+            "b8378a7c79cc2a99",
+            "e7278c5d28216be8"
+          ]
+        },
+        {
+          "organizer_key": "semantic-07026",
+          "node_id": "7034476f9b9819dc",
+          "parent_id": "e600360289c03d1d",
+          "member_ids": [
+            "b72c9e2191d7f40c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-044",
+          "node_id": "e600360289c03d1d",
+          "parent_id": null,
+          "member_ids": [
+            "0103398a7c862aaf",
+            "0104e8f8ab303855",
+            "15acf9b66b934e3d",
+            "1f77d0611a172fe3",
+            "2476a652d4d7065a",
+            "46646058e9a88f22",
+            "49304e3b4d8f377d",
+            "530228bc8a86d776",
+            "7339fad389a0e514",
+            "920047cbe8ec647f",
+            "9493446d72f35919",
+            "95cc37b58a580cc9",
+            "ac96b39baa21f851",
+            "b18b94b1bff80e27",
+            "b72c9e2191d7f40c",
+            "b8378a7c79cc2a99",
+            "e7278c5d28216be8",
+            "ec4761a9aea80695"
+          ]
+        }
+      ],
+      "png_path": "sections/06-02-5.1-任意角和弧度制-b53717.png",
+      "png_sha256": "2280caa2490ecc91a83e7d8ad7861389dfff1520bafa24a2feba35c8f1e9cf18",
+      "png_dimensions": [
+        2400,
+        3209
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-045",
+      "status": "ready",
+      "path": "sections/06-03-5.2-三角函数的概念-4c2022.canvas",
+      "counts": {
+        "cards": 18,
+        "groups": 4,
+        "edges": 13,
+        "internal_atoms": 10,
+        "source_atoms": 41,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 3,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 31,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 3,
+        "concept_hubs": 0,
+        "atom_relation_edges": 1,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 7,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1476,
+        "height": 1730,
+        "aspect_ratio": 0.8532
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 8,
+        "edge_length_median": 510,
+        "edge_length_p90": 842,
+        "edge_length_max": 891,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-07094",
+          "node_id": "8729102a80f27c78",
+          "parent_id": "076feebb412a2ea9",
+          "member_ids": [
+            "152765d5e3bade03",
+            "1acd10c754e8ad23",
+            "39489a72a9b44245",
+            "485c9770b872c3ae",
+            "4934809b354d9032",
+            "5e57177eac5c1ae9",
+            "f9b743a89a245f4c"
+          ]
+        },
+        {
+          "organizer_key": "semantic-07363",
+          "node_id": "fbbb8e9ef2a23fbd",
+          "parent_id": "076feebb412a2ea9",
+          "member_ids": [
+            "4ce383f6648f5195",
+            "62ba13cadbcb46c4",
+            "75434fe6c6dc0d94",
+            "9d5571c35efa3788",
+            "cd04481f0deccb21",
+            "fa8214bce16d170a"
+          ]
+        },
+        {
+          "organizer_key": "semantic-07467",
+          "node_id": "e474af98c7c816d1",
+          "parent_id": "076feebb412a2ea9",
+          "member_ids": [
+            "2a8104d4ce085bce"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-045",
+          "node_id": "076feebb412a2ea9",
+          "parent_id": null,
+          "member_ids": [
+            "152765d5e3bade03",
+            "1acd10c754e8ad23",
+            "2a8104d4ce085bce",
+            "39489a72a9b44245",
+            "485c9770b872c3ae",
+            "4934809b354d9032",
+            "4ce383f6648f5195",
+            "5e57177eac5c1ae9",
+            "62ba13cadbcb46c4",
+            "75434fe6c6dc0d94",
+            "9d5571c35efa3788",
+            "bf9a7f37daf07c61",
+            "cd04481f0deccb21",
+            "f9b743a89a245f4c",
+            "fa8214bce16d170a"
+          ]
+        }
+      ],
+      "png_path": "sections/06-03-5.2-三角函数的概念-4c2022.png",
+      "png_sha256": "9a58ab6a132a0dad286fb5420b263168045e13b1a13f654c40b7dd13c1651966",
+      "png_dimensions": [
+        2400,
+        2773
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-046",
+      "status": "ready",
+      "path": "sections/06-04-阅读与思考-三角学与天文学-85b88b.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-046",
+          "node_id": "af5e88ffa3298e27",
+          "parent_id": null,
+          "member_ids": [
+            "d5a248db790d6737",
+            "e3ff144ec588c1b5"
+          ]
+        }
+      ],
+      "png_path": "sections/06-04-阅读与思考-三角学与天文学-85b88b.png",
+      "png_sha256": "1bc2fcd6ce897f87699dd4a504769b2920d87278440fcd35c1fad3858ec0e45a",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-047",
+      "status": "ready",
+      "path": "sections/06-05-5.3-诱导公式-d118aa.canvas",
+      "counts": {
+        "cards": 10,
+        "groups": 2,
+        "edges": 4,
+        "internal_atoms": 4,
+        "source_atoms": 22,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 2,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 18,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 742,
+        "aspect_ratio": 1.8113
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 185,
+        "edge_length_p90": 311,
+        "edge_length_max": 342,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-07869",
+          "node_id": "b3306d2f7f3b2af3",
+          "parent_id": "97b1cf4f4184b617",
+          "member_ids": [
+            "2f9943dde20c7432"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-047",
+          "node_id": "97b1cf4f4184b617",
+          "parent_id": null,
+          "member_ids": [
+            "2f9943dde20c7432",
+            "3d5537ea3f575f53",
+            "9c30db655db4f9cb",
+            "ae1ce151a8f871e7",
+            "b325fb70f09afaf7",
+            "bf1ccab881af923e",
+            "e1afd91a7c3b189f"
+          ]
+        }
+      ],
+      "png_path": "sections/06-05-5.3-诱导公式-d118aa.png",
+      "png_sha256": "ee4438a484632b41aa217cb5966e4fbb93ed9c0ce48c768f7c6d36fe9ec0a4ab",
+      "png_dimensions": [
+        2400,
+        1440
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-048",
+      "status": "ready",
+      "path": "sections/06-06-5.4-三角函数的图象与性质-a6a5bc.canvas",
+      "counts": {
+        "cards": 23,
+        "groups": 3,
+        "edges": 20,
+        "internal_atoms": 16,
+        "source_atoms": 25,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 11,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 9,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 3,
+        "concept_relation_edges": 3,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 12,
+        "navigation_nodes": 5,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2260,
+        "height": 2032,
+        "aspect_ratio": 1.1122
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 508,
+        "edge_length_p90": 1172,
+        "edge_length_max": 1880,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-07924",
+          "node_id": "71faa508fcff47a4",
+          "parent_id": "02fea9aed5be61a1",
+          "member_ids": [
+            "0f1d8deb0b6f2272",
+            "265c796ba33f9b56",
+            "31ce61033fc990b1",
+            "35acd459791b4cdd",
+            "36a5066e662bfa67",
+            "5fa95e7f5ed5f056",
+            "7774e9610facd6af",
+            "9387c921bfd2cc17",
+            "ab436401fe51f55b",
+            "bb21641904ce73b9"
+          ]
+        },
+        {
+          "organizer_key": "semantic-08058",
+          "node_id": "9b59c19cc5037f06",
+          "parent_id": "02fea9aed5be61a1",
+          "member_ids": [
+            "188d45d687eaec14",
+            "20c22e74659f73cb",
+            "3f041aff03682566",
+            "408749318addea52",
+            "84848d6069a0768d",
+            "84d9e7b11d116f6d",
+            "b44cdc3940873fd0",
+            "c7dc644f942a0ff0",
+            "c9882fe05c80723c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-048",
+          "node_id": "02fea9aed5be61a1",
+          "parent_id": null,
+          "member_ids": [
+            "0f1d8deb0b6f2272",
+            "188d45d687eaec14",
+            "1ce6053abb93d1d6",
+            "20c22e74659f73cb",
+            "265c796ba33f9b56",
+            "31ce61033fc990b1",
+            "35acd459791b4cdd",
+            "36a5066e662bfa67",
+            "3f041aff03682566",
+            "408749318addea52",
+            "5fa95e7f5ed5f056",
+            "7774e9610facd6af",
+            "84848d6069a0768d",
+            "84d9e7b11d116f6d",
+            "9387c921bfd2cc17",
+            "ab436401fe51f55b",
+            "b44cdc3940873fd0",
+            "bb21641904ce73b9",
+            "c7dc644f942a0ff0",
+            "c9882fe05c80723c"
+          ]
+        }
+      ],
+      "png_path": "sections/06-06-5.4-三角函数的图象与性质-a6a5bc.png",
+      "png_sha256": "49014e9bdcccfe7a045ea175e7ae744803d464196754c5e0cebf3428fdb4661b",
+      "png_dimensions": [
+        2400,
+        2174
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-049",
+      "status": "ready",
+      "path": "sections/06-07-探究与发现-函数-y-=-A-sin(ωx-+-φ)-及-函数-y-=-A-cos(ωx-+-φ)-的周期-1508ce.canvas",
+      "counts": {
+        "cards": 12,
+        "groups": 1,
+        "edges": 9,
+        "internal_atoms": 7,
+        "source_atoms": 13,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 2,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 6,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 4,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1232,
+        "height": 1472,
+        "aspect_ratio": 0.837
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 508,
+        "edge_length_max": 674,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-049",
+          "node_id": "eae04fa04272a4b0",
+          "parent_id": null,
+          "member_ids": [
+            "117a3d0918f0d1d0",
+            "36492b365a45c338",
+            "3e8b13a8047dc82a",
+            "4cfa86d12acec465",
+            "7e09f75147555ef7",
+            "883a4bfe77c6bba5",
+            "a2a1d30c77366ba2",
+            "b5ec170b459bf53a",
+            "c9a41c547ccba39c"
+          ]
+        }
+      ],
+      "png_path": "sections/06-07-探究与发现-函数-y-=-A-sin(ωx-+-φ)-及-函数-y-=-A-cos(ωx-+-φ)-的周期-1508ce.png",
+      "png_sha256": "bf2eef9f4ae91e4b9789e951c4f7ba7c0e20019b8fcf620b9576d82af5e912a4",
+      "png_dimensions": [
+        2400,
+        2814
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-050",
+      "status": "ready",
+      "path": "sections/06-08-探究与发现-利用单位圆的性质研究正弦函数、余弦函数的性质-7384df.canvas",
+      "counts": {
+        "cards": 17,
+        "groups": 3,
+        "edges": 18,
+        "internal_atoms": 12,
+        "source_atoms": 31,
+        "knowledge_atoms": 6,
+        "scenario_atoms": 5,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 19,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 6,
+        "concept_relation_edges": 6,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 5,
+        "navigation_nodes": 4,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3044,
+        "height": 1770,
+        "aspect_ratio": 1.7198
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 1245,
+        "edge_length_max": 2557,
+        "edges_over_2000": 1,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-08468",
+          "node_id": "b45417564fddbfae",
+          "parent_id": "e42198aeec639012",
+          "member_ids": [
+            "01812b731da0fa13",
+            "0f9ffb4303df7f40",
+            "319616852bdccfe5",
+            "44d7c676131c16d5",
+            "7ac181abdb4ee559",
+            "ad590b621eff2929",
+            "c1fd68d07bc04cd2",
+            "d3a2834faffe3134",
+            "d8236c633de1ee11",
+            "ef5b8dc92e34fbb2",
+            "fe1b19ac41d41e1c"
+          ]
+        },
+        {
+          "organizer_key": "semantic-08614",
+          "node_id": "ba1f8ca61a3603ff",
+          "parent_id": "e42198aeec639012",
+          "member_ids": [
+            "da0286a3560fe9f3"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-050",
+          "node_id": "e42198aeec639012",
+          "parent_id": null,
+          "member_ids": [
+            "01812b731da0fa13",
+            "0f9ffb4303df7f40",
+            "319616852bdccfe5",
+            "44d7c676131c16d5",
+            "7ac181abdb4ee559",
+            "7da3eb93e736b8dc",
+            "ad590b621eff2929",
+            "ad7e8498685109f9",
+            "c1fd68d07bc04cd2",
+            "d3a2834faffe3134",
+            "d8236c633de1ee11",
+            "da0286a3560fe9f3",
+            "ef5b8dc92e34fbb2",
+            "fe1b19ac41d41e1c"
+          ]
+        }
+      ],
+      "png_path": "sections/06-08-探究与发现-利用单位圆的性质研究正弦函数、余弦函数的性质-7384df.png",
+      "png_sha256": "fc686e423ecd3390d6fbb6dc2241e560dd07c88b3929b93df0674b47488a8b67",
+      "png_dimensions": [
+        2400,
+        1446
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-051",
+      "status": "ready",
+      "path": "sections/06-09-5.5-三角恒等变换-7a706e.canvas",
+      "counts": {
+        "cards": 10,
+        "groups": 2,
+        "edges": 6,
+        "internal_atoms": 5,
+        "source_atoms": 22,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 2,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 17,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 1,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 1358,
+        "aspect_ratio": 0.8984
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 6,
+        "edge_length_median": 510,
+        "edge_length_p90": 759,
+        "edge_length_max": 759,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-08692",
+          "node_id": "87e4dcdefe9dbda8",
+          "parent_id": "27217ca837f527ee",
+          "member_ids": [
+            "00054f48ed4c77a3",
+            "055b41df88d3495f",
+            "636fc16e90f3938d",
+            "83b953a388fb7bb3",
+            "ac1b1674a0b44dc0",
+            "f24f6723417834f6"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-051",
+          "node_id": "27217ca837f527ee",
+          "parent_id": null,
+          "member_ids": [
+            "00054f48ed4c77a3",
+            "055b41df88d3495f",
+            "636fc16e90f3938d",
+            "83b953a388fb7bb3",
+            "8a04cb316dc95180",
+            "ac1b1674a0b44dc0",
+            "f24f6723417834f6"
+          ]
+        }
+      ],
+      "png_path": "sections/06-09-5.5-三角恒等变换-7a706e.png",
+      "png_sha256": "e53135139991c762515013b18bb2ac9b13e10a8d0701a15d7791afa7706a963a",
+      "png_dimensions": [
+        2400,
+        2640
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-052",
+      "status": "ready",
+      "path": "sections/06-10-信息技术应用-利用信息技术制作三角函数表-e6c5d5.canvas",
+      "counts": {
+        "cards": 11,
+        "groups": 3,
+        "edges": 7,
+        "internal_atoms": 5,
+        "source_atoms": 34,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 1,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 29,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 1,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 4,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 1358,
+        "aspect_ratio": 0.8984
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 9,
+        "edge_length_median": 573,
+        "edge_length_p90": 822,
+        "edge_length_max": 822,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-09132",
+          "node_id": "c3fac9a377935aa3",
+          "parent_id": "1d22f24daec783bc",
+          "member_ids": [
+            "2a2ffc50931822c2",
+            "40604773253763f2",
+            "6f26aaee2ef3bd00",
+            "904c21cd85f5d5a3",
+            "c23c27421d8af3b5",
+            "e529138168849418"
+          ]
+        },
+        {
+          "organizer_key": "semantic-09356",
+          "node_id": "053ed9ef0eaa666b",
+          "parent_id": "1d22f24daec783bc",
+          "member_ids": [
+            "4fa3c0a5778a0338"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-052",
+          "node_id": "1d22f24daec783bc",
+          "parent_id": null,
+          "member_ids": [
+            "2a2ffc50931822c2",
+            "305c5baf8163e388",
+            "40604773253763f2",
+            "4fa3c0a5778a0338",
+            "6f26aaee2ef3bd00",
+            "904c21cd85f5d5a3",
+            "c23c27421d8af3b5",
+            "e529138168849418"
+          ]
+        }
+      ],
+      "png_path": "sections/06-10-信息技术应用-利用信息技术制作三角函数表-e6c5d5.png",
+      "png_sha256": "55ca7ef335c2f5379d4deaec7c680354b563205f3cecb9e5ebfa2981bb58ffde",
+      "png_dimensions": [
+        2400,
+        2640
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-053",
+      "status": "ready",
+      "path": "sections/06-11-5.6-函数-y-=-A-sin(ωx-+-φ)-cbdeb9.canvas",
+      "counts": {
+        "cards": 20,
+        "groups": 4,
+        "edges": 17,
+        "internal_atoms": 13,
+        "source_atoms": 25,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 8,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 4,
+        "concept_relation_edges": 3,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 8,
+        "navigation_nodes": 5,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 4478,
+        "height": 870,
+        "aspect_ratio": 5.1471
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 30,
+        "edge_length_median": 811,
+        "edge_length_p90": 1841,
+        "edge_length_max": 2481,
+        "edges_over_2000": 2,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-09473",
+          "node_id": "d90b5fae7b4f94ee",
+          "parent_id": "096cf0f33ab8abf9",
+          "member_ids": [
+            "04b3aa7b41f81719",
+            "253a50af9f4340f0",
+            "750b3d46cf4e4113"
+          ]
+        },
+        {
+          "organizer_key": "semantic-09513",
+          "node_id": "b1587679bd639309",
+          "parent_id": "096cf0f33ab8abf9",
+          "member_ids": [
+            "0a3148a2b316a285",
+            "1611d67af9fe82f2",
+            "2e983a7c530a6b69",
+            "3250b903246ee860",
+            "3d91f8ba5da9750a",
+            "44f926f4cd3ff504",
+            "512532eadc075216",
+            "5f305a6e57ea1dd4",
+            "75bd9dd79da62073",
+            "7b9360aa80cbfd08",
+            "b54f6e2221d20ba4",
+            "f3b450f44fbbf358"
+          ]
+        },
+        {
+          "organizer_key": "semantic-09701",
+          "node_id": "a0e093da57a03dd1",
+          "parent_id": "096cf0f33ab8abf9",
+          "member_ids": [
+            "71a165fa798254df"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-053",
+          "node_id": "096cf0f33ab8abf9",
+          "parent_id": null,
+          "member_ids": [
+            "04b3aa7b41f81719",
+            "0a3148a2b316a285",
+            "12399fc71feb5358",
+            "1611d67af9fe82f2",
+            "253a50af9f4340f0",
+            "2e983a7c530a6b69",
+            "3250b903246ee860",
+            "3d91f8ba5da9750a",
+            "44f926f4cd3ff504",
+            "512532eadc075216",
+            "5f305a6e57ea1dd4",
+            "71a165fa798254df",
+            "750b3d46cf4e4113",
+            "75bd9dd79da62073",
+            "7b9360aa80cbfd08",
+            "b54f6e2221d20ba4",
+            "f3b450f44fbbf358"
+          ]
+        }
+      ],
+      "png_path": "sections/06-11-5.6-函数-y-=-A-sin(ωx-+-φ)-cbdeb9.png",
+      "png_sha256": "26aceabeef588db2ed11a5dd756eb239340b9649cdfde513c6b4c6bff4cd1f40",
+      "png_dimensions": [
+        2400,
+        533
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-054",
+      "status": "ready",
+      "path": "sections/06-12-5.7-三角函数的应用-bb6fa0.canvas",
+      "counts": {
+        "cards": 6,
+        "groups": 2,
+        "edges": 2,
+        "internal_atoms": 1,
+        "source_atoms": 13,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 986,
+        "aspect_ratio": 1.2373
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 314,
+        "edge_length_p90": 314,
+        "edge_length_max": 599,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "semantic-10013",
+          "node_id": "ea2e9b800d9b29ea",
+          "parent_id": "a8b8006ae90df551",
+          "member_ids": [
+            "23e4b6d1c3ccce6e"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-054",
+          "node_id": "a8b8006ae90df551",
+          "parent_id": null,
+          "member_ids": [
+            "23e4b6d1c3ccce6e",
+            "2e67dad6de82dd87",
+            "f059452f8e3079a6"
+          ]
+        }
+      ],
+      "png_path": "sections/06-12-5.7-三角函数的应用-bb6fa0.png",
+      "png_sha256": "bdc5a9c035ae26b33bd584ef83585dad09f5053ce531a817f9f335901dd85f75",
+      "png_dimensions": [
+        2400,
+        1994
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-055",
+      "status": "ready",
+      "path": "sections/06-13-阅读与思考-振幅、周期、频率、相位-396786.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-055",
+          "node_id": "d611209efbea9e72",
+          "parent_id": null,
+          "member_ids": [
+            "a0503a930d3e770b",
+            "df5e2d40d1263940"
+          ]
+        }
+      ],
+      "png_path": "sections/06-13-阅读与思考-振幅、周期、频率、相位-396786.png",
+      "png_sha256": "0be741df2b984b325cb8a0ca83becc8c5bff6f2c28e4a65b9e8aa3c1d41d270b",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-056",
+      "status": "ready",
+      "path": "sections/06-14-第五章-三角函数-小结-a1cba0.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-056",
+          "node_id": "65de73bd93550dcd",
+          "parent_id": null,
+          "member_ids": [
+            "652414b3da90f42d",
+            "d7283411d17b9a7c"
+          ]
+        }
+      ],
+      "png_path": "sections/06-14-第五章-三角函数-小结-a1cba0.png",
+      "png_sha256": "5921404fe91db05d84660e060acb1d55e9e7aaf8a9fc95b51be3f838ef4ed938",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-043",
+      "root_key": "node-toc-057",
+      "status": "ready",
+      "path": "sections/06-15-第五章-三角函数-复习参考题5-1f7bec.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 22,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 22,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-057",
+          "node_id": "ce3d8ed26a984fc8",
+          "parent_id": null,
+          "member_ids": [
+            "3325e31d9e76cd5a"
+          ]
+        }
+      ],
+      "png_path": "sections/06-15-第五章-三角函数-复习参考题5-1f7bec.png",
+      "png_sha256": "6ad36d209721f6f13d72a76e971c331670fd810d9a740be031c836acf9cbb957",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    }
+  ],
+  "png_previews": {
+    "required": true,
+    "count": 64,
+    "paths": [
+      "chapters/01-第一章-集合与常用逻辑用语-75a20e.png",
+      "chapters/02-第二章-一元二次函数、方程和不等式-9775d4.png",
+      "chapters/03-第三章-函数的概念与性质-8c58a6.png",
+      "chapters/04-第四章-指数函数与对数函数-3702e5.png",
+      "chapters/05-数学建模-建立函数模型解决实际问题-a2f4dd.png",
+      "chapters/06-第五章-三角函数-c80f27.png",
+      "overview.png",
+      "sections/01-01-章引入-55b0cf.png",
+      "sections/01-02-1.1-集合的概念-f18845.png",
+      "sections/01-03-1.2-集合间的基本关系-798c6c.png",
+      "sections/01-04-1.3-集合的基本运算-43a38d.png",
+      "sections/01-05-阅读与思考-集合中元素的个数-c26549.png",
+      "sections/01-06-1.4-充分条件与必要条件-91847a.png",
+      "sections/01-07-阅读与思考-几何命题与充分条件、必要条件-d98d2e.png",
+      "sections/01-08-1.5-全称量词与存在量词-f97971.png",
+      "sections/01-09-第一章-集合与常用逻辑用语-小结-8b1d45.png",
+      "sections/01-10-第一章-集合与常用逻辑用语-复习参考题-1-70ee63.png",
+      "sections/02-01-章引入-edf1c8.png",
+      "sections/02-02-2.1-等式性质与不等式性质-bb4664.png",
+      "sections/02-03-2.2-基本不等式-60f712.png",
+      "sections/02-04-2.3-二次函数与一元二次方程、不等式-27329a.png",
+      "sections/02-05-第二章-一元二次函数、方程和不等式-小结-ec8b5b.png",
+      "sections/02-06-第二章-一元二次函数、方程和不等式-复习参考题-2-24ed9f.png",
+      "sections/03-01-章引入-337081.png",
+      "sections/03-02-3.1-函数的概念及其表示-41d1f8.png",
+      "sections/03-03-阅读与思考-函数概念的发展历程-5a3b0d.png",
+      "sections/03-04-3.2-函数的基本性质-001606.png",
+      "sections/03-05-信息技术应用-用计算机绘制函数图象-b3135a.png",
+      "sections/03-06-3.3-幂函数-3f5957.png",
+      "sections/03-07-探究与发现-探究函数-$y-=-x-+--frac{1}{x}$-的图象与性质-b7d16e.png",
+      "sections/03-08-3.4-函数的应用(一)-030e3f.png",
+      "sections/03-09-文献阅读与数学写作--函数的形成与发展-3487f5.png",
+      "sections/03-10-第三章-函数的概念与性质-小结-4aef58.png",
+      "sections/03-11-第三章-函数的概念与性质-复习参考题-3-97ef97.png",
+      "sections/04-01-章引入-eb468b.png",
+      "sections/04-02-4.1-指数-c72ff3.png",
+      "sections/04-03-4.2-指数函数-146403.png",
+      "sections/04-04-阅读与思考-放射性物质的衰减-83ba4b.png",
+      "sections/04-05-信息技术应用-探究指数函数的性质-bf02d1.png",
+      "sections/04-06-4.3-对数-aba2fb.png",
+      "sections/04-07-阅读与思考-对数的发明-c33ec5.png",
+      "sections/04-08-4.4-对数函数-d38e6a.png",
+      "sections/04-09-探究与发现-互为反函数的两个函数图象间的关系-2f662a.png",
+      "sections/04-10-4.5-函数的应用(二)-87e5ee.png",
+      "sections/04-11-阅读与思考-中外历史上的方程求解-136c0b.png",
+      "sections/04-12-文献阅读与数学写作--对数概念的形成与发展-4b22ed.png",
+      "sections/04-13-第四章-指数函数与对数函数-小结-031add.png",
+      "sections/04-14-第四章-指数函数与对数函数-复习参考题4-ba933c.png",
+      "sections/05-01-章引入-97cbba.png",
+      "sections/06-01-章引入-94faad.png",
+      "sections/06-02-5.1-任意角和弧度制-b53717.png",
+      "sections/06-03-5.2-三角函数的概念-4c2022.png",
+      "sections/06-04-阅读与思考-三角学与天文学-85b88b.png",
+      "sections/06-05-5.3-诱导公式-d118aa.png",
+      "sections/06-06-5.4-三角函数的图象与性质-a6a5bc.png",
+      "sections/06-07-探究与发现-函数-y-=-A-sin(ωx-+-φ)-及-函数-y-=-A-cos(ωx-+-φ)-的周期-1508ce.png",
+      "sections/06-08-探究与发现-利用单位圆的性质研究正弦函数、余弦函数的性质-7384df.png",
+      "sections/06-09-5.5-三角恒等变换-7a706e.png",
+      "sections/06-10-信息技术应用-利用信息技术制作三角函数表-e6c5d5.png",
+      "sections/06-11-5.6-函数-y-=-A-sin(ωx-+-φ)-cbdeb9.png",
+      "sections/06-12-5.7-三角函数的应用-bb6fa0.png",
+      "sections/06-13-阅读与思考-振幅、周期、频率、相位-396786.png",
+      "sections/06-14-第五章-三角函数-小结-a1cba0.png",
+      "sections/06-15-第五章-三角函数-复习参考题5-1f7bec.png"
+    ],
+    "renderer": "preview_canvas.py"
+  }
+}

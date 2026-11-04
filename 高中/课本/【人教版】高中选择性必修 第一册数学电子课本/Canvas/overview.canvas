@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1047653114df3a13","type":"text","text":"# ✦ 普通高中教科书 数学 选择性必修 第一册\n\n全书知识星图","x":-190,"y":-80,"width":380,"height":160,"color":"1"},
+		{"id":"507d174c02991622","type":"text","text":"[## ✦ 第一章 空间向量与立体几何](高中/课本/【人教版】高中选择性必修%20第一册数学电子课本/Canvas/chapters/01-第一章-空间向量与立体几何-75a20e.canvas)","x":-180,"y":-780,"width":360,"height":120,"color":"1"},
+		{"id":"146a29f57d7af9f2","type":"text","text":"[## ✦ 第二章 直线和圆的方程](高中/课本/【人教版】高中选择性必修%20第一册数学电子课本/Canvas/chapters/02-第二章-直线和圆的方程-46200c.canvas)","x":444,"y":300,"width":360,"height":120,"color":"1"},
+		{"id":"6d7977e3e19fb26f","type":"text","text":"[## ✦ 第三章 圆锥曲线的方程](高中/课本/【人教版】高中选择性必修%20第一册数学电子课本/Canvas/chapters/03-第三章-圆锥曲线的方程-35a66a.canvas)","x":-804,"y":300,"width":360,"height":120,"color":"1"},
+		{"id":"e103b230f3be26af","type":"text","text":"**图例**\n\n黄色：主学习路线  ·  灰色：原书顺序\n彩色：跨章知识联系","x":-180,"y":150,"width":360,"height":180}
+	],
+	"edges":[
+		{"id":"e64febe320a0c799","fromNode":"507d174c02991622","toNode":"146a29f57d7af9f2","fromSide":"right","toSide":"left","label":"书序","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"7a06093df4197629","fromNode":"146a29f57d7af9f2","toNode":"6d7977e3e19fb26f","fromSide":"right","toSide":"left","label":"书序","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"}
+	]
+}

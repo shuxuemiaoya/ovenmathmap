@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "manifest": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中选择性必修 第三册数学电子课本/book-graph.json",
+  "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中选择性必修 第三册数学电子课本",
+  "errors": [],
+  "warnings": [
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-002"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-013"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-004"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-006"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-011"
+    },
+    {
+      "code": "mixed-organizer-and-atom-children",
+      "node": "node-toc-017"
+    }
+  ],
+  "counts": {
+    "nodes": 448,
+    "organizers": 58,
+    "atoms": 385,
+    "derived_atoms": 5,
+    "atom_categories": {
+      "knowledge": 39,
+      "worked-example": 44,
+      "exercise": 223,
+      "scenario": 79,
+      "concept": 5,
+      "formula": 0
+    },
+    "relations": 54,
+    "source_lines": 5752,
+    "covered_nonblank_lines": 3269
+  }
+}

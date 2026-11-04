@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"fdd27008ae3fe4ba","type":"group","label":"阅读与思考 代数基本定理","x":0,"y":0,"width":812,"height":210},
+		{"id":"70aaf10d27406861","type":"text","text":"[✦ 情景引入 · 阅读与思考 代数基本定理·本节导语](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/情景引入/0018-S.md)","x":56,"y":76,"width":280,"height":78,"color":"5"},
+		{"id":"1cac482c25912952","type":"text","text":"[✦ 阅读与思考 代数基本定理·核心概念](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/知识点/0022-K.md)","x":476,"y":76,"width":280,"height":78,"color":"2"},
+		{"id":"06e133bca1103927","type":"text","text":"# [阅读与思考 代数基本定理](高中/课本/【人教版】高中必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第二册/第七章%20复数/阅读与思考%20代数基本定理.md)\n\n知识分簇 · 沿连线阅读","x":0,"y":-180,"width":390,"height":150,"color":"1"},
+		{"id":"f5f6e614c12e26c9","type":"text","text":"[← 返回章节](高中/课本/【人教版】高中必修%20第二册数学电子课本/Canvas/chapters/02-第七章-复数-9775d4.canvas)","x":490,"y":-180,"width":230,"height":66},
+		{"id":"48ad68f08d53199e","type":"text","text":"✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层","x":820,"y":-180,"width":400,"height":86}
+	],
+	"edges":[
+		{"id":"be8406ee386e3121","fromNode":"70aaf10d27406861","toNode":"1cac482c25912952","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"d9be819cebfc2e55","fromNode":"70aaf10d27406861","toNode":"1cac482c25912952","fromSide":"right","toSide":"top","label":"主线 · 引发","color":"3","fromEnd":"none","toEnd":"arrow"}
+	]
+}

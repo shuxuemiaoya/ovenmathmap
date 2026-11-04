@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"9eed3a8856b6d5e4","type":"group","label":"4.4* 数学归纳法","x":0,"y":0,"width":2804,"height":436},
+		{"id":"74881a24fb7c6a74","type":"text","text":"[练习入口 · 4.4* 数学归纳法](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20选择性必修%20第二册/第四章%20数列/4.4－%20数学归纳法/4.4－%20数学归纳法.md)\n\n共 6 题","x":416,"y":264,"width":260,"height":72,"color":"6"},
+		{"id":"d8903efa7e826ce3","type":"text","text":"[§ 4.4* 数学归纳法](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20选择性必修%20第二册/第四章%20数列/4.4－%20数学归纳法/4.4－%20数学归纳法.md)","x":56,"y":254,"width":260,"height":66},
+		{"id":"4e372d0b715deca0","type":"text","text":"[✦ 情景引入 · 从归纳猜想到数学归纳法的递推机制·引入](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/情景引入/0019-S.md)","x":56,"y":76,"width":280,"height":78,"color":"5"},
+		{"id":"499505cfd67bb764","type":"text","text":"[✦ 从归纳猜想到数学归纳法的递推机制](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/知识点/0020-K.md)","x":476,"y":76,"width":280,"height":78,"color":"2"},
+		{"id":"f50fd95d1cceeaec","type":"text","text":"[✦ 数学归纳法的原理与步骤](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/知识点/0021-K.md)","x":2498,"y":76,"width":250,"height":66,"color":"2"},
+		{"id":"c353130822d13e1d","type":"text","text":"[· 方法例题 · 用数学归纳法证明等差数列通项公式](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/例题/0027-W.md)","x":2498,"y":252,"width":250,"height":66,"color":"4"},
+		{"id":"edc98581bbfa26c7","type":"text","text":"[· 方法例题 · 用数学归纳法证明恒等式](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/例题/0028-W.md)","x":856,"y":76,"width":250,"height":66,"color":"4"},
+		{"id":"7e49a084b34e5d66","type":"text","text":"[· 方法例题 · 猜想递推数列通项并用归纳法证明](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/例题/0029-W.md)","x":1206,"y":76,"width":250,"height":66,"color":"4"},
+		{"id":"66deed3b28f6b940","type":"text","text":"[· 方法例题 · 伯努利不等式的归纳证明](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/原子层/例题/0030-W.md)","x":1556,"y":76,"width":250,"height":66,"color":"4"},
+		{"id":"a03a02784be70573","type":"group","label":"习题4.4","x":1966,"y":176,"width":372,"height":204},
+		{"id":"cc2a34d0eefa181e","type":"text","text":"[练习入口 · 习题4.4](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20选择性必修%20第二册/第四章%20数列/4.4－%20数学归纳法/习题4.4.md)\n\n共 10 题","x":2022,"y":252,"width":260,"height":72,"color":"6"},
+		{"id":"6ec21f4337fe4c6f","type":"text","text":"# [4.4* 数学归纳法](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20选择性必修%20第二册/第四章%20数列/4.4－%20数学归纳法/4.4－%20数学归纳法.md)\n\n知识分簇 · 沿连线阅读","x":0,"y":-180,"width":390,"height":150,"color":"1"},
+		{"id":"3f4c477975b74fd6","type":"text","text":"[← 返回章节](高中/课本/【人教版】高中选择性必修%20第二册数学电子课本/Canvas/chapters/01-第四章-数列-75a20e.canvas)","x":490,"y":-180,"width":230,"height":66},
+		{"id":"396b4b861fe5cc41","type":"text","text":"✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层","x":820,"y":-180,"width":400,"height":86}
+	],
+	"edges":[
+		{"id":"a8d622745d663c74","fromNode":"4e372d0b715deca0","toNode":"499505cfd67bb764","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"4395d68e023e76ac","fromNode":"499505cfd67bb764","toNode":"f50fd95d1cceeaec","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"34c771e51c83f207","fromNode":"4e372d0b715deca0","toNode":"499505cfd67bb764","fromSide":"right","toSide":"top","label":"主线 · 引发","color":"3","fromEnd":"none","toEnd":"arrow"},
+		{"id":"9b1d356e53760738","fromNode":"f50fd95d1cceeaec","toNode":"c353130822d13e1d","fromSide":"bottom","toSide":"top","label":"例证","color":"4","fromEnd":"none","toEnd":"arrow"},
+		{"id":"da519a461e6e070b","fromNode":"499505cfd67bb764","toNode":"74881a24fb7c6a74","fromSide":"bottom","toSide":"top","label":"归属 · 6题","color":"6","fromEnd":"none","toEnd":"arrow"},
+		{"id":"1370a9742e8f8e27","fromNode":"f50fd95d1cceeaec","toNode":"cc2a34d0eefa181e","fromSide":"bottom","toSide":"top","label":"归属 · 10题","color":"6","fromEnd":"none","toEnd":"arrow"},
+		{"id":"32773bd241f6a721","fromNode":"edc98581bbfa26c7","toNode":"d8903efa7e826ce3","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"0aa3b248cb977da9","fromNode":"7e49a084b34e5d66","toNode":"d8903efa7e826ce3","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"778f887b16f00b05","fromNode":"66deed3b28f6b940","toNode":"d8903efa7e826ce3","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"}
+	]
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "/Volumes/Whw/数学妙呀资料/高中/课本/【人教版】高中选择性必修 第三册数学电子课本.pdf",
+    "sha256": "2f556770f33e5c8491482a769e8318ef098bb57b6733b629421c05678c4d82a1",
+    "kind": "pdf",
+    "bytes": 24499904
+  },
+  "paths": {
+    "staging_root": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中选择性必修 第三册数学电子课本",
+    "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本2/【人教版】高中选择性必修 第三册数学电子课本"
+  },
+  "organizer_root": "组织层",
+  "atom_categories": {
+    "knowledge": "原子层/知识点",
+    "worked-example": "原子层/例题",
+    "exercise": "原子层/习题",
+    "scenario": "原子层/情景引入",
+    "concept": "原子层/概念",
+    "formula": "原子层/公式"
+  },
+  "atom_subcategory_paths": {
+    "reflection-question": "原子层/思考题"
+  },
+  "organization": {
+    "mode": "toc-plus-reviewed-topics",
+    "activity_heading_policy": "atom-content",
+    "knowledge_topic_policy": "source-supported-reviewed"
+  },
+  "atomization": {
+    "mode": "llm-category-aware-graph",
+    "knowledge_granularity": "complete-teaching-unit",
+    "scenario_policy": "preserve-and-role-classify-activities",
+    "activity_prompt_policy": "preserve-marker-and-explicit-disposition",
+    "confidence_threshold": 0.9,
+    "short_atom_confidence_threshold": 0.95,
+    "teaching_role_audit": "integrated",
+    "relation_feedback_cycles": 2,
+    "knowledge_boundary_authority": "llm-exclusive",
+    "provisional_atom_policy": "coverage-context-only",
+    "parallel_definition_policy": "split-when-independently-reusable",
+    "scoped_introduction_policy": "one-source-complete-atom-per-owner",
+    "knowledge_motivation_policy": "complete-problem-or-context",
+    "role_correction_confidence_threshold": 0.95
+  },
+  "relation_analysis": {
+    "mode": "llm-three-pass",
+    "graph_model": "atom-concept-dual-layer",
+    "concept_scope": "book",
+    "explicit_confidence_threshold": 0.9,
+    "inferred_confidence_threshold": 0.95,
+    "concept_merge_threshold": 0.97,
+    "cross_chapter": true,
+    "candidate_retrieval": {
+      "source_window": 2,
+      "lexical_top_k": 8,
+      "embedding": "optional",
+      "embedding_top_k": 8,
+      "graph_hops": 2,
+      "max_ranked_candidates_per_atom": 12
+    },
+    "community_analysis": "wcc-required-leiden-optional"
+  },
+  "markdown_rendering": {
+    "atom_heading_policy": "omit",
+    "atom_filename_policy": "per-folder-sequence-category-code",
+    "leaf_organizer_policy": "flat-note",
+    "organizer_frontmatter_policy": "required",
+    "organizer_self_heading_policy": "omit",
+    "organizer_child_heading": "relative-depth",
+    "organizer_filename_policy": "clear-title",
+    "concept_filename_policy": "preferred-label-collision-safe"
+  },
+  "canvas": {
+    "enabled": true,
+    "mode": "three-level-constellation",
+    "theme": "adaptive",
+    "overview_granularity": "chapter",
+    "chapter_granularity": "core-atom",
+    "section_granularity": "atom-and-exercise-entry",
+    "concept_nodes": "hidden",
+    "formula_nodes": "hidden",
+    "isolation_policy": "semantic-or-labelled-membership",
+    "png_preview": "required-every-canvas",
+    "png_width": 2400,
+    "review": {
+      "mode": "llm-png-two-pass",
+      "scope": "every-canvas",
+      "required_before_completion": true,
+      "max_optimization_cycles": 2,
+      "priority": [
+        "knowledge-logic-completeness",
+        "relation-correctness",
+        "direction-and-ports",
+        "organization-clarity",
+        "aesthetics"
+      ]
+    }
+  }
+}

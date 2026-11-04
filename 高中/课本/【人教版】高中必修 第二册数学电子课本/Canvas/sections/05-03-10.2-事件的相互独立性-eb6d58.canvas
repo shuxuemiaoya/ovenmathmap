@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"7e2d25b8f99b415e","type":"group","label":"10.2 事件的相互独立性","x":0,"y":0,"width":484,"height":1742},
+		{"id":"37fcadf9820328ba","type":"text","text":"[§ 10.2 事件的相互独立性](高中/课本/【人教版】高中必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第二册/第十章%20概率/10.2%20事件的相互独立性/10.2%20事件的相互独立性.md)","x":56,"y":1084,"width":260,"height":66},
+		{"id":"434cbb4ad3b82580","type":"text","text":"[练习入口 · 10.2 事件的相互独立性](高中/课本/【人教版】高中必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第二册/第十章%20概率/10.2%20事件的相互独立性/10.2%20事件的相互独立性.md)\n\n共 5 题","x":56,"y":1250,"width":260,"height":72,"color":"6"},
+		{"id":"ad7020226ec550fb","type":"text","text":"[✦ 10.2 事件的相互独立性·核心概念](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/知识点/0085-K.md)","x":56,"y":906,"width":280,"height":78,"color":"2"},
+		{"id":"fe6dbab4eb345d56","type":"text","text":"[· 思考题 · 10.2 事件的相互独立性·探究](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/思考题/0092-T.md)","x":56,"y":76,"width":250,"height":66,"color":"5"},
+		{"id":"2b171474818a654e","type":"text","text":"[· 思考题 · 10.2 事件的相互独立性·探究](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/思考题/0093-T.md)","x":56,"y":242,"width":250,"height":66,"color":"5"},
+		{"id":"c70511e819db88a1","type":"text","text":"[· 方法例题 · 例 1 一个袋子中有标号分别为 1,](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/例题/0078-W.md)","x":56,"y":408,"width":250,"height":66,"color":"4"},
+		{"id":"03b9775b667391a4","type":"text","text":"[· 方法例题 · 例 2 甲、乙两名射击运动员进行射击比](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/例题/0079-W.md)","x":56,"y":574,"width":250,"height":66,"color":"4"},
+		{"id":"dbdc474d2c8de204","type":"text","text":"[· 方法例题 · 例 3 甲、乙两人组成 “星队” 参加](高中/课本/【人教版】高中必修%20第二册数学电子课本/原子层/例题/0080-W.md)","x":56,"y":740,"width":250,"height":66,"color":"4"},
+		{"id":"23948d972b8f0060","type":"group","label":"习题 10.2","x":56,"y":1482,"width":372,"height":204},
+		{"id":"f4d153db5a5966fa","type":"text","text":"[练习入口 · 习题 10.2](高中/课本/【人教版】高中必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第二册/第十章%20概率/10.2%20事件的相互独立性/习题%2010.2.md)\n\n共 6 题","x":112,"y":1558,"width":260,"height":72,"color":"6"},
+		{"id":"5b8b4233cf87b497","type":"text","text":"# [10.2 事件的相互独立性](高中/课本/【人教版】高中必修%20第二册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第二册/第十章%20概率/10.2%20事件的相互独立性/10.2%20事件的相互独立性.md)\n\n知识分簇 · 沿连线阅读","x":0,"y":-180,"width":390,"height":150,"color":"1"},
+		{"id":"c352c3dd10eac36b","type":"text","text":"[← 返回章节](高中/课本/【人教版】高中必修%20第二册数学电子课本/Canvas/chapters/05-第十章-概率-a2f4dd.canvas)","x":490,"y":-180,"width":230,"height":66},
+		{"id":"d2c1cf9be84d2989","type":"text","text":"✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层","x":820,"y":-180,"width":400,"height":86}
+	],
+	"edges":[
+		{"id":"175bbb3c7b9e89d7","fromNode":"ad7020226ec550fb","toNode":"434cbb4ad3b82580","fromSide":"bottom","toSide":"top","label":"归属 · 5题","color":"6","fromEnd":"none","toEnd":"arrow"},
+		{"id":"76b77665d1ac5b4f","fromNode":"ad7020226ec550fb","toNode":"f4d153db5a5966fa","fromSide":"bottom","toSide":"top","label":"归属 · 6题","color":"6","fromEnd":"none","toEnd":"arrow"},
+		{"id":"93fe7beae470f086","fromNode":"fe6dbab4eb345d56","toNode":"37fcadf9820328ba","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"7abd03257b987178","fromNode":"2b171474818a654e","toNode":"37fcadf9820328ba","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"c6c8d070d05c76f3","fromNode":"c70511e819db88a1","toNode":"37fcadf9820328ba","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"09be19989d365b66","fromNode":"03b9775b667391a4","toNode":"37fcadf9820328ba","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
+		{"id":"84546ebf43f67e2f","fromNode":"dbdc474d2c8de204","toNode":"37fcadf9820328ba","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"}
+	]
+}
