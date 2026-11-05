@@ -1,0 +1,787 @@
+{
+  "mode": "dry-run",
+  "target": "/Users/oven/Documents/ovenmathmap/Mathmap",
+  "backup": null,
+  "staging": "/Users/oven/Documents/ovenmathmap/.mathmap-linker/staging/mathmap-layout-380b027de886/Mathmap",
+  "directories": [
+    "习题",
+    "习题/解析",
+    "习题/图片",
+    "习题/解析/图片",
+    "题型",
+    "知识点",
+    "知识点/图片",
+    "知识串联",
+    "问题袋",
+    "问题袋/图片",
+    "问题归类",
+    ".mathmap-linker"
+  ],
+  "documents": [
+    "索引.md",
+    "目录规范.md",
+    "图片存放规范.md",
+    "AGENTS.md",
+    ".mathmap-linker/layout.json"
+  ],
+  "earlier_observed_entries": [
+    {
+      "path": ".mathmap-linker",
+      "kind": "directory"
+    },
+    {
+      "path": ".mathmap-linker/unified-graph.json",
+      "kind": "file",
+      "bytes": 31329,
+      "sha256": "0d858f5e4247b522274048651101dd9c80c61e3e34d7b908f48d7c66db6bd2e6"
+    },
+    {
+      "path": "习题",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-a",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-a/answers",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-a/answers/Q1A1.md",
+      "kind": "file",
+      "bytes": 405,
+      "sha256": "e2deaea4ba5d3260f41d349885871a7990091eb35acb637181ea8f74947ea843"
+    },
+    {
+      "path": "习题/demo-a/习题",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-a/习题/Q1.md",
+      "kind": "file",
+      "bytes": 971,
+      "sha256": "1b972e60d6fd1a06320b9af303984c50f28c82db7096034e4ac6744f7bf61398"
+    },
+    {
+      "path": "习题/demo-b",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-b/answers",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-b/answers/Q1A1.md",
+      "kind": "file",
+      "bytes": 406,
+      "sha256": "02b61021a55203233ab1d7e8ff928be4fc951fe7753b2e10982857962547f312"
+    },
+    {
+      "path": "习题/demo-b/习题",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/demo-b/习题/Q1.md",
+      "kind": "file",
+      "bytes": 984,
+      "sha256": "429ac932854f5069a0113659b53958fe0193820f54dbc6102115a01ac889527a"
+    },
+    {
+      "path": "习题/teacher-demo",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/teacher-demo/answers",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/teacher-demo/answers/Q1A1.md",
+      "kind": "file",
+      "bytes": 501,
+      "sha256": "26cce76f19cbe61d4dede8064fe9a2b6a256060f54c956098545e6b4a5892c49"
+    },
+    {
+      "path": "习题/teacher-demo/习题",
+      "kind": "directory"
+    },
+    {
+      "path": "习题/teacher-demo/习题/Q1.md",
+      "kind": "file",
+      "bytes": 1021,
+      "sha256": "e3b29fb781a7caa9c8798226ffa95d8060eabf14cf244bb598441dcfeb45e32a"
+    },
+    {
+      "path": "来源",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-a",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-a/情境",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-a/情境/引入问题.md",
+      "kind": "file",
+      "bytes": 653,
+      "sha256": "81794b1bea315b4ebe2b34bf101b0adbf1316fa1ea4778913c379493a3be3da0"
+    },
+    {
+      "path": "来源/demo-a/推导",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-a/推导/定义法推导.md",
+      "kind": "file",
+      "bytes": 674,
+      "sha256": "18f9c42889b723eb8af32b7349398803ffcbbc488173a9288cee80e38f846d4d"
+    },
+    {
+      "path": "来源/demo-a/知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-a/知识点/函数单调性.md",
+      "kind": "file",
+      "bytes": 2036,
+      "sha256": "1fc69b2f32a71b3d6b36c504335220f51de0e0408496591e0f1aea2b2bf2d3c4"
+    },
+    {
+      "path": "来源/demo-a/知识点/函数的概念.md",
+      "kind": "file",
+      "bytes": 1151,
+      "sha256": "eae01fe9e195d4aeb80eaf0fd1924071b537b281019e8985013c7836d22ffabb"
+    },
+    {
+      "path": "来源/demo-a/题型",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-a/题型/定义法判断单调性.md",
+      "kind": "file",
+      "bytes": 917,
+      "sha256": "b2e060f7c05176ddba57755ac1283ca7dd06ae2f0c7c2fd4c8166b7d92dfa089"
+    },
+    {
+      "path": "来源/demo-b",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-b/情境",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-b/情境/引入问题.md",
+      "kind": "file",
+      "bytes": 662,
+      "sha256": "856ae3d312293fb97586392a91a510e6357a92fe860bb064499b72452755668e"
+    },
+    {
+      "path": "来源/demo-b/推导",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-b/推导/定义法推导.md",
+      "kind": "file",
+      "bytes": 687,
+      "sha256": "234cb2826e98f761fabdc2dae04db475083743d772ea47a9efcf8c8f0f91dca7"
+    },
+    {
+      "path": "来源/demo-b/知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-b/知识点/函数单调性.md",
+      "kind": "file",
+      "bytes": 1811,
+      "sha256": "0c8493ccdabe8eced276786bc47cc8f428324dc8f8a5af2b2148f945d194680c"
+    },
+    {
+      "path": "来源/demo-b/知识点/函数的概念.md",
+      "kind": "file",
+      "bytes": 1163,
+      "sha256": "94035080113231b59e054b78cd267fd705930f79ca4b508af83b80431c57ff41"
+    },
+    {
+      "path": "来源/demo-b/题型",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/demo-b/题型/定义法判断单调性.md",
+      "kind": "file",
+      "bytes": 929,
+      "sha256": "5dfece5aa97ae83037777b04f0a776cde11ebdc224bd6b1152da24d6af8cb996"
+    },
+    {
+      "path": "来源/teacher-demo",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/teacher-demo/情境",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/teacher-demo/情境/引入问题.md",
+      "kind": "file",
+      "bytes": 908,
+      "sha256": "30996e2dbb584b1e68781d61c022d858aaff03928e9128e67e9f98a1ca955bd2"
+    },
+    {
+      "path": "来源/teacher-demo/推导",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/teacher-demo/推导/定义法推导.md",
+      "kind": "file",
+      "bytes": 786,
+      "sha256": "a5e1907c748ae54917f29ed4561a391472e92e162aad98775ef9b8045cbef7a7"
+    },
+    {
+      "path": "来源/teacher-demo/知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/teacher-demo/知识点/函数单调性.md",
+      "kind": "file",
+      "bytes": 1908,
+      "sha256": "a38f521d25e3f7b25964511d40e6b571e671f107b99dbb181c4aedd387dd3daa"
+    },
+    {
+      "path": "来源/teacher-demo/知识点/函数的概念.md",
+      "kind": "file",
+      "bytes": 1191,
+      "sha256": "4f01f66e112241631cd49cabbf470dccb361733e66ac6b5c15a8844542814afb"
+    },
+    {
+      "path": "来源/teacher-demo/题型",
+      "kind": "directory"
+    },
+    {
+      "path": "来源/teacher-demo/题型/定义法判断单调性.md",
+      "kind": "file",
+      "bytes": 953,
+      "sha256": "4f47c3dac085ab90bf17539a2debfc98809d31edf83d7ac2895552b16164bf93"
+    },
+    {
+      "path": "测试",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/报告",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/报告/导入计划.json",
+      "kind": "file",
+      "bytes": 12650,
+      "sha256": "9b9bd0d34724da477cdf55747a2487f279a27a4a990b9dc6f8651b35b5de6f68"
+    },
+    {
+      "path": "测试/报告/执行结果.json",
+      "kind": "file",
+      "bytes": 12817,
+      "sha256": "e6910a02a6de9d1866f7ceae2c6b15be055876373d4f8b9773f78c55e798a19d"
+    },
+    {
+      "path": "测试/报告/自动化测试结果.txt",
+      "kind": "file",
+      "bytes": 2850,
+      "sha256": "566beb35e3bf1d591c1b840197d6a68908ff740d3791a75ea2360bcc4baa2243"
+    },
+    {
+      "path": "测试/报告/重复运行检查.json",
+      "kind": "file",
+      "bytes": 847,
+      "sha256": "4085e4bf9fae7f1d632d7a1e25cda393105a88e565bfb2841b054fcf645453d8"
+    },
+    {
+      "path": "测试/来源整合清单.json",
+      "kind": "file",
+      "bytes": 21971,
+      "sha256": "4a4092be263b7c5a6ee2373ab24415ba1646d22f1c390f68d7f6fb105cb4a43a"
+    },
+    {
+      "path": "测试/自动化",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/自动化/scripts",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/自动化/scripts/audit_mathmap.py",
+      "kind": "file",
+      "bytes": 4637,
+      "sha256": "e86c20599dfbe464e8539404b7aa901f4e8f35f15afb1109c8a9df7364f7c8ff"
+    },
+    {
+      "path": "测试/自动化/scripts/bootstrap_registry.py",
+      "kind": "file",
+      "bytes": 6168,
+      "sha256": "9514fb65737cc706fddaeb6a8524ce80d9e201aa916bf1b23392ca7bfc91e48e"
+    },
+    {
+      "path": "测试/自动化/scripts/integrate_sources.py",
+      "kind": "file",
+      "bytes": 27084,
+      "sha256": "a52ad7ecc368ca651ca5b165d7767a180be3328e7669e184524042a155fdf886"
+    },
+    {
+      "path": "测试/自动化/scripts/link_to_mathmap.py",
+      "kind": "file",
+      "bytes": 57319,
+      "sha256": "937c3d185414c9d14966ff397a5b0682aff94a304b24397a18cba85e45777f94"
+    },
+    {
+      "path": "测试/自动化/scripts/mathmap_dedup.py",
+      "kind": "file",
+      "bytes": 13723,
+      "sha256": "ba5778add5fe00506e88d41176cf0f0bac987b51c1378dd749d8650c06c90e3d"
+    },
+    {
+      "path": "测试/自动化/scripts/mathmap_registry.py",
+      "kind": "file",
+      "bytes": 8214,
+      "sha256": "c52937c15970cfc04a200a181dbfc3f0976daff706fef994e033383002c6ba24"
+    },
+    {
+      "path": "测试/自动化/scripts/source_inventory.py",
+      "kind": "file",
+      "bytes": 6033,
+      "sha256": "bdfab7d769e6729cec8959df573d098fd174a9d731733f3ebb4996c8a729356a"
+    },
+    {
+      "path": "测试/自动化/scripts/update_canvas_additive.py",
+      "kind": "file",
+      "bytes": 7212,
+      "sha256": "35ca87be48bc86c570717cd83c8454f7a384d4992f4412a0facc5769fb496a77"
+    },
+    {
+      "path": "测试/自动化/tests",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/自动化/tests/test_linker_workflow.py",
+      "kind": "file",
+      "bytes": 13308,
+      "sha256": "a2570058bcb9b97f1bf6bb0e05337a7747866df9db4292b03af43f10f04a6a25"
+    },
+    {
+      "path": "测试/自动化/tests/test_multi_source_integration.py",
+      "kind": "file",
+      "bytes": 12728,
+      "sha256": "92eb7f280e05cd5516918e4bb9057e7584a1f586e55164f950dfcea3bbec6a84"
+    },
+    {
+      "path": "测试/输入样例",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/answers",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/answers/Q1A1.md",
+      "kind": "file",
+      "bytes": 172,
+      "sha256": "adcb0f02ff41db0b0b8b08689946a382750e4008d8dc097018f7a17ded4fecf5"
+    },
+    {
+      "path": "测试/输入样例/demo-a/images",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/images/变化示意.svg",
+      "kind": "file",
+      "bytes": 429,
+      "sha256": "b50a04320dfffd2635e533add968e864e3c1c6f1e46d094d6d253d1bd9dcafeb"
+    },
+    {
+      "path": "测试/输入样例/demo-a/习题",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/习题/Q1.md",
+      "kind": "file",
+      "bytes": 189,
+      "sha256": "da3eae24c8a2b4bdda433a2c05a5605a01faa18ea25ff39ac85af17944a9d027"
+    },
+    {
+      "path": "测试/输入样例/demo-a/情境",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/情境/引入问题.md",
+      "kind": "file",
+      "bytes": 170,
+      "sha256": "8c46230f9a28d3d54defb5275b4a0798d811e01dd90fd6be3a5e1cf870b303fc"
+    },
+    {
+      "path": "测试/输入样例/demo-a/推导",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/推导/定义法推导.md",
+      "kind": "file",
+      "bytes": 191,
+      "sha256": "f9f9ac4137ec587c11cec2092d06587cd2c9594167d53b7be540bffcb84362e6"
+    },
+    {
+      "path": "测试/输入样例/demo-a/知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/知识点/函数单调性.md",
+      "kind": "file",
+      "bytes": 468,
+      "sha256": "bc8684c29877a9913fac80af39850c0b3a349b8f38bd2540f1df2ebd03fa1f89"
+    },
+    {
+      "path": "测试/输入样例/demo-a/知识点/函数的概念.md",
+      "kind": "file",
+      "bytes": 400,
+      "sha256": "0f27a60cc334655d0b45329113eebc26ce7f150dd86062d266f64023b755949e"
+    },
+    {
+      "path": "测试/输入样例/demo-a/组织层",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/组织层/概念到应用.md",
+      "kind": "file",
+      "bytes": 445,
+      "sha256": "d3920605cf369108b9e60b8fea873c9078f27d0144fb89c00047b92fd5230329"
+    },
+    {
+      "path": "测试/输入样例/demo-a/题型",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-a/题型/定义法判断单调性.md",
+      "kind": "file",
+      "bytes": 239,
+      "sha256": "30d5e815a8623b323a248a1b62805ac65fe75847a2919201340d0270d265ca6c"
+    },
+    {
+      "path": "测试/输入样例/demo-b",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/answers",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/answers/Q1A1.md",
+      "kind": "file",
+      "bytes": 173,
+      "sha256": "3843248deaf7d94cf4e3f6c61988e769412fb7f9915c1a3d00af42d23b4e29dc"
+    },
+    {
+      "path": "测试/输入样例/demo-b/images",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/images/变化示意.svg",
+      "kind": "file",
+      "bytes": 429,
+      "sha256": "dc672e0105709218dd8d00ab30b6ede30022d0a1e99c88dd1e126c1418e22e6b"
+    },
+    {
+      "path": "测试/输入样例/demo-b/习题",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/习题/Q1.md",
+      "kind": "file",
+      "bytes": 190,
+      "sha256": "6d05d911fea42a7cc3ff53ef98e1be143e85d8374ee9ebb449d9be8ece490580"
+    },
+    {
+      "path": "测试/输入样例/demo-b/情境",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/情境/引入问题.md",
+      "kind": "file",
+      "bytes": 167,
+      "sha256": "a7c73585d042416c4d7231746dc9e3e63deb69edbf38af17fd7fe3d8a9bfe627"
+    },
+    {
+      "path": "测试/输入样例/demo-b/推导",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/推导/定义法推导.md",
+      "kind": "file",
+      "bytes": 192,
+      "sha256": "f3050c2b6c5481e37984c1e667ace0c91f99b38e96f953f2230e7247ea3f4211"
+    },
+    {
+      "path": "测试/输入样例/demo-b/知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/知识点/函数单调性.md",
+      "kind": "file",
+      "bytes": 444,
+      "sha256": "f6daca314d518e720eb4996f6438d57bba88ccce48a15f856b63d794d5ba574f"
+    },
+    {
+      "path": "测试/输入样例/demo-b/知识点/函数的概念.md",
+      "kind": "file",
+      "bytes": 400,
+      "sha256": "0f27a60cc334655d0b45329113eebc26ce7f150dd86062d266f64023b755949e"
+    },
+    {
+      "path": "测试/输入样例/demo-b/组织层",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/组织层/问题驱动专题.md",
+      "kind": "file",
+      "bytes": 448,
+      "sha256": "9ee8d0387a04762e83df17e5dd28c8423b4c3d46b4c614d9f0dd10cbd658e7e4"
+    },
+    {
+      "path": "测试/输入样例/demo-b/题型",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/demo-b/题型/定义法判断单调性.md",
+      "kind": "file",
+      "bytes": 239,
+      "sha256": "30d5e815a8623b323a248a1b62805ac65fe75847a2919201340d0270d265ca6c"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/answers",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/answers/Q1A1.md",
+      "kind": "file",
+      "bytes": 254,
+      "sha256": "c0b3418b2290d4fe8e671815d75c08d0e62ece22f86f86d0dabc80083779fff0"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/images",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/images/变化示意.svg",
+      "kind": "file",
+      "bytes": 458,
+      "sha256": "a8c048725c8ec83fd067c95b7c7aab42c51ba3e5e1a712646330ebf56a38626a"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/习题",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/习题/Q1.md",
+      "kind": "file",
+      "bytes": 189,
+      "sha256": "3e687ed1156d608fb022ce50be13defe7bff0a32db1268042efcaa81c9f8df72"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/情境",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/情境/引入问题.md",
+      "kind": "file",
+      "bytes": 179,
+      "sha256": "b0885d128b1cb20a25d5c2273caffbe42ff7ef679333afae2f0229c73643e125"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/推导",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/推导/定义法推导.md",
+      "kind": "file",
+      "bytes": 273,
+      "sha256": "87bb49dc3c0450c580ca2c3af7accfb6305bb32e665d6bc7185174b8db6fe4e8"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/知识点/函数单调性.md",
+      "kind": "file",
+      "bytes": 483,
+      "sha256": "ae3eaa8b8f695ce7a99317b07da89a546eaf3bf8325906275316ebe517a7d0a3"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/知识点/函数的概念.md",
+      "kind": "file",
+      "bytes": 400,
+      "sha256": "0f27a60cc334655d0b45329113eebc26ce7f150dd86062d266f64023b755949e"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/组织层",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/组织层/先练习再回顾.md",
+      "kind": "file",
+      "bytes": 448,
+      "sha256": "8f45a3a8051e26358ac820b642411eb5c4d6a2a6b84a1416152e71e915c058b1"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/题型",
+      "kind": "directory"
+    },
+    {
+      "path": "测试/输入样例/teacher-demo/题型/定义法判断单调性.md",
+      "kind": "file",
+      "bytes": 239,
+      "sha256": "30d5e815a8623b323a248a1b62805ac65fe75847a2919201340d0270d265ca6c"
+    },
+    {
+      "path": "测试说明.md",
+      "kind": "file",
+      "bytes": 1941,
+      "sha256": "e73ea8053e3b5949b90668d52aad0e02ba091ee5d361f3cc69656f704314ed42"
+    },
+    {
+      "path": "知识点",
+      "kind": "directory"
+    },
+    {
+      "path": "知识点/函数单调性--b2e882860707.md",
+      "kind": "file",
+      "bytes": 4294,
+      "sha256": "2d8373a9c334c44546dcf9745111731ca0214d9812e65a791c42ef7c16e2f90d"
+    },
+    {
+      "path": "知识点/函数的概念--d4c86a76dbb6.md",
+      "kind": "file",
+      "bytes": 2145,
+      "sha256": "af69ad0e82d5abf101158653ef2e2c97a6db5f4399fc3476c05bcef72596b4b0"
+    },
+    {
+      "path": "索引.md",
+      "kind": "file",
+      "bytes": 1002,
+      "sha256": "b5d53dd9b2ead8f555552395fc4ded064b1490d84c1163ccd948dc110970ad6b"
+    },
+    {
+      "path": "组织",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/demo-a",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/demo-a/组织层",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/demo-a/组织层/概念到应用.md",
+      "kind": "file",
+      "bytes": 1611,
+      "sha256": "4ca24a6571e197b48e80b71a22e0f28c9437bd827cdb255ec3439deec81a95b0"
+    },
+    {
+      "path": "组织/demo-b",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/demo-b/组织层",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/demo-b/组织层/问题驱动专题.md",
+      "kind": "file",
+      "bytes": 1617,
+      "sha256": "f43fb465c6b01f8e71a666eb164be7d99a4a1cce56b58c816c4441db9d505562"
+    },
+    {
+      "path": "组织/teacher-demo",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/teacher-demo/组织层",
+      "kind": "directory"
+    },
+    {
+      "path": "组织/teacher-demo/组织层/先练习再回顾.md",
+      "kind": "file",
+      "bytes": 1681,
+      "sha256": "1725f2b00e12bf315da428cf63747d8016f7b0493cc4704096a675cd39bb8e5f"
+    },
+    {
+      "path": "资源",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/demo-a",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/demo-a/images",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/demo-a/images/变化示意.svg",
+      "kind": "file",
+      "bytes": 429,
+      "sha256": "b50a04320dfffd2635e533add968e864e3c1c6f1e46d094d6d253d1bd9dcafeb"
+    },
+    {
+      "path": "资源/demo-b",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/demo-b/images",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/demo-b/images/变化示意.svg",
+      "kind": "file",
+      "bytes": 429,
+      "sha256": "dc672e0105709218dd8d00ab30b6ede30022d0a1e99c88dd1e126c1418e22e6b"
+    },
+    {
+      "path": "资源/teacher-demo",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/teacher-demo/images",
+      "kind": "directory"
+    },
+    {
+      "path": "资源/teacher-demo/images/变化示意.svg",
+      "kind": "file",
+      "bytes": 458,
+      "sha256": "a8c048725c8ec83fd067c95b7c7aab42c51ba3e5e1a712646330ebf56a38626a"
+    },
+    {
+      "path": "题型",
+      "kind": "directory"
+    },
+    {
+      "path": "题型/定义法判断单调性--f10af7fb2b8e.md",
+      "kind": "file",
+      "bytes": 1919,
+      "sha256": "38f7324bfadf69a561dfe685680b68c76f70911c08f2c47a50be2b4b9a844ec0"
+    }
+  ],
+  "entries": [],
+  "expected_target_exists": false,
+  "old_directory_status": "missing-before-update; initial apply stopped before any writes",
+  "run_directory": "/Users/oven/Documents/ovenmathmap/.mathmap-linker/runs/mathmap-layout-380b027de886"
+}
