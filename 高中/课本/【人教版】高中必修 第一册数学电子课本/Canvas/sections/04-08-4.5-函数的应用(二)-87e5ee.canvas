@@ -1,0 +1,403 @@
+{
+  "nodes": [
+    {
+      "id": "bfab2b17f3510301",
+      "type": "group",
+      "label": "4.5 函数的应用（二）",
+      "x": 0,
+      "y": 0,
+      "width": 4282,
+      "height": 524
+    },
+    {
+      "id": "e2d20f6ff0bf9414",
+      "type": "text",
+      "text": "[✦ 情景引入 · 4.5 函数的应用（二） 节引言](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/0020-S.md)",
+      "x": 56,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "963ae8596b099e50",
+      "type": "group",
+      "label": "4.5.1 函数的零点与方程的解",
+      "x": 496,
+      "y": 76,
+      "width": 812,
+      "height": 392
+    },
+    {
+      "id": "c18acb761c05746d",
+      "type": "text",
+      "text": "[练习入口 · 4.5.1 函数的零点与方程的解](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29/4.5.1%20%E5%87%BD%E6%95%B0%E7%9A%84%E9%9B%B6%E7%82%B9%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3.md)\n\n共 2 题",
+      "x": 552,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "177bce0dca494143",
+      "type": "text",
+      "text": "[✦ 函数的零点与方程的解](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E9%9B%B6%E7%82%B9%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3--000062.md)",
+      "x": 552,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "a6bb53cac602c313",
+      "type": "text",
+      "text": "[✦ 函数零点存在定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E9%9B%B6%E7%82%B9%E5%AD%98%E5%9C%A8%E5%AE%9A%E7%90%86--000063.md)",
+      "x": 972,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "3bf065ef64c18f82",
+      "type": "group",
+      "label": "4.5.2 用二分法求方程的近似解",
+      "x": 1468,
+      "y": 76,
+      "width": 392,
+      "height": 392
+    },
+    {
+      "id": "9dca9e21eed5c1bc",
+      "type": "text",
+      "text": "[练习入口 · 4.5.2 用二分法求方程的近似解](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29/4.5.2%20%E7%94%A8%E4%BA%8C%E5%88%86%E6%B3%95%E6%B1%82%E6%96%B9%E7%A8%8B%E7%9A%84%E8%BF%91%E4%BC%BC%E8%A7%A3.md)\n\n共 2 题",
+      "x": 1524,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "431d6ba4cc9b4c36",
+      "type": "text",
+      "text": "[✦ 用二分法求方程近似解](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E4%BA%8C%E5%88%86%E6%B3%95%E6%B1%82%E6%96%B9%E7%A8%8B%E8%BF%91%E4%BC%BC%E8%A7%A3--000064.md)",
+      "x": 1524,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "3a6fc29485566ad6",
+      "type": "group",
+      "label": "阅读与思考 中外历史上的方程求解",
+      "x": 2020,
+      "y": 76,
+      "width": 392,
+      "height": 210
+    },
+    {
+      "id": "bc9dba14228cd051",
+      "type": "text",
+      "text": "[✦ 中外历史上的方程求解](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%AD%E5%A4%96%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%96%B9%E7%A8%8B%E6%B1%82%E8%A7%A3--000065.md)",
+      "x": 2076,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "b32bc5be1a4453ce",
+      "type": "group",
+      "label": "4.5.3 函数模型的应用",
+      "x": 2572,
+      "y": 76,
+      "width": 1122,
+      "height": 392
+    },
+    {
+      "id": "18bae83150557626",
+      "type": "text",
+      "text": "[练习入口 · 4.5.3 函数模型的应用](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29/4.5.3%20%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BA%94%E7%94%A8.md)\n\n共 5 题",
+      "x": 3368,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "7c2678900ba9be50",
+      "type": "text",
+      "text": "[§ 4.5.3 函数模型的应用](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29/4.5.3%20%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "x": 3008,
+      "y": 330,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "f004e37d1fab1d58",
+      "type": "text",
+      "text": "[✦ 情景引入 · 4.5.3 函数模型的应用 节引言](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/0021-S.md)",
+      "x": 2628,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "44aedd51d1ba2c76",
+      "type": "text",
+      "text": "[· 方法例题 · 例 3 利用马尔萨斯人口增长模型拟合与预测人口数据](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0066-W.md)",
+      "x": 3008,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "92292b94eac4e180",
+      "type": "text",
+      "text": "[✦ 思考题 · 思考：马尔萨斯人口指数增长模型与实际人口增长率的偏差分析](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%80%9D%E8%80%83%E9%A2%98/0011-T.md)",
+      "x": 2628,
+      "y": 330,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "cda9b72c9ea80b2b",
+      "type": "text",
+      "text": "[✦ 建立函数模型解决实际问题的基本过程](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BB%BA%E7%AB%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%87%E7%A8%8B--000066.md)",
+      "x": 3358,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "1793ada12babc9b0",
+      "type": "group",
+      "label": "习题4.5",
+      "x": 3854,
+      "y": 264,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "15ce8731e85b7826",
+      "type": "text",
+      "text": "[练习入口 · 习题4.5](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29/%E4%B9%A0%E9%A2%984.5.md)\n\n共 14 题",
+      "x": 3910,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "e33ccf5fb04ff544",
+      "type": "text",
+      "text": "# [4.5 函数的应用（二）](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%28%E4%BA%8C%29.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "b421b45f87237cd1",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0-3702e5.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "ab4b55efe4589f38",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "afb4650e0d8aee28",
+      "fromNode": "bc9dba14228cd051",
+      "toNode": "cda9b72c9ea80b2b",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5d890f6a2b0a4bae",
+      "fromNode": "a6bb53cac602c313",
+      "toNode": "431d6ba4cc9b4c36",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "038ad1f74978b710",
+      "fromNode": "431d6ba4cc9b4c36",
+      "toNode": "bc9dba14228cd051",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "73a705e9a4d702b9",
+      "fromNode": "177bce0dca494143",
+      "toNode": "a6bb53cac602c313",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8996f6e4f252b6f8",
+      "fromNode": "92292b94eac4e180",
+      "toNode": "cda9b72c9ea80b2b",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7b31693732b8e40c",
+      "fromNode": "bc9dba14228cd051",
+      "toNode": "cda9b72c9ea80b2b",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d59afafdd1833e2f",
+      "fromNode": "431d6ba4cc9b4c36",
+      "toNode": "bc9dba14228cd051",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1f8ea698a323384f",
+      "fromNode": "f004e37d1fab1d58",
+      "toNode": "cda9b72c9ea80b2b",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "af91e29cb4c156dc",
+      "fromNode": "a6bb53cac602c313",
+      "toNode": "431d6ba4cc9b4c36",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "58d5a4311b834ff4",
+      "fromNode": "177bce0dca494143",
+      "toNode": "a6bb53cac602c313",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "57050064808bd307",
+      "fromNode": "e2d20f6ff0bf9414",
+      "toNode": "177bce0dca494143",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "cd5213ff75e29756",
+      "fromNode": "177bce0dca494143",
+      "toNode": "c18acb761c05746d",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "2b245b629683ae82",
+      "fromNode": "431d6ba4cc9b4c36",
+      "toNode": "9dca9e21eed5c1bc",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b567ec8f6d6fcea8",
+      "fromNode": "cda9b72c9ea80b2b",
+      "toNode": "18bae83150557626",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 5题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8ee672dde8c399fa",
+      "fromNode": "cda9b72c9ea80b2b",
+      "toNode": "15ce8731e85b7826",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 14题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0fd62bc645cb60b7",
+      "fromNode": "44aedd51d1ba2c76",
+      "toNode": "7c2678900ba9be50",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

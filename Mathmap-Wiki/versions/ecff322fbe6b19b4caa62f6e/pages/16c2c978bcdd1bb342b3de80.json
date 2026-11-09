@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Q12257938368269003516",
+      "markdown": "# 三角恒等变换练习\n\n5. 求证：\n\n$$\n\\sin \\theta - \\sin \\varphi = 2 \\cos \\frac {\\theta + \\varphi}{2} \\sin \\frac {\\theta - \\varphi}{2}; \\tag {1}\n$$\n\n$$\n(2) \\cos \\theta + \\cos \\varphi = 2 \\cos \\frac {\\theta + \\varphi}{2} \\cos \\frac {\\theta - \\varphi}{2};\n$$\n\n$$\n\\cos \\theta - \\cos \\varphi = - 2 \\sin \\frac {\\theta + \\varphi}{2} \\sin \\frac {\\theta - \\varphi}{2}. \\tag {3}\n$$\n\n第五章 三角函数\n\n\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [三角恒等变换中的化归思想](#node=Kac81ecdccde0cc)\n- [半角公式与三角恒等变换](#node=Kc81afc9e52cd98)\n\n## 所属组织\n\n- [5.5.2 简单的三角恒等变换](#node=rja-required-1:semantic-09132:question)",
+      "path": "习题/Q12257938368269003516.md",
+      "sha256": "82483c6a39880cd8b5d19abd8dd9ce81938f0e21383069f71fa4347e366c4d11",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Q12257938368269003516",
+  "markdown": "# 三角恒等变换练习\n\n5. 求证：\n\n$$\n\\sin \\theta - \\sin \\varphi = 2 \\cos \\frac {\\theta + \\varphi}{2} \\sin \\frac {\\theta - \\varphi}{2}; \\tag {1}\n$$\n\n$$\n(2) \\cos \\theta + \\cos \\varphi = 2 \\cos \\frac {\\theta + \\varphi}{2} \\cos \\frac {\\theta - \\varphi}{2};\n$$\n\n$$\n\\cos \\theta - \\cos \\varphi = - 2 \\sin \\frac {\\theta + \\varphi}{2} \\sin \\frac {\\theta - \\varphi}{2}. \\tag {3}\n$$\n\n第五章 三角函数\n\n\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [三角恒等变换中的化归思想](#node=Kac81ecdccde0cc)\n- [半角公式与三角恒等变换](#node=Kc81afc9e52cd98)\n\n## 所属组织\n\n- [5.5.2 简单的三角恒等变换](#node=rja-required-1:semantic-09132:question)",
+  "origin": "source"
+}

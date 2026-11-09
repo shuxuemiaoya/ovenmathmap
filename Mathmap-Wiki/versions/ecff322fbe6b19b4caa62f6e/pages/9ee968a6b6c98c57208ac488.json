@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Abdd47807b153a3",
+      "markdown": "# 从二倍角到四倍角·解析\n\n对应题目：[从二倍角到四倍角](#node=Q6753795186683518361)\n\n分析：已知条件给出了 $2\\alpha$ 的正弦函数值。由于 $4\\alpha$ 是 $2\\alpha$ 的二倍角，因此可以考虑用倍角公式。\n\n解：由 $\\frac{\\pi}{4} < \\alpha < \\frac{\\pi}{2}$ ，得\n\n$$\n\\frac {\\pi}{2} <   2 \\alpha <   \\pi .\n$$\n\n又\n\n$$\n\\sin 2 \\alpha = \\frac {5}{1 3},\n$$\n\n所以\n\n$$\n\\cos 2 \\alpha = - \\sqrt {1 - \\left(\\frac {5}{1 3}\\right) ^ {2}} = - \\frac {1 2}{1 3}.\n$$\n\n\n于是\n\n$$\n\\begin{array}{r l} \\sin 4 \\alpha & = \\sin [ 2 \\times (2 \\alpha) ] \\\\ & = 2 \\sin 2 \\alpha \\cos 2 \\alpha \\\\ & = 2 \\times \\frac {5}{1 3} \\times (- \\frac {1 2}{1 3}) = - \\frac {1 2 0}{1 6 9}; \\end{array}\n$$\n\n“倍”是描述两个数量之间关系的， $2\\alpha$ 是 $\\alpha$ 的二倍， $4\\alpha$ 是 $2\\alpha$ 的二倍， $\\frac{\\alpha}{2}$ 是 $\\frac{\\alpha}{4}$ 的二倍，这里蕴含着换元思想.\n\n$$\n\\begin{array}{r l} \\cos 4 \\alpha & = \\cos [ 2 \\times (2 \\alpha) ] \\\\ & = 1 - 2 \\sin^ {2} 2 \\alpha \\\\ & = 1 - 2 \\times \\left(\\frac {5}{1 3}\\right) ^ {2} = \\frac {1 1 9}{1 6 9}; \\end{array}\n$$\n\n$$\n\\begin{array}{r l} \\tan 4 \\alpha & = \\frac {\\sin 4 \\alpha}{\\cos 4 \\alpha} \\\\ & = - \\frac {1 2 0}{1 6 9} \\times \\frac {1 6 9}{1 1 9} = - \\frac {1 2 0}{1 1 9}. \\end{array}\n$$\n\n\n\n## 所属组织\n\n- [5.5.1 两角和与差的正弦、余弦和正切公式](#node=rja-required-1:semantic-08692:question)",
+      "path": "习题/解析/Q6753795186683518361Abdd47807b1.md",
+      "sha256": "4d90e0eeb4e36e4100429bf712cdaa3b7e357a39daf0d66db21f627c3f737c37",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Abdd47807b153a3",
+  "markdown": "# 从二倍角到四倍角·解析\n\n对应题目：[从二倍角到四倍角](#node=Q6753795186683518361)\n\n分析：已知条件给出了 $2\\alpha$ 的正弦函数值。由于 $4\\alpha$ 是 $2\\alpha$ 的二倍角，因此可以考虑用倍角公式。\n\n解：由 $\\frac{\\pi}{4} < \\alpha < \\frac{\\pi}{2}$ ，得\n\n$$\n\\frac {\\pi}{2} <   2 \\alpha <   \\pi .\n$$\n\n又\n\n$$\n\\sin 2 \\alpha = \\frac {5}{1 3},\n$$\n\n所以\n\n$$\n\\cos 2 \\alpha = - \\sqrt {1 - \\left(\\frac {5}{1 3}\\right) ^ {2}} = - \\frac {1 2}{1 3}.\n$$\n\n\n于是\n\n$$\n\\begin{array}{r l} \\sin 4 \\alpha & = \\sin [ 2 \\times (2 \\alpha) ] \\\\ & = 2 \\sin 2 \\alpha \\cos 2 \\alpha \\\\ & = 2 \\times \\frac {5}{1 3} \\times (- \\frac {1 2}{1 3}) = - \\frac {1 2 0}{1 6 9}; \\end{array}\n$$\n\n“倍”是描述两个数量之间关系的， $2\\alpha$ 是 $\\alpha$ 的二倍， $4\\alpha$ 是 $2\\alpha$ 的二倍， $\\frac{\\alpha}{2}$ 是 $\\frac{\\alpha}{4}$ 的二倍，这里蕴含着换元思想.\n\n$$\n\\begin{array}{r l} \\cos 4 \\alpha & = \\cos [ 2 \\times (2 \\alpha) ] \\\\ & = 1 - 2 \\sin^ {2} 2 \\alpha \\\\ & = 1 - 2 \\times \\left(\\frac {5}{1 3}\\right) ^ {2} = \\frac {1 1 9}{1 6 9}; \\end{array}\n$$\n\n$$\n\\begin{array}{r l} \\tan 4 \\alpha & = \\frac {\\sin 4 \\alpha}{\\cos 4 \\alpha} \\\\ & = - \\frac {1 2 0}{1 6 9} \\times \\frac {1 6 9}{1 1 9} = - \\frac {1 2 0}{1 1 9}. \\end{array}\n$$\n\n\n\n## 所属组织\n\n- [5.5.1 两角和与差的正弦、余弦和正切公式](#node=rja-required-1:semantic-08692:question)",
+  "origin": "source"
+}

@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "P8f01345beb6f65",
+      "markdown": "# 4.3.2 对数的运算·探究\n\n探究\n\n我们知道了对数与指数间的关系，能否利用指数幂运算性质得出相应的对数运算性质呢？\n\n$$\nM = a ^ {m}, N = a ^ {n},\n$$\n\n$$\na ^ {m} a ^ {n} = a ^ {m + n},\n$$\n\n$$\nM N = a ^ {m + n}.\n$$\n\n根据对数与指数间的关系可得\n\n$$\n\\begin{array}{c} \\log_ {a} M = m, \\log_ {a} N = n, \\\\ \\log_ {a} (M N) = m + n. \\end{array}\n$$\n\n这样，就得到了对数的一个运算性质：\n\n$$\n\\log_ {a} (M N) = \\log_ {a} M + \\log_ {a} N.\n$$\n\n同样地，同学们可以仿照上述过程，由 $a^m \\div a^n = a^{m - n}$ 和 $(a^m)^n = a^{mn}$ ，自己推出对数运算的其他性质.\n\n于是，我们得到如下的对数运算性质.\n\n如果 $a > 0$ ，且 $a \\neq 1$ ， $M > 0$ ， $N > 0$ ，那么\n\n(1) $\\log_a(MN) = \\log_aM + \\log_aN;$\n\n$$\n\\log_ {a} \\frac {M}{N} = \\log_ {a} M - \\log_ {a} N; \\tag {2}\n$$\n\n$$\n\\log_ {a} M ^ {n} = n \\log_ {a} M (n \\in \\mathbf {R}). \\tag {3}\n$$\n\n## 引出的知识\n\n- [对数的运算性质](#node=Ka2250a0fce1c75)\n\n## 本节相关知识（范围关联）\n\n- [对数换底公式](#node=K83e4d6c51d8768)\n- [对数的运算性质](#node=Ka2250a0fce1c75)\n\n## 所属组织\n\n- [4.3.2 对数的运算](#node=rja-required-1:semantic-05149:problem)",
+      "path": "问题袋/4.3.2 对数的运算·探究--P8f01345beb6f65.md",
+      "sha256": "4ca89d5aca354b77fab545c35cb31b83790fcf73d7f85477b0677bb1cf6a8d43",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "P8f01345beb6f65",
+  "markdown": "# 4.3.2 对数的运算·探究\n\n探究\n\n我们知道了对数与指数间的关系，能否利用指数幂运算性质得出相应的对数运算性质呢？\n\n$$\nM = a ^ {m}, N = a ^ {n},\n$$\n\n$$\na ^ {m} a ^ {n} = a ^ {m + n},\n$$\n\n$$\nM N = a ^ {m + n}.\n$$\n\n根据对数与指数间的关系可得\n\n$$\n\\begin{array}{c} \\log_ {a} M = m, \\log_ {a} N = n, \\\\ \\log_ {a} (M N) = m + n. \\end{array}\n$$\n\n这样，就得到了对数的一个运算性质：\n\n$$\n\\log_ {a} (M N) = \\log_ {a} M + \\log_ {a} N.\n$$\n\n同样地，同学们可以仿照上述过程，由 $a^m \\div a^n = a^{m - n}$ 和 $(a^m)^n = a^{mn}$ ，自己推出对数运算的其他性质.\n\n于是，我们得到如下的对数运算性质.\n\n如果 $a > 0$ ，且 $a \\neq 1$ ， $M > 0$ ， $N > 0$ ，那么\n\n(1) $\\log_a(MN) = \\log_aM + \\log_aN;$\n\n$$\n\\log_ {a} \\frac {M}{N} = \\log_ {a} M - \\log_ {a} N; \\tag {2}\n$$\n\n$$\n\\log_ {a} M ^ {n} = n \\log_ {a} M (n \\in \\mathbf {R}). \\tag {3}\n$$\n\n## 引出的知识\n\n- [对数的运算性质](#node=Ka2250a0fce1c75)\n\n## 本节相关知识（范围关联）\n\n- [对数换底公式](#node=K83e4d6c51d8768)\n- [对数的运算性质](#node=Ka2250a0fce1c75)\n\n## 所属组织\n\n- [4.3.2 对数的运算](#node=rja-required-1:semantic-05149:problem)",
+  "origin": "source"
+}

@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "P69f65a6b2f8a31",
+      "markdown": "# 3.3 幂函数·探究\n\n探究\n\n观察函数图象并结合函数解析式，将你发现的结论写在表3.3-1内.\n\n表3.3-1\n\n<table><tr><td>项目</td><td> $y = x$ </td><td> $y = {x}^{2}$ </td><td> $y = {x}^{3}$ </td><td> $y = {x}^{\\frac{1}{2}}$ </td><td> $y = {x}^{-1}$ </td></tr><tr><td>定义域</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>值域</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>奇偶性</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>单调性</td><td></td><td></td><td></td><td></td><td></td></tr></table>\n\n这些函数图象有公共点吗？\n\n通过图3.3-1与表3.3-1，我们得到：\n\n（1）函数 $y = x$ ， $y = x^2$ ， $y = x^3$ ， $y = x^{\\frac{1}{2}}$ 和 $y = x^{-1}$ 的图象都通过点（1，1）；\n\n(2) 函数 $y = x$ , $y = x^3$ , $y = x^{-1}$ 是奇函数, 函数 $y = x^2$ 是偶函数;\n\n（3）在区间 $(0, +\\infty)$ 上，函数 $y = x$ ， $y = x^{2}$ ， $y = x^{3}$ ， $y = x^{\\frac{1}{2}}$ 单调递增，函数 $y = x^{-1}$ 单调递减；\n\n（4）在第一象限内，函数 $y=x^{-1}$ 的图象向上与 y 轴无限接近，向右与 x 轴无限接近.\n\n例 证明幂函数 $f(x)=\\sqrt{x}$ 是增函数.\n\n证明：函数的定义域是 $[0, +\\infty)$ .\n\n$\\forall x_{1}, x_{2}\\in[0,+\\infty)$ ，且 $x_{1}<x_{2}$ ，有\n\n$$\n\\begin{array}{r l} f (x _ {1}) - f (x _ {2}) & = \\sqrt {x _ {1}} - \\sqrt {x _ {2}} \\\\ & = \\frac {(\\sqrt {x _ {1}} - \\sqrt {x _ {2}}) (\\sqrt {x _ {1}} + \\sqrt {x _ {2}})}{\\sqrt {x _ {1}} + \\sqrt {x _ {2}}} \\\\ & = \\frac {x _ {1} - x _ {2}}{\\sqrt {x _ {1}} + \\sqrt {x _ {2}}}. \\end{array}\n$$\n\n因为\n\n$$\nx _ {1} - x _ {2} <   0, \\sqrt {x _ {1}} + \\sqrt {x _ {2}} > 0,\n$$\n\n所以 $f(x_{1}) < f(x_{2})$ ，即幂函数 $f(x) = \\sqrt{x}$ 是增函数.\n\n## 本节相关知识（范围关联）\n\n- [幂函数](#node=K721ef5c9e6853f)\n\n## 所属组织\n\n- [3.3 幂函数](#node=rja-required-1:node-toc-022:problem)",
+      "path": "问题袋/3.3 幂函数·探究--P69f65a6b2f8a31.md",
+      "sha256": "e3a4b7cad0a7d8d2f4602ad93ec531a3fd0f4fc91b03a5a5083bcd6befb654e0",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "P69f65a6b2f8a31",
+  "markdown": "# 3.3 幂函数·探究\n\n探究\n\n观察函数图象并结合函数解析式，将你发现的结论写在表3.3-1内.\n\n表3.3-1\n\n<table><tr><td>项目</td><td> $y = x$ </td><td> $y = {x}^{2}$ </td><td> $y = {x}^{3}$ </td><td> $y = {x}^{\\frac{1}{2}}$ </td><td> $y = {x}^{-1}$ </td></tr><tr><td>定义域</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>值域</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>奇偶性</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>单调性</td><td></td><td></td><td></td><td></td><td></td></tr></table>\n\n这些函数图象有公共点吗？\n\n通过图3.3-1与表3.3-1，我们得到：\n\n（1）函数 $y = x$ ， $y = x^2$ ， $y = x^3$ ， $y = x^{\\frac{1}{2}}$ 和 $y = x^{-1}$ 的图象都通过点（1，1）；\n\n(2) 函数 $y = x$ , $y = x^3$ , $y = x^{-1}$ 是奇函数, 函数 $y = x^2$ 是偶函数;\n\n（3）在区间 $(0, +\\infty)$ 上，函数 $y = x$ ， $y = x^{2}$ ， $y = x^{3}$ ， $y = x^{\\frac{1}{2}}$ 单调递增，函数 $y = x^{-1}$ 单调递减；\n\n（4）在第一象限内，函数 $y=x^{-1}$ 的图象向上与 y 轴无限接近，向右与 x 轴无限接近.\n\n例 证明幂函数 $f(x)=\\sqrt{x}$ 是增函数.\n\n证明：函数的定义域是 $[0, +\\infty)$ .\n\n$\\forall x_{1}, x_{2}\\in[0,+\\infty)$ ，且 $x_{1}<x_{2}$ ，有\n\n$$\n\\begin{array}{r l} f (x _ {1}) - f (x _ {2}) & = \\sqrt {x _ {1}} - \\sqrt {x _ {2}} \\\\ & = \\frac {(\\sqrt {x _ {1}} - \\sqrt {x _ {2}}) (\\sqrt {x _ {1}} + \\sqrt {x _ {2}})}{\\sqrt {x _ {1}} + \\sqrt {x _ {2}}} \\\\ & = \\frac {x _ {1} - x _ {2}}{\\sqrt {x _ {1}} + \\sqrt {x _ {2}}}. \\end{array}\n$$\n\n因为\n\n$$\nx _ {1} - x _ {2} <   0, \\sqrt {x _ {1}} + \\sqrt {x _ {2}} > 0,\n$$\n\n所以 $f(x_{1}) < f(x_{2})$ ，即幂函数 $f(x) = \\sqrt{x}$ 是增函数.\n\n## 本节相关知识（范围关联）\n\n- [幂函数](#node=K721ef5c9e6853f)\n\n## 所属组织\n\n- [3.3 幂函数](#node=rja-required-1:node-toc-022:problem)",
+  "origin": "source"
+}

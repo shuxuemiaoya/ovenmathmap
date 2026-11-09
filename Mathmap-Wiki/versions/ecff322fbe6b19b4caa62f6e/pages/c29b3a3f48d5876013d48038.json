@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A3790ae22f914ab",
+      "markdown": "# 例 6 给定函数 $f(x)=x+1$·解析\n\n对应题目：[例 6 给定函数 $f(x)=x+1$](../Q12594455931049086210.md)\n\n解：（1）在同一直角坐标系中画出函数 $f(x)$ ， $g(x)$ 的图象（图3.1-4）.\n\n![](assets/a81fe23ad1a59276500605e9c54a8e7444996c64242e56e44a6d02e0139cd740.jpg)  \n图3.1-4\n\n![](assets/cadde2aa89764effcb5fe272ab3d0a24060dd2ba185f51fb621fb0ccbad7c4b9.jpg)  \n图3.1-5\n\n（2）由图3.1-4中函数取值的情况，结合函数 $M(x)$ 的定义，可得函数 $M(x)$ 的图象（图3.1-5).\n\n由 $(x+1)^{2}=x+1$ ，得 $x(x+1)=0$ 。\n\n解得 x = -1，或 x = 0。\n\n结合图3.1-5，得出函数 $M(x)$ 的解析式为\n\n$$\nM (x) = \\left\\{ \\begin{array}{l l} (x + 1) ^ {2}, & x \\leqslant - 1, \\\\ x + 1, & - 1 <   x \\leqslant 0, \\\\ (x + 1) ^ {2}, & x > 0. \\end{array} \\right.\n$$\n\n你能用其他方法求出 $M(x)$ 的解析式吗？\n\n## 所属组织\n\n- [3.1.2 函数的表示法](#node=rja-required-1:semantic-03001:question)",
+      "path": "习题/解析/Q12594455931049086210A3790ae22f9.md",
+      "sha256": "b0b6488978cdf942971ef74494e26a3c455dffd104a07c64077cd4c01d2b570f",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A3790ae22f914ab",
+  "markdown": "# 例 6 给定函数 $f(x)=x+1$·解析\n\n对应题目：[例 6 给定函数 $f(x)=x+1$](../Q12594455931049086210.md)\n\n解：（1）在同一直角坐标系中画出函数 $f(x)$ ， $g(x)$ 的图象（图3.1-4）.\n\n![](assets/a81fe23ad1a59276500605e9c54a8e7444996c64242e56e44a6d02e0139cd740.jpg)  \n图3.1-4\n\n![](assets/cadde2aa89764effcb5fe272ab3d0a24060dd2ba185f51fb621fb0ccbad7c4b9.jpg)  \n图3.1-5\n\n（2）由图3.1-4中函数取值的情况，结合函数 $M(x)$ 的定义，可得函数 $M(x)$ 的图象（图3.1-5).\n\n由 $(x+1)^{2}=x+1$ ，得 $x(x+1)=0$ 。\n\n解得 x = -1，或 x = 0。\n\n结合图3.1-5，得出函数 $M(x)$ 的解析式为\n\n$$\nM (x) = \\left\\{ \\begin{array}{l l} (x + 1) ^ {2}, & x \\leqslant - 1, \\\\ x + 1, & - 1 <   x \\leqslant 0, \\\\ (x + 1) ^ {2}, & x > 0. \\end{array} \\right.\n$$\n\n你能用其他方法求出 $M(x)$ 的解析式吗？\n\n## 所属组织\n\n- [3.1.2 函数的表示法](#node=rja-required-1:semantic-03001:question)",
+  "origin": "source"
+}

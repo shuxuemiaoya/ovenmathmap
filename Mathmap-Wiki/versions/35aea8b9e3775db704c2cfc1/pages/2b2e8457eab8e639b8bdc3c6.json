@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Q7492076551709659138",
+      "markdown": "# 第五章 三角函数 复习参考题5 拓广探索 第26题\n\n26. 英国数学家泰勒给出如下公式：\n\n$$\n\\sin x = x - \\frac {x ^ {3}}{3 !} + \\frac {x ^ {5}}{5 !} - \\frac {x ^ {7}}{7 !} + \\dots ,\n$$\n\n$$\n\\cos x = 1 - \\frac {x ^ {2}}{2 !} + \\frac {x ^ {4}}{4 !} - \\frac {x ^ {6}}{6 !} + \\dots ,\n$$\n\n其中 $n!=1\\times2\\times3\\times4\\times\\cdots\\times n.$\n\n这些公式被编入计算工具，计算工具计算足够多的项就可以确保显示值的精确性．比如，用前三项计算 $\\cos 0.3$ ，就得到 $\\cos 0.3 \\approx 1 - \\frac{0.3^{2}}{2!} + \\frac{0.3^{4}}{4!} = 0.9553375$ .\n\n试用你的计算工具计算 $\\cos 0.3$ ，并与上述结果比较.\n\n## 解析\n\n本来源未提供本题解析。\n\n## 所属组织\n\n- [第五章 三角函数 复习参考题5](#node=rja-required-1:node-toc-057:question)",
+      "path": "习题/Q7492076551709659138.md",
+      "sha256": "7e47d38c53e9038e10dd5df613c16167e53e8391b93336fe750ea54e799b1891",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Q7492076551709659138",
+  "markdown": "# 第五章 三角函数 复习参考题5 拓广探索 第26题\n\n26. 英国数学家泰勒给出如下公式：\n\n$$\n\\sin x = x - \\frac {x ^ {3}}{3 !} + \\frac {x ^ {5}}{5 !} - \\frac {x ^ {7}}{7 !} + \\dots ,\n$$\n\n$$\n\\cos x = 1 - \\frac {x ^ {2}}{2 !} + \\frac {x ^ {4}}{4 !} - \\frac {x ^ {6}}{6 !} + \\dots ,\n$$\n\n其中 $n!=1\\times2\\times3\\times4\\times\\cdots\\times n.$\n\n这些公式被编入计算工具，计算工具计算足够多的项就可以确保显示值的精确性．比如，用前三项计算 $\\cos 0.3$ ，就得到 $\\cos 0.3 \\approx 1 - \\frac{0.3^{2}}{2!} + \\frac{0.3^{4}}{4!} = 0.9553375$ .\n\n试用你的计算工具计算 $\\cos 0.3$ ，并与上述结果比较.\n\n## 解析\n\n本来源未提供本题解析。\n\n## 所属组织\n\n- [第五章 三角函数 复习参考题5](#node=rja-required-1:node-toc-057:question)",
+  "origin": "source"
+}

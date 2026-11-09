@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A859915e100a0f6",
+      "markdown": "# 例 6 利用弧度制证明下列关于扇形的公·解析\n\n对应题目：[例 6 利用弧度制证明下列关于扇形的公](#node=Q9971564701130730511)\n\n证明：由公式 $|\\alpha| = \\frac{l}{r}$ 可得\n\n$$\nl = \\alpha R.\n$$\n\n下面证明 (2)(3).\n\n半径为 R，圆心角为 $n^{\\circ}$ 的扇形的弧长公式和面积公式分别是\n\n$$\nl = \\frac {n \\pi R}{1 8 0}, S = \\frac {n \\pi R ^ {2}}{3 6 0},\n$$\n\n将 $n^{\\circ}$ 转换为弧度，得\n\n$$\n\\alpha = \\frac {n \\pi}{1 8 0},\n$$\n\n于是，\n\n$$\nS = \\frac {1}{2} \\alpha R ^ {2}.\n$$\n\n将 $l = \\alpha R$ 代入上式，即得\n\n$$\nS = \\frac {1}{2} l R.\n$$\n\n显然，弧度制下的弧长公式和扇形面积公式形式简单了。在今后的学习中，我们还将进一步看到弧度制带来的便利。\n\n## 所属组织\n\n- [5.1.2 弧度制](#node=rja-required-1:semantic-06842:question)",
+      "path": "习题/解析/Q9971564701130730511A859915e100.md",
+      "sha256": "9fa3809618b8c109a34a16cf90693baa48bb5307b4685a8869617d139824c268",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A859915e100a0f6",
+  "markdown": "# 例 6 利用弧度制证明下列关于扇形的公·解析\n\n对应题目：[例 6 利用弧度制证明下列关于扇形的公](#node=Q9971564701130730511)\n\n证明：由公式 $|\\alpha| = \\frac{l}{r}$ 可得\n\n$$\nl = \\alpha R.\n$$\n\n下面证明 (2)(3).\n\n半径为 R，圆心角为 $n^{\\circ}$ 的扇形的弧长公式和面积公式分别是\n\n$$\nl = \\frac {n \\pi R}{1 8 0}, S = \\frac {n \\pi R ^ {2}}{3 6 0},\n$$\n\n将 $n^{\\circ}$ 转换为弧度，得\n\n$$\n\\alpha = \\frac {n \\pi}{1 8 0},\n$$\n\n于是，\n\n$$\nS = \\frac {1}{2} \\alpha R ^ {2}.\n$$\n\n将 $l = \\alpha R$ 代入上式，即得\n\n$$\nS = \\frac {1}{2} l R.\n$$\n\n显然，弧度制下的弧长公式和扇形面积公式形式简单了。在今后的学习中，我们还将进一步看到弧度制带来的便利。\n\n## 所属组织\n\n- [5.1.2 弧度制](#node=rja-required-1:semantic-06842:question)",
+  "origin": "source"
+}

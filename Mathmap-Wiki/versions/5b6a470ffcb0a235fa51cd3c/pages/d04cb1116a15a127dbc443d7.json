@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Ae8bf0872d0d0df",
+      "markdown": "# 利用诱导公式化简·解析\n\n对应题目：[利用诱导公式化简](#node=Q4679594778995649357)\n\n解：原式\n\n$$\n\\begin{array}{l} = \\frac {(- \\sin \\alpha) (- \\cos \\alpha) (- \\sin \\alpha) \\cos \\left[ 5 \\pi + \\left(\\frac {\\pi}{2} - \\alpha\\right) \\right]}{\\left(- \\cos \\alpha\\right) \\sin (\\pi - \\alpha) [ - \\sin (\\pi + \\alpha) ] \\sin \\left[ 4 \\pi + \\left(\\frac {\\pi}{2} + \\alpha\\right) \\right]} \\\\ = \\frac {- \\sin^ {2} \\alpha \\cos \\alpha \\left[ - \\cos \\left(\\frac {\\pi}{2} - \\alpha\\right) \\right]}{(- \\cos \\alpha) \\sin \\alpha [ - (- \\sin \\alpha) ] \\sin \\left(\\frac {\\pi}{2} + \\alpha\\right)} \\\\ = - \\frac {\\sin \\alpha}{\\cos \\alpha} = - \\tan \\alpha . \\end{array}\n$$\n\n\n\n## 所属组织\n\n- [5.3 诱导公式](#node=rja-required-1:node-toc-047:question)",
+      "path": "习题/解析/Q4679594778995649357Ae8bf0872d0.md",
+      "sha256": "0d538936a0f086a773d18300ea88d53faa59988710a27bb726c1a6038bb67c6a",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Ae8bf0872d0d0df",
+  "markdown": "# 利用诱导公式化简·解析\n\n对应题目：[利用诱导公式化简](#node=Q4679594778995649357)\n\n解：原式\n\n$$\n\\begin{array}{l} = \\frac {(- \\sin \\alpha) (- \\cos \\alpha) (- \\sin \\alpha) \\cos \\left[ 5 \\pi + \\left(\\frac {\\pi}{2} - \\alpha\\right) \\right]}{\\left(- \\cos \\alpha\\right) \\sin (\\pi - \\alpha) [ - \\sin (\\pi + \\alpha) ] \\sin \\left[ 4 \\pi + \\left(\\frac {\\pi}{2} + \\alpha\\right) \\right]} \\\\ = \\frac {- \\sin^ {2} \\alpha \\cos \\alpha \\left[ - \\cos \\left(\\frac {\\pi}{2} - \\alpha\\right) \\right]}{(- \\cos \\alpha) \\sin \\alpha [ - (- \\sin \\alpha) ] \\sin \\left(\\frac {\\pi}{2} + \\alpha\\right)} \\\\ = - \\frac {\\sin \\alpha}{\\cos \\alpha} = - \\tan \\alpha . \\end{array}\n$$\n\n\n\n## 所属组织\n\n- [5.3 诱导公式](#node=rja-required-1:node-toc-047:question)",
+  "origin": "source"
+}

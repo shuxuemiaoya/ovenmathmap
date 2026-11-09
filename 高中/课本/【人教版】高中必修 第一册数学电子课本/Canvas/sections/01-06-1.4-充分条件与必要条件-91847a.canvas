@@ -1,52 +1,292 @@
 {
-	"nodes":[
-		{"id":"4d0dab08fbf4a606","type":"group","label":"1.4 充分条件与必要条件","x":0,"y":0,"width":2896,"height":1842},
-		{"id":"d5bd5c4d33127ec5","type":"text","text":"[✦ 情景引入 · 1.4 充分条件与必要条件·本节导语](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/情景引入/0006-S.md)","x":56,"y":76,"width":280,"height":78,"color":"5"},
-		{"id":"8ab9da108737e1b3","type":"group","label":"1.4.1 充分条件与必要条件","x":496,"y":76,"width":392,"height":1710},
-		{"id":"50da8fecf903fe77","type":"text","text":"[§ 1.4.1 充分条件与必要条件](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第一章%20集合与常用逻辑用语/1.4%20充分条件与必要条件/1.4.1%20充分条件与必要条件.md)","x":552,"y":1492,"width":260,"height":66},
-		{"id":"edc0de8b95cf905d","type":"text","text":"[练习入口 · 1.4.1 充分条件与必要条件](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第一章%20集合与常用逻辑用语/1.4%20充分条件与必要条件/1.4.1%20充分条件与必要条件.md)\n\n共 4 题","x":552,"y":1658,"width":260,"height":72,"color":"6"},
-		{"id":"a013f7d56e1f06c8","type":"text","text":"[✦ 1.4.1 充分条件与必要条件·核心概念](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0005-K.md)","x":552,"y":1314,"width":280,"height":78,"color":"2"},
-		{"id":"fa26a8146da686c6","type":"text","text":"[· 思考题 · 1.4.1 充分条件与必要条件·思考](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/思考题/0010-T.md)","x":552,"y":152,"width":250,"height":66,"color":"5"},
-		{"id":"a0e6c4ec3a69eeaf","type":"text","text":"[· 方法例题 · 例 1 下列“若 $p$](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/例题/0008-W.md)","x":552,"y":318,"width":250,"height":66,"color":"4"},
-		{"id":"8c257e296fccbb66","type":"text","text":"[· 思考题 · 1.4.1 充分条件与必要条件·思考](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/思考题/0011-T.md)","x":552,"y":484,"width":250,"height":66,"color":"5"},
-		{"id":"c8c9591ef1736c1a","type":"text","text":"[· 方法例题 · 例 1 中命题（1）给出了“四边形是平](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/例题/0009-W.md)","x":552,"y":650,"width":250,"height":66,"color":"4"},
-		{"id":"17ebf1bd71d7a0e0","type":"text","text":"[· 方法例题 · 例 2 下列“若 $p$](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/例题/0010-W.md)","x":552,"y":816,"width":250,"height":66,"color":"4"},
-		{"id":"44ff41d7407d581c","type":"text","text":"[· 思考题 · 1.4.1 充分条件与必要条件·思考](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/思考题/0012-T.md)","x":552,"y":982,"width":250,"height":66,"color":"5"},
-		{"id":"ff740f4a0a9d76da","type":"text","text":"[· 方法例题 · 例 2 中命题（1）给出了“四边形是平](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/例题/0011-W.md)","x":552,"y":1148,"width":250,"height":66,"color":"4"},
-		{"id":"1e3b11b9731460c3","type":"group","label":"1.4.2 充要条件","x":1048,"y":76,"width":1792,"height":392},
-		{"id":"059e1606eb74250e","type":"text","text":"[练习入口 · 1.4.2 充要条件](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第一章%20集合与常用逻辑用语/1.4%20充分条件与必要条件/1.4.2%20充要条件.md)\n\n共 4 题","x":1464,"y":340,"width":260,"height":72,"color":"6"},
-		{"id":"8fdcc774dcfdd057","type":"text","text":"[§ 1.4.2 充要条件](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第一章%20集合与常用逻辑用语/1.4%20充分条件与必要条件/1.4.2%20充要条件.md)","x":1104,"y":330,"width":260,"height":66},
-		{"id":"8314854d2f5f99d6","type":"text","text":"[✦ 1.4.2 充要条件·核心概念](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0006-K.md)","x":1104,"y":152,"width":280,"height":78,"color":"2"},
-		{"id":"dd6595da576b7871","type":"text","text":"[· 思考题 · 1.4.2 充要条件·思考](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/思考题/0013-T.md)","x":1484,"y":152,"width":250,"height":66,"color":"5"},
-		{"id":"8cc82516e637cd80","type":"text","text":"[· 方法例题 · 例 3 下列各题中](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/例题/0012-W.md)","x":1834,"y":152,"width":250,"height":66,"color":"4"},
-		{"id":"0bfa428d1c92ba2b","type":"text","text":"[· 思考题 · 1.4.2 充要条件·探究](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/思考题/0014-T.md)","x":2184,"y":152,"width":250,"height":66,"color":"5"},
-		{"id":"d2e6754c890b96a8","type":"text","text":"[✦ 通过上面的学习，你能给出“四边形是平行四边形”的充要条件吗？](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0007-K.md)","x":1824,"y":318,"width":280,"height":78,"color":"2"},
-		{"id":"c85baf83c8699868","type":"text","text":"[· 方法例题 · 例 4 已知： $\\\\odot O$ 的](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/例题/0013-W.md)","x":2534,"y":152,"width":250,"height":66,"color":"4"},
-		{"id":"d89e0fec07d245e3","type":"group","label":"习题1.4","x":1048,"y":628,"width":372,"height":204},
-		{"id":"a35a22d2cd183b14","type":"text","text":"[练习入口 · 习题1.4](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第一章%20集合与常用逻辑用语/1.4%20充分条件与必要条件/习题1.4.md)\n\n共 6 题","x":1104,"y":704,"width":260,"height":72,"color":"6"},
-		{"id":"bfca10912a2edab8","type":"text","text":"# [1.4 充分条件与必要条件](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/第一章%20集合与常用逻辑用语/1.4%20充分条件与必要条件/1.4%20充分条件与必要条件.md)\n\n知识分簇 · 沿连线阅读","x":0,"y":-180,"width":390,"height":150,"color":"1"},
-		{"id":"724a87d676b2d16c","type":"text","text":"[← 返回章节](高中/课本/【人教版】高中必修%20第一册数学电子课本/Canvas/chapters/01-第一章-集合与常用逻辑用语-75a20e.canvas)","x":490,"y":-180,"width":230,"height":66},
-		{"id":"7234931467ef57f7","type":"text","text":"✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层","x":820,"y":-180,"width":400,"height":86}
-	],
-	"edges":[
-		{"id":"022584c0565b4874","fromNode":"8314854d2f5f99d6","toNode":"d2e6754c890b96a8","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"cae814664427625e","fromNode":"d5bd5c4d33127ec5","toNode":"a013f7d56e1f06c8","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"675e942cd0221a6f","fromNode":"a013f7d56e1f06c8","toNode":"8314854d2f5f99d6","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"7d9baeaeaf377c57","fromNode":"8314854d2f5f99d6","toNode":"d2e6754c890b96a8","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"50740fb6cbd24faa","fromNode":"d5bd5c4d33127ec5","toNode":"a013f7d56e1f06c8","fromSide":"right","toSide":"top","label":"主线 · 引发","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"dfbfe747fe78cdd6","fromNode":"a013f7d56e1f06c8","toNode":"edc0de8b95cf905d","fromSide":"bottom","toSide":"top","label":"归属 · 4题","color":"6","fromEnd":"none","toEnd":"arrow"},
-		{"id":"a4f45c43411928c8","fromNode":"8314854d2f5f99d6","toNode":"059e1606eb74250e","fromSide":"bottom","toSide":"top","label":"归属 · 4题","color":"6","fromEnd":"none","toEnd":"arrow"},
-		{"id":"4f8e259b146c56d5","fromNode":"d2e6754c890b96a8","toNode":"a35a22d2cd183b14","fromSide":"bottom","toSide":"top","label":"归属 · 6题","color":"6","fromEnd":"none","toEnd":"arrow"},
-		{"id":"da6ac82623f33eac","fromNode":"fa26a8146da686c6","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"e82b0deabc993705","fromNode":"a0e6c4ec3a69eeaf","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"5f1ab06af7840cc8","fromNode":"8c257e296fccbb66","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"bcf0193fc768989e","fromNode":"c8c9591ef1736c1a","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"d886068d94f3030b","fromNode":"17ebf1bd71d7a0e0","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"135fd4333d99feba","fromNode":"44ff41d7407d581c","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"00aa44711fc06acd","fromNode":"ff740f4a0a9d76da","toNode":"50da8fecf903fe77","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"07ad148100284926","fromNode":"dd6595da576b7871","toNode":"8fdcc774dcfdd057","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"8b6c9e1472e04073","fromNode":"8cc82516e637cd80","toNode":"8fdcc774dcfdd057","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"d20e3e384f90892e","fromNode":"0bfa428d1c92ba2b","toNode":"8fdcc774dcfdd057","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"},
-		{"id":"5cda2abad1435c55","fromNode":"c85baf83c8699868","toNode":"8fdcc774dcfdd057","fromSide":"bottom","toSide":"top","label":"归属","color":"#7A7A7A","fromEnd":"none","toEnd":"arrow"}
-	]
+  "nodes": [
+    {
+      "id": "4d0dab08fbf4a606",
+      "type": "group",
+      "label": "1.4 充分条件与必要条件",
+      "x": 0,
+      "y": 0,
+      "width": 3288,
+      "height": 524
+    },
+    {
+      "id": "d5bd5c4d33127ec5",
+      "type": "text",
+      "text": "[✦ 情景引入 · 1.4 充分条件与必要条件 节引言](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/0005-S.md)",
+      "x": 56,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "8ab9da108737e1b3",
+      "type": "group",
+      "label": "1.4.1 充分条件与必要条件",
+      "x": 496,
+      "y": 76,
+      "width": 1232,
+      "height": 392
+    },
+    {
+      "id": "edc0de8b95cf905d",
+      "type": "text",
+      "text": "[练习入口 · 1.4.1 充分条件与必要条件](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD/1.4%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6/1.4.1%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)\n\n共 3 题",
+      "x": 552,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "7debefc90dcadd41",
+      "type": "text",
+      "text": "[✦ 充分条件与必要条件](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6--000011.md)",
+      "x": 552,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "59deaf04a7a3a3e0",
+      "type": "text",
+      "text": "[✦ 判定定理与充分条件的关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%E4%B8%8E%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB--000012.md)",
+      "x": 972,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "ce7340f3b8cb8025",
+      "type": "text",
+      "text": "[✦ 性质定理与必要条件的关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB--000013.md)",
+      "x": 1392,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "1e3b11b9731460c3",
+      "type": "group",
+      "label": "1.4.2 充要条件",
+      "x": 1888,
+      "y": 76,
+      "width": 812,
+      "height": 392
+    },
+    {
+      "id": "059e1606eb74250e",
+      "type": "text",
+      "text": "[练习入口 · 1.4.2 充要条件](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD/1.4%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6/1.4.2%20%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)\n\n共 3 题",
+      "x": 1944,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "7e279156a6532fe8",
+      "type": "text",
+      "text": "[✦ 充要条件](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6--000014.md)",
+      "x": 1944,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "70d42ad65247014c",
+      "type": "text",
+      "text": "[✦ 数学定义与充要条件的关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E5%AD%A6%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB--000015.md)",
+      "x": 2364,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "d89e0fec07d245e3",
+      "type": "group",
+      "label": "习题1.4",
+      "x": 2860,
+      "y": 264,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "a35a22d2cd183b14",
+      "type": "text",
+      "text": "[练习入口 · 习题1.4](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD/1.4%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6/%E4%B9%A0%E9%A2%981.4.md)\n\n共 6 题",
+      "x": 2916,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "bfca10912a2edab8",
+      "type": "text",
+      "text": "# [1.4 充分条件与必要条件](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD/1.4%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6/1.4%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "724a87d676b2d16c",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD-75a20e.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "7234931467ef57f7",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "09331bcd4919b11d",
+      "fromNode": "7debefc90dcadd41",
+      "toNode": "59deaf04a7a3a3e0",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "13b98493d5c1bf85",
+      "fromNode": "7e279156a6532fe8",
+      "toNode": "70d42ad65247014c",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ecf6567941cd63fd",
+      "fromNode": "ce7340f3b8cb8025",
+      "toNode": "7e279156a6532fe8",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d9bfea54cb652e8f",
+      "fromNode": "59deaf04a7a3a3e0",
+      "toNode": "ce7340f3b8cb8025",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5c1a1d15510a9b14",
+      "fromNode": "7e279156a6532fe8",
+      "toNode": "70d42ad65247014c",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7a211c518899c8d1",
+      "fromNode": "59deaf04a7a3a3e0",
+      "toNode": "ce7340f3b8cb8025",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "abe320c54ae66566",
+      "fromNode": "7debefc90dcadd41",
+      "toNode": "59deaf04a7a3a3e0",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fba176f38bec502b",
+      "fromNode": "ce7340f3b8cb8025",
+      "toNode": "7e279156a6532fe8",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "19faaa57c4674e5c",
+      "fromNode": "d5bd5c4d33127ec5",
+      "toNode": "7debefc90dcadd41",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "dfbfe747fe78cdd6",
+      "fromNode": "7debefc90dcadd41",
+      "toNode": "edc0de8b95cf905d",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 3题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a4f45c43411928c8",
+      "fromNode": "7e279156a6532fe8",
+      "toNode": "059e1606eb74250e",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 3题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "4f8e259b146c56d5",
+      "fromNode": "70d42ad65247014c",
+      "toNode": "a35a22d2cd183b14",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 6题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
 }

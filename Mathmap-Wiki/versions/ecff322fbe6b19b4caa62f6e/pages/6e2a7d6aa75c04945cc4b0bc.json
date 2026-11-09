@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Pcbfdfc0e3e9cf3",
+      "markdown": "# 4.2.2 指数函数的图象和性质·探究\n\n探究\n\n选取底数 $a(a > 0$ ，且 $a \\neq 1)$ 的若干个不同的值，在同一直角坐标系内画出相应的指数函数的图象。观察这些图象的位置、公共点和变化趋势，它们有哪些共性？由此你能概括出指数函数 $y = a^x (a > 0$ ，且 $a \\neq 1)$ 的值域和性质吗？\n\n如图4.2-6，选取底数 $a$ 的若干值，用信息技术画图，发现指数函数 $y = a^x$ 的图象按底数 $a$ 的取值，可分为 $0 < a < 1$ 和 $a > 1$ 两种类型。因此，指数函数的性质也可以分 $0 < a < 1$ 和 $a > 1$ 两种情况进行研究。\n\n一般地，指数函数的图象和性质如表 4.2-3 所示.\n\n表4.2-3  \n![](assets/323fe1ef0855000e51e67f3d66aa02554837eb99ba211ae9fe1e3d7829999c66.jpg)  \n图4.2-6\n\n<table><tr><td>项目</td><td>01</td><td>a&gt;1</td></tr><tr><td>图象</td><td><img src=\"assets/a838d92c971024154aad3df4a592c3902afdb67e1f889206fa0db3c36e449f39.jpg\"/></td><td><img src=\"assets/dbe542911525401abe30bca11c30577c39a816feff41fce7da78dc3c0ad9f039.jpg\"/></td></tr><tr><td>定义域</td><td colspan=\"2\">R</td></tr><tr><td>值域</td><td colspan=\"2\">(0,+∞)</td></tr><tr><td rowspan=\"2\">性质</td><td colspan=\"2\">(1)过定点(0,1),即x=0时,y=1</td></tr><tr><td>(2)减函数</td><td>(2)增函数</td></tr></table>\n\n## 引出的知识\n\n- [指数函数的图象和性质](#node=Ka9a16ecf554583)\n\n## 本节相关知识（范围关联）\n\n- [指数函数的图象和性质](#node=Ka9a16ecf554583)\n\n## 所属组织\n\n- [4.2.2 指数函数的图象和性质](#node=rja-required-1:semantic-04853:problem)",
+      "path": "问题袋/4.2.2 指数函数的图象和性质·探究--Pcbfdfc0e3e9cf3.md",
+      "sha256": "3d2bbf9b99f4a7c4f2841e7b2ae61dde5266c5da86cc1e39c2a34b58a16bf78f",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Pcbfdfc0e3e9cf3",
+  "markdown": "# 4.2.2 指数函数的图象和性质·探究\n\n探究\n\n选取底数 $a(a > 0$ ，且 $a \\neq 1)$ 的若干个不同的值，在同一直角坐标系内画出相应的指数函数的图象。观察这些图象的位置、公共点和变化趋势，它们有哪些共性？由此你能概括出指数函数 $y = a^x (a > 0$ ，且 $a \\neq 1)$ 的值域和性质吗？\n\n如图4.2-6，选取底数 $a$ 的若干值，用信息技术画图，发现指数函数 $y = a^x$ 的图象按底数 $a$ 的取值，可分为 $0 < a < 1$ 和 $a > 1$ 两种类型。因此，指数函数的性质也可以分 $0 < a < 1$ 和 $a > 1$ 两种情况进行研究。\n\n一般地，指数函数的图象和性质如表 4.2-3 所示.\n\n表4.2-3  \n![](assets/323fe1ef0855000e51e67f3d66aa02554837eb99ba211ae9fe1e3d7829999c66.jpg)  \n图4.2-6\n\n<table><tr><td>项目</td><td>01</td><td>a&gt;1</td></tr><tr><td>图象</td><td><img src=\"assets/a838d92c971024154aad3df4a592c3902afdb67e1f889206fa0db3c36e449f39.jpg\"/></td><td><img src=\"assets/dbe542911525401abe30bca11c30577c39a816feff41fce7da78dc3c0ad9f039.jpg\"/></td></tr><tr><td>定义域</td><td colspan=\"2\">R</td></tr><tr><td>值域</td><td colspan=\"2\">(0,+∞)</td></tr><tr><td rowspan=\"2\">性质</td><td colspan=\"2\">(1)过定点(0,1),即x=0时,y=1</td></tr><tr><td>(2)减函数</td><td>(2)增函数</td></tr></table>\n\n## 引出的知识\n\n- [指数函数的图象和性质](#node=Ka9a16ecf554583)\n\n## 本节相关知识（范围关联）\n\n- [指数函数的图象和性质](#node=Ka9a16ecf554583)\n\n## 所属组织\n\n- [4.2.2 指数函数的图象和性质](#node=rja-required-1:semantic-04853:problem)",
+  "origin": "source"
+}

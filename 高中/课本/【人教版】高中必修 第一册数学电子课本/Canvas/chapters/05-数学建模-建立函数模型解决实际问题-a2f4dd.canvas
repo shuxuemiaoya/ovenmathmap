@@ -1,50 +1,74 @@
 {
-	"nodes":[
-		{"id":"1b1057802f4ba803","type":"group","label":"数学建模 建立函数模型解决实际问题","x":0,"y":0,"width":6212,"height":226},
-		{"id":"c40eec955c8a81f0","type":"text","text":"[⌕ 放大 · 章引入](高中/课本/【人教版】高中必修%20第一册数学电子课本/Canvas/sections/05-01-章引入-97cbba.canvas)\n\n14 个展示原子 · 0 题","x":5476,"y":76,"width":300,"height":94,"color":"1"},
-		{"id":"66ff62c820cb4a6a","type":"text","text":"[✦ 情景引入 · 数学建模 建立函数模型解决实际问题·本节导语](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/情景引入/0035-S.md)","x":56,"y":76,"width":280,"height":78,"color":"5"},
-		{"id":"a10f209e18a7bd47","type":"text","text":"[✦ 一、数学建模活动的一个实例](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0045-K.md)","x":476,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"48a4373bb97edb52","type":"text","text":"[✦ 2. 收集数据](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0046-K.md)","x":896,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"2917ed36f7272c5a","type":"text","text":"[✦ 3. 分析数据](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0047-K.md)","x":1316,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"6512c9b0eac153ad","type":"text","text":"[✦ 4. 建立模型](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0048-K.md)","x":1736,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"cb30582f321e4327","type":"text","text":"[✦ 5. 检验模型](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0049-K.md)","x":2156,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"fa68312f7592c5a5","type":"text","text":"[✦ 6. 求解问题](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0050-K.md)","x":2576,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"4d6924f0f8280ced","type":"text","text":"[✦ 由信息技术得](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0051-K.md)","x":2996,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"38fd62f2308e344a","type":"text","text":"[✦ 二、数学建模活动的选题](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0052-K.md)","x":3416,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"e3b8ab92ef3aa5e3","type":"text","text":"[✦ 1. 组建合作团队](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0053-K.md)","x":3836,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"b1d85757ab041a57","type":"text","text":"[✦ 2. 开展研究活动](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0054-K.md)","x":4256,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"c7f42931dee06311","type":"text","text":"[✦ 3. 撰写研究报告](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0055-K.md)","x":4676,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"9f9a4ab0fcd303fb","type":"text","text":"[✦ 4. 交流展示](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0056-K.md)","x":5096,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"a5714f455e3618dd","type":"text","text":"[✦ 四、数学建模活动研究报告的参考形式](高中/课本/【人教版】高中必修%20第一册数学电子课本/原子层/知识点/0057-K.md)","x":5876,"y":76,"width":280,"height":78,"color":"2"},
-		{"id":"122df8c945365ba2","type":"text","text":"# [数学建模 建立函数模型解决实际问题](高中/课本/【人教版】高中必修%20第一册数学电子课本/组织层/普通高中教科书%20数学%20必修%20第一册/数学建模%20建立函数模型解决实际问题.md)\n\n知识分簇 · 沿连线阅读","x":0,"y":-180,"width":390,"height":150,"color":"1"},
-		{"id":"4b3e1361bba5de41","type":"text","text":"[← 返回全书](高中/课本/【人教版】高中必修%20第一册数学电子课本/Canvas/overview.canvas)","x":490,"y":-180,"width":230,"height":66},
-		{"id":"4e2ce088e46dc485","type":"text","text":"✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层","x":820,"y":-180,"width":400,"height":86}
-	],
-	"edges":[
-		{"id":"0178c59d27ee6167","fromNode":"9f9a4ab0fcd303fb","toNode":"a5714f455e3618dd","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"350865ee6c779876","fromNode":"4d6924f0f8280ced","toNode":"38fd62f2308e344a","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"22f538b29e7ebbe7","fromNode":"2917ed36f7272c5a","toNode":"6512c9b0eac153ad","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"41b140723d680f5a","fromNode":"38fd62f2308e344a","toNode":"e3b8ab92ef3aa5e3","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"b8b3cb9c2cbc88ee","fromNode":"c7f42931dee06311","toNode":"9f9a4ab0fcd303fb","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"4848bf0f0e9d4b33","fromNode":"e3b8ab92ef3aa5e3","toNode":"b1d85757ab041a57","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"bcf340973060e3f7","fromNode":"fa68312f7592c5a5","toNode":"4d6924f0f8280ced","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"7254f1f92a048534","fromNode":"a10f209e18a7bd47","toNode":"48a4373bb97edb52","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"738a274e6283aebb","fromNode":"6512c9b0eac153ad","toNode":"cb30582f321e4327","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"8ecd12b87ffc33c9","fromNode":"b1d85757ab041a57","toNode":"c7f42931dee06311","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"7a3b482cc4c673e5","fromNode":"cb30582f321e4327","toNode":"fa68312f7592c5a5","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"aed402e2e21110a7","fromNode":"48a4373bb97edb52","toNode":"2917ed36f7272c5a","fromSide":"right","toSide":"left","label":"主线 · 发展","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"451ba99cfd30b800","fromNode":"a10f209e18a7bd47","toNode":"48a4373bb97edb52","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"811c23636b6bd934","fromNode":"e3b8ab92ef3aa5e3","toNode":"b1d85757ab041a57","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"a273e777f39792fc","fromNode":"2917ed36f7272c5a","toNode":"6512c9b0eac153ad","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"55bd2623bf3a4d73","fromNode":"38fd62f2308e344a","toNode":"e3b8ab92ef3aa5e3","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"aa70266b03b6de23","fromNode":"66ff62c820cb4a6a","toNode":"a10f209e18a7bd47","fromSide":"right","toSide":"top","label":"主线 · 引发","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"c49ff38e7ea61ddc","fromNode":"cb30582f321e4327","toNode":"fa68312f7592c5a5","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"85c903e0d62ce132","fromNode":"4d6924f0f8280ced","toNode":"38fd62f2308e344a","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"06b3556b66a12ea4","fromNode":"6512c9b0eac153ad","toNode":"cb30582f321e4327","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"45b32512395fbaf8","fromNode":"48a4373bb97edb52","toNode":"2917ed36f7272c5a","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"0745a47612f81868","fromNode":"b1d85757ab041a57","toNode":"c7f42931dee06311","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"a33a88f4e50a33f2","fromNode":"fa68312f7592c5a5","toNode":"4d6924f0f8280ced","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"78f41c84fe3a592d","fromNode":"9f9a4ab0fcd303fb","toNode":"a5714f455e3618dd","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"},
-		{"id":"728fff01cab6f430","fromNode":"c7f42931dee06311","toNode":"9f9a4ab0fcd303fb","fromSide":"right","toSide":"left","label":"主线 · 先修","color":"3","fromEnd":"none","toEnd":"arrow"}
-	]
+  "nodes": [
+    {
+      "id": "1b1057802f4ba803",
+      "type": "group",
+      "label": "数学建模 建立函数模型解决实际问题",
+      "x": 0,
+      "y": 0,
+      "width": 412,
+      "height": 414
+    },
+    {
+      "id": "c40eec955c8a81f0",
+      "type": "text",
+      "text": "[⌕ 放大 · 章引入](../sections/05-01-%E7%AB%A0%E5%BC%95%E5%85%A5-97cbba.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 56,
+      "y": 264,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "9f231d4df237a963",
+      "type": "text",
+      "text": "[✦ 数学建模：建立函数模型解决实际问题](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1-%E5%BB%BA%E7%AB%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98--000069.md)",
+      "x": 56,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "122df8c945365ba2",
+      "type": "text",
+      "text": "# [数学建模 建立函数模型解决实际问题](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%20%E5%BB%BA%E7%AB%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "4b3e1361bba5de41",
+      "type": "text",
+      "text": "[← 返回全书](../overview.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "4e2ce088e46dc485",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "361412eda58fcf93",
+      "fromNode": "9f231d4df237a963",
+      "toNode": "c40eec955c8a81f0",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
 }

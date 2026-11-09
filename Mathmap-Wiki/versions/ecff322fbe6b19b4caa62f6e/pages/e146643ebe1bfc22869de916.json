@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "P036a591f208a39",
+      "markdown": "# 1.3 集合的基本运算·观察\n\n观察\n\n观察下面的集合，类比实数的加法运算，你能说出集合 $C$ 与集合 $A$ ， $B$ 之间的关系吗？\n\n(1) $A = \\{1, 3, 5\\}$ , $B = \\{2, 4, 6\\}$ , $C = \\{1, 2, 3, 4, 5, 6\\}$ ;\n\n(2) $A = \\{x \\mid x \\text{ 是有理数}\\}, B = \\{x \\mid x \\text{ 是无理数}\\}, C = \\{x \\mid x \\text{ 是实数}\\}.$\n\n在上述两个问题中，集合 A，B 与集合 C 之间都具有这样一种关系：集合 C 是由所有属于集合 A 或属于集合 B 的元素组成的.\n\n一般地，由所有属于集合 A 或属于集合 B 的元素组成的集合，称为集合 A 与 B 的并集（union set），记作 $A \\cup B$ （读作 “A 并 B”），即\n\n![](assets/c592bf43736b324b43fd6105eea25383e3196204f1e3411e9eded3220df67467.jpg)  \n图1.3-1\n\n$$\nA \\bigcup B = \\{x   |   x \\in A  ,   \\text {或}   x \\in B \\}  ,\n$$\n\n可用 Venn 图（图 1.3-1）表示.\n\n这样，在问题（1）（2）中，集合 $A$ 与 $B$ 的并集是 $C$ ，即\n\n$$\nA \\bigcup B = C.\n$$\n\n## 引出的知识\n\n- [并集](#node=K4ff723cd623a8f)\n\n## 本节相关知识（范围关联）\n\n- [交集](#node=Ke362de64950919)\n- [全集](#node=K7c5be3622c67e6)\n- [并集](#node=K4ff723cd623a8f)\n- [补集](#node=K4ca3059d633b87)\n\n## 所属组织\n\n- [1.3 集合的基本运算](#node=rja-required-1:node-toc-004:problem)",
+      "path": "问题袋/1.3 集合的基本运算·观察--P036a591f208a39.md",
+      "sha256": "11667d95b3c43456d6680f12e29325ff5959bebd4a7014e77815fa2bdeae4c57",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "P036a591f208a39",
+  "markdown": "# 1.3 集合的基本运算·观察\n\n观察\n\n观察下面的集合，类比实数的加法运算，你能说出集合 $C$ 与集合 $A$ ， $B$ 之间的关系吗？\n\n(1) $A = \\{1, 3, 5\\}$ , $B = \\{2, 4, 6\\}$ , $C = \\{1, 2, 3, 4, 5, 6\\}$ ;\n\n(2) $A = \\{x \\mid x \\text{ 是有理数}\\}, B = \\{x \\mid x \\text{ 是无理数}\\}, C = \\{x \\mid x \\text{ 是实数}\\}.$\n\n在上述两个问题中，集合 A，B 与集合 C 之间都具有这样一种关系：集合 C 是由所有属于集合 A 或属于集合 B 的元素组成的.\n\n一般地，由所有属于集合 A 或属于集合 B 的元素组成的集合，称为集合 A 与 B 的并集（union set），记作 $A \\cup B$ （读作 “A 并 B”），即\n\n![](assets/c592bf43736b324b43fd6105eea25383e3196204f1e3411e9eded3220df67467.jpg)  \n图1.3-1\n\n$$\nA \\bigcup B = \\{x   |   x \\in A  ,   \\text {或}   x \\in B \\}  ,\n$$\n\n可用 Venn 图（图 1.3-1）表示.\n\n这样，在问题（1）（2）中，集合 $A$ 与 $B$ 的并集是 $C$ ，即\n\n$$\nA \\bigcup B = C.\n$$\n\n## 引出的知识\n\n- [并集](#node=K4ff723cd623a8f)\n\n## 本节相关知识（范围关联）\n\n- [交集](#node=Ke362de64950919)\n- [全集](#node=K7c5be3622c67e6)\n- [并集](#node=K4ff723cd623a8f)\n- [补集](#node=K4ca3059d633b87)\n\n## 所属组织\n\n- [1.3 集合的基本运算](#node=rja-required-1:node-toc-004:problem)",
+  "origin": "source"
+}

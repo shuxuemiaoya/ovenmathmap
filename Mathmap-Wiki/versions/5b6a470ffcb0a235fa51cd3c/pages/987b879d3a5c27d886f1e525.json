@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Kc81afc9e52cd98",
+      "markdown": "# 半角公式与三角恒等变换\n\n例 7 的结果还可以表示为：\n\n在倍角公式 $\\cos 2\\alpha = 2\\cos^{2}\\alpha - 1$ 中，以 $\\alpha$ 代替 $2\\alpha$ ，以 $\\frac{\\alpha}{2}$ 代替 $\\alpha$ ，得\n\n$$\n\\sin {\\frac {\\alpha}{2}} = \\pm \\sqrt {\\frac {1 - \\cos \\alpha}{2}},\n$$\n\n$$\n\\cos \\frac {\\alpha}{2} = \\pm \\sqrt {\\frac {1 + \\cos \\alpha}{2}},\n$$\n\n$$\n\\cos \\alpha = 2 \\cos^ {2} \\frac {\\alpha}{2} - 1,\n$$\n\n$$\n\\tan {\\frac {\\alpha}{2}} = \\pm \\sqrt {\\frac {1 - \\cos \\alpha}{1 + \\cos \\alpha}},\n$$\n\n所以\n\n$$\n\\cos^ {2} \\frac {\\alpha}{2} = \\frac {1 + \\cos \\alpha}{2}.\\tag{②}\n$$\n\n将①②两个等式的左右两边分别相除，得并称之为半角公式，符号由 $\\frac{\\alpha}{2}$ 所在象限决定.\n\n$$\n\\tan^ {2} \\frac {\\alpha}{2} = \\frac {1 - \\cos \\alpha}{1 + \\cos \\alpha}.\n$$\n\n因为不同的三角函数式不仅会有结构形式方面的差异，而且还会存在所包含的角，以及这些角的三角函数种类方面的差异，所以进行三角恒等变换时，常常要先寻找式子所包含的各个角之间的联系，并以此为依据选择适当的公式。这是三角恒等变换的一个重要特点。\n\n## 先修知识\n\n- [二倍角公式](#node=K2028bc6a1dc167)\n\n## 本节例题与练习\n\n- [三角函数的周期与最值](#node=Q1529905181627891467)\n- [三角恒等变换练习](#node=Q12257938368269003516)\n- [例 7 试以 $\\cos \\alpha](#node=Q9420774793423592353)\n- [例 8 求证：](#node=Q11638901625119360808)\n- [扇形中矩形面积的最值](#node=Q7920889332283682362)\n- [练习 1](#node=Q5429191356361963400)\n- [练习 1](#node=Q17735040134381052172)\n- [练习 2](#node=Q6173263147288516808)\n- [练习 2](#node=Q5606631502708087312)\n- [练习 3](#node=Q6104206311978199928)\n- [练习 3](#node=Q13987726584062136360)\n- [练习 4](#node=Q9928032102786769425)\n\n## 所属组织\n\n- [5.5.2 简单的三角恒等变换](#node=rja-required-1:semantic-09132:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [5.5.2 简单的三角恒等变换](#node=rja-required-1:semantic-09132:question)",
+      "path": "知识点/半角公式与三角恒等变换--Kc81afc9e52cd98.md",
+      "sha256": "07d3c2f99c022a48836bce8a4b697d46bba6fc67a7bc8227eacdf2496a9d5f43",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Kc81afc9e52cd98",
+  "markdown": "# 半角公式与三角恒等变换\n\n例 7 的结果还可以表示为：\n\n在倍角公式 $\\cos 2\\alpha = 2\\cos^{2}\\alpha - 1$ 中，以 $\\alpha$ 代替 $2\\alpha$ ，以 $\\frac{\\alpha}{2}$ 代替 $\\alpha$ ，得\n\n$$\n\\sin {\\frac {\\alpha}{2}} = \\pm \\sqrt {\\frac {1 - \\cos \\alpha}{2}},\n$$\n\n$$\n\\cos \\frac {\\alpha}{2} = \\pm \\sqrt {\\frac {1 + \\cos \\alpha}{2}},\n$$\n\n$$\n\\cos \\alpha = 2 \\cos^ {2} \\frac {\\alpha}{2} - 1,\n$$\n\n$$\n\\tan {\\frac {\\alpha}{2}} = \\pm \\sqrt {\\frac {1 - \\cos \\alpha}{1 + \\cos \\alpha}},\n$$\n\n所以\n\n$$\n\\cos^ {2} \\frac {\\alpha}{2} = \\frac {1 + \\cos \\alpha}{2}.\\tag{②}\n$$\n\n将①②两个等式的左右两边分别相除，得并称之为半角公式，符号由 $\\frac{\\alpha}{2}$ 所在象限决定.\n\n$$\n\\tan^ {2} \\frac {\\alpha}{2} = \\frac {1 - \\cos \\alpha}{1 + \\cos \\alpha}.\n$$\n\n因为不同的三角函数式不仅会有结构形式方面的差异，而且还会存在所包含的角，以及这些角的三角函数种类方面的差异，所以进行三角恒等变换时，常常要先寻找式子所包含的各个角之间的联系，并以此为依据选择适当的公式。这是三角恒等变换的一个重要特点。\n\n## 先修知识\n\n- [二倍角公式](#node=K2028bc6a1dc167)\n\n## 本节例题与练习\n\n- [三角函数的周期与最值](#node=Q1529905181627891467)\n- [三角恒等变换练习](#node=Q12257938368269003516)\n- [例 7 试以 $\\cos \\alpha](#node=Q9420774793423592353)\n- [例 8 求证：](#node=Q11638901625119360808)\n- [扇形中矩形面积的最值](#node=Q7920889332283682362)\n- [练习 1](#node=Q5429191356361963400)\n- [练习 1](#node=Q17735040134381052172)\n- [练习 2](#node=Q6173263147288516808)\n- [练习 2](#node=Q5606631502708087312)\n- [练习 3](#node=Q6104206311978199928)\n- [练习 3](#node=Q13987726584062136360)\n- [练习 4](#node=Q9928032102786769425)\n\n## 所属组织\n\n- [5.5.2 简单的三角恒等变换](#node=rja-required-1:semantic-09132:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [5.5.2 简单的三角恒等变换](#node=rja-required-1:semantic-09132:question)",
+  "origin": "source"
+}

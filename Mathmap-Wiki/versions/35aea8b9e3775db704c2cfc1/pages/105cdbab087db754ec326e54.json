@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A86c8d1f87fd0df",
+      "markdown": "# 例 2 写出终边在 y 轴上的角的集合·解析\n\n对应题目：[例 2 写出终边在 y 轴上的角的集合](#node=Q12487925528325164311)\n\n解：在 $0^{\\circ} \\sim 360^{\\circ}$ 范围内，终边在 $y$ 轴上的角有两个，即 $90^{\\circ}$ ， $270^{\\circ}$ 角（图5.1-7）。因此，所有与 $90^{\\circ}$ 角终边相同的角构成集合\n\n$$\nS _ {1} = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + k \\cdot 3 6 0 ^ {\\circ}, k \\in \\mathbf {Z} \\},\n$$\n\n![](assets/3154957245faed751ef723d5b7311d2efbe01e893a86b7437c8e0e5d7e019701.jpg)  \n图5.1-7\n\n170 第五章 三角函数\n\n![](assets/4ee34ff9b499c2cec4fcbdabc79e744de523ffb45bda4651927ab6b26cf99d6d.jpg)\n\n而所有与 $270^{\\circ}$ 角终边相同的角构成集合\n\n$$\nS _ {2} = \\{\\beta \\mid \\beta = 2 7 0 ^ {\\circ} + k \\cdot 3 6 0 ^ {\\circ}, k \\in \\mathbf {Z} \\},\n$$\n\n于是，终边在 $y$ 轴上的角的集合\n\n$$\n\\begin{array}{r l} S & = S _ {1} \\cup S _ {2} \\\\ & = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + 2 k \\cdot 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\cup \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + 1 8 0 ^ {\\circ} + 2 k \\cdot 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\\\ & = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + 2 k \\cdot 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\cup \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + (2 k + 1) 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\\\ & = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + n \\cdot 1 8 0 ^ {\\circ}, n \\in \\mathbf {Z} \\}. \\end{array}\n$$\n\n## 所属组织\n\n- [5.1.1 任意角](#node=rja-required-1:semantic-06704:question)",
+      "path": "习题/解析/Q12487925528325164311A86c8d1f87f.md",
+      "sha256": "058cae77e4c2188c8b0131114f763228dc483450f655ad44aa450b2b2d4ed9cd",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A86c8d1f87fd0df",
+  "markdown": "# 例 2 写出终边在 y 轴上的角的集合·解析\n\n对应题目：[例 2 写出终边在 y 轴上的角的集合](#node=Q12487925528325164311)\n\n解：在 $0^{\\circ} \\sim 360^{\\circ}$ 范围内，终边在 $y$ 轴上的角有两个，即 $90^{\\circ}$ ， $270^{\\circ}$ 角（图5.1-7）。因此，所有与 $90^{\\circ}$ 角终边相同的角构成集合\n\n$$\nS _ {1} = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + k \\cdot 3 6 0 ^ {\\circ}, k \\in \\mathbf {Z} \\},\n$$\n\n![](assets/3154957245faed751ef723d5b7311d2efbe01e893a86b7437c8e0e5d7e019701.jpg)  \n图5.1-7\n\n170 第五章 三角函数\n\n![](assets/4ee34ff9b499c2cec4fcbdabc79e744de523ffb45bda4651927ab6b26cf99d6d.jpg)\n\n而所有与 $270^{\\circ}$ 角终边相同的角构成集合\n\n$$\nS _ {2} = \\{\\beta \\mid \\beta = 2 7 0 ^ {\\circ} + k \\cdot 3 6 0 ^ {\\circ}, k \\in \\mathbf {Z} \\},\n$$\n\n于是，终边在 $y$ 轴上的角的集合\n\n$$\n\\begin{array}{r l} S & = S _ {1} \\cup S _ {2} \\\\ & = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + 2 k \\cdot 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\cup \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + 1 8 0 ^ {\\circ} + 2 k \\cdot 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\\\ & = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + 2 k \\cdot 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\cup \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + (2 k + 1) 1 8 0 ^ {\\circ}, k \\in \\mathbf {Z} \\} \\\\ & = \\{\\beta \\mid \\beta = 9 0 ^ {\\circ} + n \\cdot 1 8 0 ^ {\\circ}, n \\in \\mathbf {Z} \\}. \\end{array}\n$$\n\n## 所属组织\n\n- [5.1.1 任意角](#node=rja-required-1:semantic-06704:question)",
+  "origin": "source"
+}

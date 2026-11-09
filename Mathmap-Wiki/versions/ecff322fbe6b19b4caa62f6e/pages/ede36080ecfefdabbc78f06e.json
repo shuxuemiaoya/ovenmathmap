@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A84f0800d37d484",
+      "markdown": "# 例 3 根据定义证明函数 $y=x+\\·解析\n\n对应题目：[例 3 根据定义证明函数 $y=x+\\](../Q13425100634548111319.md)\n\n证明： $\\forall x_{1},x_{2}\\in (1, + \\infty)$ ，且 $x_{1} <   x_{2}$ ，有\n\n$$\n\\begin{array}{r l} y _ {1} - y _ {2} & = \\left(x _ {1} + \\frac {1}{x _ {1}}\\right) - \\left(x _ {2} + \\frac {1}{x _ {2}}\\right) = (x _ {1} - x _ {2}) + \\left(\\frac {1}{x _ {1}} - \\frac {1}{x _ {2}}\\right) \\\\ & = (x _ {1} - x _ {2}) + \\frac {x _ {2} - x _ {1}}{x _ {1} x _ {2}} = \\frac {x _ {1} - x _ {2}}{x _ {1} x _ {2}} (x _ {1} x _ {2} - 1). \\end{array}\n$$\n\n由 $x_{1}, x_{2} \\in (1, +\\infty)$ ，得 $x_{1} > 1, x_{2} > 1$\n\n所以\n\n$$\nx _ {1} x _ {2} > 1, x _ {1} x _ {2} - 1 > 0.\n$$\n\n又由 $x_{1} < x_{2}$ ，得 $x_{1} - x_{2} < 0$ 。\n\n于是\n\n$$\n\\frac {x _ {1} - x _ {2}}{x _ {1} x _ {2}} (x _ {1} x _ {2} - 1) <   0,\n$$\n\n即\n\n$$\ny _ {1} <   y _ {2}.\n$$\n\n所以，函数 $y = x + \\frac{1}{x}$ 在区间（1， $+\\infty$ ）上单调递增.\n\n## 所属组织\n\n- [3.2.1 单调性与最大（小）值](#node=rja-required-1:semantic-03349:question)",
+      "path": "习题/解析/Q13425100634548111319A84f0800d37.md",
+      "sha256": "44793bec3c8c001a1bcfe77634bbfef8a4c2a038ca84bd9d5188d1b28f3d5f5b",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A84f0800d37d484",
+  "markdown": "# 例 3 根据定义证明函数 $y=x+\\·解析\n\n对应题目：[例 3 根据定义证明函数 $y=x+\\](../Q13425100634548111319.md)\n\n证明： $\\forall x_{1},x_{2}\\in (1, + \\infty)$ ，且 $x_{1} <   x_{2}$ ，有\n\n$$\n\\begin{array}{r l} y _ {1} - y _ {2} & = \\left(x _ {1} + \\frac {1}{x _ {1}}\\right) - \\left(x _ {2} + \\frac {1}{x _ {2}}\\right) = (x _ {1} - x _ {2}) + \\left(\\frac {1}{x _ {1}} - \\frac {1}{x _ {2}}\\right) \\\\ & = (x _ {1} - x _ {2}) + \\frac {x _ {2} - x _ {1}}{x _ {1} x _ {2}} = \\frac {x _ {1} - x _ {2}}{x _ {1} x _ {2}} (x _ {1} x _ {2} - 1). \\end{array}\n$$\n\n由 $x_{1}, x_{2} \\in (1, +\\infty)$ ，得 $x_{1} > 1, x_{2} > 1$\n\n所以\n\n$$\nx _ {1} x _ {2} > 1, x _ {1} x _ {2} - 1 > 0.\n$$\n\n又由 $x_{1} < x_{2}$ ，得 $x_{1} - x_{2} < 0$ 。\n\n于是\n\n$$\n\\frac {x _ {1} - x _ {2}}{x _ {1} x _ {2}} (x _ {1} x _ {2} - 1) <   0,\n$$\n\n即\n\n$$\ny _ {1} <   y _ {2}.\n$$\n\n所以，函数 $y = x + \\frac{1}{x}$ 在区间（1， $+\\infty$ ）上单调递增.\n\n## 所属组织\n\n- [3.2.1 单调性与最大（小）值](#node=rja-required-1:semantic-03349:question)",
+  "origin": "source"
+}

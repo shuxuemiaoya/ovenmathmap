@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "/Volumes/Whw/数学妙呀资料/初中/课本/【2024版】【北师大版】/【2024版】【北师大版】七年级上册数学.pdf",
+    "sha256": "fb4a923907d8921695a2f6e4492d37a926bddbbbdc51eb8c19f7fe381b24cacb",
+    "kind": "pdf",
+    "bytes": 94131627
+  },
+  "paths": {
+    "staging_root": "/Users/oven/Documents/ovenmathmap/.temp/book-wiki-graph-staging/【2024版】【北师大版】七年级上册数学",
+    "book_root": "/Users/oven/Documents/ovenmathmap/初中/课本/【2024版】【北师大版】七年级上册数学"
+  },
+  "organizer_root": "组织层",
+  "atom_categories": {
+    "knowledge": "原子层/知识点",
+    "worked-example": "原子层/例题",
+    "exercise": "原子层/习题",
+    "scenario": "原子层/情景引入",
+    "concept": "原子层/概念",
+    "formula": "原子层/公式"
+  },
+  "atom_subcategory_paths": {
+    "reflection-question": "原子层/思考题"
+  },
+  "markdown_beautification": {
+    "enabled": false,
+    "skill": "book-markdown-beautifier",
+    "theme": "minimal-callout",
+    "available_themes": [
+      "minimal-clean",
+      "minimal-callout",
+      "rich-callout"
+    ],
+    "image_mode": "obsidian-native-markdown",
+    "repair_spaced_digits": true
+  },
+  "canvas": {
+    "enabled": true,
+    "mode": "two-level-constellation",
+    "theme": "adaptive",
+    "overview_granularity": "chapter",
+    "chapter_granularity": "atom"
+  }
+}

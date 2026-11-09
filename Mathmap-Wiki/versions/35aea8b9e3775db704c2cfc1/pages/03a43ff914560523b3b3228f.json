@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Q3600472967084043691",
+      "markdown": "# 习题1.2 复习巩固 第2题\n\n2. 指出下列各集合之间的关系，并用 Venn 图表示：\n\n$A = \\{x \\mid x \\text{ 是四边形}\\}$，$B = \\{x \\mid x \\text{ 是平行四边形}\\}$，$C = \\{x \\mid x \\text{ 是矩形}\\}$，$D = \\{x \\mid x \\text{ 是正方形}\\}$.\n\n![](assets/c17a4a856353f076bb20a353a1fd0f537fc61a048be9d83405d46ee7896a0efd.jpg)\n\n> [!success]- 答案与解析\n>\n> > [!success] **【答案】** $D \\subsetneqq C \\subsetneqq B \\subsetneqq A$\n>\n> > [!note]- **【解析】**\n> > 正方形是特殊的矩形，矩形是特殊的平行四边形，平行四边形是特殊的四边形，因此各集合之间的关系为 $D \\subsetneqq C \\subsetneqq B \\subsetneqq A$. 用 Venn 图表示时，由内到外依次为封闭曲线 $D, C, B, A$ 逐层包含.\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [集合间的基本关系](#node=Kd0130af4317b2e)\n\n## 所属组织\n\n- [习题1.2](#node=rja-required-1:semantic-00565:question)",
+      "path": "习题/Q3600472967084043691.md",
+      "sha256": "a26f13d854bf15a225e43edd9a89e1d023e9c389b2e7db35b8461bc7dfe0de84",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Q3600472967084043691",
+  "markdown": "# 习题1.2 复习巩固 第2题\n\n2. 指出下列各集合之间的关系，并用 Venn 图表示：\n\n$A = \\{x \\mid x \\text{ 是四边形}\\}$，$B = \\{x \\mid x \\text{ 是平行四边形}\\}$，$C = \\{x \\mid x \\text{ 是矩形}\\}$，$D = \\{x \\mid x \\text{ 是正方形}\\}$.\n\n![](assets/c17a4a856353f076bb20a353a1fd0f537fc61a048be9d83405d46ee7896a0efd.jpg)\n\n> [!success]- 答案与解析\n>\n> > [!success] **【答案】** $D \\subsetneqq C \\subsetneqq B \\subsetneqq A$\n>\n> > [!note]- **【解析】**\n> > 正方形是特殊的矩形，矩形是特殊的平行四边形，平行四边形是特殊的四边形，因此各集合之间的关系为 $D \\subsetneqq C \\subsetneqq B \\subsetneqq A$. 用 Venn 图表示时，由内到外依次为封闭曲线 $D, C, B, A$ 逐层包含.\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [集合间的基本关系](#node=Kd0130af4317b2e)\n\n## 所属组织\n\n- [习题1.2](#node=rja-required-1:semantic-00565:question)",
+  "origin": "source"
+}

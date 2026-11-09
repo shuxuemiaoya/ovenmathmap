@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Kf6a89ee41afe7f",
+      "markdown": "# 正切函数的周期性\n\n## 情境引入与思考\n\n![](#node=Pd8a32e4ed2a8af)\n\n![](#node=Pdefcbc20f9edff)\n\n![](#node=P816bacdaac06ad)\n\n![](#node=P9a23275f90202b)\n\n## 知识讲解\n\n由诱导公式\n\n$$\n\\tan (x + \\pi) = \\tan x, x \\in \\mathbf {R}, \\text {且} x \\neq \\frac {\\pi}{2} + k \\pi , k \\in \\mathbf {Z}\n$$\n\n可知，正切函数是周期函数，周期是 $\\pi$\n\n## 本节例题与练习\n\n- [例 6 求函数 $y = \\tan \\](#node=Q13173298958337743105)\n\n## 所属组织\n\n- [5.4.3 正切函数的性质与图象](#node=rja-required-1:semantic-08468:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [5.4.3 正切函数的性质与图象](#node=rja-required-1:semantic-08468:question)",
+      "path": "知识点/正切函数的周期性--Kf6a89ee41afe7f.md",
+      "sha256": "58564c76489924de9400772e44676a9a14c6ecb5b2603c6b5d057ae0d3eac129",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Kf6a89ee41afe7f",
+  "markdown": "# 正切函数的周期性\n\n## 情境引入与思考\n\n![](#node=Pd8a32e4ed2a8af)\n\n![](#node=Pdefcbc20f9edff)\n\n![](#node=P816bacdaac06ad)\n\n![](#node=P9a23275f90202b)\n\n## 知识讲解\n\n由诱导公式\n\n$$\n\\tan (x + \\pi) = \\tan x, x \\in \\mathbf {R}, \\text {且} x \\neq \\frac {\\pi}{2} + k \\pi , k \\in \\mathbf {Z}\n$$\n\n可知，正切函数是周期函数，周期是 $\\pi$\n\n## 本节例题与练习\n\n- [例 6 求函数 $y = \\tan \\](#node=Q13173298958337743105)\n\n## 所属组织\n\n- [5.4.3 正切函数的性质与图象](#node=rja-required-1:semantic-08468:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [5.4.3 正切函数的性质与图象](#node=rja-required-1:semantic-08468:question)",
+  "origin": "source"
+}

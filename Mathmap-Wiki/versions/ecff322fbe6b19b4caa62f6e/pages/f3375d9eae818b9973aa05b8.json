@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "K8a442e901e6c89",
+      "markdown": "# 实数指数幂及其运算\n\n## 情境引入与思考\n\n![](#node=Pd2247abac64fcc)\n\n![](#node=P3754182640259f)\n\n## 知识讲解\n\n\n## 定义摘录（来源原文）\n\n一般地，无理数指数幂 $a^{\\alpha}(a > 0, \\alpha$ 为无理数)是一个确定的实数。这样，我们就将指数幂 $a^{x}(a > 0)$ 中指数 $x$ 的取值范围从整数逐步拓展到了实数。实数指数幂是一个确定的实数。\n\n整数指数幂的运算性质也适用于实数指数幂，即对于任意实数 $r$ ， $s$ ，均有下面的运算性质.\n\n$$\na ^ {r} a ^ {s} = a ^ {r + s} (a > 0, r, s \\in \\mathbf {R}); \\tag {1}\n$$\n\n$$\n(2) (a ^ {r}) ^ {s} = a ^ {r s} (a > 0, r, s \\in \\mathbf {R});\n$$\n\n$$\n(3) (a b) ^ {r} = a ^ {r} b ^ {r} (a > 0, b > 0, r \\in \\mathbf {R}).\n$$\n\n\n\n## 先修知识\n\n- [分数指数幂及其运算](#node=K70dfdf3a96b639)\n\n## 后续知识\n\n- [对数的概念](#node=K3f2dd10231e572)\n- [指数函数的概念](#node=K4d90d82022edc0)\n\n## 所属组织\n\n- [4.1.2 无理数指数幂及其运算性质](#node=rja-required-1:semantic-04534:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [4.1 指数](#node=rja-required-1:node-toc-029:question)",
+      "path": "知识点/实数指数幂及其运算--K8a442e901e6c89.md",
+      "sha256": "c214a2237554012225e48690b421fcddd7277ef741f59367c1f39b7f85c92178",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "K8a442e901e6c89",
+  "markdown": "# 实数指数幂及其运算\n\n## 情境引入与思考\n\n![](#node=Pd2247abac64fcc)\n\n![](#node=P3754182640259f)\n\n## 知识讲解\n\n\n## 定义摘录（来源原文）\n\n一般地，无理数指数幂 $a^{\\alpha}(a > 0, \\alpha$ 为无理数)是一个确定的实数。这样，我们就将指数幂 $a^{x}(a > 0)$ 中指数 $x$ 的取值范围从整数逐步拓展到了实数。实数指数幂是一个确定的实数。\n\n整数指数幂的运算性质也适用于实数指数幂，即对于任意实数 $r$ ， $s$ ，均有下面的运算性质.\n\n$$\na ^ {r} a ^ {s} = a ^ {r + s} (a > 0, r, s \\in \\mathbf {R}); \\tag {1}\n$$\n\n$$\n(2) (a ^ {r}) ^ {s} = a ^ {r s} (a > 0, r, s \\in \\mathbf {R});\n$$\n\n$$\n(3) (a b) ^ {r} = a ^ {r} b ^ {r} (a > 0, b > 0, r \\in \\mathbf {R}).\n$$\n\n\n\n## 先修知识\n\n- [分数指数幂及其运算](#node=K70dfdf3a96b639)\n\n## 后续知识\n\n- [对数的概念](#node=K3f2dd10231e572)\n- [指数函数的概念](#node=K4d90d82022edc0)\n\n## 所属组织\n\n- [4.1.2 无理数指数幂及其运算性质](#node=rja-required-1:semantic-04534:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [4.1 指数](#node=rja-required-1:node-toc-029:question)",
+  "origin": "source"
+}

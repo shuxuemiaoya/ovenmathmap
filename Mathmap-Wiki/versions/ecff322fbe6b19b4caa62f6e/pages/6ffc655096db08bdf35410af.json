@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Q7756438251672875150",
+      "markdown": "# 习题1.2 综合运用 第3题\n\n3. 举出下列各集合的一个子集：\n\n(1) $A = \\{x \\mid x \\text{ 是立德中学的学生}\\}$；\n\n(2) $B = \\{x \\mid x \\text{ 是三角形}\\}$；\n\n(3) $C = \\{0\\}$；\n\n(4) $D = \\{x \\in \\mathbf{Z} \\mid 3 < x < 30\\}$.\n\n> [!success]- 答案与解析\n>\n> > [!success] **【答案】** 详见解析（答案不唯一）\n>\n> > [!note]- **【解析】**\n> > (1) $\\{x \\mid x \\text{ 是立德中学高一（1）班的学生}\\}$（或 $\\varnothing$ 等）；\n> > (2) $\\{x \\mid x \\text{ 是等腰三角形}\\}$（或 $\\{x \\mid x \\text{ 是直角三角形}\\}$ 等）；\n> > (3) $\\varnothing$（或 $\\{0\\}$）；\n> > (4) $\\{4, 5, 6\\}$（或 $\\{x \\in \\mathbf{Z} \\mid 4 \\leqslant x \\leqslant 10\\}$ 等）.\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [集合间的基本关系](#node=Kd0130af4317b2e)\n\n## 所属组织\n\n- [习题1.2](#node=rja-required-1:semantic-00565:question)",
+      "path": "习题/Q7756438251672875150.md",
+      "sha256": "df68d201ec622f6b49d30404881fd6d94c6011e524f0e804d9729355ee619d51",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Q7756438251672875150",
+  "markdown": "# 习题1.2 综合运用 第3题\n\n3. 举出下列各集合的一个子集：\n\n(1) $A = \\{x \\mid x \\text{ 是立德中学的学生}\\}$；\n\n(2) $B = \\{x \\mid x \\text{ 是三角形}\\}$；\n\n(3) $C = \\{0\\}$；\n\n(4) $D = \\{x \\in \\mathbf{Z} \\mid 3 < x < 30\\}$.\n\n> [!success]- 答案与解析\n>\n> > [!success] **【答案】** 详见解析（答案不唯一）\n>\n> > [!note]- **【解析】**\n> > (1) $\\{x \\mid x \\text{ 是立德中学高一（1）班的学生}\\}$（或 $\\varnothing$ 等）；\n> > (2) $\\{x \\mid x \\text{ 是等腰三角形}\\}$（或 $\\{x \\mid x \\text{ 是直角三角形}\\}$ 等）；\n> > (3) $\\varnothing$（或 $\\{0\\}$）；\n> > (4) $\\{4, 5, 6\\}$（或 $\\{x \\in \\mathbf{Z} \\mid 4 \\leqslant x \\leqslant 10\\}$ 等）.\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [集合间的基本关系](#node=Kd0130af4317b2e)\n\n## 所属组织\n\n- [习题1.2](#node=rja-required-1:semantic-00565:question)",
+  "origin": "source"
+}

@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Q5517654151461631059",
+      "markdown": "# 习题5.6 综合运用 第7题\n\n7. 如图，一个半径为 $3\\mathrm{m}$ 的筒车按逆时针方向每分转1.5圈，筒车的轴心 $O$ 距离水面的高度为 $2.2\\mathrm{m}$ . 设筒车上的某个盛水筒 $P$ 到水面的距离为 $d$ （单位： $\\mathrm{m}$ ）（在水面下则 $d$ 为负数），若以盛水筒 $P$ 刚浮出水面时开始计算时间，则 $d$ 与时间 $t$ （单位：s）之间的关系为\n\n$$\nd = A \\sin (\\omega t + \\varphi) + K (A > 0, \\omega > 0, - \\frac {\\pi}{2} <   \\varphi <   \\frac {\\pi}{2}).\n$$\n\n(第4题)  \n![](assets/53a08fec11afa8b103d9fc26338a74fd3aca3a6bdf1ef45603c7de21d3e99d3e.jpg)\n\n(1) 求 $A, \\omega, \\varphi, K$ 的值 ( $\\varphi$ 精确到 0.0001);\n\n(2) 盛水筒出水后至少经过多长时间就可到达最高点（精确到 0.01 s)?\n\n(第7题)\n\n## 解析\n\n本来源未提供本题解析。\n\n## 所属组织\n\n- [习题5.6](#node=rja-required-1:semantic-09701:question)",
+      "path": "习题/Q5517654151461631059.md",
+      "sha256": "a93cc38909774480199c9b4988fc229ad541e2b2e2e7117bc5ff339ce26c07b6",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Q5517654151461631059",
+  "markdown": "# 习题5.6 综合运用 第7题\n\n7. 如图，一个半径为 $3\\mathrm{m}$ 的筒车按逆时针方向每分转1.5圈，筒车的轴心 $O$ 距离水面的高度为 $2.2\\mathrm{m}$ . 设筒车上的某个盛水筒 $P$ 到水面的距离为 $d$ （单位： $\\mathrm{m}$ ）（在水面下则 $d$ 为负数），若以盛水筒 $P$ 刚浮出水面时开始计算时间，则 $d$ 与时间 $t$ （单位：s）之间的关系为\n\n$$\nd = A \\sin (\\omega t + \\varphi) + K (A > 0, \\omega > 0, - \\frac {\\pi}{2} <   \\varphi <   \\frac {\\pi}{2}).\n$$\n\n(第4题)  \n![](assets/53a08fec11afa8b103d9fc26338a74fd3aca3a6bdf1ef45603c7de21d3e99d3e.jpg)\n\n(1) 求 $A, \\omega, \\varphi, K$ 的值 ( $\\varphi$ 精确到 0.0001);\n\n(2) 盛水筒出水后至少经过多长时间就可到达最高点（精确到 0.01 s)?\n\n(第7题)\n\n## 解析\n\n本来源未提供本题解析。\n\n## 所属组织\n\n- [习题5.6](#node=rja-required-1:semantic-09701:question)",
+  "origin": "source"
+}

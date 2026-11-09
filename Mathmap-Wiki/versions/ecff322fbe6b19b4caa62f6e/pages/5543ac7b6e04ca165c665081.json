@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A4e2f89cb1b680f",
+      "markdown": "# 例 2 已知 $\\sin \\alpha·解析\n\n对应题目：[例 2 已知 $\\sin \\alpha](../Q824958406693846588.md)\n\n解：由 $\\sin \\alpha = \\frac{4}{5}$ ， $\\alpha \\in \\left(\\frac{\\pi}{2}, \\pi\\right)$ ，得\n\n$$\n\\begin{array}{r l} \\cos \\alpha & = - \\sqrt {1 - \\sin^ {2} \\alpha} \\\\ & = - \\sqrt {1 - \\left(\\frac {4}{5}\\right) ^ {2}} = - \\frac {3}{5}. \\end{array}\n$$\n\n又由 $\\cos \\beta = -\\frac{5}{13}$ ， $\\beta$ 是第三象限角，得\n\n$$\n\\begin{array}{c} \\sin \\beta = - \\sqrt {1 - \\cos^ {2} \\beta} \\\\ = - \\sqrt {1 - \\left(- \\frac {5}{1 3}\\right) ^ {2}} = - \\frac {1 2}{1 3}. \\end{array}\n$$\n\n所以\n\n216 第五章 三角函数\n\n$$\n\\begin{array}{r l} \\cos (\\alpha - \\beta) & = \\cos \\alpha \\cos \\beta + \\sin \\alpha \\sin \\beta \\\\ & = (- \\frac {3}{5}) \\times (- \\frac {5}{1 3}) + \\frac {4}{5} \\times (- \\frac {1 2}{1 3}) \\\\ & = - \\frac {3 3}{6 5}. \\end{array}\n$$\n\n## 所属组织\n\n- [5.5.1 两角和与差的正弦、余弦和正切公式](#node=rja-required-1:semantic-08692:question)",
+      "path": "习题/解析/Q824958406693846588A4e2f89cb1b.md",
+      "sha256": "fa466a98a75d3d1a70e2a5a9f98ada100c31a98e80b13bb6b479ec5a738e4a0d",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A4e2f89cb1b680f",
+  "markdown": "# 例 2 已知 $\\sin \\alpha·解析\n\n对应题目：[例 2 已知 $\\sin \\alpha](../Q824958406693846588.md)\n\n解：由 $\\sin \\alpha = \\frac{4}{5}$ ， $\\alpha \\in \\left(\\frac{\\pi}{2}, \\pi\\right)$ ，得\n\n$$\n\\begin{array}{r l} \\cos \\alpha & = - \\sqrt {1 - \\sin^ {2} \\alpha} \\\\ & = - \\sqrt {1 - \\left(\\frac {4}{5}\\right) ^ {2}} = - \\frac {3}{5}. \\end{array}\n$$\n\n又由 $\\cos \\beta = -\\frac{5}{13}$ ， $\\beta$ 是第三象限角，得\n\n$$\n\\begin{array}{c} \\sin \\beta = - \\sqrt {1 - \\cos^ {2} \\beta} \\\\ = - \\sqrt {1 - \\left(- \\frac {5}{1 3}\\right) ^ {2}} = - \\frac {1 2}{1 3}. \\end{array}\n$$\n\n所以\n\n216 第五章 三角函数\n\n$$\n\\begin{array}{r l} \\cos (\\alpha - \\beta) & = \\cos \\alpha \\cos \\beta + \\sin \\alpha \\sin \\beta \\\\ & = (- \\frac {3}{5}) \\times (- \\frac {5}{1 3}) + \\frac {4}{5} \\times (- \\frac {1 2}{1 3}) \\\\ & = - \\frac {3 3}{6 5}. \\end{array}\n$$\n\n## 所属组织\n\n- [5.5.1 两角和与差的正弦、余弦和正切公式](#node=rja-required-1:semantic-08692:question)",
+  "origin": "source"
+}

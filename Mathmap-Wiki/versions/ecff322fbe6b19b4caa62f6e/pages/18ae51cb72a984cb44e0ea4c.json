@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A1a4da9bcf5f901",
+      "markdown": "# 例 2 已知 x, y 都是正数·解析\n\n对应题目：[例 2 已知 x, y 都是正数](#node=Q5076932589859622874)\n\n证明：因为 $x$ ， $y$ 都是正数，所以\n\n$$\n\\frac {x + y}{2} \\geqslant \\sqrt {x y}.\n$$\n\n(1) 当积 xy 等于定值 P 时，\n\n$$\n\\frac {x + y}{2} \\geqslant \\sqrt {P},\n$$\n\n所以\n\n$$\nx + y \\geqslant 2 \\sqrt {P},\n$$\n\n当且仅当 $x = y$ 时，上式等号成立。于是，当 $x = y$ 时，和 $x + y$ 有最小值 $2\\sqrt{P}$ 。\n\n(2) 当和 $x + y$ 等于定值 S 时，\n\n$$\n\\sqrt {x y} \\leqslant \\frac {S}{2},\n$$\n\n所以\n\n$$\nx y \\leqslant \\frac {1}{4} S ^ {2},\n$$\n\n当且仅当 $x = y$ 时，上式等号成立．于是，当 $x = y$ 时，积 $xy$ 有最大值 $\\frac{1}{4} S^2$\n\n## 所属组织\n\n- [2.2 基本不等式](#node=rja-required-1:node-toc-013:question)",
+      "path": "习题/解析/Q5076932589859622874A1a4da9bcf5.md",
+      "sha256": "f90ca083fee64d2e074facda2efea18592a7889bbd9da884d24b6842e7b3c5e4",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A1a4da9bcf5f901",
+  "markdown": "# 例 2 已知 x, y 都是正数·解析\n\n对应题目：[例 2 已知 x, y 都是正数](#node=Q5076932589859622874)\n\n证明：因为 $x$ ， $y$ 都是正数，所以\n\n$$\n\\frac {x + y}{2} \\geqslant \\sqrt {x y}.\n$$\n\n(1) 当积 xy 等于定值 P 时，\n\n$$\n\\frac {x + y}{2} \\geqslant \\sqrt {P},\n$$\n\n所以\n\n$$\nx + y \\geqslant 2 \\sqrt {P},\n$$\n\n当且仅当 $x = y$ 时，上式等号成立。于是，当 $x = y$ 时，和 $x + y$ 有最小值 $2\\sqrt{P}$ 。\n\n(2) 当和 $x + y$ 等于定值 S 时，\n\n$$\n\\sqrt {x y} \\leqslant \\frac {S}{2},\n$$\n\n所以\n\n$$\nx y \\leqslant \\frac {1}{4} S ^ {2},\n$$\n\n当且仅当 $x = y$ 时，上式等号成立．于是，当 $x = y$ 时，积 $xy$ 有最大值 $\\frac{1}{4} S^2$\n\n## 所属组织\n\n- [2.2 基本不等式](#node=rja-required-1:node-toc-013:question)",
+  "origin": "source"
+}

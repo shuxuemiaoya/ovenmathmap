@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A1ff2a48d8b4e3e",
+      "markdown": "# 例 7 求证： $\\frac{\\cos·解析\n\n对应题目：[例 7 求证： $\\frac{\\cos](../Q14152405781957220578.md)\n\n证法1：由 $\\cos x\\neq 0$ ，知 $\\sin x\\neq -1$ ，所以 $1 + \\sin x\\neq 0$ ，于是\n\n$$\n\\begin{array}{r l} \\text {左边} & = \\frac {\\cos x (1 + \\sin x)}{(1 - \\sin x) (1 + \\sin x)} \\\\ & = \\frac {\\cos x (1 + \\sin x)}{1 - \\sin^ {2} x} \\\\ & = \\frac {\\cos x (1 + \\sin x)}{\\cos^ {2} x} \\\\ & = \\frac {1 + \\sin x}{\\cos x} = \\text {右边}. \\end{array}\n$$\n\n\n今后，除特殊注明外，我们假定三角恒等式是在使两边都有意义的情况下 的恒等式.\n\n所以，原式成立.\n\n证法 2: 因为\n\n$$\n\\begin{array}{r l} & (1 - \\sin x) (1 + \\sin x) \\\\ & = 1 - \\sin^ {2} x = \\cos^ {2} x \\\\ & = \\cos x \\cos x, \\end{array}\n$$\n\n且 $1 - \\sin x \\neq 0$ ， $\\cos x \\neq 0$ ，所以\n\n$$\n\\frac {\\cos x}{1 - \\sin x} = \\frac {1 + \\sin x}{\\cos x}.\n$$\n\n## 所属组织\n\n- [5.2.2 同角三角函数的基本关系](#node=rja-required-1:semantic-07363:question)",
+      "path": "习题/解析/Q14152405781957220578A1ff2a48d8b.md",
+      "sha256": "75daf6b0c854bd6a136562f176c3208a3d2533ae5101717a136ac5dbff858186",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A1ff2a48d8b4e3e",
+  "markdown": "# 例 7 求证： $\\frac{\\cos·解析\n\n对应题目：[例 7 求证： $\\frac{\\cos](../Q14152405781957220578.md)\n\n证法1：由 $\\cos x\\neq 0$ ，知 $\\sin x\\neq -1$ ，所以 $1 + \\sin x\\neq 0$ ，于是\n\n$$\n\\begin{array}{r l} \\text {左边} & = \\frac {\\cos x (1 + \\sin x)}{(1 - \\sin x) (1 + \\sin x)} \\\\ & = \\frac {\\cos x (1 + \\sin x)}{1 - \\sin^ {2} x} \\\\ & = \\frac {\\cos x (1 + \\sin x)}{\\cos^ {2} x} \\\\ & = \\frac {1 + \\sin x}{\\cos x} = \\text {右边}. \\end{array}\n$$\n\n\n今后，除特殊注明外，我们假定三角恒等式是在使两边都有意义的情况下 的恒等式.\n\n所以，原式成立.\n\n证法 2: 因为\n\n$$\n\\begin{array}{r l} & (1 - \\sin x) (1 + \\sin x) \\\\ & = 1 - \\sin^ {2} x = \\cos^ {2} x \\\\ & = \\cos x \\cos x, \\end{array}\n$$\n\n且 $1 - \\sin x \\neq 0$ ， $\\cos x \\neq 0$ ，所以\n\n$$\n\\frac {\\cos x}{1 - \\sin x} = \\frac {1 + \\sin x}{\\cos x}.\n$$\n\n## 所属组织\n\n- [5.2.2 同角三角函数的基本关系](#node=rja-required-1:semantic-07363:question)",
+  "origin": "source"
+}

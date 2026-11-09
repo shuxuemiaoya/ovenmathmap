@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Aeb510342ab7489",
+      "markdown": "# 判断两个函数是否相同·解析\n\n对应题目：[判断两个函数是否相同](#node=Q15825451014893808244)\n\n解：（1） $y=(\\sqrt{x})^{2}=x(x\\in\\{x|x\\geqslant0\\})$ ，它与函数 $y=x(x\\in\\mathbf{R})$ 虽然对应关系相同，但是定义域不相同，所以这个函数与函数 $y=x(x\\in\\mathbf{R})$ 不是同一个函数.\n\n\n也可以利用信息技术画出例3中四个函数的图象，根据图象进行判断.\n\n(2) $u = \\sqrt[3]{v^3} = v(v \\in \\mathbf{R})$ ，它与函数 $y = x (x \\in \\mathbf{R})$ 不仅对应关系相同，而且定义域也相同，所以这个函数与函数 $y = x (x \\in \\mathbf{R})$ 是同一个函数.\n\n(3) $y = \\sqrt{x^2} = |x| = \\begin{cases} -x, & x < 0, \\\\ x, & x \\geqslant 0, \\end{cases}$ 它与函数 $y = x (x \\in \\mathbf{R})$ 的定义域都是实数集 $\\mathbf{R}$ ，但是当 $x < 0$ 时，它的对应关系与函数 $y = x (x \\in \\mathbf{R})$ 不相同。所以这个函数与函数 $y = x (x \\in \\mathbf{R})$ 不是同一个函数。\n\n(4) $m = \\frac{n^2}{n} = n (n \\in \\{n \\mid n \\neq 0\\})$ ，它与函数 $y = x (x \\in \\mathbf{R})$ 的对应关系相同但定义域不相同。所以这个函数与函数 $y = x (x \\in \\mathbf{R})$ 不是同一个函数。\n\n\n\n## 所属组织\n\n- [3.1.1 函数的概念](#node=rja-required-1:semantic-02746:question)",
+      "path": "习题/解析/Q15825451014893808244Aeb510342ab.md",
+      "sha256": "41c47b6ae0c945b558601ea8942bf62b2fae43638825579e76c1194c70e752dd",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Aeb510342ab7489",
+  "markdown": "# 判断两个函数是否相同·解析\n\n对应题目：[判断两个函数是否相同](#node=Q15825451014893808244)\n\n解：（1） $y=(\\sqrt{x})^{2}=x(x\\in\\{x|x\\geqslant0\\})$ ，它与函数 $y=x(x\\in\\mathbf{R})$ 虽然对应关系相同，但是定义域不相同，所以这个函数与函数 $y=x(x\\in\\mathbf{R})$ 不是同一个函数.\n\n\n也可以利用信息技术画出例3中四个函数的图象，根据图象进行判断.\n\n(2) $u = \\sqrt[3]{v^3} = v(v \\in \\mathbf{R})$ ，它与函数 $y = x (x \\in \\mathbf{R})$ 不仅对应关系相同，而且定义域也相同，所以这个函数与函数 $y = x (x \\in \\mathbf{R})$ 是同一个函数.\n\n(3) $y = \\sqrt{x^2} = |x| = \\begin{cases} -x, & x < 0, \\\\ x, & x \\geqslant 0, \\end{cases}$ 它与函数 $y = x (x \\in \\mathbf{R})$ 的定义域都是实数集 $\\mathbf{R}$ ，但是当 $x < 0$ 时，它的对应关系与函数 $y = x (x \\in \\mathbf{R})$ 不相同。所以这个函数与函数 $y = x (x \\in \\mathbf{R})$ 不是同一个函数。\n\n(4) $m = \\frac{n^2}{n} = n (n \\in \\{n \\mid n \\neq 0\\})$ ，它与函数 $y = x (x \\in \\mathbf{R})$ 的对应关系相同但定义域不相同。所以这个函数与函数 $y = x (x \\in \\mathbf{R})$ 不是同一个函数。\n\n\n\n## 所属组织\n\n- [3.1.1 函数的概念](#node=rja-required-1:semantic-02746:question)",
+  "origin": "source"
+}

@@ -1,0 +1,249 @@
+{
+  "nodes": [
+    {
+      "id": "a042db87b237ffc9",
+      "type": "group",
+      "label": "4.3 对数",
+      "x": 0,
+      "y": 0,
+      "width": 2868,
+      "height": 524
+    },
+    {
+      "id": "2d44093cc9655c72",
+      "type": "text",
+      "text": "[✦ 情景引入 · 4.3 对数 节引言](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/0016-S.md)",
+      "x": 56,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "c02695aaf43e5fa1",
+      "type": "group",
+      "label": "4.3.1 对数的概念",
+      "x": 496,
+      "y": 76,
+      "width": 392,
+      "height": 392
+    },
+    {
+      "id": "65dc15cae241ab45",
+      "type": "text",
+      "text": "[练习入口 · 4.3.1 对数的概念](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.3%20%E5%AF%B9%E6%95%B0/4.3.1%20%E5%AF%B9%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)\n\n共 3 题",
+      "x": 552,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "6bddfa1fa083e6d9",
+      "type": "text",
+      "text": "[✦ 对数的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--000053.md)",
+      "x": 552,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "800f441b276acdaf",
+      "type": "group",
+      "label": "4.3.2 对数的运算",
+      "x": 1048,
+      "y": 76,
+      "width": 1232,
+      "height": 392
+    },
+    {
+      "id": "b78e31e181d30eda",
+      "type": "text",
+      "text": "[练习入口 · 4.3.2 对数的运算](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.3%20%E5%AF%B9%E6%95%B0/4.3.2%20%E5%AF%B9%E6%95%B0%E7%9A%84%E8%BF%90%E7%AE%97.md)\n\n共 3 题",
+      "x": 1104,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "1efac3c1b6bea2fa",
+      "type": "text",
+      "text": "[✦ 情景引入 · 4.3.2 对数的运算 节引言](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/0017-S.md)",
+      "x": 1104,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "4dd7a60fc93c3e34",
+      "type": "text",
+      "text": "[✦ 对数的运算性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E6%95%B0%E7%9A%84%E8%BF%90%E7%AE%97%E6%80%A7%E8%B4%A8--000054.md)",
+      "x": 1524,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "671dc9d852ce72a5",
+      "type": "text",
+      "text": "[✦ 对数的换底公式](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E6%95%B0%E7%9A%84%E6%8D%A2%E5%BA%95%E5%85%AC%E5%BC%8F--000055.md)",
+      "x": 1944,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "a258f5940496c864",
+      "type": "group",
+      "label": "习题4.3",
+      "x": 2440,
+      "y": 264,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "85cdbd00c527c34e",
+      "type": "text",
+      "text": "[练习入口 · 习题4.3](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.3%20%E5%AF%B9%E6%95%B0/%E4%B9%A0%E9%A2%984.3.md)\n\n共 10 题",
+      "x": 2496,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "febf6eaac0ab9614",
+      "type": "text",
+      "text": "# [4.3 对数](../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/4.3%20%E5%AF%B9%E6%95%B0/4.3%20%E5%AF%B9%E6%95%B0.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "1dd57ecc2e9794da",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0-3702e5.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "e6fa83c57ace63e1",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "47e208d9cbbc6bd5",
+      "fromNode": "6bddfa1fa083e6d9",
+      "toNode": "4dd7a60fc93c3e34",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e5eecfe92efa4b70",
+      "fromNode": "4dd7a60fc93c3e34",
+      "toNode": "671dc9d852ce72a5",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1e23ca5bb856378d",
+      "fromNode": "1efac3c1b6bea2fa",
+      "toNode": "4dd7a60fc93c3e34",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3bf22e19913fb388",
+      "fromNode": "4dd7a60fc93c3e34",
+      "toNode": "671dc9d852ce72a5",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "441e4f12d9245a33",
+      "fromNode": "2d44093cc9655c72",
+      "toNode": "6bddfa1fa083e6d9",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "962712e5cc5d1d9f",
+      "fromNode": "6bddfa1fa083e6d9",
+      "toNode": "4dd7a60fc93c3e34",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fa4220876572d882",
+      "fromNode": "6bddfa1fa083e6d9",
+      "toNode": "65dc15cae241ab45",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 3题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0c5e4089066af593",
+      "fromNode": "4dd7a60fc93c3e34",
+      "toNode": "b78e31e181d30eda",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 3题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d74f4ecdc72c1af8",
+      "fromNode": "671dc9d852ce72a5",
+      "toNode": "85cdbd00c527c34e",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 10题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

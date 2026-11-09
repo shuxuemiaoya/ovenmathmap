@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A09a7061c16ef96",
+      "markdown": "# 利用不等式性质证明不等式·解析\n\n对应题目：[利用不等式性质证明不等式](#node=Q13399895219672787007)\n\n分析：要证明 $\\frac{c}{a} >\\frac{c}{b}$ ，因为 $c < 0$ ，所以可以先证明 $\\frac{1}{a} < \\frac{1}{b}$ .利用已知 $a > b > 0$ 和性质4，即可证明 $\\frac{1}{a} < \\frac{1}{b}$\n\n证明：因为 $a > b > 0$ ，所以 $ab > 0$ ， $\\frac{1}{ab} >0.$\n\n于是\n\n$$\na \\cdot \\frac {1}{a b} > b \\cdot \\frac {1}{a b},\n$$\n\n即\n\n$$\n\\frac {1}{b} > \\frac {1}{a}.\n$$\n\n由 $c < 0$ ，得 $\\frac{c}{a} >\\frac{c}{b}$\n\n## 所属组织\n\n- [2.1 等式性质与不等式性质](#node=rja-required-1:node-toc-012:question)",
+      "path": "习题/解析/Q13399895219672787007A09a7061c16.md",
+      "sha256": "c9bec13b68ae31f6484657a5078fac0800ee132b5d57a1f6a12e50f36781472d",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A09a7061c16ef96",
+  "markdown": "# 利用不等式性质证明不等式·解析\n\n对应题目：[利用不等式性质证明不等式](#node=Q13399895219672787007)\n\n分析：要证明 $\\frac{c}{a} >\\frac{c}{b}$ ，因为 $c < 0$ ，所以可以先证明 $\\frac{1}{a} < \\frac{1}{b}$ .利用已知 $a > b > 0$ 和性质4，即可证明 $\\frac{1}{a} < \\frac{1}{b}$\n\n证明：因为 $a > b > 0$ ，所以 $ab > 0$ ， $\\frac{1}{ab} >0.$\n\n于是\n\n$$\na \\cdot \\frac {1}{a b} > b \\cdot \\frac {1}{a b},\n$$\n\n即\n\n$$\n\\frac {1}{b} > \\frac {1}{a}.\n$$\n\n由 $c < 0$ ，得 $\\frac{c}{a} >\\frac{c}{b}$\n\n## 所属组织\n\n- [2.1 等式性质与不等式性质](#node=rja-required-1:node-toc-012:question)",
+  "origin": "source"
+}

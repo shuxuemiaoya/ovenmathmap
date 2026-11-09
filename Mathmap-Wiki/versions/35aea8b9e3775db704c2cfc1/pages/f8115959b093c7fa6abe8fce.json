@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A2aed5410b86fdb",
+      "markdown": "# 例 5 将 3.14 rad 换算成角·解析\n\n对应题目：[例 5 将 3.14 rad 换算成角](#node=Q1750674033522778633)\n\n解：利用计算器有\n\n![](assets/8117bdf76aadeb4577d3afc9a1ee359699ae02247b902ca2833514dc8d399544.jpg)\n\n![](assets/b93d84714d19d51df9100fa7b4223daf678efc95ae54cd57156ac180f3124002.jpg)\n\n因此，3.14 rad≈179.909°.\n\n今后用弧度制表示角时，“弧度”二字或“rad”通常略去不写，而只写该角所对应的弧度数。例如，角 $\\alpha = 2$ 就表示 $\\alpha$ 是 $2\\mathrm{rad}$ 的角； $\\sin \\frac{\\pi}{3}$ 就表示 $\\frac{\\pi}{3}$ rad的角的正弦，即 $\\sin \\frac{\\pi}{3} = \\sin 60^{\\circ} = \\frac{\\sqrt{3}}{2}$ 。\n\n填写下列特殊角的度数与弧度数的对应表：\n\n<table><tr><td>度</td><td> $0^{\\circ}$ </td><td> $30^{\\circ}$ </td><td> $45^{\\circ}$ </td><td></td><td></td><td> $120^{\\circ}$ </td><td> $135^{\\circ}$ </td><td> $150^{\\circ}$ </td><td></td><td></td><td> $360^{\\circ}$ </td></tr><tr><td>弧度</td><td></td><td></td><td></td><td> $\\frac{\\pi}{3}$ </td><td> $\\frac{\\pi}{2}$ </td><td></td><td></td><td></td><td> $\\pi$ </td><td> $\\frac{3\\pi}{2}$ </td><td></td></tr></table>\n\n角的概念推广后，在弧度制下，角的集合与实数集 R 之间建立起一一对应的关系：每一个角都有唯一的一个实数（等于这个角的弧度数）与它对应；反过来，每一个实数也都有唯一的一个角（即弧度数等于这个实数的角）与它对应（图 5.1-12）.\n\n![](assets/8fdb9cf0e0e724f5aacf5305f356b23a5c28448aabb8938b669dea1aa2369397.jpg)  \n图5.1-12\n\n## 所属组织\n\n- [5.1.2 弧度制](#node=rja-required-1:semantic-06842:question)",
+      "path": "习题/解析/Q1750674033522778633A2aed5410b8.md",
+      "sha256": "ea71805a9fed8d99179abb8d6981c74b6f5b0d8895194c57eec93da064e1db3b",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A2aed5410b86fdb",
+  "markdown": "# 例 5 将 3.14 rad 换算成角·解析\n\n对应题目：[例 5 将 3.14 rad 换算成角](#node=Q1750674033522778633)\n\n解：利用计算器有\n\n![](assets/8117bdf76aadeb4577d3afc9a1ee359699ae02247b902ca2833514dc8d399544.jpg)\n\n![](assets/b93d84714d19d51df9100fa7b4223daf678efc95ae54cd57156ac180f3124002.jpg)\n\n因此，3.14 rad≈179.909°.\n\n今后用弧度制表示角时，“弧度”二字或“rad”通常略去不写，而只写该角所对应的弧度数。例如，角 $\\alpha = 2$ 就表示 $\\alpha$ 是 $2\\mathrm{rad}$ 的角； $\\sin \\frac{\\pi}{3}$ 就表示 $\\frac{\\pi}{3}$ rad的角的正弦，即 $\\sin \\frac{\\pi}{3} = \\sin 60^{\\circ} = \\frac{\\sqrt{3}}{2}$ 。\n\n填写下列特殊角的度数与弧度数的对应表：\n\n<table><tr><td>度</td><td> $0^{\\circ}$ </td><td> $30^{\\circ}$ </td><td> $45^{\\circ}$ </td><td></td><td></td><td> $120^{\\circ}$ </td><td> $135^{\\circ}$ </td><td> $150^{\\circ}$ </td><td></td><td></td><td> $360^{\\circ}$ </td></tr><tr><td>弧度</td><td></td><td></td><td></td><td> $\\frac{\\pi}{3}$ </td><td> $\\frac{\\pi}{2}$ </td><td></td><td></td><td></td><td> $\\pi$ </td><td> $\\frac{3\\pi}{2}$ </td><td></td></tr></table>\n\n角的概念推广后，在弧度制下，角的集合与实数集 R 之间建立起一一对应的关系：每一个角都有唯一的一个实数（等于这个角的弧度数）与它对应；反过来，每一个实数也都有唯一的一个角（即弧度数等于这个实数的角）与它对应（图 5.1-12）.\n\n![](assets/8fdb9cf0e0e724f5aacf5305f356b23a5c28448aabb8938b669dea1aa2369397.jpg)  \n图5.1-12\n\n## 所属组织\n\n- [5.1.2 弧度制](#node=rja-required-1:semantic-06842:question)",
+  "origin": "source"
+}

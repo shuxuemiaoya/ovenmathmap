@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Af50ace1b7e6485",
+      "markdown": "# 例 4 不通过求值·解析\n\n对应题目：[例 4 不通过求值](#node=Q7928825636334935355)\n\n分析：可利用三角函数的单调性比较两个同名三角函数值的大小．为此，先用诱导公式将已知角化为同一单调区间内的角，然后再比较大小.\n\n解：（1）因为\n\n$$\n- \\frac {\\pi}{2} <   - \\frac {\\pi}{1 0} <   - \\frac {\\pi}{1 8} <   0,\n$$\n\n正弦函数 $y = \\sin x$ 在区间 $\\left[-\\frac{\\pi}{2}, 0\\right]$ 上单调递增，所以\n\n$$\n\\sin \\left(- \\frac {\\pi}{1 8}\\right) > \\sin \\left(- \\frac {\\pi}{1 0}\\right).\n$$\n\n(2) $\\cos \\left(-\\frac{23\\pi}{5}\\right) = \\cos \\frac{23\\pi}{5} = \\cos \\frac{3\\pi}{5},$\n\n$$\n\\cos \\left(- \\frac {1 7 \\pi}{4}\\right) = \\cos \\frac {1 7 \\pi}{4} = \\cos \\frac {\\pi}{4}.\n$$\n\n因为 $0 < \\frac{\\pi}{4} < \\frac{3\\pi}{5} < \\pi$ ，且函数 $y = \\cos x$ 在区间 $[0, \\pi]$ 上单调递减，所以\n\n$$\n\\cos \\frac {\\pi}{4} > \\cos \\frac {3 \\pi}{5},\n$$\n\n即\n\n$$\n\\cos \\left(- \\frac {1 7 \\pi}{4}\\right) > \\cos \\left(- \\frac {2 3 \\pi}{5}\\right).\n$$\n\n你能借助单位圆直观地比较上述两对函数值的大小吗？试一试.\n\n## 所属组织\n\n- [探究与发现 函数 y = A sin(ωx + φ) 及 函数 y = A cos(ωx + φ) 的周期](#node=rja-required-1:node-toc-049:question)",
+      "path": "习题/解析/Q7928825636334935355Af50ace1b7e.md",
+      "sha256": "14b1f833555aa474127dbecfd547a9945e8e01e495e5f45f894b000a8e25062c",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Af50ace1b7e6485",
+  "markdown": "# 例 4 不通过求值·解析\n\n对应题目：[例 4 不通过求值](#node=Q7928825636334935355)\n\n分析：可利用三角函数的单调性比较两个同名三角函数值的大小．为此，先用诱导公式将已知角化为同一单调区间内的角，然后再比较大小.\n\n解：（1）因为\n\n$$\n- \\frac {\\pi}{2} <   - \\frac {\\pi}{1 0} <   - \\frac {\\pi}{1 8} <   0,\n$$\n\n正弦函数 $y = \\sin x$ 在区间 $\\left[-\\frac{\\pi}{2}, 0\\right]$ 上单调递增，所以\n\n$$\n\\sin \\left(- \\frac {\\pi}{1 8}\\right) > \\sin \\left(- \\frac {\\pi}{1 0}\\right).\n$$\n\n(2) $\\cos \\left(-\\frac{23\\pi}{5}\\right) = \\cos \\frac{23\\pi}{5} = \\cos \\frac{3\\pi}{5},$\n\n$$\n\\cos \\left(- \\frac {1 7 \\pi}{4}\\right) = \\cos \\frac {1 7 \\pi}{4} = \\cos \\frac {\\pi}{4}.\n$$\n\n因为 $0 < \\frac{\\pi}{4} < \\frac{3\\pi}{5} < \\pi$ ，且函数 $y = \\cos x$ 在区间 $[0, \\pi]$ 上单调递减，所以\n\n$$\n\\cos \\frac {\\pi}{4} > \\cos \\frac {3 \\pi}{5},\n$$\n\n即\n\n$$\n\\cos \\left(- \\frac {1 7 \\pi}{4}\\right) > \\cos \\left(- \\frac {2 3 \\pi}{5}\\right).\n$$\n\n你能借助单位圆直观地比较上述两对函数值的大小吗？试一试.\n\n## 所属组织\n\n- [探究与发现 函数 y = A sin(ωx + φ) 及 函数 y = A cos(ωx + φ) 的周期](#node=rja-required-1:node-toc-049:question)",
+  "origin": "source"
+}

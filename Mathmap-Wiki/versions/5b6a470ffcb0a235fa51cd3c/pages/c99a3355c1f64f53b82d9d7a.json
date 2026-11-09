@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Q8602209848019335840",
+      "markdown": "# 习题4.5 拓广探索 第14题\n\n14. 从甲地到乙地的距离约为 $240 \\mathrm{~km}$ ，经多次实验得到一辆汽车每小时耗油量 $Q$ （单位：L）与速度 $v$ （单位： $\\mathrm{km/h}$ ）（ $0 \\leqslant v \\leqslant 120$ ）的下列数据：\n\n<table><tr><td>v</td><td>0</td><td>40</td><td>60</td><td>80</td><td>120</td></tr><tr><td>Q</td><td>0.000</td><td>6.667</td><td>8.125</td><td>10.000</td><td>20.000</td></tr></table>\n\n为了描述汽车每小时耗油量与速度的关系，现有以下三种模型供选择：\n\n$$\nQ = a v ^ {3} + b v ^ {2} + c v, Q = 0. 5 ^ {v} + a, Q = k \\log_ {a} v + b.\n$$\n\n（1）选出你认为最符合实际的函数模型，并写出相应的函数解析式；\n\n（2）从甲地到乙地，这辆车应以什么速度行驶才能使总耗油量最少？\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [中外历史上的方程求解](#node=K4adb3952e89c47)\n\n## 所属组织\n\n- [习题4.5](#node=rja-required-1:semantic-06230:question)",
+      "path": "习题/Q8602209848019335840.md",
+      "sha256": "e73057f6341ec4c3d797703f6b0418230957bd1977bf00fcdd0610a6307f4c4a",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Q8602209848019335840",
+  "markdown": "# 习题4.5 拓广探索 第14题\n\n14. 从甲地到乙地的距离约为 $240 \\mathrm{~km}$ ，经多次实验得到一辆汽车每小时耗油量 $Q$ （单位：L）与速度 $v$ （单位： $\\mathrm{km/h}$ ）（ $0 \\leqslant v \\leqslant 120$ ）的下列数据：\n\n<table><tr><td>v</td><td>0</td><td>40</td><td>60</td><td>80</td><td>120</td></tr><tr><td>Q</td><td>0.000</td><td>6.667</td><td>8.125</td><td>10.000</td><td>20.000</td></tr></table>\n\n为了描述汽车每小时耗油量与速度的关系，现有以下三种模型供选择：\n\n$$\nQ = a v ^ {3} + b v ^ {2} + c v, Q = 0. 5 ^ {v} + a, Q = k \\log_ {a} v + b.\n$$\n\n（1）选出你认为最符合实际的函数模型，并写出相应的函数解析式；\n\n（2）从甲地到乙地，这辆车应以什么速度行驶才能使总耗油量最少？\n\n## 解析\n\n本来源未提供本题解析。\n\n## 本节相关知识（范围关联）\n\n- [中外历史上的方程求解](#node=K4adb3952e89c47)\n\n## 所属组织\n\n- [习题4.5](#node=rja-required-1:semantic-06230:question)",
+  "origin": "source"
+}

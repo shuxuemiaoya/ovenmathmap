@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "Ab236c2280440f0",
+      "markdown": "# 已知角关系求正弦值·解析\n\n对应题目：[已知角关系求正弦值](#node=Q12894023454630194552)\n\n分析：联系条件与结论，注意到 $(53^{\\circ} - \\alpha) + (37^{\\circ} + \\alpha) = 90^{\\circ}$ ，由此可利用诱导公式解决问题.\n\n解：因为 $(53^{\\circ} - \\alpha) + (37^{\\circ} + \\alpha) = 90^{\\circ}$ ，所以由诱导公式五，得\n\n因为\n\n$$\n\\begin{array}{r l} \\sin (3 7 ^ {\\circ} + \\alpha) & = \\sin [ 9 0 ^ {\\circ} - (5 3 ^ {\\circ} - \\alpha) ] \\\\ & = \\cos (5 3 ^ {\\circ} - \\alpha) \\\\ & - 2 7 0 ^ {\\circ} <   \\alpha <   - 9 0 ^ {\\circ}, \\\\ & 1 4 3 ^ {\\circ} <   5 3 ^ {\\circ} - \\alpha <   3 2 3 ^ {\\circ}. \\end{array}\n$$\n\n所以\n\n由 $\\sin (53^{\\circ} - \\alpha) = \\frac{1}{5} >0$ ，得 $143^{\\circ} <   53^{\\circ} - \\alpha <  180^{\\circ}.$\n\n所以\n\n$$\n\\cos (5 3 ^ {\\circ} - \\alpha) = - \\sqrt {1 - \\sin^ {2} (5 3 ^ {\\circ} - \\alpha)} = - \\sqrt {1 - \\left(\\frac {1}{5}\\right) ^ {2}} = - \\frac {2 \\sqrt {6}}{5},\n$$\n\n所以\n\n$$\n\\sin (3 7 ^ {\\circ} + \\alpha) = - \\frac {2 \\sqrt {6}}{5}.\n$$\n\n## 所属组织\n\n- [5.3 诱导公式](#node=rja-required-1:node-toc-047:question)",
+      "path": "习题/解析/Q12894023454630194552Ab236c22804.md",
+      "sha256": "06a57bc2f2eb44af230dc121d4c01b4c887523f96f7ae4564f424ff2750124ec",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "Ab236c2280440f0",
+  "markdown": "# 已知角关系求正弦值·解析\n\n对应题目：[已知角关系求正弦值](#node=Q12894023454630194552)\n\n分析：联系条件与结论，注意到 $(53^{\\circ} - \\alpha) + (37^{\\circ} + \\alpha) = 90^{\\circ}$ ，由此可利用诱导公式解决问题.\n\n解：因为 $(53^{\\circ} - \\alpha) + (37^{\\circ} + \\alpha) = 90^{\\circ}$ ，所以由诱导公式五，得\n\n因为\n\n$$\n\\begin{array}{r l} \\sin (3 7 ^ {\\circ} + \\alpha) & = \\sin [ 9 0 ^ {\\circ} - (5 3 ^ {\\circ} - \\alpha) ] \\\\ & = \\cos (5 3 ^ {\\circ} - \\alpha) \\\\ & - 2 7 0 ^ {\\circ} <   \\alpha <   - 9 0 ^ {\\circ}, \\\\ & 1 4 3 ^ {\\circ} <   5 3 ^ {\\circ} - \\alpha <   3 2 3 ^ {\\circ}. \\end{array}\n$$\n\n所以\n\n由 $\\sin (53^{\\circ} - \\alpha) = \\frac{1}{5} >0$ ，得 $143^{\\circ} <   53^{\\circ} - \\alpha <  180^{\\circ}.$\n\n所以\n\n$$\n\\cos (5 3 ^ {\\circ} - \\alpha) = - \\sqrt {1 - \\sin^ {2} (5 3 ^ {\\circ} - \\alpha)} = - \\sqrt {1 - \\left(\\frac {1}{5}\\right) ^ {2}} = - \\frac {2 \\sqrt {6}}{5},\n$$\n\n所以\n\n$$\n\\sin (3 7 ^ {\\circ} + \\alpha) = - \\frac {2 \\sqrt {6}}{5}.\n$$\n\n## 所属组织\n\n- [5.3 诱导公式](#node=rja-required-1:node-toc-047:question)",
+  "origin": "source"
+}

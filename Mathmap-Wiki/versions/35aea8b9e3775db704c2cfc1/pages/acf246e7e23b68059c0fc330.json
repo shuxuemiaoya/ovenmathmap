@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "K69b12f8e0394d7",
+      "markdown": "# 奇函数\n\n## 情境引入与思考\n\n![](#node=P0c7ab2f40541a7)\n\n![](#node=Pe49b0b9df42df8)\n\n![](#node=Pd4352cdb608431)\n\n## 知识讲解\n\n\n## 定义摘录（来源原文）\n\n一般地，设函数 $f(x)$ 的定义域为 $D$ ，如果 $\\forall x \\in D$ ，都有 $-x \\in D$ ，且 $f(-x) = -f(x)$ ，那么函数 $f(x)$ 就叫做奇函数（odd function）.\n\n## 先修知识\n\n- [函数的概念](#node=K174f83285ccb40)\n\n## 本节例题与练习\n\n- [例 6 判断下列函数的奇偶性：](#node=Q5138965216710179745)\n- [练习 1](#node=Q14986168852517976010)\n- [练习 2](#node=Q9066940141919143626)\n\n## 所属组织\n\n- [3.2.2 奇偶性](#node=rja-required-1:semantic-03603:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [3.2.2 奇偶性](#node=rja-required-1:semantic-03603:question)",
+      "path": "知识点/奇函数--K69b12f8e0394d7.md",
+      "sha256": "6c445a8584e596e2ac2ef9cd8f3841e2d1c2f876f652deb8e14160b61a8c3e1b",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "K69b12f8e0394d7",
+  "markdown": "# 奇函数\n\n## 情境引入与思考\n\n![](#node=P0c7ab2f40541a7)\n\n![](#node=Pe49b0b9df42df8)\n\n![](#node=Pd4352cdb608431)\n\n## 知识讲解\n\n\n## 定义摘录（来源原文）\n\n一般地，设函数 $f(x)$ 的定义域为 $D$ ，如果 $\\forall x \\in D$ ，都有 $-x \\in D$ ，且 $f(-x) = -f(x)$ ，那么函数 $f(x)$ 就叫做奇函数（odd function）.\n\n## 先修知识\n\n- [函数的概念](#node=K174f83285ccb40)\n\n## 本节例题与练习\n\n- [例 6 判断下列函数的奇偶性：](#node=Q5138965216710179745)\n- [练习 1](#node=Q14986168852517976010)\n- [练习 2](#node=Q9066940141919143626)\n\n## 所属组织\n\n- [3.2.2 奇偶性](#node=rja-required-1:semantic-03603:knowledge)\n\n## 相关练习组织（范围关联）\n\n- [3.2.2 奇偶性](#node=rja-required-1:semantic-03603:question)",
+  "origin": "source"
+}

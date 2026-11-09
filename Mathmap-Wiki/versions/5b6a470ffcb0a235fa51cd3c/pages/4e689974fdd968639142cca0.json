@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "P2bc3b43fc1282b",
+      "markdown": "# 4.3.2 对数的运算·探究\n\n探究\n\n（1）利用计算工具求 $\\ln 2$ ， $\\ln 3$ 的近似值；\n\n（2）根据对数的定义，你能利用 $\\ln 2, \\ln 3$ 的值求 $\\log_23$ 的值吗？\n\n（3）根据对数的定义，你能用 $\\log_c a$ ， $\\log_c b$ 表示 $\\log_a b (a > 0$ ，且 $a \\neq 1; b > 0; c > 0$ ，且 $c \\neq 1$ ）吗？\n\n设 $\\log_a b = x$ ，则 $a^x = b$ ，于是\n\n$$\n\\log_ {c} a ^ {x} = \\log_ {c} b.\n$$\n\n根据性质（3）得 $x\\log_c a = \\log_c b$ ，即\n\n$$\n\\log_ {a} b = \\frac {\\log_ {c} b}{\\log_ {c} a} (a > 0, \\text {且} a \\neq 1; b > 0; c > 0, \\text {且} c \\neq 1).\n$$\n\n我们把上式叫做对数换底公式.\n\n在4.2.1的问题1中，求经过多少年B地景区的游客人次是2001年的2倍，就是计算 $x = \\log_{1.11}2$ 的值．由换底公式，可得\n\n$$\nx = \\log_ {1. 1 1} 2 = \\frac {\\lg 2}{\\lg 1 . 1 1}.\n$$\n\n利用计算工具，可得\n\n$$\nx = \\frac {\\lg 2}{\\lg 1 . 1 1} \\approx 6. 6 4 \\approx 7.\n$$\n\n由此可得，大约经过 7 年，B 地景区的游客人次就达到 2001 年的 2 倍. 类似地，可以求出游客人次是 2001 年的 3 倍，4 倍，…所需要的年数.\n\n## 引出的知识\n\n- [对数换底公式](#node=K83e4d6c51d8768)\n\n## 本节相关知识（范围关联）\n\n- [对数换底公式](#node=K83e4d6c51d8768)\n- [对数的运算性质](#node=Ka2250a0fce1c75)\n\n## 所属组织\n\n- [4.3.2 对数的运算](#node=rja-required-1:semantic-05149:problem)",
+      "path": "问题袋/4.3.2 对数的运算·探究--P2bc3b43fc1282b.md",
+      "sha256": "f9c5367d8472348b9da5890c2d6c0ca14df6248c623a3a832b6990efa37083c1",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "P2bc3b43fc1282b",
+  "markdown": "# 4.3.2 对数的运算·探究\n\n探究\n\n（1）利用计算工具求 $\\ln 2$ ， $\\ln 3$ 的近似值；\n\n（2）根据对数的定义，你能利用 $\\ln 2, \\ln 3$ 的值求 $\\log_23$ 的值吗？\n\n（3）根据对数的定义，你能用 $\\log_c a$ ， $\\log_c b$ 表示 $\\log_a b (a > 0$ ，且 $a \\neq 1; b > 0; c > 0$ ，且 $c \\neq 1$ ）吗？\n\n设 $\\log_a b = x$ ，则 $a^x = b$ ，于是\n\n$$\n\\log_ {c} a ^ {x} = \\log_ {c} b.\n$$\n\n根据性质（3）得 $x\\log_c a = \\log_c b$ ，即\n\n$$\n\\log_ {a} b = \\frac {\\log_ {c} b}{\\log_ {c} a} (a > 0, \\text {且} a \\neq 1; b > 0; c > 0, \\text {且} c \\neq 1).\n$$\n\n我们把上式叫做对数换底公式.\n\n在4.2.1的问题1中，求经过多少年B地景区的游客人次是2001年的2倍，就是计算 $x = \\log_{1.11}2$ 的值．由换底公式，可得\n\n$$\nx = \\log_ {1. 1 1} 2 = \\frac {\\lg 2}{\\lg 1 . 1 1}.\n$$\n\n利用计算工具，可得\n\n$$\nx = \\frac {\\lg 2}{\\lg 1 . 1 1} \\approx 6. 6 4 \\approx 7.\n$$\n\n由此可得，大约经过 7 年，B 地景区的游客人次就达到 2001 年的 2 倍. 类似地，可以求出游客人次是 2001 年的 3 倍，4 倍，…所需要的年数.\n\n## 引出的知识\n\n- [对数换底公式](#node=K83e4d6c51d8768)\n\n## 本节相关知识（范围关联）\n\n- [对数换底公式](#node=K83e4d6c51d8768)\n- [对数的运算性质](#node=Ka2250a0fce1c75)\n\n## 所属组织\n\n- [4.3.2 对数的运算](#node=rja-required-1:semantic-05149:problem)",
+  "origin": "source"
+}

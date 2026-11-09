@@ -1,0 +1,17 @@
+{
+  "contributions": [
+    {
+      "atom_id": "A081d5d49327a73",
+      "markdown": "# 例 1 利用公式求下列三角函数值：·解析\n\n对应题目：[例 1 利用公式求下列三角函数值：](#node=Q17493712647995972441)\n\n解：(1) $\\cos 225^{\\circ} = \\cos (180^{\\circ} + 45^{\\circ})$ $= -\\cos 45^{\\circ} = -\\frac{\\sqrt{2}}{2};$\n\n$$\n\\begin{array}{r l} (2) \\sin \\frac {8 \\pi}{3} & = \\sin \\left(2 \\pi + \\frac {2 \\pi}{3}\\right) \\\\ & = \\sin \\frac {2 \\pi}{3} = \\sin \\left(\\pi - \\frac {\\pi}{3}\\right) \\\\ & = \\sin \\frac {\\pi}{3} = \\frac {\\sqrt {3}}{2}; \\end{array}\n$$\n\n![](assets/134725c918bfb7a9942d6fcddf8fdc1fcd2a9e37a3bd03fcd7a0c3ba614ffe72.jpg)  \n图5.3-3\n\n![](assets/02bb3d66838d7a523f156761905d7dd30ec4a7eee821ba5827c8c8001fe3b9c1.jpg)  \n图5.3-4\n\n● ●\n\n请你类比公式二，证明公式三和公式四.\n\n$$\n\\begin{array}{r l} (3) \\sin \\left(- \\frac {1 6 \\pi}{3}\\right) & = - \\sin \\frac {1 6 \\pi}{3} \\\\ & = - \\sin \\left(5 \\pi + \\frac {\\pi}{3}\\right) \\\\ & = - \\left(- \\sin \\frac {\\pi}{3}\\right) = \\frac {\\sqrt {3}}{2}; \\end{array}\n$$\n\n$$\n\\begin{array}{r l} (4) \\tan (- 2 0 4 0 ^ {\\circ}) & = - \\tan 2 0 4 0 ^ {\\circ} \\\\ & = - \\tan (6 \\times 3 6 0 ^ {\\circ} - 1 2 0 ^ {\\circ}) \\\\ & = \\tan 1 2 0 ^ {\\circ} = \\tan (1 8 0 ^ {\\circ} - 6 0 ^ {\\circ}) \\\\ & = - \\tan 6 0 ^ {\\circ} = - \\sqrt {3}. \\end{array}\n$$\n\n## 所属组织\n\n- [5.3 诱导公式](#node=rja-required-1:node-toc-047:question)",
+      "path": "习题/解析/Q17493712647995972441A081d5d4932.md",
+      "sha256": "16045629b3ba88d5dbbd809bcfd8c8a11c8ef2ff7182fd731fac883a2d141d3a",
+      "source_ids": [
+        "rja-required-1"
+      ]
+    }
+  ],
+  "history": [],
+  "id": "A081d5d49327a73",
+  "markdown": "# 例 1 利用公式求下列三角函数值：·解析\n\n对应题目：[例 1 利用公式求下列三角函数值：](#node=Q17493712647995972441)\n\n解：(1) $\\cos 225^{\\circ} = \\cos (180^{\\circ} + 45^{\\circ})$ $= -\\cos 45^{\\circ} = -\\frac{\\sqrt{2}}{2};$\n\n$$\n\\begin{array}{r l} (2) \\sin \\frac {8 \\pi}{3} & = \\sin \\left(2 \\pi + \\frac {2 \\pi}{3}\\right) \\\\ & = \\sin \\frac {2 \\pi}{3} = \\sin \\left(\\pi - \\frac {\\pi}{3}\\right) \\\\ & = \\sin \\frac {\\pi}{3} = \\frac {\\sqrt {3}}{2}; \\end{array}\n$$\n\n![](assets/134725c918bfb7a9942d6fcddf8fdc1fcd2a9e37a3bd03fcd7a0c3ba614ffe72.jpg)  \n图5.3-3\n\n![](assets/02bb3d66838d7a523f156761905d7dd30ec4a7eee821ba5827c8c8001fe3b9c1.jpg)  \n图5.3-4\n\n● ●\n\n请你类比公式二，证明公式三和公式四.\n\n$$\n\\begin{array}{r l} (3) \\sin \\left(- \\frac {1 6 \\pi}{3}\\right) & = - \\sin \\frac {1 6 \\pi}{3} \\\\ & = - \\sin \\left(5 \\pi + \\frac {\\pi}{3}\\right) \\\\ & = - \\left(- \\sin \\frac {\\pi}{3}\\right) = \\frac {\\sqrt {3}}{2}; \\end{array}\n$$\n\n$$\n\\begin{array}{r l} (4) \\tan (- 2 0 4 0 ^ {\\circ}) & = - \\tan 2 0 4 0 ^ {\\circ} \\\\ & = - \\tan (6 \\times 3 6 0 ^ {\\circ} - 1 2 0 ^ {\\circ}) \\\\ & = \\tan 1 2 0 ^ {\\circ} = \\tan (1 8 0 ^ {\\circ} - 6 0 ^ {\\circ}) \\\\ & = - \\tan 6 0 ^ {\\circ} = - \\sqrt {3}. \\end{array}\n$$\n\n## 所属组织\n\n- [5.3 诱导公式](#node=rja-required-1:node-toc-047:question)",
+  "origin": "source"
+}
