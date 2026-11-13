@@ -5,7 +5,7 @@ view: "question"
 system_id: "rja-required-1"
 source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
-source_file: "组织层/普通高中教科书 数学 必修 第一册/普通高中教科书 数学 必修 第一册.md"
+source_file: "组织层/普通高中教科书 数学 必修 第一册.md"
 source_organizer_key: "book-root"
 parent_source_key: null
 source_children: ["atom-ceee7162e4455dbb", "node-toc-001", "node-toc-011", "node-toc-017", "node-toc-028", "node-toc-042", "node-toc-043"]

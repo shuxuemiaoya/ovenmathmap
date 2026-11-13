@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "manifest": "/Users/oven/Documents/ovenmathmap/.temp/book-wiki-graph-staging/【人教版】高中必修 第一册数学电子课本/book-graph.json",
-  "manifest_sha256": "1204295bf050a1240d63be417874e92a6e3b05655cdf813c71a36d7fe356a953",
+  "manifest_sha256": "a3312455ac5cf15c1afda7819eb523b7d15ab26c3d7917ce33ed5c803c25ae5f",
   "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本/【人教版】高中必修 第一册数学电子课本",
   "relation_status": "passed",
   "layout": {
@@ -78,13 +78,13 @@
       "status": "ready",
       "path": "chapters/01-第一章-集合与常用逻辑用语-75a20e.canvas",
       "counts": {
-        "cards": 44,
+        "cards": 48,
         "groups": 18,
-        "edges": 50,
-        "internal_atoms": 31,
-        "source_atoms": 112,
+        "edges": 57,
+        "internal_atoms": 35,
+        "source_atoms": 116,
         "knowledge_atoms": 21,
-        "scenario_atoms": 9,
+        "scenario_atoms": 13,
         "featured_examples": 1,
         "exercise_atoms_summarized": 63,
         "exercise_atoms_collapsed": 0,
@@ -93,7 +93,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 0,
         "concept_hubs": 0,
-        "atom_relation_edges": 30,
+        "atom_relation_edges": 37,
         "concept_relation_edges": 20,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -105,15 +105,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 14616,
+        "width": 15856,
         "height": 1040,
-        "aspect_ratio": 14.0538
+        "aspect_ratio": 15.2462
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
-        "edge_length_median": 502,
+        "edge_length_median": 552,
         "edge_length_p90": 1083,
-        "edge_length_max": 1509,
+        "edge_length_max": 1499,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -134,11 +134,12 @@
           "node_id": "0c089fe1014bec8e",
           "parent_id": "87ad805e9f5e5d9b",
           "member_ids": [
+            "595110529dd0fd19",
+            "83dc6e1a15cded34",
             "af8e289c14bf2235",
             "b5f9e076a306f3e9",
             "baae0d944549fe4d",
             "c47d18f8ea28247e",
-            "d6b1c34a10717c44",
             "f5a3c2d67d8b6d6b"
           ]
         },
@@ -148,9 +149,9 @@
           "parent_id": "87ad805e9f5e5d9b",
           "member_ids": [
             "2b1701e8672cb19b",
+            "2ddaab195661910e",
+            "69de5b563aff6d52",
             "6cf7f9817914c4cd",
-            "8e8e10677e9b6461",
-            "a133b790f2a4cefb",
             "f46e29583a1bc64f"
           ]
         },
@@ -159,8 +160,9 @@
           "node_id": "b4491d37b79c056b",
           "parent_id": "86ea37c0dfe5c875",
           "member_ids": [
+            "15c4164d578d21ba",
             "57c4f1c47e0c1d2a",
-            "f31e974e3c885a16"
+            "9321b72bf945128e"
           ]
         },
         {
@@ -168,9 +170,10 @@
           "node_id": "66ec74f3dc8bf97f",
           "parent_id": "86ea37c0dfe5c875",
           "member_ids": [
+            "018fddb20b168a4a",
             "07d79eaa919b0910",
-            "afb11201f5a74cf2",
-            "b88f36c3c6abc94a"
+            "73af068fba89dcf9",
+            "afb11201f5a74cf2"
           ]
         },
         {
@@ -186,14 +189,16 @@
           "node_id": "86ea37c0dfe5c875",
           "parent_id": "87ad805e9f5e5d9b",
           "member_ids": [
+            "018fddb20b168a4a",
             "07d79eaa919b0910",
+            "15c4164d578d21ba",
             "4fb0102da84b3208",
             "57c4f1c47e0c1d2a",
             "6376411780e22792",
+            "73af068fba89dcf9",
+            "9321b72bf945128e",
             "afb11201f5a74cf2",
-            "b88f36c3c6abc94a",
-            "d44c923d44568417",
-            "f31e974e3c885a16"
+            "d44c923d44568417"
           ]
         },
         {
@@ -210,9 +215,10 @@
           "node_id": "0b0de4157c9dc6cf",
           "parent_id": "ff27f811061db630",
           "member_ids": [
+            "3663f5bef04361e7",
             "59deaf04a7a3a3e0",
-            "7debefc90dcadd41",
-            "ce7340f3b8cb8025"
+            "ce7340f3b8cb8025",
+            "f399329b1b094a4b"
           ]
         },
         {
@@ -229,13 +235,14 @@
           "node_id": "ff27f811061db630",
           "parent_id": "87ad805e9f5e5d9b",
           "member_ids": [
+            "3663f5bef04361e7",
             "59deaf04a7a3a3e0",
             "70d42ad65247014c",
             "76cce221f4d054e3",
-            "7debefc90dcadd41",
             "7e279156a6532fe8",
             "ce7340f3b8cb8025",
-            "d5bd5c4d33127ec5"
+            "d5bd5c4d33127ec5",
+            "f399329b1b094a4b"
           ]
         },
         {
@@ -300,31 +307,36 @@
           "node_id": "87ad805e9f5e5d9b",
           "parent_id": null,
           "member_ids": [
+            "018fddb20b168a4a",
             "07d79eaa919b0910",
             "0eb3d7c3e7582684",
+            "15c4164d578d21ba",
             "251bb60dfccbdb1a",
             "2b1701e8672cb19b",
+            "2ddaab195661910e",
             "31e0641c9efe1962",
+            "3663f5bef04361e7",
             "4fb0102da84b3208",
             "57c4f1c47e0c1d2a",
             "587ada2a9e48174f",
+            "595110529dd0fd19",
             "59deaf04a7a3a3e0",
             "6376411780e22792",
             "6860c06be8c1da53",
+            "69de5b563aff6d52",
             "6cf7f9817914c4cd",
             "6e62763235907f49",
             "70d42ad65247014c",
+            "73af068fba89dcf9",
             "76cce221f4d054e3",
             "7c1e764deff987fc",
-            "7debefc90dcadd41",
             "7e279156a6532fe8",
-            "8e8e10677e9b6461",
+            "83dc6e1a15cded34",
+            "9321b72bf945128e",
             "9855926ba5fc38da",
-            "a133b790f2a4cefb",
             "af8e289c14bf2235",
             "afb11201f5a74cf2",
             "b5f9e076a306f3e9",
-            "b88f36c3c6abc94a",
             "baae0d944549fe4d",
             "c1afb1d0ffb8484a",
             "c3e0e5a375ded2b3",
@@ -334,9 +346,8 @@
             "d44c923d44568417",
             "d5790abd6a2b4446",
             "d5bd5c4d33127ec5",
-            "d6b1c34a10717c44",
             "e56ab7c6930c793e",
-            "f31e974e3c885a16",
+            "f399329b1b094a4b",
             "f46e29583a1bc64f",
             "f5a3c2d67d8b6d6b",
             "f5bd15911251d729",
@@ -345,10 +356,10 @@
         }
       ],
       "png_path": "chapters/01-第一章-集合与常用逻辑用语-75a20e.png",
-      "png_sha256": "a3e61c3d8fa5590248fd5be5c47b0aace86a65f7d8ad04a16fb524b6c7bcd20a",
+      "png_sha256": "edad16ccf72eab76152e1a4cb9b5ea282091d5b04dbff87032cbb828b575eb0f",
       "png_dimensions": [
         2400,
-        195
+        180
       ]
     },
     {
@@ -357,13 +368,13 @@
       "status": "ready",
       "path": "chapters/02-第二章-一元二次函数、方程和不等式-9775d4.canvas",
       "counts": {
-        "cards": 20,
+        "cards": 21,
         "groups": 8,
-        "edges": 17,
-        "internal_atoms": 11,
-        "source_atoms": 76,
+        "edges": 19,
+        "internal_atoms": 12,
+        "source_atoms": 77,
         "knowledge_atoms": 8,
-        "scenario_atoms": 2,
+        "scenario_atoms": 3,
         "featured_examples": 1,
         "exercise_atoms_summarized": 55,
         "exercise_atoms_collapsed": 0,
@@ -372,7 +383,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 0,
         "concept_hubs": 0,
-        "atom_relation_edges": 10,
+        "atom_relation_edges": 12,
         "concept_relation_edges": 7,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -384,9 +395,9 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 6396,
+        "width": 6816,
         "height": 792,
-        "aspect_ratio": 8.0758
+        "aspect_ratio": 8.6061
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
@@ -402,8 +413,9 @@
           "node_id": "13e7c848d46e52d6",
           "parent_id": "68764399e5f0f6c5",
           "member_ids": [
-            "735afd127d1abb39",
-            "a0a1cd76b45c0323"
+            "8f3aca44a4d9da9c",
+            "a0a1cd76b45c0323",
+            "a9df176fcabbae45"
           ]
         },
         {
@@ -422,8 +434,9 @@
           "member_ids": [
             "13b4515eedfa6232",
             "5156ae6fdd643584",
-            "735afd127d1abb39",
+            "8f3aca44a4d9da9c",
             "a0a1cd76b45c0323",
+            "a9df176fcabbae45",
             "e039e873605e575f"
           ]
         },
@@ -476,9 +489,10 @@
             "31f59bbd45da488f",
             "5156ae6fdd643584",
             "61c0efd286d8b9d1",
-            "735afd127d1abb39",
+            "8f3aca44a4d9da9c",
             "a0a1cd76b45c0323",
             "a0f348a0d5b098b1",
+            "a9df176fcabbae45",
             "af8cf1c13772af60",
             "d3273936e8130823",
             "dbf532350733e006",
@@ -491,10 +505,10 @@
         }
       ],
       "png_path": "chapters/02-第二章-一元二次函数、方程和不等式-9775d4.png",
-      "png_sha256": "25f420462aace3f4369b9e18af175931ce58d70151df360904c9527687fd9bed",
+      "png_sha256": "c646b821281852e4905692c11fcc2e1fa4dd3c1e76dc888cc3e65a62e5e375f6",
       "png_dimensions": [
         2400,
-        349
+        328
       ]
     },
     {
@@ -503,13 +517,13 @@
       "status": "ready",
       "path": "chapters/03-第三章-函数的概念与性质-8c58a6.canvas",
       "counts": {
-        "cards": 43,
+        "cards": 45,
         "groups": 17,
-        "edges": 43,
-        "internal_atoms": 29,
-        "source_atoms": 122,
+        "edges": 47,
+        "internal_atoms": 31,
+        "source_atoms": 124,
         "knowledge_atoms": 16,
-        "scenario_atoms": 10,
+        "scenario_atoms": 12,
         "featured_examples": 3,
         "exercise_atoms_summarized": 80,
         "exercise_atoms_collapsed": 0,
@@ -518,7 +532,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 0,
         "concept_hubs": 0,
-        "atom_relation_edges": 27,
+        "atom_relation_edges": 31,
         "concept_relation_edges": 15,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -530,14 +544,14 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 13144,
-        "height": 908,
-        "aspect_ratio": 14.4758
+        "width": 11772,
+        "height": 1278,
+        "aspect_ratio": 9.2113
       },
       "visual_quality": {
-        "straight_crossing_estimate": 3,
+        "straight_crossing_estimate": 1,
         "edge_length_median": 572,
-        "edge_length_p90": 1083,
+        "edge_length_p90": 1105,
         "edge_length_max": 1220,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
@@ -603,7 +617,8 @@
           "parent_id": "d0d74041204674df",
           "member_ids": [
             "3efce4b8fff759ef",
-            "f91fdba220ba6086"
+            "bce640a48326da83",
+            "cd35521f2335e7df"
           ]
         },
         {
@@ -621,7 +636,8 @@
           "member_ids": [
             "3efce4b8fff759ef",
             "6f47280578ff3dbc",
-            "f91fdba220ba6086"
+            "bce640a48326da83",
+            "cd35521f2335e7df"
           ]
         },
         {
@@ -644,9 +660,10 @@
             "3efce4b8fff759ef",
             "6f47280578ff3dbc",
             "a51be35adad24bbe",
+            "bce640a48326da83",
             "bd20bcd71346b38b",
-            "e4944391a0105488",
-            "f91fdba220ba6086"
+            "cd35521f2335e7df",
+            "e4944391a0105488"
           ]
         },
         {
@@ -663,8 +680,9 @@
           "node_id": "45f0b654cad31196",
           "parent_id": "dc63773ff31927f4",
           "member_ids": [
-            "13f467d40b46369e",
+            "00cd7543568ea4dd",
             "15074f1eab2fad2c",
+            "e180ea9f2e7b00f2",
             "fedc65b29f654454"
           ]
         },
@@ -718,9 +736,9 @@
           "node_id": "dc63773ff31927f4",
           "parent_id": null,
           "member_ids": [
+            "00cd7543568ea4dd",
             "09d8e89f22cc40dc",
             "0c3d3b9e31fd36a0",
-            "13f467d40b46369e",
             "14b3a5deecf93bf2",
             "15074f1eab2fad2c",
             "18a68e565e6f0010",
@@ -747,25 +765,27 @@
             "a51be35adad24bbe",
             "ab21db4b243efc15",
             "b9fbe67a5434183a",
+            "bce640a48326da83",
             "bd20bcd71346b38b",
             "cac669a8ef10eeef",
+            "cd35521f2335e7df",
             "d6ff0e436b89fbef",
             "d81dcdf15ce0fd60",
             "e11ef0d80252d330",
+            "e180ea9f2e7b00f2",
             "e3122741ef2ef119",
             "e4944391a0105488",
             "f813a96b5f8ca701",
-            "f91fdba220ba6086",
             "fb49e45aefabb9c7",
             "fedc65b29f654454"
           ]
         }
       ],
       "png_path": "chapters/03-第三章-函数的概念与性质-8c58a6.png",
-      "png_sha256": "969740f7e4a3c42774fdb4bd2f0581764e51187f6fe9bc9c149ee06e4c134e07",
+      "png_sha256": "9373d8ce04b4067c1d022fa2239188f2080d15ef5c573c847ed62706b8af35e7",
       "png_dimensions": [
         2400,
-        193
+        290
       ]
     },
     {
@@ -1694,13 +1714,13 @@
       "status": "ready",
       "path": "sections/01-02-1.1-集合的概念-f18845.canvas",
       "counts": {
-        "cards": 10,
+        "cards": 11,
         "groups": 3,
-        "edges": 8,
-        "internal_atoms": 5,
-        "source_atoms": 15,
+        "edges": 9,
+        "internal_atoms": 6,
+        "source_atoms": 16,
         "knowledge_atoms": 3,
-        "scenario_atoms": 2,
+        "scenario_atoms": 3,
         "featured_examples": 0,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 8,
@@ -1709,7 +1729,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 2,
         "concept_hubs": 0,
-        "atom_relation_edges": 4,
+        "atom_relation_edges": 5,
         "concept_relation_edges": 2,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -1721,9 +1741,9 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 2124,
+        "width": 2544,
         "height": 886,
-        "aspect_ratio": 2.3973
+        "aspect_ratio": 2.8713
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
@@ -1758,21 +1778,22 @@
           "node_id": "1c0e58a8a06940cf",
           "parent_id": null,
           "member_ids": [
+            "595110529dd0fd19",
+            "83dc6e1a15cded34",
             "9ed9b6867cc80a8e",
             "af8e289c14bf2235",
             "b5f9e076a306f3e9",
             "c47d18f8ea28247e",
             "d0c0fb68c79a2185",
-            "d6b1c34a10717c44",
             "f5a3c2d67d8b6d6b"
           ]
         }
       ],
       "png_path": "sections/01-02-1.1-集合的概念-f18845.png",
-      "png_sha256": "7c79a1bc53bcea327880190e71e67cb2fc3de543a82d3c42691d0a5cbafb7e32",
+      "png_sha256": "23916ad4faef4af98885931703f912713ccf097c19c54074c8d8595a89fe3763",
       "png_dimensions": [
         2400,
-        1100
+        929
       ]
     },
     {
@@ -1835,10 +1856,10 @@
           "node_id": "a83dc1363f225c7c",
           "parent_id": null,
           "member_ids": [
+            "2ddaab195661910e",
             "37d637fd4623f8a3",
+            "69de5b563aff6d52",
             "6cf7f9817914c4cd",
-            "8e8e10677e9b6461",
-            "a133b790f2a4cefb",
             "daa298b50c1d80a3",
             "f46e29583a1bc64f"
           ]
@@ -1858,13 +1879,13 @@
       "status": "ready",
       "path": "sections/01-04-1.3-集合的基本运算-43a38d.canvas",
       "counts": {
-        "cards": 13,
+        "cards": 15,
         "groups": 5,
-        "edges": 11,
-        "internal_atoms": 7,
-        "source_atoms": 25,
+        "edges": 14,
+        "internal_atoms": 9,
+        "source_atoms": 27,
         "knowledge_atoms": 3,
-        "scenario_atoms": 3,
+        "scenario_atoms": 5,
         "featured_examples": 1,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 13,
@@ -1873,7 +1894,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 3,
         "concept_hubs": 0,
-        "atom_relation_edges": 6,
+        "atom_relation_edges": 9,
         "concept_relation_edges": 2,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -1885,15 +1906,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 3420,
-        "height": 704,
-        "aspect_ratio": 4.858
+        "width": 3820,
+        "height": 760,
+        "aspect_ratio": 5.0263
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
-        "edge_length_median": 502,
+        "edge_length_median": 468,
         "edge_length_p90": 972,
-        "edge_length_max": 972,
+        "edge_length_max": 1392,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -1903,8 +1924,9 @@
           "node_id": "620d19801359d99b",
           "parent_id": "5b1b68c2905f5882",
           "member_ids": [
+            "15c4164d578d21ba",
             "57c4f1c47e0c1d2a",
-            "f31e974e3c885a16"
+            "9321b72bf945128e"
           ]
         },
         {
@@ -1912,10 +1934,11 @@
           "node_id": "4319505badd428a0",
           "parent_id": "5b1b68c2905f5882",
           "member_ids": [
+            "018fddb20b168a4a",
             "07d79eaa919b0910",
             "0bd1ed13ddb50d0e",
-            "afb11201f5a74cf2",
-            "b88f36c3c6abc94a"
+            "73af068fba89dcf9",
+            "afb11201f5a74cf2"
           ]
         },
         {
@@ -1940,24 +1963,26 @@
           "node_id": "5b1b68c2905f5882",
           "parent_id": null,
           "member_ids": [
+            "018fddb20b168a4a",
             "067b934cd1029e9f",
             "07d79eaa919b0910",
             "0bd1ed13ddb50d0e",
+            "15c4164d578d21ba",
             "57c4f1c47e0c1d2a",
             "6376411780e22792",
+            "73af068fba89dcf9",
+            "9321b72bf945128e",
             "afb11201f5a74cf2",
-            "b88f36c3c6abc94a",
             "d15536315c87e286",
-            "d44c923d44568417",
-            "f31e974e3c885a16"
+            "d44c923d44568417"
           ]
         }
       ],
       "png_path": "sections/01-04-1.3-集合的基本运算-43a38d.png",
-      "png_sha256": "2bfc3c78f2f3b9f97c4463d743999054b441562130c9f15d98c0e1580828bf8b",
+      "png_sha256": "9bb80957a8bac7f60ea6f225ad14c13c25c3ebcb19b1fac426c060b06449ca50",
       "png_dimensions": [
         2400,
-        580
+        555
       ]
     },
     {
@@ -2031,13 +2056,13 @@
       "status": "ready",
       "path": "sections/01-06-1.4-充分条件与必要条件-91847a.canvas",
       "counts": {
-        "cards": 12,
+        "cards": 13,
         "groups": 4,
-        "edges": 12,
-        "internal_atoms": 6,
-        "source_atoms": 22,
+        "edges": 13,
+        "internal_atoms": 7,
+        "source_atoms": 23,
         "knowledge_atoms": 5,
-        "scenario_atoms": 1,
+        "scenario_atoms": 2,
         "featured_examples": 0,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 12,
@@ -2046,7 +2071,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 3,
         "concept_hubs": 0,
-        "atom_relation_edges": 5,
+        "atom_relation_edges": 6,
         "concept_relation_edges": 4,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -2058,15 +2083,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 3288,
+        "width": 3708,
         "height": 704,
-        "aspect_ratio": 4.6705
+        "aspect_ratio": 5.267
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
         "edge_length_median": 420,
         "edge_length_p90": 552,
-        "edge_length_max": 573,
+        "edge_length_max": 919,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -2076,10 +2101,11 @@
           "node_id": "8ab9da108737e1b3",
           "parent_id": "4d0dab08fbf4a606",
           "member_ids": [
+            "3663f5bef04361e7",
             "59deaf04a7a3a3e0",
-            "7debefc90dcadd41",
             "ce7340f3b8cb8025",
-            "edc0de8b95cf905d"
+            "edc0de8b95cf905d",
+            "f399329b1b094a4b"
           ]
         },
         {
@@ -2106,22 +2132,23 @@
           "parent_id": null,
           "member_ids": [
             "059e1606eb74250e",
+            "3663f5bef04361e7",
             "59deaf04a7a3a3e0",
             "70d42ad65247014c",
-            "7debefc90dcadd41",
             "7e279156a6532fe8",
             "a35a22d2cd183b14",
             "ce7340f3b8cb8025",
             "d5bd5c4d33127ec5",
-            "edc0de8b95cf905d"
+            "edc0de8b95cf905d",
+            "f399329b1b094a4b"
           ]
         }
       ],
       "png_path": "sections/01-06-1.4-充分条件与必要条件-91847a.png",
-      "png_sha256": "5358d4863303bb664d8e0cccdc4e7e6e92d688236cbc122ef9d104fc067c43f7",
+      "png_sha256": "39ed3bb139b04a917e51f202ea3976d25236815185b102d4b8cec67393af57ff",
       "png_dimensions": [
         2400,
-        602
+        537
       ]
     },
     {
@@ -2484,13 +2511,13 @@
       "status": "ready",
       "path": "sections/02-02-2.1-等式性质与不等式性质-bb4664.canvas",
       "counts": {
-        "cards": 10,
+        "cards": 11,
         "groups": 4,
-        "edges": 9,
-        "internal_atoms": 4,
-        "source_atoms": 23,
+        "edges": 11,
+        "internal_atoms": 5,
+        "source_atoms": 24,
         "knowledge_atoms": 4,
-        "scenario_atoms": 0,
+        "scenario_atoms": 1,
         "featured_examples": 0,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 17,
@@ -2499,7 +2526,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 3,
         "concept_hubs": 0,
-        "atom_relation_edges": 3,
+        "atom_relation_edges": 5,
         "concept_relation_edges": 3,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -2511,15 +2538,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 2428,
+        "width": 2848,
         "height": 704,
-        "aspect_ratio": 3.4489
+        "aspect_ratio": 4.0455
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
         "edge_length_median": 420,
-        "edge_length_p90": 552,
-        "edge_length_max": 573,
+        "edge_length_p90": 840,
+        "edge_length_max": 840,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -2529,8 +2556,9 @@
           "node_id": "d7a3a6beeecef7b0",
           "parent_id": "712ee5dcfd6e1dd3",
           "member_ids": [
-            "735afd127d1abb39",
+            "8f3aca44a4d9da9c",
             "a0a1cd76b45c0323",
+            "a9df176fcabbae45",
             "ea187a1bc6e51305"
           ]
         },
@@ -2560,18 +2588,19 @@
             "184c9821043ba41d",
             "3e5b6ad6398fafd4",
             "5156ae6fdd643584",
-            "735afd127d1abb39",
+            "8f3aca44a4d9da9c",
             "a0a1cd76b45c0323",
+            "a9df176fcabbae45",
             "e039e873605e575f",
             "ea187a1bc6e51305"
           ]
         }
       ],
       "png_path": "sections/02-02-2.1-等式性质与不等式性质-bb4664.png",
-      "png_sha256": "b08efda3d8c5dfe3f2525544ead32d50e8c8e51158815101f4224ea3fde7d96b",
+      "png_sha256": "ffcc74d4f83f2e1a3f5ae535618f7acbd779e203d353e5fddc251e43ac51ceee",
       "png_dimensions": [
         2400,
-        802
+        690
       ]
     },
     {
@@ -3097,13 +3126,13 @@
       "status": "ready",
       "path": "sections/03-04-3.2-函数的基本性质-001606.canvas",
       "counts": {
-        "cards": 14,
+        "cards": 15,
         "groups": 6,
-        "edges": 13,
-        "internal_atoms": 7,
-        "source_atoms": 36,
+        "edges": 14,
+        "internal_atoms": 8,
+        "source_atoms": 37,
         "knowledge_atoms": 4,
-        "scenario_atoms": 3,
+        "scenario_atoms": 4,
         "featured_examples": 0,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 23,
@@ -3112,7 +3141,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 4,
         "concept_hubs": 0,
-        "atom_relation_edges": 6,
+        "atom_relation_edges": 7,
         "concept_relation_edges": 3,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -3124,15 +3153,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 3952,
+        "width": 4372,
         "height": 836,
-        "aspect_ratio": 4.7273
+        "aspect_ratio": 5.2297
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
         "edge_length_median": 420,
         "edge_length_p90": 972,
-        "edge_length_max": 980,
+        "edge_length_max": 984,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -3143,8 +3172,9 @@
           "parent_id": "0e052b8c96805114",
           "member_ids": [
             "3efce4b8fff759ef",
-            "e76fe60a1e5b6c3d",
-            "f91fdba220ba6086"
+            "bce640a48326da83",
+            "cd35521f2335e7df",
+            "e76fe60a1e5b6c3d"
           ]
         },
         {
@@ -3164,8 +3194,9 @@
             "3214fd90bb53e346",
             "3efce4b8fff759ef",
             "6f47280578ff3dbc",
-            "e76fe60a1e5b6c3d",
-            "f91fdba220ba6086"
+            "bce640a48326da83",
+            "cd35521f2335e7df",
+            "e76fe60a1e5b6c3d"
           ]
         },
         {
@@ -3199,18 +3230,19 @@
             "4464be52de2704b0",
             "6f47280578ff3dbc",
             "a51be35adad24bbe",
+            "bce640a48326da83",
             "bd20bcd71346b38b",
+            "cd35521f2335e7df",
             "e4944391a0105488",
-            "e76fe60a1e5b6c3d",
-            "f91fdba220ba6086"
+            "e76fe60a1e5b6c3d"
           ]
         }
       ],
       "png_path": "sections/03-04-3.2-函数的基本性质-001606.png",
-      "png_sha256": "0a74a1dfcbaeaf126f934cf97b3c9a99eb050c5f0bc956270284e0e6aa2cb41e",
+      "png_sha256": "388be2b873bc501031908b81696294176d0ed6ef6164e71b48b42822132be914",
       "png_dimensions": [
         2400,
-        582
+        528
       ]
     },
     {
@@ -3284,13 +3316,13 @@
       "status": "ready",
       "path": "sections/03-06-3.3-幂函数-3f5957.canvas",
       "counts": {
-        "cards": 7,
+        "cards": 8,
         "groups": 2,
-        "edges": 4,
-        "internal_atoms": 2,
-        "source_atoms": 8,
+        "edges": 5,
+        "internal_atoms": 3,
+        "source_atoms": 9,
         "knowledge_atoms": 2,
-        "scenario_atoms": 0,
+        "scenario_atoms": 1,
         "featured_examples": 0,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 6,
@@ -3299,7 +3331,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 2,
         "concept_hubs": 0,
-        "atom_relation_edges": 1,
+        "atom_relation_edges": 2,
         "concept_relation_edges": 1,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -3311,15 +3343,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 1220,
+        "width": 1344,
         "height": 754,
-        "aspect_ratio": 1.618
+        "aspect_ratio": 1.7825
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
-        "edge_length_median": 318,
+        "edge_length_median": 420,
         "edge_length_p90": 420,
-        "edge_length_max": 420,
+        "edge_length_max": 468,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -3337,18 +3369,19 @@
           "node_id": "602b1f8e19b86a70",
           "parent_id": null,
           "member_ids": [
-            "13f467d40b46369e",
+            "00cd7543568ea4dd",
             "15074f1eab2fad2c",
             "cdf1765757bd2b53",
+            "e180ea9f2e7b00f2",
             "ee85b77575bab8c9"
           ]
         }
       ],
       "png_path": "sections/03-06-3.3-幂函数-3f5957.png",
-      "png_sha256": "63611f7db61e1cde11b7199fdf373c2000d5151550a7bcfe6c4c0fe9de36bd5f",
+      "png_sha256": "0b76a05dc940481db4dd74c82432b4fdb989f6f8988413a46f5f0379c0685362",
       "png_dimensions": [
         2400,
-        1590
+        1459
       ]
     },
     {

@@ -22,9 +22,9 @@ difficulty: "reference"
 importance: "reference"
 learning_objectives:
   - "查阅：子集与Venn图"
-derived_from: "atom-003b7f8d92311213"
+derived_from: "atom-ab7bb50f956ea911"
 derived_kind: "concept"
-defined_in_file: "原子层/知识点/子集与Venn图--000004.md"
+defined_in_file: "原子层/知识点/子集与Venn图--000104.md"
 defined_in_title: "子集与Venn图"
 concept_name: "子集与Venn图"
 concept_key: "concept-bdedc86fb1a16214"
@@ -41,8 +41,8 @@ related_concepts:
   - "描述法"
   - "集合相等与真子集"
 applied_in_atoms:
+  - "1.2 集合间的基本关系·引例与观察"
   - "子集与Venn图"
-  - "1.2 集合间的基本关系 节引言"
 ---
 
 一般地，对于两个集合 A，B，如果集合 A 中任意一个元素都是集合 B 中的元素，就称集合 A 为集合 B 的子集 (subset)，记作

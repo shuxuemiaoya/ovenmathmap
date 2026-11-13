@@ -1,0 +1,63 @@
+{
+  "applied": false,
+  "changes": [
+    {
+      "destination": "Mathmap/公式总结/人教A-必修第一册/第一章 集合与常用逻辑用语/1.2 集合间的基本关系/1.2 集合间的基本关系.md",
+      "sha256": "b4696518a4ff0f5e289d6e56ef58ce3560efb16b75902654a3b28440a34533d2"
+    },
+    {
+      "destination": "Mathmap/公式总结/人教A-必修第一册/第五章 三角函数/5.5 三角恒等变换/5.5.1 两角和与差的正弦、余弦和正切公式/两角差的余弦公式.md",
+      "sha256": "3bfb0b2e873d9fab214579bb6e4884adbb0864ce208bb5dc60dbec03732144a6"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/sources/rja-required-1.json",
+      "sha256": "dd5021346ad83bf8e354f16ee80b3ca6a5c4acf2123abe136148df084e31a844"
+    }
+  ],
+  "conflicts": [],
+  "errors": [],
+  "mode": "dry-run",
+  "relocations": [],
+  "replayed_knowledge_refinement": false,
+  "source": "人教A版高中数学·必修第一册",
+  "source_id": "rja-required-1",
+  "summary": {
+    "assets": 339,
+    "atoms": {
+      "answer": 109,
+      "concept_formula": 32,
+      "guide": 28,
+      "knowledge": 91,
+      "problem": 35,
+      "question": 609
+    },
+    "audit_errors": 0,
+    "classified_problems": 0,
+    "conflicts": 0,
+    "create": 0,
+    "definition_aliases": 68,
+    "embedded_motivation_sections": 33,
+    "motivation_note_embeds": 46,
+    "organization_views": {
+      "公式总结": 45,
+      "教材问题顺序": 42,
+      "知识串联": 95,
+      "题型": 102
+    },
+    "problem_organization_status": "not-in-source",
+    "relocated_chapter_pages": 0,
+    "source_atoms": 861,
+    "source_files": 1450,
+    "source_heading_markers": 0,
+    "source_markdown": 996,
+    "thought_classification_pages": 0,
+    "thought_memberships": 0,
+    "unaccounted_markdown": 0,
+    "unchanged": 1539,
+    "update": 3,
+    "verified_source_corrections": 9,
+    "withdrawn_editorial_pages": 0
+  },
+  "warnings": [],
+  "withdrawals": []
+}

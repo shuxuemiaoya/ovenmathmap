@@ -1,0 +1,63 @@
+{
+  "applied": false,
+  "changes": [
+    {
+      "destination": "Mathmap/知识点/命题、条件与结论--000101.md",
+      "sha256": "5e363219d9925c7fba9cec4f465d206799d582ae0de4bda742db484e3301c512"
+    },
+    {
+      "destination": "Mathmap/知识点/周期运动与声音中的三角函数--000181.md",
+      "sha256": "71bf03e1b84d58224695115431bb1e3741443815ce5f504c70f90f18fef091ac"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/sources/rja-required-1.json",
+      "sha256": "e6e6cb27179f441a252f269a130af205d8af85a7b06f0cc75a375c71166385de"
+    }
+  ],
+  "conflicts": [],
+  "errors": [],
+  "mode": "dry-run",
+  "relocations": [],
+  "replayed_knowledge_refinement": false,
+  "source": "人教A版高中数学·必修第一册",
+  "source_id": "rja-required-1",
+  "summary": {
+    "assets": 339,
+    "atoms": {
+      "answer": 109,
+      "concept_formula": 32,
+      "guide": 28,
+      "knowledge": 91,
+      "problem": 35,
+      "question": 609
+    },
+    "audit_errors": 0,
+    "classified_problems": 0,
+    "conflicts": 0,
+    "create": 0,
+    "definition_aliases": 68,
+    "embedded_motivation_sections": 33,
+    "motivation_note_embeds": 46,
+    "organization_views": {
+      "公式总结": 45,
+      "教材问题顺序": 42,
+      "知识串联": 95,
+      "题型": 102
+    },
+    "problem_organization_status": "not-in-source",
+    "relocated_chapter_pages": 0,
+    "source_atoms": 861,
+    "source_files": 1450,
+    "source_heading_markers": 0,
+    "source_markdown": 996,
+    "thought_classification_pages": 0,
+    "thought_memberships": 0,
+    "unaccounted_markdown": 0,
+    "unchanged": 1539,
+    "update": 3,
+    "verified_source_corrections": 9,
+    "withdrawn_editorial_pages": 0
+  },
+  "warnings": [],
+  "withdrawals": []
+}
