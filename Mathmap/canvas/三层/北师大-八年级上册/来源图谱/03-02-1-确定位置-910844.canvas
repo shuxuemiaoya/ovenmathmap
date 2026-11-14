@@ -1,0 +1,239 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9be7969abf65ef1c",
+      "fromSide": "right",
+      "id": "c7bf56469799ec4b",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "d82c58faa956c367",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "02d74962fe7128fd",
+      "fromSide": "bottom",
+      "id": "484c115e8ebbd4ea",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "9be7969abf65ef1c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "91b3a4258ea8caf6",
+      "fromSide": "right",
+      "id": "af2e60a553f7312b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "9be7969abf65ef1c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d2fdc24aa6f3825b",
+      "fromSide": "right",
+      "id": "66c3ceabeeb4ab3a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "9be7969abf65ef1c",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "9be7969abf65ef1c",
+      "fromSide": "bottom",
+      "id": "94b9b724ae06f1bb",
+      "label": "练习 · 1题",
+      "toEnd": "arrow",
+      "toNode": "8b9cd154e96d4a68",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "9be7969abf65ef1c",
+      "fromSide": "bottom",
+      "id": "f5125d6ed4fe32f0",
+      "label": "练习 · 4题",
+      "toEnd": "arrow",
+      "toNode": "ee85b77575bab8c9",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "1fd50eb53d07dc13",
+      "fromSide": "bottom",
+      "id": "18eb5389e0bffc42",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "62a5b3de0c50c9a8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "d915863c94c71400",
+      "fromSide": "bottom",
+      "id": "8fb6028ee4d48e54",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "62a5b3de0c50c9a8",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 750,
+      "id": "1e88a41330ca67b1",
+      "label": "1 确定位置",
+      "type": "group",
+      "width": 1284,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "62a5b3de0c50c9a8",
+      "text": "[§ 1 确定位置](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/1%20%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE/%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "8b9cd154e96d4a68",
+      "text": "[练习入口 · 1 确定位置](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/1%20%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE/%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE.md)\n\n共 1 题",
+      "type": "text",
+      "width": 260,
+      "x": 436,
+      "y": 440
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "1fd50eb53d07dc13",
+      "text": "[· 问题 · 电影院座位定位与有序数对引入思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B5%E5%BD%B1%E9%99%A2%E5%BA%A7%E4%BD%8D%E5%AE%9A%E4%BD%8D%E4%B8%8E%E6%9C%89%E5%BA%8F%E6%95%B0%E5%AF%B9%E5%BC%95%E5%85%A5%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "d915863c94c71400",
+      "text": "[· 问题 · 思考·交流：确定座位所需数据个数](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81%EF%BC%9A%E7%A1%AE%E5%AE%9A%E5%BA%A7%E4%BD%8D%E6%89%80%E9%9C%80%E6%95%B0%E6%8D%AE%E4%B8%AA%E6%95%B0.md)",
+      "type": "text",
+      "width": 250,
+      "x": 406,
+      "y": 76
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "02d74962fe7128fd",
+      "text": "[· 方法例题 · 例 海军舰艇编队对抗方位角与距离定位](../../../../%E4%B9%A0%E9%A2%98/Q070000002480.md)",
+      "type": "text",
+      "width": 250,
+      "x": 756,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d2fdc24aa6f3825b",
+      "text": "[✦ 问题 · 尝试·思考：文昌发射场经纬度与奥林匹克公园区域定位](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E6%96%87%E6%98%8C%E5%8F%91%E5%B0%84%E5%9C%BA%E7%BB%8F%E7%BA%AC%E5%BA%A6%E4%B8%8E%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E5%85%AC%E5%9B%AD%E5%8C%BA%E5%9F%9F%E5%AE%9A%E4%BD%8D.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 418
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "91b3a4258ea8caf6",
+      "text": "[✦ 问题 · 思考·交流：平面内确定位置所需数据个数](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81%EF%BC%9A%E5%B9%B3%E9%9D%A2%E5%86%85%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE%E6%89%80%E9%9C%80%E6%95%B0%E6%8D%AE%E4%B8%AA%E6%95%B0.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 596
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "9be7969abf65ef1c",
+      "text": "[✦ 平面内确定物体位置一般需要两个数据](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%86%85%E7%A1%AE%E5%AE%9A%E7%89%A9%E4%BD%93%E4%BD%8D%E7%BD%AE%E4%B8%80%E8%88%AC%E9%9C%80%E8%A6%81%E4%B8%A4%E4%B8%AA%E6%95%B0%E6%8D%AE.md)",
+      "type": "text",
+      "width": 280,
+      "x": 476,
+      "y": 252
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "d82c58faa956c367",
+      "text": "[✦ 阅读·欣赏：平面定位的方式与经纬度原理](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E5%B9%B3%E9%9D%A2%E5%AE%9A%E4%BD%8D%E7%9A%84%E6%96%B9%E5%BC%8F%E4%B8%8E%E7%BB%8F%E7%BA%AC%E5%BA%A6%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 250,
+      "x": 896,
+      "y": 242
+    },
+    {
+      "height": 204,
+      "id": "6a5c461122f61fdb",
+      "label": "习题 3.1",
+      "type": "group",
+      "width": 372,
+      "x": 856,
+      "y": 490
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "ee85b77575bab8c9",
+      "text": "[练习入口 · 习题 3.1](../../../../../%E5%88%9D%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%902024%E7%89%88%E3%80%91%E3%80%90%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88%E3%80%91%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E6%95%B0%E5%AD%A6/%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/1%20%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE/%E4%B9%A0%E9%A2%98%203.1.md)\n\n共 4 题",
+      "type": "text",
+      "width": 260,
+      "x": 912,
+      "y": 566
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "bfbe808ae788a00a",
+      "text": "# [1 确定位置](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/1%20%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE/%E7%A1%AE%E5%AE%9A%E4%BD%8D%E7%BD%AE.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "462b3e75bc5219ae",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87-35a66a.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "0b455e726425fe8c",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

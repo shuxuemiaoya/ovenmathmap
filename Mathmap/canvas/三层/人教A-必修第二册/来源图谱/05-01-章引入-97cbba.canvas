@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5a28aa59c2340888",
+      "fromSide": "bottom",
+      "id": "91910a1dd54bd9c9",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5ae3d3617a8a81d2",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 374,
+      "id": "d8cd0a5dd6aa9dde",
+      "label": "第十章 概率",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "5ae3d3617a8a81d2",
+      "text": "[§ 第十章 概率](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5a28aa59c2340888",
+      "text": "[· 情景引入 · 从样本推断总体走向随机事件与概率](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E6%A0%B7%E6%9C%AC%E6%8E%A8%E6%96%AD%E6%80%BB%E4%BD%93%E8%B5%B0%E5%90%91%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87--G414608bb97700d.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "331d735e62fd1b4a",
+      "text": "# [章引入](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "e39154370cf6b51a",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-%E7%AC%AC%E5%8D%81%E7%AB%A0-%E6%A6%82%E7%8E%87-a2f4dd.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "a52f9bf1ed61374e",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

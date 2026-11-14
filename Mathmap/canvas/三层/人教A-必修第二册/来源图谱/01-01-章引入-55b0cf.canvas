@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "360a7ae0e554d153",
+      "fromSide": "bottom",
+      "id": "8ef2a7cb0c2bf816",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "98eb2a31e4642839",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 374,
+      "id": "d8bb4198db846584",
+      "label": "第六章 平面向量及其应用",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "98eb2a31e4642839",
+      "text": "[§ 第六章 平面向量及其应用](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "360a7ae0e554d153",
+      "text": "[· 情景引入 · 由小船位移认识大小与方向并引出平面向量](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E5%B0%8F%E8%88%B9%E4%BD%8D%E7%A7%BB%E8%AE%A4%E8%AF%86%E5%A4%A7%E5%B0%8F%E4%B8%8E%E6%96%B9%E5%90%91%E5%B9%B6%E5%BC%95%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F--G93decfc4bdad36.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "09b027c23d1bb605",
+      "text": "# [章引入](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "809f0aa5b1c5c8cd",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-75a20e.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "a2fd2e0f11072407",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

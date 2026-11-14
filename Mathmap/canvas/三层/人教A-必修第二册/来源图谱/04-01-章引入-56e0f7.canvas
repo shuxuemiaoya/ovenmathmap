@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "902022dd04a549b9",
+      "fromSide": "bottom",
+      "id": "7239820776f5f69e",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "e58be989a09aaea8",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 374,
+      "id": "feb67f036bd29d27",
+      "label": "第九章 统计",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "e58be989a09aaea8",
+      "text": "[§ 第九章 统计](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E7%BB%9F%E8%AE%A1/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E7%BB%9F%E8%AE%A1.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "902022dd04a549b9",
+      "text": "[· 情景引入 · 从人口与经济统计数据走向随机抽样和总体估计](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E4%BA%BA%E5%8F%A3%E4%B8%8E%E7%BB%8F%E6%B5%8E%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E8%B5%B0%E5%90%91%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E5%92%8C%E6%80%BB%E4%BD%93%E4%BC%B0%E8%AE%A1--G7892d6b3601060.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "a2cc8263e13cc5e0",
+      "text": "# [章引入](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E7%BB%9F%E8%AE%A1/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E7%BB%9F%E8%AE%A1.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "2b7d63082685d847",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/04-%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E7%BB%9F%E8%AE%A1-49e440.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "5afa94c9211286b5",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

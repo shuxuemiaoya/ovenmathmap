@@ -1,0 +1,165 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "21e445cfd8c1b4e1",
+      "fromSide": "bottom",
+      "id": "d111e70293d0f1d1",
+      "label": "归属 · 2题",
+      "toEnd": "arrow",
+      "toNode": "58cbec5c1c065381",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "fc1e39a803778378",
+      "fromSide": "bottom",
+      "id": "3804d0aaa8e037f2",
+      "label": "归属 · 4题",
+      "toEnd": "arrow",
+      "toNode": "8bf7c9c44b21f9fe",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f63421169c250be5",
+      "fromSide": "bottom",
+      "id": "4a4d75c488085817",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "8ceb749f4171b73c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "288519d702e33a61",
+      "fromSide": "bottom",
+      "id": "13537017427076bc",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "8ceb749f4171b73c",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 562,
+      "id": "9aca2a96a0d8f5d0",
+      "label": "3 简单的图案设计",
+      "type": "group",
+      "width": 1324,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "58cbec5c1c065381",
+      "text": "[练习入口 · 3 简单的图案设计](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/3%20%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1/%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1.md)\n\n共 2 题",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "height": 66,
+      "id": "8ceb749f4171b73c",
+      "text": "[§ 3 简单的图案设计](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/3%20%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1/%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1.md)",
+      "type": "text",
+      "width": 260,
+      "x": 476,
+      "y": 418
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "21e445cfd8c1b4e1",
+      "text": "[· 问题 · 生活中图案的形成过程分析交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%9F%E6%B4%BB%E4%B8%AD%E5%9B%BE%E6%A1%88%E7%9A%84%E5%BD%A2%E6%88%90%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f63421169c250be5",
+      "text": "[· 问题 · “手风琴”纸条花边的平移与轴对称分析](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E2%80%9C%E6%89%8B%E9%A3%8E%E7%90%B4%E2%80%9D%E7%BA%B8%E6%9D%A1%E8%8A%B1%E8%BE%B9%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E8%BD%B4%E5%AF%B9%E7%A7%B0%E5%88%86%E6%9E%90.md)",
+      "type": "text",
+      "width": 250,
+      "x": 476,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "288519d702e33a61",
+      "text": "[· 问题 · 圆形折纸图案的旋转与对称关系探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9C%86%E5%BD%A2%E6%8A%98%E7%BA%B8%E5%9B%BE%E6%A1%88%E7%9A%84%E6%97%8B%E8%BD%AC%E4%B8%8E%E5%AF%B9%E7%A7%B0%E5%85%B3%E7%B3%BB%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 476,
+      "y": 242
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "fc1e39a803778378",
+      "text": "[· 问题 · 图形运动变化分析与图案设计经验回顾](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9B%BE%E5%BD%A2%E8%BF%90%E5%8A%A8%E5%8F%98%E5%8C%96%E5%88%86%E6%9E%90%E4%B8%8E%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1%E7%BB%8F%E9%AA%8C%E5%9B%9E%E9%A1%BE.md)",
+      "type": "text",
+      "width": 250,
+      "x": 896,
+      "y": 76
+    },
+    {
+      "height": 204,
+      "id": "7e77f7e463b7303d",
+      "label": "习题 3.3",
+      "type": "group",
+      "width": 372,
+      "x": 896,
+      "y": 302
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "8bf7c9c44b21f9fe",
+      "text": "[练习入口 · 习题 3.3](../../../../../%E5%88%9D%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%902024%E7%89%88%E3%80%91%E3%80%90%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88%E3%80%91%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E6%95%B0%E5%AD%A6/%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/3%20%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1/%E4%B9%A0%E9%A2%98%203.3.md)\n\n共 4 题",
+      "type": "text",
+      "width": 260,
+      "x": 952,
+      "y": 378
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "f26c284c459cdef1",
+      "text": "# [3 简单的图案设计](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/3%20%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1/%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "e81a874d1e7a03de",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC-419618.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "66a98ec005889677",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

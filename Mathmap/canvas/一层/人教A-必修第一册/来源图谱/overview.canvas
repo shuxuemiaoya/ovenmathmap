@@ -1,0 +1,20 @@
+{
+	"edges":[
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"507d174c02991622","fromSide":"right","id":"92df7e670d5719b8","label":"书序","toEnd":"arrow","toNode":"f273a757a3e2e7ed","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"f273a757a3e2e7ed","fromSide":"right","id":"306eef9cb134873f","label":"书序","toEnd":"arrow","toNode":"c349383da2705e90","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"c349383da2705e90","fromSide":"right","id":"6dc31c89d7be6f8e","label":"书序","toEnd":"arrow","toNode":"052e98068860465c","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"052e98068860465c","fromSide":"right","id":"3c33e49cf51eca45","label":"书序","toEnd":"arrow","toNode":"e07f1b2e21091f70","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"e07f1b2e21091f70","fromSide":"right","id":"4476040158f30f01","label":"书序","toEnd":"arrow","toNode":"1697ed492b63c2ed","toSide":"left"},
+		{"color":"3","fromEnd":"none","fromNode":"052e98068860465c","fromSide":"right","id":"02c23d4f96574635","label":"主线 · 发展 ×1","toEnd":"arrow","toNode":"e07f1b2e21091f70","toSide":"left"}
+	],
+	"nodes":[
+		{"color":"1","height":160,"id":"1047653114df3a13","text":"# ✦ 普通高中教科书 数学 必修 第一册\n\n全书知识星图","type":"text","width":380,"x":-190,"y":-80},
+		{"color":"1","height":120,"id":"507d174c02991622","text":"[## ✦ 第一章 集合与常用逻辑用语](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD-75a20e.canvas)","type":"text","width":360,"x":-180,"y":-780},
+		{"color":"1","height":120,"id":"f273a757a3e2e7ed","text":"[## ✦ 第二章 一元二次函数、方程和不等式](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0%E3%80%81%E6%96%B9%E7%A8%8B%E5%92%8C%E4%B8%8D%E7%AD%89%E5%BC%8F-9775d4.canvas)","type":"text","width":360,"x":444,"y":-420},
+		{"color":"1","height":120,"id":"c349383da2705e90","text":"[## ✦ 第三章 函数的概念与性质](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8-8c58a6.canvas)","type":"text","width":360,"x":444,"y":300},
+		{"color":"1","height":120,"id":"052e98068860465c","text":"[## ✦ 第四章 指数函数与对数函数](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0-3702e5.canvas)","type":"text","width":360,"x":-180,"y":660},
+		{"color":"1","height":120,"id":"e07f1b2e21091f70","text":"[## ✦ 数学建模 建立函数模型解决实际问题](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1-%E5%BB%BA%E7%AB%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98-a2f4dd.canvas)","type":"text","width":360,"x":-804,"y":300},
+		{"color":"1","height":120,"id":"1697ed492b63c2ed","text":"[## ✦ 第五章 三角函数](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/06-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0-c80f27.canvas)","type":"text","width":360,"x":-804,"y":-420},
+		{"height":180,"id":"e103b230f3be26af","text":"**图例**\n\n黄色：主学习路线  ·  灰色：原书顺序\n彩色：跨章知识联系","type":"text","width":360,"x":-180,"y":150}
+	]
+}

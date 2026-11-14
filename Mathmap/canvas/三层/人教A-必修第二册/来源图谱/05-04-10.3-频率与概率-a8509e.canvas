@@ -1,0 +1,403 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "8db19ea67e949396",
+      "fromSide": "right",
+      "id": "5575b71ffb10f8a5",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "623f0d4a761d3949",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9ca8cd20eb7f6f2c",
+      "fromSide": "right",
+      "id": "e7cbe83a29cf0669",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "8db19ea67e949396",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2d750b64532ac215",
+      "fromSide": "right",
+      "id": "f2a918c8967a591e",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "8db19ea67e949396",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9ca8cd20eb7f6f2c",
+      "fromSide": "right",
+      "id": "52c410140d9ef399",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "8db19ea67e949396",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "880b9085f1fb2a94",
+      "fromSide": "right",
+      "id": "cc11a5f105a4555a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "623f0d4a761d3949",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "8db19ea67e949396",
+      "fromSide": "bottom",
+      "id": "9856545e38149cb0",
+      "label": "归属 · 4题",
+      "toEnd": "arrow",
+      "toNode": "2d0af424826c0811",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "623f0d4a761d3949",
+      "fromSide": "bottom",
+      "id": "9e907676fd54eb6f",
+      "label": "归属 · 4题",
+      "toEnd": "arrow",
+      "toNode": "3aa0bcbbf43c6020",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "623f0d4a761d3949",
+      "fromSide": "bottom",
+      "id": "6026b6bed5a0afb3",
+      "label": "归属 · 6题",
+      "toEnd": "arrow",
+      "toNode": "1d9a2abcaabc2367",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "0ae8640c5ac0f5af",
+      "fromSide": "bottom",
+      "id": "d6cc2893c2a76e2e",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "9d34809824b149a9",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5e98166ee5fe9452",
+      "fromSide": "bottom",
+      "id": "45accaa9db476acc",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "9d34809824b149a9",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b80233a2a82f6b92",
+      "fromSide": "bottom",
+      "id": "aae3c4073499c493",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "9d34809824b149a9",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6a1974b389107359",
+      "fromSide": "bottom",
+      "id": "bcd2284a9df69b6f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "9d34809824b149a9",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "10ee31d303951169",
+      "fromSide": "bottom",
+      "id": "9b4da9c1d3da1555",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "9d34809824b149a9",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b8a4340354b6e7d1",
+      "fromSide": "bottom",
+      "id": "e3f48104da9b7a99",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "a25ba188273f622c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b8dad65ed23b05fe",
+      "fromSide": "bottom",
+      "id": "06a44f8ea86a435d",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "a25ba188273f622c",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1092,
+      "id": "7ee971643272dcd9",
+      "label": "10.3 频率与概率",
+      "type": "group",
+      "width": 3606,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "9ca8cd20eb7f6f2c",
+      "text": "[✦ 10.3 频率与概率·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87--G5afb2f52f22866.md)",
+      "type": "text",
+      "width": 280,
+      "x": 588,
+      "y": 76
+    },
+    {
+      "height": 392,
+      "id": "f19f5c87a274d7bf",
+      "label": "10.3.1 频率的稳定性",
+      "type": "group",
+      "width": 2522,
+      "x": 56,
+      "y": 628
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "2d0af424826c0811",
+      "text": "[练习入口 · 10.3.1 频率的稳定性](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87/10.3.1%20%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7.md)\n\n共 4 题",
+      "type": "text",
+      "width": 260,
+      "x": 472,
+      "y": 892
+    },
+    {
+      "height": 66,
+      "id": "9d34809824b149a9",
+      "text": "[§ 10.3.1 频率的稳定性](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87/10.3.1%20%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7.md)",
+      "type": "text",
+      "width": 260,
+      "x": 112,
+      "y": 882
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "2d750b64532ac215",
+      "text": "[✦ 情景引入 · 由重复试验中的频率稳定性估计概率](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E9%87%8D%E5%A4%8D%E8%AF%95%E9%AA%8C%E4%B8%AD%E7%9A%84%E9%A2%91%E7%8E%87%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%BC%B0%E8%AE%A1%E6%A6%82%E7%8E%87--Gc0163b1013dd2e.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 704
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "0ae8640c5ac0f5af",
+      "text": "[· 思考题 · 10.3.1 频率的稳定性·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E6%A6%82%E7%8E%87%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 250,
+      "x": 492,
+      "y": 704
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5e98166ee5fe9452",
+      "text": "[· 思考题 · 10.3.1 频率的稳定性·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E6%A6%82%E7%8E%87%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 250,
+      "x": 842,
+      "y": 704
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "b80233a2a82f6b92",
+      "text": "[· 方法例题 · 例 1 新生婴儿性别比是每 100 名](../../../../%E4%B9%A0%E9%A2%98/Q070000000946.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1572,
+      "y": 704
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "8db19ea67e949396",
+      "text": "[✦ 2015年男婴出生的频率为](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E6%A6%82%E7%8E%87%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1192,
+      "y": 704
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "6a1974b389107359",
+      "text": "[· 方法例题 · 例 2 一个游戏包含两个随机事件 A](../../../../%E4%B9%A0%E9%A2%98/Q070000000947.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1922,
+      "y": 704
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "10ee31d303951169",
+      "text": "[· 思考题 · 10.3.1 频率的稳定性·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E6%A6%82%E7%8E%87%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2272,
+      "y": 704
+    },
+    {
+      "height": 960,
+      "id": "776c6b33e5ff00fa",
+      "label": "10.3.2 随机模拟",
+      "type": "group",
+      "width": 812,
+      "x": 2738,
+      "y": 76
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "3aa0bcbbf43c6020",
+      "text": "[练习入口 · 10.3.2 随机模拟](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87/10.3.2%20%E9%9A%8F%E6%9C%BA%E6%A8%A1%E6%8B%9F.md)\n\n共 4 题",
+      "type": "text",
+      "width": 260,
+      "x": 2794,
+      "y": 340
+    },
+    {
+      "height": 66,
+      "id": "a25ba188273f622c",
+      "text": "[§ 10.3.2 随机模拟](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87/10.3.2%20%E9%9A%8F%E6%9C%BA%E6%A8%A1%E6%8B%9F.md)",
+      "type": "text",
+      "width": 260,
+      "x": 2794,
+      "y": 914
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "880b9085f1fb2a94",
+      "text": "[✦ 情景引入 · 用随机数模拟代替大量重复试验](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%A8%E9%9A%8F%E6%9C%BA%E6%95%B0%E6%A8%A1%E6%8B%9F%E4%BB%A3%E6%9B%BF%E5%A4%A7%E9%87%8F%E9%87%8D%E5%A4%8D%E8%AF%95%E9%AA%8C--G8c8f1191df9a40.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2794,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "623f0d4a761d3949",
+      "text": "[✦ 随机数与伪随机数](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E6%95%B0%E4%B8%8E%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3214,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "b8a4340354b6e7d1",
+      "text": "[· 方法例题 · 例 3 从你所在班级任意选出 6 名同](../../../../%E4%B9%A0%E9%A2%98/Q070000000951.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2794,
+      "y": 572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "b8dad65ed23b05fe",
+      "text": "[· 方法例题 · 例 4 在一次奥运会男子羽毛球单打比赛](../../../../%E4%B9%A0%E9%A2%98/Q070000000952.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2794,
+      "y": 738
+    },
+    {
+      "height": 204,
+      "id": "e8a9d13d12569070",
+      "label": "习题 10.3",
+      "type": "group",
+      "width": 372,
+      "x": 56,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "1d9a2abcaabc2367",
+      "text": "[练习入口 · 习题 10.3](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%BB%84%E7%BB%87%E5%B1%82/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%20%E6%95%B0%E5%AD%A6%20%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87/%E4%B9%A0%E9%A2%98%2010.3.md)\n\n共 6 题",
+      "type": "text",
+      "width": 260,
+      "x": 112,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "a01a2c0e027b2431",
+      "text": "# [10.3 频率与概率](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "3b28136471345483",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-%E7%AC%AC%E5%8D%81%E7%AB%A0-%E6%A6%82%E7%8E%87-a2f4dd.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "03ce576f77c01ef1",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

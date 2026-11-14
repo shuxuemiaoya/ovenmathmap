@@ -1,0 +1,229 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "29e56514c3b1413a",
+      "fromSide": "right",
+      "id": "99747cce861274f9",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "723df7ee10b61931",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "723df7ee10b61931",
+      "fromSide": "right",
+      "id": "2aa0301f8093ec6c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "540d34bc980aa3fb",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "29e56514c3b1413a",
+      "fromSide": "right",
+      "id": "cbee09fc6ef7739a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d413f2f67b7f7d59",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d413f2f67b7f7d59",
+      "fromSide": "right",
+      "id": "5faf80172ff1ba24",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "723df7ee10b61931",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "fd2b55402b47a732",
+      "fromSide": "right",
+      "id": "83ffd7b00d797b6b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "29e56514c3b1413a",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "723df7ee10b61931",
+      "fromSide": "bottom",
+      "id": "a81f7dfc24b2c21b",
+      "label": "练习 · 2题",
+      "toEnd": "arrow",
+      "toNode": "ee85b77575bab8c9",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "540d34bc980aa3fb",
+      "fromSide": "bottom",
+      "id": "cba4553bff1b7307",
+      "label": "练习 · 6题",
+      "toEnd": "arrow",
+      "toNode": "1cacab07d0cd00ef",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "79fa7db9c694c59a",
+      "fromSide": "bottom",
+      "id": "e07cf51d454ff1e0",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "698e3a422d0c428c",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 436,
+      "id": "254abe9791ccf94d",
+      "label": "4 一元一次不等式组",
+      "type": "group",
+      "width": 2884,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "698e3a422d0c428c",
+      "text": "[§ 4 一元一次不等式组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/4%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)",
+      "type": "text",
+      "width": 260,
+      "x": 856,
+      "y": 254
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "ee85b77575bab8c9",
+      "text": "[练习入口 · 4 一元一次不等式组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/4%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)\n\n共 2 题",
+      "type": "text",
+      "width": 260,
+      "x": 1216,
+      "y": 264
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "fd2b55402b47a732",
+      "text": "[✦ 情景引入 · 由运动会彩旗制作总量的上下限条件引出一元一次不等式组](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BD%A9%E6%97%97%E5%88%B6%E4%BD%9C%E6%80%BB%E9%87%8F%E7%9A%84%E4%B8%8A%E4%B8%8B%E9%99%90%E6%9D%A1%E4%BB%B6%E5%BC%95%E5%87%BA%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "29e56514c3b1413a",
+      "text": "[✦ 一元一次不等式组的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 476,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d413f2f67b7f7d59",
+      "text": "[✦ 问题 · 列出不等式组与寻找解集尝试](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%88%97%E5%87%BA%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E4%B8%8E%E5%AF%BB%E6%89%BE%E8%A7%A3%E9%9B%86%E5%B0%9D%E8%AF%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 896,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "723df7ee10b61931",
+      "text": "[✦ 一元一次不等式组的解集与解不等式组](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E8%A7%A3%E9%9B%86%E4%B8%8E%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1316,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "79fa7db9c694c59a",
+      "text": "[· 问题 · 无解的一元一次不等式组探讨](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%97%A0%E8%A7%A3%E7%9A%84%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E6%8E%A2%E8%AE%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1696,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "540d34bc980aa3fb",
+      "text": "[✦ 一元一次不等式组的实际应用示范](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E7%A4%BA%E8%8C%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2046,
+      "y": 76
+    },
+    {
+      "height": 204,
+      "id": "14c1e5345f0ad447",
+      "label": "习题 2.4",
+      "type": "group",
+      "width": 372,
+      "x": 2456,
+      "y": 176
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "1cacab07d0cd00ef",
+      "text": "[练习入口 · 习题 2.4](../../../../../%E5%88%9D%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%902024%E7%89%88%E3%80%91%E3%80%90%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88%E3%80%91%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E6%95%B0%E5%AD%A6/%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/4%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/%E4%B9%A0%E9%A2%98%202.4.md)\n\n共 6 题",
+      "type": "text",
+      "width": 260,
+      "x": 2512,
+      "y": 252
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "2e8b7fc247cf6574",
+      "text": "# [4 一元一次不等式组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/4%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "4e7e004125591dd6",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84-79fd29.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "067b40a40987fb37",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

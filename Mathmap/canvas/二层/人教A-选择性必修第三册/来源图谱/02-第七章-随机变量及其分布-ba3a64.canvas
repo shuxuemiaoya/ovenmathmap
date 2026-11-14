@@ -1,0 +1,1601 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "fbf51ff78e0d6bf5",
+      "fromSide": "right",
+      "id": "2e1079b79ae9c50a",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "490376a80aa03111",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2e49109e840509b0",
+      "fromSide": "right",
+      "id": "4ea0bfa0a431ba6c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a9c87a24a70594a4",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "b4a0b36040edf588",
+      "fromSide": "right",
+      "id": "249c2080eea16e6d",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "98cc65d028a9dec0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "490376a80aa03111",
+      "fromSide": "right",
+      "id": "2dae6fac3a665e9c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "b2ab0f50d73985d1",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a9c87a24a70594a4",
+      "fromSide": "right",
+      "id": "eab5b132bf75d5da",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "f1fdb845ba8b0fcd",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "b2ab0f50d73985d1",
+      "fromSide": "right",
+      "id": "f72e8ea66969a057",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "615598380576f8bd",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a35791bdd198a95e",
+      "fromSide": "right",
+      "id": "37ecea0118930b4e",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "b4a0b36040edf588",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f1fdb845ba8b0fcd",
+      "fromSide": "right",
+      "id": "5a7836edb48a2210",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a35791bdd198a95e",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "615598380576f8bd",
+      "fromSide": "right",
+      "id": "4d9dfd1e698697f7",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "2e49109e840509b0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3bc57f84cb02acf5",
+      "fromSide": "right",
+      "id": "b6926736bd845379",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "7a49b2dd6fe7e37e",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "77134ad93f29da9b",
+      "fromSide": "right",
+      "id": "051cb9b907f9d467",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "50451fc63bdcef73",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a9c87a24a70594a4",
+      "fromSide": "right",
+      "id": "85ff476ff7229228",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "f1fdb845ba8b0fcd",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a9c81299675ec52b",
+      "fromSide": "right",
+      "id": "7c9cdd25337850ad",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "a0cb27aaaa1f5cd8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "b4a0b36040edf588",
+      "fromSide": "right",
+      "id": "0019693c9e4ec971",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "98cc65d028a9dec0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3e98a4b0a8fc5909",
+      "fromSide": "right",
+      "id": "69780a2ab58249e5",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "98cc65d028a9dec0",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "none",
+      "fromNode": "2882759f02d01713",
+      "fromSide": "right",
+      "id": "1570080a25056b27",
+      "label": "引发",
+      "toEnd": "arrow",
+      "toNode": "bdd1337196faa730",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "490376a80aa03111",
+      "fromSide": "right",
+      "id": "aaeb219f2edd2c96",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "b2ab0f50d73985d1",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f1fdb845ba8b0fcd",
+      "fromSide": "right",
+      "id": "059a2b154ffd891e",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "a35791bdd198a95e",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "fbf51ff78e0d6bf5",
+      "fromSide": "right",
+      "id": "2f36fcdf75beaf45",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "490376a80aa03111",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3709640ec4845006",
+      "fromSide": "right",
+      "id": "f54d1a29632dd968",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "b4a0b36040edf588",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "27687d896aa71b3a",
+      "fromSide": "right",
+      "id": "8dd0c924aa9e4b81",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "615598380576f8bd",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a35791bdd198a95e",
+      "fromSide": "right",
+      "id": "c2eb21d84d26a0ae",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "b4a0b36040edf588",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e5285bb904c11a36",
+      "fromSide": "right",
+      "id": "979d7522476cd80c",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "615598380576f8bd",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "eed8083997f319c9",
+      "fromSide": "bottom",
+      "id": "4ad08034aa02f87c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "fd181cfc761c36a1",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b62740674c9bb650",
+      "fromSide": "bottom",
+      "id": "490a72c35ccb6015",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "41dc1370df4f5613",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "95d409f43a6f04a9",
+      "fromSide": "bottom",
+      "id": "c032b915d46d900e",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "41dc1370df4f5613",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2e58718d44275a7e",
+      "fromSide": "bottom",
+      "id": "e5ad0a1f78e01030",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "41dc1370df4f5613",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "96545596d350ffd0",
+      "fromSide": "bottom",
+      "id": "fc84e66c6a78f07c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "41dc1370df4f5613",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "38bd622c2e313173",
+      "fromSide": "bottom",
+      "id": "deeb942fe555c058",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "41dc1370df4f5613",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "830d684bd0b26d07",
+      "fromSide": "bottom",
+      "id": "a6bf43ec95a2a63f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2c0d0a7553532381",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9129b9462bb8397a",
+      "fromSide": "bottom",
+      "id": "94184c1630ba08de",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2c0d0a7553532381",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "e6f4c527cdee8749",
+      "fromSide": "bottom",
+      "id": "67f402b1b4978c4a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2c0d0a7553532381",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "eb84368fd4d4d3c3",
+      "fromSide": "bottom",
+      "id": "0ffc2910db154cd9",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2c0d0a7553532381",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5b26b4e8897a44ce",
+      "fromSide": "bottom",
+      "id": "b086df514b602e6f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2c0d0a7553532381",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "38e5f3f79a7850bd",
+      "fromSide": "bottom",
+      "id": "97ac1c13265c099e",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2c0d0a7553532381",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "1e065e28e80222fc",
+      "fromSide": "bottom",
+      "id": "980cb425cebb4a75",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "d115b7238a931f43",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2fb18988f1a48a75",
+      "fromSide": "bottom",
+      "id": "150452ec710ca9c6",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "d115b7238a931f43",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6fa3a9f1bc022479",
+      "fromSide": "bottom",
+      "id": "c94f9b5113f6204f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "d115b7238a931f43",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2f7247dc2936cc15",
+      "fromSide": "bottom",
+      "id": "ef0c91a077af3960",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7af8cffd4ab3562b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8309da5a44904fe6",
+      "fromSide": "bottom",
+      "id": "46ff2715aef7d1da",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7af8cffd4ab3562b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "bb763911fadbb7ad",
+      "fromSide": "bottom",
+      "id": "c17f51a39dab53fa",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7af8cffd4ab3562b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "38067529674eda91",
+      "fromSide": "bottom",
+      "id": "d72dac81655a35d8",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7af8cffd4ab3562b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "dddf6bef35185b61",
+      "fromSide": "bottom",
+      "id": "783bf6c138e20469",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7af8cffd4ab3562b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2b72ef0bbb6f5aac",
+      "fromSide": "bottom",
+      "id": "3810054f49e270b1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "000e0b478e207653",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ca9ce32ba36ffea4",
+      "fromSide": "bottom",
+      "id": "0d23b2d64b646c83",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "000e0b478e207653",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "489b3fed0572b65d",
+      "fromSide": "bottom",
+      "id": "41a7d66c0378eedb",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "000e0b478e207653",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "3ea258f162ad0327",
+      "fromSide": "bottom",
+      "id": "6a3fdde83868da90",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "4e7ccdc2ed2d85f4",
+      "fromSide": "bottom",
+      "id": "bc98af80b4592cab",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "62c49d58666795df",
+      "fromSide": "bottom",
+      "id": "69c44cffebab54d5",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "58553f7a4f03f516",
+      "fromSide": "bottom",
+      "id": "1071d3f7f5b04121",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6e7600e9cf0c7744",
+      "fromSide": "bottom",
+      "id": "71eeb5516341c60a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "208ea77bdace5a6d",
+      "fromSide": "bottom",
+      "id": "913e1c269ad0a640",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "32579183b0f911fc",
+      "fromSide": "bottom",
+      "id": "50526f9ed0d9cf99",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab3173186281c348",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "97a0bc8d3a89041b",
+      "fromSide": "bottom",
+      "id": "3f7fe8d49b7b197c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c4614b7cc107a430",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "09daab8b76a75c9c",
+      "fromSide": "bottom",
+      "id": "be6fbc7f9e9cf036",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c4614b7cc107a430",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2afc947f3b98b20a",
+      "fromSide": "bottom",
+      "id": "b8bc813d148458e1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c4614b7cc107a430",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "1875e6e903cfbdeb",
+      "fromSide": "bottom",
+      "id": "342cb1c1053cdb1f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c4614b7cc107a430",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "be6d0422a9565992",
+      "fromSide": "bottom",
+      "id": "ff9b5aa415891837",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c4614b7cc107a430",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "769b27ee4a4acb0b",
+      "fromSide": "bottom",
+      "id": "9d3bc38db8bfd7b7",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "168e08d67ac8e140",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "1be0c30498eae5db",
+      "fromSide": "bottom",
+      "id": "88f20f42f826017d",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "168e08d67ac8e140",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 3146,
+      "id": "b2ce4c7955f503bb",
+      "label": "第七章 随机变量及其分布",
+      "type": "group",
+      "width": 6826,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "fd181cfc761c36a1",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-01-%E7%AB%A0%E5%BC%95%E5%85%A5-871481.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 2470,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "eed8083997f319c9",
+      "text": "[· 情景引入 · 从古典概率走向条件概率与随机变量分布](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%8F%A4%E5%85%B8%E6%A6%82%E7%8E%87%E8%B5%B0%E5%90%91%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83--G0cbbbd578c8b54.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2470,
+      "y": 76
+    },
+    {
+      "height": 2304,
+      "id": "ece4c9ae5c7acd1b",
+      "label": "02 · 7.1 条件概率与全概率公式",
+      "type": "group",
+      "width": 2254,
+      "x": 56,
+      "y": 700
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "268e0d79b006c874",
+      "text": "[⌕ 放大 · 7.1 条件概率与全概率公式](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-02-7.1-%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F-308982.canvas)\n\n15 个展示原子 · 17 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 776
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "fbf51ff78e0d6bf5",
+      "text": "[✦ 7.1 条件概率与全概率公式·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F--G50e2b1a9ae6445.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 1030
+    },
+    {
+      "height": 376,
+      "id": "579b6b285d907825",
+      "label": "7.1.1 条件概率",
+      "type": "group",
+      "width": 2142,
+      "x": 112,
+      "y": 2572
+    },
+    {
+      "height": 66,
+      "id": "41dc1370df4f5613",
+      "text": "[§ 7.1.1 条件概率](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/7.1.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 260,
+      "x": 168,
+      "y": 2826
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "a9c81299675ec52b",
+      "text": "[✦ 情景引入 · 由班级性别与团员人数认识条件概率](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 168,
+      "y": 2648
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "a0cb27aaaa1f5cd8",
+      "text": "[✦ 思考题 · 7.1.1 条件概率·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%8B%AC%E7%AB%8B%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 280,
+      "x": 588,
+      "y": 2814
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "b62740674c9bb650",
+      "text": "[· 思考题 · 7.1.1 条件概率·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A6%82%E7%8E%87%E7%9A%84%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 548,
+      "y": 2648
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "95d409f43a6f04a9",
+      "text": "[· 方法例题 · 例 1 在5道试题中有3道代数题和2道](../../../../%E4%B9%A0%E9%A2%98/Q070000001728.md)",
+      "type": "text",
+      "width": 250,
+      "x": 898,
+      "y": 2648
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "2e58718d44275a7e",
+      "text": "[· 方法例题 · 例 1 求条件概率用了两种方法：一种是](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E8%A7%A3%E9%87%8A%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1248,
+      "y": 2648
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "96545596d350ffd0",
+      "text": "[· 方法例题 · 例 2 已知 3 张奖券中只有 1 张](../../../../%E4%B9%A0%E9%A2%98/Q070000001729.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1598,
+      "y": 2648
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "38bd622c2e313173",
+      "text": "[· 方法例题 · 例 3 银行储蓄卡的密码由6位数字组成](../../../../%E4%B9%A0%E9%A2%98/Q070000001730.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1948,
+      "y": 2648
+    },
+    {
+      "height": 1382,
+      "id": "70b96c1e84e63719",
+      "label": "7.1.2 全概率公式",
+      "type": "group",
+      "width": 392,
+      "x": 552,
+      "y": 1030
+    },
+    {
+      "height": 66,
+      "id": "2c0d0a7553532381",
+      "text": "[§ 7.1.2 全概率公式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/7.1.2%20%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 260,
+      "x": 608,
+      "y": 2290
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "490376a80aa03111",
+      "text": "[✦ 7.1.2 全概率公式·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F--G483d8f9117d8e5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 608,
+      "y": 1106
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "830d684bd0b26d07",
+      "text": "[· 思考题 · 7.1.2 全概率公式·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 608,
+      "y": 1284
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "9129b9462bb8397a",
+      "text": "[· 方法例题 · 例 4 某学校有 A](../../../../%E4%B9%A0%E9%A2%98/Q070000001734.md)",
+      "type": "text",
+      "width": 250,
+      "x": 608,
+      "y": 1450
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "e6f4c527cdee8749",
+      "text": "[· 方法例题 · 例 5 有 3 台车床加工同一型号的零](../../../../%E4%B9%A0%E9%A2%98/Q070000001735.md)",
+      "type": "text",
+      "width": 250,
+      "x": 608,
+      "y": 1616
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "eb84368fd4d4d3c3",
+      "text": "[· 思考题 · 7.1.2 全概率公式·思考](../../../../%E9%A2%98%E5%9E%8B/%E6%8C%89%E7%AB%A0%E8%8A%82%E5%88%86%E7%B1%BB/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F/7.1.2%20%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 608,
+      "y": 1782
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "5b26b4e8897a44ce",
+      "text": "[· 方法例题 · 例 5 中 $P(A_{i})$](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%88%E9%AA%8C%E6%A6%82%E7%8E%87%E4%B8%8E%E5%90%8E%E9%AA%8C%E6%A6%82%E7%8E%87%E7%9A%84%E8%A7%A3%E9%87%8A.md)",
+      "type": "text",
+      "width": 250,
+      "x": 608,
+      "y": 1948
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "38e5f3f79a7850bd",
+      "text": "[· 方法例题 · 例 6 在数字通信中](../../../../%E4%B9%A0%E9%A2%98/Q070000001736.md)",
+      "type": "text",
+      "width": 250,
+      "x": 608,
+      "y": 2114
+    },
+    {
+      "height": 464,
+      "id": "9b331cc85f955e69",
+      "label": "03 · 阅读与思考 贝叶斯公式与人工智能",
+      "type": "group",
+      "width": 412,
+      "x": 972,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "9498b99ba01a4470",
+      "text": "[⌕ 放大 · 阅读与思考 贝叶斯公式与人工智能](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-03-%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83-%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-38c847.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 1028,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "b2ab0f50d73985d1",
+      "text": "[✦ 阅读与思考 贝叶斯公式与人工智能](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1028,
+      "y": 406
+    },
+    {
+      "height": 404,
+      "id": "4fb342cd34058354",
+      "label": "04 · 7.2 离散型随机变量及其分布列",
+      "type": "group",
+      "width": 1442,
+      "x": 2470,
+      "y": 2584
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "d115b7238a931f43",
+      "text": "[⌕ 放大 · 7.2 离散型随机变量及其分布列](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-04-7.2-%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97-83d15f.canvas)\n\n5 个展示原子 · 11 题",
+      "type": "text",
+      "width": 300,
+      "x": 2526,
+      "y": 2838
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3bc57f84cb02acf5",
+      "text": "[✦ 情景引入 · 由样本空间到实数的对应引出随机变量](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2526,
+      "y": 2660
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "7a49b2dd6fe7e37e",
+      "text": "[✦ 思考题 · 7.2 离散型随机变量及其分布列·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2946,
+      "y": 2826
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "1e065e28e80222fc",
+      "text": "[· 方法例题 · 例 1 一批产品中次品率为 5%](../../../../%E4%B9%A0%E9%A2%98/Q070000001749.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2906,
+      "y": 2660
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "2fb18988f1a48a75",
+      "text": "[· 方法例题 · 例 2 某学校高二年级有 200 名学](../../../../%E4%B9%A0%E9%A2%98/Q070000001750.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3256,
+      "y": 2660
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "6fa3a9f1bc022479",
+      "text": "[· 方法例题 · 例 3 一批笔记本电脑共有10台](../../../../%E4%B9%A0%E9%A2%98/Q070000001751.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3606,
+      "y": 2660
+    },
+    {
+      "height": 2198,
+      "id": "8f4bab9f1658071f",
+      "label": "05 · 7.3 离散型随机变量的数字特征",
+      "type": "group",
+      "width": 1554,
+      "x": 4644,
+      "y": 892
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "5aa76affd9a44e43",
+      "text": "[⌕ 放大 · 7.3 离散型随机变量的数字特征](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-05-7.3-%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81-1e2e4a.canvas)\n\n13 个展示原子 · 16 题",
+      "type": "text",
+      "width": 300,
+      "x": 4700,
+      "y": 968
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3e98a4b0a8fc5909",
+      "text": "[✦ 情景引入 · 从考试成绩与射箭水平认识随机变量数字特征](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E4%B8%8E%E5%B0%84%E7%AE%AD%E6%B0%B4%E5%B9%B3%E8%AE%A4%E8%AF%86%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81--Gc16de126f3ee9f.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4700,
+      "y": 1222
+    },
+    {
+      "height": 1038,
+      "id": "2484c00152bf3148",
+      "label": "7.3.1 离散型随机变量的均值",
+      "type": "group",
+      "width": 752,
+      "x": 4700,
+      "y": 1460
+    },
+    {
+      "height": 66,
+      "id": "7af8cffd4ab3562b",
+      "text": "[§ 7.3.1 离散型随机变量的均值](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.3%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81/7.3.1%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "type": "text",
+      "width": 260,
+      "x": 5106,
+      "y": 2210
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "2882759f02d01713",
+      "text": "[· 情景引入 · 由射箭环数分布比较随机变量均值](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4756,
+      "y": 1702
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "bdd1337196faa730",
+      "text": "[· 方法例题 · 例 1 在篮球比赛中](../../../../%E4%B9%A0%E9%A2%98/Q070000001762.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5146,
+      "y": 2376
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "2f7247dc2936cc15",
+      "text": "[· 方法例题 · 例 2 抛掷一枚质地均匀的骰子](../../../../%E4%B9%A0%E9%A2%98/Q070000001763.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4756,
+      "y": 1536
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "8309da5a44904fe6",
+      "text": "[· 思考题 · 7.3.1 离散型随机变量的均值·观察](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%9D%87%E5%80%BC%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%90%AB%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5106,
+      "y": 1536
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "bb763911fadbb7ad",
+      "text": "[· 思考题 · 7.3.1 离散型随机变量的均值·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%9D%87%E5%80%BC%E7%9A%84%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5106,
+      "y": 1702
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "38067529674eda91",
+      "text": "[· 方法例题 · 例 3 猜歌名游戏是根据歌曲的主旋律制](../../../../%E4%B9%A0%E9%A2%98/Q070000001764.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5106,
+      "y": 1868
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "dddf6bef35185b61",
+      "text": "[· 方法例题 · 例 4 根据天气预报](../../../../%E4%B9%A0%E9%A2%98/Q070000001765.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5106,
+      "y": 2034
+    },
+    {
+      "height": 376,
+      "id": "ffa1e88371ad3e38",
+      "label": "7.3.2 离散型随机变量的方差",
+      "type": "group",
+      "width": 1442,
+      "x": 4700,
+      "y": 2658
+    },
+    {
+      "height": 66,
+      "id": "000e0b478e207653",
+      "text": "[§ 7.3.2 离散型随机变量的方差](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.3%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81/7.3.2%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%96%B9%E5%B7%AE.md)",
+      "type": "text",
+      "width": 260,
+      "x": 4756,
+      "y": 2912
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "77134ad93f29da9b",
+      "text": "[✦ 情景引入 · 从均值无法刻画波动认识随机变量方差](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%9D%87%E5%80%BC%E6%97%A0%E6%B3%95%E5%88%BB%E7%94%BB%E6%B3%A2%E5%8A%A8%E8%AE%A4%E8%AF%86%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E6%96%B9%E5%B7%AE--G6686e039fcce72.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4756,
+      "y": 2734
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "50451fc63bdcef73",
+      "text": "[✦ 思考题 · 7.3.2 离散型随机变量的方差·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%96%B9%E5%B7%AE.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5176,
+      "y": 2900
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "2b72ef0bbb6f5aac",
+      "text": "[· 思考题 · 7.3.2 离散型随机变量的方差·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%B9%E5%B7%AE%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E4%BC%B8%E7%BC%A9%E8%A7%84%E5%BE%8B.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5136,
+      "y": 2734
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "ca9ce32ba36ffea4",
+      "text": "[· 方法例题 · 例 5 抛掷一枚质地均匀的骰子](../../../../%E4%B9%A0%E9%A2%98/Q070000001769.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5486,
+      "y": 2734
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "489b3fed0572b65d",
+      "text": "[· 方法例题 · 例 6 投资 A, B 两种股票](../../../../%E4%B9%A0%E9%A2%98/Q070000001770.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5836,
+      "y": 2734
+    },
+    {
+      "height": 1918,
+      "id": "4ac589d6a683ba78",
+      "label": "06 · 7.4 二项分布与超几何分布",
+      "type": "group",
+      "width": 1056,
+      "x": 2470,
+      "y": 506
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "036a65994c2f97b5",
+      "text": "[⌕ 放大 · 7.4 二项分布与超几何分布](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-06-7.4-%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83-c83671.canvas)\n\n15 个展示原子 · 17 题",
+      "type": "text",
+      "width": 300,
+      "x": 3078,
+      "y": 2196
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "27687d896aa71b3a",
+      "text": "[✦ 情景引入 · 由离散随机变量分布走向二项与超几何分布](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E7%A6%BB%E6%95%A3%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83%E8%B5%B0%E5%90%91%E4%BA%8C%E9%A1%B9%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83--G3b446f38ee1fc2.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2526,
+      "y": 582
+    },
+    {
+      "height": 1548,
+      "id": "069f2d3d0b9df22c",
+      "label": "7.4.1 二项分布",
+      "type": "group",
+      "width": 392,
+      "x": 2526,
+      "y": 820
+    },
+    {
+      "height": 66,
+      "id": "ab3173186281c348",
+      "text": "[§ 7.4.1 二项分布](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.4%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/7.4.1%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83.md)",
+      "type": "text",
+      "width": 260,
+      "x": 2582,
+      "y": 2246
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "e5285bb904c11a36",
+      "text": "[✦ 情景引入 · 从产品检验与飞碟射击认识伯努利试验](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E4%B8%8En%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2582,
+      "y": 896
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "3ea258f162ad0327",
+      "text": "[· 思考题 · 7.4.1 二项分布·思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83-%E8%BE%A8%E5%88%ABn%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E5%8F%8A%E6%88%90%E5%8A%9F%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 1074
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "4e7ccdc2ed2d85f4",
+      "text": "[· 思考题 · 7.4.1 二项分布·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 1240
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "62c49d58666795df",
+      "text": "[· 思考题 · 7.4.1 二项分布·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 1406
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "58553f7a4f03f516",
+      "text": "[· 方法例题 · 例 1 将一枚质地均匀的硬币重复抛掷](../../../../%E4%B9%A0%E9%A2%98/Q070000001782.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 1572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "6e7600e9cf0c7744",
+      "text": "[· 方法例题 · 例 2 图 7.4-2 是一块高尔顿板](../../../../%E4%B9%A0%E9%A2%98/Q070000001783.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 1738
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "208ea77bdace5a6d",
+      "text": "[· 方法例题 · 例 3 甲、乙两选手进行象棋比赛](../../../../%E4%B9%A0%E9%A2%98/Q070000001784.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 1904
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "32579183b0f911fc",
+      "text": "[· 思考题 · 7.4.1 二项分布·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2582,
+      "y": 2070
+    },
+    {
+      "height": 1216,
+      "id": "6c7f6911939c0d4a",
+      "label": "7.4.2 超几何分布",
+      "type": "group",
+      "width": 392,
+      "x": 3078,
+      "y": 820
+    },
+    {
+      "height": 66,
+      "id": "c4614b7cc107a430",
+      "text": "[§ 7.4.2 超几何分布](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/7.4%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83/7.4.2%20%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3134,
+      "y": 1914
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "615598380576f8bd",
+      "text": "[✦ 7.4.2 超几何分布·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3134,
+      "y": 896
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "97a0bc8d3a89041b",
+      "text": "[· 思考题 · 7.4.2 超几何分布·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3134,
+      "y": 1074
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "09daab8b76a75c9c",
+      "text": "[· 方法例题 · 例 4 从50名学生中随机选出5名学生](../../../../%E4%B9%A0%E9%A2%98/Q070000001789.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3134,
+      "y": 1240
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "2afc947f3b98b20a",
+      "text": "[· 方法例题 · 例 5 一批零件共有30个](../../../../%E4%B9%A0%E9%A2%98/Q070000001790.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3134,
+      "y": 1406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "1875e6e903cfbdeb",
+      "text": "[· 思考题 · 7.4.2 超几何分布·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3134,
+      "y": 1572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "be6d0422a9565992",
+      "text": "[· 方法例题 · 例 6 一个袋子中有100个大小相同的](../../../../%E4%B9%A0%E9%A2%98/Q070000001791.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3134,
+      "y": 1738
+    },
+    {
+      "height": 452,
+      "id": "5b1051bf76290d81",
+      "label": "07 · 探究与发现 二项分布的性质",
+      "type": "group",
+      "width": 412,
+      "x": 4072,
+      "y": 2584
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "11a7f500f511700b",
+      "text": "[⌕ 放大 · 探究与发现 二项分布的性质](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-07-%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0-%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%80%A7%E8%B4%A8-125d84.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 4128,
+      "y": 2660
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "2e49109e840509b0",
+      "text": "[✦ 探究与发现 二项分布的性质](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4128,
+      "y": 2914
+    },
+    {
+      "height": 746,
+      "id": "7de5cdd0c1ada5fd",
+      "label": "08 · 7.5 正态分布",
+      "type": "group",
+      "width": 412,
+      "x": 3686,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "168e08d67ac8e140",
+      "text": "[⌕ 放大 · 7.5 正态分布](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-08-7.5-%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83-91c334.canvas)\n\n3 个展示原子 · 8 题",
+      "type": "text",
+      "width": 300,
+      "x": 3742,
+      "y": 672
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3709640ec4845006",
+      "text": "[✦ 情景引入 · 由连续型随机变量走向正态分布](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E4%B8%8E%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3742,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "769b27ee4a4acb0b",
+      "text": "[· 思考题 · 7.5 正态分布·观察](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3742,
+      "y": 330
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "1be0c30498eae5db",
+      "text": "[· 思考题 · 7.5 正态分布·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%8F%82%E6%95%B0%E4%B8%8E%E6%A0%87%E5%87%86%E5%B7%AE%E5%8C%BA%E9%97%B4%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3742,
+      "y": 496
+    },
+    {
+      "height": 226,
+      "id": "102e058859edf57a",
+      "label": "09 · 信息技术应用 概率分布图及概率计算",
+      "type": "group",
+      "width": 2052,
+      "x": 4462,
+      "y": 506
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "db1d51aa010cf662",
+      "text": "[⌕ 放大 · 信息技术应用 概率分布图及概率计算](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-09-%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8-%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E5%9B%BE%E5%8F%8A%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97-4cc806.canvas)\n\n4 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 6158,
+      "y": 582
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a9c87a24a70594a4",
+      "text": "[✦ 信息技术应用 概率分布图及概率计算·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%20%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E5%9B%BE%E5%8F%8A%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97--Gbfcef43529aecf.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4518,
+      "y": 582
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "f1fdb845ba8b0fcd",
+      "text": "[✦ 1. 二项分布](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8GeoGebra%E8%AE%A1%E7%AE%97%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4938,
+      "y": 582
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a35791bdd198a95e",
+      "text": "[✦ 2. 超几何分布](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8GeoGebra%E8%AE%A1%E7%AE%97%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5358,
+      "y": 582
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "b4a0b36040edf588",
+      "text": "[✦ 3. 正态分布](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8GeoGebra%E8%AE%A1%E7%AE%97%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5778,
+      "y": 582
+    },
+    {
+      "height": 464,
+      "id": "a2c39896d640ee54",
+      "label": "10 · 第七章 随机变量及其分布 小结",
+      "type": "group",
+      "width": 412,
+      "x": 6358,
+      "y": 892
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "a59de777fb3b3c08",
+      "text": "[⌕ 放大 · 第七章 随机变量及其分布 小结](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-10-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83-%E5%B0%8F%E7%BB%93-890078.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 6414,
+      "y": 968
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "98cc65d028a9dec0",
+      "text": "[✦ 第七章 随机变量及其分布 小结](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%20%E5%B0%8F%E7%BB%93--Ge39b314add2d85.md) · [✦ 第七章 随机变量及其分布 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001810.md) · [✦ 第七章 随机变量及其分布 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001811.md) · [✦ 第七章 随机变量及其分布 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001812.md) · [✦ 第七章 随机变量及其分布 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001813.md) · [✦ 第七章 随机变量及其分布 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001814.md) · [✦ 第七章 随机变量及其分布 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001815.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6414,
+      "y": 1222
+    },
+    {
+      "height": 226,
+      "id": "f936066a53df3bfa",
+      "label": "11 · 第七章 随机变量及其分布 复习参考题 7",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "d974a06184d27c47",
+      "text": "[⌕ 放大 · 第七章 随机变量及其分布 复习参考题 7](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-11-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83-%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%98-7-e84438.canvas)\n\n0 个展示原子 · 12 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "4456777453b3f81e",
+      "text": "# [第七章 随机变量及其分布](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "e688ca8b3e988eab",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "8e6ba7fff3a76541",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

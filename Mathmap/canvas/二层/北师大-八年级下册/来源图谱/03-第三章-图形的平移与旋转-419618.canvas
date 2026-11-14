@@ -1,0 +1,1144 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f9b683a89f8dd765",
+      "fromSide": "right",
+      "id": "f34966a28c68af4a",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "80c051a60cbf1d67",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0c5a8d3bb100a3a8",
+      "fromSide": "right",
+      "id": "e0287f863fa31ee9",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "81fced4eca585171",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c6444de9c8980f3e",
+      "fromSide": "right",
+      "id": "aa7aaf16f0a71ec5",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "14a470237dbbd0ab",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "80c051a60cbf1d67",
+      "fromSide": "right",
+      "id": "849b83625bc314fa",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "0c5a8d3bb100a3a8",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f340906df44a6057",
+      "fromSide": "right",
+      "id": "64f1d25113e1a6f2",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c6444de9c8980f3e",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "14a470237dbbd0ab",
+      "fromSide": "right",
+      "id": "daa8deb3107ab59f",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "f9b683a89f8dd765",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "81fced4eca585171",
+      "fromSide": "right",
+      "id": "4eedd61f65b2c8cd",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "4483c8f2653bd85a",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0c5a8d3bb100a3a8",
+      "fromSide": "right",
+      "id": "68790f9fde677e67",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "de3517c06b364f3b",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c6444de9c8980f3e",
+      "fromSide": "right",
+      "id": "7e67a0d1d154d65a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "dd71a7a675f1fdcb",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c6444de9c8980f3e",
+      "fromSide": "right",
+      "id": "e8da1ecb4ae9b103",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "3378b2619af074e0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d8798cdc728ba9f2",
+      "fromSide": "right",
+      "id": "ad432064ac613bb5",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "14a470237dbbd0ab",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "4483c8f2653bd85a",
+      "fromSide": "right",
+      "id": "8e891c50b55043af",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "84b33831fd0cd1e8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "14a470237dbbd0ab",
+      "fromSide": "right",
+      "id": "24191b523dff363f",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "abbcdb4107ff95de",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "abbcdb4107ff95de",
+      "fromSide": "right",
+      "id": "75b886d831bf312c",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "f9b683a89f8dd765",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "7d2ee37be9e7ff11",
+      "fromSide": "right",
+      "id": "623d72bd5bda7cd3",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "14a470237dbbd0ab",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "de3517c06b364f3b",
+      "fromSide": "right",
+      "id": "81d802b7797fcfda",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "81fced4eca585171",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "80c051a60cbf1d67",
+      "fromSide": "right",
+      "id": "9a86f9849136f8a3",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "a33bc70192443ae2",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f340906df44a6057",
+      "fromSide": "right",
+      "id": "f5e1dcf6efc208be",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "341b9cfb01c880d1",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "4a311673b295cb87",
+      "fromSide": "bottom",
+      "id": "170b8023fb5ff71c",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "0c5a8d3bb100a3a8",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "4a311673b295cb87",
+      "fromSide": "bottom",
+      "id": "c014018488c567c6",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "14a470237dbbd0ab",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "4a311673b295cb87",
+      "fromSide": "bottom",
+      "id": "914bc19429dbfce2",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "80c051a60cbf1d67",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "4a311673b295cb87",
+      "fromSide": "bottom",
+      "id": "ce6eae04b4373ded",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "81fced4eca585171",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f9b683a89f8dd765",
+      "fromSide": "right",
+      "id": "13c798b9c6d9017c",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "8c2a7325a18270a6",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "05e760b616f8733b",
+      "fromSide": "bottom",
+      "id": "f34dbe73c2d4adbb",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "f340906df44a6057",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a33bc70192443ae2",
+      "fromSide": "right",
+      "id": "a6d6d80e338d0328",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "0c5a8d3bb100a3a8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "341b9cfb01c880d1",
+      "fromSide": "right",
+      "id": "5a837666a433328e",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "c6444de9c8980f3e",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3378b2619af074e0",
+      "fromSide": "right",
+      "id": "73d9b67fd6638d51",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "80c051a60cbf1d67",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "81fced4eca585171",
+      "fromSide": "right",
+      "id": "13459809cde29d1b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "af55fca534f181e8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "beea8235124f85e5",
+      "fromSide": "right",
+      "id": "b088c27e2fe932c4",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "c6444de9c8980f3e",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cbbf2e59ade17c86",
+      "fromSide": "right",
+      "id": "c9df8c496e351185",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "0c5a8d3bb100a3a8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "93adf161e9f4d3aa",
+      "fromSide": "bottom",
+      "id": "2e71af1d2d724f22",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ed932a34c6e3a0db",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6c66657a3b112e48",
+      "fromSide": "bottom",
+      "id": "8fb3ff35a11a840b",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ed932a34c6e3a0db",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9a94e944c680cbd0",
+      "fromSide": "bottom",
+      "id": "3eadbfc0b491a163",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ed932a34c6e3a0db",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2affab87a664aeb5",
+      "fromSide": "bottom",
+      "id": "7f0b3a20fdad3284",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ed932a34c6e3a0db",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "c0f3b7877ce429bc",
+      "fromSide": "bottom",
+      "id": "3fe01961e3f90496",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "09d5290eb13aad2d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "cad83a7e1c055a00",
+      "fromSide": "bottom",
+      "id": "c86f3c2946529851",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "09d5290eb13aad2d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "441f83692b381d61",
+      "fromSide": "bottom",
+      "id": "cfe20ca53ae192d2",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "09d5290eb13aad2d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9911125ccf84ad4c",
+      "fromSide": "bottom",
+      "id": "2ad7e8b96a52cdac",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ee2e626eb4c0fc8b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9608b57a8d91fa65",
+      "fromSide": "bottom",
+      "id": "3eebeea883530b22",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ee2e626eb4c0fc8b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "7fe01a044484aa08",
+      "fromSide": "bottom",
+      "id": "fa56cdc4241dcb1c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ee2e626eb4c0fc8b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "21e445cfd8c1b4e1",
+      "fromSide": "bottom",
+      "id": "0ee452410a55aaed",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "72c9974eeec23c6a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f63421169c250be5",
+      "fromSide": "bottom",
+      "id": "02a208f95f529e21",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "72c9974eeec23c6a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "288519d702e33a61",
+      "fromSide": "bottom",
+      "id": "89de051b4b53f374",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "72c9974eeec23c6a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "fc1e39a803778378",
+      "fromSide": "bottom",
+      "id": "8d714f6ba6447c8a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "72c9974eeec23c6a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "49db76deb3288387",
+      "fromSide": "bottom",
+      "id": "0a95f62f0adb130b",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ec072a43b7b00ab2",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a3aa79b8b7ef2d6e",
+      "fromSide": "bottom",
+      "id": "4f29f302647fb5ea",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ecc958ad455af5ff",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2068,
+      "id": "6b3ab7f3b478405b",
+      "label": "第三章 图形的平移与旋转",
+      "type": "group",
+      "width": 10760,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "731573b0cd34b5e1",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-01-%E7%AB%A0%E5%BC%95%E5%85%A5-caee67.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "7d2ee37be9e7ff11",
+      "text": "[✦ 情景引入 · 从摩天轮、秋千与电梯等运动现象走向图形的平移与旋转](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E6%91%A9%E5%A4%A9%E8%BD%AE%E3%80%81%E7%A7%8B%E5%8D%83%E4%B8%8E%E7%94%B5%E6%A2%AF%E7%AD%89%E8%BF%90%E5%8A%A8%E7%8E%B0%E8%B1%A1%E8%B5%B0%E5%90%91%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC--Gd3827c34c509e8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 628,
+      "y": 76
+    },
+    {
+      "height": 1374,
+      "id": "289df5765da19dd7",
+      "label": "02 · 1 图形的平移",
+      "type": "group",
+      "width": 3096,
+      "x": 1068,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "8555f06427c254bd",
+      "text": "[⌕ 放大 · 1 图形的平移](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-02-1-%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB-bf8626.canvas)\n\n13 个展示原子 · 18 题",
+      "type": "text",
+      "width": 300,
+      "x": 1124,
+      "y": 152
+    },
+    {
+      "height": 210,
+      "id": "6f7b8ef8ebafab5e",
+      "label": "平移的概念、性质与作图",
+      "type": "group",
+      "width": 1992,
+      "x": 1584,
+      "y": 1184
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "beea8235124f85e5",
+      "text": "[✦ 情景引入 · 从日常生活物体直线移动场景认识图形的平移及其共同特点](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BB%8E%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E7%89%A9%E4%BD%93%E7%9B%B4%E7%BA%BF%E7%A7%BB%E5%8A%A8%E5%9C%BA%E6%99%AF%E8%AE%A4%E8%AF%86%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E5%8F%8A%E5%85%B6%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2020,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "f340906df44a6057",
+      "text": "[✦ 平移的概念及对应元素](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E7%A7%BB%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%AF%B9%E5%BA%94%E5%85%83%E7%B4%A0.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1640,
+      "y": 1260
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "341b9cfb01c880d1",
+      "text": "[✦ 问题 · 硬纸片平移中的对应线段与对应角性质探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%A1%AC%E7%BA%B8%E7%89%87%E5%B9%B3%E7%A7%BB%E4%B8%AD%E7%9A%84%E5%AF%B9%E5%BA%94%E7%BA%BF%E6%AE%B5%E4%B8%8E%E5%AF%B9%E5%BA%94%E8%A7%92%E6%80%A7%E8%B4%A8%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2400,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "c6444de9c8980f3e",
+      "text": "[✦ 平移的基本性质](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E7%A7%BB%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2820,
+      "y": 1260
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "dd71a7a675f1fdcb",
+      "text": "[✦ 问题 · 确定图形平移后位置所需条件的思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%A1%AE%E5%AE%9A%E5%9B%BE%E5%BD%A2%E5%B9%B3%E7%A7%BB%E5%90%8E%E4%BD%8D%E7%BD%AE%E6%89%80%E9%9C%80%E6%9D%A1%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3240,
+      "y": 1260
+    },
+    {
+      "height": 872,
+      "id": "8870dbb6e17fdebc",
+      "label": "一次平移下的点的坐标变化",
+      "type": "group",
+      "width": 372,
+      "x": 3736,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "93adf161e9f4d3aa",
+      "text": "[· 问题 · 坐标系中水平平移对应点坐标变化探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%AD%E6%B0%B4%E5%B9%B3%E5%B9%B3%E7%A7%BB%E5%AF%B9%E5%BA%94%E7%82%B9%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3792,
+      "y": 228
+    },
+    {
+      "height": 66,
+      "id": "ed932a34c6e3a0db",
+      "text": "[§ 一次平移下的点的坐标变化](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/1%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB/%E4%B8%80%E6%AC%A1%E5%B9%B3%E7%A7%BB%E4%B8%8B%E7%9A%84%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3792,
+      "y": 902
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "6c66657a3b112e48",
+      "text": "[· 问题 · 坐标系中上下平移对应点坐标变化探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%AD%E4%B8%8A%E4%B8%8B%E5%B9%B3%E7%A7%BB%E5%AF%B9%E5%BA%94%E7%82%B9%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3792,
+      "y": 394
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "9a94e944c680cbd0",
+      "text": "[· 问题 · 坐标加减变化对图形平移的影响探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9D%90%E6%A0%87%E5%8A%A0%E5%87%8F%E5%8F%98%E5%8C%96%E5%AF%B9%E5%9B%BE%E5%BD%A2%E5%B9%B3%E7%A7%BB%E7%9A%84%E5%BD%B1%E5%93%8D%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3792,
+      "y": 560
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "2affab87a664aeb5",
+      "text": "[· 问题 · 图形沿坐标轴方向平移与对应点坐标变化规律总结](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9B%BE%E5%BD%A2%E6%B2%BF%E5%9D%90%E6%A0%87%E8%BD%B4%E6%96%B9%E5%90%91%E5%B9%B3%E7%A7%BB%E4%B8%8E%E5%AF%B9%E5%BA%94%E7%82%B9%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B%E6%80%BB%E7%BB%93.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3792,
+      "y": 726
+    },
+    {
+      "height": 872,
+      "id": "0598cd53d7895732",
+      "label": "连续两次平移与坐标综合变化",
+      "type": "group",
+      "width": 372,
+      "x": 1584,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "c0f3b7877ce429bc",
+      "text": "[· 问题 · 两次沿坐标轴平移等效于一次平移的探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%A4%E6%AC%A1%E6%B2%BF%E5%9D%90%E6%A0%87%E8%BD%B4%E5%B9%B3%E7%A7%BB%E7%AD%89%E6%95%88%E4%BA%8E%E4%B8%80%E6%AC%A1%E5%B9%B3%E7%A7%BB%E7%9A%84%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1640,
+      "y": 228
+    },
+    {
+      "height": 66,
+      "id": "09d5290eb13aad2d",
+      "text": "[§ 连续两次平移与坐标综合变化](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/1%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB/%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E5%B9%B3%E7%A7%BB%E4%B8%8E%E5%9D%90%E6%A0%87%E7%BB%BC%E5%90%88%E5%8F%98%E5%8C%96.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1640,
+      "y": 736
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "cad83a7e1c055a00",
+      "text": "[· 问题 · 横纵坐标同时加减与图形斜向平移关系探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%A8%AA%E7%BA%B5%E5%9D%90%E6%A0%87%E5%90%8C%E6%97%B6%E5%8A%A0%E5%87%8F%E4%B8%8E%E5%9B%BE%E5%BD%A2%E6%96%9C%E5%90%91%E5%B9%B3%E7%A7%BB%E5%85%B3%E7%B3%BB%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1640,
+      "y": 394
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "441f83692b381d61",
+      "text": "[· 问题 · 依次沿两坐标轴平移的位置与坐标变化规律总结](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BE%9D%E6%AC%A1%E6%B2%BF%E4%B8%A4%E5%9D%90%E6%A0%87%E8%BD%B4%E5%B9%B3%E7%A7%BB%E7%9A%84%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B%E6%80%BB%E7%BB%93.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1640,
+      "y": 560
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "05e760b616f8733b",
+      "text": "[· 方法例题 · 例2 两次平移下的坐标变化及一次等效平移的方向与距离](../../../../%E4%B9%A0%E9%A2%98/Q070000002976.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1640,
+      "y": 902
+    },
+    {
+      "height": 1016,
+      "id": "8b6db2917b3da497",
+      "label": "03 · 2 图形的旋转",
+      "type": "group",
+      "width": 5808,
+      "x": 4324,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "82f8bed358371c5b",
+      "text": "[⌕ 放大 · 2 图形的旋转](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-03-2-%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%97%8B%E8%BD%AC-59cc26.canvas)\n\n19 个展示原子 · 21 题",
+      "type": "text",
+      "width": 300,
+      "x": 4380,
+      "y": 698
+    },
+    {
+      "height": 210,
+      "id": "643977d49184040e",
+      "label": "旋转的概念与性质",
+      "type": "group",
+      "width": 2072,
+      "x": 4380,
+      "y": 328
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d8798cdc728ba9f2",
+      "text": "[✦ 情景引入 · 从日常生活物体转动场景认识图形的旋转及其共同特点](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BB%8E%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E7%89%A9%E4%BD%93%E8%BD%AC%E5%8A%A8%E5%9C%BA%E6%99%AF%E8%AE%A4%E8%AF%86%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%97%8B%E8%BD%AC%E5%8F%8A%E5%85%B6%E5%85%B1%E5%90%8C%E7%89%B9%E7%82%B9.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4436,
+      "y": 404
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "14a470237dbbd0ab",
+      "text": "[✦ 旋转的概念及对应元素](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%97%8B%E8%BD%AC%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%AF%B9%E5%BA%94%E5%85%83%E7%B4%A0.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4856,
+      "y": 404
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "abbcdb4107ff95de",
+      "text": "[✦ 问题 · 透明纸片旋转实验中的线段与角性质探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E9%80%8F%E6%98%8E%E7%BA%B8%E7%89%87%E6%97%8B%E8%BD%AC%E5%AE%9E%E9%AA%8C%E4%B8%AD%E7%9A%84%E7%BA%BF%E6%AE%B5%E4%B8%8E%E8%A7%92%E6%80%A7%E8%B4%A8%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5276,
+      "y": 404
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "f9b683a89f8dd765",
+      "text": "[✦ 旋转的基本性质](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%97%8B%E8%BD%AC%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5696,
+      "y": 404
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "8c2a7325a18270a6",
+      "text": "[✦ 问题 · 平移或旋转变换的识别与辨析](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B9%B3%E7%A7%BB%E6%88%96%E6%97%8B%E8%BD%AC%E5%8F%98%E6%8D%A2%E7%9A%84%E8%AF%86%E5%88%AB%E4%B8%8E%E8%BE%A8%E6%9E%90.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6116,
+      "y": 404
+    },
+    {
+      "height": 884,
+      "id": "4df819458364adf9",
+      "label": "旋转作图",
+      "type": "group",
+      "width": 392,
+      "x": 6612,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3378b2619af074e0",
+      "text": "[✦ 情景引入 · 由平面图形旋转的概念和性质引出按条件作旋转后图形的方法](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%BD%A2%E6%97%8B%E8%BD%AC%E7%9A%84%E6%A6%82%E5%BF%B5%E5%92%8C%E6%80%A7%E8%B4%A8%E5%BC%95%E5%87%BA%E6%8C%89%E6%9D%A1%E4%BB%B6%E4%BD%9C%E6%97%8B%E8%BD%AC%E5%90%8E%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6668,
+      "y": 228
+    },
+    {
+      "height": 66,
+      "id": "ee2e626eb4c0fc8b",
+      "text": "[§ 旋转作图](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/2%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%97%8B%E8%BD%AC/%E6%97%8B%E8%BD%AC%E4%BD%9C%E5%9B%BE.md)",
+      "type": "text",
+      "width": 260,
+      "x": 6668,
+      "y": 914
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "9911125ccf84ad4c",
+      "text": "[· 问题 · 已知旋转中心与一对对应点作旋转图形探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B7%B2%E7%9F%A5%E6%97%8B%E8%BD%AC%E4%B8%AD%E5%BF%83%E4%B8%8E%E4%B8%80%E5%AF%B9%E5%AF%B9%E5%BA%94%E7%82%B9%E4%BD%9C%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%BD%A2%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 6668,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "9608b57a8d91fa65",
+      "text": "[· 问题 · 确定图形旋转后位置所需条件及依据思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%A1%AE%E5%AE%9A%E5%9B%BE%E5%BD%A2%E6%97%8B%E8%BD%AC%E5%90%8E%E4%BD%8D%E7%BD%AE%E6%89%80%E9%9C%80%E6%9D%A1%E4%BB%B6%E5%8F%8A%E4%BE%9D%E6%8D%AE%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 6668,
+      "y": 572
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "7fe01a044484aa08",
+      "text": "[· 问题 · 甲乙图案重合的图形运动操作探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B2%E4%B9%99%E5%9B%BE%E6%A1%88%E9%87%8D%E5%90%88%E7%9A%84%E5%9B%BE%E5%BD%A2%E8%BF%90%E5%8A%A8%E6%93%8D%E4%BD%9C%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 6668,
+      "y": 738
+    },
+    {
+      "height": 388,
+      "id": "c280a377a02042a9",
+      "label": "中心对称、中心对称图形与旋转对称",
+      "type": "group",
+      "width": 2912,
+      "x": 7164,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "cbbf2e59ade17c86",
+      "text": "[✦ 情景引入 · 由两图形旋转180度重合现象引出中心对称与中心对称图形](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E4%B8%A4%E5%9B%BE%E5%BD%A2%E6%97%8B%E8%BD%AC180%E5%BA%A6%E9%87%8D%E5%90%88%E7%8E%B0%E8%B1%A1%E5%BC%95%E5%87%BA%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E4%B8%8E%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2.md)",
+      "type": "text",
+      "width": 280,
+      "x": 7600,
+      "y": 228
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "80c051a60cbf1d67",
+      "text": "[✦ 成中心对称的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%88%90%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 7220,
+      "y": 404
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "a33bc70192443ae2",
+      "text": "[✦ 问题 · 成中心对称两个图形对应点连线性质探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%88%90%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E4%B8%A4%E4%B8%AA%E5%9B%BE%E5%BD%A2%E5%AF%B9%E5%BA%94%E7%82%B9%E8%BF%9E%E7%BA%BF%E6%80%A7%E8%B4%A8%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 7640,
+      "y": 406
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "0c5a8d3bb100a3a8",
+      "text": "[✦ 成中心对称的基本性质](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%88%90%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 8060,
+      "y": 404
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "4a311673b295cb87",
+      "text": "[· 方法例题 · 例2 画与五边形ABCDE成中心对称的图形](../../../../%E4%B9%A0%E9%A2%98/Q070000002997.md)",
+      "type": "text",
+      "width": 250,
+      "x": 7220,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "de3517c06b364f3b",
+      "text": "[✦ 问题 · 中心对称图形共同特征观察与举例](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81%E8%A7%82%E5%AF%9F%E4%B8%8E%E4%B8%BE%E4%BE%8B.md)",
+      "type": "text",
+      "width": 280,
+      "x": 8480,
+      "y": 228
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "81fced4eca585171",
+      "text": "[✦ 中心对称图形的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 8900,
+      "y": 404
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "af55fca534f181e8",
+      "text": "[✦ 问题 · 常见平面图形及例2组合图形的中心对称性辨析](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B8%B8%E8%A7%81%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%BD%A2%E5%8F%8A%E4%BE%8B2%E7%BB%84%E5%90%88%E5%9B%BE%E5%BD%A2%E7%9A%84%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E6%80%A7%E8%BE%A8%E6%9E%90.md)",
+      "type": "text",
+      "width": 280,
+      "x": 9320,
+      "y": 406
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "4483c8f2653bd85a",
+      "text": "[✦ 旋转对称图形的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%97%8B%E8%BD%AC%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 9320,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "84b33831fd0cd1e8",
+      "text": "[✦ 问题 · 旋转对称图形与中心对称图形的辨析与设计](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%97%8B%E8%BD%AC%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E4%B8%8E%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E7%9A%84%E8%BE%A8%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1.md)",
+      "type": "text",
+      "width": 280,
+      "x": 9740,
+      "y": 228
+    },
+    {
+      "height": 900,
+      "id": "2a5a2befcc2574dd",
+      "label": "04 · 3 简单的图案设计",
+      "type": "group",
+      "width": 412,
+      "x": 10292,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "72c9974eeec23c6a",
+      "text": "[⌕ 放大 · 3 简单的图案设计](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-04-3-%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1-1c7f0e.canvas)\n\n4 个展示原子 · 6 题",
+      "type": "text",
+      "width": 300,
+      "x": 10348,
+      "y": 826
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "21e445cfd8c1b4e1",
+      "text": "[· 问题 · 生活中图案的形成过程分析交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%9F%E6%B4%BB%E4%B8%AD%E5%9B%BE%E6%A1%88%E7%9A%84%E5%BD%A2%E6%88%90%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 250,
+      "x": 10348,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f63421169c250be5",
+      "text": "[· 问题 · “手风琴”纸条花边的平移与轴对称分析](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E2%80%9C%E6%89%8B%E9%A3%8E%E7%90%B4%E2%80%9D%E7%BA%B8%E6%9D%A1%E8%8A%B1%E8%BE%B9%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E8%BD%B4%E5%AF%B9%E7%A7%B0%E5%88%86%E6%9E%90.md)",
+      "type": "text",
+      "width": 250,
+      "x": 10348,
+      "y": 318
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "288519d702e33a61",
+      "text": "[· 问题 · 圆形折纸图案的旋转与对称关系探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9C%86%E5%BD%A2%E6%8A%98%E7%BA%B8%E5%9B%BE%E6%A1%88%E7%9A%84%E6%97%8B%E8%BD%AC%E4%B8%8E%E5%AF%B9%E7%A7%B0%E5%85%B3%E7%B3%BB%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 10348,
+      "y": 484
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "fc1e39a803778378",
+      "text": "[· 问题 · 图形运动变化分析与图案设计经验回顾](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9B%BE%E5%BD%A2%E8%BF%90%E5%8A%A8%E5%8F%98%E5%8C%96%E5%88%86%E6%9E%90%E4%B8%8E%E5%9B%BE%E6%A1%88%E8%AE%BE%E8%AE%A1%E7%BB%8F%E9%AA%8C%E5%9B%9E%E9%A1%BE.md)",
+      "type": "text",
+      "width": 250,
+      "x": 10348,
+      "y": 650
+    },
+    {
+      "height": 402,
+      "id": "b343b54a6ac384ce",
+      "label": "05 · 问题解决活动：最短距离",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 1610
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "ec072a43b7b00ab2",
+      "text": "[⌕ 放大 · 问题解决活动：最短距离](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-05-%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%B4%BB%E5%8A%A8-%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB-a15cb3.canvas)\n\n1 个展示原子 · 2 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 1862
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "49db76deb3288387",
+      "text": "[· 问题 · 问题解决活动：最短距离探究问题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E6%B4%BB%E5%8A%A8%EF%BC%9A%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB%E6%8E%A2%E7%A9%B6%E9%97%AE%E9%A2%98.md)",
+      "type": "text",
+      "width": 250,
+      "x": 112,
+      "y": 1686
+    },
+    {
+      "height": 402,
+      "id": "07226fcc3331e265",
+      "label": "06 · 回顾与思考",
+      "type": "group",
+      "width": 412,
+      "x": 628,
+      "y": 1610
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "ecc958ad455af5ff",
+      "text": "[⌕ 放大 · 回顾与思考](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-06-%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83-2be05c.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 684,
+      "y": 1862
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "a3aa79b8b7ef2d6e",
+      "text": "[· 问题 · 第三章 回顾与思考问题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 684,
+      "y": 1686
+    },
+    {
+      "height": 226,
+      "id": "e511d8dc0abb94b2",
+      "label": "07 · 复习题",
+      "type": "group",
+      "width": 412,
+      "x": 10292,
+      "y": 1610
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "78256407ab3c6881",
+      "text": "[⌕ 放大 · 复习题](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-07-%E5%A4%8D%E4%B9%A0%E9%A2%98-b3c22e.canvas)\n\n0 个展示原子 · 15 题",
+      "type": "text",
+      "width": 300,
+      "x": 10348,
+      "y": 1686
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "aa32f61148819583",
+      "text": "# [第三章 图形的平移与旋转](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "d2c35b125422838f",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "9ffa8fa8ecdbee1a",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

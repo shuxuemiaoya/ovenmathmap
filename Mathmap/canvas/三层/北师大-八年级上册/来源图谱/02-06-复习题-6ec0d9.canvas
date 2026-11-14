@@ -1,0 +1,74 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "cd0728f3ba60cd6a",
+      "fromSide": "bottom",
+      "id": "20972a0db865fbcd",
+      "label": "练习 · 21题",
+      "toEnd": "arrow",
+      "toNode": "1b2bbaa262b5dc10",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 380,
+      "id": "2e3790dcab6c7bb7",
+      "label": "复习题",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "1b2bbaa262b5dc10",
+      "text": "[练习入口 · 复习题](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%AE%9E%E6%95%B0/%E5%A4%8D%E4%B9%A0%E9%A2%98.md)\n\n共 21 题",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "cd0728f3ba60cd6a",
+      "text": "[✦ 对有理数概念扩充与实数系统再认识探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E6%9C%89%E7%90%86%E6%95%B0%E6%A6%82%E5%BF%B5%E6%89%A9%E5%85%85%E4%B8%8E%E5%AE%9E%E6%95%B0%E7%B3%BB%E7%BB%9F%E5%86%8D%E8%AE%A4%E8%AF%86%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "4d44aaa5130f9237",
+      "text": "# [复习题](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%AE%9E%E6%95%B0/%E5%A4%8D%E4%B9%A0%E9%A2%98.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "317bd7cbb31ca4cb",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E6%95%B0-9775d4.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "d5326bf078a4a27d",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

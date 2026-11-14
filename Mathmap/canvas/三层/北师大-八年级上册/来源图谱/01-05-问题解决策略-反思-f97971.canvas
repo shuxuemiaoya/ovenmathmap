@@ -1,0 +1,74 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "60624f2df595397f",
+      "fromSide": "bottom",
+      "id": "53d857f0cba5a552",
+      "label": "练习 · 2题",
+      "toEnd": "arrow",
+      "toNode": "d08ed580e3407cc3",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 380,
+      "id": "e39fc9839344d4ec",
+      "label": "问题解决策略：反思",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "d08ed580e3407cc3",
+      "text": "[练习入口 · 问题解决策略：反思](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5-%E5%8F%8D%E6%80%9D.md)\n\n共 2 题",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "60624f2df595397f",
+      "text": "[✦ 问题解决策略：反思的四个环节与方法体系](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5%EF%BC%9A%E5%8F%8D%E6%80%9D%E7%9A%84%E5%9B%9B%E4%B8%AA%E7%8E%AF%E8%8A%82%E4%B8%8E%E6%96%B9%E6%B3%95%E4%BD%93%E7%B3%BB.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "b8ad6eb3b0f347a0",
+      "text": "# [问题解决策略：反思](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5-%E5%8F%8D%E6%80%9D.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "06c6305ca240514f",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86-75a20e.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "7bc2faeaf98466d4",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "53a52400fb4fc238",
+      "fromSide": "right",
+      "id": "805f57f14dff4e28",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "5ac040ba3f0be7db",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "68ebd48e2941aef4",
+      "fromSide": "right",
+      "id": "856b1d1d9ee04ac8",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "53a52400fb4fc238",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "68ebd48e2941aef4",
+      "fromSide": "right",
+      "id": "4f036d2ceda78d75",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "53a52400fb4fc238",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "53a52400fb4fc238",
+      "fromSide": "bottom",
+      "id": "3a8d66ce14c30015",
+      "label": "归属 · 5题",
+      "toEnd": "arrow",
+      "toNode": "5050d00ed80b0364",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5ac040ba3f0be7db",
+      "fromSide": "bottom",
+      "id": "796604ced4022501",
+      "label": "归属 · 10题",
+      "toEnd": "arrow",
+      "toNode": "eb8fdad3054fc27e",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5ac040ba3f0be7db",
+      "fromSide": "bottom",
+      "id": "30e970dc880024a5",
+      "label": "归属 · 10题",
+      "toEnd": "arrow",
+      "toNode": "5341c6168ff4d93f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5ac040ba3f0be7db",
+      "fromSide": "bottom",
+      "id": "b83256c444d5c3b8",
+      "label": "归属 · 21题",
+      "toEnd": "arrow",
+      "toNode": "399ec5722ab01db3",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a3e20686fb0ab9ca",
+      "fromSide": "bottom",
+      "id": "7648ee9efb0d3eb4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2d022164d98b7588",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "43d296b9459c5bc2",
+      "fromSide": "bottom",
+      "id": "68942813c55112e4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2d022164d98b7588",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "e25b919f7aac8cb6",
+      "fromSide": "bottom",
+      "id": "4eea764db916afe6",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2d022164d98b7588",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "10ca73802c8d5cba",
+      "fromSide": "bottom",
+      "id": "c0a29d77199f645f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "b6b35624abe857bf",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ae4b213651611e12",
+      "fromSide": "bottom",
+      "id": "d3377f94328f2be5",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "b6b35624abe857bf",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f246577bd5dab473",
+      "fromSide": "bottom",
+      "id": "719cebd78bba8417",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "b6b35624abe857bf",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ea9d41a66c380a08",
+      "fromSide": "bottom",
+      "id": "c1f472baca64dcb7",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "b6b35624abe857bf",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "95859da37d477cbf",
+      "fromSide": "bottom",
+      "id": "2e9f2c21a607b8c3",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "b6b35624abe857bf",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "618217243a59c577",
+      "fromSide": "bottom",
+      "id": "64dec1c42d23835f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1e921268783c12d0",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "1b9aaf26a2bc2335",
+      "fromSide": "bottom",
+      "id": "3491a1c194cf8482",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1e921268783c12d0",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5ee0c6f9623bde3e",
+      "fromSide": "bottom",
+      "id": "9586fade9b063624",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1e921268783c12d0",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5d0b6ed56595a507",
+      "fromSide": "bottom",
+      "id": "e4776660acf7eb46",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1e921268783c12d0",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a4ff09b84cab2488",
+      "fromSide": "bottom",
+      "id": "82a8c380bd60872c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1e921268783c12d0",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "991c54bd975e94e6",
+      "fromSide": "bottom",
+      "id": "ef166f4dcf316ff1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1e921268783c12d0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1884,
+      "id": "50e9b397f2d26ee2",
+      "label": "8.6 空间直线、平面的垂直",
+      "type": "group",
+      "width": 1952,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "68ebd48e2941aef4",
+      "text": "[✦ 情景引入 · 类比平行关系研究空间直线与平面的垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%B1%BB%E6%AF%94%E5%B9%B3%E8%A1%8C%E5%85%B3%E7%B3%BB%E7%A0%94%E7%A9%B6%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4--Gbc44597059af1b.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 1282
+    },
+    {
+      "height": 1046,
+      "id": "1734b674bee51bfe",
+      "label": "8.6.1 直线与直线垂直",
+      "type": "group",
+      "width": 392,
+      "x": 420,
+      "y": 76
+    },
+    {
+      "height": 66,
+      "id": "2d022164d98b7588",
+      "text": "[§ 8.6.1 直线与直线垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6.1%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4.md)",
+      "type": "text",
+      "width": 260,
+      "x": 476,
+      "y": 828
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "5050d00ed80b0364",
+      "text": "[练习入口 · 8.6.1 直线与直线垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6.1%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4.md)\n\n共 5 题",
+      "type": "text",
+      "width": 260,
+      "x": 476,
+      "y": 994
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "53a52400fb4fc238",
+      "text": "[✦ 8.6.1 直线与直线垂直·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E4%B8%8E%E5%BC%82%E9%9D%A2%E7%9B%B4%E7%BA%BF%E6%89%80%E6%88%90%E8%A7%92.md)",
+      "type": "text",
+      "width": 280,
+      "x": 476,
+      "y": 650
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "a3e20686fb0ab9ca",
+      "text": "[· 思考题 · 8.6.1 直线与直线垂直·观察](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E4%B8%8E%E5%BC%82%E9%9D%A2%E7%9B%B4%E7%BA%BF%E6%89%80%E6%88%90%E8%A7%92.md)",
+      "type": "text",
+      "width": 250,
+      "x": 476,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "43d296b9459c5bc2",
+      "text": "[· 方法例题 · 例 1 如图 8.6-3](../../../../%E4%B9%A0%E9%A2%98/Q070000000751.md)",
+      "type": "text",
+      "width": 250,
+      "x": 476,
+      "y": 318
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "e25b919f7aac8cb6",
+      "text": "[· 方法例题 · 例 2 如图8.6-5（1）](../../../../%E4%B9%A0%E9%A2%98/Q070000000752.md)",
+      "type": "text",
+      "width": 250,
+      "x": 476,
+      "y": 484
+    },
+    {
+      "height": 1386,
+      "id": "d6796edf45d3758f",
+      "label": "8.6.2 直线与平面垂直",
+      "type": "group",
+      "width": 372,
+      "x": 972,
+      "y": 76
+    },
+    {
+      "height": 66,
+      "id": "b6b35624abe857bf",
+      "text": "[§ 8.6.2 直线与平面垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6.2%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1028,
+      "y": 992
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "eb8fdad3054fc27e",
+      "text": "[练习入口 · 8.6.2 直线与平面垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6.2%20%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4.md)\n\n共 10 题",
+      "type": "text",
+      "width": 260,
+      "x": 1028,
+      "y": 1334
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "5ac040ba3f0be7db",
+      "text": "[✦ 8.6.2 直线与平面垂直·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1028,
+      "y": 1158
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "10ca73802c8d5cba",
+      "text": "[· 思考题 · 8.6.2 直线与平面垂直·观察](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1028,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "ae4b213651611e12",
+      "text": "[· 思考题 · 8.6.2 直线与平面垂直·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1028,
+      "y": 318
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f246577bd5dab473",
+      "text": "[· 思考题 · 8.6.2 直线与平面垂直·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1028,
+      "y": 484
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "ea9d41a66c380a08",
+      "text": "[· 思考题 · 8.6.2 直线与平面垂直·思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83-%E7%BA%BF%E9%9D%A2%E5%9E%82%E7%9B%B4%E5%88%A4%E5%AE%9A%E4%B8%AD%E7%9B%B8%E4%BA%A4%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1028,
+      "y": 650
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "95859da37d477cbf",
+      "text": "[· 方法例题 · 例 3 求证：如果两条平行直线中的一条](../../../../%E4%B9%A0%E9%A2%98/Q070000000757.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1028,
+      "y": 816
+    },
+    {
+      "height": 1388,
+      "id": "0171c1a1b428eaea",
+      "label": "8.6.3 平面与平面垂直",
+      "type": "group",
+      "width": 392,
+      "x": 1504,
+      "y": 76
+    },
+    {
+      "height": 66,
+      "id": "1e921268783c12d0",
+      "text": "[§ 8.6.3 平面与平面垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6.3%20%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1560,
+      "y": 1170
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "5341c6168ff4d93f",
+      "text": "[练习入口 · 8.6.3 平面与平面垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6.3%20%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4.md)\n\n共 10 题",
+      "type": "text",
+      "width": 260,
+      "x": 1560,
+      "y": 1336
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "618217243a59c577",
+      "text": "[✦ 情景引入 · 由线线垂直与线面垂直定义面面垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E7%BA%BF%E7%BA%BF%E5%9E%82%E7%9B%B4%E4%B8%8E%E7%BA%BF%E9%9D%A2%E5%9E%82%E7%9B%B4%E5%AE%9A%E4%B9%89%E9%9D%A2%E9%9D%A2%E5%9E%82%E7%9B%B4--G44b5cf08c4f813.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1560,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "1b9aaf26a2bc2335",
+      "text": "[· 思考题 · 8.6.3 平面与平面垂直·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1560,
+      "y": 330
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5ee0c6f9623bde3e",
+      "text": "[· 思考题 · 8.6.3 平面与平面垂直·观察](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1560,
+      "y": 496
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5d0b6ed56595a507",
+      "text": "[· 思考题 · 8.6.3 平面与平面垂直·观察](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1560,
+      "y": 662
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "a4ff09b84cab2488",
+      "text": "[· 方法例题 · 例 7 如图 8.6-27 所示](../../../../%E4%B9%A0%E9%A2%98/Q070000000766.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1560,
+      "y": 828
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "991c54bd975e94e6",
+      "text": "[· 方法例题 · 例 8 如图8.6-28](../../../../%E4%B9%A0%E9%A2%98/Q070000000767.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1560,
+      "y": 994
+    },
+    {
+      "height": 204,
+      "id": "33411e086eb339a6",
+      "label": "习题8.6",
+      "type": "group",
+      "width": 372,
+      "x": 1504,
+      "y": 1624
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "399ec5722ab01db3",
+      "text": "[练习入口 · 习题8.6](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%BB%84%E7%BB%87%E5%B1%82/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%20%E6%95%B0%E5%AD%A6%20%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/%E4%B9%A0%E9%A2%988.6.md)\n\n共 21 题",
+      "type": "text",
+      "width": 260,
+      "x": 1560,
+      "y": 1700
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "1da0dfcccdd9d623",
+      "text": "# [8.6 空间直线、平面的垂直](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4/8.6%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E5%9E%82%E7%9B%B4.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "8251138be983efce",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5-27efa6.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "ca1b108cbf916d2d",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

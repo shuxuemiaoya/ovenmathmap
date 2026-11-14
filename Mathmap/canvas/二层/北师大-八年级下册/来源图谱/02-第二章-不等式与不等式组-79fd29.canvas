@@ -1,0 +1,1066 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "84e32d45037e24d6",
+      "fromSide": "right",
+      "id": "fea2aba04e753bf5",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "29e56514c3b1413a",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "b270aba8901fe04f",
+      "fromSide": "right",
+      "id": "7a173e986b1c85d0",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "09bd02d10f226946",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c6cf8b605b2bd323",
+      "fromSide": "right",
+      "id": "267519b6fa78465c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "b270aba8901fe04f",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "593bd84fc01664ad",
+      "fromSide": "right",
+      "id": "555f0a501da6caa0",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "6fa710022e1520f0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "09bd02d10f226946",
+      "fromSide": "right",
+      "id": "6b94305a69efbf06",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "593bd84fc01664ad",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "aa0aa3b81148f77e",
+      "fromSide": "right",
+      "id": "f52cdd5c97f74199",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c6cf8b605b2bd323",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "29e56514c3b1413a",
+      "fromSide": "right",
+      "id": "f960bd4a681937ff",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "723df7ee10b61931",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "6fa710022e1520f0",
+      "fromSide": "right",
+      "id": "9f6b75d4f01671ef",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "84e32d45037e24d6",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "723df7ee10b61931",
+      "fromSide": "right",
+      "id": "fa5e9c8a51fef462",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "540d34bc980aa3fb",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f840aee526d0650a",
+      "fromSide": "right",
+      "id": "0052a9b55c16c606",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "aa0aa3b81148f77e",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "29e56514c3b1413a",
+      "fromSide": "right",
+      "id": "b9272e9bc82bcafb",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d413f2f67b7f7d59",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c6cf8b605b2bd323",
+      "fromSide": "right",
+      "id": "07f6154458fe30be",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "63ad1dce1432da23",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5771f4d1052b6f0e",
+      "fromSide": "right",
+      "id": "358aa3646f85fd7d",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "aa0aa3b81148f77e",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "5760d55d1d0117db",
+      "fromSide": "bottom",
+      "id": "4e1592caa7a4103b",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "aa0aa3b81148f77e",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "5760d55d1d0117db",
+      "fromSide": "bottom",
+      "id": "5766d3374feb6f19",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "6fa710022e1520f0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "63ad1dce1432da23",
+      "fromSide": "right",
+      "id": "5df97598869ba16d",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "b270aba8901fe04f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "aa0aa3b81148f77e",
+      "fromSide": "right",
+      "id": "07fa7c2eb0357444",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "f06088333edc3853",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "aa0aa3b81148f77e",
+      "fromSide": "right",
+      "id": "6a92941696b8a8e0",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "fd2b55402b47a732",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cbb23972fa36a01e",
+      "fromSide": "right",
+      "id": "c6fe7a4808d2971a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "593bd84fc01664ad",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d413f2f67b7f7d59",
+      "fromSide": "right",
+      "id": "cffe2dac805721d6",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "723df7ee10b61931",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "c091ade35e76d065",
+      "fromSide": "bottom",
+      "id": "ff63ceb2e40711ee",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "84e32d45037e24d6",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "62b8902bd513b01a",
+      "fromSide": "right",
+      "id": "17b9e97e275626b6",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "c6cf8b605b2bd323",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cea48a0d04d0ffd9",
+      "fromSide": "right",
+      "id": "045b56b02e1093bc",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "aa0aa3b81148f77e",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "6fa710022e1520f0",
+      "fromSide": "right",
+      "id": "c24a0f3eaf677ca8",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "83c6084f8683b8d3",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "09bd02d10f226946",
+      "fromSide": "right",
+      "id": "ae7812a87ae71a90",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "cbb23972fa36a01e",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "fd2b55402b47a732",
+      "fromSide": "right",
+      "id": "62ed3d6db57baa0f",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "29e56514c3b1413a",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9a7e5b8f57a08948",
+      "fromSide": "right",
+      "id": "6a389bc8a960b986",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "29e56514c3b1413a",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2a9036926d2cead2",
+      "fromSide": "right",
+      "id": "601f102ca1bec91b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "84e32d45037e24d6",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "616fbabb13f28f15",
+      "fromSide": "right",
+      "id": "c3e99c444fff1920",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "6fa710022e1520f0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "7943a60ae1460161",
+      "fromSide": "right",
+      "id": "fa3883d92ef99d1a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "84e32d45037e24d6",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "593bd84fc01664ad",
+      "fromSide": "right",
+      "id": "c84157efbf0356ac",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "73044f00842b2da4",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8aceaf837e2c0f7b",
+      "fromSide": "bottom",
+      "id": "c76ac527b116e3b4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "84cbb82a8f549a72",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "3ee85442e45dabdb",
+      "fromSide": "bottom",
+      "id": "032a72d5daa93ef5",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "efcabd15e046c955",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "187d207485836fcb",
+      "fromSide": "bottom",
+      "id": "6322bd4b5d13e8b4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "609553c76b96383d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "76d7b76a2c5be1a7",
+      "fromSide": "bottom",
+      "id": "a038d44bf2c52d56",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "65d727da381bc69a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f7f0d110ef220837",
+      "fromSide": "bottom",
+      "id": "7c2aeed6248d0669",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "65d727da381bc69a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "3d9d2d866100b1a9",
+      "fromSide": "bottom",
+      "id": "b01b218dcbab2136",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "65d727da381bc69a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "093ac5c5f35d01c1",
+      "fromSide": "bottom",
+      "id": "937237e5d049e135",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "65d727da381bc69a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "79fa7db9c694c59a",
+      "fromSide": "bottom",
+      "id": "ba8be45e882362b8",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "6d9aafe5d430ef13",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "cfce81e7f1133155",
+      "fromSide": "bottom",
+      "id": "3d50424a1b656416",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "590a66c4eb8a7096",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2808,
+      "id": "cfa9e13ff7646591",
+      "label": "第二章 不等式与不等式组",
+      "type": "group",
+      "width": 7966,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "ae2f5d698ff38c27",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-01-%E7%AB%A0%E5%BC%95%E5%85%A5-1c0233.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 1200,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "9a7e5b8f57a08948",
+      "text": "[✦ 情景引入 · 从跷跷板、限速与打折等生活不等关系走向不等式与不等式组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E8%B7%B7%E8%B7%B7%E6%9D%BF%E3%80%81%E9%99%90%E9%80%9F%E4%B8%8E%E6%89%93%E6%8A%98%E7%AD%89%E7%94%9F%E6%B4%BB%E4%B8%8D%E7%AD%89%E5%85%B3%E7%B3%BB%E8%B5%B0%E5%90%91%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84--Gee0f17550b1494.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1600,
+      "y": 76
+    },
+    {
+      "height": 712,
+      "id": "8c97407f79519f17",
+      "label": "02 · 1 不等式及其基本性质",
+      "type": "group",
+      "width": 5216,
+      "x": 56,
+      "y": 2040
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "c416e0a6f961e135",
+      "text": "[⌕ 放大 · 1 不等式及其基本性质](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-02-1-%E4%B8%8D%E7%AD%89%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8-d2a811.canvas)\n\n14 个展示原子 · 18 题",
+      "type": "text",
+      "width": 300,
+      "x": 4916,
+      "y": 2116
+    },
+    {
+      "height": 210,
+      "id": "9b460234011b1336",
+      "label": "不等式的概念",
+      "type": "group",
+      "width": 1992,
+      "x": 112,
+      "y": 2486
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "f840aee526d0650a",
+      "text": "[✦ 情景引入 · 由等长绳子围正方形与圆的面积限制引出不等式的概念](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E7%AD%89%E9%95%BF%E7%BB%B3%E5%AD%90%E5%9B%B4%E6%AD%A3%E6%96%B9%E5%BD%A2%E4%B8%8E%E5%9C%86%E7%9A%84%E9%9D%A2%E7%A7%AF%E9%99%90%E5%88%B6%E5%BC%95%E5%87%BA%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 168,
+      "y": 2562
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "5771f4d1052b6f0e",
+      "text": "[✦ 问题 · 实际问题中的不等关系建模思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98%E4%B8%AD%E7%9A%84%E4%B8%8D%E7%AD%89%E5%85%B3%E7%B3%BB%E5%BB%BA%E6%A8%A1%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 548,
+      "y": 2562
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "cea48a0d04d0ffd9",
+      "text": "[✦ 问题 · 不等关系式共同特征观察与交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%8D%E7%AD%89%E5%85%B3%E7%B3%BB%E5%BC%8F%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81%E8%A7%82%E5%AF%9F%E4%B8%8E%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 280,
+      "x": 928,
+      "y": 2562
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "aa0aa3b81148f77e",
+      "text": "[✦ 不等式的定义](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1348,
+      "y": 2562
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "f06088333edc3853",
+      "text": "[✦ 问题 · 生活中的不等式举例交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%BE%E4%BE%8B%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1768,
+      "y": 2562
+    },
+    {
+      "height": 210,
+      "id": "43d9ddd350fff803",
+      "label": "不等式的解与解集",
+      "type": "group",
+      "width": 1652,
+      "x": 1292,
+      "y": 2116
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "62b8902bd513b01a",
+      "text": "[✦ 问题 · 不等式解的探索思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%8D%E7%AD%89%E5%BC%8F%E8%A7%A3%E7%9A%84%E6%8E%A2%E7%B4%A2%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1348,
+      "y": 2192
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "c6cf8b605b2bd323",
+      "text": "[✦ 不等式的解、解集与解不等式的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A7%A3%E3%80%81%E8%A7%A3%E9%9B%86%E4%B8%8E%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1768,
+      "y": 2192
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "63ad1dce1432da23",
+      "text": "[✦ 问题 · 在数轴上表示不等式解集的思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9C%A8%E6%95%B0%E8%BD%B4%E4%B8%8A%E8%A1%A8%E7%A4%BA%E4%B8%8D%E7%AD%89%E5%BC%8F%E8%A7%A3%E9%9B%86%E7%9A%84%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2188,
+      "y": 2192
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "b270aba8901fe04f",
+      "text": "[✦ 用数轴表示不等式的解集](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E6%95%B0%E8%BD%B4%E8%A1%A8%E7%A4%BA%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A7%A3%E9%9B%86.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2608,
+      "y": 2192
+    },
+    {
+      "height": 376,
+      "id": "1e87b3e45911bdcb",
+      "label": "不等式的基本性质",
+      "type": "group",
+      "width": 1652,
+      "x": 3104,
+      "y": 2116
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "09bd02d10f226946",
+      "text": "[✦ 不等式的对称性与传递性](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E4%BC%A0%E9%80%92%E6%80%A7.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3160,
+      "y": 2192
+    },
+    {
+      "height": 66,
+      "id": "84cbb82a8f549a72",
+      "text": "[§ 不等式的基本性质](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/1%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3160,
+      "y": 2370
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "cbb23972fa36a01e",
+      "text": "[✦ 问题 · 不等式两边加减乘除变形规律探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%A4%E8%BE%B9%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%8F%98%E5%BD%A2%E8%A7%84%E5%BE%8B%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3580,
+      "y": 2358
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "593bd84fc01664ad",
+      "text": "[✦ 不等式的三条基本性质](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E4%B8%89%E6%9D%A1%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4000,
+      "y": 2192
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "73044f00842b2da4",
+      "text": "[✦ 问题 · 用不等式基本性质解释圆与正方形面积大小关系](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%A8%E4%B8%8D%E7%AD%89%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E8%A7%A3%E9%87%8A%E5%9C%86%E4%B8%8E%E6%AD%A3%E6%96%B9%E5%BD%A2%E9%9D%A2%E7%A7%AF%E5%A4%A7%E5%B0%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4420,
+      "y": 2192
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "8aceaf837e2c0f7b",
+      "text": "[· 问题 · 不等式基本性质与等式基本性质的联系与区别](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%8D%E7%AD%89%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E4%B8%8E%E7%AD%89%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E7%9A%84%E8%81%94%E7%B3%BB%E4%B8%8E%E5%8C%BA%E5%88%AB.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3540,
+      "y": 2192
+    },
+    {
+      "height": 1506,
+      "id": "2fb110bea80afe54",
+      "label": "03 · 2 一元一次不等式",
+      "type": "group",
+      "width": 1344,
+      "x": 3888,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "1ad568f12c06129d",
+      "text": "[⌕ 放大 · 2 一元一次不等式](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-03-2-%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F-ff7ba4.canvas)\n\n7 个展示原子 · 10 题",
+      "type": "text",
+      "width": 300,
+      "x": 3944,
+      "y": 152
+    },
+    {
+      "height": 376,
+      "id": "5a7cf21412501a8b",
+      "label": "一元一次不等式的概念与解法",
+      "type": "group",
+      "width": 1232,
+      "x": 3944,
+      "y": 1150
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "616fbabb13f28f15",
+      "text": "[✦ 问题 · 一元一次不等式共同特征观察](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81%E8%A7%82%E5%AF%9F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4000,
+      "y": 1226
+    },
+    {
+      "height": 66,
+      "id": "efcabd15e046c955",
+      "text": "[§ 一元一次不等式的概念与解法](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/2%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%A7%A3%E6%B3%95.md)",
+      "type": "text",
+      "width": 260,
+      "x": 4000,
+      "y": 1404
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "6fa710022e1520f0",
+      "text": "[✦ 一元一次不等式的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4420,
+      "y": 1392
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "83c6084f8683b8d3",
+      "text": "[✦ 问题 · 类比一元一次方程探索一元一次不等式解法](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%B1%BB%E6%AF%94%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E6%8E%A2%E7%B4%A2%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E8%A7%A3%E6%B3%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4840,
+      "y": 1226
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "3ee85442e45dabdb",
+      "text": "[· 问题 · 解一元一次不等式的注意事项交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4380,
+      "y": 1226
+    },
+    {
+      "height": 838,
+      "id": "c944c762dd9c7c5d",
+      "label": "一元一次不等式的实际应用",
+      "type": "group",
+      "width": 392,
+      "x": 4404,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "7943a60ae1460161",
+      "text": "[✦ 情景引入 · 由商品打折销售最低利润率要求引出一元一次不等式的解法](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E5%95%86%E5%93%81%E6%89%93%E6%8A%98%E9%94%80%E5%94%AE%E6%9C%80%E4%BD%8E%E5%88%A9%E6%B6%A6%E7%8E%87%E8%A6%81%E6%B1%82%E5%BC%95%E5%87%BA%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A7%A3%E6%B3%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4460,
+      "y": 228
+    },
+    {
+      "height": 66,
+      "id": "609553c76b96383d",
+      "text": "[§ 一元一次不等式的实际应用](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/2%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 260,
+      "x": 4460,
+      "y": 642
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "5760d55d1d0117db",
+      "text": "[· 方法例题 · 例3 列一元一次不等式解决知识竞赛得分问题](../../../../%E4%B9%A0%E9%A2%98/Q070000002926.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4460,
+      "y": 868
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "187d207485836fcb",
+      "text": "[· 问题 · 一元一次不等式与一元一次方程学习过程对比反思](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E5%AF%B9%E6%AF%94%E5%8F%8D%E6%80%9D.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4460,
+      "y": 466
+    },
+    {
+      "height": 1804,
+      "id": "b4b25ab7888f3c2b",
+      "label": "04 · 3 一元一次不等式与一次函数",
+      "type": "group",
+      "width": 924,
+      "x": 5392,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "88c4d837cf5449eb",
+      "text": "[⌕ 放大 · 3 一元一次不等式与一次函数](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-04-3-%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0-66ddf2.canvas)\n\n7 个展示原子 · 7 题",
+      "type": "text",
+      "width": 300,
+      "x": 5448,
+      "y": 152
+    },
+    {
+      "height": 872,
+      "id": "f0e1e3ded5409886",
+      "label": "一元一次不等式与一次函数的关系",
+      "type": "group",
+      "width": 372,
+      "x": 5448,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "76d7b76a2c5be1a7",
+      "text": "[· 问题 · 借助一次函数图象探究一元一次不等式解集](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%80%9F%E5%8A%A9%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E6%8E%A2%E7%A9%B6%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E8%A7%A3%E9%9B%86.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 482
+    },
+    {
+      "height": 66,
+      "id": "65d727da381bc69a",
+      "text": "[§ 一元一次不等式与一次函数的关系](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/3%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 260,
+      "x": 5504,
+      "y": 1156
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f7f0d110ef220837",
+      "text": "[· 问题 · 一次函数y=-2x-5与不等式求解尝试](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0y%3D-2x-5%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E6%B1%82%E8%A7%A3%E5%B0%9D%E8%AF%95.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 648
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "3d9d2d866100b1a9",
+      "text": "[· 问题 · 利用一次函数图象与不等式解决赛跑比较问题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%88%A9%E7%94%A8%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E8%A7%A3%E5%86%B3%E8%B5%9B%E8%B7%91%E6%AF%94%E8%BE%83%E9%97%AE%E9%A2%98.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 814
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "093ac5c5f35d01c1",
+      "text": "[· 问题 · 一元一次方程、一元一次不等式与一次函数联系感悟](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E3%80%81%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E8%81%94%E7%B3%BB%E6%84%9F%E6%82%9F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 980
+    },
+    {
+      "height": 386,
+      "id": "4e9922157f942bbf",
+      "label": "一元一次不等式与一次函数的决策应用",
+      "type": "group",
+      "width": 812,
+      "x": 5448,
+      "y": 1438
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "2a9036926d2cead2",
+      "text": "[✦ 情景引入 · 由两家书店会员卡打折购书方案比较引出一元一次不等式的实际应用](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E4%B8%A4%E5%AE%B6%E4%B9%A6%E5%BA%97%E4%BC%9A%E5%91%98%E5%8D%A1%E6%89%93%E6%8A%98%E8%B4%AD%E4%B9%A6%E6%96%B9%E6%A1%88%E6%AF%94%E8%BE%83%E5%BC%95%E5%87%BA%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5504,
+      "y": 1514
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "c091ade35e76d065",
+      "text": "[· 方法例题 · 例 利用一次函数与一元一次不等式选择最优旅游收费方案](../../../../%E4%B9%A0%E9%A2%98/Q070000002936.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5884,
+      "y": 1514
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "84e32d45037e24d6",
+      "text": "[✦ 一次函数、一元一次不等式与一元一次方程的内在联系](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E3%80%81%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%86%85%E5%9C%A8%E8%81%94%E7%B3%BB.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5924,
+      "y": 1690
+    },
+    {
+      "height": 404,
+      "id": "03d294d2a60bfe58",
+      "label": "05 · 4 一元一次不等式组",
+      "type": "group",
+      "width": 2042,
+      "x": 5868,
+      "y": 2040
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "6d9aafe5d430ef13",
+      "text": "[⌕ 放大 · 4 一元一次不等式组](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-05-4-%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84-dbd93f.canvas)\n\n6 个展示原子 · 8 题",
+      "type": "text",
+      "width": 300,
+      "x": 5924,
+      "y": 2294
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "fd2b55402b47a732",
+      "text": "[✦ 情景引入 · 由运动会彩旗制作总量的上下限条件引出一元一次不等式组](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%BD%A9%E6%97%97%E5%88%B6%E4%BD%9C%E6%80%BB%E9%87%8F%E7%9A%84%E4%B8%8A%E4%B8%8B%E9%99%90%E6%9D%A1%E4%BB%B6%E5%BC%95%E5%87%BA%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5924,
+      "y": 2116
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "29e56514c3b1413a",
+      "text": "[✦ 一元一次不等式组的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6344,
+      "y": 2116
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d413f2f67b7f7d59",
+      "text": "[✦ 问题 · 列出不等式组与寻找解集尝试](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%88%97%E5%87%BA%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E4%B8%8E%E5%AF%BB%E6%89%BE%E8%A7%A3%E9%9B%86%E5%B0%9D%E8%AF%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6764,
+      "y": 2282
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "723df7ee10b61931",
+      "text": "[✦ 一元一次不等式组的解集与解不等式组](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E8%A7%A3%E9%9B%86%E4%B8%8E%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)",
+      "type": "text",
+      "width": 280,
+      "x": 7184,
+      "y": 2116
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "79fa7db9c694c59a",
+      "text": "[· 问题 · 无解的一元一次不等式组探讨](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%97%A0%E8%A7%A3%E7%9A%84%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E6%8E%A2%E8%AE%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 6724,
+      "y": 2116
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "540d34bc980aa3fb",
+      "text": "[✦ 一元一次不等式组的实际应用示范](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E7%A4%BA%E8%8C%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 7604,
+      "y": 2116
+    },
+    {
+      "height": 402,
+      "id": "aa5cca0a106b1428",
+      "label": "06 · 回顾与思考",
+      "type": "group",
+      "width": 412,
+      "x": 628,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "590a66c4eb8a7096",
+      "text": "[⌕ 放大 · 回顾与思考](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-06-%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83-152eeb.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 684,
+      "y": 328
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "cfce81e7f1133155",
+      "text": "[· 问题 · 第二章 回顾与思考问题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 684,
+      "y": 152
+    },
+    {
+      "height": 226,
+      "id": "57d8ea694e0b8367",
+      "label": "07 · 复习题",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "c32c27dafe2eb392",
+      "text": "[⌕ 放大 · 复习题](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-07-%E5%A4%8D%E4%B9%A0%E9%A2%98-731d3e.canvas)\n\n0 个展示原子 · 19 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "68e2073a83b7d08d",
+      "text": "# [第二章 不等式与不等式组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "cf32d92e5a3cb456",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "bdbeb75ec0aa6e7f",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

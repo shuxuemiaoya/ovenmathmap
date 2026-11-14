@@ -1,0 +1,635 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0fdfe0319cbc3fb0",
+      "fromSide": "right",
+      "id": "a44adaae8187c048",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "9294cd2dbf4d07d8",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9294cd2dbf4d07d8",
+      "fromSide": "right",
+      "id": "e3b59ae7f4add8ed",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c17ea0888546ada7",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c17ea0888546ada7",
+      "fromSide": "right",
+      "id": "2d9a2b0270167673",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "6ad1e5b66c5414a6",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "28ce6d56d2b32e94",
+      "fromSide": "right",
+      "id": "72777c22d1b8ebf8",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "0fdfe0319cbc3fb0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "65d6a02377160e64",
+      "fromSide": "right",
+      "id": "6ab897827af5df7b",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "28ce6d56d2b32e94",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0fdfe0319cbc3fb0",
+      "fromSide": "right",
+      "id": "0b64d10e271c1f2a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "cba39d0d5070b8d7",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "c17ea0888546ada7",
+      "fromSide": "bottom",
+      "id": "33113e3a9b94e46d",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "bb542baecc0b8458",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "6ad1e5b66c5414a6",
+      "fromSide": "bottom",
+      "id": "a3292db96b353874",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "20fd2192a9a2d7fb",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "9294cd2dbf4d07d8",
+      "fromSide": "bottom",
+      "id": "725b887f85b53dbc",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "bb542baecc0b8458",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a7bbd14c927d3fc1",
+      "fromSide": "right",
+      "id": "cf3f49a554f28a4b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "6ad1e5b66c5414a6",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0b1a3f7844c7c581",
+      "fromSide": "right",
+      "id": "a1b057a78824bc75",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "a7bbd14c927d3fc1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "49015dcc5b99447e",
+      "fromSide": "right",
+      "id": "b243c7327d0d7ef0",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "28ce6d56d2b32e94",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cba39d0d5070b8d7",
+      "fromSide": "right",
+      "id": "bf4008f95a477ed0",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "9294cd2dbf4d07d8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "65d6a02377160e64",
+      "fromSide": "right",
+      "id": "0b83b915070189b8",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "49015dcc5b99447e",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "28ce6d56d2b32e94",
+      "fromSide": "bottom",
+      "id": "23f8606bbb6bf449",
+      "label": "归属 · 10题",
+      "toEnd": "arrow",
+      "toNode": "fd8460839c7353c1",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "6ad1e5b66c5414a6",
+      "fromSide": "bottom",
+      "id": "7dc7ca2730445d53",
+      "label": "归属 · 8题",
+      "toEnd": "arrow",
+      "toNode": "d4651a6667940c31",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "6ad1e5b66c5414a6",
+      "fromSide": "bottom",
+      "id": "f1ff4daa06418909",
+      "label": "归属 · 12题",
+      "toEnd": "arrow",
+      "toNode": "01f5277f1670faf3",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b5775a9fee298eb0",
+      "fromSide": "bottom",
+      "id": "ab9b25d8dabb49b2",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5439d05288faffa8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "373e6d8e974a1769",
+      "fromSide": "bottom",
+      "id": "cea265993f050101",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5439d05288faffa8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8d002605408b9c86",
+      "fromSide": "bottom",
+      "id": "8d982b07fe292e76",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5439d05288faffa8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "01cb9b12c4d91a29",
+      "fromSide": "bottom",
+      "id": "59bf24e2c41499c8",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5439d05288faffa8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "defe8fc4a4af59ca",
+      "fromSide": "bottom",
+      "id": "1526dd0c0f61ab9b",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5439d05288faffa8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "236093f786146d9d",
+      "fromSide": "bottom",
+      "id": "0b6bc0970db490e1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1029d316b85e85b1",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9a7c39406f330e62",
+      "fromSide": "bottom",
+      "id": "753c78980996707f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1029d316b85e85b1",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "15efcc59c7cf50fb",
+      "fromSide": "bottom",
+      "id": "df3d5509d17586bb",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1029d316b85e85b1",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "78c7591b53271f3d",
+      "fromSide": "bottom",
+      "id": "e64af8ed554c7f4f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1029d316b85e85b1",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "14627a615c0980ca",
+      "fromSide": "bottom",
+      "id": "d30cbbe5ba8cb1e4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "1029d316b85e85b1",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1828,
+      "id": "e475c4176b54c774",
+      "label": "4.3 等比数列",
+      "type": "group",
+      "width": 5696,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "65d6a02377160e64",
+      "text": "[✦ 情景引入 · 由等差数列的恒差类比等比数列的恒比](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E7%9A%84%E6%81%92%E5%B7%AE%E7%B1%BB%E6%AF%94%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E6%81%92%E6%AF%94.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 992
+    },
+    {
+      "height": 1696,
+      "id": "e3df53754c924cc7",
+      "label": "4.3.1 等比数列的概念",
+      "type": "group",
+      "width": 2462,
+      "x": 496,
+      "y": 76
+    },
+    {
+      "height": 66,
+      "id": "5439d05288faffa8",
+      "text": "[§ 4.3.1 等比数列的概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/4.3.1%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 260,
+      "x": 552,
+      "y": 992
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "fd8460839c7353c1",
+      "text": "[练习入口 · 4.3.1 等比数列的概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/4.3.1%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E6%A6%82%E5%BF%B5.md)\n\n共 10 题",
+      "type": "text",
+      "width": 260,
+      "x": 552,
+      "y": 1406
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "49015dcc5b99447e",
+      "text": "[✦ 情景引入 · 从古巴比伦泥版数列认识等比数列](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BB%8E%E5%8F%A4%E5%B7%B4%E6%AF%94%E4%BC%A6%E6%B3%A5%E7%89%88%E6%95%B0%E5%88%97%E8%AE%A4%E8%AF%86%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 552,
+      "y": 1218
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "28ce6d56d2b32e94",
+      "text": "[✦ 等比数列与公比](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E4%B8%8E%E5%85%AC%E6%AF%94.md)",
+      "type": "text",
+      "width": 280,
+      "x": 972,
+      "y": 1218
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "0fdfe0319cbc3fb0",
+      "text": "[✦ 等比中项](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E6%AF%94%E4%B8%AD%E9%A1%B9.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1392,
+      "y": 1218
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "cba39d0d5070b8d7",
+      "text": "[✦ 情景引入 · 从等比数列定义推导通项公式](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BB%8E%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E5%AE%9A%E4%B9%89%E6%8E%A8%E5%AF%BC%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1812,
+      "y": 1218
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "9294cd2dbf4d07d8",
+      "text": "[✦ 等比数列的通项公式](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2232,
+      "y": 1218
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "c17ea0888546ada7",
+      "text": "[✦ 等比数列与指数函数](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E4%B8%8E%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2652,
+      "y": 1218
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "bb542baecc0b8458",
+      "text": "[· 方法例题 · 等比中项与通项公式求项](../../../../%E4%B9%A0%E9%A2%98/Q070000001435.md)",
+      "type": "text",
+      "width": 250,
+      "x": 912,
+      "y": 1406
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "b5775a9fee298eb0",
+      "text": "[· 方法例题 · 由等比数列任意一项表示其他项](../../../../%E4%B9%A0%E9%A2%98/Q070000001436.md)",
+      "type": "text",
+      "width": 250,
+      "x": 552,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "373e6d8e974a1769",
+      "text": "[· 方法例题 · 等比与等差条件的联立应用](../../../../%E4%B9%A0%E9%A2%98/Q070000001437.md)",
+      "type": "text",
+      "width": 250,
+      "x": 552,
+      "y": 318
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "8d002605408b9c86",
+      "text": "[· 方法例题 · 复利的等比数列模型](../../../../%E4%B9%A0%E9%A2%98/Q070000001443.md)",
+      "type": "text",
+      "width": 250,
+      "x": 552,
+      "y": 484
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "01cb9b12c4d91a29",
+      "text": "[· 方法例题 · 指数对数变换与等差等比数列](../../../../%E4%B9%A0%E9%A2%98/Q070000001444.md)",
+      "type": "text",
+      "width": 250,
+      "x": 552,
+      "y": 650
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "0b1a3f7844c7c581",
+      "text": "[✦ 思考题 · 等差与等比数列变换的推广](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%AD%89%E5%B7%AE%E4%B8%8E%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E5%8F%98%E6%8D%A2%E7%9A%84%E6%8E%A8%E5%B9%BF.md)",
+      "type": "text",
+      "width": 280,
+      "x": 552,
+      "y": 1638
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "defe8fc4a4af59ca",
+      "text": "[· 方法例题 · 产量与合格率的混合数列模型](../../../../%E4%B9%A0%E9%A2%98/Q070000001445.md)",
+      "type": "text",
+      "width": 250,
+      "x": 552,
+      "y": 816
+    },
+    {
+      "height": 392,
+      "id": "9411ee025b4f6c58",
+      "label": "4.3.2 等比数列的前 $n$ 项和公式",
+      "type": "group",
+      "width": 2522,
+      "x": 3118,
+      "y": 76
+    },
+    {
+      "height": 66,
+      "id": "1029d316b85e85b1",
+      "text": "[§ 4.3.2 等比数列的前 $n$ 项和公式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/4.3.2%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E5%89%8D%20%24n%24%20%E9%A1%B9%E5%92%8C%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3174,
+      "y": 330
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "d4651a6667940c31",
+      "text": "[练习入口 · 4.3.2 等比数列的前 $n$ 项和公式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/4.3.2%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E5%89%8D%20%24n%24%20%E9%A1%B9%E5%92%8C%E5%85%AC%E5%BC%8F.md)\n\n共 8 题",
+      "type": "text",
+      "width": 260,
+      "x": 3884,
+      "y": 340
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "a7bbd14c927d3fc1",
+      "text": "[✦ 情景引入 · 从棋盘麦粒倍增求和探索错位相减法](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BB%8E%E6%A3%8B%E7%9B%98%E9%BA%A6%E7%B2%92%E5%80%8D%E5%A2%9E%E6%B1%82%E5%92%8C%E6%8E%A2%E7%B4%A2%E9%94%99%E4%BD%8D%E7%9B%B8%E5%87%8F%E6%B3%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3174,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "6ad1e5b66c5414a6",
+      "text": "[✦ 错位相减法与等比数列前 n 项和公式](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%94%99%E4%BD%8D%E7%9B%B8%E5%87%8F%E6%B3%95%E4%B8%8E%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E5%89%8D%20n%20%E9%A1%B9%E5%92%8C%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3904,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "20fd2192a9a2d7fb",
+      "text": "[· 方法例题 · 等比数列前 n 项和公式的基本应用](../../../../%E4%B9%A0%E9%A2%98/Q070000001451.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3534,
+      "y": 340
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "236093f786146d9d",
+      "text": "[· 方法例题 · 由分段前 n 项和求公比](../../../../%E4%B9%A0%E9%A2%98/Q070000001452.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3554,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "9a7c39406f330e62",
+      "text": "[· 方法例题 · 等比数列分段和的等比性](../../../../%E4%B9%A0%E9%A2%98/Q070000001453.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4284,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "15efcc59c7cf50fb",
+      "text": "[· 方法例题 · 正方形迭代面积的等比数列模型](../../../../%E4%B9%A0%E9%A2%98/Q070000001459.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4634,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "78c7591b53271f3d",
+      "text": "[· 方法例题 · 垃圾处理的等差与等比混合模型](../../../../%E4%B9%A0%E9%A2%98/Q070000001460.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4984,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "14627a615c0980ca",
+      "text": "[· 方法例题 · 牛群存栏的递推与等比转化](../../../../%E4%B9%A0%E9%A2%98/Q070000001461.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5334,
+      "y": 152
+    },
+    {
+      "height": 204,
+      "id": "428ab96df99163dd",
+      "label": "习题4.3",
+      "type": "group",
+      "width": 372,
+      "x": 3118,
+      "y": 628
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "01f5277f1670faf3",
+      "text": "[练习入口 · 习题4.3](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%BB%84%E7%BB%87%E5%B1%82/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%20%E6%95%B0%E5%AD%A6%20%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/%E4%B9%A0%E9%A2%984.3.md)\n\n共 12 题",
+      "type": "text",
+      "width": 260,
+      "x": 3174,
+      "y": 704
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "5fdc12a8e4c85554",
+      "text": "# [4.3 等比数列](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/4.3%20%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "941899765ed77c76",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%95%B0%E5%88%97-75a20e.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "5d1a0b3b023bb361",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "fadd975834ea53fe",
+      "fromSide": "bottom",
+      "id": "df6548e8b7e63ca7",
+      "label": "归属 · 15题",
+      "toEnd": "arrow",
+      "toNode": "d0c0fb68c79a2185",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "7463e9be88f42508",
+      "fromSide": "bottom",
+      "id": "25c674b10e9e6127",
+      "label": "归属 · 9题",
+      "toEnd": "arrow",
+      "toNode": "33705b049172d309",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "43f0aa5e2d821f92",
+      "fromSide": "bottom",
+      "id": "1980db225a060033",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "20c49ad64489774a",
+      "fromSide": "bottom",
+      "id": "99363907c4fda36f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6f4d1ab7c4d2eb39",
+      "fromSide": "bottom",
+      "id": "1639cd02d97a8260",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "4d4c6dca789b9c3e",
+      "fromSide": "bottom",
+      "id": "3e82633d58d26898",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "4948b87a15c04549",
+      "fromSide": "bottom",
+      "id": "892bffbd2267847a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b82c71693718273c",
+      "fromSide": "bottom",
+      "id": "d268fec73d08c0d9",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "875e21cfc1e2474a",
+      "fromSide": "bottom",
+      "id": "10227f5e4f7ccc54",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ddd6ff7fae73dffd",
+      "fromSide": "bottom",
+      "id": "3def689ebed6305f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2406,
+      "id": "1c0e58a8a06940cf",
+      "label": "6.1 分类加法计数原理与分步乘法计数原理",
+      "type": "group",
+      "width": 484,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "7fe43b378f2be032",
+      "text": "[§ 6.1 分类加法计数原理与分步乘法计数原理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 1582
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "d0c0fb68c79a2185",
+      "text": "[练习入口 · 6.1 分类加法计数原理与分步乘法计数原理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)\n\n共 15 题",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 1748
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "fadd975834ea53fe",
+      "text": "[✦ 情景引入 · 从逐个列举走向分类与分步计数](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E9%80%90%E4%B8%AA%E5%88%97%E4%B8%BE%E8%B5%B0%E5%90%91%E5%88%86%E7%B1%BB%E4%B8%8E%E5%88%86%E6%AD%A5%E8%AE%A1%E6%95%B0--Gba811a897dd68f.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 1404
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "43f0aa5e2d821f92",
+      "text": "[· 思考题 · 6.1 分类加法计数原理与分步乘法计数原理·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "20c49ad64489774a",
+      "text": "[· 思考题 · 6.1 分类加法计数原理与分步乘法计数原理·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 242
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "6f4d1ab7c4d2eb39",
+      "text": "[· 方法例题 · 例 1 在填写高考志愿表时](../../../../%E4%B9%A0%E9%A2%98/Q070000001635.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 408
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "4d4c6dca789b9c3e",
+      "text": "[· 思考题 · 6.1 分类加法计数原理与分步乘法计数原理·探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%8E%A2%E7%A9%B6-%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E5%90%91%E4%B8%89%E7%B1%BB%E6%96%B9%E6%A1%88%E6%8E%A8%E5%B9%BF.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 574
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "4948b87a15c04549",
+      "text": "[· 思考题 · 6.1 分类加法计数原理与分步乘法计数原理·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 740
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "b82c71693718273c",
+      "text": "[· 思考题 · 6.1 分类加法计数原理与分步乘法计数原理·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 906
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "875e21cfc1e2474a",
+      "text": "[· 方法例题 · 例 2 某班有男生 30 名、女生 2](../../../../%E4%B9%A0%E9%A2%98/Q070000001636.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 1072
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "ddd6ff7fae73dffd",
+      "text": "[· 思考题 · 6.1 分类加法计数原理与分步乘法计数原理·探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%8E%A2%E7%A9%B6-%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E5%90%91%E4%B8%89%E4%B8%AA%E6%AD%A5%E9%AA%A4%E6%8E%A8%E5%B9%BF.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 1238
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "7463e9be88f42508",
+      "text": "[· 方法例题 · 例 3 书架的第1层放有4本不同的计算](../../../../%E4%B9%A0%E9%A2%98/Q070000001637.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 1920
+    },
+    {
+      "height": 204,
+      "id": "5c2bee654310cc89",
+      "label": "习题6.1",
+      "type": "group",
+      "width": 372,
+      "x": 56,
+      "y": 2146
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "33705b049172d309",
+      "text": "[练习入口 · 习题6.1](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E7%BB%84%E7%BB%87%E5%B1%82/%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E6%95%99%E7%A7%91%E4%B9%A6%20%E6%95%B0%E5%AD%A6%20%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/%E4%B9%A0%E9%A2%986.1.md)\n\n共 9 题",
+      "type": "text",
+      "width": 260,
+      "x": 112,
+      "y": 2222
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "2e816fb68299b02b",
+      "text": "# [6.1 分类加法计数原理与分步乘法计数原理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "5bd1c9f8a950cdd9",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E5%85%AD%E7%AB%A0-%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86-75a20e.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "73d3f5ad907ea3ae",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

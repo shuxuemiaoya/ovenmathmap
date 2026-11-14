@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "68c838915aa6bdbd",
+      "fromSide": "bottom",
+      "id": "df28f76063b22e9f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "5c1fc4cfb26fefd0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 374,
+      "id": "f73837320cf1142a",
+      "label": "回顾与思考",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "5c1fc4cfb26fefd0",
+      "text": "[§ 回顾与思考](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E8%AF%81%E6%98%8E/%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "68c838915aa6bdbd",
+      "text": "[· 问题 · 第七章 回顾与思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E8%AF%81%E6%98%8E%E4%B8%8E%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "b24f1b757ca7ae45",
+      "text": "# [回顾与思考](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E8%AF%81%E6%98%8E/%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "e8dbc5ee39817c28",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%AF%81%E6%98%8E-84e5e1.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "d15b46a38ba0d55f",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

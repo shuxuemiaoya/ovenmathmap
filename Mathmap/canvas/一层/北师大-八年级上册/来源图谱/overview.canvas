@@ -1,0 +1,302 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "507d174c02991622",
+      "fromSide": "right",
+      "id": "92df7e670d5719b8",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "f273a757a3e2e7ed",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f273a757a3e2e7ed",
+      "fromSide": "right",
+      "id": "5a64418f6746fcda",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "6d7977e3e19fb26f",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6d7977e3e19fb26f",
+      "fromSide": "right",
+      "id": "ab9905f90fe309d2",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "aaac03009e555169",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "aaac03009e555169",
+      "fromSide": "right",
+      "id": "b15f73dbc7710b75",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "8c998c5c2c9f47c0",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8c998c5c2c9f47c0",
+      "fromSide": "right",
+      "id": "72a48c3ed6ada28c",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "5770c236b73a41e1",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5770c236b73a41e1",
+      "fromSide": "right",
+      "id": "c7f7d32342ea035e",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "b830d8ca05c61732",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b830d8ca05c61732",
+      "fromSide": "right",
+      "id": "957891542c87b592",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "0a9d1c1dee3a0b01",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "0a9d1c1dee3a0b01",
+      "fromSide": "right",
+      "id": "4c2035905c1088ab",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "92d08620c0567e4a",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "507d174c02991622",
+      "fromSide": "right",
+      "id": "8adf1a9d7e032479",
+      "label": "例证 ×1",
+      "toEnd": "arrow",
+      "toNode": "f273a757a3e2e7ed",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "507d174c02991622",
+      "fromSide": "right",
+      "id": "d8fc42763c6d3f2a",
+      "label": "例证 ×2",
+      "toEnd": "arrow",
+      "toNode": "5770c236b73a41e1",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "f273a757a3e2e7ed",
+      "fromSide": "right",
+      "id": "25d02e457f83f9ed",
+      "label": "例证 ×1",
+      "toEnd": "arrow",
+      "toNode": "507d174c02991622",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "f273a757a3e2e7ed",
+      "fromSide": "right",
+      "id": "419140a4423dd428",
+      "label": "例证 ×5",
+      "toEnd": "arrow",
+      "toNode": "5770c236b73a41e1",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "6d7977e3e19fb26f",
+      "fromSide": "right",
+      "id": "10b05078a493d4a4",
+      "label": "例证 ×1",
+      "toEnd": "arrow",
+      "toNode": "5770c236b73a41e1",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "aaac03009e555169",
+      "fromSide": "right",
+      "id": "193efd9043e72efd",
+      "label": "例证 ×1",
+      "toEnd": "arrow",
+      "toNode": "8c998c5c2c9f47c0",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8c998c5c2c9f47c0",
+      "fromSide": "right",
+      "id": "b2374dfee0d07de7",
+      "label": "例证 ×1",
+      "toEnd": "arrow",
+      "toNode": "f273a757a3e2e7ed",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8c998c5c2c9f47c0",
+      "fromSide": "right",
+      "id": "3d82f1469f07ae57",
+      "label": "例证 ×2",
+      "toEnd": "arrow",
+      "toNode": "aaac03009e555169",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "5770c236b73a41e1",
+      "fromSide": "right",
+      "id": "11c632486ceb7d59",
+      "label": "例证 ×2",
+      "toEnd": "arrow",
+      "toNode": "f273a757a3e2e7ed",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 160,
+      "id": "1047653114df3a13",
+      "text": "# ✦ 义务教育教科书 数学 八年级 上册（2024北师大版）\n\n全书知识星图",
+      "type": "text",
+      "width": 380,
+      "x": -190,
+      "y": -80
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "507d174c02991622",
+      "text": "[## ✦ 第一章 勾股定理](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86-75a20e.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -180,
+      "y": -780
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "f273a757a3e2e7ed",
+      "text": "[## ✦ 第二章 实数](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AE%9E%E6%95%B0-9775d4.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": 283,
+      "y": -612
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "6d7977e3e19fb26f",
+      "text": "[## ✦ 第三章 位置与坐标](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87-35a66a.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": 529,
+      "y": -185
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "aaac03009e555169",
+      "text": "[## ✦ 第四章 一次函数](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0-32408f.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": 444,
+      "y": 300
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "8c998c5c2c9f47c0",
+      "text": "[## ✦ 第五章 二元一次方程组](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84-b2ac1c.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": 66,
+      "y": 617
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "5770c236b73a41e1",
+      "text": "[## ✦ 第六章 数据的分析](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/06-%E7%AC%AC%E5%85%AD%E7%AB%A0-%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90-b0a9fb.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -426,
+      "y": 617
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "b830d8ca05c61732",
+      "text": "[## ✦ 第七章 证明](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E8%AF%81%E6%98%8E-84e5e1.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -804,
+      "y": 300
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "0a9d1c1dee3a0b01",
+      "text": "[## ✦ 综合与实践](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/08-%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-bf69b1.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -889,
+      "y": -185
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "92d08620c0567e4a",
+      "text": "[## ✦ 学习印记](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/09-%E5%AD%A6%E4%B9%A0%E5%8D%B0%E8%AE%B0-c84ab0.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -643,
+      "y": -612
+    },
+    {
+      "height": 180,
+      "id": "e103b230f3be26af",
+      "text": "**图例**\n\n黄色：主学习路线  ·  灰色：原书顺序\n彩色：跨章知识联系",
+      "type": "text",
+      "width": 360,
+      "x": -180,
+      "y": 150
+    }
+  ]
+}

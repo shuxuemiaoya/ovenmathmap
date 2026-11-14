@@ -1,0 +1,77 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "507d174c02991622",
+      "fromSide": "right",
+      "id": "e64febe320a0c799",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "146a29f57d7af9f2",
+      "toSide": "left"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "146a29f57d7af9f2",
+      "fromSide": "right",
+      "id": "7a06093df4197629",
+      "label": "书序",
+      "toEnd": "arrow",
+      "toNode": "6d7977e3e19fb26f",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 160,
+      "id": "1047653114df3a13",
+      "text": "# ✦ 普通高中教科书 数学 选择性必修 第一册\n\n全书知识星图",
+      "type": "text",
+      "width": 380,
+      "x": -190,
+      "y": -80
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "507d174c02991622",
+      "text": "[## ✦ 第一章 空间向量与立体几何](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95-75a20e.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -180,
+      "y": -780
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "146a29f57d7af9f2",
+      "text": "[## ✦ 第二章 直线和圆的方程](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E7%9B%B4%E7%BA%BF%E5%92%8C%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B-46200c.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": 444,
+      "y": 300
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "6d7977e3e19fb26f",
+      "text": "[## ✦ 第三章 圆锥曲线的方程](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B-35a66a.canvas)",
+      "type": "text",
+      "width": 360,
+      "x": -804,
+      "y": 300
+    },
+    {
+      "height": 180,
+      "id": "e103b230f3be26af",
+      "text": "**图例**\n\n黄色：主学习路线  ·  灰色：原书顺序\n彩色：跨章知识联系",
+      "type": "text",
+      "width": 360,
+      "x": -180,
+      "y": 150
+    }
+  ]
+}

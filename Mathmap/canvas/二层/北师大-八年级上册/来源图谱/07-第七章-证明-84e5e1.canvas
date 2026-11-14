@@ -1,0 +1,895 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "eac931e4ca63eea9",
+      "fromSide": "right",
+      "id": "97564b424934bdfe",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "ef2ba7ae404448f7",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "34dbda589f076654",
+      "fromSide": "right",
+      "id": "8800717c5eddde07",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "f45c14ccef339b04",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c7a4d19ad5480ae6",
+      "fromSide": "right",
+      "id": "69f7f50f7508e9d0",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "eac931e4ca63eea9",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "54b9fcceeb85ad2b",
+      "fromSide": "right",
+      "id": "58304886c8dca2f3",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "0606214e57b8aa4e",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "711f5e0f6a867eba",
+      "fromSide": "right",
+      "id": "1b3ff435804c7fc8",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "34dbda589f076654",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f45c14ccef339b04",
+      "fromSide": "right",
+      "id": "c5e56a2d05054cd6",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "8b7f2b0e6e0d2947",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "8b7f2b0e6e0d2947",
+      "fromSide": "right",
+      "id": "ac26165e0fc5aab5",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "4b045c470a43092a",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "ef2ba7ae404448f7",
+      "fromSide": "right",
+      "id": "ef80c3bafb504043",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "711f5e0f6a867eba",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "4b045c470a43092a",
+      "fromSide": "right",
+      "id": "f36e09cd81e6ac4c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a7e4bb18f370ace0",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "aeec5d92933cf31c",
+      "fromSide": "right",
+      "id": "52f4898a05a7952c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c7a4d19ad5480ae6",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a7e4bb18f370ace0",
+      "fromSide": "right",
+      "id": "eaa75f5a0411f055",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "54b9fcceeb85ad2b",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "8b7f2b0e6e0d2947",
+      "fromSide": "right",
+      "id": "444eb5f5a1117a96",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d5a0d5d2387d38d4",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "acd76b7edd89f075",
+      "fromSide": "right",
+      "id": "e6cc5c5d537d5338",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "5b331c24a536cbfd",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d5a0d5d2387d38d4",
+      "fromSide": "right",
+      "id": "e7c2798fc20fcbd7",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "a7e4bb18f370ace0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0606214e57b8aa4e",
+      "fromSide": "right",
+      "id": "5c833aa6e99c5099",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "1c07dd1605fe2d28",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "86f648d1e698e303",
+      "fromSide": "right",
+      "id": "bd59df462189eaf0",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "711f5e0f6a867eba",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "ef2ba7ae404448f7",
+      "fromSide": "right",
+      "id": "35204ac93e82d14d",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "86f648d1e698e303",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c7a4d19ad5480ae6",
+      "fromSide": "right",
+      "id": "a8e0009175d66e5f",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "1b827fc92a296c44",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "1b827fc92a296c44",
+      "fromSide": "right",
+      "id": "d7d5f96761d93a50",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "eac931e4ca63eea9",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "8b194b0d188358e4",
+      "fromSide": "right",
+      "id": "4ac7c34da8cf4128",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "aeec5d92933cf31c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "05144e633bcd1293",
+      "fromSide": "right",
+      "id": "0dfeacdf68c16507",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "aeec5d92933cf31c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "82b5ddf5ba056321",
+      "fromSide": "right",
+      "id": "deb0153605a2119b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "ef2ba7ae404448f7",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "c9d00910837f8dfc",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "8b7f2b0e6e0d2947",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "02ea53dd4345c62a",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "acd76b7edd89f075",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "dfecc1815c723015",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "a7e4bb18f370ace0",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "ee6e0f3d34451fda",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "0606214e57b8aa4e",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "2ad6e3376371d498",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "4b045c470a43092a",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "da57f2f5c5b90c7d",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "aeec5d92933cf31c",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "896e093744d86e0d",
+      "fromSide": "bottom",
+      "id": "bb40a3d98b713f59",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "54b9fcceeb85ad2b",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "841d32e979483359",
+      "fromSide": "right",
+      "id": "9cc06d19290c68a8",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "a7e4bb18f370ace0",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8af7b2c885a096ea",
+      "fromSide": "bottom",
+      "id": "2bd75627ceac62ea",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "8b7f2b0e6e0d2947",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8af7b2c885a096ea",
+      "fromSide": "bottom",
+      "id": "6f35776653251f9d",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "acd76b7edd89f075",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8af7b2c885a096ea",
+      "fromSide": "bottom",
+      "id": "3b5c2845380daf7f",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "f45c14ccef339b04",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8af7b2c885a096ea",
+      "fromSide": "bottom",
+      "id": "c00478aac4b037d4",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "34dbda589f076654",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8af7b2c885a096ea",
+      "fromSide": "bottom",
+      "id": "0b2bd13db776855e",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "4b045c470a43092a",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "8af7b2c885a096ea",
+      "fromSide": "bottom",
+      "id": "77eba1cf94f22b64",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "aeec5d92933cf31c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5b331c24a536cbfd",
+      "fromSide": "right",
+      "id": "16c1de49b990f3f0",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "8b7f2b0e6e0d2947",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "4b045c470a43092a",
+      "fromSide": "right",
+      "id": "022e56989c9a9362",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d5a0d5d2387d38d4",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "eac931e4ca63eea9",
+      "fromSide": "right",
+      "id": "38aeefe31af53d06",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "82b5ddf5ba056321",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f36063c65a7d3f74",
+      "fromSide": "bottom",
+      "id": "93456bf236655d2a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "b28694d1f8b3dd79",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "68c838915aa6bdbd",
+      "fromSide": "bottom",
+      "id": "b93dc5dab38766da",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "cca36a9edd9b4849",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2090,
+      "id": "e123c13b5845aa66",
+      "label": "第七章 证明",
+      "type": "group",
+      "width": 9186,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "170db7451b3d3854",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-01-%E7%AB%A0%E5%BC%95%E5%85%A5-aa1222.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "841d32e979483359",
+      "text": "[✦ 情景引入 · 经验猜测局限性与公理化推理逻辑引出命题证明体系](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%BB%8F%E9%AA%8C%E7%8C%9C%E6%B5%8B%E5%B1%80%E9%99%90%E6%80%A7%E4%B8%8E%E5%85%AC%E7%90%86%E5%8C%96%E6%8E%A8%E7%90%86%E9%80%BB%E8%BE%91%E5%BC%95%E5%87%BA%E5%91%BD%E9%A2%98%E8%AF%81%E6%98%8E%E4%BD%93%E7%B3%BB--Ge27a4c15a61041.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5124,
+      "y": 1008
+    },
+    {
+      "height": 570,
+      "id": "7a15f9470d6e5e26",
+      "label": "02 · 1 为什么要证明",
+      "type": "group",
+      "width": 812,
+      "x": 56,
+      "y": 416
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "b28694d1f8b3dd79",
+      "text": "[⌕ 放大 · 1 为什么要证明](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-02-1-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%81%E6%98%8E-18738a.canvas)\n\n4 个展示原子 · 6 题",
+      "type": "text",
+      "width": 300,
+      "x": 492,
+      "y": 836
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f36063c65a7d3f74",
+      "text": "[· 问题 · 视觉错觉与赤道铁丝间隙直觉检验（图7-1至图7-3）](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E8%A7%86%E8%A7%89%E9%94%99%E8%A7%89%E4%B8%8E%E8%B5%A4%E9%81%93%E9%93%81%E4%B8%9D%E9%97%B4%E9%9A%99%E7%9B%B4%E8%A7%89%E6%A3%80%E9%AA%8C%EF%BC%88%E5%9B%BE7-1%E8%87%B3%E5%9B%BE7-3%EF%BC%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 492,
+      "y": 492
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "8b194b0d188358e4",
+      "text": "[✦ 问题 · 尝试·思考：代数式 n²-n+11 质数归纳与三角形中位线猜想的可…](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E4%BB%A3%E6%95%B0%E5%BC%8F%20n%C2%B2-n%2B11%20%E8%B4%A8%E6%95%B0%E5%BD%92%E7%BA%B3%E4%B8%8E%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%AD%E4%BD%8D%E7%BA%BF%E7%8C%9C%E6%83%B3%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 492
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "05144e633bcd1293",
+      "text": "[✦ 问题 · 思考·交流：反思观察、实验、归纳的局限性与判断结论正确的方式](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81%EF%BC%9A%E5%8F%8D%E6%80%9D%E8%A7%82%E5%AF%9F%E3%80%81%E5%AE%9E%E9%AA%8C%E3%80%81%E5%BD%92%E7%BA%B3%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E4%B8%8E%E5%88%A4%E6%96%AD%E7%BB%93%E8%AE%BA%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%96%B9%E5%BC%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 670
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "aeec5d92933cf31c",
+      "text": "[✦ 数学证明的必要性（观察、实验、归纳的局限性与推理论证）](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7%EF%BC%88%E8%A7%82%E5%AF%9F%E3%80%81%E5%AE%9E%E9%AA%8C%E3%80%81%E5%BD%92%E7%BA%B3%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E4%B8%8E%E6%8E%A8%E7%90%86%E8%AE%BA%E8%AF%81%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 532,
+      "y": 658
+    },
+    {
+      "height": 684,
+      "id": "e2f7e9cc8b620d4e",
+      "label": "03 · 2 认识证明",
+      "type": "group",
+      "width": 3936,
+      "x": 1028,
+      "y": 330
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "78e06077d63ea256",
+      "text": "[⌕ 放大 · 2 认识证明](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-03-2-%E8%AE%A4%E8%AF%86%E8%AF%81%E6%98%8E-f3b698.canvas)\n\n11 个展示原子 · 11 题",
+      "type": "text",
+      "width": 300,
+      "x": 1084,
+      "y": 406
+    },
+    {
+      "height": 210,
+      "id": "0fe962d3b54d1e8c",
+      "label": "7.2.1 定义、命题与真假命题",
+      "type": "group",
+      "width": 2912,
+      "x": 1084,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "c7a4d19ad5480ae6",
+      "text": "[✦ 定义的概念及典型数学定义示例](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E4%B9%89%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B8%E5%9E%8B%E6%95%B0%E5%AD%A6%E5%AE%9A%E4%B9%89%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1140,
+      "y": 736
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "1b827fc92a296c44",
+      "text": "[✦ 问题 · 尝试·思考：区分是否对事情作出判断的语句](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E5%8C%BA%E5%88%86%E6%98%AF%E5%90%A6%E5%AF%B9%E4%BA%8B%E6%83%85%E4%BD%9C%E5%87%BA%E5%88%A4%E6%96%AD%E7%9A%84%E8%AF%AD%E5%8F%A5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1560,
+      "y": 736
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "eac931e4ca63eea9",
+      "text": "[✦ 命题的概念与判断准则](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%91%BD%E9%A2%98%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%A4%E6%96%AD%E5%87%86%E5%88%99.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1980,
+      "y": 736
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "82b5ddf5ba056321",
+      "text": "[✦ 问题 · 思考·交流：观察命题的共同结构特征](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81%EF%BC%9A%E8%A7%82%E5%AF%9F%E5%91%BD%E9%A2%98%E7%9A%84%E5%85%B1%E5%90%8C%E7%BB%93%E6%9E%84%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2400,
+      "y": 736
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "ef2ba7ae404448f7",
+      "text": "[✦ 命题的构成（条件与结论及“如果……，那么……”形式）](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%91%BD%E9%A2%98%E7%9A%84%E6%9E%84%E6%88%90%EF%BC%88%E6%9D%A1%E4%BB%B6%E4%B8%8E%E7%BB%93%E8%AE%BA%E5%8F%8A%E2%80%9C%E5%A6%82%E6%9E%9C%E2%80%A6%E2%80%A6%EF%BC%8C%E9%82%A3%E4%B9%88%E2%80%A6%E2%80%A6%E2%80%9D%E5%BD%A2%E5%BC%8F%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2820,
+      "y": 736
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "86f648d1e698e303",
+      "text": "[✦ 问题 · 尝试·思考：指出命题的条件与结论并辨别错误命题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E6%8C%87%E5%87%BA%E5%91%BD%E9%A2%98%E7%9A%84%E6%9D%A1%E4%BB%B6%E4%B8%8E%E7%BB%93%E8%AE%BA%E5%B9%B6%E8%BE%A8%E5%88%AB%E9%94%99%E8%AF%AF%E5%91%BD%E9%A2%98.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3240,
+      "y": 736
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "711f5e0f6a867eba",
+      "text": "[✦ 真命题、假命题与反例的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9C%9F%E5%91%BD%E9%A2%98%E3%80%81%E5%81%87%E5%91%BD%E9%A2%98%E4%B8%8E%E5%8F%8D%E4%BE%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3660,
+      "y": 736
+    },
+    {
+      "height": 552,
+      "id": "0422188883d492a6",
+      "label": "7.2.2 基本事实、定理与证明",
+      "type": "group",
+      "width": 752,
+      "x": 4156,
+      "y": 406
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "34dbda589f076654",
+      "text": "[✦ 欧几里得《原本》与原名、公理、证明、定理及教科书基本事实](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E4%B8%8E%E5%8E%9F%E5%90%8D%E3%80%81%E5%85%AC%E7%90%86%E3%80%81%E8%AF%81%E6%98%8E%E3%80%81%E5%AE%9A%E7%90%86%E5%8F%8A%E6%95%99%E7%A7%91%E4%B9%A6%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4212,
+      "y": 658
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "8af7b2c885a096ea",
+      "text": "[· 方法例题 · 例 证明“对顶角相等”定理](../../../../%E4%B9%A0%E9%A2%98/Q070000002746.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4212,
+      "y": 482
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "f45c14ccef339b04",
+      "text": "[✦ 定理“对顶角相等”的正式确立](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E7%90%86%E2%80%9C%E5%AF%B9%E9%A1%B6%E8%A7%92%E7%9B%B8%E7%AD%89%E2%80%9D%E7%9A%84%E6%AD%A3%E5%BC%8F%E7%A1%AE%E7%AB%8B.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4602,
+      "y": 658
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "acd76b7edd89f075",
+      "text": "[✦ 阅读·欣赏：《原本》及其公理化方法的深远影响](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E5%8F%8A%E5%85%B6%E5%85%AC%E7%90%86%E5%8C%96%E6%96%B9%E6%B3%95%E7%9A%84%E6%B7%B1%E8%BF%9C%E5%BD%B1%E5%93%8D.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4562,
+      "y": 824
+    },
+    {
+      "height": 518,
+      "id": "164123438db9c833",
+      "label": "04 · 3 平行线的证明",
+      "type": "group",
+      "width": 4006,
+      "x": 5124,
+      "y": 330
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "4393b5f8211352f7",
+      "text": "[⌕ 放大 · 3 平行线的证明](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-04-3-%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E8%AF%81%E6%98%8E-1107db.canvas)\n\n9 个展示原子 · 10 题",
+      "type": "text",
+      "width": 300,
+      "x": 8774,
+      "y": 406
+    },
+    {
+      "height": 210,
+      "id": "9c17dbf1d40e1910",
+      "label": "7.3.1 平行线的判定定理",
+      "type": "group",
+      "width": 1652,
+      "x": 5180,
+      "y": 582
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "5b331c24a536cbfd",
+      "text": "[✦ 情景引入 · 同位角相等公理推导内错角同旁内角引出平行线判定证明](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%90%8C%E4%BD%8D%E8%A7%92%E7%9B%B8%E7%AD%89%E5%85%AC%E7%90%86%E6%8E%A8%E5%AF%BC%E5%86%85%E9%94%99%E8%A7%92%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E5%BC%95%E5%87%BA%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5236,
+      "y": 658
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "8b7f2b0e6e0d2947",
+      "text": "[✦ 平行线判定定理：内错角相等，两直线平行（含证明）](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E5%86%85%E9%94%99%E8%A7%92%E7%9B%B8%E7%AD%89%EF%BC%8C%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%88%E5%90%AB%E8%AF%81%E6%98%8E%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5656,
+      "y": 658
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "4b045c470a43092a",
+      "text": "[✦ 平行线判定定理：同旁内角互补，两直线平行（含证明与依据小结）](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E4%BA%92%E8%A1%A5%EF%BC%8C%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%88%E5%90%AB%E8%AF%81%E6%98%8E%E4%B8%8E%E4%BE%9D%E6%8D%AE%E5%B0%8F%E7%BB%93%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6076,
+      "y": 658
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d5a0d5d2387d38d4",
+      "text": "[✦ 问题 · 思考·交流：三角尺画平行线原理与折纸平行线证明（图7-8）](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81%EF%BC%9A%E4%B8%89%E8%A7%92%E5%B0%BA%E7%94%BB%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8A%98%E7%BA%B8%E5%B9%B3%E8%A1%8C%E7%BA%BF%E8%AF%81%E6%98%8E%EF%BC%88%E5%9B%BE7-8%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6496,
+      "y": 658
+    },
+    {
+      "height": 386,
+      "id": "876adb992c988158",
+      "label": "7.3.2 平行线的性质定理与平行传递性",
+      "type": "group",
+      "width": 1622,
+      "x": 6992,
+      "y": 406
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a7e4bb18f370ace0",
+      "text": "[✦ 平行线性质定理：两直线平行，同位角相等（含反证法证明）](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%8C%E5%90%8C%E4%BD%8D%E8%A7%92%E7%9B%B8%E7%AD%89%EF%BC%88%E5%90%AB%E5%8F%8D%E8%AF%81%E6%B3%95%E8%AF%81%E6%98%8E%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 7048,
+      "y": 658
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "54b9fcceeb85ad2b",
+      "text": "[✦ 平行线性质定理：两直线平行，内错角相等 与 两直线平行，同旁内角互补](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%8C%E5%86%85%E9%94%99%E8%A7%92%E7%9B%B8%E7%AD%89%20%E4%B8%8E%20%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%8C%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E4%BA%92%E8%A1%A5.md)",
+      "type": "text",
+      "width": 250,
+      "x": 7468,
+      "y": 658
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "896e093744d86e0d",
+      "text": "[· 方法例题 · 例 证明平行于同一条直线的两条直线平行](../../../../%E4%B9%A0%E9%A2%98/Q070000002757.md)",
+      "type": "text",
+      "width": 250,
+      "x": 7048,
+      "y": 482
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "0606214e57b8aa4e",
+      "text": "[✦ 定理：平行于同一条直线的两条直线平行（平行线的传递性）](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E7%90%86%EF%BC%9A%E5%B9%B3%E8%A1%8C%E4%BA%8E%E5%90%8C%E4%B8%80%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%88%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E4%BC%A0%E9%80%92%E6%80%A7%EF%BC%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 7858,
+      "y": 658
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "1c07dd1605fe2d28",
+      "text": "[✦ 问题 · 回顾·反思：总结命题证明的主要环节与分析证明思路经验](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%9B%9E%E9%A1%BE%C2%B7%E5%8F%8D%E6%80%9D%EF%BC%9A%E6%80%BB%E7%BB%93%E5%91%BD%E9%A2%98%E8%AF%81%E6%98%8E%E7%9A%84%E4%B8%BB%E8%A6%81%E7%8E%AF%E8%8A%82%E4%B8%8E%E5%88%86%E6%9E%90%E8%AF%81%E6%98%8E%E6%80%9D%E8%B7%AF%E7%BB%8F%E9%AA%8C.md)",
+      "type": "text",
+      "width": 280,
+      "x": 8278,
+      "y": 482
+    },
+    {
+      "height": 402,
+      "id": "9d4d31991650c8a2",
+      "label": "05 · 回顾与思考",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 1246
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "cca36a9edd9b4849",
+      "text": "[⌕ 放大 · 回顾与思考](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-05-%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83-c7afd1.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 1498
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "68c838915aa6bdbd",
+      "text": "[· 问题 · 第七章 回顾与思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E8%AF%81%E6%98%8E%E4%B8%8E%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 112,
+      "y": 1322
+    },
+    {
+      "height": 226,
+      "id": "afd57e8095589b60",
+      "label": "06 · 复习题",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 1808
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "4387ebec71360d45",
+      "text": "[⌕ 放大 · 复习题](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/07-06-%E5%A4%8D%E4%B9%A0%E9%A2%98-d5bed6.canvas)\n\n0 个展示原子 · 11 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 1884
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "510a720a7a9be7cf",
+      "text": "# [第七章 证明](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E8%AF%81%E6%98%8E/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E8%AF%81%E6%98%8E.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "7391fa853f661bd6",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "bf1e60b5b395fd85",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

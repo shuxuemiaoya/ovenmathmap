@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "acabe21b25d593bf",
+      "fromSide": "bottom",
+      "id": "8c78ea98ad173cea",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "e18a99e9036465bf",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 374,
+      "id": "1c9aa0286c8a2976",
+      "label": "第七章 复数",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "e18a99e9036465bf",
+      "text": "[§ 第七章 复数](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "acabe21b25d593bf",
+      "text": "[· 情景引入 · 从负判别式的一元二次方程引出复数](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E8%B4%9F%E5%88%A4%E5%88%AB%E5%BC%8F%E7%9A%84%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%95%E5%87%BA%E5%A4%8D%E6%95%B0--G134d7ba825b963.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "91c29c1e560351b9",
+      "text": "# [章引入](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "3d23b17b94775598",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%A4%8D%E6%95%B0-9775d4.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "d61895a94b33c094",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

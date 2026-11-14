@@ -1,0 +1,310 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f71ce68f8e4c7302",
+      "fromSide": "right",
+      "id": "df7def64d506ee4a",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "cfa0093048787df6",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d2507d64664d8bb5",
+      "fromSide": "right",
+      "id": "7325f6786ec25024",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "f71ce68f8e4c7302",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cfa0093048787df6",
+      "fromSide": "right",
+      "id": "8cc71be257714ec7",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a2549be0c320affe",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d2507d64664d8bb5",
+      "fromSide": "right",
+      "id": "c4abbc22a7e65cbe",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "0318d7c53d136fc1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2fff1e2b18746969",
+      "fromSide": "right",
+      "id": "64218251d746bde7",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d2507d64664d8bb5",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cfa0093048787df6",
+      "fromSide": "right",
+      "id": "85815a92f3295feb",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "29ac214a916e070c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0318d7c53d136fc1",
+      "fromSide": "right",
+      "id": "70f7cccd37b06ce7",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "f71ce68f8e4c7302",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "f71ce68f8e4c7302",
+      "fromSide": "bottom",
+      "id": "7b851fad67df854d",
+      "label": "练习 · 1题",
+      "toEnd": "arrow",
+      "toNode": "2da59728c9e7ba5b",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "cfa0093048787df6",
+      "fromSide": "bottom",
+      "id": "1b3f9820e89959ea",
+      "label": "归属 · 1题",
+      "toEnd": "arrow",
+      "toNode": "1d6fc9b6d7511c1e",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "cfa0093048787df6",
+      "fromSide": "bottom",
+      "id": "df8fe91fdbaaa7a8",
+      "label": "练习 · 7题",
+      "toEnd": "arrow",
+      "toNode": "0d8c30fbc0799055",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "4f4dce64fd30f7f8",
+      "fromSide": "bottom",
+      "id": "8a01a78ae01ce040",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "9a00d1b2dbd45bd9",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1152,
+      "id": "22aaa08d999fa07c",
+      "label": "2 提公因式法",
+      "type": "group",
+      "width": 3668,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 392,
+      "id": "c09d52fa87511b79",
+      "label": "提公因式法（单项式公因式）",
+      "type": "group",
+      "width": 2492,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "2fff1e2b18746969",
+      "text": "[✦ 情景引入 · 由多项式各项含相同因式的变形引出公因式与提公因式法](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%90%84%E9%A1%B9%E5%90%AB%E7%9B%B8%E5%90%8C%E5%9B%A0%E5%BC%8F%E7%9A%84%E5%8F%98%E5%BD%A2%E5%BC%95%E5%87%BA%E5%85%AC%E5%9B%A0%E5%BC%8F%E4%B8%8E%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "2da59728c9e7ba5b",
+      "text": "[练习入口 · 提公因式法（单项式公因式）](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%28%E5%8D%95%E9%A1%B9%E5%BC%8F%E5%85%AC%E5%9B%A0%E5%BC%8F%29.md)\n\n共 1 题",
+      "type": "text",
+      "width": 260,
+      "x": 112,
+      "y": 340
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "d2507d64664d8bb5",
+      "text": "[✦ 公因式的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%AC%E5%9B%A0%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 532,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "0318d7c53d136fc1",
+      "text": "[✦ 问题 · 确定多项式公因式并尝试因式分解](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%A1%AE%E5%AE%9A%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%85%AC%E5%9B%A0%E5%BC%8F%E5%B9%B6%E5%B0%9D%E8%AF%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3.md)",
+      "type": "text",
+      "width": 280,
+      "x": 952,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "f71ce68f8e4c7302",
+      "text": "[✦ 提公因式法的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1372,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "cfa0093048787df6",
+      "text": "[✦ 首项系数为负时提公因式法的符号规则](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A6%96%E9%A1%B9%E7%B3%BB%E6%95%B0%E4%B8%BA%E8%B4%9F%E6%97%B6%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E7%9A%84%E7%AC%A6%E5%8F%B7%E8%A7%84%E5%88%99.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1792,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "29ac214a916e070c",
+      "text": "[✦ 问题 · 提公因式法因式分解与单项式乘多项式的关系](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%8E%E5%8D%95%E9%A1%B9%E5%BC%8F%E4%B9%98%E5%A4%9A%E9%A1%B9%E5%BC%8F%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2212,
+      "y": 152
+    },
+    {
+      "height": 832,
+      "id": "a36356cec5a096ff",
+      "label": "提公因式法（多项式公因式）",
+      "type": "group",
+      "width": 372,
+      "x": 2708,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "1d6fc9b6d7511c1e",
+      "text": "[练习入口 · 提公因式法（多项式公因式）](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%28%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%85%AC%E5%9B%A0%E5%BC%8F%29.md)\n\n共 1 题",
+      "type": "text",
+      "width": 260,
+      "x": 2764,
+      "y": 340
+    },
+    {
+      "height": 66,
+      "id": "9a00d1b2dbd45bd9",
+      "text": "[§ 提公因式法（多项式公因式）](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%28%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%85%AC%E5%9B%A0%E5%BC%8F%29.md)",
+      "type": "text",
+      "width": 260,
+      "x": 2764,
+      "y": 748
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "4f4dce64fd30f7f8",
+      "text": "[· 问题 · 提公因式法因式分解经验总结与交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2764,
+      "y": 572
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "a2549be0c320affe",
+      "text": "[· 问题 · 长方形卡片拼图与因式分解等式探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E9%95%BF%E6%96%B9%E5%BD%A2%E5%8D%A1%E7%89%87%E6%8B%BC%E5%9B%BE%E4%B8%8E%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%AD%89%E5%BC%8F%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2764,
+      "y": 974
+    },
+    {
+      "height": 204,
+      "id": "b3386e2348f4f533",
+      "label": "习题 4.2",
+      "type": "group",
+      "width": 372,
+      "x": 3240,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "0d8c30fbc0799055",
+      "text": "[练习入口 · 习题 4.2](../../../../../%E5%88%9D%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%902024%E7%89%88%E3%80%91%E3%80%90%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88%E3%80%91%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E6%95%B0%E5%AD%A6/%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95/%E4%B9%A0%E9%A2%98%204.2.md)\n\n共 7 题",
+      "type": "text",
+      "width": 260,
+      "x": 3296,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "20612c5df905f5e7",
+      "text": "# [2 提公因式法](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "ded423535ac53c6b",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3-643fe5.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "0832e2c83a775340",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

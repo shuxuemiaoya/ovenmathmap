@@ -1,0 +1,999 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d0e1be8a9e334593",
+      "fromSide": "right",
+      "id": "5745dc1d177c1d69",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "99a1d41ba178a08f",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f6366416cd0d70f0",
+      "fromSide": "right",
+      "id": "02e9d12863f1ac0e",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d0e1be8a9e334593",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c3d23202a2e7df87",
+      "fromSide": "right",
+      "id": "155f3a4de2374058",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d0e1be8a9e334593",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "36adb3f33b8f37ba",
+      "fromSide": "right",
+      "id": "1ad58741f3058fa2",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d0e1be8a9e334593",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bb9482bde0b716dc",
+      "fromSide": "right",
+      "id": "89065e785834e2cc",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d0e1be8a9e334593",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "none",
+      "fromNode": "784048f18d55071f",
+      "fromSide": "right",
+      "id": "adcdf25442884086",
+      "label": "引发",
+      "toEnd": "arrow",
+      "toNode": "d17ab2ff47f63ccd",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "fb1ee3ac7642d64f",
+      "fromSide": "right",
+      "id": "e0308084c8854aeb",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d0e1be8a9e334593",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0776d2c9b5f4ca25",
+      "fromSide": "right",
+      "id": "ece901221167c37f",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "99a1d41ba178a08f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "ac15ee3677e67724",
+      "fromSide": "right",
+      "id": "f297ddbd444653fd",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "99a1d41ba178a08f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "d0e1be8a9e334593",
+      "fromSide": "right",
+      "id": "875174a98cad94e5",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "99a1d41ba178a08f",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5bd32d4cc36e653c",
+      "fromSide": "right",
+      "id": "291cbd6e329ac57a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d0e1be8a9e334593",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6b88a859f2214e29",
+      "fromSide": "bottom",
+      "id": "8aa56c6f7cea9cce",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "584f724c30ad986a",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "0643bc138d0f59c7",
+      "fromSide": "bottom",
+      "id": "08babcbc716b5ec3",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "01e1e4cfefcff22d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "668b845f58d89eba",
+      "fromSide": "bottom",
+      "id": "4fecfb8aaff81010",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "01e1e4cfefcff22d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9a3a37fffc0e5b46",
+      "fromSide": "bottom",
+      "id": "f8275adb2750c02c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "3788a46a4ebde06f",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "c46bfd738d99eb00",
+      "fromSide": "bottom",
+      "id": "65ac420ddfda6689",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "3788a46a4ebde06f",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "25f0338a9a0e6cb3",
+      "fromSide": "bottom",
+      "id": "f34a800ef3cec8c9",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "3788a46a4ebde06f",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "48c541f6b1aded6b",
+      "fromSide": "bottom",
+      "id": "0d1090bbb836b747",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "3788a46a4ebde06f",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "80076854e14e8769",
+      "fromSide": "bottom",
+      "id": "18af3736babb17ca",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "3788a46a4ebde06f",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "d888154d026588b0",
+      "fromSide": "bottom",
+      "id": "97c56041b89f95ab",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "3788a46a4ebde06f",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "643c236a1f404e02",
+      "fromSide": "bottom",
+      "id": "b8e9a071f8c3a1f7",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab09c2f01fa580c8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "40c8e15dedf0b498",
+      "fromSide": "bottom",
+      "id": "cc746b7aefaf5722",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ab09c2f01fa580c8",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "1f2eb49a3421bdaa",
+      "fromSide": "bottom",
+      "id": "f4e683f573119992",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ea94e8f7a01a4772",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "eaaff93e289892c0",
+      "fromSide": "bottom",
+      "id": "6e1b6020d3d25a04",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ea94e8f7a01a4772",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ff413b9f66129eeb",
+      "fromSide": "bottom",
+      "id": "73e89629434d1041",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ea94e8f7a01a4772",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "939a0bc0195efef5",
+      "fromSide": "bottom",
+      "id": "e5ec6c62b4593f5c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2a1ee020b0229d4c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a281ded7798b7a7c",
+      "fromSide": "bottom",
+      "id": "7358d397ea98e935",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "aaeeeecc9cdd9eae",
+      "fromSide": "bottom",
+      "id": "a1b0b38ed6fe7a66",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "d4a511e4cbc646c4",
+      "fromSide": "bottom",
+      "id": "a8d11f28672fbfae",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ebea38be25adc008",
+      "fromSide": "bottom",
+      "id": "567e6bad89819d4c",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "13dc0559249472a5",
+      "fromSide": "bottom",
+      "id": "43d0eba34cea190d",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "7e17f2c26102474b",
+      "fromSide": "bottom",
+      "id": "4c077da6c8eaca4a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a2a49bd3da6ee4bd",
+      "fromSide": "bottom",
+      "id": "91c35e46d45b9428",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "7d569fd783c8d94a",
+      "fromSide": "bottom",
+      "id": "3b9257b74b8f3198",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3cbc2d4ff2ff08d",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 6214,
+      "id": "bc03213bbabc53a8",
+      "label": "第八章 成对数据的统计分析",
+      "type": "group",
+      "width": 1988,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "584f724c30ad986a",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-01-%E7%AB%A0%E5%BC%95%E5%85%A5-7075e3.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 1632,
+      "y": 3760
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "6b88a859f2214e29",
+      "text": "[· 情景引入 · 从单变量统计走向成对数据的相关与回归](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%8D%95%E5%8F%98%E9%87%8F%E7%BB%9F%E8%AE%A1%E8%B5%B0%E5%90%91%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%9B%B8%E5%85%B3%E4%B8%8E%E5%9B%9E%E5%BD%92--Gfb3144d34e193d.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1632,
+      "y": 3584
+    },
+    {
+      "height": 1768,
+      "id": "1a621b9f09d2a6bc",
+      "label": "02 · 8.1 成对数据的统计相关性",
+      "type": "group",
+      "width": 1056,
+      "x": 56,
+      "y": 4390
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "78f90230de366b3f",
+      "text": "[⌕ 放大 · 8.1 成对数据的统计相关性](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-02-8.1-%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7-dbfd11.canvas)\n\n11 个展示原子 · 13 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 4466
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "c3d23202a2e7df87",
+      "text": "[✦ 情景引入 · 由身高体重关系认识统计相关性](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E8%BA%AB%E9%AB%98%E4%BD%93%E9%87%8D%E5%85%B3%E7%B3%BB%E8%AE%A4%E8%AF%86%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7--Gb1e06f54736974.md)",
+      "type": "text",
+      "width": 280,
+      "x": 664,
+      "y": 4466
+    },
+    {
+      "height": 718,
+      "id": "4abdc230d7d45b70",
+      "label": "8.1.1 变量的相关关系",
+      "type": "group",
+      "width": 392,
+      "x": 112,
+      "y": 4720
+    },
+    {
+      "height": 66,
+      "id": "01e1e4cfefcff22d",
+      "text": "[§ 8.1.1 变量的相关关系](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.1%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/8.1.1%20%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 260,
+      "x": 168,
+      "y": 5316
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "bb9482bde0b716dc",
+      "text": "[✦ 情景引入 · 从身高体重的非确定关系认识相关关系](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 280,
+      "x": 168,
+      "y": 4796
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "0643bc138d0f59c7",
+      "text": "[· 思考题 · 8.1.1 变量的相关关系·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E7%9B%B8%E5%85%B3%E4%B8%8E%E8%B4%9F%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%A3%E7%82%B9%E5%9B%BE%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 4974
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "668b845f58d89eba",
+      "text": "[· 思考题 · 8.1.1 变量的相关关系·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E4%B8%8E%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 5140
+    },
+    {
+      "height": 1382,
+      "id": "65080360df2df7b0",
+      "label": "8.1.2 样本相关系数",
+      "type": "group",
+      "width": 392,
+      "x": 664,
+      "y": 4720
+    },
+    {
+      "height": 66,
+      "id": "3788a46a4ebde06f",
+      "text": "[§ 8.1.2 样本相关系数](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.1%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7/8.1.2%20%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0.md)",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 5980
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "5bd32d4cc36e653c",
+      "text": "[✦ 情景引入 · 从散点图的局限引出样本相关系数](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%9E%84%E9%80%A0%E4%B8%8E%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 720,
+      "y": 4796
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "9a3a37fffc0e5b46",
+      "text": "[· 思考题 · 8.1.2 样本相关系数·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%9E%84%E9%80%A0%E4%B8%8E%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 4974
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "c46bfd738d99eb00",
+      "text": "[· 思考题 · 8.1.2 样本相关系数·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%9E%84%E9%80%A0%E4%B8%8E%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 5140
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "25f0338a9a0e6cb3",
+      "text": "[· 思考题 · 8.1.2 样本相关系数·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8%E4%B8%8E%E8%A7%A3%E9%87%8A.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 5306
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "48c541f6b1aded6b",
+      "text": "[· 方法例题 · 例 1 根据表 8.1-1 中脂肪含量](../../../../%E4%B9%A0%E9%A2%98/Q070000001831.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 5472
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "80076854e14e8769",
+      "text": "[· 方法例题 · 例 2 有人收集了某城市居民年收入（所](../../../../%E4%B9%A0%E9%A2%98/Q070000001832.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 5638
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "d888154d026588b0",
+      "text": "[· 方法例题 · 例 3 在某校高一年级中随机抽取25名](../../../../%E4%B9%A0%E9%A2%98/Q070000001833.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 5804
+    },
+    {
+      "height": 1270,
+      "id": "f46038ad9897ff85",
+      "label": "03 · 8.2 一元线性回归模型及其应用",
+      "type": "group",
+      "width": 1056,
+      "x": 56,
+      "y": 2960
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "4ad1bb2736fbdf90",
+      "text": "[⌕ 放大 · 8.2 一元线性回归模型及其应用](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-03-8.2-%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-f63f49.canvas)\n\n8 个展示原子 · 19 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 3036
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "fb1ee3ac7642d64f",
+      "text": "[✦ 情景引入 · 由相关系数走向一元线性回归模型](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E8%B5%B0%E5%90%91%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B--G22dc53bc742083.md)",
+      "type": "text",
+      "width": 280,
+      "x": 664,
+      "y": 3036
+    },
+    {
+      "height": 718,
+      "id": "e61f430a2ad623dd",
+      "label": "8.2.1 一元线性回归模型",
+      "type": "group",
+      "width": 392,
+      "x": 112,
+      "y": 3290
+    },
+    {
+      "height": 66,
+      "id": "ab09c2f01fa580c8",
+      "text": "[§ 8.2.1 一元线性回归模型](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/8.2.1%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)",
+      "type": "text",
+      "width": 260,
+      "x": 168,
+      "y": 3886
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "f6366416cd0d70f0",
+      "text": "[✦ 情景引入 · 从父子身高数据建立一元线性回归模型](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%AF%AF%E5%B7%AE.md)",
+      "type": "text",
+      "width": 280,
+      "x": 168,
+      "y": 3366
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "643c236a1f404e02",
+      "text": "[· 思考题 · 8.2.1 一元线性回归模型·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%AF%AF%E5%B7%AE.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 3544
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "40c8e15dedf0b498",
+      "text": "[· 思考题 · 8.2.1 一元线性回归模型·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%AF%AF%E5%B7%AE.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 3710
+    },
+    {
+      "height": 884,
+      "id": "fb5da65476e70956",
+      "label": "8.2.2 一元线性回归模型参数的最小二乘估计",
+      "type": "group",
+      "width": 392,
+      "x": 664,
+      "y": 3290
+    },
+    {
+      "height": 66,
+      "id": "ea94e8f7a01a4772",
+      "text": "[§ 8.2.2 一元线性回归模型参数的最小二乘估计](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/8.2.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 4052
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "36adb3f33b8f37ba",
+      "text": "[✦ 情景引入 · 从回归模型未知参数引出最小二乘估计](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 280,
+      "x": 720,
+      "y": 3366
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "1f2eb49a3421bdaa",
+      "text": "[· 思考题 · 8.2.2 一元线性回归模型参数的最小二乘估计·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 3544
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "eaaff93e289892c0",
+      "text": "[· 思考题 · 8.2.2 一元线性回归模型参数的最小二乘估计·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%9E%E5%BD%92%E9%A2%84%E6%B5%8B%E4%B8%8E%E6%AE%8B%E5%B7%AE%E5%88%86%E6%9E%90.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 3710
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "ff413b9f66129eeb",
+      "text": "[· 思考题 · 8.2.2 一元线性回归模型参数的最小二乘估计·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%9E%E5%BD%92%E9%A2%84%E6%B5%8B%E4%B8%8E%E6%AE%8B%E5%B7%AE%E5%88%86%E6%9E%90.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 3876
+    },
+    {
+      "height": 464,
+      "id": "4a88999db6ecb67e",
+      "label": "04 · 阅读与思考 回归与相关",
+      "type": "group",
+      "width": 412,
+      "x": 1084,
+      "y": 2336
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "2b144bac6e375472",
+      "text": "[⌕ 放大 · 阅读与思考 回归与相关](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-04-%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83-%E5%9B%9E%E5%BD%92%E4%B8%8E%E7%9B%B8%E5%85%B3-a1c0a5.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 1140,
+      "y": 2412
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "d0e1be8a9e334593",
+      "text": "[✦ 阅读与思考 回归与相关](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%9B%9E%E5%BD%92%E4%B8%8E%E7%9B%B8%E5%85%B3.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1140,
+      "y": 2666
+    },
+    {
+      "height": 2100,
+      "id": "2fb4399f4870d289",
+      "label": "05 · 8.3 列联表与独立性检验",
+      "type": "group",
+      "width": 1416,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "3537e803b17d16dd",
+      "text": "[⌕ 放大 · 8.3 列联表与独立性检验](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-05-8.3-%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C-811c60.canvas)\n\n13 个展示原子 · 19 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "0776d2c9b5f4ca25",
+      "text": "[✦ 情景引入 · 由学校成绩与体育锻炼研究分类变量关联](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1024,
+      "y": 152
+    },
+    {
+      "height": 600,
+      "id": "292ffd5d4dd1bb64",
+      "label": "8.3.1 分类变量与列联表",
+      "type": "group",
+      "width": 752,
+      "x": 112,
+      "y": 406
+    },
+    {
+      "height": 66,
+      "id": "2a1ee020b0229d4c",
+      "text": "[§ 8.3.1 分类变量与列联表](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.3%20%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/8.3.1%20%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "type": "text",
+      "width": 260,
+      "x": 168,
+      "y": 658
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "784048f18d55071f",
+      "text": "[· 情景引入 · 从性别与体育锻炼数据建立列联表](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 884
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "d17ab2ff47f63ccd",
+      "text": "[· 方法例题 · 例 1 为比较甲、乙两所学校学生的数学](../../../../%E4%B9%A0%E9%A2%98/Q070000001858.md)",
+      "type": "text",
+      "width": 250,
+      "x": 558,
+      "y": 884
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "939a0bc0195efef5",
+      "text": "[· 思考题 · 8.3.1 分类变量与列联表·思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83-%E6%AF%94%E8%BE%83%E6%A0%B7%E6%9C%AC%E4%BC%98%E7%A7%80%E7%8E%87%E5%BE%97%E5%87%BA%E7%BB%93%E8%AE%BA%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 482
+    },
+    {
+      "height": 1714,
+      "id": "7701cdb6c85dadd3",
+      "label": "8.3.2 独立性检验",
+      "type": "group",
+      "width": 392,
+      "x": 1024,
+      "y": 406
+    },
+    {
+      "height": 66,
+      "id": "f3cbc2d4ff2ff08d",
+      "text": "[§ 8.3.2 独立性检验](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.3%20%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/8.3.2%20%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1080,
+      "y": 1998
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "ac15ee3677e67724",
+      "text": "[✦ 情景引入 · 由样本频率误差引出独立性检验](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%8D%A1%E6%96%B9%E7%BB%9F%E8%AE%A1%E9%87%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1080,
+      "y": 482
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "a281ded7798b7a7c",
+      "text": "[· 思考题 · 8.3.2 独立性检验·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%8D%A1%E6%96%B9%E7%BB%9F%E8%AE%A1%E9%87%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 660
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "aaeeeecc9cdd9eae",
+      "text": "[· 方法例题 · 例 2 依据小概率值 $\\\\alpha](../../../../%E4%B9%A0%E9%A2%98/Q070000001863.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 826
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "d4a511e4cbc646c4",
+      "text": "[· 思考题 · 8.3.2 独立性检验·思考](../../../../%E9%A2%98%E5%9E%8B/%E6%8C%89%E7%AB%A0%E8%8A%82%E5%88%86%E7%B1%BB/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/8.3%20%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C/8.3.2%20%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 992
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "ebea38be25adc008",
+      "text": "[· 方法例题 · 例 1 和例 2 都是基于同一组数据的](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E9%A2%91%E7%8E%87%E6%AF%94%E8%BE%83%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E5%B7%AE%E5%BC%82.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 1158
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "13dc0559249472a5",
+      "text": "[· 方法例题 · 例 3 某儿童医院用甲、乙两种疗法治疗](../../../../%E4%B9%A0%E9%A2%98/Q070000001864.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 1324
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "7e17f2c26102474b",
+      "text": "[· 思考题 · 8.3.2 独立性检验·观察](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E8%A7%82%E5%AF%9F-%E8%B0%83%E6%8D%A2%E5%88%97%E8%81%94%E8%A1%A8%E8%A1%8C%E5%88%97%E5%90%8E%E7%BB%9F%E8%AE%A1%E9%87%8F%E7%9A%84%E5%8F%98%E5%8C%96.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 1490
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "a2a49bd3da6ee4bd",
+      "text": "[· 方法例题 · 例 4 为研究吸烟是否与肺癌有关](../../../../%E4%B9%A0%E9%A2%98/Q070000001865.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 1656
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "7d569fd783c8d94a",
+      "text": "[· 思考题 · 8.3.2 独立性检验·思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83-%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E4%B8%8E%E5%8F%8D%E8%AF%81%E6%B3%95%E7%9A%84%E8%81%94%E7%B3%BB%E5%92%8C%E5%8C%BA%E5%88%AB.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1080,
+      "y": 1822
+    },
+    {
+      "height": 464,
+      "id": "34aa00f28df3bb6c",
+      "label": "06 · 第八章 成对数据的统计分析 小结",
+      "type": "group",
+      "width": 412,
+      "x": 1504,
+      "y": 2960
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "5ffe320c8a527990",
+      "text": "[⌕ 放大 · 第八章 成对数据的统计分析 小结](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-06-%E7%AC%AC%E5%85%AB%E7%AB%A0-%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90-%E5%B0%8F%E7%BB%93-82217e.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 1560,
+      "y": 3036
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "99a1d41ba178a08f",
+      "text": "[✦ 第八章 成对数据的统计分析 小结](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%20%E5%B0%8F%E7%BB%93--G19bffb06a5561c.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001879.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001880.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001881.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001882.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001883.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001884.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001885.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001886.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001887.md) · [✦ 第八章 成对数据的统计分析 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001888.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1560,
+      "y": 3290
+    },
+    {
+      "height": 226,
+      "id": "fc87a208b11a5e70",
+      "label": "07 · 第八章 成对数据的统计分析 复习参考题 8",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 2336
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "b0ef66a3277e97e1",
+      "text": "[⌕ 放大 · 第八章 成对数据的统计分析 复习参考题 8](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-07-%E7%AC%AC%E5%85%AB%E7%AB%A0-%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90-%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%98-8-733f2b.canvas)\n\n0 个展示原子 · 8 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 2412
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "3d80404282754321",
+      "text": "# [第八章 成对数据的统计分析](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "adf143c1ec1a20e7",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "57470fee81139985",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

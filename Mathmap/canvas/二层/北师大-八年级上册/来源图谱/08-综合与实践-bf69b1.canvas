@@ -1,0 +1,123 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8592769eb5f2a1ae",
+      "fromSide": "bottom",
+      "id": "85d26cbae5d01e07",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "ec67e2800e52d7f2",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "16a125fa762d30d0",
+      "fromSide": "bottom",
+      "id": "6431c5a70ea9dbd3",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "297131d1feb513df",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1096,
+      "id": "d63b5e48de1ef1e7",
+      "label": "综合与实践",
+      "type": "group",
+      "width": 524,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 402,
+      "id": "93083ea7da6b0c0b",
+      "label": "01 · 哪个城市夏天更热",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "ec67e2800e52d7f2",
+      "text": "[⌕ 放大 · 哪个城市夏天更热](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/08-01-%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD-e66952.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 328
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "8592769eb5f2a1ae",
+      "text": "[· 问题 · 综合与实践：哪个城市夏天更热](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)",
+      "type": "text",
+      "width": 250,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "height": 402,
+      "id": "c40ac2b2d4ca67e8",
+      "label": "02 · 神奇的加密术",
+      "type": "group",
+      "width": 412,
+      "x": 56,
+      "y": 638
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "297131d1feb513df",
+      "text": "[⌕ 放大 · 神奇的加密术](../../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/08-02-%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF-a686bb.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 890
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "16a125fa762d30d0",
+      "text": "[· 问题 · 综合与实践：神奇的加密术](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%EF%BC%9A%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF.md)",
+      "type": "text",
+      "width": 250,
+      "x": 112,
+      "y": 714
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "c5470d54cb03b986",
+      "text": "# [综合与实践](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "971df2d058d0f54b",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "0157893c8e23d93d",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

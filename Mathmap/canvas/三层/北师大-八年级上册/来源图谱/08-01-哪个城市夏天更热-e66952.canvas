@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8592769eb5f2a1ae",
+      "fromSide": "bottom",
+      "id": "513dd588e5960448",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "72352eee27613d13",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 374,
+      "id": "ba38c837dea371c3",
+      "label": "哪个城市夏天更热",
+      "type": "group",
+      "width": 372,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "72352eee27613d13",
+      "text": "[§ 哪个城市夏天更热](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "8592769eb5f2a1ae",
+      "text": "[· 问题 · 综合与实践：哪个城市夏天更热](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)",
+      "type": "text",
+      "width": 250,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "bd0ce645fd02ccbe",
+      "text": "# [哪个城市夏天更热](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "78fdf3994c623935",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/08-%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-bf69b1.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "84c902febec389a0",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

@@ -1,0 +1,1335 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "001955a9096f3663",
+      "fromSide": "right",
+      "id": "a0731c0a2178b922",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c97cc556b9111210",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9b8526f006b01228",
+      "fromSide": "right",
+      "id": "3256777bed793d70",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a57beb93017f4e52",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0d30d47aa40627ac",
+      "fromSide": "right",
+      "id": "9ddc518db30afd46",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "aa911a115daaaadc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "1cac482c25912952",
+      "fromSide": "right",
+      "id": "36f533700570d2fd",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "0407b4773d55792b",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0407b4773d55792b",
+      "fromSide": "right",
+      "id": "a6902a73826fd19e",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "9b8526f006b01228",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a57beb93017f4e52",
+      "fromSide": "right",
+      "id": "c48f952af03041dc",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "001955a9096f3663",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "aa911a115daaaadc",
+      "fromSide": "right",
+      "id": "0451af671b0cf22b",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "e473b7dcc2a772f3",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c326e04c8ac2ac14",
+      "fromSide": "right",
+      "id": "f4f467abb99069d6",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "1cac482c25912952",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e473b7dcc2a772f3",
+      "fromSide": "right",
+      "id": "704d9d7c7880e540",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c326e04c8ac2ac14",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "1cac482c25912952",
+      "fromSide": "right",
+      "id": "00620e5bd2242ccf",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "0407b4773d55792b",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "aa911a115daaaadc",
+      "fromSide": "right",
+      "id": "0aed07dcf51e7156",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "e473b7dcc2a772f3",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0d30d47aa40627ac",
+      "fromSide": "right",
+      "id": "b58179831656224e",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "aa911a115daaaadc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "0407b4773d55792b",
+      "fromSide": "right",
+      "id": "804e86e8c11d7bcb",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "9b8526f006b01228",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "98d51a0010a6a869",
+      "fromSide": "right",
+      "id": "09ea5404b50c04ba",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "1b9c6b66280bc26c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "001955a9096f3663",
+      "fromSide": "right",
+      "id": "01fb0f8d9982adbd",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "c97cc556b9111210",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "70aaf10d27406861",
+      "fromSide": "right",
+      "id": "dd9c8d22030cb72d",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "1cac482c25912952",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "9b8526f006b01228",
+      "fromSide": "right",
+      "id": "d2a59f11dc11cb45",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "a57beb93017f4e52",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "accc28e1af9d5a75",
+      "fromSide": "right",
+      "id": "b9460233d6507dac",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "f25f47e7b5ea3f8d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "acabe21b25d593bf",
+      "fromSide": "bottom",
+      "id": "0f254c7c696df0cd",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "22a7ee04ae14853c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "458b5b654ca368d5",
+      "fromSide": "bottom",
+      "id": "a9ccc87cc49c60d2",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "03d73b801f5dd9d6",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8983426642198cd7",
+      "fromSide": "bottom",
+      "id": "53e8a0ca7a204e4a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "03d73b801f5dd9d6",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "d098fe3c182e79a3",
+      "fromSide": "bottom",
+      "id": "43df60ef58f2e3d2",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "03d73b801f5dd9d6",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "70ca226fac222856",
+      "fromSide": "bottom",
+      "id": "dcc54e79346bdb27",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "03d73b801f5dd9d6",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a6aaece5aa2f3044",
+      "fromSide": "bottom",
+      "id": "25d76174c05e87cf",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "11b2ff3555b67734",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6a9be5025b6395bd",
+      "fromSide": "bottom",
+      "id": "716b4463336ea7d6",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "11b2ff3555b67734",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "28fbfac23400cafe",
+      "fromSide": "bottom",
+      "id": "b6beeb96d59b7d4a",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "11b2ff3555b67734",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "eef3b23784232bd3",
+      "fromSide": "bottom",
+      "id": "a193e2dc593c3084",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "11b2ff3555b67734",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ea70d4081255c1bf",
+      "fromSide": "bottom",
+      "id": "289cdd8910b434ed",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "11b2ff3555b67734",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "311fb1867cc2b562",
+      "fromSide": "bottom",
+      "id": "f8c1eca89b3fc9ff",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "69bf82c0d178548c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "7f488470675bb67b",
+      "fromSide": "bottom",
+      "id": "f1fe1b8d4a4ec47f",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "69bf82c0d178548c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2f0bac1c1cf3b268",
+      "fromSide": "bottom",
+      "id": "de023b11868a9e0b",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "69bf82c0d178548c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ce9e9fa9396e35a3",
+      "fromSide": "bottom",
+      "id": "c2e8a67005f37590",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "69bf82c0d178548c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "734d0796230cf81e",
+      "fromSide": "bottom",
+      "id": "d1f7c018d6c6c8eb",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "69bf82c0d178548c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "8080dc45171f14a6",
+      "fromSide": "bottom",
+      "id": "2e564f1c46bdc320",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "bd0222e0eab6ae55",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2f6369454aa935a9",
+      "fromSide": "bottom",
+      "id": "6055266b66b64677",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "bd0222e0eab6ae55",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "52a4bb8002d85e88",
+      "fromSide": "bottom",
+      "id": "caab51759407f448",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "bd0222e0eab6ae55",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b97f5646b4c3f3f4",
+      "fromSide": "bottom",
+      "id": "42a0d5e1c6e13eec",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "bd0222e0eab6ae55",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ba3fa05fef5312b6",
+      "fromSide": "bottom",
+      "id": "1ed4efbd0d35573d",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "bd0222e0eab6ae55",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "bb1ecbc073552de6",
+      "fromSide": "bottom",
+      "id": "0fe37c705ea8f8de",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "bd0222e0eab6ae55",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "53f34f9d2aacea99",
+      "fromSide": "bottom",
+      "id": "ea80cb277be922a1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c14369d2fde0a6c5",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "d1f32eaa4e11e064",
+      "fromSide": "bottom",
+      "id": "cfea219e409f61a1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c14369d2fde0a6c5",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "3cd9765c7d36e8f4",
+      "fromSide": "bottom",
+      "id": "12751a0085873ae2",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c14369d2fde0a6c5",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "b58073af3b0e0eb0",
+      "fromSide": "bottom",
+      "id": "8dc9ff29b530dab1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c14369d2fde0a6c5",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "93d6456a7ef53eac",
+      "fromSide": "bottom",
+      "id": "bc72e47be900bb91",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c14369d2fde0a6c5",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6f5713fe9a6d4a65",
+      "fromSide": "bottom",
+      "id": "66db229b56595fa1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5830c2948e24ef68",
+      "fromSide": "bottom",
+      "id": "6f4702cd40585273",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5f1952fdf3f4187e",
+      "fromSide": "bottom",
+      "id": "709a43a1ecb4c89d",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "7aedd7488976a308",
+      "fromSide": "bottom",
+      "id": "0a5178576b19bb04",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "af2bfa960cdfda8d",
+      "fromSide": "bottom",
+      "id": "7269fe9bfd8bb8c0",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "acb693d9f7f33e23",
+      "fromSide": "bottom",
+      "id": "211a718fc55345c0",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2e41035f398c9144",
+      "fromSide": "bottom",
+      "id": "ff3c2c968b7a3ec1",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7f98f14311663cdb",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2042,
+      "id": "b4084bfa85c6bcb1",
+      "label": "第七章 复数",
+      "type": "group",
+      "width": 6944,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "22a7ee04ae14853c",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-01-%E7%AB%A0%E5%BC%95%E5%85%A5-edf1c8.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 6056,
+      "y": 1324
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "acabe21b25d593bf",
+      "text": "[· 情景引入 · 从负判别式的一元二次方程引出复数](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E8%B4%9F%E5%88%A4%E5%88%AB%E5%BC%8F%E7%9A%84%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%95%E5%87%BA%E5%A4%8D%E6%95%B0--G134d7ba825b963.md)",
+      "type": "text",
+      "width": 250,
+      "x": 6056,
+      "y": 700
+    },
+    {
+      "height": 1602,
+      "id": "68764399e5f0f6c5",
+      "label": "02 · 7.1 复数的概念",
+      "type": "group",
+      "width": 1420,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "13b4515eedfa6232",
+      "text": "[⌕ 放大 · 7.1 复数的概念](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-02-7.1-%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5-bb4664.canvas)\n\n12 个展示原子 · 19 题",
+      "type": "text",
+      "width": 300,
+      "x": 1028,
+      "y": 1528
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "0d30d47aa40627ac",
+      "text": "[✦ 7.1 复数的概念·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "height": 1050,
+      "id": "9b18e99008b9ae40",
+      "label": "7.1.1 数系的扩充和复数的概念",
+      "type": "group",
+      "width": 392,
+      "x": 476,
+      "y": 390
+    },
+    {
+      "height": 66,
+      "id": "03d73b801f5dd9d6",
+      "text": "[§ 7.1.1 数系的扩充和复数的概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/7.1%20%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5/7.1.1%20%E6%95%B0%E7%B3%BB%E7%9A%84%E6%89%A9%E5%85%85%E5%92%8C%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 260,
+      "x": 532,
+      "y": 1318
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "aa911a115daaaadc",
+      "text": "[✦ 7.1.1 数系的扩充和复数的概念·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 280,
+      "x": 532,
+      "y": 466
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "458b5b654ca368d5",
+      "text": "[· 思考题 · 7.1.1 数系的扩充和复数的概念·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 250,
+      "x": 532,
+      "y": 644
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "8983426642198cd7",
+      "text": "[· 思考题 · 7.1.1 数系的扩充和复数的概念·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 250,
+      "x": 532,
+      "y": 810
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "d098fe3c182e79a3",
+      "text": "[· 思考题 · 7.1.1 数系的扩充和复数的概念·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 250,
+      "x": 532,
+      "y": 976
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "70ca226fac222856",
+      "text": "[· 方法例题 · 例 1 当实数 m 取什么值时](../../../../%E4%B9%A0%E9%A2%98/Q070000000559.md)",
+      "type": "text",
+      "width": 250,
+      "x": 532,
+      "y": 1142
+    },
+    {
+      "height": 1216,
+      "id": "f194db19ecfa4a86",
+      "label": "7.1.2 复数的几何意义",
+      "type": "group",
+      "width": 392,
+      "x": 1028,
+      "y": 152
+    },
+    {
+      "height": 66,
+      "id": "11b2ff3555b67734",
+      "text": "[§ 7.1.2 复数的几何意义](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/7.1%20%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5/7.1.2%20%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1084,
+      "y": 1246
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "e473b7dcc2a772f3",
+      "text": "[✦ 7.1.2 复数的几何意义·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1084,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "a6aaece5aa2f3044",
+      "text": "[· 思考题 · 7.1.2 复数的几何意义·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1084,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "6a9be5025b6395bd",
+      "text": "[· 思考题 · 7.1.2 复数的几何意义·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1084,
+      "y": 572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "28fbfac23400cafe",
+      "text": "[· 方法例题 · 例 2 设复数 $z_{1}=4+3i](../../../../%E4%B9%A0%E9%A2%98/Q070000000563.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1084,
+      "y": 738
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "eef3b23784232bd3",
+      "text": "[· 思考题 · 7.1.2 复数的几何意义·思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83-%E5%85%B1%E8%BD%AD%E5%A4%8D%E6%95%B0%E5%AF%B9%E5%BA%94%E7%82%B9%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1084,
+      "y": 904
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "ea70d4081255c1bf",
+      "text": "[· 方法例题 · 例 3 设 $z \\\\in \\\\mathb](../../../../%E4%B9%A0%E9%A2%98/Q070000000564.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1084,
+      "y": 1070
+    },
+    {
+      "height": 1524,
+      "id": "e99152bbd2e14c41",
+      "label": "03 · 7.2 复数的四则运算",
+      "type": "group",
+      "width": 2604,
+      "x": 1636,
+      "y": 462
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "fdeb03a560dc9ddf",
+      "text": "[⌕ 放大 · 7.2 复数的四则运算](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-03-7.2-%E5%A4%8D%E6%95%B0%E7%9A%84%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97-60f712.canvas)\n\n16 个展示原子 · 20 题",
+      "type": "text",
+      "width": 300,
+      "x": 1692,
+      "y": 538
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "c326e04c8ac2ac14",
+      "text": "[✦ 7.2 复数的四则运算·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97--G7455404336a65c.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1692,
+      "y": 792
+    },
+    {
+      "height": 376,
+      "id": "b30659a12bdf3418",
+      "label": "7.2.1 复数的加、减运算及其几何意义",
+      "type": "group",
+      "width": 2142,
+      "x": 1692,
+      "y": 1018
+    },
+    {
+      "height": 66,
+      "id": "69bf82c0d178548c",
+      "text": "[§ 7.2.1 复数的加、减运算及其几何意义](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/7.2%20%E5%A4%8D%E6%95%B0%E7%9A%84%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97/7.2.1%20%E5%A4%8D%E6%95%B0%E7%9A%84%E5%8A%A0%E3%80%81%E5%87%8F%E8%BF%90%E7%AE%97%E5%8F%8A%E5%85%B6%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1748,
+      "y": 1272
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "accc28e1af9d5a75",
+      "text": "[✦ 情景引入 · 从复数代数形式走向加减运算及几何意义](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%A4%8D%E6%95%B0%E4%BB%A3%E6%95%B0%E5%BD%A2%E5%BC%8F%E8%B5%B0%E5%90%91%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97%E5%8F%8A%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89--Gf570104a84697d.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1748,
+      "y": 1094
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "f25f47e7b5ea3f8d",
+      "text": "[✦ 思考题 · 7.2.1 复数的加、减运算及其几何意义·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2168,
+      "y": 1260
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "311fb1867cc2b562",
+      "text": "[· 思考题 · 7.2.1 复数的加、减运算及其几何意义·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2128,
+      "y": 1094
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "7f488470675bb67b",
+      "text": "[· 思考题 · 7.2.1 复数的加、减运算及其几何意义·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2478,
+      "y": 1094
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "2f0bac1c1cf3b268",
+      "text": "[· 思考题 · 7.2.1 复数的加、减运算及其几何意义·探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%8E%A2%E7%A9%B6-%E5%A4%8D%E6%95%B0%E5%87%8F%E6%B3%95%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2828,
+      "y": 1094
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "ce9e9fa9396e35a3",
+      "text": "[· 方法例题 · 例 1 计算 $(5-6i)+(-2-](../../../../%E4%B9%A0%E9%A2%98/Q070000000579.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3178,
+      "y": 1094
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "734d0796230cf81e",
+      "text": "[· 方法例题 · 例 2 根据复数及其运算的几何意义](../../../../%E4%B9%A0%E9%A2%98/Q070000000580.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3528,
+      "y": 1094
+    },
+    {
+      "height": 376,
+      "id": "5dcdb64a5e634b0e",
+      "label": "7.2.2 复数的乘、除运算",
+      "type": "group",
+      "width": 2492,
+      "x": 1692,
+      "y": 1554
+    },
+    {
+      "height": 66,
+      "id": "bd0222e0eab6ae55",
+      "text": "[§ 7.2.2 复数的乘、除运算](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/7.2%20%E5%A4%8D%E6%95%B0%E7%9A%84%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97/7.2.2%20%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B9%98%E3%80%81%E9%99%A4%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 260,
+      "x": 1748,
+      "y": 1808
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "98d51a0010a6a869",
+      "text": "[✦ 情景引入 · 类比多项式运算建立复数乘除法](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%B1%BB%E6%AF%94%E5%A4%9A%E9%A1%B9%E5%BC%8F%E8%BF%90%E7%AE%97%E5%BB%BA%E7%AB%8B%E5%A4%8D%E6%95%B0%E4%B9%98%E9%99%A4%E6%B3%95--Gbe84bbacb8c3a1.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1748,
+      "y": 1630
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "1b9c6b66280bc26c",
+      "text": "[✦ 思考题 · 7.2.2 复数的乘、除运算·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2168,
+      "y": 1796
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "8080dc45171f14a6",
+      "text": "[· 方法例题 · 例 3 计算 $(1-2i)(3+4i](../../../../%E4%B9%A0%E9%A2%98/Q070000000585.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2128,
+      "y": 1630
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "2f6369454aa935a9",
+      "text": "[· 方法例题 · 例 4 计算：](../../../../%E4%B9%A0%E9%A2%98/Q070000000586.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2478,
+      "y": 1630
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "52a4bb8002d85e88",
+      "text": "[· 思考题 · 7.2.2 复数的乘、除运算·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2828,
+      "y": 1630
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "b97f5646b4c3f3f4",
+      "text": "[· 方法例题 · 例 5 计算 $(1+2i)\\\\div(](../../../../%E4%B9%A0%E9%A2%98/Q070000000587.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3178,
+      "y": 1630
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "ba3fa05fef5312b6",
+      "text": "[· 方法例题 · 例 6 在复数范围内解下列方程：](../../../../%E4%B9%A0%E9%A2%98/Q070000000588.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3528,
+      "y": 1630
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "bb1ecbc073552de6",
+      "text": "[· 思考题 · 7.2.2 复数的乘、除运算·思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83-%E5%A4%8D%E6%95%B0%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97%E6%B3%95%E5%88%99%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3878,
+      "y": 1630
+    },
+    {
+      "height": 226,
+      "id": "2b4c5179f8f632a6",
+      "label": "04 · 阅读与思考 代数基本定理",
+      "type": "group",
+      "width": 1212,
+      "x": 2208,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "ed13034de1b2882b",
+      "text": "[⌕ 放大 · 阅读与思考 代数基本定理](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-04-%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83-%E4%BB%A3%E6%95%B0%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86-27329a.canvas)\n\n2 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 3064,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "70aaf10d27406861",
+      "text": "[✦ 情景引入 · 从多项式求根史认识代数基本定理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E6%B1%82%E6%A0%B9%E5%8F%B2%E8%AE%A4%E8%AF%86%E4%BB%A3%E6%95%B0%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86--G6106f74cb7ea32.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2264,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "1cac482c25912952",
+      "text": "[✦ 阅读与思考 代数基本定理·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E4%BB%A3%E6%95%B0%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2684,
+      "y": 152
+    },
+    {
+      "height": 1680,
+      "id": "06f59a71530f6566",
+      "label": "05 · 7.3* 复数的三角表示",
+      "type": "group",
+      "width": 1496,
+      "x": 4400,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "e35026e32ac2f5bb",
+      "text": "[⌕ 放大 · 7.3* 复数的三角表示](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-05-7.3--%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA-ec8b5b.canvas)\n\n15 个展示原子 · 18 题",
+      "type": "text",
+      "width": 300,
+      "x": 4456,
+      "y": 1528
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "0407b4773d55792b",
+      "text": "[✦ 7.3* 复数的三角表示·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA--G26bbeff3a0b53f.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4456,
+      "y": 152
+    },
+    {
+      "height": 1216,
+      "id": "aa1d557633d510d6",
+      "label": "7.3.1 复数的三角表示式",
+      "type": "group",
+      "width": 392,
+      "x": 4896,
+      "y": 152
+    },
+    {
+      "height": 66,
+      "id": "c14369d2fde0a6c5",
+      "text": "[§ 7.3.1 复数的三角表示式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/7.3%EF%BC%8D%20%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA/7.3.1%20%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%BC%8F.md)",
+      "type": "text",
+      "width": 260,
+      "x": 4952,
+      "y": 1246
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "9b8526f006b01228",
+      "text": "[✦ 7.3.1 复数的三角表示式·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%BC%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4952,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "53f34f9d2aacea99",
+      "text": "[· 思考题 · 7.3.1 复数的三角表示式·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4952,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "d1f32eaa4e11e064",
+      "text": "[· 思考题 · 7.3.1 复数的三角表示式·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4952,
+      "y": 572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "3cd9765c7d36e8f4",
+      "text": "[· 方法例题 · 例 1 画出下列复数对应的向量](../../../../%E4%B9%A0%E9%A2%98/Q070000000603.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4952,
+      "y": 738
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "b58073af3b0e0eb0",
+      "text": "[· 方法例题 · 例 2 分别指出下列复数的模和一个辐角](../../../../%E4%B9%A0%E9%A2%98/Q070000000604.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4952,
+      "y": 904
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "93d6456a7ef53eac",
+      "text": "[· 思考题 · 7.3.1 复数的三角表示式·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%BC%8F.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4952,
+      "y": 1070
+    },
+    {
+      "height": 1548,
+      "id": "8dd68be086fc7fbc",
+      "label": "7.3.2 复数乘、除运算的三角表示及其几何意义",
+      "type": "group",
+      "width": 392,
+      "x": 5448,
+      "y": 152
+    },
+    {
+      "height": 66,
+      "id": "7f98f14311663cdb",
+      "text": "[§ 7.3.2 复数乘、除运算的三角表示及其几何意义](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/7.3%EF%BC%8D%20%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA/7.3.2%20%E5%A4%8D%E6%95%B0%E4%B9%98%E3%80%81%E9%99%A4%E8%BF%90%E7%AE%97%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%8F%8A%E5%85%B6%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 260,
+      "x": 5504,
+      "y": 1578
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a57beb93017f4e52",
+      "text": "[✦ 7.3.2 复数乘、除运算的三角表示及其几何意义·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5504,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "6f5713fe9a6d4a65",
+      "text": "[· 思考题 · 7.3.2 复数乘、除运算的三角表示及其几何意义·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5830c2948e24ef68",
+      "text": "[· 思考题 · 7.3.2 复数乘、除运算的三角表示及其几何意义·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "5f1952fdf3f4187e",
+      "text": "[· 方法例题 · 例 3 已知 $z_{1}=\\\\frac](../../../../%E4%B9%A0%E9%A2%98/Q070000000608.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 738
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "7aedd7488976a308",
+      "text": "[· 方法例题 · 例 4 如图 7.3-8](../../../../%E4%B9%A0%E9%A2%98/Q070000000609.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 904
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "af2bfa960cdfda8d",
+      "text": "[· 思考题 · 7.3.2 复数乘、除运算的三角表示及其几何意义·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 1070
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "acb693d9f7f33e23",
+      "text": "[· 思考题 · 7.3.2 复数乘、除运算的三角表示及其几何意义·探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%8E%A2%E7%A9%B6-%E5%A4%8D%E6%95%B0%E9%99%A4%E6%B3%95%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 1236
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "2e41035f398c9144",
+      "text": "[· 方法例题 · 例 5 计算 $4\\\\left(\\\\cos](../../../../%E4%B9%A0%E9%A2%98/Q070000000610.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5504,
+      "y": 1402
+    },
+    {
+      "height": 464,
+      "id": "8b5840c4af38150f",
+      "label": "06 · 探究与发现 1 的 n 次方根",
+      "type": "group",
+      "width": 412,
+      "x": 6056,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "dbf532350733e006",
+      "text": "[⌕ 放大 · 探究与发现 1 的 n 次方根](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-06-%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0-1-%E7%9A%84-n-%E6%AC%A1%E6%96%B9%E6%A0%B9-24ed9f.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 6112,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "001955a9096f3663",
+      "text": "[✦ 1的 $n$ 次方根](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/1%E7%9A%84n%E6%AC%A1%E6%96%B9%E6%A0%B9.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6112,
+      "y": 406
+    },
+    {
+      "height": 464,
+      "id": "6ccfd4936cc82a61",
+      "label": "07 · 第七章 复数 小结",
+      "type": "group",
+      "width": 412,
+      "x": 6476,
+      "y": 700
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "4f43f489f10bf44b",
+      "text": "[⌕ 放大 · 第七章 复数 小结](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-07-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%A4%8D%E6%95%B0-%E5%B0%8F%E7%BB%93-48d626.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 6532,
+      "y": 776
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "c97cc556b9111210",
+      "text": "[✦ 第七章 复数 小结](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0%20%E5%B0%8F%E7%BB%93--Gfce25e22190d24.md) · [✦ 第七章 复数 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000000624.md) · [✦ 第七章 复数 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000000625.md) · [✦ 第七章 复数 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000000626.md) · [✦ 第七章 复数 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000000627.md) · [✦ 第七章 复数 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000000628.md) · [✦ 第七章 复数 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000000629.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6532,
+      "y": 1030
+    },
+    {
+      "height": 226,
+      "id": "228866fd95d9cb1c",
+      "label": "08 · 第七章 复数 复习参考题 7",
+      "type": "group",
+      "width": 412,
+      "x": 1636,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "5ffde2c90ee36fa8",
+      "text": "[⌕ 放大 · 第七章 复数 复习参考题 7](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-08-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%A4%8D%E6%95%B0-%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%98-7-2d137a.canvas)\n\n0 个展示原子 · 10 题",
+      "type": "text",
+      "width": 300,
+      "x": 1692,
+      "y": 152
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "85e6637e717c322a",
+      "text": "# [第七章 复数](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "2c7e9b9d01156b20",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "c7c3182a76f78d17",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

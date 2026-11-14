@@ -1,0 +1,1114 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "4f1bea6fa42925c0",
+      "fromSide": "right",
+      "id": "1325e143347a1efa",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "e6e0319c4f6b930f",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f4a06fc5a1994871",
+      "fromSide": "right",
+      "id": "55ef465ab3ae1421",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "c92c2eb56f42beb8",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e58907cd0563d5f1",
+      "fromSide": "right",
+      "id": "f911a28ef687f61d",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "9c2dedda25ce1bfa",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e6e0319c4f6b930f",
+      "fromSide": "right",
+      "id": "3f65429b884b5733",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "f4a06fc5a1994871",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c92c2eb56f42beb8",
+      "fromSide": "right",
+      "id": "46243fae1d20f2fe",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a238398e1ab36934",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a238398e1ab36934",
+      "fromSide": "right",
+      "id": "7d005a13bd68bb55",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "e58907cd0563d5f1",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "842f1158b2ffb11b",
+      "fromSide": "right",
+      "id": "8a222a54fb1deb7f",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "9c2dedda25ce1bfa",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "afe89510f8444c67",
+      "fromSide": "right",
+      "id": "db06e771302760ed",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "4f1bea6fa42925c0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3151b0b00a65933e",
+      "fromSide": "right",
+      "id": "91f6e80e3d939e41",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "4f1bea6fa42925c0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "11bcb5d703d95b06",
+      "fromSide": "right",
+      "id": "bd84a282fd1b195f",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "4f1bea6fa42925c0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "c92c2eb56f42beb8",
+      "fromSide": "right",
+      "id": "aa1c22891bf1e0ef",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "a238398e1ab36934",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a238398e1ab36934",
+      "fromSide": "right",
+      "id": "7afaf60b10075fdc",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "e58907cd0563d5f1",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f4a06fc5a1994871",
+      "fromSide": "right",
+      "id": "2e4c3684c548a448",
+      "label": "主线 · 先修",
+      "toEnd": "arrow",
+      "toNode": "c92c2eb56f42beb8",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "f53081ac56980198",
+      "fromSide": "right",
+      "id": "8e1cb4629c118f81",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "c92c2eb56f42beb8",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2559a7abd4c156b8",
+      "fromSide": "right",
+      "id": "3b7708f8d50b545e",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "4f1bea6fa42925c0",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "343a2a692ef25c44",
+      "fromSide": "bottom",
+      "id": "273d4c8cf325d030",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c3e0e5a375ded2b3",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "43d56d2b990a6662",
+      "fromSide": "bottom",
+      "id": "7fd2263941d14fb7",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "32be00569666b7bd",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "7a72f09443455864",
+      "fromSide": "bottom",
+      "id": "1346d09c82890836",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "32be00569666b7bd",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "2ce78458e659c873",
+      "fromSide": "bottom",
+      "id": "96b734d9c05009e5",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "32be00569666b7bd",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a505f6d48b9faf1f",
+      "fromSide": "bottom",
+      "id": "fc18efa64c6a413e",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "32be00569666b7bd",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9fbecee712c936e8",
+      "fromSide": "bottom",
+      "id": "119d59017dd210c5",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "be185b5c9cb1b03e",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9728b3267285a89c",
+      "fromSide": "bottom",
+      "id": "6bbcbcc1eb80bcc7",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "be185b5c9cb1b03e",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "72c1c20b4469e5cd",
+      "fromSide": "bottom",
+      "id": "2802e6cdd829151b",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "be185b5c9cb1b03e",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "a5afb2e65a2e6be0",
+      "fromSide": "bottom",
+      "id": "bca1aea5a65f37b0",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "be185b5c9cb1b03e",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "ddf2d35823b59024",
+      "fromSide": "bottom",
+      "id": "331e63bce510756e",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2b1701e8672cb19b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "443aa0ae78af8a85",
+      "fromSide": "bottom",
+      "id": "192d652f1083ce24",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "2b1701e8672cb19b",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5e0dfb3b1da5015a",
+      "fromSide": "bottom",
+      "id": "d9a38f4956a64eec",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "6e981c5be4836bc2",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f99b6561af1747aa",
+      "fromSide": "bottom",
+      "id": "e566e28bd4f2ef43",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "6e981c5be4836bc2",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "20291b3bd0c3de19",
+      "fromSide": "bottom",
+      "id": "96731fdaf721fce4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "6e981c5be4836bc2",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "c0783d68079d34e4",
+      "fromSide": "bottom",
+      "id": "8bc14c62d88fc4d2",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "83249c5e65d7218d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "5512e6fbec8810cf",
+      "fromSide": "bottom",
+      "id": "40d5600b296a39bf",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "83249c5e65d7218d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "d3a2d1d74cba4364",
+      "fromSide": "bottom",
+      "id": "4d944e7c6aaf8c22",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "83249c5e65d7218d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "e7d7339396682408",
+      "fromSide": "bottom",
+      "id": "17ee4063436210ba",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "83249c5e65d7218d",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "76cfec43154afaaf",
+      "fromSide": "bottom",
+      "id": "4ddcec28a4efbac6",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c9dd5e81821b824c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "dae25b7a99347128",
+      "fromSide": "bottom",
+      "id": "1c5f5286222b1ac4",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c9dd5e81821b824c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "fe6f4f61332fb5e4",
+      "fromSide": "bottom",
+      "id": "0e6303ced5114c96",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c9dd5e81821b824c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "3bfcfc20683c32f8",
+      "fromSide": "bottom",
+      "id": "b7e1076655c3b834",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c9dd5e81821b824c",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f57933c845772d58",
+      "fromSide": "bottom",
+      "id": "85817cc081496334",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c129c10c793279cb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "f8faff436826b056",
+      "fromSide": "bottom",
+      "id": "ce742f14660fbbeb",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c129c10c793279cb",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "73cb2b9c1e9a637f",
+      "fromSide": "bottom",
+      "id": "e746d17d8a9fd097",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c129c10c793279cb",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1568,
+      "id": "87ad805e9f5e5d9b",
+      "label": "第一章 空间向量与立体几何",
+      "type": "group",
+      "width": 6416,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "c3e0e5a375ded2b3",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-01-%E7%AB%A0%E5%BC%95%E5%85%A5-55b0cf.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 5948,
+      "y": 252
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "343a2a692ef25c44",
+      "text": "[· 情景引入 · 由平面向量方法推广到空间向量与立体几何](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E6%96%B9%E6%B3%95%E6%8E%A8%E5%B9%BF%E5%88%B0%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95--Gd5b584e84dfd21.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5948,
+      "y": 76
+    },
+    {
+      "height": 1436,
+      "id": "0c089fe1014bec8e",
+      "label": "02 · 1.1 空间向量及其运算",
+      "type": "group",
+      "width": 1056,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "baae0d944549fe4d",
+      "text": "[⌕ 放大 · 1.1 空间向量及其运算](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-02-1.1-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97-f18845.canvas)\n\n11 个展示原子 · 21 题",
+      "type": "text",
+      "width": 300,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "afe89510f8444c67",
+      "text": "[✦ 情景引入 · 从滑翔伞受力走向空间向量及其运算](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E6%BB%91%E7%BF%94%E4%BC%9E%E5%8F%97%E5%8A%9B%E8%B5%B0%E5%90%91%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97--G53f8c06300ade7.md)",
+      "type": "text",
+      "width": 280,
+      "x": 664,
+      "y": 152
+    },
+    {
+      "height": 1050,
+      "id": "a66bcc963b155b7c",
+      "label": "1.1.1 空间向量及其线性运算",
+      "type": "group",
+      "width": 392,
+      "x": 112,
+      "y": 406
+    },
+    {
+      "height": 66,
+      "id": "32be00569666b7bd",
+      "text": "[§ 1.1.1 空间向量及其线性运算](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.1%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97/1.1.1%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 260,
+      "x": 168,
+      "y": 1334
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "2559a7abd4c156b8",
+      "text": "[✦ 情景引入 · 从空间位移抽象空间向量及其线性运算](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 168,
+      "y": 482
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "43d56d2b990a6662",
+      "text": "[· 思考题 · 1.1.1 空间向量及其线性运算·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 660
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "7a72f09443455864",
+      "text": "[· 思考题 · 1.1.1 空间向量及其线性运算·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 826
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "2ce78458e659c873",
+      "text": "[· 思考题 · 1.1.1 空间向量及其线性运算·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 992
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "a505f6d48b9faf1f",
+      "text": "[· 方法例题 · 例 1 如图 1.1-9](../../../../%E4%B9%A0%E9%A2%98/Q070000000978.md)",
+      "type": "text",
+      "width": 250,
+      "x": 168,
+      "y": 1158
+    },
+    {
+      "height": 1050,
+      "id": "74949223922e2846",
+      "label": "1.1.2 空间向量的数量积运算",
+      "type": "group",
+      "width": 392,
+      "x": 664,
+      "y": 406
+    },
+    {
+      "height": 66,
+      "id": "be185b5c9cb1b03e",
+      "text": "[§ 1.1.2 空间向量的数量积运算](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.1%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97/1.1.2%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 1334
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3151b0b00a65933e",
+      "text": "[✦ 情景引入 · 类比平面向量定义空间向量的数量积](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 720,
+      "y": 482
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "9fbecee712c936e8",
+      "text": "[· 思考题 · 1.1.2 空间向量的数量积运算·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 660
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "9728b3267285a89c",
+      "text": "[· 思考题 · 1.1.2 空间向量的数量积运算·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 826
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "72c1c20b4469e5cd",
+      "text": "[· 方法例题 · 例 2 如图 1.1-12](../../../../%E4%B9%A0%E9%A2%98/Q070000000984.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 992
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "a5afb2e65a2e6be0",
+      "text": "[· 方法例题 · 例 3 如图1.1-13](../../../../%E4%B9%A0%E9%A2%98/Q070000000985.md)",
+      "type": "text",
+      "width": 250,
+      "x": 720,
+      "y": 1158
+    },
+    {
+      "height": 404,
+      "id": "abc52b1eeca7a3c9",
+      "label": "03 · 1.2 空间向量基本定理",
+      "type": "group",
+      "width": 1092,
+      "x": 1272,
+      "y": 506
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "2b1701e8672cb19b",
+      "text": "[⌕ 放大 · 1.2 空间向量基本定理](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-03-1.2-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86-798c6c.canvas)\n\n4 个展示原子 · 16 题",
+      "type": "text",
+      "width": 300,
+      "x": 1328,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "11bcb5d703d95b06",
+      "text": "[✦ 情景引入 · 由平面基底猜想空间向量基本定理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%94%B1%E5%B9%B3%E9%9D%A2%E5%9F%BA%E5%BA%95%E7%8C%9C%E6%83%B3%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86--G52b0044f27f866.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1328,
+      "y": 582
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "4f1bea6fa42925c0",
+      "text": "[✦ 1.2 空间向量基本定理·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1748,
+      "y": 748
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "ddf2d35823b59024",
+      "text": "[· 思考题 · 1.2 空间向量基本定理·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1708,
+      "y": 582
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "443aa0ae78af8a85",
+      "text": "[· 方法例题 · 例 1 如图 1.2-2, M 是四面](../../../../%E4%B9%A0%E9%A2%98/Q070000001000.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2058,
+      "y": 582
+    },
+    {
+      "height": 1424,
+      "id": "86ea37c0dfe5c875",
+      "label": "04 · 1.3 空间向量及其运算的坐标表示",
+      "type": "group",
+      "width": 1036,
+      "x": 2524,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "4fb0102da84b3208",
+      "text": "[⌕ 放大 · 1.3 空间向量及其运算的坐标表示](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-04-1.3-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA-43a38d.canvas)\n\n10 个展示原子 · 20 题",
+      "type": "text",
+      "width": 300,
+      "x": 2580,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "f53081ac56980198",
+      "text": "[✦ 情景引入 · 从空间基底走向向量的坐标运算](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E7%A9%BA%E9%97%B4%E5%9F%BA%E5%BA%95%E8%B5%B0%E5%90%91%E5%90%91%E9%87%8F%E7%9A%84%E5%9D%90%E6%A0%87%E8%BF%90%E7%AE%97--G06b759d6ea526f.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3132,
+      "y": 152
+    },
+    {
+      "height": 884,
+      "id": "29d4b0b4a731f36c",
+      "label": "1.3.1 空间直角坐标系",
+      "type": "group",
+      "width": 392,
+      "x": 2580,
+      "y": 406
+    },
+    {
+      "height": 66,
+      "id": "6e981c5be4836bc2",
+      "text": "[§ 1.3.1 空间直角坐标系](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.3%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA/1.3.1%20%E7%A9%BA%E9%97%B4%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB.md)",
+      "type": "text",
+      "width": 260,
+      "x": 2636,
+      "y": 1168
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "842f1158b2ffb11b",
+      "text": "[✦ 情景引入 · 由平面直角坐标系建立空间直角坐标系](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2636,
+      "y": 482
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5e0dfb3b1da5015a",
+      "text": "[· 思考题 · 1.3.1 空间直角坐标系·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2636,
+      "y": 660
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f99b6561af1747aa",
+      "text": "[· 思考题 · 1.3.1 空间直角坐标系·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2636,
+      "y": 826
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "20291b3bd0c3de19",
+      "text": "[· 方法例题 · 例 1 如图 1.3-6](../../../../%E4%B9%A0%E9%A2%98/Q070000001015.md)",
+      "type": "text",
+      "width": 250,
+      "x": 2636,
+      "y": 992
+    },
+    {
+      "height": 1038,
+      "id": "ef0ea18183b8f739",
+      "label": "1.3.2 空间向量运算的坐标表示",
+      "type": "group",
+      "width": 372,
+      "x": 3132,
+      "y": 406
+    },
+    {
+      "height": 66,
+      "id": "83249c5e65d7218d",
+      "text": "[§ 1.3.2 空间向量运算的坐标表示](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.3%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA/1.3.2%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3188,
+      "y": 1156
+    },
+    {
+      "color": "2",
+      "height": 66,
+      "id": "e6e0319c4f6b930f",
+      "text": "[✦ 1.3.2 空间向量运算的坐标表示·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.3%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA/1.3.2%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3188,
+      "y": 1322
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "c0783d68079d34e4",
+      "text": "[· 思考题 · 1.3.2 空间向量运算的坐标表示·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3188,
+      "y": 482
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "5512e6fbec8810cf",
+      "text": "[· 思考题 · 1.3.2 空间向量运算的坐标表示·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3188,
+      "y": 648
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "d3a2d1d74cba4364",
+      "text": "[· 方法例题 · 例 2 如图 1.3-8](../../../../%E4%B9%A0%E9%A2%98/Q070000001020.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3188,
+      "y": 814
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "e7d7339396682408",
+      "text": "[· 方法例题 · 例 3 如图 1.3-9](../../../../%E4%B9%A0%E9%A2%98/Q070000001021.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3188,
+      "y": 980
+    },
+    {
+      "height": 464,
+      "id": "3489b66a2f0b48f2",
+      "label": "05 · 阅读与思考 向量概念的推广与应用",
+      "type": "group",
+      "width": 412,
+      "x": 3720,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "c1afb1d0ffb8484a",
+      "text": "[⌕ 放大 · 阅读与思考 向量概念的推广与应用](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-05-%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83-%E5%90%91%E9%87%8F%E6%A6%82%E5%BF%B5%E7%9A%84%E6%8E%A8%E5%B9%BF%E4%B8%8E%E5%BA%94%E7%94%A8-c26549.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 3776,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "f4a06fc5a1994871",
+      "text": "[✦ 阅读与思考 向量概念的推广与应用](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%90%91%E9%87%8F%E6%A6%82%E5%BF%B5%E7%9A%84%E6%8E%A8%E5%B9%BF%E4%B8%8E%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3776,
+      "y": 406
+    },
+    {
+      "height": 1270,
+      "id": "ff27f811061db630",
+      "label": "06 · 1.4 空间向量的应用",
+      "type": "group",
+      "width": 1496,
+      "x": 4292,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "76cce221f4d054e3",
+      "text": "[⌕ 放大 · 1.4 空间向量的应用](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-06-1.4-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8-91847a.canvas)\n\n10 个展示原子 · 42 题",
+      "type": "text",
+      "width": 300,
+      "x": 5340,
+      "y": 1196
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "c92c2eb56f42beb8",
+      "text": "[✦ 1.4 空间向量的应用·核心概念](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8--G49137e095cd7a8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4348,
+      "y": 152
+    },
+    {
+      "height": 1050,
+      "id": "c6f1e459b0bffe68",
+      "label": "1.4.1 用空间向量研究直线、平面的位置关系",
+      "type": "group",
+      "width": 392,
+      "x": 4788,
+      "y": 152
+    },
+    {
+      "height": 66,
+      "id": "c9dd5e81821b824c",
+      "text": "[§ 1.4.1 用空间向量研究直线、平面的位置关系](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.4%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8/1.4.1%20%E7%94%A8%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%A0%94%E7%A9%B6%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 260,
+      "x": 4844,
+      "y": 1080
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a238398e1ab36934",
+      "text": "[✦ 1.4.1 用空间向量研究直线、平面的位置关系·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%B9%B3%E8%A1%8C%E5%9E%82%E7%9B%B4%E7%9A%84%E5%90%91%E9%87%8F%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4844,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "76cfec43154afaaf",
+      "text": "[· 思考题 · 1.4.1 用空间向量研究直线、平面的位置关系·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%B9%B3%E8%A1%8C%E5%9E%82%E7%9B%B4%E7%9A%84%E5%90%91%E9%87%8F%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4844,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "dae25b7a99347128",
+      "text": "[· 思考题 · 1.4.1 用空间向量研究直线、平面的位置关系·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%B9%B3%E8%A1%8C%E5%9E%82%E7%9B%B4%E7%9A%84%E5%90%91%E9%87%8F%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4844,
+      "y": 572
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "fe6f4f61332fb5e4",
+      "text": "[· 思考题 · 1.4.1 用空间向量研究直线、平面的位置关系·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%B9%B3%E8%A1%8C%E5%9E%82%E7%9B%B4%E7%9A%84%E5%90%91%E9%87%8F%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4844,
+      "y": 738
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "3bfcfc20683c32f8",
+      "text": "[· 方法例题 · 例 1 如图 1.4-7](../../../../%E4%B9%A0%E9%A2%98/Q070000001036.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4844,
+      "y": 904
+    },
+    {
+      "height": 884,
+      "id": "556d460d04e522d3",
+      "label": "1.4.2 用空间向量研究距离、夹角问题",
+      "type": "group",
+      "width": 392,
+      "x": 5340,
+      "y": 152
+    },
+    {
+      "height": 66,
+      "id": "c129c10c793279cb",
+      "text": "[§ 1.4.2 用空间向量研究距离、夹角问题](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/1.4%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8/1.4.2%20%E7%94%A8%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%A0%94%E7%A9%B6%E8%B7%9D%E7%A6%BB%E3%80%81%E5%A4%B9%E8%A7%92%E9%97%AE%E9%A2%98.md)",
+      "type": "text",
+      "width": 260,
+      "x": 5396,
+      "y": 914
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "e58907cd0563d5f1",
+      "text": "[✦ 1.4.2 用空间向量研究距离、夹角问题·核心概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E8%B7%9D%E7%A6%BB%E4%B8%8E%E5%A4%B9%E8%A7%92%E7%9A%84%E5%90%91%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5396,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f57933c845772d58",
+      "text": "[· 思考题 · 1.4.2 用空间向量研究距离、夹角问题·探究](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E8%B7%9D%E7%A6%BB%E4%B8%8E%E5%A4%B9%E8%A7%92%E7%9A%84%E5%90%91%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5396,
+      "y": 406
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "f8faff436826b056",
+      "text": "[· 思考题 · 1.4.2 用空间向量研究距离、夹角问题·思考](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E8%B7%9D%E7%A6%BB%E4%B8%8E%E5%A4%B9%E8%A7%92%E7%9A%84%E5%90%91%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5396,
+      "y": 572
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "73cb2b9c1e9a637f",
+      "text": "[· 方法例题 · 例 6 如图 1.4-18](../../../../%E4%B9%A0%E9%A2%98/Q070000001046.md)",
+      "type": "text",
+      "width": 250,
+      "x": 5396,
+      "y": 738
+    },
+    {
+      "height": 464,
+      "id": "6ce3d89c8f04f37e",
+      "label": "07 · 第一章 空间向量与立体几何 小结",
+      "type": "group",
+      "width": 412,
+      "x": 5948,
+      "y": 506
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "7c1e764deff987fc",
+      "text": "[⌕ 放大 · 第一章 空间向量与立体几何 小结](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-07-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95-%E5%B0%8F%E7%BB%93-d98d2e.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 6004,
+      "y": 582
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "9c2dedda25ce1bfa",
+      "text": "[✦ 第一章 空间向量与立体几何 小结](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%20%E5%B0%8F%E7%BB%93--G2340557d79b398.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001074.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001075.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001076.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001077.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001078.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001079.md) · [✦ 第一章 空间向量与立体几何 小结](../../../../%E4%B9%A0%E9%A2%98/Q070000001080.md)",
+      "type": "text",
+      "width": 280,
+      "x": 6004,
+      "y": 836
+    },
+    {
+      "height": 226,
+      "id": "2107539e5d85b680",
+      "label": "08 · 第一章 空间向量与立体几何 复习参考题 1",
+      "type": "group",
+      "width": 412,
+      "x": 1272,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "31e0641c9efe1962",
+      "text": "[⌕ 放大 · 第一章 空间向量与立体几何 复习参考题 1](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-08-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95-%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E9%A2%98-1-f97971.canvas)\n\n0 个展示原子 · 17 题",
+      "type": "text",
+      "width": 300,
+      "x": 1328,
+      "y": 152
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "bdccc07a87b7f149",
+      "text": "# [第一章 空间向量与立体几何](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "5d2d9c04c54c4b3c",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "9c35ecce38880fa4",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

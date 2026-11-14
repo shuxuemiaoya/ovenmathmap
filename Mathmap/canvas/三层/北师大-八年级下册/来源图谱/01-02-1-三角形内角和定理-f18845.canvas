@@ -1,0 +1,589 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "83a8a0c470f3e286",
+      "fromSide": "right",
+      "id": "6f7714ed94e50157",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "00018e9a05e8ae4c",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "00018e9a05e8ae4c",
+      "fromSide": "right",
+      "id": "795a4958397548fd",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "7b555d80c1ce527c",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "7b555d80c1ce527c",
+      "fromSide": "right",
+      "id": "2460b51dfd8436f9",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "39409bc853c27f3c",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "39409bc853c27f3c",
+      "fromSide": "right",
+      "id": "b6276b3bc16e0b15",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "df274bd6ee90749c",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "af60d117f74ea181",
+      "fromSide": "right",
+      "id": "9fdfce38da9236f9",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "83a8a0c470f3e286",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "56423b9b7c6576b6",
+      "fromSide": "right",
+      "id": "276d3dab2af5c46b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "df274bd6ee90749c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "39409bc853c27f3c",
+      "fromSide": "right",
+      "id": "445f1bd346c62854",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "4137497afd7f0725",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e319375338352b9c",
+      "fromSide": "right",
+      "id": "e864e79f96d916f2",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "39409bc853c27f3c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bdd8fd9337a588f1",
+      "fromSide": "right",
+      "id": "d788797de1af14e7",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "83a8a0c470f3e286",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "11fa5be356248a9a",
+      "fromSide": "right",
+      "id": "a784055a708e833a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "39409bc853c27f3c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3e82b74b6d6e9bb1",
+      "fromSide": "right",
+      "id": "cf9030fb70307494",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "af60d117f74ea181",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e5ce7ec9e5e34100",
+      "fromSide": "right",
+      "id": "efe5f2a28dfc9aa4",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "df274bd6ee90749c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "af60d117f74ea181",
+      "fromSide": "right",
+      "id": "0c6e286169f42313",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d7ba253bd145821b",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "560d9d681dccef08",
+      "fromSide": "right",
+      "id": "5e2c91f3b36ad364",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "7b555d80c1ce527c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "df274bd6ee90749c",
+      "fromSide": "right",
+      "id": "24a6144c48f197a9",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d1bc5b71bf012f60",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "00018e9a05e8ae4c",
+      "fromSide": "right",
+      "id": "bc9e270ad451b6f1",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "560d9d681dccef08",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "83a8a0c470f3e286",
+      "fromSide": "bottom",
+      "id": "31db19361acfc90d",
+      "label": "练习 · 2题",
+      "toEnd": "arrow",
+      "toNode": "b69f3b83d3d44400",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "7b555d80c1ce527c",
+      "fromSide": "bottom",
+      "id": "f29b45341a3f141f",
+      "label": "练习 · 2题",
+      "toEnd": "arrow",
+      "toNode": "9c290249cb03ddac",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "39409bc853c27f3c",
+      "fromSide": "bottom",
+      "id": "db73345f135a5b26",
+      "label": "练习 · 1题",
+      "toEnd": "arrow",
+      "toNode": "4aeb788bfccf8635",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "df274bd6ee90749c",
+      "fromSide": "bottom",
+      "id": "16c7b9da969a808f",
+      "label": "练习 · 1题",
+      "toEnd": "arrow",
+      "toNode": "466e91a0f1ee432f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "df274bd6ee90749c",
+      "fromSide": "bottom",
+      "id": "97761b399b0524e9",
+      "label": "练习 · 18题",
+      "toEnd": "arrow",
+      "toNode": "37d637fd4623f8a3",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "6e64b59186f07d37",
+      "fromSide": "bottom",
+      "id": "c1f37bda73b167ff",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "7fe43b378f2be032",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "48dd9e31bdef32e7",
+      "fromSide": "bottom",
+      "id": "16b16295afdbf92b",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "65f487c65a758db1",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 524,
+      "id": "1c0e58a8a06940cf",
+      "label": "1 三角形内角和定理",
+      "type": "group",
+      "width": 6752,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "7fe43b378f2be032",
+      "text": "[§ 1 三角形内角和定理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 260,
+      "x": 5884,
+      "y": 264
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "6e64b59186f07d37",
+      "text": "[✦ 情景引入 · 从八条基本事实与平行线结论走向三角形内角和定理的证明](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%85%AB%E6%9D%A1%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%BB%93%E8%AE%BA%E8%B5%B0%E5%90%91%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E7%9A%84%E8%AF%81%E6%98%8E--Gf8562a081cedbd.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5884,
+      "y": 76
+    },
+    {
+      "height": 392,
+      "id": "303612c3870f060c",
+      "label": "三角形内角和定理与全等判定定理AAS",
+      "type": "group",
+      "width": 1232,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3e82b74b6d6e9bb1",
+      "text": "[✦ 问题 · 三角形内角和定理探索与证明思路交流](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E6%8E%A2%E7%B4%A2%E4%B8%8E%E8%AF%81%E6%98%8E%E6%80%9D%E8%B7%AF%E4%BA%A4%E6%B5%81.md)",
+      "type": "text",
+      "width": 280,
+      "x": 112,
+      "y": 152
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "b69f3b83d3d44400",
+      "text": "[练习入口 · 三角形内角和定理与全等判定定理AAS](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E4%B8%8E%E5%85%A8%E7%AD%89%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86AAS.md)\n\n共 2 题",
+      "type": "text",
+      "width": 260,
+      "x": 112,
+      "y": 340
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "af60d117f74ea181",
+      "text": "[✦ 三角形内角和定理及其证明](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 280,
+      "x": 532,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d7ba253bd145821b",
+      "text": "[✦ 问题 · 三角形内角和定理的其他证明方法思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86%E7%9A%84%E5%85%B6%E4%BB%96%E8%AF%81%E6%98%8E%E6%96%B9%E6%B3%95%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 952,
+      "y": 330
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "bdd8fd9337a588f1",
+      "text": "[✦ 问题 · 全等三角形判定定理AAS的证明探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86AAS%E7%9A%84%E8%AF%81%E6%98%8E%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 492,
+      "y": 330
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "83a8a0c470f3e286",
+      "text": "[✦ 全等三角形判定定理AAS与全等三角形性质](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86AAS%E4%B8%8E%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 280,
+      "x": 952,
+      "y": 152
+    },
+    {
+      "height": 392,
+      "id": "e3a9b7625166daca",
+      "label": "三角形的外角及性质推论",
+      "type": "group",
+      "width": 1232,
+      "x": 1448,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "00018e9a05e8ae4c",
+      "text": "[✦ 三角形外角的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%A4%96%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1504,
+      "y": 152
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "9c290249cb03ddac",
+      "text": "[练习入口 · 三角形的外角及性质推论](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E5%A4%96%E8%A7%92%E5%8F%8A%E6%80%A7%E8%B4%A8%E6%8E%A8%E8%AE%BA.md)\n\n共 2 题",
+      "type": "text",
+      "width": 260,
+      "x": 1504,
+      "y": 340
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "560d9d681dccef08",
+      "text": "[✦ 问题 · 三角形外角与内角关系思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%A4%96%E8%A7%92%E4%B8%8E%E5%86%85%E8%A7%92%E5%85%B3%E7%B3%BB%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1924,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "7b555d80c1ce527c",
+      "text": "[✦ 三角形外角的两个推论](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%A4%96%E8%A7%92%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%8E%A8%E8%AE%BA.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2344,
+      "y": 152
+    },
+    {
+      "height": 392,
+      "id": "89993cfdc139af28",
+      "label": "多边形的内角和",
+      "type": "group",
+      "width": 1492,
+      "x": 2840,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "11fa5be356248a9a",
+      "text": "[✦ 情景引入 · 由广场五边形边缘分割方法引出多边形内角和公式](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E5%B9%BF%E5%9C%BA%E4%BA%94%E8%BE%B9%E5%BD%A2%E8%BE%B9%E7%BC%98%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95%E5%BC%95%E5%87%BA%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2896,
+      "y": 152
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "4aeb788bfccf8635",
+      "text": "[练习入口 · 多边形的内角和](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%86%85%E8%A7%92%E5%92%8C.md)\n\n共 1 题",
+      "type": "text",
+      "width": 260,
+      "x": 3276,
+      "y": 340
+    },
+    {
+      "height": 66,
+      "id": "65f487c65a758db1",
+      "text": "[§ 多边形的内角和](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%86%85%E8%A7%92%E5%92%8C.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3636,
+      "y": 330
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "e319375338352b9c",
+      "text": "[✦ 问题 · 多边形分割与内角和公式归纳思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%88%86%E5%89%B2%E4%B8%8E%E5%86%85%E8%A7%92%E5%92%8C%E5%85%AC%E5%BC%8F%E5%BD%92%E7%BA%B3%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2896,
+      "y": 330
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "39409bc853c27f3c",
+      "text": "[✦ 多边形内角和定理](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3316,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "4137497afd7f0725",
+      "text": "[✦ 问题 · 正多边形每个内角度数探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%AD%A3%E5%A4%9A%E8%BE%B9%E5%BD%A2%E6%AF%8F%E4%B8%AA%E5%86%85%E8%A7%92%E5%BA%A6%E6%95%B0%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3996,
+      "y": 318
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "48dd9e31bdef32e7",
+      "text": "[· 问题 · 长方形剪角后多边形内角和思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E9%95%BF%E6%96%B9%E5%BD%A2%E5%89%AA%E8%A7%92%E5%90%8E%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 250,
+      "x": 3696,
+      "y": 152
+    },
+    {
+      "height": 392,
+      "id": "f01c7b7942cdca51",
+      "label": "多边形的外角和",
+      "type": "group",
+      "width": 1232,
+      "x": 4492,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "e5ce7ec9e5e34100",
+      "text": "[✦ 情景引入 · 由公园五边形步道慢跑转向角度总和引出多边形外角和](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%94%B1%E5%85%AC%E5%9B%AD%E4%BA%94%E8%BE%B9%E5%BD%A2%E6%AD%A5%E9%81%93%E6%85%A2%E8%B7%91%E8%BD%AC%E5%90%91%E8%A7%92%E5%BA%A6%E6%80%BB%E5%92%8C%E5%BC%95%E5%87%BA%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%A4%96%E8%A7%92%E5%92%8C.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4548,
+      "y": 152
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "466e91a0f1ee432f",
+      "text": "[练习入口 · 多边形的外角和](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%A4%96%E8%A7%92%E5%92%8C.md)\n\n共 1 题",
+      "type": "text",
+      "width": 260,
+      "x": 4928,
+      "y": 340
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "56423b9b7c6576b6",
+      "text": "[✦ 问题 · 六边形与八边形外角和思考](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%85%AD%E8%BE%B9%E5%BD%A2%E4%B8%8E%E5%85%AB%E8%BE%B9%E5%BD%A2%E5%A4%96%E8%A7%92%E5%92%8C%E6%80%9D%E8%80%83.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4548,
+      "y": 330
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "df274bd6ee90749c",
+      "text": "[✦ 多边形外角与外角和定理](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%A4%96%E8%A7%92%E4%B8%8E%E5%A4%96%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4968,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "d1bc5b71bf012f60",
+      "text": "[✦ 问题 · 多边形内角和与外角和研究方法总结](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E4%B8%8E%E5%A4%96%E8%A7%92%E5%92%8C%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.md)",
+      "type": "text",
+      "width": 280,
+      "x": 5388,
+      "y": 152
+    },
+    {
+      "height": 204,
+      "id": "d00a3d529da9d4a2",
+      "label": "习题 1.1",
+      "type": "group",
+      "width": 372,
+      "x": 6324,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "37d637fd4623f8a3",
+      "text": "[练习入口 · 习题 1.1](../../../../../%E5%88%9D%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%902024%E7%89%88%E3%80%91%E3%80%90%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88%E3%80%91%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E6%95%B0%E5%AD%A6/%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E4%B9%A0%E9%A2%98%201.1.md)\n\n共 18 题",
+      "type": "text",
+      "width": 260,
+      "x": 6380,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "2e816fb68299b02b",
+      "text": "# [1 三角形内角和定理](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/1%20%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86/%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E5%92%8C%E5%AE%9A%E7%90%86.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "5bd1c9f8a950cdd9",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-75a20e.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "73d3f5ad907ea3ae",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

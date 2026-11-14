@@ -1,0 +1,18 @@
+{
+	"edges":[
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"507d174c02991622","fromSide":"right","id":"92df7e670d5719b8","label":"书序","toEnd":"arrow","toNode":"f273a757a3e2e7ed","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"f273a757a3e2e7ed","fromSide":"right","id":"68cc218f835982b5","label":"书序","toEnd":"arrow","toNode":"35761962e3a34824","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"35761962e3a34824","fromSide":"right","id":"bcba29316d21a997","label":"书序","toEnd":"arrow","toNode":"7a6514bb30d87e7d","toSide":"left"},
+		{"color":"#7A7A7A","fromEnd":"none","fromNode":"7a6514bb30d87e7d","fromSide":"right","id":"b8e1383f4094ff42","label":"书序","toEnd":"arrow","toNode":"e07f1b2e21091f70","toSide":"left"},
+		{"color":"3","fromEnd":"none","fromNode":"35761962e3a34824","fromSide":"right","id":"7cf1a6cf127ace64","label":"主线 · 引发 ×1","toEnd":"arrow","toNode":"e07f1b2e21091f70","toSide":"top"}
+	],
+	"nodes":[
+		{"color":"1","height":160,"id":"1047653114df3a13","text":"# ✦ 普通高中教科书 数学 必修 第二册\n\n全书知识星图","type":"text","width":380,"x":-190,"y":-80},
+		{"color":"1","height":120,"id":"507d174c02991622","text":"[## ✦ 第六章 平面向量及其应用](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/01-%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-75a20e.canvas)","type":"text","width":360,"x":-180,"y":-780},
+		{"color":"1","height":120,"id":"f273a757a3e2e7ed","text":"[## ✦ 第七章 复数](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/02-%E7%AC%AC%E4%B8%83%E7%AB%A0-%E5%A4%8D%E6%95%B0-9775d4.canvas)","type":"text","width":360,"x":505,"y":-282},
+		{"color":"1","height":120,"id":"35761962e3a34824","text":"[## ✦ 第八章 立体几何初步](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5-27efa6.canvas)","type":"text","width":360,"x":243,"y":522},
+		{"color":"1","height":120,"id":"7a6514bb30d87e7d","text":"[## ✦ 第九章 统计](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/04-%E7%AC%AC%E4%B9%9D%E7%AB%A0-%E7%BB%9F%E8%AE%A1-49e440.canvas)","type":"text","width":360,"x":-603,"y":522},
+		{"color":"1","height":120,"id":"e07f1b2e21091f70","text":"[## ✦ 第十章 概率](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-%E7%AC%AC%E5%8D%81%E7%AB%A0-%E6%A6%82%E7%8E%87-a2f4dd.canvas)","type":"text","width":360,"x":-865,"y":-282},
+		{"height":180,"id":"e103b230f3be26af","text":"**图例**\n\n黄色：主学习路线  ·  灰色：原书顺序\n彩色：跨章知识联系","type":"text","width":360,"x":-180,"y":150}
+	]
+}

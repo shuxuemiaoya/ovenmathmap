@@ -1,0 +1,282 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5c9c7a89aae359af",
+      "fromSide": "right",
+      "id": "760a2b3085bdafd8",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "18b66b66b78529bc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "18b66b66b78529bc",
+      "fromSide": "right",
+      "id": "1e749cbe34593708",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "d34551cee5e71771",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5c9c7a89aae359af",
+      "fromSide": "right",
+      "id": "712461dffa16ffb9",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "00cf9d8677eb55ac",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bd9025a2acd9cdf6",
+      "fromSide": "right",
+      "id": "2111951d59e4f502",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "5c9c7a89aae359af",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "18b66b66b78529bc",
+      "fromSide": "right",
+      "id": "7b4183bfde95f7be",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "5f4e005e56615391",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5f4e005e56615391",
+      "fromSide": "right",
+      "id": "30a7f95114bde1a9",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "d34551cee5e71771",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "3a772bbd9476e3a4",
+      "fromSide": "right",
+      "id": "76595565ef3513ba",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "5c9c7a89aae359af",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "00cf9d8677eb55ac",
+      "fromSide": "right",
+      "id": "980a0593469e4ee9",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "18b66b66b78529bc",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5c9c7a89aae359af",
+      "fromSide": "bottom",
+      "id": "1ea04693da23a3ad",
+      "label": "练习 · 3题",
+      "toEnd": "arrow",
+      "toNode": "a2592795317b607d",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5c9c7a89aae359af",
+      "fromSide": "bottom",
+      "id": "1b88dec06d8538ca",
+      "label": "练习 · 5题",
+      "toEnd": "arrow",
+      "toNode": "b89d1bde1e64e442",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "bd5b811443168aa5",
+      "fromSide": "bottom",
+      "id": "cfa59ce9ce340a03",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "a9cf2500ee641197",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 574,
+      "id": "e782b79e94a12101",
+      "label": "1 认识二元一次方程组",
+      "type": "group",
+      "width": 2604,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "a2592795317b607d",
+      "text": "[练习入口 · 1 认识二元一次方程组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/1%20%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84.md)\n\n共 3 题",
+      "type": "text",
+      "width": 260,
+      "x": 1276,
+      "y": 264
+    },
+    {
+      "height": 66,
+      "id": "a9cf2500ee641197",
+      "text": "[§ 1 认识二元一次方程组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/1%20%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84.md)",
+      "type": "text",
+      "width": 260,
+      "x": 436,
+      "y": 254
+    },
+    {
+      "color": "5",
+      "height": 66,
+      "id": "bd5b811443168aa5",
+      "text": "[· 问题 · 绿植栽种与公园门票两类双未知数情境设列方程问题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E7%BB%BF%E6%A4%8D%E6%A0%BD%E7%A7%8D%E4%B8%8E%E5%85%AC%E5%9B%AD%E9%97%A8%E7%A5%A8%E4%B8%A4%E7%B1%BB%E5%8F%8C%E6%9C%AA%E7%9F%A5%E6%95%B0%E6%83%85%E5%A2%83%E8%AE%BE%E5%88%97%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98.md)",
+      "type": "text",
+      "width": 250,
+      "x": 856,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3a772bbd9476e3a4",
+      "text": "[✦ 问题 · 尝试·思考：公园购票情境中数量关系与设列二元方程探究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E5%85%AC%E5%9B%AD%E8%B4%AD%E7%A5%A8%E6%83%85%E5%A2%83%E4%B8%AD%E6%95%B0%E9%87%8F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%AE%BE%E5%88%97%E4%BA%8C%E5%85%83%E6%96%B9%E7%A8%8B%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "bd9025a2acd9cdf6",
+      "text": "[✦ 问题 · 观察·思考：总结两个未知数一次方程的共同特征](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E8%A7%82%E5%AF%9F%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E6%80%BB%E7%BB%93%E4%B8%A4%E4%B8%AA%E6%9C%AA%E7%9F%A5%E6%95%B0%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 254
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "5c9c7a89aae359af",
+      "text": "[✦ 二元一次方程的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 476,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "00cf9d8677eb55ac",
+      "text": "[✦ 问题 · 思考·交流：探讨联立方程中未知数表示对象的一致性](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81%EF%BC%9A%E6%8E%A2%E8%AE%A8%E8%81%94%E7%AB%8B%E6%96%B9%E7%A8%8B%E4%B8%AD%E6%9C%AA%E7%9F%A5%E6%95%B0%E8%A1%A8%E7%A4%BA%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7.md)",
+      "type": "text",
+      "width": 280,
+      "x": 896,
+      "y": 242
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "18b66b66b78529bc",
+      "text": "[✦ 二元一次方程组的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1316,
+      "y": 76
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "5f4e005e56615391",
+      "text": "[✦ 问题 · 尝试·思考：代入数值验证二元一次方程及方程组的解](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E4%BB%A3%E5%85%A5%E6%95%B0%E5%80%BC%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%8F%8A%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E8%A7%A3.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1736,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "d34551cee5e71771",
+      "text": "[✦ 二元一次方程的解与二元一次方程组的解](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3%E4%B8%8E%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E8%A7%A3.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2156,
+      "y": 76
+    },
+    {
+      "height": 204,
+      "id": "dab1226c20efa59a",
+      "label": "习题 5.1",
+      "type": "group",
+      "width": 372,
+      "x": 2176,
+      "y": 314
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "b89d1bde1e64e442",
+      "text": "[练习入口 · 习题 5.1](../../../../../%E5%88%9D%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%902024%E7%89%88%E3%80%91%E3%80%90%E5%8C%97%E5%B8%88%E5%A4%A7%E7%89%88%E3%80%91%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E6%95%B0%E5%AD%A6/%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/1%20%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/%E4%B9%A0%E9%A2%98%205.1.md)\n\n共 5 题",
+      "type": "text",
+      "width": 260,
+      "x": 2232,
+      "y": 390
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "6f6dc97b56f85887",
+      "text": "# [1 认识二元一次方程组](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/1%20%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84/%E8%AE%A4%E8%AF%86%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "b558dcf7f5e9b8b1",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84-b2ac1c.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "21b13f69aa760460",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

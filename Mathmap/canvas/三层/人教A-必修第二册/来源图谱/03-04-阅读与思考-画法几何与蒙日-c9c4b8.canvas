@@ -1,0 +1,73 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "29c3a561dfa81661",
+      "fromSide": "bottom",
+      "id": "79de000a0e8e0b4d",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "f3bfc2fb231249d2",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 386,
+      "id": "eca8a97023f1f4ec",
+      "label": "阅读与思考 画法几何与蒙日",
+      "type": "group",
+      "width": 392,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 66,
+      "id": "f3bfc2fb231249d2",
+      "text": "[§ 阅读与思考 画法几何与蒙日](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%94%BB%E6%B3%95%E5%87%A0%E4%BD%95%E4%B8%8E%E8%92%99%E6%97%A5.md)",
+      "type": "text",
+      "width": 260,
+      "x": 56,
+      "y": 264
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "29c3a561dfa81661",
+      "text": "[✦ 阅读与思考 画法几何与蒙日](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%94%BB%E6%B3%95%E5%87%A0%E4%BD%95%E4%B8%8E%E8%92%99%E6%97%A5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "e6f4a2335d05babe",
+      "text": "# [阅读与思考 画法几何与蒙日](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%94%BB%E6%B3%95%E5%87%A0%E4%BD%95%E4%B8%8E%E8%92%99%E6%97%A5.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "79cb17616055c963",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E5%85%AB%E7%AB%A0-%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5-27efa6.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "bb626d56a94b1113",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

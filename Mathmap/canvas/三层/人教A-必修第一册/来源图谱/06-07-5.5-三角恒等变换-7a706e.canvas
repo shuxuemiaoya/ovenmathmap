@@ -1,0 +1,495 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a999654d7e697745",
+      "fromSide": "right",
+      "id": "86da0516efcd6526",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "85472cec83f47669",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "7de52efef33c2e53",
+      "fromSide": "right",
+      "id": "0116a8c6ef8024eb",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "cc0ffee3b1368fbd",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5fc3ba48320e46d0",
+      "fromSide": "right",
+      "id": "a829afb132ab192d",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "7de52efef33c2e53",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cc0ffee3b1368fbd",
+      "fromSide": "right",
+      "id": "7bbf2f770e57033c",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "2fccec1c8b12b00e",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2fccec1c8b12b00e",
+      "fromSide": "right",
+      "id": "84e7af8b4bb629a5",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a999654d7e697745",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "85472cec83f47669",
+      "fromSide": "bottom",
+      "id": "2b1592b9c628a9fa",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "e529138168849418",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "2fccec1c8b12b00e",
+      "fromSide": "right",
+      "id": "45c5242a1a8501cb",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a999654d7e697745",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "8a04cb316dc95180",
+      "fromSide": "right",
+      "id": "c07f2d2509bd3e57",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "5fc3ba48320e46d0",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cc0ffee3b1368fbd",
+      "fromSide": "right",
+      "id": "48504191f4a38a57",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "2fccec1c8b12b00e",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "cc0ffee3b1368fbd",
+      "fromSide": "right",
+      "id": "04f64f2b2f106a7b",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "3c86c7fca6ff3d0d",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5e866ddf9a27612a",
+      "fromSide": "right",
+      "id": "e9510bf3bbfceb15",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "85472cec83f47669",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a999654d7e697745",
+      "fromSide": "right",
+      "id": "d56030b369985e39",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "85472cec83f47669",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5fc3ba48320e46d0",
+      "fromSide": "right",
+      "id": "7651326f39a015b3",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "7de52efef33c2e53",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "7de52efef33c2e53",
+      "fromSide": "right",
+      "id": "791879e0cd8a3d84",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "cc0ffee3b1368fbd",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5fc3ba48320e46d0",
+      "fromSide": "bottom",
+      "id": "fdb060cc83963672",
+      "label": "归属 · 5题",
+      "toEnd": "arrow",
+      "toNode": "b8894f6c227f2ef2",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "7de52efef33c2e53",
+      "fromSide": "bottom",
+      "id": "0ab2fe679b4ba9e0",
+      "label": "归属 · 5题",
+      "toEnd": "arrow",
+      "toNode": "7c61c3a8b0368bed",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "2fccec1c8b12b00e",
+      "fromSide": "bottom",
+      "id": "7d495d9221d98245",
+      "label": "归属 · 5题",
+      "toEnd": "arrow",
+      "toNode": "7c3518e417bd99d3",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "85472cec83f47669",
+      "fromSide": "bottom",
+      "id": "595e01c4b47f8281",
+      "label": "归属 · 8题",
+      "toEnd": "arrow",
+      "toNode": "c23c27421d8af3b5",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "85472cec83f47669",
+      "fromSide": "bottom",
+      "id": "bb75d64228930966",
+      "label": "归属 · 20题",
+      "toEnd": "arrow",
+      "toNode": "4fa3c0a5778a0338",
+      "toSide": "top"
+    },
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "156a191ca8331b40",
+      "fromSide": "bottom",
+      "id": "cde3e02d7d4162ac",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "746fe08f08b79add",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 656,
+      "id": "27217ca837f527ee",
+      "label": "5.5 三角恒等变换",
+      "type": "group",
+      "width": 5366,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "8a04cb316dc95180",
+      "text": "[✦ 情景引入 · 由诱导公式推广到任意角的三角恒等变换](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%20%E8%8A%82%E5%BC%95%E8%A8%80--P1a79fa00780c9c.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "height": 524,
+      "id": "87e4dcdefe9dbda8",
+      "label": "5.5.1 两角和与差的正弦、余弦和正切公式",
+      "type": "group",
+      "width": 2448,
+      "x": 496,
+      "y": 76
+    },
+    {
+      "height": 392,
+      "id": "f26628467f50739e",
+      "label": "两角差的余弦公式",
+      "type": "group",
+      "width": 392,
+      "x": 552,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "5fc3ba48320e46d0",
+      "text": "[✦ 两角差的余弦公式](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E8%A7%92%E5%B7%AE%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F--000172.md)",
+      "type": "text",
+      "width": 280,
+      "x": 608,
+      "y": 228
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "b8894f6c227f2ef2",
+      "text": "[练习入口 · 两角差的余弦公式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/5.5.1%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E5%92%8C%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F/%E4%B8%A4%E8%A7%92%E5%B7%AE%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F.md)\n\n共 5 题",
+      "type": "text",
+      "width": 260,
+      "x": 608,
+      "y": 416
+    },
+    {
+      "height": 392,
+      "id": "c39e2028fa477a1a",
+      "label": "两角和与差的正弦、余弦、正切公式",
+      "type": "group",
+      "width": 1232,
+      "x": 1104,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "7de52efef33c2e53",
+      "text": "[✦ 两角和的余弦公式与两角和、差的正弦公式](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E8%A7%92%E5%92%8C%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%B8%A4%E8%A7%92%E5%92%8C%E3%80%81%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E5%85%AC%E5%BC%8F--000173.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1160,
+      "y": 228
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "7c61c3a8b0368bed",
+      "text": "[练习入口 · 两角和与差的正弦、余弦、正切公式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/5.5.1%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E5%92%8C%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F/%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E3%80%81%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F.md)\n\n共 5 题",
+      "type": "text",
+      "width": 260,
+      "x": 1160,
+      "y": 416
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "cc0ffee3b1368fbd",
+      "text": "[✦ 两角和与差的正切公式](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F--000174.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1580,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3c86c7fca6ff3d0d",
+      "text": "[✦ 问题 · 思考：用多种方法证明诱导与和差角恒等式](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E6%80%9D%E8%80%83%EF%BC%9A%E6%AD%A3%E5%BC%A6%E4%B8%8E%E4%BD%99%E5%BC%A6%E7%9A%84%E4%BA%92%E4%BD%99%E8%A7%92%E6%81%92%E7%AD%89%E5%85%B3%E7%B3%BB--P8c9183bf4406ca.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2000,
+      "y": 228
+    },
+    {
+      "height": 392,
+      "id": "e0810aad30ded3c4",
+      "label": "二倍角的正弦、余弦、正切公式",
+      "type": "group",
+      "width": 392,
+      "x": 2496,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "2fccec1c8b12b00e",
+      "text": "[✦ 二倍角的正弦、余弦、正切公式](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E5%80%8D%E8%A7%92%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E3%80%81%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F--000175.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2552,
+      "y": 228
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "7c3518e417bd99d3",
+      "text": "[练习入口 · 二倍角的正弦、余弦、正切公式](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/5.5.1%20%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E5%92%8C%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F/%E4%BA%8C%E5%80%8D%E8%A7%92%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E3%80%81%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F.md)\n\n共 5 题",
+      "type": "text",
+      "width": 260,
+      "x": 2552,
+      "y": 416
+    },
+    {
+      "height": 210,
+      "id": "4390432b4bbf84af",
+      "label": "信息技术应用 利用信息技术制作三角函数表",
+      "type": "group",
+      "width": 392,
+      "x": 3104,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a999654d7e697745",
+      "text": "[✦ 利用信息技术制作三角函数表](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%A9%E7%94%A8%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%88%B6%E4%BD%9C%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E8%A1%A8--000176.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3160,
+      "y": 152
+    },
+    {
+      "height": 392,
+      "id": "57941863e3d00ecb",
+      "label": "5.5.2 简单的三角恒等变换",
+      "type": "group",
+      "width": 1122,
+      "x": 3656,
+      "y": 76
+    },
+    {
+      "height": 66,
+      "id": "746fe08f08b79add",
+      "text": "[§ 5.5.2 简单的三角恒等变换](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/5.5.2%20%E7%AE%80%E5%8D%95%E7%9A%84%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2.md)",
+      "type": "text",
+      "width": 260,
+      "x": 3712,
+      "y": 330
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "c23c27421d8af3b5",
+      "text": "[练习入口 · 5.5.2 简单的三角恒等变换](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/5.5.2%20%E7%AE%80%E5%8D%95%E7%9A%84%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2.md)\n\n共 8 题",
+      "type": "text",
+      "width": 260,
+      "x": 4422,
+      "y": 340
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "5e866ddf9a27612a",
+      "text": "[✦ 情景引入 · 利用和差角与二倍角公式进行三角恒等变换](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/5.5.2%20%E7%AE%80%E5%8D%95%E7%9A%84%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%20%E8%8A%82%E5%BC%95%E8%A8%80--Gda16c45a6df60b.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3712,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "156a191ca8331b40",
+      "text": "[· 方法例题 · 例 7 用 cos(α) 表示半角的正弦、余弦、正切平方（半角公式）](../../../../%E4%B9%A0%E9%A2%98/Q1743450267671302882.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4092,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "85472cec83f47669",
+      "text": "[✦ 三角恒等变换的基本思路与特点](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF%E4%B8%8E%E7%89%B9%E7%82%B9--000177.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4442,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "e529138168849418",
+      "text": "[· 方法例题 · 例 8 证明三角函数的积化和差与和差化积恒等式](../../../../%E4%B9%A0%E9%A2%98/Q9134229623238830840.md)",
+      "type": "text",
+      "width": 250,
+      "x": 4072,
+      "y": 340
+    },
+    {
+      "height": 204,
+      "id": "1c3983ada599c644",
+      "label": "习题5.5",
+      "type": "group",
+      "width": 372,
+      "x": 4938,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "4fa3c0a5778a0338",
+      "text": "[练习入口 · 习题5.5](../../../../%E9%A2%98%E5%9E%8B/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/%E4%B9%A0%E9%A2%985.5.md)\n\n共 20 题",
+      "type": "text",
+      "width": 260,
+      "x": 4994,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "9ed70201a2f80224",
+      "text": "# [5.5 三角恒等变换](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "58963bd56aa4d62f",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/06-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0-c80f27.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "cfff0b8018c0258f",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}
