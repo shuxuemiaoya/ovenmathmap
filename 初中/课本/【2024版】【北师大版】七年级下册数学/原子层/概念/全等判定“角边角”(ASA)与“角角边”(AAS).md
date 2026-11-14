@@ -1,0 +1,77 @@
+---
+title: "全等判定“角边角”（ASA）与“角角边”（AAS）"
+atom_type: "concept"
+atom_key: "atom-derived-48a149e234fd56eb"
+owner_key: "topic-4-3-2"
+source: "【2024版】【北师大版】七年级下册数学.pdf"
+source_pdf: "【2024版】【北师大版】七年级下册数学.pdf"
+source_sha256: "31938aa419e1682456ec9272c184e489aed1ac9cef599335c6c6554b6d3c4c3f"
+source_range: [3509, 3509]
+used_by:
+  - "义务教育教科书 数学 七年级 下册（2024北师大版）"
+  - "第四章 三角形"
+  - "3 探索三角形全等的条件"
+  - "4.3.2 三角形全等的条件：角边角与角角边（ASA/AAS）"
+organizers:
+  - "义务教育教科书 数学 七年级 下册（2024北师大版）"
+  - "第四章 三角形"
+  - "3 探索三角形全等的条件"
+  - "4.3.2 三角形全等的条件：角边角与角角边（ASA/AAS）"
+updated_at: "2026-11-13"
+review_status: "passed"
+estimated_learning_minutes: 2
+difficulty: "reference"
+importance: "reference"
+learning_objectives:
+  - "查阅：全等判定“角边角”（ASA）与“角角边”（AAS）"
+derived_from: "atom-3134cafabdf51c5b"
+derived_kind: "concept"
+defined_in_file: "原子层/知识点/全等三角形判定条件二-“角边角”(ASA)--000125.md"
+defined_in_title: "全等三角形判定条件二：“角边角”（ASA）"
+concept_name: "全等判定“角边角”（ASA）与“角角边”（AAS）"
+concept_key: "concept-5cdf0818ede83781"
+concept_kind: "theorem"
+preferred_label: "全等判定“角边角”（ASA）与“角角边”（AAS）"
+definition_summary: "两角及其夹边分别相等（ASA）或两角分别相等且其中一组等角对边相等（AAS）的两个三角形全等。"
+chapter_title: "第四章 三角形"
+section_title: "4.3.2 三角形全等的条件：角边角与角角边（ASA/AAS）"
+is_definition_card: true
+aliases:
+  - "AAS"
+  - "ASA"
+  - "角角边"
+  - "角边角"
+prerequisite_concepts:
+  - "全等判定“边边边”（SSS）与三角形稳定性"
+related_concepts:
+  - "全等判定“边边边”（SSS）与三角形稳定性"
+  - "全等判定“边角边”（SAS）与 SSA 反例辨析"
+applied_in_atoms:
+  - "尺规作图：已知三角形的两角及其夹边作三角形"
+  - "习题 4.3 第8题"
+  - "习题 4.3 第6题"
+  - "习题 4.3 第11题"
+  - "习题 4.3 第5题"
+  - "全等三角形判定条件二：“角边角”（ASA）"
+  - "习题 4.3 第1题"
+  - "习题 4.3 第2题"
+  - "习题 4.3 第3题"
+  - "回顾·反思：寻求三角形全等说理思路的方法总结"
+  - "习题 4.3 第14题"
+  - "习题 4.3 第4题"
+  - "两角及一边条件画三角形分类设问（ASA/AAS 引入）"
+  - "例2 综合运用对顶角、SAS 与 SSS 多重判定证明全等"
+  - "思考·交流：已知两角及其中一角对边转化探究"
+  - "习题 4.3 第12题"
+  - "习题 4.3 第9题"
+  - "习题 4.3 第15题"
+  - "习题 4.3 第7题"
+  - "全等三角形判定条件三：“角角边”（AAS）"
+  - "习题 4.3 第13题"
+  - "习题 4.3 第16题"
+  - "随堂练习 4.3.2-1"
+  - "习题 4.3 第10题"
+  - "尝试·思考：已知两角及其夹边尺规作三角形全等探究"
+---
+
+两角及其夹边分别相等的两个三角形全等，简写为“角边角”或“ASA”。

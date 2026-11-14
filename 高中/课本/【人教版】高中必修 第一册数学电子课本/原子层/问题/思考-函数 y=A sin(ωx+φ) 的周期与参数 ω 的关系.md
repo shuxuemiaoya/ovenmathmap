@@ -1,0 +1,33 @@
+---
+title: "思考：函数 y=A sin(ωx+φ) 的周期与参数 ω 的关系"
+atom_type: "scenario"
+atom_key: "atom-ab3a7a3c3f36c961"
+owner_key: "topic-5-4-2-periodicity-and-parity"
+source: "【人教版】高中必修 第一册数学电子课本.pdf"
+source_pdf: "【人教版】高中必修 第一册数学电子课本.pdf"
+source_sha256: "7f72df7a79284ad2b10d8bfaf58065e74b24f237bf6b7ad750a46bf557eb9051"
+source_range: [8150, 8153]
+used_by:
+  - "普通高中教科书 数学 必修 第一册"
+  - "第五章 三角函数"
+  - "5.4 三角函数的图象与性质"
+  - "5.4.2 正弦函数、余弦函数的性质"
+  - "正弦函数、余弦函数的周期性与奇偶性"
+organizers:
+  - "普通高中教科书 数学 必修 第一册"
+  - "第五章 三角函数"
+  - "5.4 三角函数的图象与性质"
+  - "5.4.2 正弦函数、余弦函数的性质"
+  - "正弦函数、余弦函数的周期性与奇偶性"
+updated_at: "2026-11-13"
+review_status: "passed"
+estimated_learning_minutes: 2
+difficulty: "inquiry"
+importance: "extension"
+learning_objectives:
+  - "比较、综合已有知识并提出可继续探究的问题"
+scenario_role: "reflection-question"
+---
+
+> [!question] 思考
+> 回顾例2的解答过程，你能发现这些函数的周期与解析式中哪些量有关吗？

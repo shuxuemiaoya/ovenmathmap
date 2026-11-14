@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "kind": "canvas-quality-report",
+  "canvas_review_final_sha256": "619692660359d8f8febce56139a26d00cc158d687e0f90fd75238802d3d08f6b",
+  "status": "passed",
+  "priority": [
+    "knowledge-logic-completeness",
+    "relation-correctness",
+    "direction-and-ports",
+    "organization-clarity",
+    "aesthetics"
+  ],
+  "counts": {
+    "jobs": 58,
+    "decisions": 58,
+    "errors": 0,
+    "review_items": 0
+  },
+  "logic_first": true,
+  "artifact_sha256": "3f95ad85a4affe8e3aa768882fd2c20e69a0105ba62957ddce68625701be2d40"
+}

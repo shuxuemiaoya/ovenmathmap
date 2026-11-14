@@ -23,8 +23,8 @@ children_count: 1
 direct_organizer_count: 0
 direct_atom_count: 1
 descendant_atom_count: 1
-updated_at: "2026-11-09"
+updated_at: "2026-11-13"
 review_status: "passed"
 ---
 
-![函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导](../../../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%20y%3DAsin%28%CF%89x%2B%CF%86%29%20%E5%8F%8A%20y%3DAcos%28%CF%89x%2B%CF%86%29%20%E7%9A%84%E5%91%A8%E6%9C%9F%E6%8E%A8%E5%AF%BC--000086.md)
+![函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导](../../../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%20y%3DAsin%28%CF%89x%2B%CF%86%29%20%E5%8F%8A%20y%3DAcos%28%CF%89x%2B%CF%86%29%20%E7%9A%84%E5%91%A8%E6%9C%9F%E6%8E%A8%E5%AF%BC--000088.md)

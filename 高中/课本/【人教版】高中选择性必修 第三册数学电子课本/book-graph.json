@@ -1434,12 +1434,12 @@
     },
     {
       "key": "atom-56a830316f595acd",
-      "title": "本册导引",
+      "title": "从计数原理到随机变量与成对数据分析",
       "layer": "atom",
       "parent_key": "book-root",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0001-S.md",
+      "filename": "原子层/情景引入/从计数原理到随机变量与成对数据分析--0001-S.md",
       "source_range": [
         75,
         86
@@ -1449,12 +1449,12 @@
     },
     {
       "key": "atom-eda581fdc488e9a6",
-      "title": "第六章 计数原理·章节导语",
+      "title": "从汽车号牌扩容问题认识计数原理",
       "layer": "atom",
       "parent_key": "node-toc-001",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0002-S.md",
+      "filename": "原子层/情景引入/从汽车号牌扩容问题认识计数原理--0002-S.md",
       "source_range": [
         130,
         138
@@ -1464,12 +1464,12 @@
     },
     {
       "key": "atom-a01a8baa80274749",
-      "title": "6.1 分类加法计数原理与分步乘法计数原理·本节导语",
+      "title": "从逐个列举走向分类与分步计数",
       "layer": "atom",
       "parent_key": "node-toc-002",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0003-S.md",
+      "filename": "原子层/情景引入/从逐个列举走向分类与分步计数--0003-S.md",
       "source_range": [
         140,
         142
@@ -1975,12 +1975,12 @@
     },
     {
       "key": "atom-6de9d1f725e948fc",
-      "title": "6.2.1 排列·本节导语",
+      "title": "由同学上午下午活动安排认识排列",
       "layer": "atom",
       "parent_key": "semantic-00652",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0004-S.md",
+      "filename": "原子层/情景引入/由同学上午下午活动安排认识排列--0004-S.md",
       "source_range": [
         653,
         765
@@ -2089,12 +2089,12 @@
     },
     {
       "key": "atom-978b80f2922c4909",
-      "title": "6.2.2 排列数·本节导语",
+      "title": "从排列个数问题推求排列数公式",
       "layer": "atom",
       "parent_key": "semantic-00820",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0005-S.md",
+      "filename": "原子层/情景引入/从排列个数问题推求排列数公式--0005-S.md",
       "source_range": [
         821,
         839
@@ -2362,12 +2362,12 @@
     },
     {
       "key": "atom-9e306720b5e211a5",
-      "title": "6.2.4 组合数·本节导语",
+      "title": "类比排列数推求组合数公式",
       "layer": "atom",
       "parent_key": "semantic-01078",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0006-S.md",
+      "filename": "原子层/情景引入/类比排列数推求组合数公式--0006-S.md",
       "source_range": [
         1079,
         1089
@@ -2913,12 +2913,12 @@
     },
     {
       "key": "atom-ada2ff4bced2128d",
-      "title": "6.3.2 二项式系数的性质·本节导语",
+      "title": "由二项式展开系数探索对称性与递推性",
       "layer": "atom",
       "parent_key": "semantic-01517",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0007-S.md",
+      "filename": "原子层/情景引入/由二项式展开系数探索对称性与递推性--0007-S.md",
       "source_range": [
         1518,
         1526
@@ -3308,12 +3308,12 @@
     },
     {
       "key": "atom-40564335bb8ae728",
-      "title": "数学探究 杨辉三角的性质与应用·本节导语",
+      "title": "从杨辉三角发现二项式系数规律",
       "layer": "atom",
       "parent_key": "node-toc-009",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0008-S.md",
+      "filename": "原子层/情景引入/从杨辉三角发现二项式系数规律--0008-S.md",
       "source_range": [
         1868,
         1889
@@ -3365,12 +3365,12 @@
     },
     {
       "key": "atom-3d1904e0f022307a",
-      "title": "第七章 随机变量及其分布·章节导语",
+      "title": "从古典概率走向条件概率与随机变量分布",
       "layer": "atom",
       "parent_key": "node-toc-010",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0009-S.md",
+      "filename": "原子层/情景引入/从古典概率走向条件概率与随机变量分布--0009-S.md",
       "source_range": [
         1989,
         1995
@@ -3394,12 +3394,12 @@
     },
     {
       "key": "atom-3413d8a81dc735e5",
-      "title": "7.1.1 条件概率·本节导语",
+      "title": "由班级性别与团员人数认识条件概率",
       "layer": "atom",
       "parent_key": "semantic-02006",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0010-S.md",
+      "filename": "原子层/情景引入/由班级性别与团员人数认识条件概率--0010-S.md",
       "source_range": [
         2007,
         2087
@@ -3847,12 +3847,12 @@
     },
     {
       "key": "atom-005ae12972dd12c0",
-      "title": "7.2 离散型随机变量及其分布列·本节导语",
+      "title": "由样本空间到实数的对应引出随机变量",
       "layer": "atom",
       "parent_key": "node-toc-013",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0011-S.md",
+      "filename": "原子层/情景引入/由样本空间到实数的对应引出随机变量--0011-S.md",
       "source_range": [
         2480,
         2496
@@ -4073,12 +4073,12 @@
     },
     {
       "key": "atom-5eae9884f923b1b7",
-      "title": "7.3 离散型随机变量的数字特征·本节导语",
+      "title": "从考试成绩与射箭水平认识随机变量数字特征",
       "layer": "atom",
       "parent_key": "node-toc-014",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0012-S.md",
+      "filename": "原子层/情景引入/从考试成绩与射箭水平认识随机变量数字特征--0012-S.md",
       "source_range": [
         2722,
         2724
@@ -4088,12 +4088,12 @@
     },
     {
       "key": "atom-6e019d0c3c402880",
-      "title": "7.3.1 离散型随机变量的均值·本节导语",
+      "title": "由射箭环数分布比较随机变量均值",
       "layer": "atom",
       "parent_key": "semantic-02725",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0013-S.md",
+      "filename": "原子层/情景引入/由射箭环数分布比较随机变量均值--0013-S.md",
       "source_range": [
         2726,
         2772
@@ -4245,12 +4245,12 @@
     },
     {
       "key": "atom-07840ea7f988bf9f",
-      "title": "7.3.2 离散型随机变量的方差·本节导语",
+      "title": "从均值无法刻画波动认识随机变量方差",
       "layer": "atom",
       "parent_key": "semantic-02979",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0014-S.md",
+      "filename": "原子层/情景引入/从均值无法刻画波动认识随机变量方差--0014-S.md",
       "source_range": [
         2980,
         3010
@@ -4486,12 +4486,12 @@
     },
     {
       "key": "atom-eb22b5de131b84fe",
-      "title": "7.4 二项分布与超几何分布·本节导语",
+      "title": "由离散随机变量分布走向二项与超几何分布",
       "layer": "atom",
       "parent_key": "node-toc-015",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0015-S.md",
+      "filename": "原子层/情景引入/由离散随机变量分布走向二项与超几何分布--0015-S.md",
       "source_range": [
         3204,
         3206
@@ -4501,12 +4501,12 @@
     },
     {
       "key": "atom-fde88ed43394da2d",
-      "title": "7.4.1 二项分布·本节导语",
+      "title": "从产品检验与飞碟射击认识伯努利试验",
       "layer": "atom",
       "parent_key": "semantic-03207",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0016-S.md",
+      "filename": "原子层/情景引入/从产品检验与飞碟射击认识伯努利试验--0016-S.md",
       "source_range": [
         3208,
         3218
@@ -4956,12 +4956,12 @@
     },
     {
       "key": "atom-d33b8b7a7c48a5f0",
-      "title": "7.5 正态分布·本节导语",
+      "title": "由连续型随机变量走向正态分布",
       "layer": "atom",
       "parent_key": "node-toc-017",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0017-S.md",
+      "filename": "原子层/情景引入/由连续型随机变量走向正态分布--0017-S.md",
       "source_range": [
         3678,
         3732
@@ -5351,12 +5351,12 @@
     },
     {
       "key": "atom-f963f5aba0a76991",
-      "title": "第八章 成对数据的统计分析·章节导语",
+      "title": "从单变量统计走向成对数据的相关与回归",
       "layer": "atom",
       "parent_key": "node-toc-021",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0018-S.md",
+      "filename": "原子层/情景引入/从单变量统计走向成对数据的相关与回归--0018-S.md",
       "source_range": [
         3972,
         3978
@@ -5366,12 +5366,12 @@
     },
     {
       "key": "atom-37415d2a17d18add",
-      "title": "8.1 成对数据的统计相关性·本节导语",
+      "title": "由身高体重关系认识统计相关性",
       "layer": "atom",
       "parent_key": "node-toc-022",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0019-S.md",
+      "filename": "原子层/情景引入/由身高体重关系认识统计相关性--0019-S.md",
       "source_range": [
         3980,
         3982
@@ -5381,12 +5381,12 @@
     },
     {
       "key": "atom-55d679abb045f5f1",
-      "title": "8.1.1 变量的相关关系·本节导语",
+      "title": "从身高体重的非确定关系认识相关关系",
       "layer": "atom",
       "parent_key": "semantic-03983",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0020-S.md",
+      "filename": "原子层/情景引入/从身高体重的非确定关系认识相关关系--0020-S.md",
       "source_range": [
         3984,
         3998
@@ -5482,12 +5482,12 @@
     },
     {
       "key": "atom-f258f0a15c3337a5",
-      "title": "8.1.2 样本相关系数·本节导语",
+      "title": "从散点图的局限引出样本相关系数",
       "layer": "atom",
       "parent_key": "semantic-04071",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0021-S.md",
+      "filename": "原子层/情景引入/从散点图的局限引出样本相关系数--0021-S.md",
       "source_range": [
         4072,
         4096
@@ -5710,12 +5710,12 @@
     },
     {
       "key": "atom-9bc7659c6f659ac2",
-      "title": "8.2 一元线性回归模型及其应用·本节导语",
+      "title": "由相关系数走向一元线性回归模型",
       "layer": "atom",
       "parent_key": "node-toc-023",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0022-S.md",
+      "filename": "原子层/情景引入/由相关系数走向一元线性回归模型--0022-S.md",
       "source_range": [
         4377,
         4381
@@ -5725,12 +5725,12 @@
     },
     {
       "key": "atom-07fa503639a314bd",
-      "title": "8.2.1 一元线性回归模型·本节导语",
+      "title": "从父子身高数据建立一元线性回归模型",
       "layer": "atom",
       "parent_key": "semantic-04382",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0023-S.md",
+      "filename": "原子层/情景引入/从父子身高数据建立一元线性回归模型--0023-S.md",
       "source_range": [
         4383,
         4394
@@ -5826,12 +5826,12 @@
     },
     {
       "key": "atom-4c8b9df0e540a3a8",
-      "title": "8.2.2 一元线性回归模型参数的最小二乘估计·本节导语",
+      "title": "从回归模型未知参数引出最小二乘估计",
       "layer": "atom",
       "parent_key": "semantic-04437",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0024-S.md",
+      "filename": "原子层/情景引入/从回归模型未知参数引出最小二乘估计--0024-S.md",
       "source_range": [
         4438,
         4440
@@ -6110,12 +6110,12 @@
     },
     {
       "key": "atom-b35e3c263cfb70e0",
-      "title": "8.3 列联表与独立性检验·本节导语",
+      "title": "由学校成绩与体育锻炼研究分类变量关联",
       "layer": "atom",
       "parent_key": "node-toc-025",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0025-S.md",
+      "filename": "原子层/情景引入/由学校成绩与体育锻炼研究分类变量关联--0025-S.md",
       "source_range": [
         4951,
         4957
@@ -6125,12 +6125,12 @@
     },
     {
       "key": "atom-666e0a6d36f73a9e",
-      "title": "8.3.1 分类变量与列联表·本节导语",
+      "title": "从性别与体育锻炼数据建立列联表",
       "layer": "atom",
       "parent_key": "semantic-04958",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0026-S.md",
+      "filename": "原子层/情景引入/从性别与体育锻炼数据建立列联表--0026-S.md",
       "source_range": [
         4959,
         5034
@@ -6239,12 +6239,12 @@
     },
     {
       "key": "atom-cb8099a17122ba51",
-      "title": "8.3.2 独立性检验·本节导语",
+      "title": "由样本频率误差引出独立性检验",
       "layer": "atom",
       "parent_key": "semantic-05099",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0027-S.md",
+      "filename": "原子层/情景引入/由样本频率误差引出独立性检验--0027-S.md",
       "source_range": [
         5100,
         5170
@@ -6692,12 +6692,12 @@
     },
     {
       "key": "atom-c7a8f9f91a5c59e4",
-      "title": "数学建模 建立统计模型进行预测·本节导语",
+      "title": "由城市PM2.5监测数据建立统计预测模型",
       "layer": "atom",
       "parent_key": "node-toc-028",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0028-S.md",
+      "filename": "原子层/情景引入/由城市PM2.5监测数据建立统计预测模型--0028-S.md",
       "source_range": [
         5558,
         5577
@@ -7405,9 +7405,9 @@
   "concepts": [
     {
       "key": "concept-26a10c092fd198a7",
-      "preferred_label": "本册导引",
+      "preferred_label": "从计数原理到随机变量与成对数据分析",
       "aliases": [],
-      "definition": "在教材原文《本册导引》中给出的关于本册导引的数学思想、概念引导与基本方法体系。",
+      "definition": "在教材原文《从计数原理到随机变量与成对数据分析》中给出的关于从计数原理到随机变量与成对数据分析的数学思想、概念引导与基本方法体系。",
       "kind": "concept",
       "member_proposal_ids": [
         "prop-c0001"
@@ -13549,7 +13549,7 @@
           ]
         }
       ],
-      "rationale": "【本册导引】是学习【子集的个数有多少】的先修与递进基础。",
+      "rationale": "【从计数原理到随机变量与成对数据分析】是学习【子集的个数有多少】的先修与递进基础。",
       "confidence": 0.98,
       "candidate_sources": [
         "candidate-784d4d60b245481a"
@@ -14537,7 +14537,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.2 离散型随机变量及其分布列·本节导语】引出后续教学单元【7.2 离散型随机变量及其分布列·探究】。",
+      "rationale": "节导语【由样本空间到实数的对应引出随机变量】引出后续教学单元【7.2 离散型随机变量及其分布列·探究】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14567,7 +14567,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.3.2 离散型随机变量的方差·本节导语】引出后续教学单元【7.3.2 离散型随机变量的方差·思考】。",
+      "rationale": "节导语【从均值无法刻画波动认识随机变量方差】引出后续教学单元【7.3.2 离散型随机变量的方差·思考】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14597,7 +14597,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.2.1 一元线性回归模型·本节导语】引出本节核心知识点【阅读与思考 回归与相关】。",
+      "rationale": "节导语【从父子身高数据建立一元线性回归模型】引出本节核心知识点【阅读与思考 回归与相关】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14777,7 +14777,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.1.1 条件概率·本节导语】引出后续教学单元【7.1.1 条件概率·探究】。",
+      "rationale": "节导语【由班级性别与团员人数认识条件概率】引出后续教学单元【7.1.1 条件概率·探究】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14807,7 +14807,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.1 成对数据的统计相关性·本节导语】引出本节核心知识点【阅读与思考 回归与相关】。",
+      "rationale": "节导语【由身高体重关系认识统计相关性】引出本节核心知识点【阅读与思考 回归与相关】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14867,7 +14867,7 @@
           ]
         }
       ],
-      "rationale": "节导语【数学探究 杨辉三角的性质与应用·本节导语】引出本节核心知识点【（一）杨辉三角的性质】。",
+      "rationale": "节导语【从杨辉三角发现二项式系数规律】引出本节核心知识点【（一）杨辉三角的性质】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14927,7 +14927,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.2.2 一元线性回归模型参数的最小二乘估计·本节导语】引出本节核心知识点【阅读与思考 回归与相关】。",
+      "rationale": "节导语【从回归模型未知参数引出最小二乘估计】引出本节核心知识点【阅读与思考 回归与相关】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -14957,7 +14957,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.1.1 变量的相关关系·本节导语】引出本节核心知识点【阅读与思考 回归与相关】。",
+      "rationale": "节导语【从身高体重的非确定关系认识相关关系】引出本节核心知识点【阅读与思考 回归与相关】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15017,7 +15017,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.3 离散型随机变量的数字特征·本节导语】引出本节核心知识点【第七章 随机变量及其分布 小结】。",
+      "rationale": "节导语【从考试成绩与射箭水平认识随机变量数字特征】引出本节核心知识点【第七章 随机变量及其分布 小结】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15137,7 +15137,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.3.1 分类变量与列联表·本节导语】引出后续教学单元【例 1 为比较甲、乙两所学校学生的数学】。",
+      "rationale": "节导语【从性别与体育锻炼数据建立列联表】引出后续教学单元【例 1 为比较甲、乙两所学校学生的数学】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15167,7 +15167,7 @@
           ]
         }
       ],
-      "rationale": "节导语【6.2.1 排列·本节导语】引出本节核心知识点【探究与发现 组合数的两个性质】。",
+      "rationale": "节导语【由同学上午下午活动安排认识排列】引出本节核心知识点【探究与发现 组合数的两个性质】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15197,7 +15197,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.3.1 离散型随机变量的均值·本节导语】引出后续教学单元【例 1 在篮球比赛中】。",
+      "rationale": "节导语【由射箭环数分布比较随机变量均值】引出后续教学单元【例 1 在篮球比赛中】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15377,7 +15377,7 @@
           ]
         }
       ],
-      "rationale": "节导语【6.2.2 排列数·本节导语】引出本节核心知识点【上一节学习了排列数公式和组合数公式，本节我们用它们解决一个在数学上有着广泛应用的 $(a + b)^n$ 展开的问题.】。",
+      "rationale": "节导语【从排列个数问题推求排列数公式】引出本节核心知识点【上一节学习了排列数公式和组合数公式，本节我们用它们解决一个在数学上有着广泛应用的 $(a + b)^n$ 展开的问题.】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15407,7 +15407,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.2 一元线性回归模型及其应用·本节导语】引出本节核心知识点【阅读与思考 回归与相关】。",
+      "rationale": "节导语【由相关系数走向一元线性回归模型】引出本节核心知识点【阅读与思考 回归与相关】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15437,7 +15437,7 @@
           ]
         }
       ],
-      "rationale": "节导语【6.2.4 组合数·本节导语】引出本节核心知识点【探究与发现 组合数的两个性质】。",
+      "rationale": "节导语【类比排列数推求组合数公式】引出本节核心知识点【探究与发现 组合数的两个性质】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15497,7 +15497,7 @@
           ]
         }
       ],
-      "rationale": "节导语【6.1 分类加法计数原理与分步乘法计数原理·本节导语】引出本节核心知识点【探究与发现 子集的个数有多少】。",
+      "rationale": "节导语【从逐个列举走向分类与分步计数】引出本节核心知识点【探究与发现 子集的个数有多少】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15557,7 +15557,7 @@
           ]
         }
       ],
-      "rationale": "节导语【6.3.2 二项式系数的性质·本节导语】引出本节核心知识点【1. 对称性】。",
+      "rationale": "节导语【由二项式展开系数探索对称性与递推性】引出本节核心知识点【1. 对称性】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15617,7 +15617,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.3 列联表与独立性检验·本节导语】引出本节核心知识点【第八章 成对数据的统计分析 小结】。",
+      "rationale": "节导语【由学校成绩与体育锻炼研究分类变量关联】引出本节核心知识点【第八章 成对数据的统计分析 小结】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15707,7 +15707,7 @@
           ]
         }
       ],
-      "rationale": "节导语【数学建模 建立统计模型进行预测·本节导语】引出本节核心知识点【一、问题背景分析】。",
+      "rationale": "节导语【由城市PM2.5监测数据建立统计预测模型】引出本节核心知识点【一、问题背景分析】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15737,7 +15737,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.3.2 独立性检验·本节导语】引出本节核心知识点【第八章 成对数据的统计分析 小结】。",
+      "rationale": "节导语【由样本频率误差引出独立性检验】引出本节核心知识点【第八章 成对数据的统计分析 小结】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15827,7 +15827,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.5 正态分布·本节导语】引出本节核心知识点【3. 正态分布】。",
+      "rationale": "节导语【由连续型随机变量走向正态分布】引出本节核心知识点【3. 正态分布】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -15977,7 +15977,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.4 二项分布与超几何分布·本节导语】引出本节核心知识点【7.4.2 超几何分布·核心概念】。",
+      "rationale": "节导语【由离散随机变量分布走向二项与超几何分布】引出本节核心知识点【7.4.2 超几何分布·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -16037,7 +16037,7 @@
           ]
         }
       ],
-      "rationale": "节导语【8.1.2 样本相关系数·本节导语】引出本节核心知识点【阅读与思考 回归与相关】。",
+      "rationale": "节导语【从散点图的局限引出样本相关系数】引出本节核心知识点【阅读与思考 回归与相关】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -16127,7 +16127,7 @@
           ]
         }
       ],
-      "rationale": "节导语【7.4.1 二项分布·本节导语】引出本节核心知识点【7.4.2 超几何分布·核心概念】。",
+      "rationale": "节导语【从产品检验与飞碟射击认识伯努利试验】引出本节核心知识点【7.4.2 超几何分布·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [

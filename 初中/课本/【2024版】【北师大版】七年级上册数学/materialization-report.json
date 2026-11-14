@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "book_root": "/Users/oven/Documents/ovenmathmap/初中/课本/【2024版】【北师大版】七年级上册数学",
+  "manifest": "/Users/oven/Documents/ovenmathmap/初中/课本/【2024版】【北师大版】七年级上册数学/book-graph.json",
+  "profile": "/Users/oven/Documents/ovenmathmap/初中/课本/【2024版】【北师大版】七年级上册数学/book-profile.json",
+  "source_markdown": "/Users/oven/Documents/ovenmathmap/.temp/book-wiki-graph-staging/【2024版】【北师大版】七年级上册数学/book.toc-formatted.md",
+  "source_markdown_sha256": "fd27283a67140444069827679db0e52f833f04bb34bb24835f6ae8621e7d4af9",
+  "atomization_final_sha256": "36d7a84d159d89c405e7785d98a54e354dcbca115b19e9a1e13dc8fa35abf32b",
+  "root_key": "book-root",
+  "counts": {
+    "organizers": 109,
+    "atoms": 685,
+    "derived_atoms": 63,
+    "atom_categories": {
+      "knowledge": 85,
+      "worked-example": 33,
+      "exercise": 410,
+      "scenario": 157,
+      "concept": 37,
+      "formula": 26
+    },
+    "assets": 530,
+    "derived_indexes": 12
+  },
+  "unresolved_assets": []
+}

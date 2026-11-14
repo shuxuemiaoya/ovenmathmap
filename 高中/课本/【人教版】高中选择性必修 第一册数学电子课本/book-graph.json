@@ -1768,12 +1768,12 @@
     },
     {
       "key": "atom-ba53ed449f626caf",
-      "title": "本册导引",
+      "title": "从空间向量到解析几何的坐标研究路径",
       "layer": "atom",
       "parent_key": "book-root",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0001-S.md",
+      "filename": "原子层/情景引入/从空间向量到解析几何的坐标研究路径--0001-S.md",
       "source_range": [
         62,
         79
@@ -1783,12 +1783,12 @@
     },
     {
       "key": "atom-a5aa7b8b512906de",
-      "title": "第一章 空间向量与立体几何·章节导语",
+      "title": "由平面向量方法推广到空间向量与立体几何",
       "layer": "atom",
       "parent_key": "node-toc-001",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0002-S.md",
+      "filename": "原子层/情景引入/由平面向量方法推广到空间向量与立体几何--0002-S.md",
       "source_range": [
         124,
         130
@@ -1798,12 +1798,12 @@
     },
     {
       "key": "atom-2d70fbabd44664c7",
-      "title": "1.1 空间向量及其运算·本节导语",
+      "title": "从滑翔伞受力走向空间向量及其运算",
       "layer": "atom",
       "parent_key": "node-toc-002",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0003-S.md",
+      "filename": "原子层/情景引入/从滑翔伞受力走向空间向量及其运算--0003-S.md",
       "source_range": [
         132,
         134
@@ -1813,12 +1813,12 @@
     },
     {
       "key": "atom-fe7731cef72822d2",
-      "title": "1.1.1 空间向量及其线性运算·本节导语",
+      "title": "从空间位移抽象空间向量及其线性运算",
       "layer": "atom",
       "parent_key": "semantic-00135",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0004-S.md",
+      "filename": "原子层/情景引入/从空间位移抽象空间向量及其线性运算--0004-S.md",
       "source_range": [
         136,
         195
@@ -1971,12 +1971,12 @@
     },
     {
       "key": "atom-3feebab87d271f49",
-      "title": "1.1.2 空间向量的数量积运算·本节导语",
+      "title": "类比平面向量定义空间向量的数量积",
       "layer": "atom",
       "parent_key": "semantic-00306",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0005-S.md",
+      "filename": "原子层/情景引入/类比平面向量定义空间向量的数量积--0005-S.md",
       "source_range": [
         307,
         338
@@ -2254,12 +2254,12 @@
     },
     {
       "key": "atom-4dc70664aee9bfb8",
-      "title": "1.2 空间向量基本定理·本节导语",
+      "title": "由平面基底猜想空间向量基本定理",
       "layer": "atom",
       "parent_key": "node-toc-003",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0006-S.md",
+      "filename": "原子层/情景引入/由平面基底猜想空间向量基本定理--0006-S.md",
       "source_range": [
         521,
         522
@@ -2536,12 +2536,12 @@
     },
     {
       "key": "atom-ce68a955449e53da",
-      "title": "1.3 空间向量及其运算的坐标表示·本节导语",
+      "title": "从空间基底走向向量的坐标运算",
       "layer": "atom",
       "parent_key": "node-toc-004",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0007-S.md",
+      "filename": "原子层/情景引入/从空间基底走向向量的坐标运算--0007-S.md",
       "source_range": [
         733,
         737
@@ -2551,12 +2551,12 @@
     },
     {
       "key": "atom-228c8c7f19de6c3c",
-      "title": "1.3.1 空间直角坐标系·本节导语",
+      "title": "由平面直角坐标系建立空间直角坐标系",
       "layer": "atom",
       "parent_key": "semantic-00738",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0008-S.md",
+      "filename": "原子层/情景引入/由平面直角坐标系建立空间直角坐标系--0008-S.md",
       "source_range": [
         739,
         753
@@ -3961,12 +3961,12 @@
     },
     {
       "key": "atom-59a7b6a07eabb63d",
-      "title": "第二章 直线和圆的方程·章节导语",
+      "title": "从综合几何到坐标法研究直线和圆",
       "layer": "atom",
       "parent_key": "node-toc-009",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0009-S.md",
+      "filename": "原子层/情景引入/从综合几何到坐标法研究直线和圆--0009-S.md",
       "source_range": [
         2247,
         2255
@@ -4162,12 +4162,12 @@
     },
     {
       "key": "atom-04f7aa0a665fe9a0",
-      "title": "2.1.2 两条直线平行和垂直的判定·本节导语",
+      "title": "从直线斜率判定两条直线平行与垂直",
       "layer": "atom",
       "parent_key": "semantic-02436",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0010-S.md",
+      "filename": "原子层/情景引入/从直线斜率判定两条直线平行与垂直--0010-S.md",
       "source_range": [
         2437,
         2439
@@ -4430,12 +4430,12 @@
     },
     {
       "key": "atom-f4fbdda4e04a4044",
-      "title": "2.2 直线的方程·本节导语",
+      "title": "从点与方向建立直线方程",
       "layer": "atom",
       "parent_key": "node-toc-011",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0011-S.md",
+      "filename": "原子层/情景引入/从点与方向建立直线方程--0011-S.md",
       "source_range": [
         2605,
         2607
@@ -4445,12 +4445,12 @@
     },
     {
       "key": "atom-3a71847563e07939",
-      "title": "2.2.1 直线的点斜式方程·本节导语",
+      "title": "由过定点的斜率关系推导直线点斜式方程",
       "layer": "atom",
       "parent_key": "semantic-02608",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0012-S.md",
+      "filename": "原子层/情景引入/由过定点的斜率关系推导直线点斜式方程--0012-S.md",
       "source_range": [
         2609,
         2660
@@ -5877,12 +5877,12 @@
     },
     {
       "key": "atom-1922f548fdcfe498",
-      "title": "2.4 圆的方程·本节导语",
+      "title": "类比直线方程建立圆的方程",
       "layer": "atom",
       "parent_key": "node-toc-015",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0013-S.md",
+      "filename": "原子层/情景引入/类比直线方程建立圆的方程--0013-S.md",
       "source_range": [
         3708,
         3710
@@ -7161,12 +7161,12 @@
     },
     {
       "key": "atom-070f503d000f1422",
-      "title": "第三章 圆锥曲线的方程·章节导语",
+      "title": "从圆锥截线走向椭圆双曲线与抛物线方程",
       "layer": "atom",
       "parent_key": "node-toc-020",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0014-S.md",
+      "filename": "原子层/情景引入/从圆锥截线走向椭圆双曲线与抛物线方程--0014-S.md",
       "source_range": [
         4721,
         4735
@@ -7176,12 +7176,12 @@
     },
     {
       "key": "atom-c59957cb2f56cf10",
-      "title": "3.1 椭圆·本节导语",
+      "title": "从椭圆的几何特征建立标准方程",
       "layer": "atom",
       "parent_key": "node-toc-021",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0015-S.md",
+      "filename": "原子层/情景引入/从椭圆的几何特征建立标准方程--0015-S.md",
       "source_range": [
         4737,
         4739
@@ -7392,12 +7392,12 @@
     },
     {
       "key": "atom-8646fa58a267268a",
-      "title": "3.1.2 椭圆的简单几何性质·本节导语",
+      "title": "从椭圆标准方程研究范围对称性与顶点",
       "layer": "atom",
       "parent_key": "semantic-04981",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0016-S.md",
+      "filename": "原子层/情景引入/从椭圆标准方程研究范围对称性与顶点--0016-S.md",
       "source_range": [
         4982,
         4990
@@ -7888,12 +7888,12 @@
     },
     {
       "key": "atom-01505ddd3d3d676e",
-      "title": "信息技术应用 用信息技术探究点的轨迹: 椭圆·本节导语",
+      "title": "由焦点到准线距离比描画椭圆轨迹",
       "layer": "atom",
       "parent_key": "node-toc-022",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0017-S.md",
+      "filename": "原子层/情景引入/由焦点到准线距离比描画椭圆轨迹--0017-S.md",
       "source_range": [
         5327,
         5355
@@ -7918,12 +7918,12 @@
     },
     {
       "key": "atom-51b42d9afb7de1a5",
-      "title": "3.2 双曲线·本节导语",
+      "title": "从冷却塔和声音定位认识双曲线",
       "layer": "atom",
       "parent_key": "node-toc-023",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0018-S.md",
+      "filename": "原子层/情景引入/从冷却塔和声音定位认识双曲线--0018-S.md",
       "source_range": [
         5361,
         5363
@@ -8742,12 +8742,12 @@
     },
     {
       "key": "atom-ba818f1f6d655c92",
-      "title": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线·本节导语",
+      "title": "从焦点准线定义证明二次函数图象是抛物线",
       "layer": "atom",
       "parent_key": "node-toc-026",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0019-S.md",
+      "filename": "原子层/情景引入/从焦点准线定义证明二次函数图象是抛物线--0019-S.md",
       "source_range": [
         5977,
         5993
@@ -9235,12 +9235,12 @@
     },
     {
       "key": "atom-ca05b44523c00e02",
-      "title": "文献阅读与数学写作 * 解析几何的形成与发展·本节导语",
+      "title": "从解析几何的创立理解坐标与变量方法",
       "layer": "atom",
       "parent_key": "node-toc-028",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0020-S.md",
+      "filename": "原子层/情景引入/从解析几何的创立理解坐标与变量方法--0020-S.md",
       "source_range": [
         6348,
         6352
@@ -10312,9 +10312,9 @@
   "concepts": [
     {
       "key": "concept-26a10c092fd198a7",
-      "preferred_label": "本册导引",
+      "preferred_label": "从空间向量到解析几何的坐标研究路径",
       "aliases": [],
-      "definition": "在教材原文《本册导引》中给出的关于本册导引的数学思想、概念引导与基本方法体系。",
+      "definition": "在教材原文《从空间向量到解析几何的坐标研究路径》中给出的关于从空间向量到解析几何的坐标研究路径的数学思想、概念引导与基本方法体系。",
       "kind": "concept",
       "member_proposal_ids": [
         "prop-c0001"
@@ -18948,7 +18948,7 @@
           ]
         }
       ],
-      "rationale": "【本册导引】是学习【空间向量基本定理】的先修与递进基础。",
+      "rationale": "【从空间向量到解析几何的坐标研究路径】是学习【空间向量基本定理】的先修与递进基础。",
       "confidence": 0.98,
       "candidate_sources": [
         "candidate-784d4d60b245481a"
@@ -20284,7 +20284,7 @@
           ]
         }
       ],
-      "rationale": "节导语【信息技术应用 用信息技术探究点的轨迹: 椭圆·本节导语】引出本节核心知识点【1. 范围】。",
+      "rationale": "节导语【由焦点到准线距离比描画椭圆轨迹】引出本节核心知识点【1. 范围】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20344,7 +20344,7 @@
           ]
         }
       ],
-      "rationale": "节导语【2.1.2 两条直线平行和垂直的判定·本节导语】引出本节核心知识点【2.3 直线的交点坐标与距离公式·核心概念】。",
+      "rationale": "节导语【从直线斜率判定两条直线平行与垂直】引出本节核心知识点【2.3 直线的交点坐标与距离公式·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20434,7 +20434,7 @@
           ]
         }
       ],
-      "rationale": "节导语【2.4 圆的方程·本节导语】引出本节核心知识点【2.4.1 圆的标准方程·核心概念】。",
+      "rationale": "节导语【类比直线方程建立圆的方程】引出本节核心知识点【2.4.1 圆的标准方程·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20494,7 +20494,7 @@
           ]
         }
       ],
-      "rationale": "节导语【1.3.1 空间直角坐标系·本节导语】引出本节核心知识点【第一章 空间向量与立体几何 小结】。",
+      "rationale": "节导语【由平面直角坐标系建立空间直角坐标系】引出本节核心知识点【第一章 空间向量与立体几何 小结】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20614,7 +20614,7 @@
           ]
         }
       ],
-      "rationale": "节导语【1.1 空间向量及其运算·本节导语】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
+      "rationale": "节导语【从滑翔伞受力走向空间向量及其运算】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20644,7 +20644,7 @@
           ]
         }
       ],
-      "rationale": "节导语【2.2.1 直线的点斜式方程·本节导语】引出本节核心知识点【探究与发现 方向向量与直线的参数方程】。",
+      "rationale": "节导语【由过定点的斜率关系推导直线点斜式方程】引出本节核心知识点【探究与发现 方向向量与直线的参数方程】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20674,7 +20674,7 @@
           ]
         }
       ],
-      "rationale": "节导语【1.1.2 空间向量的数量积运算·本节导语】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
+      "rationale": "节导语【类比平面向量定义空间向量的数量积】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20704,7 +20704,7 @@
           ]
         }
       ],
-      "rationale": "节导语【1.2 空间向量基本定理·本节导语】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
+      "rationale": "节导语【由平面基底猜想空间向量基本定理】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -20734,7 +20734,7 @@
           ]
         }
       ],
-      "rationale": "节导语【3.2 双曲线·本节导语】引出本节核心知识点【3.2.1 双曲线及其标准方程·核心概念】。",
+      "rationale": "节导语【从冷却塔和声音定位认识双曲线】引出本节核心知识点【3.2.1 双曲线及其标准方程·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21004,7 +21004,7 @@
           ]
         }
       ],
-      "rationale": "节导语【3.1.2 椭圆的简单几何性质·本节导语】引出本节核心知识点【1. 范围】。",
+      "rationale": "节导语【从椭圆标准方程研究范围对称性与顶点】引出本节核心知识点【1. 范围】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21364,7 +21364,7 @@
           ]
         }
       ],
-      "rationale": "节导语【探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线·本节导语】引出本节核心知识点【3.3.2 抛物线的简单几何性质·核心概念】。",
+      "rationale": "节导语【从焦点准线定义证明二次函数图象是抛物线】引出本节核心知识点【3.3.2 抛物线的简单几何性质·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21484,7 +21484,7 @@
           ]
         }
       ],
-      "rationale": "节导语【3.1 椭圆·本节导语】引出本节核心知识点【3.1.1 椭圆及其标准方程·核心概念】。",
+      "rationale": "节导语【从椭圆的几何特征建立标准方程】引出本节核心知识点【3.1.1 椭圆及其标准方程·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21514,7 +21514,7 @@
           ]
         }
       ],
-      "rationale": "节导语【文献阅读与数学写作 * 解析几何的形成与发展·本节导语】引出本节核心知识点【一、主题】。",
+      "rationale": "节导语【从解析几何的创立理解坐标与变量方法】引出本节核心知识点【一、主题】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21544,7 +21544,7 @@
           ]
         }
       ],
-      "rationale": "节导语【1.3 空间向量及其运算的坐标表示·本节导语】引出本节核心知识点【1.4 空间向量的应用·核心概念】。",
+      "rationale": "节导语【从空间基底走向向量的坐标运算】引出本节核心知识点【1.4 空间向量的应用·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21664,7 +21664,7 @@
           ]
         }
       ],
-      "rationale": "节导语【2.2 直线的方程·本节导语】引出本节核心知识点【2.2.3 直线的一般式方程·核心概念】。",
+      "rationale": "节导语【从点与方向建立直线方程】引出本节核心知识点【2.2.3 直线的一般式方程·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [
@@ -21694,7 +21694,7 @@
           ]
         }
       ],
-      "rationale": "节导语【1.1.1 空间向量及其线性运算·本节导语】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
+      "rationale": "节导语【从空间位移抽象空间向量及其线性运算】引出本节核心知识点【1.2 空间向量基本定理·核心概念】。",
       "confidence": 0.98,
       "basis_keys": [],
       "candidate_sources": [

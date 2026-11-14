@@ -1,0 +1,31 @@
+---
+title: "尝试·交流：同底数幂相乘的一般规律 $a^m \\cdot a^n$"
+atom_type: "scenario"
+atom_key: "atom-be26fa927f4d5899"
+owner_key: "topic-1-1-1"
+source: "【2024版】【北师大版】七年级下册数学.pdf"
+source_pdf: "【2024版】【北师大版】七年级下册数学.pdf"
+source_sha256: "31938aa419e1682456ec9272c184e489aed1ac9cef599335c6c6554b6d3c4c3f"
+source_range: [179, 182]
+used_by:
+  - "义务教育教科书 数学 七年级 下册（2024北师大版）"
+  - "第一章 整式的乘除"
+  - "1 幂的乘除"
+  - "1.1.1 同底数幂的乘法"
+organizers:
+  - "义务教育教科书 数学 七年级 下册（2024北师大版）"
+  - "第一章 整式的乘除"
+  - "1 幂的乘除"
+  - "1.1.1 同底数幂的乘法"
+updated_at: "2026-11-13"
+review_status: "passed"
+estimated_learning_minutes: 2
+difficulty: "inquiry"
+importance: "extension"
+learning_objectives:
+  - "比较、综合已有知识并提出可继续探究的问题"
+scenario_role: "reflection-question"
+---
+
+> [!question] 尝试·交流
+> 如果 m, n 都是正整数，那么 $a^{m} \cdot a^{n}$ 等于什么？为什么？与同伴进行交流。

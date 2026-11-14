@@ -1,0 +1,1356 @@
+{
+  "schema_version": 1,
+  "kind": "canvas-review-final",
+  "status": "passed",
+  "unresolved_count": 0,
+  "cycle": 1,
+  "canvas_index": "/Users/oven/Documents/ovenmathmap/高中/课本/【人教版】高中必修 第一册数学电子课本/Canvas/canvas-index.json",
+  "canvas_index_sha256": "ff4e00d4ed133d7b565a276a9f26308591f71108736ef9d228d11ad8ba64eba5",
+  "jobs_sha256": "aa5f2023d2b99472d478ed321a58bd996cb46af41de2ba6d94a1d2336ed31d63",
+  "decisions_sha256": "45700ceff95ae64c83fd0ffe7b441ba76da216fae57786358e6e61b6623ccb15",
+  "reviewer": null,
+  "priority": [
+    "knowledge-logic-completeness",
+    "relation-correctness",
+    "direction-and-ports",
+    "organization-clarity",
+    "aesthetics"
+  ],
+  "decisions": [
+    {
+      "job_id": "canvas-0001-book-atlas-book-root",
+      "image_observations": [
+        "全景图共 8 个节点、6 条边，中央为全书根节点，四周环绕6个章节节点与图例卡片。",
+        "各章节间沿顺时针方向由书序边连接，第四章与数学建模间显示发展×1关联边，无节点重叠或越界。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.96,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "92f56de42f2ee7056f5456eb7933397fbf01b269f4f1381314e190f8241141a5",
+      "png_sha256": "d4cdd29239a1a985badebb718613650a8883dde7651a316f02e56da8b3dbed7e"
+    },
+    {
+      "job_id": "canvas-0002-chapter-knowledge-map-node-toc-001",
+      "image_observations": [
+        "节图共 66 个节点、57 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "fde3a5410c6b2fd06ded0772fa289967de8ce77f3f1a0ccdb6f52901bae9de0d",
+      "png_sha256": "5ab988d7e9c829af67f0ced28a32ffbadd2dd55c1c9871d2b6d6acc6eb0093de"
+    },
+    {
+      "job_id": "canvas-0003-chapter-knowledge-map-node-toc-011",
+      "image_observations": [
+        "节图共 29 个节点、19 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "d77dd0647e7fb3a1c1e8b9a47b26b643eb4041119586ed60b7946da79014c4ba",
+      "png_sha256": "c646b821281852e4905692c11fcc2e1fa4dd3c1e76dc888cc3e65a62e5e375f6"
+    },
+    {
+      "job_id": "canvas-0004-chapter-knowledge-map-node-toc-017",
+      "image_observations": [
+        "节图共 64 个节点、50 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "d51cefde8e16ad780fabe6a8d1022f0d02663c6760f0b55d3bc929483fab16f1",
+      "png_sha256": "eb887f7d7872bf689d038fb13abb6762cfbdc1d107447c2d9a4679ca1caaaeb6"
+    },
+    {
+      "job_id": "canvas-0005-chapter-knowledge-map-node-toc-028",
+      "image_observations": [
+        "节图共 76 个节点、56 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "43faae1a51e230f58729f79e6c776cf08c2e544fc707699763604b49078a365a",
+      "png_sha256": "315228b0b70cb8c98dae0ca67e4877910ae92015ebd3d46adc9408bea04281b7"
+    },
+    {
+      "job_id": "canvas-0006-chapter-knowledge-map-node-toc-042",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "c16300ffe213911b39b6f0cb7683cedb2675e61448fe8e1d641d1ff6180668f7",
+      "png_sha256": "7e76f92c9002704fbc4481331524e86ddaf2564896d3577b5cfd403f5d0856ca"
+    },
+    {
+      "job_id": "canvas-0007-chapter-knowledge-map-node-toc-043",
+      "image_observations": [
+        "节图共 95 个节点、79 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "a66b9354821ac88c5558db91c6662ce2ed7918a7253cacf690759733fb2a2f89",
+      "png_sha256": "e62cf497936fc01ea20d3bfd3c54aaba75d99ac2a9d4c9634965fa86220e270e"
+    },
+    {
+      "job_id": "canvas-0008-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "d5222961ef9d531deb5822f6bed425cd577e58bd9577b5c611afc4476794ee87",
+      "png_sha256": "df7b09020eaab991c0f5a6b3090262c752f4673b4fc255aa2aada3917988375a"
+    },
+    {
+      "job_id": "canvas-0009-section-detail-map-node-toc-002",
+      "image_observations": [
+        "节图共 14 个节点、9 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "210922ee33f06a5c244e0c664a15e9eae135f109367fd7d9d054fa48e381958d",
+      "png_sha256": "172c89cd8623091c5706360b483bc80f85d2f7b21ba2f302d1f0de00b46aae23"
+    },
+    {
+      "job_id": "canvas-0010-section-detail-map-node-toc-003",
+      "image_observations": [
+        "节图共 11 个节点、7 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "5d02006e2ca17acfc97bacf1fb6da7e78e27dd006ad33b3c7372552210aa26d6",
+      "png_sha256": "e8b092d5de48ee617a7d73db254163c287bde29c30601fe92b4650db4315dcfc"
+    },
+    {
+      "job_id": "canvas-0011-section-detail-map-node-toc-004",
+      "image_observations": [
+        "节图共 20 个节点、14 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "7d5f2e0878bf059edf3c761573d32142435cd36dcf095a9bcaa754b2a277e824",
+      "png_sha256": "1da768b5618752e958106446143f9a4684d4d30f6ebf0a57c9e947e6528d41a7"
+    },
+    {
+      "job_id": "canvas-0012-section-detail-map-node-toc-005",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "1454fb522b5a0d47e8a9cdacf9e276184c09d085719ef31abd207f47105cd5c0",
+      "png_sha256": "9207b2257040f87570e5f0ae1ed54645ab2ab7a54ac44ed9dda1220e3a92c15f"
+    },
+    {
+      "job_id": "canvas-0013-section-detail-map-node-toc-006",
+      "image_observations": [
+        "节图共 17 个节点、13 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "f393c7506b0ebee32ef52744e3909060d34b5a2e7cbb16690ea6e213adeaba11",
+      "png_sha256": "39ed3bb139b04a917e51f202ea3976d25236815185b102d4b8cec67393af57ff"
+    },
+    {
+      "job_id": "canvas-0014-section-detail-map-node-toc-007",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "1ab06bf5621014658b948c055c1f6364269552b32b4c5fc4442786e8a7b2a3db",
+      "png_sha256": "a5216e43ad7db94a4c70efa020d89ed78f9a567d64358080ab7580f6e8673962"
+    },
+    {
+      "job_id": "canvas-0015-section-detail-map-node-toc-008",
+      "image_observations": [
+        "节图共 15 个节点、10 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "ba3bcd3027dc78cb8fe867761c1cba74d4e114e3b6a2994e057d8ce94ffaaa02",
+      "png_sha256": "b5cc0c1fbf417989c7dd5fdb97bae941b574b082be21f990fc3d3108014fe69c"
+    },
+    {
+      "job_id": "canvas-0016-section-detail-map-node-toc-009",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "62246a34cc6db20e7d2da9e8c560fe2c146130a31f895e1c7afe735eb92c2870",
+      "png_sha256": "f0584bb7a7d760a21acf42d7cafa273b7c22c03742b08f2546ee8a89f2a5a08f"
+    },
+    {
+      "job_id": "canvas-0017-section-detail-map-node-toc-010",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "77b78033d7d2e64ca89ea5b38a6f163ffbaa5e86b9c2fc57c73e18b3263c2125",
+      "png_sha256": "a14bda1b738debc615d0e42e1309dadad355cc4be3f0ae1cbf392d06ca2e727f"
+    },
+    {
+      "job_id": "canvas-0018-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "5adda4b5b71bc260dffca66ddc419a60fc371abb8e44d9f760ef86b5ae5cf408",
+      "png_sha256": "bc024dfebdfd3f9a19a3eca7fe705d03523dd34afc3e3bb943e80a65ce3014d9"
+    },
+    {
+      "job_id": "canvas-0019-section-detail-map-node-toc-012",
+      "image_observations": [
+        "节图共 15 个节点、11 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "9dcac93515383043948c7fa2cccb37370e95da05c63816f8727681d0c0dedfae",
+      "png_sha256": "ffcc74d4f83f2e1a3f5ae535618f7acbd779e203d353e5fddc251e43ac51ceee"
+    },
+    {
+      "job_id": "canvas-0020-section-detail-map-node-toc-013",
+      "image_observations": [
+        "节图共 10 个节点、4 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "97733cbe12a3139f7ed10f087854cc6f8fb4b485b7f3208a81662404f9612b69",
+      "png_sha256": "2c7f1fa9c7aa35389f34e1e1d697a30ba4d50fab78786b0e834716d673197ca2"
+    },
+    {
+      "job_id": "canvas-0021-section-detail-map-node-toc-014",
+      "image_observations": [
+        "节图共 9 个节点、4 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "47e3f88009088f86844d7396fcfed003b007556e4c2ddbcaa97d8a65b282dc2f",
+      "png_sha256": "1a487560553ef8ab57520ad1df0eac868218d510389ccb41a60489cb9cc8235c"
+    },
+    {
+      "job_id": "canvas-0022-section-detail-map-node-toc-015",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "471cf13bb16299a657df094a7b28c25241579d6bef0feca09082ad6d881cf32a",
+      "png_sha256": "c39e3774ea94f836bc3fdee1aabbe4ebde731d61e5ecfc8858d178e30d77b41b"
+    },
+    {
+      "job_id": "canvas-0023-section-detail-map-node-toc-016",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "b1f32b545c1f59da489610c1fc07f1224c1ff5650cea621d48658d2726653c0e",
+      "png_sha256": "b47699f00eda1b7aaeada975e2e4c8728deb4c6f3dccc066037a39ad2ee848e7"
+    },
+    {
+      "job_id": "canvas-0024-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "21ec5de0a9ee825162bb6c4a2e5240af6941bc68436a3569c91d108be7ea5ad3",
+      "png_sha256": "840f14727c835d2f7cb403bd2b0541d52835927247cef0a57999bfc617b6eca0"
+    },
+    {
+      "job_id": "canvas-0025-section-detail-map-node-toc-018",
+      "image_observations": [
+        "节图共 22 个节点、18 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "c50beb5f4e7a41293c18816ee965bf3ca03ab511ca50025df7a6792266ddf1c0",
+      "png_sha256": "049c609460238f9d1b8932a648bd234aec4decee3a0db70e7b405de1452fd757"
+    },
+    {
+      "job_id": "canvas-0026-section-detail-map-node-toc-019",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "9be71b5a4ad1ece4edc54559ca93e89e2e46e8f34a7c3a245f05330b5cebab03",
+      "png_sha256": "26301455d385aa8e5f1a4160511fbbd73a61f450c5337639ba1c9033ef0e132f"
+    },
+    {
+      "job_id": "canvas-0027-section-detail-map-node-toc-020",
+      "image_observations": [
+        "节图共 23 个节点、17 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "130116492bcf3feea733bf7a8744820eab19c764a8d2e4c679512705d206c62d",
+      "png_sha256": "d3ceceed7b27774965872e38f0fd9d6bd6778b928a5728cb28f8ee40147a7ad4"
+    },
+    {
+      "job_id": "canvas-0028-section-detail-map-node-toc-021",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "20bb99395eea777e95782b2c9765ce87f83379dc2d7da2377a54c8c4d68fc3d1",
+      "png_sha256": "c750379f46ea952bed2c45ebed6518d71ea025316d3dd25158a318ced36d0820"
+    },
+    {
+      "job_id": "canvas-0029-section-detail-map-node-toc-022",
+      "image_observations": [
+        "节图共 10 个节点、5 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "8565133acd146e3a3e4f286345a9dceafaa57ee1b256cfad6ec8883bd3618ee2",
+      "png_sha256": "0b76a05dc940481db4dd74c82432b4fdb989f6f8988413a46f5f0379c0685362"
+    },
+    {
+      "job_id": "canvas-0030-section-detail-map-node-toc-023",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "db3f5d946f484f84c2e34294cf52401c670caa2e6b4ee2c9615d0448c49946b5",
+      "png_sha256": "d1c48437e9872ce804f71320059825f28a7add015eb2aedb35aed53a3087c02a"
+    },
+    {
+      "job_id": "canvas-0031-section-detail-map-node-toc-024",
+      "image_observations": [
+        "节图共 9 个节点、3 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "d0a45376beee19cb498c8d32a116473a804ac7f5137b87e5fca68300047063d0",
+      "png_sha256": "5bbd601255fb996d0093e70e528a69024d42853147544b7896b52053d9ea129e"
+    },
+    {
+      "job_id": "canvas-0032-section-detail-map-node-toc-025",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "2afe22d989cb617414ab7d293f52ebe882bd3c1cae8c374b175e4c626401f4e4",
+      "png_sha256": "862776097231a35544c00e9860318668935ba06230c6297a04d75216a4240358"
+    },
+    {
+      "job_id": "canvas-0033-section-detail-map-node-toc-026",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "4fb82fe4f9d4ce8250c20172c94fa27a91c703e8f601c7798e3f750807d1e578",
+      "png_sha256": "5681ab599a5aed42efb030b64c3688cc3f5932c98482ce1ca52c81a92f837e02"
+    },
+    {
+      "job_id": "canvas-0034-section-detail-map-node-toc-027",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "791c7994bb9437b397642af7d8223076ff9ddb757a6b314a89f14850de6cb078",
+      "png_sha256": "6ead2f38507a014dc96e2b158d018a43366963e6bf5c6e22cce89e2527aa0d8d"
+    },
+    {
+      "job_id": "canvas-0035-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "724ea785159c2f76152b7842aa50b6dfdee12cf9990eceb8f5f0281daa5f4f22",
+      "png_sha256": "7405a4185c5b50a164fb186543316e5e600819be44e856ae48c470938a4873cb"
+    },
+    {
+      "job_id": "canvas-0036-section-detail-map-node-toc-029",
+      "image_observations": [
+        "节图共 14 个节点、8 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "d3dba95072bc5d29c191a1678ff9abfdabe36f561ecbe3b2625aa0c47d67650e",
+      "png_sha256": "123b92a6c7ed131ca8346561debcee2b9c1afd87ecfe59ec75a3cbafb576091b"
+    },
+    {
+      "job_id": "canvas-0037-section-detail-map-node-toc-030",
+      "image_observations": [
+        "节图共 15 个节点、8 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "b4469accd63d173dd208fab8ffac97266b84bd265a1aff5d38c2ddd3f7c882e1",
+      "png_sha256": "fae871c2a1de58705bc0db65938b7d7897c9d57532ccb75ffdbf0b22379cb76c"
+    },
+    {
+      "job_id": "canvas-0038-section-detail-map-node-toc-032",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "75a1edb860e198c05f057a10f54fe035a5ad9532d818487ec9d8dd96abed195f",
+      "png_sha256": "82be7abccf95746b06df962fbe78a13efa09db9282c01055795b41ac3bcc0c4c"
+    },
+    {
+      "job_id": "canvas-0039-section-detail-map-node-toc-033",
+      "image_observations": [
+        "节图共 15 个节点、9 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "333a81d63ff7252605ad8505718756c2a174ec7df5dac4aa9789852b38602003",
+      "png_sha256": "fd0a4c454bd1febeb231338ea579aa5ba964f9d3374af0457ffff82b245273b0"
+    },
+    {
+      "job_id": "canvas-0040-section-detail-map-node-toc-034",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "2c0f7fc255f8c19f4c309753838539dda58dd9238ebd0a38b0e82b311552fd6f",
+      "png_sha256": "53ce4f659b1207cce2fd227b9c0f621f34b08af92cead691b00481a740ae37ac"
+    },
+    {
+      "job_id": "canvas-0041-section-detail-map-node-toc-035",
+      "image_observations": [
+        "节图共 20 个节点、14 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "bbb6b045050285a293071331ca29e2eb2d9decbc5324adc003a78eaba737324a",
+      "png_sha256": "33cb4d29d2755871a9db73e21e3caeae83450bc21f7224af82d0a9fb5c86f3b2"
+    },
+    {
+      "job_id": "canvas-0042-section-detail-map-node-toc-037",
+      "image_observations": [
+        "节图共 24 个节点、17 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "40f91c88bc6e28a0596dd2401b37be6ae780fbc71ae14bf54f00d3d24372e580",
+      "png_sha256": "a450db32c366b43a360c424b589467893aca699f17496f1bed47db7691edef66"
+    },
+    {
+      "job_id": "canvas-0043-section-detail-map-node-toc-039",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "3bea336847f185f275744549abf14c6ddeb1f6a30112bcb37f59242829f5b1e7",
+      "png_sha256": "2ed2f3fa5b235ae94950e0654b71ec9835b8e927a268f5e663453d16416ebce2"
+    },
+    {
+      "job_id": "canvas-0044-section-detail-map-node-toc-040",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "295f47aead9e66cdb6a41237dc45d469a2cdab7286bd4bffbad9cd202e4e5ced",
+      "png_sha256": "a5afd53d6655045d7f1a4e7b0ab6eb1c379b0a9dac314ccccdbc42758768b3bb"
+    },
+    {
+      "job_id": "canvas-0045-section-detail-map-node-toc-041",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "dbd77398cd2c268bf69acda0c295bfc6bdfaa46be9e27bd5c96873c415943a78",
+      "png_sha256": "9780fd396fc2506aef9f5915c09f60f2ed0d1aa2d4f5b308a53aef90608f3bba"
+    },
+    {
+      "job_id": "canvas-0046-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "cdf729a9d734c229703398f9277d0ce39152aebfbbbe79845f35236c0fa16486",
+      "png_sha256": "f27984f1606a5426ad36547a6c4b00e552ce8563e2bf98fcd0cb804dde40c90b"
+    },
+    {
+      "job_id": "canvas-0047-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "6c52c3115bbc7e848c8b2da27c376061d9cddf9b5cc4a0e5f7e4ebe7ca42d0d6",
+      "png_sha256": "82c2ec248a6dac8f4d6307db78e799b116d39eed5e6245a56147c1c33eaf7382"
+    },
+    {
+      "job_id": "canvas-0048-section-detail-map-node-toc-044",
+      "image_observations": [
+        "节图共 16 个节点、11 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "0a41bdb2561d348dcbbcedefc86c0a3214c98b58bd0876d7715558e3aeb8fc8d",
+      "png_sha256": "17d38b6c8f071abf4b21b45c839cc5c6aeff6dc7170d2a9f744e431ab18b3d08"
+    },
+    {
+      "job_id": "canvas-0049-section-detail-map-node-toc-045",
+      "image_observations": [
+        "节图共 16 个节点、11 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "626f4a1f25c9396d2f5ecfa118c5653dd08137ae291569b43a08530a37b59618",
+      "png_sha256": "cb26557abd9ab554156d8112ff9bd885582646216e4b88053b2e367d06994afa"
+    },
+    {
+      "job_id": "canvas-0050-section-detail-map-node-toc-046",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "c9ae9a219c733286439bc87f8bcf4848b5e7f2d2176d8a6789b06cf640189369",
+      "png_sha256": "e3e6678b3cd700f1084699451d78ca9cbb23d9625dc33acaba7ebabf7d3a719c"
+    },
+    {
+      "job_id": "canvas-0051-section-detail-map-node-toc-047",
+      "image_observations": [
+        "节图共 10 个节点、6 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "eb893413e8538920d2c78cdbc0ba2072beaa3b73a2b25785f7f593d556c41bd3",
+      "png_sha256": "6e1bbf4931ac10a00501d17025589d0f6d37b446956be144da3a39803ecadbc3"
+    },
+    {
+      "job_id": "canvas-0052-section-detail-map-node-toc-048",
+      "image_observations": [
+        "节图共 31 个节点、27 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "e2129bcff390b9a87d6e51aa06a49d938ad5ce022c065bee882d58bc9c74abb8",
+      "png_sha256": "3f9b0878fee3db38296def4d02bd359f3e52b47919b8014321fc692de60944ef"
+    },
+    {
+      "job_id": "canvas-0053-section-detail-map-node-toc-051",
+      "image_observations": [
+        "节图共 28 个节点、20 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "0c2ba6f3b11cb451b22e1e470d400162d476992a08668c1a1072354c8cb759a6",
+      "png_sha256": "d69a452baf282397e987a19d761a4355299ae62db8eb3fd6eefc5622827da4e9"
+    },
+    {
+      "job_id": "canvas-0054-section-detail-map-node-toc-053",
+      "image_observations": [
+        "节图共 12 个节点、5 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "f10715d42622cbc8632c605ba7a9c9548db4ac400d780a4522e6ec0842a71915",
+      "png_sha256": "a41a2ababa80989d9e7a84c7cecf051cddd66ca06e08ce65ee5e6a8d4b73f583"
+    },
+    {
+      "job_id": "canvas-0055-section-detail-map-node-toc-054",
+      "image_observations": [
+        "节图共 8 个节点、2 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "03ae300510ecfe4c8a98e5907c23ee5d47a8b754ed4a5b595e404d842195769a",
+      "png_sha256": "e143f69f471b2271db5339b0b907ed9c24201228147d3954f18d33477dfea40d"
+    },
+    {
+      "job_id": "canvas-0056-section-detail-map-node-toc-055",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "e944f200108ab95d4d421cb2a0dccd020493283213993db4d465540a1a7ba77b",
+      "png_sha256": "179e44328d6b41935eb7aec55794709871d98af813056ba23888e3ec28c4e5e3"
+    },
+    {
+      "job_id": "canvas-0057-section-detail-map-node-toc-056",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "0ad8f911f664cb22938ac986200fb00c356abc31091ac37e786e2158ed75de6c",
+      "png_sha256": "87c44d2feda1edc210c9929e70a3b10f9e998c3172dfd1cc043e5ffee9454c28"
+    },
+    {
+      "job_id": "canvas-0058-section-detail-map-node-toc-057",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": [],
+      "canvas_sha256": "5505d2c9e270c347e74d833367c466a8a39aba76921b55b253a4eadd6f1bfdcb",
+      "png_sha256": "6ad36d209721f6f13d72a76e971c331670fd810d9a740be031c836acf9cbb957"
+    }
+  ],
+  "artifact_sha256": "619692660359d8f8febce56139a26d00cc158d687e0f90fd75238802d3d08f6b"
+}

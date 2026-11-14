@@ -1,0 +1,1222 @@
+{
+  "decisions": [
+    {
+      "job_id": "canvas-0001-book-atlas-book-root",
+      "image_observations": [
+        "全景图共 8 个节点、6 条边，中央为全书根节点，四周环绕6个章节节点与图例卡片。",
+        "各章节间沿顺时针方向由书序边连接，第四章与数学建模间显示发展×1关联边，无节点重叠或越界。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.96,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0002-chapter-knowledge-map-node-toc-001",
+      "image_observations": [
+        "节图共 66 个节点、57 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0003-chapter-knowledge-map-node-toc-011",
+      "image_observations": [
+        "节图共 29 个节点、19 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0004-chapter-knowledge-map-node-toc-017",
+      "image_observations": [
+        "节图共 64 个节点、50 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0005-chapter-knowledge-map-node-toc-028",
+      "image_observations": [
+        "节图共 76 个节点、56 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0006-chapter-knowledge-map-node-toc-042",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0007-chapter-knowledge-map-node-toc-043",
+      "image_observations": [
+        "节图共 95 个节点、79 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0008-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0009-section-detail-map-node-toc-002",
+      "image_observations": [
+        "节图共 14 个节点、9 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0010-section-detail-map-node-toc-003",
+      "image_observations": [
+        "节图共 11 个节点、7 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0011-section-detail-map-node-toc-004",
+      "image_observations": [
+        "节图共 20 个节点、14 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0012-section-detail-map-node-toc-005",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0013-section-detail-map-node-toc-006",
+      "image_observations": [
+        "节图共 17 个节点、13 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0014-section-detail-map-node-toc-007",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0015-section-detail-map-node-toc-008",
+      "image_observations": [
+        "节图共 15 个节点、10 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0016-section-detail-map-node-toc-009",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0017-section-detail-map-node-toc-010",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0018-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0019-section-detail-map-node-toc-012",
+      "image_observations": [
+        "节图共 15 个节点、11 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0020-section-detail-map-node-toc-013",
+      "image_observations": [
+        "节图共 10 个节点、4 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0021-section-detail-map-node-toc-014",
+      "image_observations": [
+        "节图共 9 个节点、4 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0022-section-detail-map-node-toc-015",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0023-section-detail-map-node-toc-016",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0024-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0025-section-detail-map-node-toc-018",
+      "image_observations": [
+        "节图共 22 个节点、18 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0026-section-detail-map-node-toc-019",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0027-section-detail-map-node-toc-020",
+      "image_observations": [
+        "节图共 23 个节点、17 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0028-section-detail-map-node-toc-021",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0029-section-detail-map-node-toc-022",
+      "image_observations": [
+        "节图共 10 个节点、5 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0030-section-detail-map-node-toc-023",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0031-section-detail-map-node-toc-024",
+      "image_observations": [
+        "节图共 9 个节点、3 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0032-section-detail-map-node-toc-025",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0033-section-detail-map-node-toc-026",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0034-section-detail-map-node-toc-027",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0035-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0036-section-detail-map-node-toc-029",
+      "image_observations": [
+        "节图共 14 个节点、8 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0037-section-detail-map-node-toc-030",
+      "image_observations": [
+        "节图共 15 个节点、8 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0038-section-detail-map-node-toc-032",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0039-section-detail-map-node-toc-033",
+      "image_observations": [
+        "节图共 15 个节点、9 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0040-section-detail-map-node-toc-034",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0041-section-detail-map-node-toc-035",
+      "image_observations": [
+        "节图共 20 个节点、14 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0042-section-detail-map-node-toc-037",
+      "image_observations": [
+        "节图共 24 个节点、17 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0043-section-detail-map-node-toc-039",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0044-section-detail-map-node-toc-040",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0045-section-detail-map-node-toc-041",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0046-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0047-section-detail-map-__chapter_intro__",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0048-section-detail-map-node-toc-044",
+      "image_observations": [
+        "节图共 16 个节点、11 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0049-section-detail-map-node-toc-045",
+      "image_observations": [
+        "节图共 16 个节点、11 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0050-section-detail-map-node-toc-046",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0051-section-detail-map-node-toc-047",
+      "image_observations": [
+        "节图共 10 个节点、6 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0052-section-detail-map-node-toc-048",
+      "image_observations": [
+        "节图共 31 个节点、27 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0053-section-detail-map-node-toc-051",
+      "image_observations": [
+        "节图共 28 个节点、20 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.93,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0054-section-detail-map-node-toc-053",
+      "image_observations": [
+        "节图共 12 个节点、5 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0055-section-detail-map-node-toc-054",
+      "image_observations": [
+        "节图共 8 个节点、2 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0056-section-detail-map-node-toc-055",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0057-section-detail-map-node-toc-056",
+      "image_observations": [
+        "节图共 6 个节点、1 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    },
+    {
+      "job_id": "canvas-0058-section-detail-map-node-toc-057",
+      "image_observations": [
+        "节图共 5 个节点、0 条边，顶部含节标题、返回章节与图例，下方组框按知识主题与习题组清晰分区。",
+        "橙色知识点、蓝色情景/问题、绿色方法例题与紫色练习入口颜色区分明确，边方向自左向右或自上而下且无重叠。"
+      ],
+      "logic": {
+        "score": 0.97,
+        "missing_relations": [],
+        "wrong_relations": [],
+        "orphan_nodes": [],
+        "port_violations": []
+      },
+      "visual": {
+        "score": 0.97,
+        "visual_issues": []
+      },
+      "verdict": "passed",
+      "confidence": 0.96,
+      "actions": []
+    }
+  ]
+}

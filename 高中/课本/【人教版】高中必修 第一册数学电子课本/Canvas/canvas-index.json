@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
-  "manifest": "/Users/oven/Documents/ovenmathmap/.temp/book-wiki-graph-staging/【人教版】高中必修 第一册数学电子课本/book-graph.json",
-  "manifest_sha256": "a3312455ac5cf15c1afda7819eb523b7d15ab26c3d7917ce33ed5c803c25ae5f",
+  "manifest": "/Users/oven/Documents/ovenmathmap/高中/课本/【人教版】高中必修 第一册数学电子课本/book-graph.json",
+  "manifest_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
   "book_root": "/Users/oven/Documents/ovenmathmap/高中/课本/【人教版】高中必修 第一册数学电子课本",
   "relation_status": "passed",
   "layout": {
@@ -356,7 +356,7 @@
         }
       ],
       "png_path": "chapters/01-第一章-集合与常用逻辑用语-75a20e.png",
-      "png_sha256": "edad16ccf72eab76152e1a4cb9b5ea282091d5b04dbff87032cbb828b575eb0f",
+      "png_sha256": "864697fb9723b5339b776c71c1d77773b06991e2656ae763e4f76106cd3ab97c",
       "png_dimensions": [
         2400,
         180
@@ -505,7 +505,7 @@
         }
       ],
       "png_path": "chapters/02-第二章-一元二次函数、方程和不等式-9775d4.png",
-      "png_sha256": "c646b821281852e4905692c11fcc2e1fa4dd3c1e76dc888cc3e65a62e5e375f6",
+      "png_sha256": "b0528e2b79c37af0e2a9a2c6fe7b8fba43e5696f1cccf94c2f4019cec49d0611",
       "png_dimensions": [
         2400,
         328
@@ -517,13 +517,13 @@
       "status": "ready",
       "path": "chapters/03-第三章-函数的概念与性质-8c58a6.canvas",
       "counts": {
-        "cards": 45,
+        "cards": 47,
         "groups": 17,
-        "edges": 47,
-        "internal_atoms": 31,
-        "source_atoms": 124,
-        "knowledge_atoms": 16,
-        "scenario_atoms": 12,
+        "edges": 50,
+        "internal_atoms": 33,
+        "source_atoms": 126,
+        "knowledge_atoms": 17,
+        "scenario_atoms": 13,
         "featured_examples": 3,
         "exercise_atoms_summarized": 80,
         "exercise_atoms_collapsed": 0,
@@ -532,7 +532,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 0,
         "concept_hubs": 0,
-        "atom_relation_edges": 31,
+        "atom_relation_edges": 34,
         "concept_relation_edges": 15,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -544,16 +544,16 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 11772,
-        "height": 1278,
-        "aspect_ratio": 9.2113
+        "width": 14652,
+        "height": 924,
+        "aspect_ratio": 15.8571
       },
       "visual_quality": {
-        "straight_crossing_estimate": 1,
-        "edge_length_median": 572,
-        "edge_length_p90": 1105,
-        "edge_length_max": 1220,
-        "edges_over_2000": 0,
+        "straight_crossing_estimate": 3,
+        "edge_length_median": 587,
+        "edge_length_p90": 1144,
+        "edge_length_max": 2786,
+        "edges_over_2000": 2,
         "practice_edge_share": 0.0
       },
       "organization_groups": [
@@ -617,8 +617,10 @@
           "parent_id": "d0d74041204674df",
           "member_ids": [
             "3efce4b8fff759ef",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "bce640a48326da83",
-            "cd35521f2335e7df"
+            "ca7c3152197bcbb5"
           ]
         },
         {
@@ -635,9 +637,11 @@
           "parent_id": "011e040728fd01d5",
           "member_ids": [
             "3efce4b8fff759ef",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "6f47280578ff3dbc",
             "bce640a48326da83",
-            "cd35521f2335e7df"
+            "ca7c3152197bcbb5"
           ]
         },
         {
@@ -658,11 +662,13 @@
             "0c3d3b9e31fd36a0",
             "18a68e565e6f0010",
             "3efce4b8fff759ef",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "6f47280578ff3dbc",
             "a51be35adad24bbe",
             "bce640a48326da83",
             "bd20bcd71346b38b",
-            "cd35521f2335e7df",
+            "ca7c3152197bcbb5",
             "e4944391a0105488"
           ]
         },
@@ -749,6 +755,8 @@
             "458d8cba098cf374",
             "49303c6a96b9bd38",
             "4f1fe1962aa1a26d",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "6061c387ab2bd775",
             "6a80498d2f5e9b04",
             "6e1770239f846025",
@@ -767,8 +775,8 @@
             "b9fbe67a5434183a",
             "bce640a48326da83",
             "bd20bcd71346b38b",
+            "ca7c3152197bcbb5",
             "cac669a8ef10eeef",
-            "cd35521f2335e7df",
             "d6ff0e436b89fbef",
             "d81dcdf15ce0fd60",
             "e11ef0d80252d330",
@@ -782,10 +790,10 @@
         }
       ],
       "png_path": "chapters/03-第三章-函数的概念与性质-8c58a6.png",
-      "png_sha256": "9373d8ce04b4067c1d022fa2239188f2080d15ef5c573c847ed62706b8af35e7",
+      "png_sha256": "55f11da3282c5ecc8a227b874a7c3a1f872f958aa6e75838d40b703a802b1bae",
       "png_dimensions": [
         2400,
-        290
+        176
       ]
     },
     {
@@ -794,12 +802,12 @@
       "status": "ready",
       "path": "chapters/04-第四章-指数函数与对数函数-3702e5.canvas",
       "counts": {
-        "cards": 49,
+        "cards": 50,
         "groups": 26,
-        "edges": 55,
-        "internal_atoms": 34,
-        "source_atoms": 162,
-        "knowledge_atoms": 23,
+        "edges": 56,
+        "internal_atoms": 35,
+        "source_atoms": 163,
+        "knowledge_atoms": 24,
         "scenario_atoms": 10,
         "featured_examples": 1,
         "exercise_atoms_summarized": 106,
@@ -809,7 +817,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 0,
         "concept_hubs": 0,
-        "atom_relation_edges": 32,
+        "atom_relation_edges": 33,
         "concept_relation_edges": 22,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -821,15 +829,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 14192,
-        "height": 1532,
-        "aspect_ratio": 9.2637
+        "width": 19512,
+        "height": 892,
+        "aspect_ratio": 21.8744
       },
       "visual_quality": {
-        "straight_crossing_estimate": 4,
+        "straight_crossing_estimate": 3,
         "edge_length_median": 552,
-        "edge_length_p90": 972,
-        "edge_length_max": 1071,
+        "edge_length_p90": 1083,
+        "edge_length_max": 1564,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -1027,8 +1035,9 @@
           "node_id": "687ff317f90b8ef6",
           "parent_id": "8fd2dbc1f1b2c5ed",
           "member_ids": [
+            "33478366d04a60d8",
+            "3e1f59e3c3d493ad",
             "44aedd51d1ba2c76",
-            "92292b94eac4e180",
             "c5bdae8d8a76c737",
             "cda9b72c9ea80b2b",
             "f004e37d1fab1d58"
@@ -1040,9 +1049,10 @@
           "parent_id": "30ec2d0f130da97e",
           "member_ids": [
             "177bce0dca494143",
+            "33478366d04a60d8",
+            "3e1f59e3c3d493ad",
             "431d6ba4cc9b4c36",
             "44aedd51d1ba2c76",
-            "92292b94eac4e180",
             "9c8bfe842d8d1b45",
             "a6bb53cac602c313",
             "bc9dba14228cd051",
@@ -1094,6 +1104,8 @@
             "203f07f4b8f2189c",
             "2a8368f7e63be80a",
             "2d44093cc9655c72",
+            "33478366d04a60d8",
+            "3e1f59e3c3d493ad",
             "431d6ba4cc9b4c36",
             "44aedd51d1ba2c76",
             "4705ec85b9ee75d0",
@@ -1106,7 +1118,6 @@
             "6bddfa1fa083e6d9",
             "7ee4b8bcb3745c03",
             "84fe10d57137a1a3",
-            "92292b94eac4e180",
             "96db1810b6a69f92",
             "983dc8ad60dece22",
             "9c8bfe842d8d1b45",
@@ -1133,10 +1144,10 @@
         }
       ],
       "png_path": "chapters/04-第四章-指数函数与对数函数-3702e5.png",
-      "png_sha256": "625bc4e4893fab4bd751e2447549f67fc48edf355079729101705936dd4d4cd9",
+      "png_sha256": "901fc0044480fc3e1572c12ee4503859eba2b6c1587831273e32f466301fed9d",
       "png_dimensions": [
         2400,
-        283
+        129
       ]
     },
     {
@@ -1196,7 +1207,7 @@
         }
       ],
       "png_path": "chapters/05-数学建模-建立函数模型解决实际问题-a2f4dd.png",
-      "png_sha256": "7e76f92c9002704fbc4481331524e86ddaf2564896d3577b5cfd403f5d0856ca",
+      "png_sha256": "9d83f829ae98d17b38a0138a17394c8a80a92e817612fc41ad438b8b267c7890",
       "png_dimensions": [
         2400,
         1312
@@ -1635,7 +1646,7 @@
         }
       ],
       "png_path": "chapters/06-第五章-三角函数-c80f27.png",
-      "png_sha256": "e62cf497936fc01ea20d3bfd3c54aaba75d99ac2a9d4c9634965fa86220e270e",
+      "png_sha256": "1499e6e0c7b05d5a8e2960108989a1f8bd74cbf84471b58668e50a54cad5e409",
       "png_dimensions": [
         2400,
         154
@@ -1701,7 +1712,7 @@
         }
       ],
       "png_path": "sections/01-01-章引入-55b0cf.png",
-      "png_sha256": "df7b09020eaab991c0f5a6b3090262c752f4673b4fc255aa2aada3917988375a",
+      "png_sha256": "9542cd7a34f12177aac0cfd305f7ec7cb4e9cbae69ffee4ffb8c44db76db5d1d",
       "png_dimensions": [
         2400,
         1263
@@ -1790,7 +1801,7 @@
         }
       ],
       "png_path": "sections/01-02-1.1-集合的概念-f18845.png",
-      "png_sha256": "23916ad4faef4af98885931703f912713ccf097c19c54074c8d8595a89fe3763",
+      "png_sha256": "2984bb3adcd51f274301ea072e503c0186ed083031166d95e95e1e79184de2b4",
       "png_dimensions": [
         2400,
         929
@@ -1866,7 +1877,7 @@
         }
       ],
       "png_path": "sections/01-03-1.2-集合间的基本关系-798c6c.png",
-      "png_sha256": "e8b092d5de48ee617a7d73db254163c287bde29c30601fe92b4650db4315dcfc",
+      "png_sha256": "0c0cd9471cb30bc721172cbeaf702bb59c7fe30ef72a13513adcacea7815088b",
       "png_dimensions": [
         2400,
         1141
@@ -1979,7 +1990,7 @@
         }
       ],
       "png_path": "sections/01-04-1.3-集合的基本运算-43a38d.png",
-      "png_sha256": "9bb80957a8bac7f60ea6f225ad14c13c25c3ebcb19b1fac426c060b06449ca50",
+      "png_sha256": "5bfd6e39db771d1d1ec38c208cb2fa453772578682b0c20bf358cd03a5d3e24c",
       "png_dimensions": [
         2400,
         555
@@ -2043,7 +2054,7 @@
         }
       ],
       "png_path": "sections/01-05-阅读与思考-集合中元素的个数-c26549.png",
-      "png_sha256": "9207b2257040f87570e5f0ae1ed54645ab2ab7a54ac44ed9dda1220e3a92c15f",
+      "png_sha256": "983688f6b9ca94641ec36c548a8179c3d09d57eae6797c9742b54fcbe993b8db",
       "png_dimensions": [
         2400,
         1263
@@ -2145,7 +2156,7 @@
         }
       ],
       "png_path": "sections/01-06-1.4-充分条件与必要条件-91847a.png",
-      "png_sha256": "39ed3bb139b04a917e51f202ea3976d25236815185b102d4b8cec67393af57ff",
+      "png_sha256": "90fc958f6a29446c113eb190f50f577ec1f10e961d70e74452a77d6162e2ad93",
       "png_dimensions": [
         2400,
         537
@@ -2209,7 +2220,7 @@
         }
       ],
       "png_path": "sections/01-07-阅读与思考-几何命题与充分条件、必要条件-d98d2e.png",
-      "png_sha256": "a5216e43ad7db94a4c70efa020d89ed78f9a567d64358080ab7580f6e8673962",
+      "png_sha256": "943c1182f9541f02d9f5f42f56f6af18ba13b672a98edcf4a41a12edca09cd4b",
       "png_dimensions": [
         2400,
         1263
@@ -2307,7 +2318,7 @@
         }
       ],
       "png_path": "sections/01-08-1.5-全称量词与存在量词-f97971.png",
-      "png_sha256": "b5cc0c1fbf417989c7dd5fdb97bae941b574b082be21f990fc3d3108014fe69c",
+      "png_sha256": "0897e971f6a49dc48d2d29c3c82ee384858e49d3e5ea833c935be76ca09ca2f7",
       "png_dimensions": [
         2400,
         685
@@ -2371,7 +2382,7 @@
         }
       ],
       "png_path": "sections/01-09-第一章-集合与常用逻辑用语-小结-8b1d45.png",
-      "png_sha256": "f0584bb7a7d760a21acf42d7cafa273b7c22c03742b08f2546ee8a89f2a5a08f",
+      "png_sha256": "e02ce36c6939fbc83098331e271508d82bdfa6065f8b355d4cd6d9424226aaa6",
       "png_dimensions": [
         2400,
         1263
@@ -2434,7 +2445,7 @@
         }
       ],
       "png_path": "sections/01-10-第一章-集合与常用逻辑用语-复习参考题-1-70ee63.png",
-      "png_sha256": "a14bda1b738debc615d0e42e1309dadad355cc4be3f0ae1cbf392d06ca2e727f",
+      "png_sha256": "6a78f89e5dbc62f7071a9efeca4d7a0bdcb10336426c03736a1727f5e1848d99",
       "png_dimensions": [
         2400,
         947
@@ -2498,7 +2509,7 @@
         }
       ],
       "png_path": "sections/02-01-章引入-edf1c8.png",
-      "png_sha256": "bc024dfebdfd3f9a19a3eca7fe705d03523dd34afc3e3bb943e80a65ce3014d9",
+      "png_sha256": "146b26723bef2b934d18ef932d65431e92a404a1095f76c7d539ea15e0189cd7",
       "png_dimensions": [
         2400,
         1263
@@ -2597,7 +2608,7 @@
         }
       ],
       "png_path": "sections/02-02-2.1-等式性质与不等式性质-bb4664.png",
-      "png_sha256": "ffcc74d4f83f2e1a3f5ae535618f7acbd779e203d353e5fddc251e43ac51ceee",
+      "png_sha256": "3303ebaaa88dba363687e2ad65a08aa020ab1fbc2e7c8a37c9ff5d9a06f4fb73",
       "png_dimensions": [
         2400,
         690
@@ -2672,7 +2683,7 @@
         }
       ],
       "png_path": "sections/02-03-2.2-基本不等式-60f712.png",
-      "png_sha256": "2c7f1fa9c7aa35389f34e1e1d697a30ba4d50fab78786b0e834716d673197ca2",
+      "png_sha256": "041efc69b6fa279a9d7b680f06ae57175d40da441f39e5bc873a80e817b97e7b",
       "png_dimensions": [
         2400,
         1896
@@ -2746,7 +2757,7 @@
         }
       ],
       "png_path": "sections/02-04-2.3-二次函数与一元二次方程、不等式-27329a.png",
-      "png_sha256": "1a487560553ef8ab57520ad1df0eac868218d510389ccb41a60489cb9cc8235c",
+      "png_sha256": "358efc4c1360350bfb927d99ef9e77451c3a19d789ec237f8dc9ecc0b540ba84",
       "png_dimensions": [
         2400,
         1590
@@ -2810,7 +2821,7 @@
         }
       ],
       "png_path": "sections/02-05-第二章-一元二次函数、方程和不等式-小结-ec8b5b.png",
-      "png_sha256": "c39e3774ea94f836bc3fdee1aabbe4ebde731d61e5ecfc8858d178e30d77b41b",
+      "png_sha256": "8c700300a6d2e450c6cc26e20309ac0987a19e0e08a602aac4ceffe97369bd23",
       "png_dimensions": [
         2400,
         1263
@@ -2873,7 +2884,7 @@
         }
       ],
       "png_path": "sections/02-06-第二章-一元二次函数、方程和不等式-复习参考题-2-24ed9f.png",
-      "png_sha256": "b47699f00eda1b7aaeada975e2e4c8728deb4c6f3dccc066037a39ad2ee848e7",
+      "png_sha256": "80457cedf65d82c9f931036925452328bef246ddfb63bff4abbbedf7ee7c5387",
       "png_dimensions": [
         2400,
         947
@@ -2937,7 +2948,7 @@
         }
       ],
       "png_path": "sections/03-01-章引入-337081.png",
-      "png_sha256": "840f14727c835d2f7cb403bd2b0541d52835927247cef0a57999bfc617b6eca0",
+      "png_sha256": "5da0c75ded2a6de92f1ea25d9193bb2af57945cc30de48166209d952d592c1ed",
       "png_dimensions": [
         2400,
         1263
@@ -3049,7 +3060,7 @@
         }
       ],
       "png_path": "sections/03-02-3.1-函数的概念及其表示-41d1f8.png",
-      "png_sha256": "bbe4adbe32aedecfc8b90b3a67bf5a77061053bce2be70b9c130635182a9228e",
+      "png_sha256": "90a26501825bcbf4ae524065f27a7c3abd0f9430d2b65e8a3e7ed409d955e9c5",
       "png_dimensions": [
         2400,
         499
@@ -3113,7 +3124,7 @@
         }
       ],
       "png_path": "sections/03-03-阅读与思考-函数概念的发展历程-5a3b0d.png",
-      "png_sha256": "26301455d385aa8e5f1a4160511fbbd73a61f450c5337639ba1c9033ef0e132f",
+      "png_sha256": "4226bc326a4abee37d0a352ae9f813fd649f5c4a2f14bb9b2dc6dd0a35343f20",
       "png_dimensions": [
         2400,
         1263
@@ -3126,13 +3137,13 @@
       "status": "ready",
       "path": "sections/03-04-3.2-函数的基本性质-001606.canvas",
       "counts": {
-        "cards": 15,
+        "cards": 17,
         "groups": 6,
-        "edges": 14,
-        "internal_atoms": 8,
-        "source_atoms": 37,
-        "knowledge_atoms": 4,
-        "scenario_atoms": 4,
+        "edges": 17,
+        "internal_atoms": 10,
+        "source_atoms": 39,
+        "knowledge_atoms": 5,
+        "scenario_atoms": 5,
         "featured_examples": 0,
         "exercise_atoms_summarized": 0,
         "exercise_atoms_collapsed": 23,
@@ -3141,7 +3152,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 4,
         "concept_hubs": 0,
-        "atom_relation_edges": 7,
+        "atom_relation_edges": 10,
         "concept_relation_edges": 3,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -3153,15 +3164,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 4372,
+        "width": 5212,
         "height": 836,
-        "aspect_ratio": 5.2297
+        "aspect_ratio": 6.2344
       },
       "visual_quality": {
         "straight_crossing_estimate": 0,
         "edge_length_median": 420,
         "edge_length_p90": 972,
-        "edge_length_max": 984,
+        "edge_length_max": 1818,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -3172,8 +3183,10 @@
           "parent_id": "0e052b8c96805114",
           "member_ids": [
             "3efce4b8fff759ef",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "bce640a48326da83",
-            "cd35521f2335e7df",
+            "ca7c3152197bcbb5",
             "e76fe60a1e5b6c3d"
           ]
         },
@@ -3193,9 +3206,11 @@
           "member_ids": [
             "3214fd90bb53e346",
             "3efce4b8fff759ef",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "6f47280578ff3dbc",
             "bce640a48326da83",
-            "cd35521f2335e7df",
+            "ca7c3152197bcbb5",
             "e76fe60a1e5b6c3d"
           ]
         },
@@ -3228,21 +3243,23 @@
             "3214fd90bb53e346",
             "3efce4b8fff759ef",
             "4464be52de2704b0",
+            "546b10c34b4a7327",
+            "5f59adb8896b2c0c",
             "6f47280578ff3dbc",
             "a51be35adad24bbe",
             "bce640a48326da83",
             "bd20bcd71346b38b",
-            "cd35521f2335e7df",
+            "ca7c3152197bcbb5",
             "e4944391a0105488",
             "e76fe60a1e5b6c3d"
           ]
         }
       ],
       "png_path": "sections/03-04-3.2-函数的基本性质-001606.png",
-      "png_sha256": "388be2b873bc501031908b81696294176d0ed6ef6164e71b48b42822132be914",
+      "png_sha256": "5d6e9279b752b2073af0416deaacf8f860b17ac9c92c8a56d6daae0f97d135b9",
       "png_dimensions": [
         2400,
-        528
+        445
       ]
     },
     {
@@ -3303,7 +3320,7 @@
         }
       ],
       "png_path": "sections/03-05-信息技术应用-用计算机绘制函数图象-b3135a.png",
-      "png_sha256": "c750379f46ea952bed2c45ebed6518d71ea025316d3dd25158a318ced36d0820",
+      "png_sha256": "960234d39dde5ab1443271248b18de1f6c5859bcdba635356f6f8650b25b7deb",
       "png_dimensions": [
         2400,
         1263
@@ -3378,7 +3395,7 @@
         }
       ],
       "png_path": "sections/03-06-3.3-幂函数-3f5957.png",
-      "png_sha256": "0b76a05dc940481db4dd74c82432b4fdb989f6f8988413a46f5f0379c0685362",
+      "png_sha256": "3509f9877cb497af2f398e83a883dad59b5c19e65096edbe7739919d61f79e42",
       "png_dimensions": [
         2400,
         1459
@@ -3442,7 +3459,7 @@
         }
       ],
       "png_path": "sections/03-07-探究与发现-探究函数-$y-=-x-+--frac{1}{x}$-的图象与性质-b7d16e.png",
-      "png_sha256": "d1c48437e9872ce804f71320059825f28a7add015eb2aedb35aed53a3087c02a",
+      "png_sha256": "9fc3a97a2086d61610b424150000ade98b332b50b25882a07c1c1e8861499988",
       "png_dimensions": [
         2400,
         1263
@@ -3516,7 +3533,7 @@
         }
       ],
       "png_path": "sections/03-08-3.4-函数的应用(一)-030e3f.png",
-      "png_sha256": "5bbd601255fb996d0093e70e528a69024d42853147544b7896b52053d9ea129e",
+      "png_sha256": "f84f6a1c87eb0192e832897b3101b9f99fc44b1ecc4ac7473ab5dd4abb4bc467",
       "png_dimensions": [
         2400,
         1569
@@ -3580,7 +3597,7 @@
         }
       ],
       "png_path": "sections/03-09-文献阅读与数学写作--函数的形成与发展-3487f5.png",
-      "png_sha256": "862776097231a35544c00e9860318668935ba06230c6297a04d75216a4240358",
+      "png_sha256": "1a99b3c391ed9867ca34fc6ea146a0207979908f0cc07d4426251260ee08a41a",
       "png_dimensions": [
         2400,
         1263
@@ -3644,7 +3661,7 @@
         }
       ],
       "png_path": "sections/03-10-第三章-函数的概念与性质-小结-4aef58.png",
-      "png_sha256": "5681ab599a5aed42efb030b64c3688cc3f5932c98482ce1ca52c81a92f837e02",
+      "png_sha256": "9958a35bd434aecce64f9e69058646517935fe5b187dee3174b1ae117d03b678",
       "png_dimensions": [
         2400,
         1263
@@ -3707,7 +3724,7 @@
         }
       ],
       "png_path": "sections/03-11-第三章-函数的概念与性质-复习参考题-3-97ef97.png",
-      "png_sha256": "6ead2f38507a014dc96e2b158d018a43366963e6bf5c6e22cce89e2527aa0d8d",
+      "png_sha256": "854693578a407418a9b033e9e92fc15717d73d3ff5167a96423c6b739a665f1a",
       "png_dimensions": [
         2400,
         947
@@ -3771,7 +3788,7 @@
         }
       ],
       "png_path": "sections/04-01-章引入-eb468b.png",
-      "png_sha256": "7405a4185c5b50a164fb186543316e5e600819be44e856ae48c470938a4873cb",
+      "png_sha256": "7df7b670b2897cb66fe4b65e49e7466b3fa1f2655e5580e2210341101066bdad",
       "png_dimensions": [
         2400,
         1263
@@ -3867,7 +3884,7 @@
         }
       ],
       "png_path": "sections/04-02-4.1-指数-c72ff3.png",
-      "png_sha256": "123b92a6c7ed131ca8346561debcee2b9c1afd87ecfe59ec75a3cbafb576091b",
+      "png_sha256": "305741676b4caac1a9bc26881d39888416afb03bc4912d2798ee9f2d59cfa496",
       "png_dimensions": [
         2400,
         796
@@ -3970,7 +3987,7 @@
         }
       ],
       "png_path": "sections/04-03-4.2-指数函数-146403.png",
-      "png_sha256": "fae871c2a1de58705bc0db65938b7d7897c9d57532ccb75ffdbf0b22379cb76c",
+      "png_sha256": "f2a265c02740166083801a22c3685b95cd46e594f1b8421d1db78ad99885dec2",
       "png_dimensions": [
         2400,
         757
@@ -4034,7 +4051,7 @@
         }
       ],
       "png_path": "sections/04-04-信息技术应用-探究指数函数的性质-bf02d1.png",
-      "png_sha256": "82be7abccf95746b06df962fbe78a13efa09db9282c01055795b41ac3bcc0c4c",
+      "png_sha256": "2053cf0a6af7b04354b5b8525d9e64f45a755f0e61f8b6d21f2455d4a3e2dc05",
       "png_dimensions": [
         2400,
         1263
@@ -4132,7 +4149,7 @@
         }
       ],
       "png_path": "sections/04-05-4.3-对数-aba2fb.png",
-      "png_sha256": "fd0a4c454bd1febeb231338ea579aa5ba964f9d3374af0457ffff82b245273b0",
+      "png_sha256": "e036740963c367821d0103aa647b2911ee86571fe63ba80162236e1ccab03e00",
       "png_dimensions": [
         2400,
         685
@@ -4314,7 +4331,7 @@
         }
       ],
       "png_path": "sections/04-07-4.4-对数函数-d38e6a.png",
-      "png_sha256": "33cb4d29d2755871a9db73e21e3caeae83450bc21f7224af82d0a9fb5c86f3b2",
+      "png_sha256": "5731585755656019d0d0b4d8e2553e5bb0aef3eb7f6a95e8b78c4e26e7cd171c",
       "png_dimensions": [
         2400,
         502
@@ -4327,12 +4344,12 @@
       "status": "ready",
       "path": "sections/04-08-4.5-函数的应用(二)-87e5ee.canvas",
       "counts": {
-        "cards": 17,
+        "cards": 18,
         "groups": 6,
-        "edges": 16,
-        "internal_atoms": 9,
-        "source_atoms": 37,
-        "knowledge_atoms": 5,
+        "edges": 17,
+        "internal_atoms": 10,
+        "source_atoms": 38,
+        "knowledge_atoms": 6,
         "scenario_atoms": 3,
         "featured_examples": 1,
         "exercise_atoms_summarized": 0,
@@ -4342,7 +4359,7 @@
         "exercise_relation_edges": 0,
         "exercise_ownership_edges": 4,
         "concept_hubs": 0,
-        "atom_relation_edges": 7,
+        "atom_relation_edges": 8,
         "concept_relation_edges": 4,
         "concept_membership_edges": 0,
         "source_order_fallback_edges": 0,
@@ -4354,15 +4371,15 @@
       "bounds": {
         "x": 0,
         "y": -180,
-        "width": 4282,
-        "height": 704,
-        "aspect_ratio": 6.0824
+        "width": 4672,
+        "height": 870,
+        "aspect_ratio": 5.3701
       },
       "visual_quality": {
-        "straight_crossing_estimate": 4,
+        "straight_crossing_estimate": 7,
         "edge_length_median": 552,
-        "edge_length_p90": 751,
-        "edge_length_max": 1282,
+        "edge_length_p90": 815,
+        "edge_length_max": 1680,
         "edges_over_2000": 0,
         "practice_edge_share": 0.0
       },
@@ -4400,9 +4417,10 @@
           "parent_id": "bfab2b17f3510301",
           "member_ids": [
             "18bae83150557626",
+            "33478366d04a60d8",
+            "3e1f59e3c3d493ad",
             "44aedd51d1ba2c76",
             "7c2678900ba9be50",
-            "92292b94eac4e180",
             "cda9b72c9ea80b2b",
             "f004e37d1fab1d58"
           ]
@@ -4423,10 +4441,11 @@
             "15ce8731e85b7826",
             "177bce0dca494143",
             "18bae83150557626",
+            "33478366d04a60d8",
+            "3e1f59e3c3d493ad",
             "431d6ba4cc9b4c36",
             "44aedd51d1ba2c76",
             "7c2678900ba9be50",
-            "92292b94eac4e180",
             "9dca9e21eed5c1bc",
             "a6bb53cac602c313",
             "bc9dba14228cd051",
@@ -4438,10 +4457,10 @@
         }
       ],
       "png_path": "sections/04-08-4.5-函数的应用(二)-87e5ee.png",
-      "png_sha256": "cd00bc9d37861328b30605021bc3c6490cf602c8c4d7c3ce5f4783f106e74c00",
+      "png_sha256": "722918ac6c2a72079b7d7c9005491508e863f523398788437ecd7e1ec73dad29",
       "png_dimensions": [
         2400,
-        467
+        512
       ]
     },
     {
@@ -4502,7 +4521,7 @@
         }
       ],
       "png_path": "sections/04-09-文献阅读与数学写作--对数概念的形成与发展-4b22ed.png",
-      "png_sha256": "2ed2f3fa5b235ae94950e0654b71ec9835b8e927a268f5e663453d16416ebce2",
+      "png_sha256": "7bcf71846d06431aace1734c8dc7cae419f0b6c2c198b0ec928afbeb9c18bd24",
       "png_dimensions": [
         2400,
         1263
@@ -4566,7 +4585,7 @@
         }
       ],
       "png_path": "sections/04-10-第四章-指数函数与对数函数-小结-031add.png",
-      "png_sha256": "a5afd53d6655045d7f1a4e7b0ab6eb1c379b0a9dac314ccccdbc42758768b3bb",
+      "png_sha256": "943c8d3b3f7b86312af2fd824cba0160088d2cb360003a6bef7e4652632c0e1c",
       "png_dimensions": [
         2400,
         1263
@@ -4629,7 +4648,7 @@
         }
       ],
       "png_path": "sections/04-11-第四章-指数函数与对数函数-复习参考题4-ba933c.png",
-      "png_sha256": "9780fd396fc2506aef9f5915c09f60f2ed0d1aa2d4f5b308a53aef90608f3bba",
+      "png_sha256": "7f63c3a8e4f2d06f47644ad224259eaa62e1fff7cfd063a620ebb16a9a8e103f",
       "png_dimensions": [
         2400,
         947
@@ -4693,7 +4712,7 @@
         }
       ],
       "png_path": "sections/05-01-章引入-97cbba.png",
-      "png_sha256": "f27984f1606a5426ad36547a6c4b00e552ce8563e2bf98fcd0cb804dde40c90b",
+      "png_sha256": "277bf135cbebcf7f650c273110f811c77190b1c9382ea3488379a5e6d74699ba",
       "png_dimensions": [
         2400,
         1263
@@ -4757,7 +4776,7 @@
         }
       ],
       "png_path": "sections/06-01-章引入-94faad.png",
-      "png_sha256": "82c2ec248a6dac8f4d6307db78e799b116d39eed5e6245a56147c1c33eaf7382",
+      "png_sha256": "d87eaf23bd28bf76858b7b885bb50b442e9afd9c1b50090c302282b4fd95e6a2",
       "png_dimensions": [
         2400,
         1263
@@ -4857,7 +4876,7 @@
         }
       ],
       "png_path": "sections/06-02-5.1-任意角和弧度制-b53717.png",
-      "png_sha256": "17d38b6c8f071abf4b21b45c839cc5c6aeff6dc7170d2a9f744e431ab18b3d08",
+      "png_sha256": "d837bf98c710d3f318b9a3b7b467c567512cac11b5a5c19ceec56dfab6fd8639",
       "png_dimensions": [
         2400,
         685
@@ -4957,7 +4976,7 @@
         }
       ],
       "png_path": "sections/06-03-5.2-三角函数的概念-4c2022.png",
-      "png_sha256": "cb26557abd9ab554156d8112ff9bd885582646216e4b88053b2e367d06994afa",
+      "png_sha256": "0209ec1c2fea5bcf30765ab0be074a38424c7e48f4e77d5860bb854c51870ec1",
       "png_dimensions": [
         2400,
         685
@@ -5096,7 +5115,7 @@
         }
       ],
       "png_path": "sections/06-05-5.3-诱导公式-d118aa.png",
-      "png_sha256": "6e1bbf4931ac10a00501d17025589d0f6d37b446956be144da3a39803ecadbc3",
+      "png_sha256": "df32a78b867e09a6759c06dd243a6748bfbff5a2ce4692223de660e066e8a33f",
       "png_dimensions": [
         2400,
         1459
@@ -5260,7 +5279,7 @@
         }
       ],
       "png_path": "sections/06-06-5.4-三角函数的图象与性质-a6a5bc.png",
-      "png_sha256": "e6316721fe4bb56c0475cdc67991bbf8a62a543593d00f8784ce1503990653f3",
+      "png_sha256": "35e678290cbe063b1ec8ec5366a9d057b42c17f6c4aae2361e38a6e9e274698d",
       "png_dimensions": [
         2400,
         341
@@ -5412,7 +5431,7 @@
         }
       ],
       "png_path": "sections/06-07-5.5-三角恒等变换-7a706e.png",
-      "png_sha256": "b937b72ff4967df4c40bb707d6819d771bbc8dc3dad348736c54f16c231747c1",
+      "png_sha256": "62dd5616ab68e695c61b19716de06f82fc216f6f23d55c34f584864502e05fa3",
       "png_dimensions": [
         2400,
         433
@@ -5504,7 +5523,7 @@
         }
       ],
       "png_path": "sections/06-08-5.6-函数-y-=-A-sin(ωx-+-φ)-cbdeb9.png",
-      "png_sha256": "a41a2ababa80989d9e7a84c7cecf051cddd66ca06e08ce65ee5e6a8d4b73f583",
+      "png_sha256": "9597b2aee5a9ce70ab712498ad81c9ba93479dc5c074c9208ff85bae4092804a",
       "png_dimensions": [
         2400,
         948
@@ -5577,7 +5596,7 @@
         }
       ],
       "png_path": "sections/06-09-5.7-三角函数的应用-bb6fa0.png",
-      "png_sha256": "e143f69f471b2271db5339b0b907ed9c24201228147d3954f18d33477dfea40d",
+      "png_sha256": "6eed798904cfc7474dbdbb0331372763cbe88294568f78ac4fd12b9eb736b53a",
       "png_dimensions": [
         2400,
         1994
@@ -5641,7 +5660,7 @@
         }
       ],
       "png_path": "sections/06-10-阅读与思考-振幅、周期、频率、相位-396786.png",
-      "png_sha256": "179e44328d6b41935eb7aec55794709871d98af813056ba23888e3ec28c4e5e3",
+      "png_sha256": "0791fcd79ccf3ffb1af6967b923df5f594c0a77347eab2292ca6a25b12a80976",
       "png_dimensions": [
         2400,
         1263
@@ -5768,7 +5787,7 @@
         }
       ],
       "png_path": "sections/06-12-第五章-三角函数-复习参考题5-1f7bec.png",
-      "png_sha256": "6ad36d209721f6f13d72a76e971c331670fd810d9a740be031c836acf9cbb957",
+      "png_sha256": "ba2325a210309786fe7f261c9cb7b361b9da4b6b2c59f755a2f2c834778987b9",
       "png_dimensions": [
         2400,
         947

@@ -17,7 +17,7 @@ organizers:
   - "第四章 指数函数与对数函数"
   - "4.1 指数"
   - "4.1.1 $n$ 次方根与分数指数幂"
-updated_at: "2026-11-09"
+updated_at: "2026-11-13"
 review_status: "passed"
 estimated_learning_minutes: 2
 difficulty: "reference"
@@ -26,7 +26,7 @@ learning_objectives:
   - "查阅：n次方根与根式"
 derived_from: "atom-d875039928b37e80"
 derived_kind: "concept"
-defined_in_file: "原子层/知识点/n次方根与根式--000046.md"
+defined_in_file: "原子层/知识点/n次方根与根式--000047.md"
 defined_in_title: "n次方根与根式"
 concept_name: "n次方根与根式"
 concept_key: "concept-fdf769ca523f128a"
@@ -43,8 +43,8 @@ related_concepts:
   - "第三章 函数"
   - "分数指数幂与有理数指数幂的运算性质"
 applied_in_atoms:
-  - "第四章 指数函数与对数函数 章引言"
-  - "4.1 指数 节引言"
+  - "由良渚遗址碳十四测年走向指数与对数函数"
+  - "从正方形边长与面积理解分数指数幂"
   - "n次方根与根式"
   - "例 1 利用根式的性质求值"
 ---

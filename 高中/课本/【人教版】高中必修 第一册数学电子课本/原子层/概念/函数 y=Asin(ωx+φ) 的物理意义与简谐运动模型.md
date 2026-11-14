@@ -15,7 +15,7 @@ organizers:
   - "普通高中教科书 数学 必修 第一册"
   - "第五章 三角函数"
   - "5.7 三角函数的应用"
-updated_at: "2026-11-09"
+updated_at: "2026-11-13"
 review_status: "passed"
 estimated_learning_minutes: 2
 difficulty: "reference"
@@ -24,7 +24,7 @@ learning_objectives:
   - "查阅：函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型"
 derived_from: "atom-82d79ec247acefd7"
 derived_kind: "concept"
-defined_in_file: "原子层/知识点/函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型--000100.md"
+defined_in_file: "原子层/知识点/函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型--000102.md"
 defined_in_title: "函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型"
 concept_name: "函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型"
 concept_key: "concept-b8b52ddc3bd98d0e"

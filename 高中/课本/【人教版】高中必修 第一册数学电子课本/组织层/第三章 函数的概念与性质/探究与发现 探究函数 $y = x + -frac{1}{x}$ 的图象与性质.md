@@ -21,8 +21,8 @@ children_count: 1
 direct_organizer_count: 0
 direct_atom_count: 1
 descendant_atom_count: 1
-updated_at: "2026-11-09"
+updated_at: "2026-11-13"
 review_status: "passed"
 ---
 
-![函数 y=x+1/x 的图象与性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%20y%3Dx%2B1-x%20%E7%9A%84%E5%9B%BE%E8%B1%A1%E4%B8%8E%E6%80%A7%E8%B4%A8--000043.md)
+![函数 y=x+1/x 的图象与性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%20y%3Dx%2B1-x%20%E7%9A%84%E5%9B%BE%E8%B1%A1%E4%B8%8E%E6%80%A7%E8%B4%A8--000044.md)
