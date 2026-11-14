@@ -1,0 +1,114 @@
+{
+  "edges": [
+    {
+      "fromNode": "acddb8df4d67738a20bf",
+      "fromSide": "left",
+      "id": "3a6bf3c1637c29eed7e5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "acddb8df4d67738a20bf",
+      "fromSide": "bottom",
+      "id": "b84158c8f4512f25fe92",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fafda3fc63cb5cf0f23c",
+      "fromSide": "left",
+      "id": "edaf2434db7e1345ff4e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fafda3fc63cb5cf0f23c",
+      "fromSide": "left",
+      "id": "1a26da18901eae1dc762",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-6bfdca66e27b8910",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8223c0f2d376a0a1b7f9",
+      "text": "# 第一节 抛物线两点联立式方程\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "5db3fb2b93b04952601e",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC06%E7%AB%A0%20%E8%81%94%E7%AB%8B%E4%B9%8B%E5%90%8C%E6%9E%84%E6%96%B9%E7%A8%8B--db4287a6.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fafda3fc63cb5cf0f23c",
+      "mathmap_atom_id": "Kccfeec80c47aa7",
+      "mathmap_file": "Mathmap/知识点/抛物线平行弦的同构方程.md",
+      "text": "[抛物线平行弦的同构方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%B9%B3%E8%A1%8C%E5%BC%A6%E7%9A%84%E5%90%8C%E6%9E%84%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "acddb8df4d67738a20bf",
+      "mathmap_atom_id": "K5f5731c44442eb",
+      "mathmap_file": "Mathmap/知识点/抛物线的两点联立方程与同构.md",
+      "text": "[抛物线的两点联立方程与同构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E8%81%94%E7%AB%8B%E6%96%B9%E7%A8%8B%E4%B8%8E%E5%90%8C%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    }
+  ]
+}

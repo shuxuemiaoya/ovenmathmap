@@ -1,0 +1,213 @@
+{
+  "edges": [
+    {
+      "fromNode": "4b3ec13a744fb3af93e0",
+      "fromSide": "left",
+      "id": "477b2b7ac2f532efa2e8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4b3ec13a744fb3af93e0",
+      "fromSide": "left",
+      "id": "54452af54dd07c8e9adb",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4b3ec13a744fb3af93e0",
+      "fromSide": "left",
+      "id": "d221e3dda39543b52a48",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "54caa08b07eed110b417",
+      "fromSide": "top",
+      "id": "acadb040bbd1ade4259a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "54caa08b07eed110b417",
+      "fromSide": "left",
+      "id": "d012142b8bab89e2624b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad5af66338ab33fc3598",
+      "fromSide": "left",
+      "id": "0c475af9952331289fd7",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad5af66338ab33fc3598",
+      "fromSide": "left",
+      "id": "47566a1934cbdc326414",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ad5af66338ab33fc3598",
+      "fromSide": "left",
+      "id": "cf0adb4c497dc05c8307",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e95d166321af7b71fa64",
+      "fromSide": "bottom",
+      "id": "ca775a373c602b668171",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e95d166321af7b71fa64",
+      "fromSide": "left",
+      "id": "7b05c0518bc27945d9ec",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e95d166321af7b71fa64",
+      "fromSide": "left",
+      "id": "d15493ad148fe5ca84cb",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-941aecbe6bac8649",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "45356fb91cce4f0fee5a",
+      "text": "# 第三节 蝴蝶定理与坎迪定理\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "81f3951051f7c5429bc0",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC11%E7%AB%A0%20%E4%BB%8E%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE%E5%88%B0%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF--051a3b58.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "54caa08b07eed110b417",
+      "mathmap_atom_id": "K38c6ffa6245c00",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线焦弦常数与斜率转化.md",
+      "text": "[圆锥曲线焦弦常数与斜率转化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%84%A6%E5%BC%A6%E5%B8%B8%E6%95%B0%E4%B8%8E%E6%96%9C%E7%8E%87%E8%BD%AC%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4b3ec13a744fb3af93e0",
+      "mathmap_atom_id": "K2841342d26ac43",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的坎迪定理.md",
+      "text": "[圆锥曲线的坎迪定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%9D%8E%E8%BF%AA%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ad5af66338ab33fc3598",
+      "mathmap_atom_id": "K449bbcd0d956a4",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的蝴蝶定理.md",
+      "text": "[圆锥曲线的蝴蝶定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E8%9D%B4%E8%9D%B6%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e95d166321af7b71fa64",
+      "mathmap_atom_id": "K744716c909b72f",
+      "mathmap_file": "Mathmap/知识点/坎迪定理的平行中点推论.md",
+      "text": "[坎迪定理的平行中点推论](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9D%8E%E8%BF%AA%E5%AE%9A%E7%90%86%E7%9A%84%E5%B9%B3%E8%A1%8C%E4%B8%AD%E7%82%B9%E6%8E%A8%E8%AE%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    }
+  ]
+}

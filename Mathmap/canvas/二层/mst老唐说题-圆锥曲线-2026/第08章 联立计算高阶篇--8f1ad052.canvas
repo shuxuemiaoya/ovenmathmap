@@ -1,0 +1,924 @@
+{
+  "edges": [
+    {
+      "fromNode": "fc3b1dc20086b14f00ec",
+      "fromSide": "bottom",
+      "id": "af6013f20a13bc8789ae",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fc3b1dc20086b14f00ec",
+      "fromSide": "left",
+      "id": "d1d84df2479f3f522648",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "58d1d65ce5e7a1c2ec6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "left",
+      "id": "b2148e1ea4b06a2a136c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "left",
+      "id": "596bdc585fc9f6fffd0a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "left",
+      "id": "e3d2dc05244f27f328f5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "6b5b25382cf4b0367e87",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "left",
+      "id": "e1e064fe1f02ead5182a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2e03dcc466e733ca90e8",
+      "fromSide": "left",
+      "id": "c913e25d9d3bf8f855fb",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2e03dcc466e733ca90e8",
+      "fromSide": "left",
+      "id": "795df36bc58c28609530",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2e03dcc466e733ca90e8",
+      "fromSide": "left",
+      "id": "453608759aea50ccf57f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2e03dcc466e733ca90e8",
+      "fromSide": "left",
+      "id": "741d7bab306446a1896c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2e03dcc466e733ca90e8",
+      "fromSide": "left",
+      "id": "1a18a8faf0310d65c7a8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8f882899a59e4e5e84fd",
+      "fromSide": "left",
+      "id": "8167be41fbfc36f726a1",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8f882899a59e4e5e84fd",
+      "fromSide": "left",
+      "id": "feb142e387a8303f7efe",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4e97a8aa984731d3c469",
+      "fromSide": "left",
+      "id": "13ad84f3bce8ef533463",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dea1c21219e196949900",
+      "fromSide": "left",
+      "id": "0b63ed894dfe0c26d53d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dea1c21219e196949900",
+      "fromSide": "left",
+      "id": "510805bff3855d8b4de2",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b0d13f86e2f1d66fda",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dea1c21219e196949900",
+      "fromSide": "left",
+      "id": "573963ac5ce4cb35d961",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c01a58060b6db1f484ea",
+      "fromSide": "left",
+      "id": "64f9dc2e6e6d154c8688",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c01a58060b6db1f484ea",
+      "fromSide": "left",
+      "id": "44034659a93aca73d85d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c01a58060b6db1f484ea",
+      "fromSide": "left",
+      "id": "7886fca9ea6dd709ec7b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c01a58060b6db1f484ea",
+      "fromSide": "left",
+      "id": "12ab51e18364a15daa0f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "104e2b1cf5f9c9732760",
+      "fromSide": "left",
+      "id": "66ab5e6550f801d679cb",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "104e2b1cf5f9c9732760",
+      "fromSide": "left",
+      "id": "7167b03dd24c5e7d2a23",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "72cc6e778fd1147a4d79",
+      "fromSide": "left",
+      "id": "8f252678460ea0b71972",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "52e33e27c1662501d207",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "a21f56463a3b39f88442",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "fd53380485b3a5209ccd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "3759fae430f2e983f879",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1f6e3fc3cf1835c12243",
+      "fromSide": "left",
+      "id": "d1039a9fb78de68b5c10",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "3d0162590fe0c5d591f1",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "297523b68bd749e9d32f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "5ffd7c3c8c5593ac25e0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "3e25fbc95a79be227fe4",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d8ff30547db7d39bd13",
+      "fromSide": "left",
+      "id": "3f63b40c612a893c0f83",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "6b5b25382cf4b0367e87",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "f01a4b093b111410071c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "9b2238bdc4646122682c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "9a19b1bd105846ef352a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "5190d7bb5765bdc343b4",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bca1c4e48f3196195aa7",
+      "fromSide": "left",
+      "id": "682aea573c23e4e98e48",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bca1c4e48f3196195aa7",
+      "fromSide": "left",
+      "id": "279f0b6561b6e068935a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b0d13f86e2f1d66fda",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bca1c4e48f3196195aa7",
+      "fromSide": "left",
+      "id": "415f6b7eae6ab231ceee",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "60d01cd226a7f61d5f1e",
+      "fromSide": "left",
+      "id": "199e8727bcb5f48abb47",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "60d01cd226a7f61d5f1e",
+      "fromSide": "left",
+      "id": "dec5dff188c20a319e49",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b0d13f86e2f1d66fda",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "60d01cd226a7f61d5f1e",
+      "fromSide": "left",
+      "id": "e6f6fb13d6e9df377dc5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "bcaa9402eef748aaf057",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "00b7e6da1ceaef902f3c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "d361bddd65fa82e6b180",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "fef6a29625871c7d8cba",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "681d9200cf6e77e4ad32",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "1c7aebffc5f30409d5c0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "abc79fa74bc3d53ef2fc",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "4d7b957ff7a74f7a7270",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e148bb65c57e20ef15a1",
+      "fromSide": "left",
+      "id": "011d833ea6456845f423",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "6b5b25382cf4b0367e87",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e148bb65c57e20ef15a1",
+      "fromSide": "top",
+      "id": "5d473933e9bef4051e9e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "org-f41a34c7b89ac97a",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8f8ace3b5237dd262b8d",
+      "text": "# 第08章 联立计算高阶篇\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "357762297478c1fcd77c",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "960e6ed47d60c51c45ee",
+      "mathmap_atom_id": "Kff2296bfa3045c",
+      "mathmap_file": "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md",
+      "text": "[三角恒等变换的基本思路与特点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF%E4%B8%8E%E7%89%B9%E7%82%B9--000177.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2e03dcc466e733ca90e8",
+      "mathmap_atom_id": "K06f34cd1a5961b",
+      "mathmap_file": "Mathmap/知识点/二次曲线四点共圆的斜率条件.md",
+      "text": "[二次曲线四点共圆的斜率条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E7%BA%BF%E5%9B%9B%E7%82%B9%E5%85%B1%E5%9C%86%E7%9A%84%E6%96%9C%E7%8E%87%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c01a58060b6db1f484ea",
+      "mathmap_atom_id": "K4851f721c897cb",
+      "mathmap_file": "Mathmap/知识点/二次曲线系与四点共圆.md",
+      "text": "[二次曲线系与四点共圆](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E6%AC%A1%E6%9B%B2%E7%BA%BF%E7%B3%BB%E4%B8%8E%E5%9B%9B%E7%82%B9%E5%85%B1%E5%9C%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f1493c9099f4cd5d19ca",
+      "mathmap_atom_id": "K86509ea54951dc",
+      "mathmap_file": "Mathmap/知识点/切线适配曲线系与斜率和积.md",
+      "text": "[切线适配曲线系与斜率和积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%87%E7%BA%BF%E9%80%82%E9%85%8D%E6%9B%B2%E7%BA%BF%E7%B3%BB%E4%B8%8E%E6%96%9C%E7%8E%87%E5%92%8C%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fc3b1dc20086b14f00ec",
+      "mathmap_atom_id": "K03a1d3ab061a8f",
+      "mathmap_file": "Mathmap/知识点/双曲线与渐近线的退化曲线系.md",
+      "text": "[双曲线与渐近线的退化曲线系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%B8%90%E8%BF%91%E7%BA%BF%E7%9A%84%E9%80%80%E5%8C%96%E6%9B%B2%E7%BA%BF%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "58d1d65ce5e7a1c2ec6a",
+      "mathmap_atom_id": "Kb7cbbb3109ef57",
+      "mathmap_file": "Mathmap/知识点/双曲线的渐近线.md",
+      "text": "[双曲线的渐近线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%B8%90%E8%BF%91%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fbc362a61d6d86438948",
+      "mathmap_atom_id": "K645a18fb0cc63d",
+      "mathmap_file": "Mathmap/知识点/圆的标准方程及其推导.md",
+      "text": "[圆的标准方程及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4f52a8e706d34ee9ad4b",
+      "mathmap_atom_id": "K05677499cf4812",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线分弦定值的长度参数法.md",
+      "text": "[圆锥曲线分弦定值的长度参数法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%88%86%E5%BC%A6%E5%AE%9A%E5%80%BC%E7%9A%84%E9%95%BF%E5%BA%A6%E5%8F%82%E6%95%B0%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b16f702ed59588466934",
+      "mathmap_atom_id": "Kecb27e4e90c990",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线切线的三角参数表示.md",
+      "text": "[圆锥曲线切线的三角参数表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%88%87%E7%BA%BF%E7%9A%84%E4%B8%89%E8%A7%92%E5%8F%82%E6%95%B0%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "60d01cd226a7f61d5f1e",
+      "mathmap_atom_id": "Kc85bb91592b448",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线垂直结构的复数换元.md",
+      "text": "[圆锥曲线垂直结构的复数换元](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%9E%82%E7%9B%B4%E7%BB%93%E6%9E%84%E7%9A%84%E5%A4%8D%E6%95%B0%E6%8D%A2%E5%85%83.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bca1c4e48f3196195aa7",
+      "mathmap_atom_id": "Ka71c960d382ae2",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线平行结构的复数换元.md",
+      "text": "[圆锥曲线平行结构的复数换元](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%BB%93%E6%9E%84%E7%9A%84%E5%A4%8D%E6%95%B0%E6%8D%A2%E5%85%83.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d929d21b957d706ad99e",
+      "mathmap_atom_id": "K98abe32224c0e8",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的三角参数换元.md",
+      "text": "[圆锥曲线的三角参数换元](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%B8%89%E8%A7%92%E5%8F%82%E6%95%B0%E6%8D%A2%E5%85%83.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "dea1c21219e196949900",
+      "mathmap_atom_id": "K2c8a2a0f3685f6",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的复数模与辐角表示.md",
+      "text": "[圆锥曲线的复数模与辐角表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%A4%8D%E6%95%B0%E6%A8%A1%E4%B8%8E%E8%BE%90%E8%A7%92%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "894ade46bbf99af34ca8",
+      "mathmap_atom_id": "K926d6dc179f8e9",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线顶点弦的万能三角代换.md",
+      "text": "[圆锥曲线顶点弦的万能三角代换](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E9%A1%B6%E7%82%B9%E5%BC%A6%E7%9A%84%E4%B8%87%E8%83%BD%E4%B8%89%E8%A7%92%E4%BB%A3%E6%8D%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 4200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b0d13f86e2f1d66fda",
+      "mathmap_atom_id": "Ka1102288cca703",
+      "mathmap_file": "Mathmap/知识点/复数三角形式的乘除运算与几何意义.md",
+      "text": "[复数三角形式的乘除运算与几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 4500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 4800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6b5b25382cf4b0367e87",
+      "mathmap_atom_id": "Ka082493822490b",
+      "mathmap_file": "Mathmap/知识点/探究与发现 方向向量与直线的参数方程.md",
+      "text": "[探究与发现 方向向量与直线的参数方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E6%96%B9%E5%90%91%E5%90%91%E9%87%8F%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 5100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 5400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e148bb65c57e20ef15a1",
+      "mathmap_atom_id": "Ked349f57ed5283",
+      "mathmap_file": "Mathmap/知识点/椭圆轴点分弦平方和的定值.md",
+      "text": "[椭圆轴点分弦平方和的定值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E8%BD%B4%E7%82%B9%E5%88%86%E5%BC%A6%E5%B9%B3%E6%96%B9%E5%92%8C%E7%9A%84%E5%AE%9A%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 5700
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 6000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 6300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0d8ff30547db7d39bd13",
+      "mathmap_atom_id": "K9312c7888ceb95",
+      "mathmap_file": "Mathmap/知识点/直线的长度参数方程及其性质.md",
+      "text": "[直线的长度参数方程及其性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E9%95%BF%E5%BA%A6%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 6600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8f882899a59e4e5e84fd",
+      "mathmap_atom_id": "K0823e6df4abc72",
+      "mathmap_file": "Mathmap/知识点/相交两圆公共弦的方程.md",
+      "text": "[相交两圆公共弦的方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B8%E4%BA%A4%E4%B8%A4%E5%9C%86%E5%85%AC%E5%85%B1%E5%BC%A6%E7%9A%84%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 6900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4e97a8aa984731d3c469",
+      "mathmap_atom_id": "K08b68e61233d1c",
+      "mathmap_file": "Mathmap/知识点/过两圆交点的圆系方程.md",
+      "text": "[过两圆交点的圆系方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BF%87%E4%B8%A4%E5%9C%86%E4%BA%A4%E7%82%B9%E7%9A%84%E5%9C%86%E7%B3%BB%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 7200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1f6e3fc3cf1835c12243",
+      "mathmap_atom_id": "K8ca2065284925b",
+      "mathmap_file": "Mathmap/知识点/过两直线交点的直线系方程.md",
+      "text": "[过两直线交点的直线系方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BF%87%E4%B8%A4%E7%9B%B4%E7%BA%BF%E4%BA%A4%E7%82%B9%E7%9A%84%E7%9B%B4%E7%BA%BF%E7%B3%BB%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 7500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "72cc6e778fd1147a4d79",
+      "mathmap_atom_id": "K7d1abeaeb092de",
+      "mathmap_file": "Mathmap/知识点/过圆切点的圆系方程.md",
+      "text": "[过圆切点的圆系方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BF%87%E5%9C%86%E5%88%87%E7%82%B9%E7%9A%84%E5%9C%86%E7%B3%BB%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 7800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "104e2b1cf5f9c9732760",
+      "mathmap_atom_id": "K6c7b990329f3da",
+      "mathmap_file": "Mathmap/知识点/过直线与圆交点的圆系方程.md",
+      "text": "[过直线与圆交点的圆系方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BF%87%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%9C%86%E4%BA%A4%E7%82%B9%E7%9A%84%E5%9C%86%E7%B3%BB%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 8100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "93bdece0a1ea0e75c9ef",
+      "mathmap_atom_id": "Kd0ec1b346efdfd",
+      "mathmap_file": "Mathmap/知识点/退化二次曲线与四点联立曲线系.md",
+      "text": "[退化二次曲线与四点联立曲线系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%80%E5%8C%96%E4%BA%8C%E6%AC%A1%E6%9B%B2%E7%BA%BF%E4%B8%8E%E5%9B%9B%E7%82%B9%E8%81%94%E7%AB%8B%E6%9B%B2%E7%BA%BF%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 8400
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "102a3ce7afda7802e165",
+      "text": "[第一节 长度参数与直线参数方程](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E9%95%BF%E5%BA%A6%E5%8F%82%E6%95%B0%E4%B8%8E%E7%9B%B4%E7%BA%BF%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B--d093e019.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 8620
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "945b65453df6d697fdab",
+      "text": "[第二节 单动点与圆锥曲线参数方程](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E5%8D%95%E5%8A%A8%E7%82%B9%E4%B8%8E%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B--e0c542f2.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 8620
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d96d31b8ef04d9fa47ba",
+      "text": "[第三节 复数变换与三角旋转](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E5%A4%8D%E6%95%B0%E5%8F%98%E6%8D%A2%E4%B8%8E%E4%B8%89%E8%A7%92%E6%97%8B%E8%BD%AC--c370c206.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 8620
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "90f0d2459ec2a656d79d",
+      "text": "[第四节 直线系和圆系方程](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E5%9B%9B%E8%8A%82%20%E7%9B%B4%E7%BA%BF%E7%B3%BB%E5%92%8C%E5%9C%86%E7%B3%BB%E6%96%B9%E7%A8%8B--2d0c4232.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 8830
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "924327eb5e97c79f02c6",
+      "text": "[第五节 二次曲线系与四点共圆](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%BA%94%E8%8A%82%20%E4%BA%8C%E6%AC%A1%E6%9B%B2%E7%BA%BF%E7%B3%BB%E4%B8%8E%E5%9B%9B%E7%82%B9%E5%85%B1%E5%9C%86--e215e34a.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 8830
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "ca42c30428cea21bed83",
+      "text": "[第六节 二次曲线方程与四点联立曲线系](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E5%85%AD%E8%8A%82%20%E4%BA%8C%E6%AC%A1%E6%9B%B2%E7%BA%BF%E6%96%B9%E7%A8%8B%E4%B8%8E%E5%9B%9B%E7%82%B9%E8%81%94%E7%AB%8B%E6%9B%B2%E7%BA%BF%E7%B3%BB--35a1f01f.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 8830
+    }
+  ]
+}

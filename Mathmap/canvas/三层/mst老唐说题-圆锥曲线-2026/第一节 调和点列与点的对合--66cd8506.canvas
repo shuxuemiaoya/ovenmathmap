@@ -1,0 +1,105 @@
+{
+  "edges": [
+    {
+      "fromNode": "7c1e5ac8d19b00de78f6",
+      "fromSide": "left",
+      "id": "df6106c208e14e8da9ce",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7c1e5ac8d19b00de78f6",
+      "fromSide": "left",
+      "id": "47fdee04aefa85e78ffd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7c1e5ac8d19b00de78f6",
+      "fromSide": "top",
+      "id": "d989ffd3dcc2c54b30e9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-3dfcae1216c6b576",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f7b3449625ae5984645e",
+      "text": "# 第一节 调和点列与点的对合\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "3de65973bfe06c696c4f",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC12%E7%AB%A0%20%E8%B0%83%E5%92%8C%E7%82%B9%E5%88%97%E4%B8%8E%E8%B0%83%E5%92%8C%E7%BA%BF%E6%9D%9F%E5%AE%9A%E7%90%86%E4%B8%8E%E5%AF%B9%E5%90%88%E5%85%B3%E7%B3%BB--6110d119.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7c1e5ac8d19b00de78f6",
+      "mathmap_atom_id": "K7b288e14f7f465",
+      "mathmap_file": "Mathmap/知识点/调和点列与点的对合.md",
+      "text": "[调和点列与点的对合](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B0%83%E5%92%8C%E7%82%B9%E5%88%97%E4%B8%8E%E7%82%B9%E7%9A%84%E5%AF%B9%E5%90%88.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    }
+  ]
+}

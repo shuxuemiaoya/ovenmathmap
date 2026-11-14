@@ -1,0 +1,270 @@
+{
+  "edges": [
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "75dabf2ab1d236e0500a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "af5c0bb54e7a5373819b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "45c3ee288d1c06bdf42a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "62b037e3b2d1b504d802",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dae609ee10792f108e98",
+      "fromSide": "left",
+      "id": "2ec41cf6df589bfb15c2",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "7415ea42145fbbcaa8d8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dae609ee10792f108e98",
+      "fromSide": "left",
+      "id": "a3b0f95ecc066c6af9ac",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dae609ee10792f108e98",
+      "fromSide": "left",
+      "id": "c4371e44c06777e58dcd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "581758af4f6a6112b8ae",
+      "fromSide": "top",
+      "id": "12742411fd640570a3af",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "7415ea42145fbbcaa8d8",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "581758af4f6a6112b8ae",
+      "fromSide": "bottom",
+      "id": "d9c0a9b2afc18310fb88",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "342e3543f29a473c1d87",
+      "fromSide": "left",
+      "id": "d319f889f1c43c04957c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "342e3543f29a473c1d87",
+      "fromSide": "left",
+      "id": "03cf00247a3c19433452",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "504ff0b7e59268cf323e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22299ef7960072d1fa5a",
+      "fromSide": "left",
+      "id": "f79c490728296d029acf",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-2bf5f0690d3f6b47",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "3e10a81a2566a4fd7de9",
+      "text": "# 第一节 切线与切点弦\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "109703e02f33eb81c94d",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC04%E7%AB%A0%20%E5%B0%8F%E9%A2%98%E6%96%B0%E9%A2%98%E5%9E%8B%E4%B8%8E%E5%A4%9A%E9%80%89%E7%9A%84%E7%BB%BC%E5%90%88%E9%A2%98%E6%96%B9%E6%B3%95%E7%AF%87--0d5d588e.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "dae609ee10792f108e98",
+      "mathmap_atom_id": "K438d5d766a96a6",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线切线与切点弦方程的推导.md",
+      "text": "[圆锥曲线切线与切点弦方程的推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%88%87%E7%BA%BF%E4%B8%8E%E5%88%87%E7%82%B9%E5%BC%A6%E6%96%B9%E7%A8%8B%E7%9A%84%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "237a9703373f98b677dc",
+      "mathmap_atom_id": "K275b736bd5169e",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的极点极线.md",
+      "text": "[圆锥曲线的极点极线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7415ea42145fbbcaa8d8",
+      "mathmap_atom_id": "K57bbd8899b13f1",
+      "mathmap_file": "Mathmap/知识点/导数符号与函数单调性.md",
+      "text": "[导数符号与函数单调性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%BC%E6%95%B0%E7%AC%A6%E5%8F%B7%E4%B8%8E%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "581758af4f6a6112b8ae",
+      "mathmap_atom_id": "K68c03761ca00f8",
+      "mathmap_file": "Mathmap/知识点/抛物线切线与阿基米德三角形.md",
+      "text": "[抛物线切线与阿基米德三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%88%87%E7%BA%BF%E4%B8%8E%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "504ff0b7e59268cf323e",
+      "mathmap_atom_id": "Ka189a28a794706",
+      "mathmap_file": "Mathmap/知识点/等比数列的通项公式.md",
+      "text": "[等比数列的通项公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97%E7%9A%84%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "22299ef7960072d1fa5a",
+      "mathmap_atom_id": "Kebfdc0c6f5cab2",
+      "mathmap_file": "Mathmap/知识点/阿基米德三角形的面积公式.md",
+      "text": "[阿基米德三角形的面积公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E9%9D%A2%E7%A7%AF%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "342e3543f29a473c1d87",
+      "mathmap_atom_id": "Kdeb201557cab33",
+      "mathmap_file": "Mathmap/知识点/阿基米德三角形的面积比与等比构造.md",
+      "text": "[阿基米德三角形的面积比与等比构造](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%BF%E5%9F%BA%E7%B1%B3%E5%BE%B7%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E9%9D%A2%E7%A7%AF%E6%AF%94%E4%B8%8E%E7%AD%89%E6%AF%94%E6%9E%84%E9%80%A0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3000
+    }
+  ]
+}

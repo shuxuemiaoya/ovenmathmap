@@ -1,0 +1,447 @@
+{
+  "edges": [
+    {
+      "fromNode": "d222c61f462bb5f5b4fa",
+      "fromSide": "left",
+      "id": "2226ace2d8e98ce462c9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d222c61f462bb5f5b4fa",
+      "fromSide": "left",
+      "id": "6802d93b69ffd2033e71",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d222c61f462bb5f5b4fa",
+      "fromSide": "left",
+      "id": "8e4b283b5ed4a03bb78d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d222c61f462bb5f5b4fa",
+      "fromSide": "left",
+      "id": "e846ee76cb7a6949c2b7",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d3ef6499790340dc7243",
+      "fromSide": "left",
+      "id": "37f9ee78db7733c24b44",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d3ef6499790340dc7243",
+      "fromSide": "left",
+      "id": "110d68f534f3d809b901",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d3ef6499790340dc7243",
+      "fromSide": "bottom",
+      "id": "c8c7663f63b2e6262cca",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "acddb8df4d67738a20bf",
+      "fromSide": "left",
+      "id": "3a6bf3c1637c29eed7e5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "acddb8df4d67738a20bf",
+      "fromSide": "bottom",
+      "id": "b84158c8f4512f25fe92",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5ee594b10e1e1ddfc550",
+      "fromSide": "left",
+      "id": "66d20cfbebc148752074",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ee594b10e1e1ddfc550",
+      "fromSide": "left",
+      "id": "608110854eea89db12f7",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5ee594b10e1e1ddfc550",
+      "fromSide": "left",
+      "id": "d6180c7aefca834f57ab",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1b54a5171eef18cddbc4",
+      "fromSide": "left",
+      "id": "21db5f17d98df7901f8d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1b54a5171eef18cddbc4",
+      "fromSide": "left",
+      "id": "c9b9e46ffe54765ee23c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1b863a074575584512eb",
+      "fromSide": "bottom",
+      "id": "4010de4ee93bcb5549ea",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "1d41f1a96413e4cfe647",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1b863a074575584512eb",
+      "fromSide": "left",
+      "id": "c8f634363f154303d127",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1b863a074575584512eb",
+      "fromSide": "left",
+      "id": "38d5373a02991f4e6d1f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1b863a074575584512eb",
+      "fromSide": "left",
+      "id": "4c45a7360fe092be5134",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fafda3fc63cb5cf0f23c",
+      "fromSide": "left",
+      "id": "edaf2434db7e1345ff4e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fafda3fc63cb5cf0f23c",
+      "fromSide": "left",
+      "id": "1a26da18901eae1dc762",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "893628a149aaf0863342",
+      "fromSide": "left",
+      "id": "44ae0821a3cb778fe89a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "893628a149aaf0863342",
+      "fromSide": "left",
+      "id": "14e22bd1a6cd5f466203",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "893628a149aaf0863342",
+      "fromSide": "left",
+      "id": "0207944dc28ef5b665b0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "org-4bec0aaaaa6e53be",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "86e698a299a4dfa68542",
+      "text": "# 第06章 联立之同构方程\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "bc3979ecc3c5f360f022",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fbc362a61d6d86438948",
+      "mathmap_atom_id": "K645a18fb0cc63d",
+      "mathmap_file": "Mathmap/知识点/圆的标准方程及其推导.md",
+      "text": "[圆的标准方程及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1b54a5171eef18cddbc4",
+      "mathmap_atom_id": "K86e76b5e2c831b",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线交点的坐标同解同构.md",
+      "text": "[圆锥曲线交点的坐标同解同构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%BA%A4%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E5%90%8C%E8%A7%A3%E5%90%8C%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d222c61f462bb5f5b4fa",
+      "mathmap_atom_id": "K522c36e519628d",
+      "mathmap_file": "Mathmap/知识点/坐标同构与斜率同构的选择.md",
+      "text": "[坐标同构与斜率同构的选择](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9D%90%E6%A0%87%E5%90%8C%E6%9E%84%E4%B8%8E%E6%96%9C%E7%8E%87%E5%90%8C%E6%9E%84%E7%9A%84%E9%80%89%E6%8B%A9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1b863a074575584512eb",
+      "mathmap_atom_id": "Ka5fe29b2455562",
+      "mathmap_file": "Mathmap/知识点/定比分点的比值参数同构.md",
+      "text": "[定比分点的比值参数同构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E6%AF%94%E5%88%86%E7%82%B9%E7%9A%84%E6%AF%94%E5%80%BC%E5%8F%82%E6%95%B0%E5%90%8C%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1d41f1a96413e4cfe647",
+      "mathmap_atom_id": "K490df3d10995ff",
+      "mathmap_file": "Mathmap/知识点/平面向量数量积的坐标表示.md",
+      "text": "[平面向量数量积的坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E6%95%B0%E9%87%8F%E7%A7%AF%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fafda3fc63cb5cf0f23c",
+      "mathmap_atom_id": "Kccfeec80c47aa7",
+      "mathmap_file": "Mathmap/知识点/抛物线平行弦的同构方程.md",
+      "text": "[抛物线平行弦的同构方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E5%B9%B3%E8%A1%8C%E5%BC%A6%E7%9A%84%E5%90%8C%E6%9E%84%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "acddb8df4d67738a20bf",
+      "mathmap_atom_id": "K5f5731c44442eb",
+      "mathmap_file": "Mathmap/知识点/抛物线的两点联立方程与同构.md",
+      "text": "[抛物线的两点联立方程与同构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E8%81%94%E7%AB%8B%E6%96%B9%E7%A8%8B%E4%B8%8E%E5%90%8C%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5ee594b10e1e1ddfc550",
+      "mathmap_atom_id": "K6067442852b021",
+      "mathmap_file": "Mathmap/知识点/斜率和积定值的同构方程.md",
+      "text": "[斜率和积定值的同构方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%9C%E7%8E%87%E5%92%8C%E7%A7%AF%E5%AE%9A%E5%80%BC%E7%9A%84%E5%90%8C%E6%9E%84%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "893628a149aaf0863342",
+      "mathmap_atom_id": "Ke32d3e6f361c20",
+      "mathmap_file": "Mathmap/知识点/椭圆内准圆与斜率同构.md",
+      "text": "[椭圆内准圆与斜率同构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E5%86%85%E5%87%86%E5%9C%86%E4%B8%8E%E6%96%9C%E7%8E%87%E5%90%8C%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d3ef6499790340dc7243",
+      "mathmap_atom_id": "K57022165cf56cb",
+      "mathmap_file": "Mathmap/知识点/椭圆双切线与蒙日圆.md",
+      "text": "[椭圆双切线与蒙日圆](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E5%8F%8C%E5%88%87%E7%BA%BF%E4%B8%8E%E8%92%99%E6%97%A5%E5%9C%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 4200
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "09c7748f413861c6ea4a",
+      "text": "[第一节 抛物线两点联立式方程](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E6%8A%9B%E7%89%A9%E7%BA%BF%E4%B8%A4%E7%82%B9%E8%81%94%E7%AB%8B%E5%BC%8F%E6%96%B9%E7%A8%8B--d3294027.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 4420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "db4663609382ff096113",
+      "text": "[第二节 斜率同构式与坐标同构式的应用](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E6%96%9C%E7%8E%87%E5%90%8C%E6%9E%84%E5%BC%8F%E4%B8%8E%E5%9D%90%E6%A0%87%E5%90%8C%E6%9E%84%E5%BC%8F%E7%9A%84%E5%BA%94%E7%94%A8--fbd9864c.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 4420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "55e930f059583ccf0900",
+      "text": "[第三节 比值参数同构](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E6%AF%94%E5%80%BC%E5%8F%82%E6%95%B0%E5%90%8C%E6%9E%84--247b094e.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 4420
+    }
+  ]
+}

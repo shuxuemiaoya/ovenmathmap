@@ -1,0 +1,195 @@
+{
+  "edges": [
+    {
+      "fromNode": "e669f9c72cb078aec7b2",
+      "fromSide": "left",
+      "id": "bb99039450f608492f5a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e669f9c72cb078aec7b2",
+      "fromSide": "top",
+      "id": "314e15f6f2319758a602",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8ebfe23a6a1c9d527ff3",
+      "fromSide": "left",
+      "id": "15f63655727968a57323",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8ebfe23a6a1c9d527ff3",
+      "fromSide": "top",
+      "id": "25caedf2bbd2eaddbf1c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9fe37bdd9b936e344a20",
+      "fromSide": "left",
+      "id": "67b8ed9f98343b7476dd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9fe37bdd9b936e344a20",
+      "fromSide": "left",
+      "id": "e67477ea7e8c2e85863d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9fe37bdd9b936e344a20",
+      "fromSide": "bottom",
+      "id": "f47f7bcf977a70674b56",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1c8b91bf432f644d58f0",
+      "fromSide": "bottom",
+      "id": "d1d5c2605ec39e538abc",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1c8b91bf432f644d58f0",
+      "fromSide": "left",
+      "id": "73e2c362b1a23e358aa0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-1f66a97c4057aa32",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d8ddb483e952e29a53f5",
+      "text": "# 第三节 椭圆双曲的斜率转化（第三定义）\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "85b17fb6d21b48e3590b",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC01%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%9B%9B%E5%AE%9A%E4%B9%89--c462cef4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e669f9c72cb078aec7b2",
+      "mathmap_atom_id": "K2eb6fb7d3e204d",
+      "mathmap_file": "Mathmap/知识点/双曲线的对称点斜率积性质.md",
+      "text": "[双曲线的对称点斜率积性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E7%82%B9%E6%96%9C%E7%8E%87%E7%A7%AF%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9fe37bdd9b936e344a20",
+      "mathmap_atom_id": "K74cf0a66c1504b",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线中点弦的斜率关系.md",
+      "text": "[圆锥曲线中点弦的斜率关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%B8%AD%E7%82%B9%E5%BC%A6%E7%9A%84%E6%96%9C%E7%8E%87%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8ebfe23a6a1c9d527ff3",
+      "mathmap_atom_id": "K659ca5437a903e",
+      "mathmap_file": "Mathmap/知识点/椭圆的对称点斜率积性质.md",
+      "text": "[椭圆的对称点斜率积性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AF%B9%E7%A7%B0%E7%82%B9%E6%96%9C%E7%8E%87%E7%A7%AF%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1c8b91bf432f644d58f0",
+      "mathmap_atom_id": "K8a9aac5d654b8a",
+      "mathmap_file": "Mathmap/知识点/椭圆顶点弦的斜率比与定点.md",
+      "text": "[椭圆顶点弦的斜率比与定点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E9%A1%B6%E7%82%B9%E5%BC%A6%E7%9A%84%E6%96%9C%E7%8E%87%E6%AF%94%E4%B8%8E%E5%AE%9A%E7%82%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    }
+  ]
+}

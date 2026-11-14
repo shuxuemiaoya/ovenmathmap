@@ -1,0 +1,165 @@
+{
+  "edges": [
+    {
+      "fromNode": "90c59196d2af0c574e47",
+      "fromSide": "left",
+      "id": "039e1f98a55b276629b1",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "90c59196d2af0c574e47",
+      "fromSide": "top",
+      "id": "59c4e1bcd33a9bafa28f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "90c59196d2af0c574e47",
+      "fromSide": "left",
+      "id": "1191b3ca7e073e0d3c30",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3474c57324255bd44adf",
+      "fromSide": "left",
+      "id": "25fb9a25eccb300ae727",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3474c57324255bd44adf",
+      "fromSide": "left",
+      "id": "07a917c532c131439260",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cc06dbfccfae852a817e",
+      "fromSide": "left",
+      "id": "0eecd84f094064e905ef",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cc06dbfccfae852a817e",
+      "fromSide": "left",
+      "id": "537c19c117caefd7a727",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-2d48d87248e399b9",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5f6a264625058c3521c2",
+      "text": "# 第一节 过焦点弦的面积问题\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "13b18b276a7c4ef4ad5e",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC14%E7%AB%A0%20%E6%96%B0%E5%AE%9A%E4%B9%89%E4%B8%8B%E7%9A%84%E9%9D%A2%E7%A7%AF%E8%BD%AC%E5%8C%96--2bae5c4b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "90c59196d2af0c574e47",
+      "mathmap_atom_id": "K220e38d31aa625",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线焦弦中垂线与面积.md",
+      "text": "[圆锥曲线焦弦中垂线与面积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%84%A6%E5%BC%A6%E4%B8%AD%E5%9E%82%E7%BA%BF%E4%B8%8E%E9%9D%A2%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cc06dbfccfae852a817e",
+      "mathmap_atom_id": "Ke8f3bce61e8869",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线焦弦常数的面积比转化.md",
+      "text": "[圆锥曲线焦弦常数的面积比转化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%84%A6%E5%BC%A6%E5%B8%B8%E6%95%B0%E7%9A%84%E9%9D%A2%E7%A7%AF%E6%AF%94%E8%BD%AC%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3474c57324255bd44adf",
+      "mathmap_atom_id": "K8cdf24692ad24a",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线焦长与面积和差转化.md",
+      "text": "[圆锥曲线焦长与面积和差转化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%84%A6%E9%95%BF%E4%B8%8E%E9%9D%A2%E7%A7%AF%E5%92%8C%E5%B7%AE%E8%BD%AC%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    }
+  ]
+}

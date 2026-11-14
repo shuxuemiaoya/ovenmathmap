@@ -1,0 +1,147 @@
+{
+  "edges": [
+    {
+      "fromNode": "f7ef636ea3a1f0366178",
+      "fromSide": "left",
+      "id": "05f0aed2287597159cea",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f7ef636ea3a1f0366178",
+      "fromSide": "left",
+      "id": "c795f8d9a6e35656164c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "20f77a4fec4b7aa4ce62",
+      "fromSide": "bottom",
+      "id": "786a8eb0f587ca390a97",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "20f77a4fec4b7aa4ce62",
+      "fromSide": "top",
+      "id": "8be568895557a551a6f5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "20f77a4fec4b7aa4ce62",
+      "fromSide": "left",
+      "id": "9cf73019e59fffa97f99",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-3ee07a4274d04c12",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "b186e0e2389140b09eab",
+      "text": "# 第七节 截口曲线与祖暅原理\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "9049a74b4a9b1a468e51",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC01%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%9B%9B%E5%AE%9A%E4%B9%89--c462cef4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f7ef636ea3a1f0366178",
+      "mathmap_atom_id": "Kd2c4dec458e375",
+      "mathmap_file": "Mathmap/知识点/丹德林双球模型与离心率.md",
+      "text": "[丹德林双球模型与离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%B9%E5%BE%B7%E6%9E%97%E5%8F%8C%E7%90%83%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "20f77a4fec4b7aa4ce62",
+      "mathmap_atom_id": "Kd8db41507a2ee8",
+      "mathmap_file": "Mathmap/知识点/圆锥截面与圆锥曲线的类型.md",
+      "text": "[圆锥截面与圆锥曲线的类型](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%88%AA%E9%9D%A2%E4%B8%8E%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%B1%BB%E5%9E%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "73d2c0c359981cbbd1ef",
+      "mathmap_atom_id": "K4f9ef16ec4a9b8",
+      "mathmap_file": "Mathmap/知识点/椭圆的离心率.md",
+      "text": "[椭圆的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    }
+  ]
+}

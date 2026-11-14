@@ -1,0 +1,204 @@
+{
+  "edges": [
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "75dabf2ab1d236e0500a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "af5c0bb54e7a5373819b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "45c3ee288d1c06bdf42a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "237a9703373f98b677dc",
+      "fromSide": "left",
+      "id": "62b037e3b2d1b504d802",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "21970b8dccb0acb50fd4",
+      "fromSide": "bottom",
+      "id": "1320b9c251895b1df373",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "21970b8dccb0acb50fd4",
+      "fromSide": "left",
+      "id": "0baca31d6f685f6de2ab",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "21970b8dccb0acb50fd4",
+      "fromSide": "left",
+      "id": "397bf09b5514f0fcf0cd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e09b55e0aa3c1f297336",
+      "fromSide": "left",
+      "id": "fc4b8674e0caf5039e17",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e09b55e0aa3c1f297336",
+      "fromSide": "top",
+      "id": "6b17d9f941b8b23221c0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e09b55e0aa3c1f297336",
+      "fromSide": "left",
+      "id": "fd9daa98639475ea8b5c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-6807079c4169836e",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "139bb2f56696b60587ec",
+      "text": "# 第二节 极点极线定义与自极三角形\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1fe0af53a98a45d22600",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC11%E7%AB%A0%20%E4%BB%8E%E5%AE%9A%E6%AF%94%E7%82%B9%E5%B7%AE%E5%88%B0%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF--051a3b58.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e09b55e0aa3c1f297336",
+      "mathmap_atom_id": "K84d46620217668",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线极点极线的配极性质.md",
+      "text": "[圆锥曲线极点极线的配极性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF%E7%9A%84%E9%85%8D%E6%9E%81%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "237a9703373f98b677dc",
+      "mathmap_atom_id": "K275b736bd5169e",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的极点极线.md",
+      "text": "[圆锥曲线的极点极线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%9E%81%E7%82%B9%E6%9E%81%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "21970b8dccb0acb50fd4",
+      "mathmap_atom_id": "K783365617bbe7b",
+      "mathmap_file": "Mathmap/知识点/完全四边形与自极三角形.md",
+      "text": "[完全四边形与自极三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%8C%E5%85%A8%E5%9B%9B%E8%BE%B9%E5%BD%A2%E4%B8%8E%E8%87%AA%E6%9E%81%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    }
+  ]
+}

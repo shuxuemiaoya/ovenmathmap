@@ -1,0 +1,162 @@
+{
+  "edges": [
+    {
+      "fromNode": "eec753e03a937dcddd7c",
+      "fromSide": "bottom",
+      "id": "23c6c69cc338751e525a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c36d5f881c4befa79004",
+      "fromSide": "left",
+      "id": "eed84c840797bb5599ff",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dd1fa397bed6cf17ac25",
+      "fromSide": "bottom",
+      "id": "7be3fc82452171a97654",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "54038ebeddb8f5540042",
+      "fromSide": "bottom",
+      "id": "608b49ad99827f039790",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-79bfffb945b7682b",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "9a16588b8ef53d5e2532",
+      "text": "# 第六节 长度最值问题之声东击西\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8fbdd88c84ec1e919bde",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC01%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%9B%9B%E5%AE%9A%E4%B9%89--c462cef4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "dd1fa397bed6cf17ac25",
+      "mathmap_atom_id": "Ka2f11521ac7985",
+      "mathmap_file": "Mathmap/知识点/双曲线焦距和差的最值转化.md",
+      "text": "[双曲线焦距和差的最值转化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%84%A6%E8%B7%9D%E5%92%8C%E5%B7%AE%E7%9A%84%E6%9C%80%E5%80%BC%E8%BD%AC%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fbc362a61d6d86438948",
+      "mathmap_atom_id": "K645a18fb0cc63d",
+      "mathmap_file": "Mathmap/知识点/圆的标准方程及其推导.md",
+      "text": "[圆的标准方程及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "eec753e03a937dcddd7c",
+      "mathmap_atom_id": "K6f73e1f26e4ef5",
+      "mathmap_file": "Mathmap/知识点/抛物线焦准距离的最值转化.md",
+      "text": "[抛物线焦准距离的最值转化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%84%A6%E5%87%86%E8%B7%9D%E7%A6%BB%E7%9A%84%E6%9C%80%E5%80%BC%E8%BD%AC%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "54038ebeddb8f5540042",
+      "mathmap_atom_id": "Kc95eebb909feb4",
+      "mathmap_file": "Mathmap/知识点/椭圆焦距和差的最值转化.md",
+      "text": "[椭圆焦距和差的最值转化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%84%A6%E8%B7%9D%E5%92%8C%E5%B7%AE%E7%9A%84%E6%9C%80%E5%80%BC%E8%BD%AC%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c36d5f881c4befa79004",
+      "mathmap_atom_id": "K7083d3392a333d",
+      "mathmap_file": "Mathmap/知识点/阿波罗尼斯圆与圆锥曲线距离最值.md",
+      "text": "[阿波罗尼斯圆与圆锥曲线距离最值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%BF%E6%B3%A2%E7%BD%97%E5%B0%BC%E6%96%AF%E5%9C%86%E4%B8%8E%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E8%B7%9D%E7%A6%BB%E6%9C%80%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    }
+  ]
+}

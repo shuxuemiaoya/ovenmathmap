@@ -1,0 +1,297 @@
+{
+  "edges": [
+    {
+      "fromNode": "a1cd6eea235b12cc5f89",
+      "fromSide": "left",
+      "id": "720433286116991945c8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a1cd6eea235b12cc5f89",
+      "fromSide": "bottom",
+      "id": "bcd7e2596a54fb29f193",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6c81b2ed54d644df1b08",
+      "fromSide": "top",
+      "id": "648a6004d2ae123b6ff8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6c81b2ed54d644df1b08",
+      "fromSide": "left",
+      "id": "aa99de7fe48109eff8f9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bf4a70ecf85973e3c153",
+      "fromSide": "left",
+      "id": "3f8d832a1b46f3547dc9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bf4a70ecf85973e3c153",
+      "fromSide": "bottom",
+      "id": "1f819cee73b8e049061d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10302b6ace99cc699af8",
+      "fromSide": "bottom",
+      "id": "2d5b81bbd949bca511fa",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10302b6ace99cc699af8",
+      "fromSide": "top",
+      "id": "2e06764729a9cd46140e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "46ee24224a198a672f1e",
+      "fromSide": "left",
+      "id": "b12d74c097dc6278ad8c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "1d41f1a96413e4cfe647",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "46ee24224a198a672f1e",
+      "fromSide": "top",
+      "id": "e19787a9975224ae4c38",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "46ee24224a198a672f1e",
+      "fromSide": "left",
+      "id": "3cb6edd940395f1e29db",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "29b88f00d855ee3b6540",
+      "fromSide": "bottom",
+      "id": "9fdd2ef95ce9dad66b82",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "1d41f1a96413e4cfe647",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "29b88f00d855ee3b6540",
+      "fromSide": "left",
+      "id": "26be7eb3f09a3a69a36d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "org-f5b59b5759d5dc19",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f4a70d5bf65f04f7e9d7",
+      "text": "# 第05章 常规韦达联立\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "78b5500cc97022bba715",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bf4a70ecf85973e3c153",
+      "mathmap_atom_id": "K7996963f85c376",
+      "mathmap_file": "Mathmap/知识点/双曲线与直线联立的交点条件.md",
+      "text": "[双曲线与直线联立的交点条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E8%81%94%E7%AB%8B%E7%9A%84%E4%BA%A4%E7%82%B9%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "46ee24224a198a672f1e",
+      "mathmap_atom_id": "Kc28621b5097e2f",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线过原点向量积的联立计算.md",
+      "text": "[圆锥曲线过原点向量积的联立计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E8%BF%87%E5%8E%9F%E7%82%B9%E5%90%91%E9%87%8F%E7%A7%AF%E7%9A%84%E8%81%94%E7%AB%8B%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "29b88f00d855ee3b6540",
+      "mathmap_atom_id": "Kf4abe2af9bab81",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线非原点向量积的联立计算.md",
+      "text": "[圆锥曲线非原点向量积的联立计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E9%9D%9E%E5%8E%9F%E7%82%B9%E5%90%91%E9%87%8F%E7%A7%AF%E7%9A%84%E8%81%94%E7%AB%8B%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1d41f1a96413e4cfe647",
+      "mathmap_atom_id": "K490df3d10995ff",
+      "mathmap_file": "Mathmap/知识点/平面向量数量积的坐标表示.md",
+      "text": "[平面向量数量积的坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E6%95%B0%E9%87%8F%E7%A7%AF%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a1cd6eea235b12cc5f89",
+      "mathmap_atom_id": "K26e87cd36c2f29",
+      "mathmap_file": "Mathmap/知识点/椭圆与直线联立的正设与反设.md",
+      "text": "[椭圆与直线联立的正设与反设](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E4%B8%8E%E7%9B%B4%E7%BA%BF%E8%81%94%E7%AB%8B%E7%9A%84%E6%AD%A3%E8%AE%BE%E4%B8%8E%E5%8F%8D%E8%AE%BE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "10302b6ace99cc699af8",
+      "mathmap_atom_id": "Ka32c7711965e16",
+      "mathmap_file": "Mathmap/知识点/椭圆轴点弦的和积互换.md",
+      "text": "[椭圆轴点弦的和积互换](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E8%BD%B4%E7%82%B9%E5%BC%A6%E7%9A%84%E5%92%8C%E7%A7%AF%E4%BA%92%E6%8D%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6c81b2ed54d644df1b08",
+      "mathmap_atom_id": "K2fa52189602b81",
+      "mathmap_file": "Mathmap/知识点/非对称韦达表达式的对称化.md",
+      "text": "[非对称韦达表达式的对称化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9D%9E%E5%AF%B9%E7%A7%B0%E9%9F%A6%E8%BE%BE%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%AF%B9%E7%A7%B0%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "9259242efa43965b4a77",
+      "text": "[第一节 正反设直线的方案选择](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E6%AD%A3%E5%8F%8D%E8%AE%BE%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E6%A1%88%E9%80%89%E6%8B%A9--be1cabf5.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2920
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "c0b67ea8ca2d0806d28d",
+      "text": "[第二节 向量乘积中的翻译方法](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E5%90%91%E9%87%8F%E4%B9%98%E7%A7%AF%E4%B8%AD%E7%9A%84%E7%BF%BB%E8%AF%91%E6%96%B9%E6%B3%95--f6eb5312.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2920
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b4695c9d119876c0249a",
+      "text": "[第三节 运算技巧下的韦达定理拓展](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E8%BF%90%E7%AE%97%E6%8A%80%E5%B7%A7%E4%B8%8B%E7%9A%84%E9%9F%A6%E8%BE%BE%E5%AE%9A%E7%90%86%E6%8B%93%E5%B1%95--304d07d2.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 2920
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "edges": [
+    {
+      "fromNode": "a1cd6eea235b12cc5f89",
+      "fromSide": "left",
+      "id": "720433286116991945c8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a1cd6eea235b12cc5f89",
+      "fromSide": "bottom",
+      "id": "bcd7e2596a54fb29f193",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf4a70ecf85973e3c153",
+      "fromSide": "left",
+      "id": "3f8d832a1b46f3547dc9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bf4a70ecf85973e3c153",
+      "fromSide": "bottom",
+      "id": "1f819cee73b8e049061d",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-15ca61b05c518184",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "08cbe1f885c1b542aee4",
+      "text": "# 第一节 正反设直线的方案选择\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "942f6350f0af0e7a98c8",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC05%E7%AB%A0%20%E5%B8%B8%E8%A7%84%E9%9F%A6%E8%BE%BE%E8%81%94%E7%AB%8B--155b143a.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bf4a70ecf85973e3c153",
+      "mathmap_atom_id": "K7996963f85c376",
+      "mathmap_file": "Mathmap/知识点/双曲线与直线联立的交点条件.md",
+      "text": "[双曲线与直线联立的交点条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E8%81%94%E7%AB%8B%E7%9A%84%E4%BA%A4%E7%82%B9%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a1cd6eea235b12cc5f89",
+      "mathmap_atom_id": "K26e87cd36c2f29",
+      "mathmap_file": "Mathmap/知识点/椭圆与直线联立的正设与反设.md",
+      "text": "[椭圆与直线联立的正设与反设](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E4%B8%8E%E7%9B%B4%E7%BA%BF%E8%81%94%E7%AB%8B%E7%9A%84%E6%AD%A3%E8%AE%BE%E4%B8%8E%E5%8F%8D%E8%AE%BE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    }
+  ]
+}

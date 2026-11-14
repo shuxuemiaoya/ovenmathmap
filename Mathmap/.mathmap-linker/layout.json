@@ -6,6 +6,11 @@
     "问题袋",
     "概念或公式"
   ],
+  "canvas_folders": [
+    "canvas/一层",
+    "canvas/二层",
+    "canvas/三层"
+  ],
   "change_record": "/Users/oven/Documents/ovenmathmap/.mathmap-linker/runs/mathmap-layout-380b027de886",
   "content_folders": [
     "习题",
@@ -18,7 +23,7 @@
     "公式总结"
   ],
   "created_at": "2026-11-05T03:08:01.777069+00:00",
-  "formal_sources_imported": 9,
+  "formal_sources_imported": 10,
   "image_bucket_prefix_length": 2,
   "image_pools": [
     "习题/attachments",

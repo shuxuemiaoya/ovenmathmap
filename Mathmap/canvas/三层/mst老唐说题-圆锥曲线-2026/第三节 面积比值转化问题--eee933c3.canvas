@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "3f971f966a3d83d83355",
+      "fromSide": "bottom",
+      "id": "3860455d3dc9c6778a76",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-92ce945bf85de2c0",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "460d7731434daeb6d0a4",
+      "text": "# 第三节 面积比值转化问题\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "4315606b89e5f17abbd5",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC14%E7%AB%A0%20%E6%96%B0%E5%AE%9A%E4%B9%89%E4%B8%8B%E7%9A%84%E9%9D%A2%E7%A7%AF%E8%BD%AC%E5%8C%96--2bae5c4b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3f971f966a3d83d83355",
+      "mathmap_atom_id": "Kdd47eb5e4ac82a",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线共轭点的面积等比中项.md",
+      "text": "[圆锥曲线共轭点的面积等比中项](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%85%B1%E8%BD%AD%E7%82%B9%E7%9A%84%E9%9D%A2%E7%A7%AF%E7%AD%89%E6%AF%94%E4%B8%AD%E9%A1%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    }
+  ]
+}

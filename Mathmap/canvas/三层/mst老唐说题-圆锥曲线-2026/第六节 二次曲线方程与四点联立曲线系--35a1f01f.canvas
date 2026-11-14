@@ -1,0 +1,228 @@
+{
+  "edges": [
+    {
+      "fromNode": "fc3b1dc20086b14f00ec",
+      "fromSide": "bottom",
+      "id": "af6013f20a13bc8789ae",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fc3b1dc20086b14f00ec",
+      "fromSide": "left",
+      "id": "d1d84df2479f3f522648",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "58d1d65ce5e7a1c2ec6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "52e33e27c1662501d207",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "a21f56463a3b39f88442",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "fd53380485b3a5209ccd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f1493c9099f4cd5d19ca",
+      "fromSide": "left",
+      "id": "3759fae430f2e983f879",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "top",
+      "id": "bcaa9402eef748aaf057",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "00b7e6da1ceaef902f3c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "d361bddd65fa82e6b180",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "93bdece0a1ea0e75c9ef",
+      "fromSide": "left",
+      "id": "fef6a29625871c7d8cba",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-b248aa2ec5bcf51f",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5d85cc724abb9628f2ee",
+      "text": "# 第六节 二次曲线方程与四点联立曲线系\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "2742dc45b11fbf03597b",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC08%E7%AB%A0%20%E8%81%94%E7%AB%8B%E8%AE%A1%E7%AE%97%E9%AB%98%E9%98%B6%E7%AF%87--8f1ad052.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f1493c9099f4cd5d19ca",
+      "mathmap_atom_id": "K86509ea54951dc",
+      "mathmap_file": "Mathmap/知识点/切线适配曲线系与斜率和积.md",
+      "text": "[切线适配曲线系与斜率和积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%87%E7%BA%BF%E9%80%82%E9%85%8D%E6%9B%B2%E7%BA%BF%E7%B3%BB%E4%B8%8E%E6%96%9C%E7%8E%87%E5%92%8C%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fc3b1dc20086b14f00ec",
+      "mathmap_atom_id": "K03a1d3ab061a8f",
+      "mathmap_file": "Mathmap/知识点/双曲线与渐近线的退化曲线系.md",
+      "text": "[双曲线与渐近线的退化曲线系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%B8%90%E8%BF%91%E7%BA%BF%E7%9A%84%E9%80%80%E5%8C%96%E6%9B%B2%E7%BA%BF%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "58d1d65ce5e7a1c2ec6a",
+      "mathmap_atom_id": "Kb7cbbb3109ef57",
+      "mathmap_file": "Mathmap/知识点/双曲线的渐近线.md",
+      "text": "[双曲线的渐近线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%B8%90%E8%BF%91%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "93bdece0a1ea0e75c9ef",
+      "mathmap_atom_id": "Kd0ec1b346efdfd",
+      "mathmap_file": "Mathmap/知识点/退化二次曲线与四点联立曲线系.md",
+      "text": "[退化二次曲线与四点联立曲线系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%80%E5%8C%96%E4%BA%8C%E6%AC%A1%E6%9B%B2%E7%BA%BF%E4%B8%8E%E5%9B%9B%E7%82%B9%E8%81%94%E7%AB%8B%E6%9B%B2%E7%BA%BF%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    }
+  ]
+}

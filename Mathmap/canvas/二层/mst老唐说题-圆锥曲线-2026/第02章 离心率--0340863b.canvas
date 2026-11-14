@@ -1,0 +1,474 @@
+{
+  "edges": [
+    {
+      "fromNode": "81f1c6f0d6820d5a832e",
+      "fromSide": "left",
+      "id": "e628179aed2623d228d0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "81f1c6f0d6820d5a832e",
+      "fromSide": "left",
+      "id": "96c5bbc59ed4203bb220",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "58d1d65ce5e7a1c2ec6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "373f500c619c11f74865",
+      "fromSide": "bottom",
+      "id": "2c521bb5ddcfcafeaaee",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "373f500c619c11f74865",
+      "fromSide": "left",
+      "id": "88c626e80a86f343273c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "58d1d65ce5e7a1c2ec6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1fa95608446a7a471b80",
+      "fromSide": "left",
+      "id": "5eb41c4e04a28d2d5eb3",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1fa95608446a7a471b80",
+      "fromSide": "bottom",
+      "id": "8f8685b95f4b8050a28c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "92a3b2a8464914432a34",
+      "fromSide": "left",
+      "id": "17f75b54bbf992fc1a65",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "009fcd93a786da3ee2b6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "92a3b2a8464914432a34",
+      "fromSide": "left",
+      "id": "29009ac47abd27333c87",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "92a3b2a8464914432a34",
+      "fromSide": "left",
+      "id": "4aef9a967da91767b847",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "58d1d65ce5e7a1c2ec6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7113ed5e7d951881d987",
+      "fromSide": "left",
+      "id": "44fd0021edf98f6ad7d0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7113ed5e7d951881d987",
+      "fromSide": "left",
+      "id": "945f280fb95072dc8596",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dc20aa7b52db50f3f013",
+      "fromSide": "left",
+      "id": "36fac1322bd1a6d8f88a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "009fcd93a786da3ee2b6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dc20aa7b52db50f3f013",
+      "fromSide": "top",
+      "id": "616cefdbe96aba459ead",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "dc20aa7b52db50f3f013",
+      "fromSide": "left",
+      "id": "5bbd06d04ba0272cc2e8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dc20aa7b52db50f3f013",
+      "fromSide": "left",
+      "id": "be17cc7770bbab467e93",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0eef8e59028a26922b44",
+      "fromSide": "left",
+      "id": "0b56f982d741c44ab45e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "009fcd93a786da3ee2b6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0eef8e59028a26922b44",
+      "fromSide": "left",
+      "id": "ad37e0088c3846be9bfa",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0eef8e59028a26922b44",
+      "fromSide": "left",
+      "id": "81d56385d99be0f4a633",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0eef8e59028a26922b44",
+      "fromSide": "left",
+      "id": "1258da9785b625c6a6eb",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e5956d0ac55a4719a95b",
+      "fromSide": "left",
+      "id": "204c8c8b332077203700",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "009fcd93a786da3ee2b6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e5956d0ac55a4719a95b",
+      "fromSide": "left",
+      "id": "e6102f5fb3b608f62ded",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e5956d0ac55a4719a95b",
+      "fromSide": "left",
+      "id": "8f85de3baa66ebeb689a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e5956d0ac55a4719a95b",
+      "fromSide": "left",
+      "id": "ea0b910c564e93251408",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ae8c6aa3c4facb71759d",
+      "fromSide": "left",
+      "id": "e886d792b1a5830f4ea6",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "35b3aca23af5c057d0fc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ae8c6aa3c4facb71759d",
+      "fromSide": "left",
+      "id": "8e31294301237b1e22e2",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ae8c6aa3c4facb71759d",
+      "fromSide": "left",
+      "id": "43fb67fa154d80472a9c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "org-076427b058ac1420",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "4c321ec8b96c42603575",
+      "text": "# 第02章 离心率\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "d49331131db3dbe74c34",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "81f1c6f0d6820d5a832e",
+      "mathmap_atom_id": "K0539cf7d6daa11",
+      "mathmap_file": "Mathmap/知识点/双曲线大圆与渐近线交点坐标.md",
+      "text": "[双曲线大圆与渐近线交点坐标](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E5%A4%A7%E5%9C%86%E4%B8%8E%E6%B8%90%E8%BF%91%E7%BA%BF%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "92a3b2a8464914432a34",
+      "mathmap_atom_id": "K8de649f61e84c2",
+      "mathmap_file": "Mathmap/知识点/双曲线渐近线相似三角形与离心率.md",
+      "text": "[双曲线渐近线相似三角形与离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E6%B8%90%E8%BF%91%E7%BA%BF%E7%9B%B8%E4%BC%BC%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "373f500c619c11f74865",
+      "mathmap_atom_id": "K49236cd6b1ca08",
+      "mathmap_file": "Mathmap/知识点/双曲线焦点到渐近线的距离.md",
+      "text": "[双曲线焦点到渐近线的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%84%A6%E7%82%B9%E5%88%B0%E6%B8%90%E8%BF%91%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "58d1d65ce5e7a1c2ec6a",
+      "mathmap_atom_id": "Kb7cbbb3109ef57",
+      "mathmap_file": "Mathmap/知识点/双曲线的渐近线.md",
+      "text": "[双曲线的渐近线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%B8%90%E8%BF%91%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "009fcd93a786da3ee2b6",
+      "mathmap_atom_id": "K315ee6fa99179e",
+      "mathmap_file": "Mathmap/知识点/双曲线的离心率.md",
+      "text": "[双曲线的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ae8c6aa3c4facb71759d",
+      "mathmap_atom_id": "Ke244e16b98fe1e",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线中垂线的截距定理.md",
+      "text": "[圆锥曲线中垂线的截距定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E4%B8%AD%E5%9E%82%E7%BA%BF%E7%9A%84%E6%88%AA%E8%B7%9D%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e5956d0ac55a4719a95b",
+      "mathmap_atom_id": "Kbf22d6cc7c825e",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线焦弦直角结构与离心率.md",
+      "text": "[圆锥曲线焦弦直角结构与离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%84%A6%E5%BC%A6%E7%9B%B4%E8%A7%92%E7%BB%93%E6%9E%84%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0eef8e59028a26922b44",
+      "mathmap_atom_id": "Ka113453ade97ac",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的焦比定理.md",
+      "text": "[圆锥曲线的焦比定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%84%A6%E6%AF%94%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7113ed5e7d951881d987",
+      "mathmap_atom_id": "K9505c1d86638d3",
+      "mathmap_file": "Mathmap/知识点/椭圆中心直角弦的距离定值.md",
+      "text": "[椭圆中心直角弦的距离定值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E4%B8%AD%E5%BF%83%E7%9B%B4%E8%A7%92%E5%BC%A6%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%AE%9A%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1fa95608446a7a471b80",
+      "mathmap_atom_id": "K783a8bf4db0f3b",
+      "mathmap_file": "Mathmap/知识点/椭圆焦点张角与离心率范围.md",
+      "text": "[椭圆焦点张角与离心率范围](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%84%A6%E7%82%B9%E5%BC%A0%E8%A7%92%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87%E8%8C%83%E5%9B%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "73d2c0c359981cbbd1ef",
+      "mathmap_atom_id": "K4f9ef16ec4a9b8",
+      "mathmap_file": "Mathmap/知识点/椭圆的离心率.md",
+      "text": "[椭圆的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "dc20aa7b52db50f3f013",
+      "mathmap_atom_id": "K9cd32147b72950",
+      "mathmap_file": "Mathmap/知识点/焦点三角形直角条件与离心率.md",
+      "text": "[焦点三角形直角条件与离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9B%B4%E8%A7%92%E6%9D%A1%E4%BB%B6%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 4200
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b82afe0ee71837788098",
+      "text": "[第一节 弦长体系下的焦长模型与焦比定理](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%80%E8%8A%82%20%E5%BC%A6%E9%95%BF%E4%BD%93%E7%B3%BB%E4%B8%8B%E7%9A%84%E7%84%A6%E9%95%BF%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%84%A6%E6%AF%94%E5%AE%9A%E7%90%86--3df2dc90.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 4420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "635131594796f1a75687",
+      "text": "[第二节 几何性质下的渐近线模型](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%BA%8C%E8%8A%82%20%E5%87%A0%E4%BD%95%E6%80%A7%E8%B4%A8%E4%B8%8B%E7%9A%84%E6%B8%90%E8%BF%91%E7%BA%BF%E6%A8%A1%E5%9E%8B--4e96552c.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 4420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "068189eac30d4d6a36fd",
+      "text": "[第三节 长度与角度下的离心率范围约束](../../%E4%B8%89%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC%E4%B8%89%E8%8A%82%20%E9%95%BF%E5%BA%A6%E4%B8%8E%E8%A7%92%E5%BA%A6%E4%B8%8B%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87%E8%8C%83%E5%9B%B4%E7%BA%A6%E6%9D%9F--d5230db4.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 4420
+    }
+  ]
+}

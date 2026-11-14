@@ -1,0 +1,228 @@
+{
+  "edges": [
+    {
+      "fromNode": "3caf599ec84b2b1f33cf",
+      "fromSide": "left",
+      "id": "e3dfea6b0e03b4a98882",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3caf599ec84b2b1f33cf",
+      "fromSide": "bottom",
+      "id": "0f5edd6c8d0aac4ed7aa",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1e23eeb5eb8e207ad62b",
+      "fromSide": "left",
+      "id": "be6ac68e13c6c3ca4d03",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1e23eeb5eb8e207ad62b",
+      "fromSide": "left",
+      "id": "88e75cb931e0fcc29ea1",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "025c5b1cee0b874a4655",
+      "fromSide": "left",
+      "id": "b21ba5d3c8500e9eabcd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "009fcd93a786da3ee2b6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "025c5b1cee0b874a4655",
+      "fromSide": "bottom",
+      "id": "eca4e1b26ae8f57d88fd",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7ddc1a1c8432818b6e40",
+      "fromSide": "left",
+      "id": "48eb78bc230b2a7a1983",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "009fcd93a786da3ee2b6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7ddc1a1c8432818b6e40",
+      "fromSide": "left",
+      "id": "854400d8138f2c19fdf5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d9080aa3ad85addcd089",
+      "fromSide": "left",
+      "id": "7519c45f2ca49970546c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d9080aa3ad85addcd089",
+      "fromSide": "left",
+      "id": "6f7c45266fb15e994bb5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-44939788716e3fbb",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "62e7b3a96c5579db42a7",
+      "text": "# 第一节 角度语言与坐标语言下的焦点三角形\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "bd36bb96257ac3e6f0d0",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC03%E7%AB%A0%20%E5%87%A0%E4%BD%95%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2--2d9a4d21.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7ddc1a1c8432818b6e40",
+      "mathmap_atom_id": "Ka9104e4a201697",
+      "mathmap_file": "Mathmap/知识点/双曲线焦点三角形半角与离心率.md",
+      "text": "[双曲线焦点三角形半角与离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "025c5b1cee0b874a4655",
+      "mathmap_atom_id": "Ka0b8022a027b72",
+      "mathmap_file": "Mathmap/知识点/双曲线焦点三角形的面积与角度性质.md",
+      "text": "[双曲线焦点三角形的面积与角度性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E9%9D%A2%E7%A7%AF%E4%B8%8E%E8%A7%92%E5%BA%A6%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "009fcd93a786da3ee2b6",
+      "mathmap_atom_id": "K315ee6fa99179e",
+      "mathmap_file": "Mathmap/知识点/双曲线的离心率.md",
+      "text": "[双曲线的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1e23eeb5eb8e207ad62b",
+      "mathmap_atom_id": "K53609e3e10a933",
+      "mathmap_file": "Mathmap/知识点/椭圆与双曲线的共焦点关系.md",
+      "text": "[椭圆与双曲线的共焦点关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E4%B8%8E%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%85%B1%E7%84%A6%E7%82%B9%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d9080aa3ad85addcd089",
+      "mathmap_atom_id": "Kf87778a3da4e7d",
+      "mathmap_file": "Mathmap/知识点/椭圆焦点三角形半角与离心率.md",
+      "text": "[椭圆焦点三角形半角与离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E5%8D%8A%E8%A7%92%E4%B8%8E%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3caf599ec84b2b1f33cf",
+      "mathmap_atom_id": "K07ac40a9b73172",
+      "mathmap_file": "Mathmap/知识点/椭圆焦点三角形的面积与角度性质.md",
+      "text": "[椭圆焦点三角形的面积与角度性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%84%A6%E7%82%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E9%9D%A2%E7%A7%AF%E4%B8%8E%E8%A7%92%E5%BA%A6%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "73d2c0c359981cbbd1ef",
+      "mathmap_atom_id": "K4f9ef16ec4a9b8",
+      "mathmap_file": "Mathmap/知识点/椭圆的离心率.md",
+      "text": "[椭圆的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    }
+  ]
+}

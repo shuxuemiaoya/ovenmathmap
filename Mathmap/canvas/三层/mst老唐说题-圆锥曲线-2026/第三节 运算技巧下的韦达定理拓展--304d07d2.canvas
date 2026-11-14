@@ -1,0 +1,114 @@
+{
+  "edges": [
+    {
+      "fromNode": "6c81b2ed54d644df1b08",
+      "fromSide": "top",
+      "id": "648a6004d2ae123b6ff8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6c81b2ed54d644df1b08",
+      "fromSide": "left",
+      "id": "aa99de7fe48109eff8f9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "10302b6ace99cc699af8",
+      "fromSide": "bottom",
+      "id": "2d5b81bbd949bca511fa",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10302b6ace99cc699af8",
+      "fromSide": "top",
+      "id": "2e06764729a9cd46140e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-fa720ac33b021434",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "98135d5e39b3dbff5a7c",
+      "text": "# 第三节 运算技巧下的韦达定理拓展\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "97f89ef9159ce8f2c4c3",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC05%E7%AB%A0%20%E5%B8%B8%E8%A7%84%E9%9F%A6%E8%BE%BE%E8%81%94%E7%AB%8B--155b143a.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "10302b6ace99cc699af8",
+      "mathmap_atom_id": "Ka32c7711965e16",
+      "mathmap_file": "Mathmap/知识点/椭圆轴点弦的和积互换.md",
+      "text": "[椭圆轴点弦的和积互换](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E8%BD%B4%E7%82%B9%E5%BC%A6%E7%9A%84%E5%92%8C%E7%A7%AF%E4%BA%92%E6%8D%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6c81b2ed54d644df1b08",
+      "mathmap_atom_id": "K2fa52189602b81",
+      "mathmap_file": "Mathmap/知识点/非对称韦达表达式的对称化.md",
+      "text": "[非对称韦达表达式的对称化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9D%9E%E5%AF%B9%E7%A7%B0%E9%9F%A6%E8%BE%BE%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%AF%B9%E7%A7%B0%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    }
+  ]
+}

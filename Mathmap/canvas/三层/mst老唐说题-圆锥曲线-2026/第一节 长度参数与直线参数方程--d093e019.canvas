@@ -1,0 +1,177 @@
+{
+  "edges": [
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "bottom",
+      "id": "b2148e1ea4b06a2a136c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "top",
+      "id": "596bdc585fc9f6fffd0a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "left",
+      "id": "e3d2dc05244f27f328f5",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "6b5b25382cf4b0367e87",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4f52a8e706d34ee9ad4b",
+      "fromSide": "left",
+      "id": "e1e064fe1f02ead5182a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d8ff30547db7d39bd13",
+      "fromSide": "left",
+      "id": "3f63b40c612a893c0f83",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "6b5b25382cf4b0367e87",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e148bb65c57e20ef15a1",
+      "fromSide": "left",
+      "id": "011d833ea6456845f423",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "6b5b25382cf4b0367e87",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e148bb65c57e20ef15a1",
+      "fromSide": "top",
+      "id": "5d473933e9bef4051e9e",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-44f1c2c2dd29f490",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5bb33a3c6d18d14365a5",
+      "text": "# 第一节 长度参数与直线参数方程\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "edde92c2ef046811d185",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC08%E7%AB%A0%20%E8%81%94%E7%AB%8B%E8%AE%A1%E7%AE%97%E9%AB%98%E9%98%B6%E7%AF%87--8f1ad052.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4f52a8e706d34ee9ad4b",
+      "mathmap_atom_id": "K05677499cf4812",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线分弦定值的长度参数法.md",
+      "text": "[圆锥曲线分弦定值的长度参数法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%88%86%E5%BC%A6%E5%AE%9A%E5%80%BC%E7%9A%84%E9%95%BF%E5%BA%A6%E5%8F%82%E6%95%B0%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6b5b25382cf4b0367e87",
+      "mathmap_atom_id": "Ka082493822490b",
+      "mathmap_file": "Mathmap/知识点/探究与发现 方向向量与直线的参数方程.md",
+      "text": "[探究与发现 方向向量与直线的参数方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E6%96%B9%E5%90%91%E5%90%91%E9%87%8F%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e148bb65c57e20ef15a1",
+      "mathmap_atom_id": "Ked349f57ed5283",
+      "mathmap_file": "Mathmap/知识点/椭圆轴点分弦平方和的定值.md",
+      "text": "[椭圆轴点分弦平方和的定值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E8%BD%B4%E7%82%B9%E5%88%86%E5%BC%A6%E5%B9%B3%E6%96%B9%E5%92%8C%E7%9A%84%E5%AE%9A%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0d8ff30547db7d39bd13",
+      "mathmap_atom_id": "K9312c7888ceb95",
+      "mathmap_file": "Mathmap/知识点/直线的长度参数方程及其性质.md",
+      "text": "[直线的长度参数方程及其性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E9%95%BF%E5%BA%A6%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    }
+  ]
+}

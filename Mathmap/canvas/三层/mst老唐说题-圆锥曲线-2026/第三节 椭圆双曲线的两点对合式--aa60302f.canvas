@@ -1,0 +1,144 @@
+{
+  "edges": [
+    {
+      "fromNode": "d30c140f8fe6e0ccea5d",
+      "fromSide": "top",
+      "id": "8821b8e7f7fad60830ee",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "d30c140f8fe6e0ccea5d",
+      "fromSide": "left",
+      "id": "be07e9e44c4ee35e32f9",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d30c140f8fe6e0ccea5d",
+      "fromSide": "left",
+      "id": "c3cc7f599997cb802209",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d982094fda02efdd893",
+      "fromSide": "left",
+      "id": "ea397f46324576112f3b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d982094fda02efdd893",
+      "fromSide": "bottom",
+      "id": "1b000a11695c304fee84",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0d982094fda02efdd893",
+      "fromSide": "left",
+      "id": "dbda3a9f1092be92ea6c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-6851e402089b77af",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "cda53689db9d766e7bf7",
+      "text": "# 第三节 椭圆双曲线的两点对合式\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "23f9e213c73eed6d4cd9",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC10%E7%AB%A0%20%E4%B8%87%E8%83%BD%E7%9A%84%E4%B8%A4%E7%82%B9%E5%AF%B9%E5%90%88%E5%BC%8F--f0c839cb.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "960e6ed47d60c51c45ee",
+      "mathmap_atom_id": "Kff2296bfa3045c",
+      "mathmap_file": "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md",
+      "text": "[三角恒等变换的基本思路与特点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF%E4%B8%8E%E7%89%B9%E7%82%B9--000177.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d30c140f8fe6e0ccea5d",
+      "mathmap_atom_id": "K2c916de0c429c4",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线对合参数的对称关系.md",
+      "text": "[圆锥曲线对合参数的对称关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%AF%B9%E5%90%88%E5%8F%82%E6%95%B0%E7%9A%84%E5%AF%B9%E7%A7%B0%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0d982094fda02efdd893",
+      "mathmap_atom_id": "Kd50e80a3068076",
+      "mathmap_file": "Mathmap/知识点/椭圆与双曲线的两点对合方程.md",
+      "text": "[椭圆与双曲线的两点对合方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E4%B8%8E%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E5%AF%B9%E5%90%88%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    }
+  ]
+}
