@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-006",
+    "source_id": "rja-selective-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "76b718199a504998e35a",
+      "text": "# 阅读与思考 中国古代数学家求数列和的方法\n\n高中选择性必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1b6d44facaaec23f6514",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "caa94b86fd7ae204fb6f",
+      "mathmap_atom_id": "K1ff535ebfcc3af",
+      "mathmap_file": "Mathmap/知识点/中国古代数列求和方法.md",
+      "text": "[中国古代数列求和方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E6%95%B0%E5%88%97%E6%B1%82%E5%92%8C%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

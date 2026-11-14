@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "bcf75e2ca95c620b5316",
+      "fromSide": "right",
+      "id": "35d27ad24d892db7e22e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "52bd596f0c4189694805",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-002",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "cef3d4f7d1017c86dfe3",
+      "text": "# 1.1 空间向量及其运算\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "da595f1bb5260af8f594",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bcf75e2ca95c620b5316",
+      "mathmap_atom_id": "K33418901b92cdd",
+      "mathmap_file": "Mathmap/知识点/空间向量的概念与线性运算.md",
+      "text": "[空间向量的概念与线性运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "52bd596f0c4189694805",
+      "mathmap_atom_id": "K7dfe97bbf125df",
+      "mathmap_file": "Mathmap/知识点/空间向量的数量积运算.md",
+      "text": "[空间向量的数量积运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

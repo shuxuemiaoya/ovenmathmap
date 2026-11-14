@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-009",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "550445f1f73d3a06a7fe",
+      "text": "# 数学探究 杨辉三角的性质与应用\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd33a9fdffdcee97fd50",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d8b275e00512df8ab92d",
+      "mathmap_atom_id": "Ke782f9a5e19a52",
+      "mathmap_file": "Mathmap/知识点/杨辉三角的历史与结构.md",
+      "text": "[杨辉三角的历史与结构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B8%8E%E7%BB%93%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "15c7113633bf5896f4c1",
+      "mathmap_atom_id": "K3fdc894115ea6e",
+      "mathmap_file": "Mathmap/知识点/杨辉三角的应用.md",
+      "text": "[杨辉三角的应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "25b79f8020631a70e1e4",
+      "mathmap_atom_id": "K3410d5102688ee",
+      "mathmap_file": "Mathmap/知识点/杨辉三角的性质.md",
+      "text": "[杨辉三角的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

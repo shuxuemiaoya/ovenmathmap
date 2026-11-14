@@ -1,0 +1,125 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-006",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "76b718199a504998e35a",
+      "text": "# 3 直角三角形\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1b6d44facaaec23f6514",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bbbc287dc94ac420a0ab",
+      "mathmap_atom_id": "Ka40a24969c1cc1",
+      "mathmap_file": "Mathmap/知识点/互逆命题、原命题与逆命题的概念.md",
+      "text": "[互逆命题、原命题与逆命题的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%92%E9%80%86%E5%91%BD%E9%A2%98%E3%80%81%E5%8E%9F%E5%91%BD%E9%A2%98%E4%B8%8E%E9%80%86%E5%91%BD%E9%A2%98%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c0bb60ea214c21ff06e6",
+      "mathmap_atom_id": "Kfdffd48263aa26",
+      "mathmap_file": "Mathmap/知识点/勾股定理的表述.md",
+      "text": "[勾股定理的表述](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E8%A1%A8%E8%BF%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "40bb11aaa0379e319312",
+      "mathmap_atom_id": "K3b528f57e02121",
+      "mathmap_file": "Mathmap/知识点/勾股定理的逆定理及其证明.md",
+      "text": "[勾股定理的逆定理及其证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E9%80%86%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ed92d1d886eb51c36626",
+      "mathmap_atom_id": "Ke230fe7ff9a17e",
+      "mathmap_file": "Mathmap/知识点/已知斜边和一条直角边用尺规作直角三角形.md",
+      "text": "[已知斜边和一条直角边用尺规作直角三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B7%B2%E7%9F%A5%E6%96%9C%E8%BE%B9%E5%92%8C%E4%B8%80%E6%9D%A1%E7%9B%B4%E8%A7%92%E8%BE%B9%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "97b7eb29045f5aa1a575",
+      "mathmap_atom_id": "K998c0edc38ea11",
+      "mathmap_file": "Mathmap/知识点/欧几里得《原本》对勾股定理的证明.md",
+      "text": "[欧几里得《原本》对勾股定理的证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E5%AF%B9%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "40084c17ead566a9fd0b",
+      "mathmap_atom_id": "K7946c6177a35ba",
+      "mathmap_file": "Mathmap/知识点/直角三角形全等判定定理HL及其证明.md",
+      "text": "[直角三角形全等判定定理HL及其证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86HL%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f77cb580e3a4050e290d",
+      "mathmap_atom_id": "K0fc5d3c91f7f6f",
+      "mathmap_file": "Mathmap/知识点/直角三角形锐角互余性质与判定定理.md",
+      "text": "[直角三角形锐角互余性质与判定定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E9%94%90%E8%A7%92%E4%BA%92%E4%BD%99%E6%80%A7%E8%B4%A8%E4%B8%8E%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19885454b5c8ff6e2a58",
+      "mathmap_atom_id": "K5a63bb1e64a99e",
+      "mathmap_file": "Mathmap/知识点/逆定理的概念与互逆定理.md",
+      "text": "[逆定理的概念与互逆定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%86%E5%AE%9A%E7%90%86%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E4%BA%92%E9%80%86%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    }
+  ]
+}

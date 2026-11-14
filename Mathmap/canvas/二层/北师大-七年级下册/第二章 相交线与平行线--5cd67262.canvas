@@ -1,0 +1,309 @@
+{
+  "edges": [
+    {
+      "fromNode": "258ab00265d65eb76b83",
+      "fromSide": "right",
+      "id": "210a8a5a2009d154e67b",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fd8a6402ea394059088d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "386db78da0ca895408e1",
+      "fromSide": "right",
+      "id": "4aeb982c72408affb8b8",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fe3784ad38c164917ced",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "454eebe5cb4afa6da506",
+      "fromSide": "right",
+      "id": "841facb1485bdadf3398",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "d424ad00b209b528ef59",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fd8a6402ea394059088d",
+      "fromSide": "right",
+      "id": "4acc1ca46e219145225f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "a181a1b13756cd8be4c9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "efbd514c974b16a2508f",
+      "fromSide": "right",
+      "id": "e02a5ba578173b93ac08",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "ce1af7e17541265539bc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5c5ae85303a8fcff563",
+      "fromSide": "right",
+      "id": "a1690501bea1b93bcc05",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1dfa30c053d493a2da3f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0493a624dc5b81dceab3",
+      "fromSide": "right",
+      "id": "c49148a9608084a2a388",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "d5c5ae85303a8fcff563",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eb65c6779da72ae35297",
+      "fromSide": "right",
+      "id": "25e9ae386dbb230acf4a",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0493a624dc5b81dceab3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe3784ad38c164917ced",
+      "fromSide": "right",
+      "id": "eaf774a700cd3757d94c",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b59f2e7d0c7259f79773",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-012",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "e64d6faa8429bf9da85d",
+      "text": "# 第二章 相交线与平行线\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd192a0da331c83a9e9a",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "efbd514c974b16a2508f",
+      "mathmap_atom_id": "K62a22cdef5f1bb",
+      "mathmap_file": "Mathmap/知识点/两条直线互相垂直、垂线与垂足的概念.md",
+      "text": "[两条直线互相垂直、垂线与垂足的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%9E%82%E7%9B%B4%E3%80%81%E5%9E%82%E7%BA%BF%E4%B8%8E%E5%9E%82%E8%B6%B3%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "258ab00265d65eb76b83",
+      "mathmap_atom_id": "K2bfe12a418e7eb",
+      "mathmap_file": "Mathmap/知识点/内错角与同旁内角的概念.md",
+      "text": "[内错角与同旁内角的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%86%85%E9%94%99%E8%A7%92%E4%B8%8E%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "eb65c6779da72ae35297",
+      "mathmap_atom_id": "Kb76b18acc0ee27",
+      "mathmap_file": "Mathmap/知识点/同一平面内两条直线的位置关系：相交线与平行线.md",
+      "text": "[同一平面内两条直线的位置关系：相交线与平行线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E4%B8%80%E5%B9%B3%E9%9D%A2%E5%86%85%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%EF%BC%9A%E7%9B%B8%E4%BA%A4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "386db78da0ca895408e1",
+      "mathmap_atom_id": "K2fe076c73373b5",
+      "mathmap_file": "Mathmap/知识点/同位角概念与平行线判定一（同位角相等，两直线平行）.md",
+      "text": "[同位角概念与平行线判定一（同位角相等，两直线平行）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E4%BD%8D%E8%A7%92%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E4%B8%80%EF%BC%88%E5%90%8C%E4%BD%8D%E8%A7%92%E7%9B%B8%E7%AD%89%EF%BC%8C%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "454eebe5cb4afa6da506",
+      "mathmap_atom_id": "K34b04400b7b70b",
+      "mathmap_file": "Mathmap/知识点/平行线的三条基本性质.md",
+      "text": "[平行线的三条基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E4%B8%89%E6%9D%A1%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ce1af7e17541265539bc",
+      "mathmap_atom_id": "Kfda3e576fb1d36",
+      "mathmap_file": "Mathmap/知识点/垂线的唯一性、垂线段最短与点到直线的距离.md",
+      "text": "[垂线的唯一性、垂线段最短与点到直线的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9E%82%E7%BA%BF%E7%9A%84%E5%94%AF%E4%B8%80%E6%80%A7%E3%80%81%E5%9E%82%E7%BA%BF%E6%AE%B5%E6%9C%80%E7%9F%AD%E4%B8%8E%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0493a624dc5b81dceab3",
+      "mathmap_atom_id": "K8311b85ce61482",
+      "mathmap_file": "Mathmap/知识点/对顶角的概念与性质.md",
+      "text": "[对顶角的概念与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E9%A1%B6%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fd8a6402ea394059088d",
+      "mathmap_atom_id": "K50415ac5294972",
+      "mathmap_file": "Mathmap/知识点/平行线判定二与判定三（内错角相等与同旁内角互补）.md",
+      "text": "[平行线判定二与判定三（内错角相等与同旁内角互补）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E4%BA%8C%E4%B8%8E%E5%88%A4%E5%AE%9A%E4%B8%89%EF%BC%88%E5%86%85%E9%94%99%E8%A7%92%E7%9B%B8%E7%AD%89%E4%B8%8E%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E4%BA%92%E8%A1%A5%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fe3784ad38c164917ced",
+      "mathmap_atom_id": "Kd391738adc81c9",
+      "mathmap_file": "Mathmap/知识点/平行线基本事实：过直线外一点作平行线的唯一性.md",
+      "text": "[平行线基本事实：过直线外一点作平行线的唯一性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%EF%BC%9A%E8%BF%87%E7%9B%B4%E7%BA%BF%E5%A4%96%E4%B8%80%E7%82%B9%E4%BD%9C%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E5%94%AF%E4%B8%80%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d424ad00b209b528ef59",
+      "mathmap_atom_id": "Ke4ec7f63439257",
+      "mathmap_file": "Mathmap/知识点/阅读·思考：埃拉托色尼利用平行线内错角测地球周长.md",
+      "text": "[阅读·思考：埃拉托色尼利用平行线内错角测地球周长](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E5%9F%83%E6%8B%89%E6%89%98%E8%89%B2%E5%B0%BC%E5%88%A9%E7%94%A8%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%86%85%E9%94%99%E8%A7%92%E6%B5%8B%E5%9C%B0%E7%90%83%E5%91%A8%E9%95%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a181a1b13756cd8be4c9",
+      "mathmap_atom_id": "Kbe3ceea76620d3",
+      "mathmap_file": "Mathmap/知识点/尺规作图：过直线外一点作已知直线的平行线.md",
+      "text": "[尺规作图：过直线外一点作已知直线的平行线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%9B%BE%EF%BC%9A%E8%BF%87%E7%9B%B4%E7%BA%BF%E5%A4%96%E4%B8%80%E7%82%B9%E4%BD%9C%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%B9%B3%E8%A1%8C%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b59f2e7d0c7259f79773",
+      "mathmap_atom_id": "Kdb8438d53252ab",
+      "mathmap_file": "Mathmap/知识点/平行线的传递性.md",
+      "text": "[平行线的传递性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E4%BC%A0%E9%80%92%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d5c5ae85303a8fcff563",
+      "mathmap_atom_id": "K78175fbf99ba71",
+      "mathmap_file": "Mathmap/知识点/补角与余角的概念.md",
+      "text": "[补角与余角的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A1%A5%E8%A7%92%E4%B8%8E%E4%BD%99%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1dfa30c053d493a2da3f",
+      "mathmap_atom_id": "Kd3b22cce750316",
+      "mathmap_file": "Mathmap/知识点/同角（或等角）的补角与余角相等性质.md",
+      "text": "[同角（或等角）的补角与余角相等性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E8%A7%92%EF%BC%88%E6%88%96%E7%AD%89%E8%A7%92%EF%BC%89%E7%9A%84%E8%A1%A5%E8%A7%92%E4%B8%8E%E4%BD%99%E8%A7%92%E7%9B%B8%E7%AD%89%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[1 两条直线的位置关系](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "144d863c2ff7520b5154",
+      "text": "[2 探索直线平行的条件](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E6%8E%A2%E7%B4%A2%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%9A%84%E6%9D%A1%E4%BB%B6--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e2538341d946eb87c8d4",
+      "text": "[3 平行线的性质](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8--99368e80.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1420
+    }
+  ]
+}

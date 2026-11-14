@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-007",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "870d22b4671a0ab8c306",
+      "text": "# 阅读与思考 几何命题与充分条件、必要条件\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "15e9d61d0ce8fd0ef701",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b1cdcb68762eb073414d",
+      "mathmap_atom_id": "K340f6b248c9564",
+      "mathmap_file": "Mathmap/知识点/几何命题与充分条件、必要条件--000107.md",
+      "text": "[几何命题与充分条件、必要条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%A0%E4%BD%95%E5%91%BD%E9%A2%98%E4%B8%8E%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E3%80%81%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6--000107.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

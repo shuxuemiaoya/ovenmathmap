@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-016",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "dd7a1a572bd6d011c322",
+      "text": "# 探究与发现 1 的 n 次方根\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "967f0dad0002af3e1e1e",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0--41206a64.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d4b3fcac1471faab91e4",
+      "mathmap_atom_id": "Ke5bf3a34c40b4c",
+      "mathmap_file": "Mathmap/知识点/1的n次方根.md",
+      "text": "[1的n次方根](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/1%E7%9A%84n%E6%AC%A1%E6%96%B9%E6%A0%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "253f7d63f47d674f8c6d",
+      "mathmap_atom_id": "C75380d80ebe9dc",
+      "mathmap_file": "Mathmap/概念或公式/棣莫弗定理.md",
+      "text": "[棣莫弗定理](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A3%A3%E8%8E%AB%E5%BC%97%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "edges": [
+    {
+      "fromNode": "c45260d72fa1a5da9d86",
+      "fromSide": "right",
+      "id": "a29c2d0da99eb18fa0f9",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b6dd07d5f9c5c3c2d175",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "20b1cc8de063e40c9904",
+      "fromSide": "right",
+      "id": "632cb76c2d1f40b97a8f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b6dd07d5f9c5c3c2d175",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b6dd07d5f9c5c3c2d175",
+      "fromSide": "left",
+      "id": "b48d7f4a81a446eb3db8",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9995a54b094bab1f77f8",
+      "toSide": "right"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-045",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5f74ae2d0b18d789edf5",
+      "text": "# 5.2 三角函数的概念\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "4c7458082cecb2cacd6d",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0--e6ce5609.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c45260d72fa1a5da9d86",
+      "mathmap_atom_id": "K07cfe793b13dff",
+      "mathmap_file": "Mathmap/知识点/任意角的三角函数定义与定义域--000156.md",
+      "text": "[任意角的三角函数定义与定义域](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%BB%E6%84%8F%E8%A7%92%E7%9A%84%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%AE%9A%E4%B9%89%E5%9F%9F--000156.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "9995a54b094bab1f77f8",
+      "mathmap_atom_id": "Cbfe7089814bb31",
+      "mathmap_file": "Mathmap/概念或公式/同角三角函数的基本关系--Cbfe7089814bb31.md",
+      "text": "[同角三角函数的基本关系](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%90%8C%E8%A7%92%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%B3%E7%B3%BB--Cbfe7089814bb31.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "20b1cc8de063e40c9904",
+      "mathmap_atom_id": "K1f25c026d4cdfa",
+      "mathmap_file": "Mathmap/知识点/诱导公式一--000157.md",
+      "text": "[诱导公式一](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E4%B8%80--000157.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b6dd07d5f9c5c3c2d175",
+      "mathmap_atom_id": "Kf8ce46373932df",
+      "mathmap_file": "Mathmap/知识点/同角三角函数的基本关系--000158.md",
+      "text": "[同角三角函数的基本关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E8%A7%92%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%85%B3%E7%B3%BB--000158.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-025",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "b9a7fab00c03f5065f28",
+      "text": "# 8.4 空间点、直线、平面之间的位置关系\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6bd57e4d0aad2272ed56",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5--fc518d23.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b4a061774bb1ce59c266",
+      "mathmap_atom_id": "K2e9072e9e34dea",
+      "mathmap_file": "Mathmap/知识点/平面的表示与基本性质.md",
+      "text": "[平面的表示与基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E7%9A%84%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "02d7ac660acd998958e8",
+      "mathmap_atom_id": "Ke13d286aef9454",
+      "mathmap_file": "Mathmap/知识点/空间中平面与平面的位置关系.md",
+      "text": "[空间中平面与平面的位置关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E4%B8%AD%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "82cc9d36431439acd5aa",
+      "mathmap_atom_id": "K18a4a0ab3c270b",
+      "mathmap_file": "Mathmap/知识点/空间中直线与平面的位置关系.md",
+      "text": "[空间中直线与平面的位置关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E4%B8%AD%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c38a0a4fe90a10ab49ea",
+      "mathmap_atom_id": "K39a98a64fa3c4b",
+      "mathmap_file": "Mathmap/知识点/空间中直线与直线的位置关系.md",
+      "text": "[空间中直线与直线的位置关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E4%B8%AD%E7%9B%B4%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

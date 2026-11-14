@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-028",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8305f4ca2f711fd922fc",
+      "text": "# 数学建模 建立统计模型进行预测\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "b0eea1eb0dfab20d474d",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "629a2642d6801f02f2d3",
+      "mathmap_atom_id": "Kc1dab3c2819988",
+      "mathmap_file": "Mathmap/知识点/交流展示.md",
+      "text": "[交流展示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%A4%E6%B5%81%E5%B1%95%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ee52450379ad6c9f5a58",
+      "mathmap_atom_id": "K367c6126ce3bf3",
+      "mathmap_file": "Mathmap/知识点/用汽车流量预测PM2.5浓度的统计建模.md",
+      "text": "[用汽车流量预测PM2.5浓度的统计建模](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%B5%81%E9%87%8F%E9%A2%84%E6%B5%8BPM2.5%E6%B5%93%E5%BA%A6%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%BB%BA%E6%A8%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

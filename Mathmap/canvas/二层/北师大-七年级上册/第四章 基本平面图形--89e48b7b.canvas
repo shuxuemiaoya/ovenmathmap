@@ -1,0 +1,261 @@
+{
+  "edges": [
+    {
+      "fromNode": "b708a1fab3b5a1176137",
+      "fromSide": "right",
+      "id": "5bef7aac37fa101d817e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "774ac33169cd10b879ed",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-031",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "ed869d97978e9cff4620",
+      "text": "# 第四章 基本平面图形\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "484977e682b3f2b1dab1",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b708a1fab3b5a1176137",
+      "mathmap_atom_id": "Kb187a44608271e",
+      "mathmap_file": "Mathmap/知识点/点与直线的位置关系（点在直线上与点在直线外）.md",
+      "text": "[点与直线的位置关系（点在直线上与点在直线外）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%EF%BC%88%E7%82%B9%E5%9C%A8%E7%9B%B4%E7%BA%BF%E4%B8%8A%E4%B8%8E%E7%82%B9%E5%9C%A8%E7%9B%B4%E7%BA%BF%E5%A4%96%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "774ac33169cd10b879ed",
+      "mathmap_atom_id": "Kff5df2ed562912",
+      "mathmap_file": "Mathmap/知识点/直线的基本事实：两点确定一条直线.md",
+      "text": "[直线的基本事实：两点确定一条直线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%EF%BC%9A%E4%B8%A4%E7%82%B9%E7%A1%AE%E5%AE%9A%E4%B8%80%E6%9D%A1%E7%9B%B4%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "54892277012c80349c35",
+      "mathmap_atom_id": "Kdd0f3797ac5806",
+      "mathmap_file": "Mathmap/知识点/圆、圆心、半径、圆弧、扇形与圆心角的概念.md",
+      "text": "[圆、圆心、半径、圆弧、扇形与圆心角的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E3%80%81%E5%9C%86%E5%BF%83%E3%80%81%E5%8D%8A%E5%BE%84%E3%80%81%E5%9C%86%E5%BC%A7%E3%80%81%E6%89%87%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BF%83%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "776b4adfc4339cc9c605",
+      "mathmap_atom_id": "K68be1294e8b45c",
+      "mathmap_file": "Mathmap/知识点/多边形及其顶点、边、内角与对角线的概念.md",
+      "text": "[多边形及其顶点、边、内角与对角线的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%8F%8A%E5%85%B6%E9%A1%B6%E7%82%B9%E3%80%81%E8%BE%B9%E3%80%81%E5%86%85%E8%A7%92%E4%B8%8E%E5%AF%B9%E8%A7%92%E7%BA%BF%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a4c13504e74816ff36b0",
+      "mathmap_atom_id": "Ke7e47979a22c0d",
+      "mathmap_file": "Mathmap/知识点/数学活动：用线段构成的美丽图案绘制步骤.md",
+      "text": "[数学活动：用线段构成的美丽图案绘制步骤](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E5%AD%A6%E6%B4%BB%E5%8A%A8%EF%BC%9A%E7%94%A8%E7%BA%BF%E6%AE%B5%E6%9E%84%E6%88%90%E7%9A%84%E7%BE%8E%E4%B8%BD%E5%9B%BE%E6%A1%88%E7%BB%98%E5%88%B6%E6%AD%A5%E9%AA%A4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5c7c22d161b8e4d9dd3e",
+      "mathmap_atom_id": "Kdf0dd90af18904",
+      "mathmap_file": "Mathmap/知识点/正多边形的概念.md",
+      "text": "[正多边形的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "271d474048940453fa23",
+      "mathmap_atom_id": "K9832bd27ec97db",
+      "mathmap_file": "Mathmap/知识点/比较两条线段长短的度量法与叠合法.md",
+      "text": "[比较两条线段长短的度量法与叠合法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AF%94%E8%BE%83%E4%B8%A4%E6%9D%A1%E7%BA%BF%E6%AE%B5%E9%95%BF%E7%9F%AD%E7%9A%84%E5%BA%A6%E9%87%8F%E6%B3%95%E4%B8%8E%E5%8F%A0%E5%90%88%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2fa2a48e24d427ede187",
+      "mathmap_atom_id": "K06633c7a61cab8",
+      "mathmap_file": "Mathmap/知识点/比较角的大小的度量法与叠合法.md",
+      "text": "[比较角的大小的度量法与叠合法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AF%94%E8%BE%83%E8%A7%92%E7%9A%84%E5%A4%A7%E5%B0%8F%E7%9A%84%E5%BA%A6%E9%87%8F%E6%B3%95%E4%B8%8E%E5%8F%A0%E5%90%88%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "14817342c676ff3a7ace",
+      "mathmap_atom_id": "K201edd18607107",
+      "mathmap_file": "Mathmap/知识点/用尺规作一条线段等于已知线段的作法.md",
+      "text": "[用尺规作一条线段等于已知线段的作法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E4%B8%80%E6%9D%A1%E7%BA%BF%E6%AE%B5%E7%AD%89%E4%BA%8E%E5%B7%B2%E7%9F%A5%E7%BA%BF%E6%AE%B5%E7%9A%84%E4%BD%9C%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec6de2fbabb25b3ce840",
+      "mathmap_atom_id": "K7c1753a6c67d71",
+      "mathmap_file": "Mathmap/知识点/线段、射线、直线的字母表示方法.md",
+      "text": "[线段、射线、直线的字母表示方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E3%80%81%E5%B0%84%E7%BA%BF%E3%80%81%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AD%97%E6%AF%8D%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f37b44e39bf77aef4732",
+      "mathmap_atom_id": "K2014998d6bc95a",
+      "mathmap_file": "Mathmap/知识点/线段、射线与直线的概念及端点特征.md",
+      "text": "[线段、射线与直线的概念及端点特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E3%80%81%E5%B0%84%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%AB%AF%E7%82%B9%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3cafb3d39cdc04316057",
+      "mathmap_atom_id": "K5866309287df52",
+      "mathmap_file": "Mathmap/知识点/线段的中点概念与数量关系.md",
+      "text": "[线段的中点概念与数量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E7%9A%84%E4%B8%AD%E7%82%B9%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 880
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fb8a286ff974adf2fa7d",
+      "mathmap_atom_id": "Ka5d7af9cf130c0",
+      "mathmap_file": "Mathmap/知识点/线段的基本事实（两点之间线段最短）与两点之间的距离.md",
+      "text": "[线段的基本事实（两点之间线段最短）与两点之间的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%EF%BC%88%E4%B8%A4%E7%82%B9%E4%B9%8B%E9%97%B4%E7%BA%BF%E6%AE%B5%E6%9C%80%E7%9F%AD%EF%BC%89%E4%B8%8E%E4%B8%A4%E7%82%B9%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 880
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1eeabbfaae52cdc48a8c",
+      "mathmap_atom_id": "K70a9108fed7f0c",
+      "mathmap_file": "Mathmap/知识点/角的平分线概念及数量关系.md",
+      "text": "[角的平分线概念及数量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%92%E7%9A%84%E5%B9%B3%E5%88%86%E7%BA%BF%E6%A6%82%E5%BF%B5%E5%8F%8A%E6%95%B0%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 880
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c38665366b6bdda14774",
+      "mathmap_atom_id": "Ke06f2b2398d7a9",
+      "mathmap_file": "Mathmap/知识点/角的度量单位（度、分、秒）及六十进制换算.md",
+      "text": "[角的度量单位（度、分、秒）及六十进制换算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%92%E7%9A%84%E5%BA%A6%E9%87%8F%E5%8D%95%E4%BD%8D%EF%BC%88%E5%BA%A6%E3%80%81%E5%88%86%E3%80%81%E7%A7%92%EF%BC%89%E5%8F%8A%E5%85%AD%E5%8D%81%E8%BF%9B%E5%88%B6%E6%8D%A2%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9787a897f8b7aeed14f3",
+      "mathmap_atom_id": "K0cda19b2e09d99",
+      "mathmap_file": "Mathmap/知识点/角的静态与动态定义、平角与周角及角的表示方法.md",
+      "text": "[角的静态与动态定义、平角与周角及角的表示方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%92%E7%9A%84%E9%9D%99%E6%80%81%E4%B8%8E%E5%8A%A8%E6%80%81%E5%AE%9A%E4%B9%89%E3%80%81%E5%B9%B3%E8%A7%92%E4%B8%8E%E5%91%A8%E8%A7%92%E5%8F%8A%E8%A7%92%E7%9A%84%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1100
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "976458c305f8022005f6",
+      "text": "[1 线段、射线、直线](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E7%BA%BF%E6%AE%B5%E3%80%81%E5%B0%84%E7%BA%BF%E3%80%81%E7%9B%B4%E7%BA%BF--0bf45746.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1320
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "8b788658723407f9f605",
+      "text": "[2 角](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E8%A7%92--d49d1dc1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1320
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "4e9af35f0addc9ee7d98",
+      "text": "[3 多边形和圆的初步认识](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%92%8C%E5%9C%86%E7%9A%84%E5%88%9D%E6%AD%A5%E8%AE%A4%E8%AF%86--984a5067.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1320
+    }
+  ]
+}

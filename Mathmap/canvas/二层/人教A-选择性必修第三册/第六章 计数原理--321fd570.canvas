@@ -1,0 +1,375 @@
+{
+  "edges": [
+    {
+      "fromNode": "4f3305c46d2db6112688",
+      "fromSide": "right",
+      "id": "24881d7af95f2aeb1ca5",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "19a1648120be80861706",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8522e93b245e8fa33a3c",
+      "fromSide": "right",
+      "id": "562a5ec1ddf834e22750",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "4f3305c46d2db6112688",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8841616a2a99f0500736",
+      "fromSide": "right",
+      "id": "46592560fa00439a2041",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8522e93b245e8fa33a3c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "34451c3972d15a55cbcb",
+      "fromSide": "right",
+      "id": "7b6401fbaae04be3b8b7",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "4f3305c46d2db6112688",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6d4d4b98682c6efdeca2",
+      "fromSide": "right",
+      "id": "dd3528b3e31ca1c2c26b",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8522e93b245e8fa33a3c",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-001",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c5dcd0bdd298773be7ab",
+      "text": "# 第六章 计数原理\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "eda52b35c33f814e405e",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6d4d4b98682c6efdeca2",
+      "mathmap_atom_id": "Kc3409b734484a9",
+      "mathmap_file": "Mathmap/知识点/分步乘法计数原理.md",
+      "text": "[分步乘法计数原理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8841616a2a99f0500736",
+      "mathmap_atom_id": "Ka8c0a8b37992ed",
+      "mathmap_file": "Mathmap/知识点/排列的概念与实际背景.md",
+      "text": "[排列的概念与实际背景](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%AE%9E%E9%99%85%E8%83%8C%E6%99%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "34451c3972d15a55cbcb",
+      "mathmap_atom_id": "Kaf18e42471b457",
+      "mathmap_file": "Mathmap/知识点/组合的概念.md",
+      "text": "[组合的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%84%E5%90%88%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8522e93b245e8fa33a3c",
+      "mathmap_atom_id": "K67044f56d2edb4",
+      "mathmap_file": "Mathmap/知识点/排列数公式及其推导.md",
+      "text": "[排列数公式及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4f3305c46d2db6112688",
+      "mathmap_atom_id": "K2135f0978b4739",
+      "mathmap_file": "Mathmap/知识点/组合数公式及其推导.md",
+      "text": "[组合数公式及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%84%E5%90%88%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19a1648120be80861706",
+      "mathmap_atom_id": "Kf1954f8ac415d5",
+      "mathmap_file": "Mathmap/知识点/二项式定理及其计数推导.md",
+      "text": "[二项式定理及其计数推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AE%A1%E6%95%B0%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "cb92ed10855c992bda4e",
+      "mathmap_atom_id": "C0b65f300cb1238",
+      "mathmap_file": "Mathmap/概念或公式/n元集合的子集个数.md",
+      "text": "[n元集合的子集个数](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/n%E5%85%83%E9%9B%86%E5%90%88%E7%9A%84%E5%AD%90%E9%9B%86%E4%B8%AA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5ff4fb20279869ac7767",
+      "mathmap_atom_id": "Kab962976077c08",
+      "mathmap_file": "Mathmap/知识点/二项式系数与杨辉三角.md",
+      "text": "[二项式系数与杨辉三角](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E4%B8%8E%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3bb5c33ad0558fc074ec",
+      "mathmap_atom_id": "K8cf46cb6482251",
+      "mathmap_file": "Mathmap/知识点/二项式系数的增减性与最大值.md",
+      "text": "[二项式系数的增减性与最大值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E5%A2%9E%E5%87%8F%E6%80%A7%E4%B8%8E%E6%9C%80%E5%A4%A7%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "16095b30582449d4fb72",
+      "mathmap_atom_id": "Kc49fb4d5f8c42e",
+      "mathmap_file": "Mathmap/知识点/二项式系数的对称性.md",
+      "text": "[二项式系数的对称性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4178edd441b3ed2994d2",
+      "mathmap_atom_id": "K146aa6d9b5c1e7",
+      "mathmap_file": "Mathmap/知识点/分类加法计数原理.md",
+      "text": "[分类加法计数原理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a499fc4dce86d105b232",
+      "mathmap_atom_id": "K2707421b75f889",
+      "mathmap_file": "Mathmap/知识点/各二项式系数的和.md",
+      "text": "[各二项式系数的和](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%84%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E5%92%8C.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d47a77e8b40157650dc9",
+      "mathmap_atom_id": "Kd9bf45fd477593",
+      "mathmap_file": "Mathmap/知识点/排列与组合的联系和区别.md",
+      "text": "[排列与组合的联系和区别](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88%E7%9A%84%E8%81%94%E7%B3%BB%E5%92%8C%E5%8C%BA%E5%88%AB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2d3a9ebf8abaf5fb611f",
+      "mathmap_atom_id": "Kd6c147209ab1eb",
+      "mathmap_file": "Mathmap/知识点/排列数公式的阶乘表示.md",
+      "text": "[排列数公式的阶乘表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F%E7%9A%84%E9%98%B6%E4%B9%98%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "454b5b56b453aeeac0e8",
+      "mathmap_atom_id": "Kdef10d899a7465",
+      "mathmap_file": "Mathmap/知识点/探究与发现 子集的个数有多少.md",
+      "text": "[探究与发现 子集的个数有多少](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E5%AD%90%E9%9B%86%E7%9A%84%E4%B8%AA%E6%95%B0%E6%9C%89%E5%A4%9A%E5%B0%91.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d29fc9f4474b77eb0146",
+      "mathmap_atom_id": "K63322e8b9c6fa0",
+      "mathmap_file": "Mathmap/知识点/探究与发现 组合数的两个性质.md",
+      "text": "[探究与发现 组合数的两个性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1480
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d8b275e00512df8ab92d",
+      "mathmap_atom_id": "Ke782f9a5e19a52",
+      "mathmap_file": "Mathmap/知识点/杨辉三角的历史与结构.md",
+      "text": "[杨辉三角的历史与结构](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B8%8E%E7%BB%93%E6%9E%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1480
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "15c7113633bf5896f4c1",
+      "mathmap_atom_id": "K3fdc894115ea6e",
+      "mathmap_file": "Mathmap/知识点/杨辉三角的应用.md",
+      "text": "[杨辉三角的应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1480
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "25b79f8020631a70e1e4",
+      "mathmap_atom_id": "K3410d5102688ee",
+      "mathmap_file": "Mathmap/知识点/杨辉三角的性质.md",
+      "text": "[杨辉三角的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1700
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "99bc9d4d17f6778bb304",
+      "mathmap_atom_id": "C3c2f9ed6313a0f",
+      "mathmap_file": "Mathmap/概念或公式/组合数的两个性质.md",
+      "text": "[组合数的两个性质](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1700
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b47a911304d1739ad6b7",
+      "text": "[6.1 分类加法计数原理与分步乘法计数原理](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/6.1%20%E5%88%86%E7%B1%BB%E5%8A%A0%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%AD%A5%E4%B9%98%E6%B3%95%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86--dbe96e90.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1920
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "eacf54448b8fe5a42a2f",
+      "text": "[探究与发现 子集的个数有多少](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E5%AD%90%E9%9B%86%E7%9A%84%E4%B8%AA%E6%95%B0%E6%9C%89%E5%A4%9A%E5%B0%91--b5a9fdb1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1920
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "18b4f862e0a5a4619d01",
+      "text": "[6.2 排列与组合](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/6.2%20%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88--fdc878d1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1920
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "5c5cb6f6f855069baebc",
+      "text": "[探究与发现 组合数的两个性质](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%A7%E8%B4%A8--2b06ced0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2130
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "6ec1b868f0808eb3190b",
+      "text": "[6.3 二项式定理](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/6.3%20%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86--7ee2e281.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2130
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "4cdf091dd254cb175641",
+      "text": "[数学探究 杨辉三角的性质与应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%95%B0%E5%AD%A6%E6%8E%A2%E7%A9%B6%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92%E7%9A%84%E6%80%A7%E8%B4%A8%E4%B8%8E%E5%BA%94%E7%94%A8--4635d5d5.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 2130
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-063",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "2c214eba24dd3bd71822",
+      "text": "# 第七章 证明\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "cb1b78e8342b9a8f15cf",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fe45dccae9ebbfca4014",
+      "mathmap_atom_id": "Kd16d66cd6fb286",
+      "mathmap_file": "Mathmap/知识点/命题的构成（条件与结论及“如果……，那么……”形式）.md",
+      "text": "[命题的构成（条件与结论及“如果……，那么……”形式）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%91%BD%E9%A2%98%E7%9A%84%E6%9E%84%E6%88%90%EF%BC%88%E6%9D%A1%E4%BB%B6%E4%B8%8E%E7%BB%93%E8%AE%BA%E5%8F%8A%E2%80%9C%E5%A6%82%E6%9E%9C%E2%80%A6%E2%80%A6%EF%BC%8C%E9%82%A3%E4%B9%88%E2%80%A6%E2%80%A6%E2%80%9D%E5%BD%A2%E5%BC%8F%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5192cdbaf7f2633358b4",
+      "mathmap_atom_id": "Kc89b52dfd99c22",
+      "mathmap_file": "Mathmap/知识点/命题的概念与判断准则.md",
+      "text": "[命题的概念与判断准则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%91%BD%E9%A2%98%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%A4%E6%96%AD%E5%87%86%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "05980861c5ace7950139",
+      "mathmap_atom_id": "Kcf353122734bfe",
+      "mathmap_file": "Mathmap/知识点/定义的概念及典型数学定义示例.md",
+      "text": "[定义的概念及典型数学定义示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E4%B9%89%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B8%E5%9E%8B%E6%95%B0%E5%AD%A6%E5%AE%9A%E4%B9%89%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "06b6ab0c63a1ef36909c",
+      "mathmap_atom_id": "K99486216062411",
+      "mathmap_file": "Mathmap/知识点/定理“对顶角相等”的正式确立.md",
+      "text": "[定理“对顶角相等”的正式确立](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E7%90%86%E2%80%9C%E5%AF%B9%E9%A1%B6%E8%A7%92%E7%9B%B8%E7%AD%89%E2%80%9D%E7%9A%84%E6%AD%A3%E5%BC%8F%E7%A1%AE%E7%AB%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b12f042e414ee4f27149",
+      "mathmap_atom_id": "Ke478a55fefc570",
+      "mathmap_file": "Mathmap/知识点/定理：平行于同一条直线的两条直线平行（平行线的传递性）.md",
+      "text": "[定理：平行于同一条直线的两条直线平行（平行线的传递性）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E7%90%86%EF%BC%9A%E5%B9%B3%E8%A1%8C%E4%BA%8E%E5%90%8C%E4%B8%80%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%88%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E4%BC%A0%E9%80%92%E6%80%A7%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "20b3fdc26f2ce02fe5fc",
+      "mathmap_atom_id": "Kc80101638a51b2",
+      "mathmap_file": "Mathmap/知识点/平行线判定定理：内错角相等，两直线平行（含证明）.md",
+      "text": "[平行线判定定理：内错角相等，两直线平行（含证明）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E5%86%85%E9%94%99%E8%A7%92%E7%9B%B8%E7%AD%89%EF%BC%8C%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%88%E5%90%AB%E8%AF%81%E6%98%8E%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2ebaa4157ed60309fce0",
+      "mathmap_atom_id": "Keb2b0d5924113e",
+      "mathmap_file": "Mathmap/知识点/平行线判定定理：同旁内角互补，两直线平行（含证明与依据小结）.md",
+      "text": "[平行线判定定理：同旁内角互补，两直线平行（含证明与依据小结）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E4%BA%92%E8%A1%A5%EF%BC%8C%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%88%E5%90%AB%E8%AF%81%E6%98%8E%E4%B8%8E%E4%BE%9D%E6%8D%AE%E5%B0%8F%E7%BB%93%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c463204d66b3f00112ed",
+      "mathmap_atom_id": "Kf5d98a6371c854",
+      "mathmap_file": "Mathmap/知识点/平行线性质定理：两直线平行，内错角相等 与 两直线平行，同旁内角互补.md",
+      "text": "[平行线性质定理：两直线平行，内错角相等 与 两直线平行，同旁内角互补](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%8C%E5%86%85%E9%94%99%E8%A7%92%E7%9B%B8%E7%AD%89%20%E4%B8%8E%20%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%8C%E5%90%8C%E6%97%81%E5%86%85%E8%A7%92%E4%BA%92%E8%A1%A5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7fe1bcd16fbd551ea7f9",
+      "mathmap_atom_id": "K0aa0cd084fc2d9",
+      "mathmap_file": "Mathmap/知识点/平行线性质定理：两直线平行，同位角相等（含反证法证明）.md",
+      "text": "[平行线性质定理：两直线平行，同位角相等（含反证法证明）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%8C%E5%90%8C%E4%BD%8D%E8%A7%92%E7%9B%B8%E7%AD%89%EF%BC%88%E5%90%AB%E5%8F%8D%E8%AF%81%E6%B3%95%E8%AF%81%E6%98%8E%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7c93b98bbcf7619f1eac",
+      "mathmap_atom_id": "Kdbc52a0120f26d",
+      "mathmap_file": "Mathmap/知识点/数学证明的必要性（观察、实验、归纳的局限性与推理论证）.md",
+      "text": "[数学证明的必要性（观察、实验、归纳的局限性与推理论证）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7%EF%BC%88%E8%A7%82%E5%AF%9F%E3%80%81%E5%AE%9E%E9%AA%8C%E3%80%81%E5%BD%92%E7%BA%B3%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E4%B8%8E%E6%8E%A8%E7%90%86%E8%AE%BA%E8%AF%81%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "222c41bde23f44647bb6",
+      "mathmap_atom_id": "K56b30322ec2fed",
+      "mathmap_file": "Mathmap/知识点/欧几里得《原本》与原名、公理、证明、定理及教科书基本事实.md",
+      "text": "[欧几里得《原本》与原名、公理、证明、定理及教科书基本事实](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E4%B8%8E%E5%8E%9F%E5%90%8D%E3%80%81%E5%85%AC%E7%90%86%E3%80%81%E8%AF%81%E6%98%8E%E3%80%81%E5%AE%9A%E7%90%86%E5%8F%8A%E6%95%99%E7%A7%91%E4%B9%A6%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "992397c14fe3d5a08b5e",
+      "mathmap_atom_id": "Ked848780844329",
+      "mathmap_file": "Mathmap/知识点/真命题、假命题与反例的概念.md",
+      "text": "[真命题、假命题与反例的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9C%9F%E5%91%BD%E9%A2%98%E3%80%81%E5%81%87%E5%91%BD%E9%A2%98%E4%B8%8E%E5%8F%8D%E4%BE%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1c756f6e5db5042ccca9",
+      "mathmap_atom_id": "K801768024a5c00",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：《原本》及其公理化方法的深远影响.md",
+      "text": "[阅读·欣赏：《原本》及其公理化方法的深远影响](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E5%8F%8A%E5%85%B6%E5%85%AC%E7%90%86%E5%8C%96%E6%96%B9%E6%B3%95%E7%9A%84%E6%B7%B1%E8%BF%9C%E5%BD%B1%E5%93%8D.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 880
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "809bd8d77375dfefdc71",
+      "text": "[1 为什么要证明](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%81%E6%98%8E--50db9f1d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1100
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "f063265c08124305ca84",
+      "text": "[2 认识证明](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E8%AE%A4%E8%AF%86%E8%AF%81%E6%98%8E--3e685831.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1100
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "8deb15a05b58bd6d5619",
+      "text": "[3 平行线的证明](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E8%AF%81%E6%98%8E--87bb6a43.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1100
+    }
+  ]
+}

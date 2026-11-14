@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-030",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "1c191454686181909f2c",
+      "text": "# 1 函数\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6f31ef55a65856b2004d",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0--22c28ade.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "daabdc7f492e1389f5aa",
+      "mathmap_atom_id": "Kba97748e4d9466",
+      "mathmap_file": "Mathmap/知识点/函数值的概念.md",
+      "text": "[函数值的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E5%80%BC%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a0b819fce1c169da527a",
+      "mathmap_atom_id": "K56ed4b6f1a1136",
+      "mathmap_file": "Mathmap/知识点/函数的概念、自变量及三种表示方式.md",
+      "text": "[函数的概念、自变量及三种表示方式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%87%AA%E5%8F%98%E9%87%8F%E5%8F%8A%E4%B8%89%E7%A7%8D%E8%A1%A8%E7%A4%BA%E6%96%B9%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "edges": [
+    {
+      "fromNode": "fabe076559c13da1180f",
+      "fromSide": "right",
+      "id": "dc3bb7c6eb45fa7308bd",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "6a011ed7d821d0c6152b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fabe076559c13da1180f",
+      "fromSide": "top",
+      "id": "a9d2d579a3377aeb2845",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "cd7f1583d2d484108fb6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4a11fab40795edea5431",
+      "fromSide": "right",
+      "id": "f3f6a81a83fee7fee41d",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fabe076559c13da1180f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eae5df43ab930006479f",
+      "fromSide": "right",
+      "id": "32b1d296c5c2933c6c3d",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "57f79dfca1ca56d16c61",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eae5df43ab930006479f",
+      "fromSide": "right",
+      "id": "cbf608d87aa6e3c8ea26",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "65624329f7ba57f07a4a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f4aa101c18140320a957",
+      "fromSide": "right",
+      "id": "d129d1c5e1bf3abfce52",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8b6c1a2851c356ba8811",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "40ad2ae6fc041b3421fa",
+      "fromSide": "right",
+      "id": "795bca37e43685eb5859",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "19c071dba174d96a0a5d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "65624329f7ba57f07a4a",
+      "fromSide": "right",
+      "id": "84c93384d8451eaed020",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "57f79dfca1ca56d16c61",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a011ed7d821d0c6152b",
+      "fromSide": "right",
+      "id": "303cbba9785fa2e6e41f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "40ad2ae6fc041b3421fa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a011ed7d821d0c6152b",
+      "fromSide": "right",
+      "id": "1d58a154174dc565fca5",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "cd7f1583d2d484108fb6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bb4754f02fe0c45cfdb8",
+      "fromSide": "right",
+      "id": "1df8355388bcdb966943",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f4aa101c18140320a957",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bb4754f02fe0c45cfdb8",
+      "fromSide": "right",
+      "id": "8b94dafabba53488aca4",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8b6c1a2851c356ba8811",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cd7f1583d2d484108fb6",
+      "fromSide": "right",
+      "id": "304d6ef8dce816589d87",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "40ad2ae6fc041b3421fa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cd7f1583d2d484108fb6",
+      "fromSide": "top",
+      "id": "63f235c3bd72db742ce4",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "19c071dba174d96a0a5d",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-035",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "4cc207528d4f616f43cf",
+      "text": "# 3 探索三角形全等的条件\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "87451f0b270c409f3a21",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2--88652822.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bb4754f02fe0c45cfdb8",
+      "mathmap_atom_id": "Kf621319b70b64a",
+      "mathmap_file": "Mathmap/知识点/全等三角形判定条件二：“角边角”（ASA）.md",
+      "text": "[全等三角形判定条件二：“角边角”（ASA）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E4%BA%8C%EF%BC%9A%E2%80%9C%E8%A7%92%E8%BE%B9%E8%A7%92%E2%80%9D%EF%BC%88ASA%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "eae5df43ab930006479f",
+      "mathmap_atom_id": "K65eb4859c365a2",
+      "mathmap_file": "Mathmap/知识点/全等三角形判定条件四：“边角边”（SAS）.md",
+      "text": "[全等三角形判定条件四：“边角边”（SAS）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E5%9B%9B%EF%BC%9A%E2%80%9C%E8%BE%B9%E8%A7%92%E8%BE%B9%E2%80%9D%EF%BC%88SAS%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4a11fab40795edea5431",
+      "mathmap_atom_id": "K3bc2ae59da930a",
+      "mathmap_file": "Mathmap/知识点/确定三角形全等所需条件数的初步探索（一、二个条件不足）.md",
+      "text": "[确定三角形全等所需条件数的初步探索（一、二个条件不足）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A1%AE%E5%AE%9A%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E6%89%80%E9%9C%80%E6%9D%A1%E4%BB%B6%E6%95%B0%E7%9A%84%E5%88%9D%E6%AD%A5%E6%8E%A2%E7%B4%A2%EF%BC%88%E4%B8%80%E3%80%81%E4%BA%8C%E4%B8%AA%E6%9D%A1%E4%BB%B6%E4%B8%8D%E8%B6%B3%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fabe076559c13da1180f",
+      "mathmap_atom_id": "K1c0ef4f54569b3",
+      "mathmap_file": "Mathmap/知识点/三个内角分别相等的两个三角形不一定全等.md",
+      "text": "[三个内角分别相等的两个三角形不一定全等](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E4%B8%AA%E5%86%85%E8%A7%92%E5%88%86%E5%88%AB%E7%9B%B8%E7%AD%89%E7%9A%84%E4%B8%A4%E4%B8%AA%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%85%A8%E7%AD%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f4aa101c18140320a957",
+      "mathmap_atom_id": "K6651c384e836b7",
+      "mathmap_file": "Mathmap/知识点/尺规作图：已知三角形的两角及其夹边作三角形.md",
+      "text": "[尺规作图：已知三角形的两角及其夹边作三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%9B%BE%EF%BC%9A%E5%B7%B2%E7%9F%A5%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E4%B8%A4%E8%A7%92%E5%8F%8A%E5%85%B6%E5%A4%B9%E8%BE%B9%E4%BD%9C%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "65624329f7ba57f07a4a",
+      "mathmap_atom_id": "Kc00ebf3e17e9c8",
+      "mathmap_file": "Mathmap/知识点/尺规作图：已知三角形的两边及其夹角作三角形.md",
+      "text": "[尺规作图：已知三角形的两边及其夹角作三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%9B%BE%EF%BC%9A%E5%B7%B2%E7%9F%A5%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E4%B8%A4%E8%BE%B9%E5%8F%8A%E5%85%B6%E5%A4%B9%E8%A7%92%E4%BD%9C%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "57f79dfca1ca56d16c61",
+      "mathmap_atom_id": "K12496b544b88b1",
+      "mathmap_file": "Mathmap/知识点/“边边角”（SSA）不一定全等的反例结论与图示.md",
+      "text": "[“边边角”（SSA）不一定全等的反例结论与图示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E2%80%9C%E8%BE%B9%E8%BE%B9%E8%A7%92%E2%80%9D%EF%BC%88SSA%EF%BC%89%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%85%A8%E7%AD%89%E7%9A%84%E5%8F%8D%E4%BE%8B%E7%BB%93%E8%AE%BA%E4%B8%8E%E5%9B%BE%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a011ed7d821d0c6152b",
+      "mathmap_atom_id": "Kc3c079c39feab5",
+      "mathmap_file": "Mathmap/知识点/全等三角形判定条件一：“边边边”（SSS）.md",
+      "text": "[全等三角形判定条件一：“边边边”（SSS）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E4%B8%80%EF%BC%9A%E2%80%9C%E8%BE%B9%E8%BE%B9%E8%BE%B9%E2%80%9D%EF%BC%88SSS%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8b6c1a2851c356ba8811",
+      "mathmap_atom_id": "K8ed1df7cda0b2f",
+      "mathmap_file": "Mathmap/知识点/全等三角形判定条件三：“角角边”（AAS）.md",
+      "text": "[全等三角形判定条件三：“角角边”（AAS）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E4%B8%89%EF%BC%9A%E2%80%9C%E8%A7%92%E8%A7%92%E8%BE%B9%E2%80%9D%EF%BC%88AAS%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cd7f1583d2d484108fb6",
+      "mathmap_atom_id": "Kf845576254d860",
+      "mathmap_file": "Mathmap/知识点/尺规作图：已知三角形三边作三角形.md",
+      "text": "[尺规作图：已知三角形三边作三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%9B%BE%EF%BC%9A%E5%B7%B2%E7%9F%A5%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%89%E8%BE%B9%E4%BD%9C%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "40ad2ae6fc041b3421fa",
+      "mathmap_atom_id": "Kabc5dc0d6d8c43",
+      "mathmap_file": "Mathmap/知识点/三角形的稳定性.md",
+      "text": "[三角形的稳定性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 2400,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19c071dba174d96a0a5d",
+      "mathmap_atom_id": "Kf1797d25921aa3",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：跪姿射击稳定性中的三个三角形模型.md",
+      "text": "[阅读·欣赏：跪姿射击稳定性中的三个三角形模型](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E8%B7%AA%E5%A7%BF%E5%B0%84%E5%87%BB%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%AD%E7%9A%84%E4%B8%89%E4%B8%AA%E4%B8%89%E8%A7%92%E5%BD%A2%E6%A8%A1%E5%9E%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 3000,
+      "y": 0
+    }
+  ]
+}

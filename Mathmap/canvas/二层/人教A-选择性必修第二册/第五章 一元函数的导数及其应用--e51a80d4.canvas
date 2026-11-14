@@ -1,0 +1,389 @@
+{
+  "edges": [
+    {
+      "fromNode": "f06286933d03ecb95c67",
+      "fromSide": "right",
+      "id": "233612d87f9a491ac1d2",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "416fc9aef5dfd0611c2b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22b79899572f5e745838",
+      "fromSide": "right",
+      "id": "30eff4e6ffc8853b7403",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "e7cef3b89477e2a59bb6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22b79899572f5e745838",
+      "fromSide": "right",
+      "id": "1c7e33481b19e1f3e595",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "5558435b813edc23e58e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22b79899572f5e745838",
+      "fromSide": "right",
+      "id": "b2a9234f91343566988e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "3bbbdb70ff8764628b6f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7415ea42145fbbcaa8d8",
+      "fromSide": "right",
+      "id": "eb8baac0267f404ba792",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1a2c3eec63c4b480129f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ed51b174b68bc19a2548",
+      "fromSide": "right",
+      "id": "ef07768acbb874e60745",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f06286933d03ecb95c67",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ed51b174b68bc19a2548",
+      "fromSide": "right",
+      "id": "81edd0e3bf338cd03cad",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "22b79899572f5e745838",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ed51b174b68bc19a2548",
+      "fromSide": "right",
+      "id": "b23b99e5dfbdcd4b1861",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0281ebde517295c1434e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0331c7ff20d5ff472c1c",
+      "fromSide": "right",
+      "id": "7624ef092723e911cb4f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "6d59d44d00d2ad32b44c",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-010",
+    "source_id": "rja-selective-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "872012bee60e1e7c8d6f",
+      "text": "# 第五章 一元函数的导数及其应用\n\n高中选择性必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "9c6289b4681d7f8973d5",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0331c7ff20d5ff472c1c",
+      "mathmap_atom_id": "K91152e5802173d",
+      "mathmap_file": "Mathmap/知识点/函数极值的概念与导数判定.md",
+      "text": "[函数极值的概念与导数判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E6%9E%81%E5%80%BC%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%AF%BC%E6%95%B0%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7415ea42145fbbcaa8d8",
+      "mathmap_atom_id": "K57bbd8899b13f1",
+      "mathmap_file": "Mathmap/知识点/导数符号与函数单调性.md",
+      "text": "[导数符号与函数单调性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%BC%E6%95%B0%E7%AC%A6%E5%8F%B7%E4%B8%8E%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ed51b174b68bc19a2548",
+      "mathmap_atom_id": "K8d3dbd15916c78",
+      "mathmap_file": "Mathmap/知识点/平均变化率与导数的定义.md",
+      "text": "[平均变化率与导数的定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E5%9D%87%E5%8F%98%E5%8C%96%E7%8E%87%E4%B8%8E%E5%AF%BC%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "22b79899572f5e745838",
+      "mathmap_atom_id": "K0f7ac47d6a025b",
+      "mathmap_file": "Mathmap/知识点/基本初等函数的导数公式及推导.md",
+      "text": "[基本初等函数的导数公式及推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%BC%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0281ebde517295c1434e",
+      "mathmap_atom_id": "K560e358131f611",
+      "mathmap_file": "Mathmap/知识点/导函数的定义.md",
+      "text": "[导函数的定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%BC%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1a2c3eec63c4b480129f",
+      "mathmap_atom_id": "K59a5e7f0627fff",
+      "mathmap_file": "Mathmap/知识点/导数为零与极值的关系及极值判定.md",
+      "text": "[导数为零与极值的关系及极值判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%BC%E6%95%B0%E4%B8%BA%E9%9B%B6%E4%B8%8E%E6%9E%81%E5%80%BC%E7%9A%84%E5%85%B3%E7%B3%BB%E5%8F%8A%E6%9E%81%E5%80%BC%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f06286933d03ecb95c67",
+      "mathmap_atom_id": "K09a8dec6f8b736",
+      "mathmap_file": "Mathmap/知识点/导数的几何意义与以直代曲.md",
+      "text": "[导数的几何意义与以直代曲](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%BC%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89%E4%B8%8E%E4%BB%A5%E7%9B%B4%E4%BB%A3%E6%9B%B2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6d59d44d00d2ad32b44c",
+      "mathmap_atom_id": "Kd53c5f8868afe0",
+      "mathmap_file": "Mathmap/知识点/闭区间上函数的最大值与最小值.md",
+      "text": "[闭区间上函数的最大值与最小值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%97%AD%E5%8C%BA%E9%97%B4%E4%B8%8A%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E4%B8%8E%E6%9C%80%E5%B0%8F%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3bbbdb70ff8764628b6f",
+      "mathmap_atom_id": "Ke93c0c204079d2",
+      "mathmap_file": "Mathmap/知识点/函数和与差的求导法则.md",
+      "text": "[函数和与差的求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5558435b813edc23e58e",
+      "mathmap_atom_id": "K7014b121f49147",
+      "mathmap_file": "Mathmap/知识点/函数积与商的求导法则.md",
+      "text": "[函数积与商的求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%A7%AF%E4%B8%8E%E5%95%86%E7%9A%84%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e7cef3b89477e2a59bb6",
+      "mathmap_atom_id": "K3bac05b7baa461",
+      "mathmap_file": "Mathmap/知识点/复合函数与链式求导法则.md",
+      "text": "[复合函数与链式求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0%E4%B8%8E%E9%93%BE%E5%BC%8F%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "416fc9aef5dfd0611c2b",
+      "mathmap_atom_id": "Kd62f215f695297",
+      "mathmap_file": "Mathmap/知识点/牛顿法求方程的近似解.md",
+      "text": "[牛顿法求方程的近似解](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%89%9B%E9%A1%BF%E6%B3%95%E6%B1%82%E6%96%B9%E7%A8%8B%E7%9A%84%E8%BF%91%E4%BC%BC%E8%A7%A3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 900
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "62eec0df7ad3449a5ba6",
+      "mathmap_atom_id": "C26fb990767b811",
+      "mathmap_file": "Mathmap/概念或公式/函数和与差的求导法则.md",
+      "text": "[函数和与差的求导法则](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%87%BD%E6%95%B0%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1420
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1af8e7743231128e5add",
+      "mathmap_atom_id": "Kd3ae991988cf0a",
+      "mathmap_file": "Mathmap/知识点/利用单调性比较函数值与证明不等式.md",
+      "text": "[利用单调性比较函数值与证明不等式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%A9%E7%94%A8%E5%8D%95%E8%B0%83%E6%80%A7%E6%AF%94%E8%BE%83%E5%87%BD%E6%95%B0%E5%80%BC%E4%B8%8E%E8%AF%81%E6%98%8E%E4%B8%8D%E7%AD%89%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1420
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "a0da8ba9a2cdc48c40a0",
+      "mathmap_atom_id": "C4e82e07358df68",
+      "mathmap_file": "Mathmap/概念或公式/基本初等函数的导数公式.md",
+      "text": "[基本初等函数的导数公式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%BC%E6%95%B0%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1420
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "656ae9ca6d3a948498f8",
+      "mathmap_atom_id": "K0520150c1b281b",
+      "mathmap_file": "Mathmap/知识点/平均速度、瞬时速度与极限逼近.md",
+      "text": "[平均速度、瞬时速度与极限逼近](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E5%9D%87%E9%80%9F%E5%BA%A6%E3%80%81%E7%9E%AC%E6%97%B6%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%9E%81%E9%99%90%E9%80%BC%E8%BF%91.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1640
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "31871978250d5e75e028",
+      "mathmap_atom_id": "Kf46d529c4418a9",
+      "mathmap_file": "Mathmap/知识点/曲线切线、割线斜率与瞬时变化率.md",
+      "text": "[曲线切线、割线斜率与瞬时变化率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9B%B2%E7%BA%BF%E5%88%87%E7%BA%BF%E3%80%81%E5%89%B2%E7%BA%BF%E6%96%9C%E7%8E%87%E4%B8%8E%E7%9E%AC%E6%97%B6%E5%8F%98%E5%8C%96%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1640
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "17fd06d46c1a605f4013",
+      "mathmap_atom_id": "Cd028c29adeedb0",
+      "mathmap_file": "Mathmap/概念或公式/曲线的切线.md",
+      "text": "[曲线的切线](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%88%87%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1640
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2110b82bb81ff243e14f",
+      "mathmap_atom_id": "K0445abad601f8e",
+      "mathmap_file": "Mathmap/知识点/用图形技术研究函数性质.md",
+      "text": "[用图形技术研究函数性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%9B%BE%E5%BD%A2%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E5%87%BD%E6%95%B0%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1860
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b50cf709ad3443b85874",
+      "text": "[5.1 导数的概念及其意义](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/5.1%20%E5%AF%BC%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E6%84%8F%E4%B9%89--41206a64.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2080
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2f3a46a4c224afe010e9",
+      "text": "[5.2 导数的运算](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/5.2%20%E5%AF%BC%E6%95%B0%E7%9A%84%E8%BF%90%E7%AE%97--5cd67262.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2080
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[探究与发现 牛顿法——用导数方法求方程的近似解](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E7%89%9B%E9%A1%BF%E6%B3%95%E2%80%94%E2%80%94%E7%94%A8%E5%AF%BC%E6%95%B0%E6%96%B9%E6%B3%95%E6%B1%82%E6%96%B9%E7%A8%8B%E7%9A%84%E8%BF%91%E4%BC%BC%E8%A7%A3--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 2080
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "23f5a57c287379c4e69d",
+      "text": "[5.3 导数在研究函数中的应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/5.3%20%E5%AF%BC%E6%95%B0%E5%9C%A8%E7%A0%94%E7%A9%B6%E5%87%BD%E6%95%B0%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8--151aa748.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2290
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "144d863c2ff7520b5154",
+      "text": "[信息技术应用 图形技术与函数性质](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%20%E5%9B%BE%E5%BD%A2%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%87%BD%E6%95%B0%E6%80%A7%E8%B4%A8--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2290
+    }
+  ]
+}

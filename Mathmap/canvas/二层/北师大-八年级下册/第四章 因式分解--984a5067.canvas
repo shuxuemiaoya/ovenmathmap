@@ -1,0 +1,155 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-036",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "727bdbc21274f21a1ae2",
+      "text": "# 第四章 因式分解\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "ba00c97e4faa4e4bc042",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3f149e8ef937fb8b71fb",
+      "mathmap_atom_id": "K49a8d1f4d1ea42",
+      "mathmap_file": "Mathmap/知识点/公因式的概念.md",
+      "text": "[公因式的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%AC%E5%9B%A0%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "535f5d5ebb49bc110ad7",
+      "mathmap_atom_id": "K1eb74a5ec7c40c",
+      "mathmap_file": "Mathmap/知识点/公式法因式分解的概念.md",
+      "text": "[公式法因式分解的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%AC%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8812c25c13a8e46dda44",
+      "mathmap_atom_id": "Kf1e17e95869a92",
+      "mathmap_file": "Mathmap/知识点/因式分解的完全平方公式.md",
+      "text": "[因式分解的完全平方公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "657fdc4596f838d1ed44",
+      "mathmap_atom_id": "K102971f6af7c9f",
+      "mathmap_file": "Mathmap/知识点/因式分解的定义.md",
+      "text": "[因式分解的定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "15c1d29b4be5ca2148f1",
+      "mathmap_atom_id": "K04bf589489c3c4",
+      "mathmap_file": "Mathmap/知识点/因式分解的平方差公式.md",
+      "text": "[因式分解的平方差公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E5%B9%B3%E6%96%B9%E5%B7%AE%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a833e5e26b359f5636aa",
+      "mathmap_atom_id": "Kf2e4ee9d55f923",
+      "mathmap_file": "Mathmap/知识点/提公因式法的概念.md",
+      "text": "[提公因式法的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "578af242dd26e46c9ecb",
+      "mathmap_atom_id": "K0ef1078a347f8a",
+      "mathmap_file": "Mathmap/知识点/智慧数的概念与奇数情况证明.md",
+      "text": "[智慧数的概念与奇数情况证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%99%BA%E6%85%A7%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%A5%87%E6%95%B0%E6%83%85%E5%86%B5%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4e7f26bbccc7f78f5623",
+      "mathmap_atom_id": "K99ff41cc07f367",
+      "mathmap_file": "Mathmap/知识点/首项系数为负时提公因式法的符号规则.md",
+      "text": "[首项系数为负时提公因式法的符号规则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A6%96%E9%A1%B9%E7%B3%BB%E6%95%B0%E4%B8%BA%E8%B4%9F%E6%97%B6%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E7%9A%84%E7%AC%A6%E5%8F%B7%E8%A7%84%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "0cc16258f678259a24ad",
+      "text": "[1 因式分解](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3--19b25135.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "9c4d2baa0981559b76d0",
+      "text": "[2 提公因式法](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95--ea6b5e3a.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "205c69d895d399665d5e",
+      "text": "[3 公式法](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E5%85%AC%E5%BC%8F%E6%B3%95--a2bc2f26.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 660
+    }
+  ]
+}

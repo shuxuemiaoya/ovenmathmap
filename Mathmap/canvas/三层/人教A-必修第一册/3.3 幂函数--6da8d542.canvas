@@ -1,0 +1,75 @@
+{
+  "edges": [
+    {
+      "fromNode": "ebe6420f6a1ff332e69b",
+      "fromSide": "top",
+      "id": "1f9ae5a4a4de03ff1cab",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "29ed41c2dd224ac27b84",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-022",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "91f62a43c17f3ac98158",
+      "text": "# 3.3 幂函数\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "22c6a77b50afc24222d0",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8--99368e80.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "29ed41c2dd224ac27b84",
+      "mathmap_atom_id": "C6db28b3d092aeb",
+      "mathmap_file": "Mathmap/概念或公式/幂函数--C6db28b3d092aeb.md",
+      "text": "[幂函数](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%B9%82%E5%87%BD%E6%95%B0--C6db28b3d092aeb.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ebe6420f6a1ff332e69b",
+      "mathmap_atom_id": "Kf2545c1f4a2525",
+      "mathmap_file": "Mathmap/知识点/幂函数的概念--000130.md",
+      "text": "[幂函数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%82%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--000130.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5299c12a7ac2c2dbe8e9",
+      "mathmap_atom_id": "K86c3f81db5a423",
+      "mathmap_file": "Mathmap/知识点/幂函数的图象与性质--000131.md",
+      "text": "[幂函数的图象与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%82%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E8%B1%A1%E4%B8%8E%E6%80%A7%E8%B4%A8--000131.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    }
+  ]
+}

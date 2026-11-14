@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-021",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "58f7a04294918d965535",
+      "text": "# 1 确定位置\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6163ff276f605e04adac",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87--bd80c67d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6c26cc81c0cc3b2f0009",
+      "mathmap_atom_id": "Kd10e96ec7e0c52",
+      "mathmap_file": "Mathmap/知识点/平面内确定物体位置一般需要两个数据.md",
+      "text": "[平面内确定物体位置一般需要两个数据](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%86%85%E7%A1%AE%E5%AE%9A%E7%89%A9%E4%BD%93%E4%BD%8D%E7%BD%AE%E4%B8%80%E8%88%AC%E9%9C%80%E8%A6%81%E4%B8%A4%E4%B8%AA%E6%95%B0%E6%8D%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bf350cec206bdae5ee2b",
+      "mathmap_atom_id": "K3412096b387305",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：平面定位的方式与经纬度原理.md",
+      "text": "[阅读·欣赏：平面定位的方式与经纬度原理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E5%B9%B3%E9%9D%A2%E5%AE%9A%E4%BD%8D%E7%9A%84%E6%96%B9%E5%BC%8F%E4%B8%8E%E7%BB%8F%E7%BA%AC%E5%BA%A6%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

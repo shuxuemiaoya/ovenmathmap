@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-007",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "870d22b4671a0ab8c306",
+      "text": "# 阅读与思考 海伦和秦九韶\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "15e9d61d0ce8fd0ef701",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c76014aadc15b903abae",
+      "mathmap_atom_id": "Kde2d34f33df1e8",
+      "mathmap_file": "Mathmap/知识点/海伦公式与秦九韶三斜求积.md",
+      "text": "[海伦公式与秦九韶三斜求积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%B5%B7%E4%BC%A6%E5%85%AC%E5%BC%8F%E4%B8%8E%E7%A7%A6%E4%B9%9D%E9%9F%B6%E4%B8%89%E6%96%9C%E6%B1%82%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

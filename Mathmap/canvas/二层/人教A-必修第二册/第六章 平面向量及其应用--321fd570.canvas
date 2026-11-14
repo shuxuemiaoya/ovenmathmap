@@ -1,0 +1,352 @@
+{
+  "edges": [
+    {
+      "fromNode": "eba800f7b2b409974e2b",
+      "fromSide": "right",
+      "id": "7e95569abbaf39ec4545",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1d41f1a96413e4cfe647",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eba800f7b2b409974e2b",
+      "fromSide": "right",
+      "id": "871c76de53cb995c1da6",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "9b1c5858d7c4152f2a09",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eba800f7b2b409974e2b",
+      "fromSide": "right",
+      "id": "f8656cff83f47e62f0da",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f7d0f617953e8bbe0089",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "82606df658c5313c7a7d",
+      "fromSide": "right",
+      "id": "2586c0bd042cb67230c7",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "eba800f7b2b409974e2b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b0d709b5a86cbf3ec449",
+      "fromSide": "right",
+      "id": "f1749aa712f27ace44a9",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b5b07679e49e83ab7d37",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b0d709b5a86cbf3ec449",
+      "fromSide": "right",
+      "id": "3cbf7786409119f675f3",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "6a65543224631ca681ce",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e92ca60692b479aae4a0",
+      "fromSide": "top",
+      "id": "48d5fb0373561e26ca61",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1d41f1a96413e4cfe647",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e92ca60692b479aae4a0",
+      "fromSide": "right",
+      "id": "27ae51a36f1badf60dee",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "05d3c50ab6072882c2ea",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-001",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c5dcd0bdd298773be7ab",
+      "text": "# 第六章 平面向量及其应用\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "eda52b35c33f814e405e",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "82606df658c5313c7a7d",
+      "mathmap_atom_id": "K60fc8d1be33945",
+      "mathmap_file": "Mathmap/知识点/平面向量基本定理及其证明.md",
+      "text": "[平面向量基本定理及其证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b0d709b5a86cbf3ec449",
+      "mathmap_atom_id": "K6526bf0926be87",
+      "mathmap_file": "Mathmap/知识点/平面向量的加法与运算律.md",
+      "text": "[平面向量的加法与运算律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E5%8A%A0%E6%B3%95%E4%B8%8E%E8%BF%90%E7%AE%97%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e92ca60692b479aae4a0",
+      "mathmap_atom_id": "K9720f9dcfb1de9",
+      "mathmap_file": "Mathmap/知识点/平面向量的数量积与性质.md",
+      "text": "[平面向量的数量积与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "05d3c50ab6072882c2ea",
+      "mathmap_atom_id": "K73bd9bbccd08a0",
+      "mathmap_file": "Mathmap/知识点/余弦定理与正弦定理.md",
+      "text": "[余弦定理与正弦定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86%E4%B8%8E%E6%AD%A3%E5%BC%A6%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b5b07679e49e83ab7d37",
+      "mathmap_atom_id": "K7f5f5e2c3314f8",
+      "mathmap_file": "Mathmap/知识点/平面向量的减法与相反向量.md",
+      "text": "[平面向量的减法与相反向量](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E5%87%8F%E6%B3%95%E4%B8%8E%E7%9B%B8%E5%8F%8D%E5%90%91%E9%87%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a65543224631ca681ce",
+      "mathmap_atom_id": "K8feb0511510354",
+      "mathmap_file": "Mathmap/知识点/平面向量的数乘运算与共线条件.md",
+      "text": "[平面向量的数乘运算与共线条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E4%B9%98%E8%BF%90%E7%AE%97%E4%B8%8E%E5%85%B1%E7%BA%BF%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "eba800f7b2b409974e2b",
+      "mathmap_atom_id": "K415fd1ff193ec2",
+      "mathmap_file": "Mathmap/知识点/平面向量的正交分解与坐标表示.md",
+      "text": "[平面向量的正交分解与坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E6%AD%A3%E4%BA%A4%E5%88%86%E8%A7%A3%E4%B8%8E%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f7d0f617953e8bbe0089",
+      "mathmap_atom_id": "Ke9e91fa96de3a4",
+      "mathmap_file": "Mathmap/知识点/平面向量加减运算的坐标表示.md",
+      "text": "[平面向量加减运算的坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9b1c5858d7c4152f2a09",
+      "mathmap_atom_id": "K9004c1f826fcf3",
+      "mathmap_file": "Mathmap/知识点/平面向量数乘的坐标表示与共线判定.md",
+      "text": "[平面向量数乘的坐标表示与共线判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E6%95%B0%E4%B9%98%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%85%B1%E7%BA%BF%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1d41f1a96413e4cfe647",
+      "mathmap_atom_id": "K490df3d10995ff",
+      "mathmap_file": "Mathmap/知识点/平面向量数量积的坐标表示.md",
+      "text": "[平面向量数量积的坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E6%95%B0%E9%87%8F%E7%A7%AF%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "511e4809d74c8c35b399",
+      "mathmap_atom_id": "C8c9da2b1555640",
+      "mathmap_file": "Mathmap/概念或公式/向量与数量.md",
+      "text": "[向量与数量](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%90%91%E9%87%8F%E4%B8%8E%E6%95%B0%E9%87%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1ba8696ca1451e29c777",
+      "mathmap_atom_id": "Kde167992de68fc",
+      "mathmap_file": "Mathmap/知识点/向量的实际背景与概念.md",
+      "text": "[向量的实际背景与概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%91%E9%87%8F%E7%9A%84%E5%AE%9E%E9%99%85%E8%83%8C%E6%99%AF%E4%B8%8E%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c76014aadc15b903abae",
+      "mathmap_atom_id": "Kde2d34f33df1e8",
+      "mathmap_file": "Mathmap/知识点/海伦公式与秦九韶三斜求积.md",
+      "text": "[海伦公式与秦九韶三斜求积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%B5%B7%E4%BC%A6%E5%85%AC%E5%BC%8F%E4%B8%8E%E7%A7%A6%E4%B9%9D%E9%9F%B6%E4%B8%89%E6%96%9C%E6%B1%82%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ba4f4f21395fa1ea6cc2",
+      "mathmap_atom_id": "K194529fedf774f",
+      "mathmap_file": "Mathmap/知识点/用向量法研究三角形的性质.md",
+      "text": "[用向量法研究三角形的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%90%91%E9%87%8F%E6%B3%95%E7%A0%94%E7%A9%B6%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "47510802c78ff56e3adf",
+      "mathmap_atom_id": "Ke6a6175a798df7",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 向量及向量符号的由来.md",
+      "text": "[阅读与思考 向量及向量符号的由来](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%90%91%E9%87%8F%E5%8F%8A%E5%90%91%E9%87%8F%E7%AC%A6%E5%8F%B7%E7%9A%84%E7%94%B1%E6%9D%A5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1340
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b47a911304d1739ad6b7",
+      "text": "[6.1 平面向量的概念](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/6.1%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5--dbe96e90.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1560
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "eacf54448b8fe5a42a2f",
+      "text": "[阅读与思考 向量及向量符号的由来](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%90%91%E9%87%8F%E5%8F%8A%E5%90%91%E9%87%8F%E7%AC%A6%E5%8F%B7%E7%9A%84%E7%94%B1%E6%9D%A5--b5a9fdb1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1560
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "18b4f862e0a5a4619d01",
+      "text": "[6.2 平面向量的运算](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/6.2%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E8%BF%90%E7%AE%97--fdc878d1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1560
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "5c5cb6f6f855069baebc",
+      "text": "[6.3 平面向量基本定理及坐标表示](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/6.3%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86%E5%8F%8A%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA--2b06ced0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1770
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "6ec1b868f0808eb3190b",
+      "text": "[6.4 平面向量的应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/6.4%20%E5%B9%B3%E9%9D%A2%E5%90%91%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8--7ee2e281.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1770
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "312e183355b6dfc6c18d",
+      "text": "[阅读与思考 海伦和秦九韶](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E6%B5%B7%E4%BC%A6%E5%92%8C%E7%A7%A6%E4%B9%9D%E9%9F%B6--f214fcff.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1770
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "27a0066bd831b6aaf834",
+      "text": "[数学探究 用向量法研究三角形的性质](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%95%B0%E5%AD%A6%E6%8E%A2%E7%A9%B6%20%E7%94%A8%E5%90%91%E9%87%8F%E6%B3%95%E7%A0%94%E7%A9%B6%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8--e51a80d4.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1980
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "e1e5c5aadf57fd3f5309",
+      "fromSide": "right",
+      "id": "2761ea3cf0eba78241c9",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "24d045ac7f3e41e3adfd",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-022",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "91f62a43c17f3ac98158",
+      "text": "# 1 感受可能性\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "22c6a77b50afc24222d0",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%A6%82%E7%8E%87%E5%88%9D%E6%AD%A5--f18eef6d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e1e5c5aadf57fd3f5309",
+      "mathmap_atom_id": "Kc49c196cd2bfd7",
+      "mathmap_file": "Mathmap/知识点/必然事件、不可能事件与随机事件.md",
+      "text": "[必然事件、不可能事件与随机事件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BF%85%E7%84%B6%E4%BA%8B%E4%BB%B6%E3%80%81%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E4%B8%8E%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "24d045ac7f3e41e3adfd",
+      "mathmap_atom_id": "K1dca91a3a2765f",
+      "mathmap_file": "Mathmap/知识点/随机事件发生可能性的大小.md",
+      "text": "[随机事件发生可能性的大小](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%91%E7%94%9F%E5%8F%AF%E8%83%BD%E6%80%A7%E7%9A%84%E5%A4%A7%E5%B0%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

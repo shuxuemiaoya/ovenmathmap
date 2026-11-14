@@ -1,0 +1,174 @@
+{
+  "edges": [
+    {
+      "fromNode": "7c6262f814854d713522",
+      "fromSide": "right",
+      "id": "c61f64820fdbb90fd6aa",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "69fe0cf2e86ab0d0458c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1bddac06a69c8cbb05e1",
+      "fromSide": "right",
+      "id": "0741aafc7b40d414d6c6",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8354355b9ee962414016",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9d1c34ab4e318d77f3e8",
+      "fromSide": "right",
+      "id": "e4dad0fb3499e0e33ec4",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "61e6b0246c6f456aa49d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fa21cb3cce090dd3f491",
+      "fromSide": "right",
+      "id": "f1c31619b177461e4472",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "9d1c34ab4e318d77f3e8",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-009",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "550445f1f73d3a06a7fe",
+      "text": "# 1 认识有理数\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd33a9fdffdcee97fd50",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%9C%89%E7%90%86%E6%95%B0%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97--46b500ec.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1bddac06a69c8cbb05e1",
+      "mathmap_atom_id": "K0cb196e84d55d3",
+      "mathmap_file": "Mathmap/知识点/具有相反意义的量与正数、负数、0的概念.md",
+      "text": "[具有相反意义的量与正数、负数、0的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%B7%E6%9C%89%E7%9B%B8%E5%8F%8D%E6%84%8F%E4%B9%89%E7%9A%84%E9%87%8F%E4%B8%8E%E6%AD%A3%E6%95%B0%E3%80%81%E8%B4%9F%E6%95%B0%E3%80%810%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7c6262f814854d713522",
+      "mathmap_atom_id": "K00359b8514cdb1",
+      "mathmap_file": "Mathmap/知识点/数轴的概念与三要素（原点、单位长度、正方向）.md",
+      "text": "[数轴的概念与三要素（原点、单位长度、正方向）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E8%BD%B4%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E4%B8%89%E8%A6%81%E7%B4%A0%EF%BC%88%E5%8E%9F%E7%82%B9%E3%80%81%E5%8D%95%E4%BD%8D%E9%95%BF%E5%BA%A6%E3%80%81%E6%AD%A3%E6%96%B9%E5%90%91%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fa21cb3cce090dd3f491",
+      "mathmap_atom_id": "Kfc2080d35b46ca",
+      "mathmap_file": "Mathmap/知识点/相反数与绝对值的概念及符号表示.md",
+      "text": "[相反数与绝对值的概念及符号表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B8%E5%8F%8D%E6%95%B0%E4%B8%8E%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%AC%A6%E5%8F%B7%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8354355b9ee962414016",
+      "mathmap_atom_id": "K3364983828b14a",
+      "mathmap_file": "Mathmap/知识点/整数、分数与有理数的概念及分类.md",
+      "text": "[整数、分数与有理数的概念及分类](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B4%E6%95%B0%E3%80%81%E5%88%86%E6%95%B0%E4%B8%8E%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%88%86%E7%B1%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "69fe0cf2e86ab0d0458c",
+      "mathmap_atom_id": "K0a045008549d80",
+      "mathmap_file": "Mathmap/知识点/有理数与数轴上点的对应关系.md",
+      "text": "[有理数与数轴上点的对应关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E4%B8%8E%E6%95%B0%E8%BD%B4%E4%B8%8A%E7%82%B9%E7%9A%84%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9d1c34ab4e318d77f3e8",
+      "mathmap_atom_id": "K433f9177231330",
+      "mathmap_file": "Mathmap/知识点/绝对值的代数性质（正数、负数与0的绝对值）.md",
+      "text": "[绝对值的代数性质（正数、负数与0的绝对值）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E4%BB%A3%E6%95%B0%E6%80%A7%E8%B4%A8%EF%BC%88%E6%AD%A3%E6%95%B0%E3%80%81%E8%B4%9F%E6%95%B0%E4%B8%8E0%E7%9A%84%E7%BB%9D%E5%AF%B9%E5%80%BC%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "61e6b0246c6f456aa49d",
+      "mathmap_atom_id": "K4910a454f1fe19",
+      "mathmap_file": "Mathmap/知识点/有理数大小比较法则.md",
+      "text": "[有理数大小比较法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E5%A4%A7%E5%B0%8F%E6%AF%94%E8%BE%83%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7d232a7b6455b285d71b",
+      "mathmap_atom_id": "K488c5f5675b1ac",
+      "mathmap_file": "Mathmap/知识点/相反数与绝对值的几何意义.md",
+      "text": "[相反数与绝对值的几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B8%E5%8F%8D%E6%95%B0%E4%B8%8E%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6238529b90eb7920e62f",
+      "mathmap_atom_id": "K13b5bec7c546a8",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：负数小史与《九章算术》正负术.md",
+      "text": "[阅读·欣赏：负数小史与《九章算术》正负术](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E8%B4%9F%E6%95%B0%E5%B0%8F%E5%8F%B2%E4%B8%8E%E3%80%8A%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%9C%AF%E3%80%8B%E6%AD%A3%E8%B4%9F%E6%9C%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    }
+  ]
+}

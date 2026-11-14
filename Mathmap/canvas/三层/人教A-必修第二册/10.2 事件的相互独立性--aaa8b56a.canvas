@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-044",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "75ede2bb02884a7c6bcd",
+      "text": "# 10.2 事件的相互独立性\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "0f88421fa42c78b7d924",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87--4029d0d4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1c857e334c11e5a949a7",
+      "mathmap_atom_id": "K9092551f977971",
+      "mathmap_file": "Mathmap/知识点/事件的相互独立性.md",
+      "text": "[事件的相互独立性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

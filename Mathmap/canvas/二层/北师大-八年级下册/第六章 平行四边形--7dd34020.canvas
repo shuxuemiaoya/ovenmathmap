@@ -1,0 +1,191 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-054",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "0ee7fa05f99d901f56ef",
+      "text": "# 第六章 平行四边形\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "b6ab13a871bf544cd2cd",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d8b4ea0e35bceb64f02e",
+      "mathmap_atom_id": "Kca534db12c327d",
+      "mathmap_file": "Mathmap/知识点/三角形中位线的概念与三角形中位线定理.md",
+      "text": "[三角形中位线的概念与三角形中位线定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%AD%E4%BD%8D%E7%BA%BF%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%AD%E4%BD%8D%E7%BA%BF%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1ba6a51c5eadf67bfd7a",
+      "mathmap_atom_id": "K78b05b6af624a1",
+      "mathmap_file": "Mathmap/知识点/平行四边形与对角线的概念及符号表示.md",
+      "text": "[平行四边形与对角线的概念及符号表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E4%B8%8E%E5%AF%B9%E8%A7%92%E7%BA%BF%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%AC%A6%E5%8F%B7%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bb88e42961ee468b8a28",
+      "mathmap_atom_id": "K7810b179349ea1",
+      "mathmap_file": "Mathmap/知识点/平行四边形判定定理：一组对边平行且相等.md",
+      "text": "[平行四边形判定定理：一组对边平行且相等](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%80%E7%BB%84%E5%AF%B9%E8%BE%B9%E5%B9%B3%E8%A1%8C%E4%B8%94%E7%9B%B8%E7%AD%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ab6c93dad050bcb36ea9",
+      "mathmap_atom_id": "K23e315662bc89e",
+      "mathmap_file": "Mathmap/知识点/平行四边形判定定理：两组对边分别相等.md",
+      "text": "[平行四边形判定定理：两组对边分别相等](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%A4%E7%BB%84%E5%AF%B9%E8%BE%B9%E5%88%86%E5%88%AB%E7%9B%B8%E7%AD%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b924f7c6e712c4e6d5b5",
+      "mathmap_atom_id": "K3074eb804bb47f",
+      "mathmap_file": "Mathmap/知识点/平行四边形判定定理：对角线互相平分.md",
+      "text": "[平行四边形判定定理：对角线互相平分](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%EF%BC%9A%E5%AF%B9%E8%A7%92%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%B9%B3%E5%88%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4d54a73792f4f06357f8",
+      "mathmap_atom_id": "Kadf63ffa570e76",
+      "mathmap_file": "Mathmap/知识点/平行四边形的对称性及边角性质定理.md",
+      "text": "[平行四边形的对称性及边角性质定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E5%8F%8A%E8%BE%B9%E8%A7%92%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cbc77d20a2bddb3f13a8",
+      "mathmap_atom_id": "Ka2594efea4dd06",
+      "mathmap_file": "Mathmap/知识点/平行四边形的对角线互相平分定理及证明.md",
+      "text": "[平行四边形的对角线互相平分定理及证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%AF%B9%E8%A7%92%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%B9%B3%E5%88%86%E5%AE%9A%E7%90%86%E5%8F%8A%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "eb034cd6eb6c95849faf",
+      "mathmap_atom_id": "Ke5b3cf07b26346",
+      "mathmap_file": "Mathmap/知识点/平行四边形连杆机构原理与应用.md",
+      "text": "[平行四边形连杆机构原理与应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8960d865da290ebc4428",
+      "mathmap_atom_id": "Kb6d186812a7724",
+      "mathmap_file": "Mathmap/知识点/平行线之间的距离的概念与性质.md",
+      "text": "[平行线之间的距离的概念与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "738f9d96c40055beaa2c",
+      "mathmap_atom_id": "K196775b50160b9",
+      "mathmap_file": "Mathmap/知识点/梯形与等腰梯形的概念.md",
+      "text": "[梯形与等腰梯形的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A2%AF%E5%BD%A2%E4%B8%8E%E7%AD%89%E8%85%B0%E6%A2%AF%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4ba7a1a4c0281f5d7644",
+      "mathmap_atom_id": "Kede5fd8260dc60",
+      "mathmap_file": "Mathmap/知识点/等腰梯形的对称性与底角性质.md",
+      "text": "[等腰梯形的对称性与底角性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%85%B0%E6%A2%AF%E5%BD%A2%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%BA%95%E8%A7%92%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "6faf2ca76111054dbd9f",
+      "text": "[1 平行四边形的性质](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8--5f3b36e4.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 880
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "553ee5fb1a35a6ffaca2",
+      "text": "[2 平行四边形的判定](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A--39386e91.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 880
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "bb21c38c7f1514e129fc",
+      "text": "[3 三角形的中位线](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E4%B8%AD%E4%BD%8D%E7%BA%BF--c1bbdf94.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 880
+    }
+  ]
+}

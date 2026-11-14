@@ -1,0 +1,119 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-001",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c5dcd0bdd298773be7ab",
+      "text": "# 第一章 勾股定理\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "eda52b35c33f814e405e",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "478e15b973623520e7cc",
+      "mathmap_atom_id": "K248d800a66cafd",
+      "mathmap_file": "Mathmap/知识点/勾股定理的内容与符号表示.md",
+      "text": "[勾股定理的内容与符号表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E5%86%85%E5%AE%B9%E4%B8%8E%E7%AC%A6%E5%8F%B7%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec10580c2af2c8bd384a",
+      "mathmap_atom_id": "Kb26f139f892883",
+      "mathmap_file": "Mathmap/知识点/勾股定理的拼图验证与赵爽弦图.md",
+      "text": "[勾股定理的拼图验证与赵爽弦图](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E6%8B%BC%E5%9B%BE%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%B5%B5%E7%88%BD%E5%BC%A6%E5%9B%BE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "00c043fa796eb3b98600",
+      "mathmap_atom_id": "K13096589dd2571",
+      "mathmap_file": "Mathmap/知识点/勾股定理的逆定理（直角三角形的判定）与勾股数.md",
+      "text": "[勾股定理的逆定理（直角三角形的判定）与勾股数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E9%80%86%E5%AE%9A%E7%90%86%EF%BC%88%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A%EF%BC%89%E4%B8%8E%E5%8B%BE%E8%82%A1%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5c14456654ab6bf6eba3",
+      "mathmap_atom_id": "Kf350b2a82bf7ad",
+      "mathmap_file": "Mathmap/知识点/问题解决策略：反思的四个环节与方法体系.md",
+      "text": "[问题解决策略：反思的四个环节与方法体系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5%EF%BC%9A%E5%8F%8D%E6%80%9D%E7%9A%84%E5%9B%9B%E4%B8%AA%E7%8E%AF%E8%8A%82%E4%B8%8E%E6%96%B9%E6%B3%95%E4%BD%93%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0c6933223c6951353e34",
+      "mathmap_atom_id": "K297c0d0541e50e",
+      "mathmap_file": "Mathmap/知识点/阅读·思考：勾股定理的无字证明.md",
+      "text": "[阅读·思考：勾股定理的无字证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E6%97%A0%E5%AD%97%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b47a911304d1739ad6b7",
+      "text": "[1 探索勾股定理](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E6%8E%A2%E7%B4%A2%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86--dbe96e90.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "18b4f862e0a5a4619d01",
+      "text": "[2 一定是直角三角形吗](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E4%B8%80%E5%AE%9A%E6%98%AF%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E5%90%97--fdc878d1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 440
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "bd057bad99f57c5cf25e",
+      "text": "[问题解决策略：反思](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5%EF%BC%9A%E5%8F%8D%E6%80%9D--46b500ec.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 440
+    }
+  ]
+}

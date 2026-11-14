@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-024",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "bb0876e56a1374b68117",
+      "text": "# 探究与发现 祖暅原理与柱体、锥体的体积\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8757adddf7cfe4f4e4de",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5--fc518d23.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6c6e63d60aae48dd9eff",
+      "mathmap_atom_id": "K68dd0255e73eef",
+      "mathmap_file": "Mathmap/知识点/柱体与锥体的体积推导.md",
+      "text": "[柱体与锥体的体积推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9F%B1%E4%BD%93%E4%B8%8E%E9%94%A5%E4%BD%93%E7%9A%84%E4%BD%93%E7%A7%AF%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a2efeb317bc763aaa0ec",
+      "mathmap_atom_id": "K5d6df8131c805d",
+      "mathmap_file": "Mathmap/知识点/祖暅原理.md",
+      "text": "[祖暅原理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A5%96%E6%9A%85%E5%8E%9F%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-005",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5e833ae7c86ab6240529",
+      "text": "# 探究与发现 组合数的两个性质\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "a1a2862a089492d411ee",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d29fc9f4474b77eb0146",
+      "mathmap_atom_id": "K63322e8b9c6fa0",
+      "mathmap_file": "Mathmap/知识点/探究与发现 组合数的两个性质.md",
+      "text": "[探究与发现 组合数的两个性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "99bc9d4d17f6778bb304",
+      "mathmap_atom_id": "C3c2f9ed6313a0f",
+      "mathmap_file": "Mathmap/概念或公式/组合数的两个性质.md",
+      "text": "[组合数的两个性质](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E7%BB%84%E5%90%88%E6%95%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

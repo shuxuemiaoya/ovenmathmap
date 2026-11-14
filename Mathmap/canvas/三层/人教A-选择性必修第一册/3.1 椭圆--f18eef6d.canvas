@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "a62b986d1cebbefac02d",
+      "fromSide": "right",
+      "id": "63c473f5264990688989",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "33e51119eaee15315d32",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a62b986d1cebbefac02d",
+      "fromSide": "right",
+      "id": "53cab485eb0bac19bf87",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "73d2c0c359981cbbd1ef",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-021",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "58f7a04294918d965535",
+      "text": "# 3.1 椭圆\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6163ff276f605e04adac",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B--bd80c67d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "73d2c0c359981cbbd1ef",
+      "mathmap_atom_id": "K4f9ef16ec4a9b8",
+      "mathmap_file": "Mathmap/知识点/椭圆的离心率.md",
+      "text": "[椭圆的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "33e51119eaee15315d32",
+      "mathmap_atom_id": "K1ae7ac12e85690",
+      "mathmap_file": "Mathmap/知识点/椭圆的范围对称性与顶点.md",
+      "text": "[椭圆的范围对称性与顶点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E8%8C%83%E5%9B%B4%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E9%A1%B6%E7%82%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    }
+  ]
+}

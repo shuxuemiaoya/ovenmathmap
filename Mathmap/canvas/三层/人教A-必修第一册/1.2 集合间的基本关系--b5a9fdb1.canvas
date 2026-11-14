@@ -1,0 +1,108 @@
+{
+  "edges": [
+    {
+      "fromNode": "c125dcf524e461f0670c",
+      "fromSide": "top",
+      "id": "561b2f68ace86bd590e0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "416f33cd3de38cf03607",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "7b10bd06b8b1b7037f9a",
+      "fromSide": "top",
+      "id": "847bbfe14c5cc0458f88",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "5f7ff9111b6cb4bba3a6",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-003",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "242c8a1224957541092d",
+      "text": "# 1.2 集合间的基本关系\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "255d5e8bb7ee5e09a69d",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "5f7ff9111b6cb4bba3a6",
+      "mathmap_atom_id": "Cd23026d5465e5e",
+      "mathmap_file": "Mathmap/概念或公式/空集--Cd23026d5465e5e.md",
+      "text": "[空集](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E7%A9%BA%E9%9B%86--Cd23026d5465e5e.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7b10bd06b8b1b7037f9a",
+      "mathmap_atom_id": "Kc8b659ecdc57fe",
+      "mathmap_file": "Mathmap/知识点/空集与子集的性质--000096.md",
+      "text": "[空集与子集的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%9B%86%E4%B8%8E%E5%AD%90%E9%9B%86%E7%9A%84%E6%80%A7%E8%B4%A8--000096.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "416f33cd3de38cf03607",
+      "mathmap_atom_id": "Cbe5968a400cc5b",
+      "mathmap_file": "Mathmap/概念或公式/集合相等--Cbe5968a400cc5b.md",
+      "text": "[集合相等](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E9%9B%86%E5%90%88%E7%9B%B8%E7%AD%89--Cbe5968a400cc5b.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c125dcf524e461f0670c",
+      "mathmap_atom_id": "K8d2f3b3fe2c530",
+      "mathmap_file": "Mathmap/知识点/集合相等与真子集--000095.md",
+      "text": "[集合相等与真子集](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9B%86%E5%90%88%E7%9B%B8%E7%AD%89%E4%B8%8E%E7%9C%9F%E5%AD%90%E9%9B%86--000095.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2af22f345651d0b7414d",
+      "mathmap_atom_id": "K139b010b5537b9",
+      "mathmap_file": "Mathmap/知识点/子集与Venn图--000094.md",
+      "text": "[子集与Venn图](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AD%90%E9%9B%86%E4%B8%8EVenn%E5%9B%BE--000094.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1120
+    }
+  ]
+}

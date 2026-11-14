@@ -1,0 +1,224 @@
+{
+  "edges": [
+    {
+      "fromNode": "e5769fcc476d57758c6e",
+      "fromSide": "right",
+      "id": "d0e1b35e93669a04da88",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b136a32355d4b3969a25",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e5769fcc476d57758c6e",
+      "fromSide": "right",
+      "id": "b729f8022810662e69ac",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "e4034d5d77ceb0e99377",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "27eb0458347e0b70e1ea",
+      "fromSide": "right",
+      "id": "dadbad8a35ba5e6dd6b8",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "35b0d13f86e2f1d66fda",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4034d5d77ceb0e99377",
+      "fromSide": "right",
+      "id": "1a0f0c6c435ee989b4b1",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "27eb0458347e0b70e1ea",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-011",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "74c672dffe8426f1b713",
+      "text": "# 第七章 复数\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "62a015192b0bcf0653f1",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e5769fcc476d57758c6e",
+      "mathmap_atom_id": "K3722fe0f8d3d78",
+      "mathmap_file": "Mathmap/知识点/复数的概念与数系扩充.md",
+      "text": "[复数的概念与数系扩充](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b136a32355d4b3969a25",
+      "mathmap_atom_id": "K43536ee22785e7",
+      "mathmap_file": "Mathmap/知识点/复数的乘除运算.md",
+      "text": "[复数的乘除运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e4034d5d77ceb0e99377",
+      "mathmap_atom_id": "K5a4e937970e0f5",
+      "mathmap_file": "Mathmap/知识点/复数的几何意义.md",
+      "text": "[复数的几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "27eb0458347e0b70e1ea",
+      "mathmap_atom_id": "K447d839c78d5cf",
+      "mathmap_file": "Mathmap/知识点/复数的三角表示式.md",
+      "text": "[复数的三角表示式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b0d13f86e2f1d66fda",
+      "mathmap_atom_id": "Ka1102288cca703",
+      "mathmap_file": "Mathmap/知识点/复数三角形式的乘除运算与几何意义.md",
+      "text": "[复数三角形式的乘除运算与几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d4b3fcac1471faab91e4",
+      "mathmap_atom_id": "Ke5bf3a34c40b4c",
+      "mathmap_file": "Mathmap/知识点/1的n次方根.md",
+      "text": "[1的n次方根](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/1%E7%9A%84n%E6%AC%A1%E6%96%B9%E6%A0%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6ee17b06ad0b2721a396",
+      "mathmap_atom_id": "Kf698d3501dcf7d",
+      "mathmap_file": "Mathmap/知识点/复数的加减运算与几何意义.md",
+      "text": "[复数的加减运算与几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "253f7d63f47d674f8c6d",
+      "mathmap_atom_id": "C75380d80ebe9dc",
+      "mathmap_file": "Mathmap/概念或公式/棣莫弗定理.md",
+      "text": "[棣莫弗定理](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A3%A3%E8%8E%AB%E5%BC%97%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a6e5cdedd1535c95ff48",
+      "mathmap_atom_id": "Kf45368d0ef1d62",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 代数基本定理.md",
+      "text": "[阅读与思考 代数基本定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E4%BB%A3%E6%95%B0%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2f3a46a4c224afe010e9",
+      "text": "[7.1 复数的概念](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/7.1%20%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--5cd67262.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 960
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[7.2 复数的四则运算](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/7.2%20%E5%A4%8D%E6%95%B0%E7%9A%84%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 960
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "23f5a57c287379c4e69d",
+      "text": "[阅读与思考 代数基本定理](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E4%BB%A3%E6%95%B0%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86--151aa748.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 960
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "144d863c2ff7520b5154",
+      "text": "[7.3* 复数的三角表示](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/7.3-%20%E5%A4%8D%E6%95%B0%E7%9A%84%E4%B8%89%E8%A7%92%E8%A1%A8%E7%A4%BA--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1170
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "74ececdf8dd26218f483",
+      "text": "[探究与发现 1 的 n 次方根](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%201%20%E7%9A%84%20n%20%E6%AC%A1%E6%96%B9%E6%A0%B9--5cfefcf7.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1170
+    }
+  ]
+}

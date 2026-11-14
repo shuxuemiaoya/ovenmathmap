@@ -1,0 +1,89 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-035",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "4cc207528d4f616f43cf",
+      "text": "# 信息技术应用 统计软件的应用\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "87451f0b270c409f3a21",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E7%BB%9F%E8%AE%A1--0bf45746.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fc358ba88c4ccf26f22b",
+      "mathmap_atom_id": "K1e7443d73da1ac",
+      "mathmap_file": "Mathmap/知识点/R软件中的统计量计算.md",
+      "text": "[R软件中的统计量计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/R%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%9A%84%E7%BB%9F%E8%AE%A1%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "502f987148fffa120dfb",
+      "mathmap_atom_id": "K46fd35e7b07b15",
+      "mathmap_file": "Mathmap/知识点/R软件生成随机数.md",
+      "text": "[R软件生成随机数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/R%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "67d04fa03127c413a7f8",
+      "mathmap_atom_id": "K8c7a453b4830eb",
+      "mathmap_file": "Mathmap/知识点/用R软件sample函数进行随机抽样.md",
+      "text": "[用R软件sample函数进行随机抽样](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8R%E8%BD%AF%E4%BB%B6sample%E5%87%BD%E6%95%B0%E8%BF%9B%E8%A1%8C%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d4b50bed3f144733c5f0",
+      "mathmap_atom_id": "K03f341bdf412d9",
+      "mathmap_file": "Mathmap/知识点/电子表格中的统计量计算.md",
+      "text": "[电子表格中的统计量计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC%E4%B8%AD%E7%9A%84%E7%BB%9F%E8%AE%A1%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "16b3862646659747e48f",
+      "mathmap_atom_id": "Kcef4059fe5cc58",
+      "mathmap_file": "Mathmap/知识点/电子表格中的随机抽样.md",
+      "text": "[电子表格中的随机抽样](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC%E4%B8%AD%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    }
+  ]
+}

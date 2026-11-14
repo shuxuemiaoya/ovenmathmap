@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-046",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "04ccdf247cc4cbf0583f",
+      "text": "# 阅读与思考 孟德尔遗传规律\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "957069d0c5d862c22542",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%8D%81%E7%AB%A0%20%E6%A6%82%E7%8E%87--4029d0d4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "37056ab1a0dcaca7d05e",
+      "mathmap_atom_id": "K8090e9c35d8058",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 孟德尔遗传规律.md",
+      "text": "[阅读与思考 孟德尔遗传规律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%AD%9F%E5%BE%B7%E5%B0%94%E9%81%97%E4%BC%A0%E8%A7%84%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

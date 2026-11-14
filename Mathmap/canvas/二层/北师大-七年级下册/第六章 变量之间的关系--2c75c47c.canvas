@@ -1,0 +1,151 @@
+{
+  "edges": [
+    {
+      "fromNode": "6dcb951e3984f5b55bef",
+      "fromSide": "right",
+      "id": "da371164715b29c4cc19",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8b3c549169f3d20ef8b5",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-050",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "df8c7c212c087c34cf3b",
+      "text": "# 第六章 变量之间的关系\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "a89ead14b93cc9e6edbd",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6dcb951e3984f5b55bef",
+      "mathmap_atom_id": "K5559f63a9c8e2d",
+      "mathmap_file": "Mathmap/知识点/分析速度随时间变化的图象（分段运动状态解读）.md",
+      "text": "[分析速度随时间变化的图象（分段运动状态解读）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E6%9E%90%E9%80%9F%E5%BA%A6%E9%9A%8F%E6%97%B6%E9%97%B4%E5%8F%98%E5%8C%96%E7%9A%84%E5%9B%BE%E8%B1%A1%EF%BC%88%E5%88%86%E6%AE%B5%E8%BF%90%E5%8A%A8%E7%8A%B6%E6%80%81%E8%A7%A3%E8%AF%BB%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8b3c549169f3d20ef8b5",
+      "mathmap_atom_id": "Ka5f33fe1a169f7",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：人的正常体温随时间变化规律曲线.md",
+      "text": "[阅读·欣赏：人的正常体温随时间变化规律曲线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E4%BA%BA%E7%9A%84%E6%AD%A3%E5%B8%B8%E4%BD%93%E6%B8%A9%E9%9A%8F%E6%97%B6%E9%97%B4%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B%E6%9B%B2%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "86b1430f664f15c2dc16",
+      "mathmap_atom_id": "Kbd6deee880124e",
+      "mathmap_file": "Mathmap/知识点/变量、自变量、因变量与常量的概念.md",
+      "text": "[变量、自变量、因变量与常量的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%98%E9%87%8F%E3%80%81%E8%87%AA%E5%8F%98%E9%87%8F%E3%80%81%E5%9B%A0%E5%8F%98%E9%87%8F%E4%B8%8E%E5%B8%B8%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "729ec9d9524a79a64e96",
+      "mathmap_atom_id": "K9b67413b61646f",
+      "mathmap_file": "Mathmap/知识点/用关系式表示变量之间的关系.md",
+      "text": "[用关系式表示变量之间的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%85%B3%E7%B3%BB%E5%BC%8F%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "78a0e255d1f48114adf3",
+      "mathmap_atom_id": "K1ebf0a0c116a7d",
+      "mathmap_file": "Mathmap/知识点/用图象直观表示变量之间的关系（图象法概述）.md",
+      "text": "[用图象直观表示变量之间的关系（图象法概述）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%9B%BE%E8%B1%A1%E7%9B%B4%E8%A7%82%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%88%E5%9B%BE%E8%B1%A1%E6%B3%95%E6%A6%82%E8%BF%B0%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5050e1e52341c63658db",
+      "mathmap_atom_id": "Kf81f9fa9728e01",
+      "mathmap_file": "Mathmap/知识点/用表格表示变量之间的关系.md",
+      "text": "[用表格表示变量之间的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E8%A1%A8%E6%A0%BC%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "f7d0be184cef4a9a2b84",
+      "text": "[1 现实中的变量](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9A%84%E5%8F%98%E9%87%8F--02b18c60.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "246386d2b17a4a345ec0",
+      "text": "[2 用表格表示变量之间的关系](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E7%94%A8%E8%A1%A8%E6%A0%BC%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB--604ccf9f.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "6faf2ca76111054dbd9f",
+      "text": "[3 用关系式表示变量之间的关系](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E7%94%A8%E5%85%B3%E7%B3%BB%E5%BC%8F%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB--5f3b36e4.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "553ee5fb1a35a6ffaca2",
+      "text": "[4 用图象表示变量之间的关系](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/4%20%E7%94%A8%E5%9B%BE%E8%B1%A1%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB--39386e91.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 870
+    }
+  ]
+}

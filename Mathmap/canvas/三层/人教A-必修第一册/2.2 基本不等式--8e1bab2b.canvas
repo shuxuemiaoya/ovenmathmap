@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "140d76248f8a14ba0819",
+      "fromSide": "top",
+      "id": "ab58ac272aba494f6722",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "27112946ea51583f395e",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-013",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "a991e265b68ca79a9030",
+      "text": "# 2.2 基本不等式\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "7f3f6792d1e834fbdfe1",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0%E3%80%81%E6%96%B9%E7%A8%8B%E5%92%8C%E4%B8%8D%E7%AD%89%E5%BC%8F--41206a64.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "27112946ea51583f395e",
+      "mathmap_atom_id": "C6b0d644f270a2a",
+      "mathmap_file": "Mathmap/概念或公式/基本不等式--C6b0d644f270a2a.md",
+      "text": "[基本不等式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F--C6b0d644f270a2a.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "140d76248f8a14ba0819",
+      "mathmap_atom_id": "K362cac22506aa4",
+      "mathmap_file": "Mathmap/知识点/基本不等式--000116.md",
+      "text": "[基本不等式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F--000116.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    }
+  ]
+}

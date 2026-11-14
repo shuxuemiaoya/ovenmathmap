@@ -1,0 +1,69 @@
+{
+  "edges": [
+    {
+      "fromNode": "92996c09a3fd063df0d7",
+      "fromSide": "bottom",
+      "id": "2848d5929f28229d8c69",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "4cdf091dd254cb175641",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4cdf091dd254cb175641",
+      "fromSide": "bottom",
+      "id": "bb1e1e4c74c0b7f4d96c",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "d3794fd35d42869f05c3",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "一层",
+    "scope_key": "book-root",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "fa65013f53ec9632d820",
+      "text": "# 普通高中教科书 数学 选择性必修 第一册\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "92996c09a3fd063df0d7",
+      "text": "[第一章 空间向量与立体几何](../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95--321fd570.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "4cdf091dd254cb175641",
+      "text": "[第二章 直线和圆的方程](../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%9B%B4%E7%BA%BF%E5%92%8C%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B--4635d5d5.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 240
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d3794fd35d42869f05c3",
+      "text": "[第三章 圆锥曲线的方程](../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B--bd80c67d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 480
+    }
+  ]
+}

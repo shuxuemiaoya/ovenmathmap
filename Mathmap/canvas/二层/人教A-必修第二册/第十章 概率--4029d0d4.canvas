@@ -1,0 +1,205 @@
+{
+  "edges": [
+    {
+      "fromNode": "68ac8094393b98d88a74",
+      "fromSide": "right",
+      "id": "b8228f2895f7f7c9482b",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1c857e334c11e5a949a7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aadde3f40ac803fa217d",
+      "fromSide": "right",
+      "id": "45895e545d9ef8274ff2",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "81eb4fca0cc6d6f3cef4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "aadde3f40ac803fa217d",
+      "fromSide": "right",
+      "id": "9d5d285ff221e2dfae3d",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "128e228e165e3e4ee40c",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-042",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "ea990c704dd21462346e",
+      "text": "# 第十章 概率\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "109e06855f834679ce93",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "aadde3f40ac803fa217d",
+      "mathmap_atom_id": "K9feaac21688eea",
+      "mathmap_file": "Mathmap/知识点/有限样本空间与随机事件.md",
+      "text": "[有限样本空间与随机事件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E9%99%90%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "68ac8094393b98d88a74",
+      "mathmap_atom_id": "K10f89c7e8b2cd6",
+      "mathmap_file": "Mathmap/知识点/概率的基本性质.md",
+      "text": "[概率的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A6%82%E7%8E%87%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1c857e334c11e5a949a7",
+      "mathmap_atom_id": "K9092551f977971",
+      "mathmap_file": "Mathmap/知识点/事件的相互独立性.md",
+      "text": "[事件的相互独立性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "81eb4fca0cc6d6f3cef4",
+      "mathmap_atom_id": "K8aeb8fced54352",
+      "mathmap_file": "Mathmap/知识点/古典概型与概率计算.md",
+      "text": "[古典概型与概率计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%A4%E5%85%B8%E6%A6%82%E5%9E%8B%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "128e228e165e3e4ee40c",
+      "mathmap_atom_id": "K9f246c02664859",
+      "mathmap_file": "Mathmap/知识点/随机事件的关系与运算.md",
+      "text": "[随机事件的关系与运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9abaa73749f20b89fd9f",
+      "mathmap_atom_id": "Kd66f2c7b5816f4",
+      "mathmap_file": "Mathmap/知识点/抽样方法对样本空间与代表性的影响.md",
+      "text": "[抽样方法对样本空间与代表性的影响](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95%E5%AF%B9%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%BD%B1%E5%93%8D.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "37056ab1a0dcaca7d05e",
+      "mathmap_atom_id": "K8090e9c35d8058",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 孟德尔遗传规律.md",
+      "text": "[阅读与思考 孟德尔遗传规律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%AD%9F%E5%BE%B7%E5%B0%94%E9%81%97%E4%BC%A0%E8%A7%84%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "66e68a04beee57173b74",
+      "mathmap_atom_id": "Ke65dd90e235881",
+      "mathmap_file": "Mathmap/知识点/随机数与伪随机数.md",
+      "text": "[随机数与伪随机数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E6%95%B0%E4%B8%8E%E4%BC%AA%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d4aee66fb0e1084638e7",
+      "mathmap_atom_id": "K91f578d2bd6229",
+      "mathmap_file": "Mathmap/知识点/频率的稳定性与概率估计.md",
+      "text": "[频率的稳定性与概率估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E6%A6%82%E7%8E%87%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1040
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d48ce67723b8d29ec3cb",
+      "text": "[10.1 随机事件与概率](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/10.1%20%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87--e6ce5609.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1260
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "f1ba4c7bfd32c72c6a5f",
+      "text": "[10.2 事件的相互独立性](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/10.2%20%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%9B%B8%E4%BA%92%E7%8B%AC%E7%AB%8B%E6%80%A7--aaa8b56a.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1260
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "794350cca0fad8414094",
+      "text": "[10.3 频率与概率](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/10.3%20%E9%A2%91%E7%8E%87%E4%B8%8E%E6%A6%82%E7%8E%87--a1ddf92c.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1260
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "593949f1d325c88778b5",
+      "text": "[阅读与思考 孟德尔遗传规律](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%AD%9F%E5%BE%B7%E5%B0%94%E9%81%97%E4%BC%A0%E8%A7%84%E5%BE%8B--766f3008.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1470
+    }
+  ]
+}

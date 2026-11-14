@@ -1,0 +1,89 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-026",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5cfabf36e67b06180459",
+      "text": "# 探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "89efae2f90e3c5108915",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B--bd80c67d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "143bfcdb7250da740f97",
+      "mathmap_atom_id": "K51a6a160c7f83d",
+      "mathmap_file": "Mathmap/知识点/抛物线的对称性.md",
+      "text": "[抛物线的对称性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "4b8f6ce9512e57c92b20",
+      "mathmap_atom_id": "C0c4cebf6564e17",
+      "mathmap_file": "Mathmap/概念或公式/抛物线的离心率.md",
+      "text": "[抛物线的离心率](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a76d196734500427ee42",
+      "mathmap_atom_id": "K30f408945ee143",
+      "mathmap_file": "Mathmap/知识点/抛物线的离心率.md",
+      "text": "[抛物线的离心率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E7%A6%BB%E5%BF%83%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3245b024cb22c729b658",
+      "mathmap_atom_id": "Kad94972027692c",
+      "mathmap_file": "Mathmap/知识点/抛物线的范围.md",
+      "text": "[抛物线的范围](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E8%8C%83%E5%9B%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a7973eb9df9ead71b61a",
+      "mathmap_atom_id": "K8898f79694e57e",
+      "mathmap_file": "Mathmap/知识点/抛物线的顶点.md",
+      "text": "[抛物线的顶点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E9%A1%B6%E7%82%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    }
+  ]
+}

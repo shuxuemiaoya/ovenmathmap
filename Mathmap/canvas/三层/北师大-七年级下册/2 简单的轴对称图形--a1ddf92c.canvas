@@ -1,0 +1,108 @@
+{
+  "edges": [
+    {
+      "fromNode": "60f23842d8874a109af9",
+      "fromSide": "right",
+      "id": "97790a17c1c5392dddd7",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "934bc4b769a1ed17f65e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "31c2ba45995a1d4b0cd2",
+      "fromSide": "right",
+      "id": "3c806f7bf72cce5d56aa",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "371625a31b7498e1a00d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-045",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5f74ae2d0b18d789edf5",
+      "text": "# 2 简单的轴对称图形\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "4c7458082cecb2cacd6d",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0--4029d0d4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "31c2ba45995a1d4b0cd2",
+      "mathmap_atom_id": "Kf12b0d4416e29a",
+      "mathmap_file": "Mathmap/知识点/线段的轴对称性与垂直平分线（中垂线）的定义.md",
+      "text": "[线段的轴对称性与垂直平分线（中垂线）的定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%EF%BC%88%E4%B8%AD%E5%9E%82%E7%BA%BF%EF%BC%89%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "60f23842d8874a109af9",
+      "mathmap_atom_id": "Ka0f4cf371c40de",
+      "mathmap_file": "Mathmap/知识点/角的轴对称性与角平分线所在对称轴.md",
+      "text": "[角的轴对称性与角平分线所在对称轴](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%92%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E8%A7%92%E5%B9%B3%E5%88%86%E7%BA%BF%E6%89%80%E5%9C%A8%E5%AF%B9%E7%A7%B0%E8%BD%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "371625a31b7498e1a00d",
+      "mathmap_atom_id": "K370ff5e8e40803",
+      "mathmap_file": "Mathmap/知识点/线段垂直平分线的性质.md",
+      "text": "[线段垂直平分线的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "934bc4b769a1ed17f65e",
+      "mathmap_atom_id": "Kc021d0e0b6768c",
+      "mathmap_file": "Mathmap/知识点/角平分线的性质.md",
+      "text": "[角平分线的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%92%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4cceb7321c2a4a6aef5a",
+      "mathmap_atom_id": "Kf31e0cde543096",
+      "mathmap_file": "Mathmap/知识点/等腰三角形的轴对称性、“三线合一”与两底角相等.md",
+      "text": "[等腰三角形的轴对称性、“三线合一”与两底角相等](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0%E6%80%A7%E3%80%81%E2%80%9C%E4%B8%89%E7%BA%BF%E5%90%88%E4%B8%80%E2%80%9D%E4%B8%8E%E4%B8%A4%E5%BA%95%E8%A7%92%E7%9B%B8%E7%AD%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    }
+  ]
+}

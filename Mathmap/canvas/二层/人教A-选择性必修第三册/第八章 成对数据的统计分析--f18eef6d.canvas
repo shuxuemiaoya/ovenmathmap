@@ -1,0 +1,250 @@
+{
+  "edges": [
+    {
+      "fromNode": "daaca9811b1dcfa3e2ff",
+      "fromSide": "right",
+      "id": "00ad8771ae129a84e866",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "3a334af1779b21f60881",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "53b2e52efe0b4656d486",
+      "fromSide": "right",
+      "id": "4add03cf03125be0a144",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "c645a5d642cd88c0a420",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c645a5d642cd88c0a420",
+      "fromSide": "right",
+      "id": "9d8bde6df99a290db97c",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "56227ab29617f8e4263b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fd7beb2025f2c08e7332",
+      "fromSide": "right",
+      "id": "1c0722e00d29fc792699",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "2941fa23b5b7f14251c7",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-021",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "58f7a04294918d965535",
+      "text": "# 第八章 成对数据的统计分析\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6163ff276f605e04adac",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "53b2e52efe0b4656d486",
+      "mathmap_atom_id": "K61542764b3aac1",
+      "mathmap_file": "Mathmap/知识点/一元线性回归模型与随机误差.md",
+      "text": "[一元线性回归模型与随机误差](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%AF%AF%E5%B7%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "daaca9811b1dcfa3e2ff",
+      "mathmap_atom_id": "K1c312185c8e313",
+      "mathmap_file": "Mathmap/知识点/分类变量的概念与列联表.md",
+      "text": "[分类变量的概念与列联表](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E7%B1%BB%E5%8F%98%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%97%E8%81%94%E8%A1%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fd7beb2025f2c08e7332",
+      "mathmap_atom_id": "Kb73a7b8accb20b",
+      "mathmap_file": "Mathmap/知识点/变量的相关关系.md",
+      "text": "[变量的相关关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c645a5d642cd88c0a420",
+      "mathmap_atom_id": "K95806c54120229",
+      "mathmap_file": "Mathmap/知识点/一元线性回归参数的最小二乘估计.md",
+      "text": "[一元线性回归参数的最小二乘估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2941fa23b5b7f14251c7",
+      "mathmap_atom_id": "K91dd48db5cf57d",
+      "mathmap_file": "Mathmap/知识点/样本相关系数的构造与定义.md",
+      "text": "[样本相关系数的构造与定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%9E%84%E9%80%A0%E4%B8%8E%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3a334af1779b21f60881",
+      "mathmap_atom_id": "K6e18c5429874b6",
+      "mathmap_file": "Mathmap/知识点/独立性检验的思想与卡方统计量.md",
+      "text": "[独立性检验的思想与卡方统计量](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%8E%E5%8D%A1%E6%96%B9%E7%BB%9F%E8%AE%A1%E9%87%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "56227ab29617f8e4263b",
+      "mathmap_atom_id": "K226b248acc4ed4",
+      "mathmap_file": "Mathmap/知识点/回归预测与残差分析.md",
+      "text": "[回归预测与残差分析](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%9E%E5%BD%92%E9%A2%84%E6%B5%8B%E4%B8%8E%E6%AE%8B%E5%B7%AE%E5%88%86%E6%9E%90.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "28f7b615b094b2e8dafc",
+      "mathmap_atom_id": "K154ad4bfeba9e9",
+      "mathmap_file": "Mathmap/知识点/样本相关系数的性质与解释.md",
+      "text": "[样本相关系数的性质与解释](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E7%9A%84%E6%80%A7%E8%B4%A8%E4%B8%8E%E8%A7%A3%E9%87%8A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2dbf377c8393ab5c2fdb",
+      "mathmap_atom_id": "K21eb0be5580d4e",
+      "mathmap_file": "Mathmap/知识点/样本频率比较与独立性检验的差异.md",
+      "text": "[样本频率比较与独立性检验的差异](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A0%B7%E6%9C%AC%E9%A2%91%E7%8E%87%E6%AF%94%E8%BE%83%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C%E7%9A%84%E5%B7%AE%E5%BC%82.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a710e57b2897b27d3994",
+      "mathmap_atom_id": "K954f4c6e5baf04",
+      "mathmap_file": "Mathmap/知识点/正相关与负相关的散点图特征.md",
+      "text": "[正相关与负相关的散点图特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E7%9B%B8%E5%85%B3%E4%B8%8E%E8%B4%9F%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%A3%E7%82%B9%E5%9B%BE%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "acab7dd83944605ded46",
+      "mathmap_atom_id": "K0d68f80ca2d63b",
+      "mathmap_file": "Mathmap/知识点/线性相关与非线性相关.md",
+      "text": "[线性相关与非线性相关](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E4%B8%8E%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d77fbf7c0066cb6c1a8a",
+      "mathmap_atom_id": "K6b179e29d5612b",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 回归与相关.md",
+      "text": "[阅读与思考 回归与相关](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%9B%9E%E5%BD%92%E4%B8%8E%E7%9B%B8%E5%85%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1040
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "493a2e53f30ed6571963",
+      "text": "[8.1 成对数据的统计相关性](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/8.1%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7--6da8d542.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1260
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2ae1312f4f070c9adcf0",
+      "text": "[8.2 一元线性回归模型及其应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/8.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--ac85d812.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1260
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "bdb745358f101968241a",
+      "text": "[阅读与思考 回归与相关](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%9B%9E%E5%BD%92%E4%B8%8E%E7%9B%B8%E5%85%B3--164d4c5d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1260
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "59f76839388e5f1eb408",
+      "text": "[8.3 列联表与独立性检验](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/8.3%20%E5%88%97%E8%81%94%E8%A1%A8%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7%E6%A3%80%E9%AA%8C--3a11925d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1470
+    }
+  ]
+}

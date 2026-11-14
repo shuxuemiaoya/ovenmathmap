@@ -1,0 +1,473 @@
+{
+  "edges": [
+    {
+      "fromNode": "bf8e8cf65122b688aa38",
+      "fromSide": "right",
+      "id": "ec5bcb9e3c009d269e7e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b31506ce0650137e44ab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8a0b28dc709f7de3b0e8",
+      "fromSide": "right",
+      "id": "fb9be118a4e0f4e8a763",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "efbe56c41c84851e1a9e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8e6c3ac66df29e8f98a2",
+      "fromSide": "right",
+      "id": "e6b58f161ca3ff23cc8f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f6b8f3af7cba5bc7b373",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "476804ea0948ccd1dc26",
+      "fromSide": "right",
+      "id": "05610ce5efd6d9f3d8d8",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "19196839b16976f7884d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "efbe56c41c84851e1a9e",
+      "fromSide": "right",
+      "id": "0f5f341322d1b71beea5",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0e3ef35245f6513d7615",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "19196839b16976f7884d",
+      "fromSide": "right",
+      "id": "ba8a044ef1a581dd7a1a",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fdf38da58753a6243f9b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5a63ee4107182af1e47c",
+      "fromSide": "right",
+      "id": "ecf1979fb59013879e7a",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "bf8e8cf65122b688aa38",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-010",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "872012bee60e1e7c8d6f",
+      "text": "# 第七章 随机变量及其分布\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "9c6289b4681d7f8973d5",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8a0b28dc709f7de3b0e8",
+      "mathmap_atom_id": "K45f59d1afbd516",
+      "mathmap_file": "Mathmap/知识点/伯努利试验与n重伯努利试验.md",
+      "text": "[伯努利试验与n重伯努利试验](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C%E4%B8%8En%E9%87%8D%E4%BC%AF%E5%8A%AA%E5%88%A9%E8%AF%95%E9%AA%8C.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "476804ea0948ccd1dc26",
+      "mathmap_atom_id": "K82dd4fa670583f",
+      "mathmap_file": "Mathmap/知识点/条件概率的概念与计算.md",
+      "text": "[条件概率的概念与计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8e6c3ac66df29e8f98a2",
+      "mathmap_atom_id": "K6625e83491b163",
+      "mathmap_file": "Mathmap/知识点/超几何分布的概念与分布列.md",
+      "text": "[超几何分布的概念与分布列](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5a63ee4107182af1e47c",
+      "mathmap_atom_id": "Kfd6ca66bbdb570",
+      "mathmap_file": "Mathmap/知识点/随机变量与离散型分布列.md",
+      "text": "[随机变量与离散型分布列](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%A6%BB%E6%95%A3%E5%9E%8B%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "efbe56c41c84851e1a9e",
+      "mathmap_atom_id": "K86bb88420ac91c",
+      "mathmap_file": "Mathmap/知识点/二项分布的概率公式.md",
+      "text": "[二项分布的概率公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19196839b16976f7884d",
+      "mathmap_atom_id": "K90c5fe2342b64e",
+      "mathmap_file": "Mathmap/知识点/概率的乘法公式.md",
+      "text": "[概率的乘法公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A6%82%E7%8E%87%E7%9A%84%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bf8e8cf65122b688aa38",
+      "mathmap_atom_id": "K1530025d1dea92",
+      "mathmap_file": "Mathmap/知识点/离散型随机变量的均值.md",
+      "text": "[离散型随机变量的均值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f6b8f3af7cba5bc7b373",
+      "mathmap_atom_id": "K65cdd80644635e",
+      "mathmap_file": "Mathmap/知识点/超几何分布的均值.md",
+      "text": "[超几何分布的均值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0e3ef35245f6513d7615",
+      "mathmap_atom_id": "K51475e63e0e795",
+      "mathmap_file": "Mathmap/知识点/二项分布的均值与方差.md",
+      "text": "[二项分布的均值与方差](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC%E4%B8%8E%E6%96%B9%E5%B7%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fdf38da58753a6243f9b",
+      "mathmap_atom_id": "K49c022480993a7",
+      "mathmap_file": "Mathmap/知识点/全概率公式及其应用.md",
+      "text": "[全概率公式及其应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b31506ce0650137e44ab",
+      "mathmap_atom_id": "Kbb9efd6b36b7a4",
+      "mathmap_file": "Mathmap/知识点/离散型随机变量的方差.md",
+      "text": "[离散型随机变量的方差](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%96%B9%E5%B7%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b982d3d3d38af610ede6",
+      "mathmap_atom_id": "Ka7a395cd48ec73",
+      "mathmap_file": "Mathmap/知识点/先验概率与后验概率的解释.md",
+      "text": "[先验概率与后验概率的解释](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%88%E9%AA%8C%E6%A6%82%E7%8E%87%E4%B8%8E%E5%90%8E%E9%AA%8C%E6%A6%82%E7%8E%87%E7%9A%84%E8%A7%A3%E9%87%8A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f30e3df2e766aaeb8bbe",
+      "mathmap_atom_id": "K2d6557e4fbf098",
+      "mathmap_file": "Mathmap/知识点/探究与发现 二项分布的性质.md",
+      "text": "[探究与发现 二项分布的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07a2d0659d2d3234a6d9",
+      "mathmap_atom_id": "Ka0a0ab3fac1e99",
+      "mathmap_file": "Mathmap/知识点/方差的平移与伸缩规律.md",
+      "text": "[方差的平移与伸缩规律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%B9%E5%B7%AE%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E4%BC%B8%E7%BC%A9%E8%A7%84%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "90df165add5184bd6ca7",
+      "mathmap_atom_id": "Ke7a67573ea7850",
+      "mathmap_file": "Mathmap/知识点/条件概率的样本空间解释与性质.md",
+      "text": "[条件概率的样本空间解释与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E8%A7%A3%E9%87%8A%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a01207cb9d4d3743bd38",
+      "mathmap_atom_id": "K0044ec08930168",
+      "mathmap_file": "Mathmap/知识点/正态分布与正态曲线.md",
+      "text": "[正态分布与正态曲线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E4%B8%8E%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "656a1acfc5309bff6966",
+      "mathmap_atom_id": "Kac025962742f28",
+      "mathmap_file": "Mathmap/知识点/正态分布参数与标准差区间概率.md",
+      "text": "[正态分布参数与标准差区间概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E5%8F%82%E6%95%B0%E4%B8%8E%E6%A0%87%E5%87%86%E5%B7%AE%E5%8C%BA%E9%97%B4%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ea4c392901f6a76db1e7",
+      "mathmap_atom_id": "K4befae07be83bb",
+      "mathmap_file": "Mathmap/知识点/正态曲线的基本性质.md",
+      "text": "[正态曲线的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E6%80%81%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "279882ba916b765513da",
+      "mathmap_atom_id": "Kcfc33ae47c72fc",
+      "mathmap_file": "Mathmap/知识点/独立事件与条件概率.md",
+      "text": "[独立事件与条件概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%8B%AC%E7%AB%8B%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "edd59dda448b8f0ed88b",
+      "mathmap_atom_id": "K5ca6ff8f89de8e",
+      "mathmap_file": "Mathmap/知识点/用GeoGebra计算二项分布概率.md",
+      "text": "[用GeoGebra计算二项分布概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8GeoGebra%E8%AE%A1%E7%AE%97%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4c1bd627de9692b12c2b",
+      "mathmap_atom_id": "Ka18ddfcb716e5b",
+      "mathmap_file": "Mathmap/知识点/用GeoGebra计算正态分布概率.md",
+      "text": "[用GeoGebra计算正态分布概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8GeoGebra%E8%AE%A1%E7%AE%97%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "514408eb70181e6bd8ab",
+      "mathmap_atom_id": "Ke02098c55b8846",
+      "mathmap_file": "Mathmap/知识点/用GeoGebra计算超几何分布概率.md",
+      "text": "[用GeoGebra计算超几何分布概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8GeoGebra%E8%AE%A1%E7%AE%97%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "dc8fff5ff2748e0eeef3",
+      "mathmap_atom_id": "K6a4ada340a1c99",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 贝叶斯公式与人工智能.md",
+      "text": "[阅读与思考 贝叶斯公式与人工智能](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "765910e5a4d5b18f6b16",
+      "mathmap_atom_id": "K5a9584dd92310a",
+      "mathmap_file": "Mathmap/知识点/随机变量均值的线性运算法则.md",
+      "text": "[随机变量均值的线性运算法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%9D%87%E5%80%BC%E7%9A%84%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3237c3d5ee562c163bcf",
+      "mathmap_atom_id": "K5bb61d9872b92d",
+      "mathmap_file": "Mathmap/知识点/随机变量均值的统计含义.md",
+      "text": "[随机变量均值的统计含义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%9D%87%E5%80%BC%E7%9A%84%E7%BB%9F%E8%AE%A1%E5%90%AB%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 2000
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b50cf709ad3443b85874",
+      "text": "[7.1 条件概率与全概率公式](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F--41206a64.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2f3a46a4c224afe010e9",
+      "text": "[阅读与思考 贝叶斯公式与人工智能](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD--5cd67262.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[7.2 离散型随机变量及其分布列](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.2%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%8F%8A%E5%85%B6%E5%88%86%E5%B8%83%E5%88%97--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 2220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "23f5a57c287379c4e69d",
+      "text": "[7.3 离散型随机变量的数字特征](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.3%20%E7%A6%BB%E6%95%A3%E5%9E%8B%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E5%AD%97%E7%89%B9%E5%BE%81--151aa748.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2430
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "144d863c2ff7520b5154",
+      "text": "[7.4 二项分布与超几何分布](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.4%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2430
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "74ececdf8dd26218f483",
+      "text": "[探究与发现 二项分布的性质](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E7%9A%84%E6%80%A7%E8%B4%A8--5cfefcf7.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 2430
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e2538341d946eb87c8d4",
+      "text": "[7.5 正态分布](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.5%20%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83--99368e80.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2640
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e5f65face8846d4de4c3",
+      "text": "[信息技术应用 概率分布图及概率计算](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%20%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83%E5%9B%BE%E5%8F%8A%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97--b2c19dbf.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2640
+    }
+  ]
+}

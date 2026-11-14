@@ -1,0 +1,246 @@
+{
+  "edges": [
+    {
+      "fromNode": "7657bca1e132451967f1",
+      "fromSide": "right",
+      "id": "f96ed817816f5b148ab7",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "97f7ac487c4ade303ccf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e3e086460de4f1a67029",
+      "fromSide": "right",
+      "id": "32b4525c7a99926df8dd",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fdac12bd7efa3b4ac553",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "abdbec1a4ced6cdaab81",
+      "fromSide": "right",
+      "id": "97549c33e1dc55a71d16",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "7657bca1e132451967f1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a952f77d75cfe3de477",
+      "fromSide": "right",
+      "id": "e7aeee3f29601645f33d",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "abdbec1a4ced6cdaab81",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "97f7ac487c4ade303ccf",
+      "fromSide": "right",
+      "id": "48176187ae4acb51c853",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "ec68d78c8b06be6bb2fe",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e1e5c5aadf57fd3f5309",
+      "fromSide": "right",
+      "id": "2761ea3cf0eba78241c9",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "24d045ac7f3e41e3adfd",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-021",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "58f7a04294918d965535",
+      "text": "# 第三章 概率初步\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6163ff276f605e04adac",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a952f77d75cfe3de477",
+      "mathmap_atom_id": "K83c93bdba9af8d",
+      "mathmap_file": "Mathmap/知识点/事件发生的频率概念与计算.md",
+      "text": "[事件发生的频率概念与计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8B%E4%BB%B6%E5%8F%91%E7%94%9F%E7%9A%84%E9%A2%91%E7%8E%87%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e1e5c5aadf57fd3f5309",
+      "mathmap_atom_id": "Kc49c196cd2bfd7",
+      "mathmap_file": "Mathmap/知识点/必然事件、不可能事件与随机事件.md",
+      "text": "[必然事件、不可能事件与随机事件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BF%85%E7%84%B6%E4%BA%8B%E4%BB%B6%E3%80%81%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E4%B8%8E%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e3e086460de4f1a67029",
+      "mathmap_atom_id": "K3c2738121792f0",
+      "mathmap_file": "Mathmap/知识点/等可能试验结果的概念与判断.md",
+      "text": "[等可能试验结果的概念与判断](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%8F%AF%E8%83%BD%E8%AF%95%E9%AA%8C%E7%BB%93%E6%9E%9C%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%A4%E6%96%AD.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "abdbec1a4ced6cdaab81",
+      "mathmap_atom_id": "K80a4905ab01309",
+      "mathmap_file": "Mathmap/知识点/抛瓶盖试验揭示的频率稳定性.md",
+      "text": "[抛瓶盖试验揭示的频率稳定性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%93%B6%E7%9B%96%E8%AF%95%E9%AA%8C%E6%8F%AD%E7%A4%BA%E7%9A%84%E9%A2%91%E7%8E%87%E7%A8%B3%E5%AE%9A%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fdac12bd7efa3b4ac553",
+      "mathmap_atom_id": "K53f59b3d9320ea",
+      "mathmap_file": "Mathmap/知识点/等可能事件的概率计算公式.md",
+      "text": "[等可能事件的概率计算公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "24d045ac7f3e41e3adfd",
+      "mathmap_atom_id": "K1dca91a3a2765f",
+      "mathmap_file": "Mathmap/知识点/随机事件发生可能性的大小.md",
+      "text": "[随机事件发生可能性的大小](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%91%E7%94%9F%E5%8F%AF%E8%83%BD%E6%80%A7%E7%9A%84%E5%A4%A7%E5%B0%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7657bca1e132451967f1",
+      "mathmap_atom_id": "K320cc5c39d3146",
+      "mathmap_file": "Mathmap/知识点/频率的稳定性、概率的定义与用频率估计概率.md",
+      "text": "[频率的稳定性、概率的定义与用频率估计概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E3%80%81%E6%A6%82%E7%8E%87%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E7%94%A8%E9%A2%91%E7%8E%87%E4%BC%B0%E8%AE%A1%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "97f7ac487c4ade303ccf",
+      "mathmap_atom_id": "Kbd88bf44281448",
+      "mathmap_file": "Mathmap/知识点/必然事件、不可能事件与随机事件概率的取值范围.md",
+      "text": "[必然事件、不可能事件与随机事件概率的取值范围](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BF%85%E7%84%B6%E4%BA%8B%E4%BB%B6%E3%80%81%E4%B8%8D%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E4%B8%8E%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec68d78c8b06be6bb2fe",
+      "mathmap_atom_id": "Kcae7a61760ef08",
+      "mathmap_file": "Mathmap/知识点/阅读·思考：概率小史与“分赌注”起源问题.md",
+      "text": "[阅读·思考：概率小史与“分赌注”起源问题](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E6%A6%82%E7%8E%87%E5%B0%8F%E5%8F%B2%E4%B8%8E%E2%80%9C%E5%88%86%E8%B5%8C%E6%B3%A8%E2%80%9D%E8%B5%B7%E6%BA%90%E9%97%AE%E9%A2%98.md)",
+      "type": "text",
+      "width": 360,
+      "x": 2400,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "073fa8b1c1a3da3940c5",
+      "mathmap_atom_id": "Kdc2b5208f7d037",
+      "mathmap_file": "Mathmap/知识点/利用等分扇形思想求解几何转盘概率.md",
+      "text": "[利用等分扇形思想求解几何转盘概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%A9%E7%94%A8%E7%AD%89%E5%88%86%E6%89%87%E5%BD%A2%E6%80%9D%E6%83%B3%E6%B1%82%E8%A7%A3%E5%87%A0%E4%BD%95%E8%BD%AC%E7%9B%98%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "88f395491a19ecf6f2e1",
+      "mathmap_atom_id": "K0e94821bda9d38",
+      "mathmap_file": "Mathmap/知识点/等可能结果识别与双人游戏公平性判断（摸球模型）.md",
+      "text": "[等可能结果识别与双人游戏公平性判断（摸球模型）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%8F%AF%E8%83%BD%E7%BB%93%E6%9E%9C%E8%AF%86%E5%88%AB%E4%B8%8E%E5%8F%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%85%AC%E5%B9%B3%E6%80%A7%E5%88%A4%E6%96%AD%EF%BC%88%E6%91%B8%E7%90%83%E6%A8%A1%E5%9E%8B%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "493a2e53f30ed6571963",
+      "text": "[1 感受可能性](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E6%84%9F%E5%8F%97%E5%8F%AF%E8%83%BD%E6%80%A7--6da8d542.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1040
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "bdb745358f101968241a",
+      "text": "[2 频率的稳定性](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E9%A2%91%E7%8E%87%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7--164d4c5d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1040
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d3ac35e3b3a82c78a0ee",
+      "text": "[3 等可能事件的概率](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E7%AD%89%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%A6%82%E7%8E%87--dcb67386.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1040
+    }
+  ]
+}

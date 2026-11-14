@@ -1,0 +1,155 @@
+{
+  "edges": [
+    {
+      "fromNode": "9b60fc1d911a3d101fb8",
+      "fromSide": "right",
+      "id": "57b5dbd4ea010cf3fd22",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "900ea045be9a0be37bf0",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-001",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c5dcd0bdd298773be7ab",
+      "text": "# 第一章 丰富的图形世界\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "eda52b35c33f814e405e",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9b60fc1d911a3d101fb8",
+      "mathmap_atom_id": "K7550f5d92086de",
+      "mathmap_file": "Mathmap/知识点/图形的构成要素：点、线、面及其相交关系.md",
+      "text": "[图形的构成要素：点、线、面及其相交关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%9E%84%E6%88%90%E8%A6%81%E7%B4%A0%EF%BC%9A%E7%82%B9%E3%80%81%E7%BA%BF%E3%80%81%E9%9D%A2%E5%8F%8A%E5%85%B6%E7%9B%B8%E4%BA%A4%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "900ea045be9a0be37bf0",
+      "mathmap_atom_id": "Kb451292508e03f",
+      "mathmap_file": "Mathmap/知识点/点动成线、线动成面、面动成体.md",
+      "text": "[点动成线、线动成面、面动成体](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E5%8A%A8%E6%88%90%E7%BA%BF%E3%80%81%E7%BA%BF%E5%8A%A8%E6%88%90%E9%9D%A2%E3%80%81%E9%9D%A2%E5%8A%A8%E6%88%90%E4%BD%93.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "913bc6fb1863ee5a3881",
+      "mathmap_atom_id": "K5c2e9040e6c543",
+      "mathmap_file": "Mathmap/知识点/从正面、左面和上面三个方向看物体的形状图.md",
+      "text": "[从正面、左面和上面三个方向看物体的形状图](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%8E%E6%AD%A3%E9%9D%A2%E3%80%81%E5%B7%A6%E9%9D%A2%E5%92%8C%E4%B8%8A%E9%9D%A2%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91%E7%9C%8B%E7%89%A9%E4%BD%93%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%9B%BE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8115aae614fbb16ac6b3",
+      "mathmap_atom_id": "K42093367525098",
+      "mathmap_file": "Mathmap/知识点/圆柱与圆锥的侧面展开图特征.md",
+      "text": "[圆柱与圆锥的侧面展开图特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E6%9F%B1%E4%B8%8E%E5%9C%86%E9%94%A5%E7%9A%84%E4%BE%A7%E9%9D%A2%E5%B1%95%E5%BC%80%E5%9B%BE%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d47f6ca87c443b8b2e52",
+      "mathmap_atom_id": "K6fe7792cc4a8a6",
+      "mathmap_file": "Mathmap/知识点/常见几何体及其与棱柱的直观识别.md",
+      "text": "[常见几何体及其与棱柱的直观识别](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B8%B8%E8%A7%81%E5%87%A0%E4%BD%95%E4%BD%93%E5%8F%8A%E5%85%B6%E4%B8%8E%E6%A3%B1%E6%9F%B1%E7%9A%84%E7%9B%B4%E8%A7%82%E8%AF%86%E5%88%AB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7da9fc13f2d5a1236ef3",
+      "mathmap_atom_id": "K38708930df2535",
+      "mathmap_file": "Mathmap/知识点/截面的概念.md",
+      "text": "[截面的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%88%AA%E9%9D%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "130d7ba56844e15c1588",
+      "mathmap_atom_id": "K98785c35d04d67",
+      "mathmap_file": "Mathmap/知识点/棱柱的要素、性质及直棱柱与斜棱柱的分类.md",
+      "text": "[棱柱的要素、性质及直棱柱与斜棱柱的分类](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A3%B1%E6%9F%B1%E7%9A%84%E8%A6%81%E7%B4%A0%E3%80%81%E6%80%A7%E8%B4%A8%E5%8F%8A%E7%9B%B4%E6%A3%B1%E6%9F%B1%E4%B8%8E%E6%96%9C%E6%A3%B1%E6%9F%B1%E7%9A%84%E5%88%86%E7%B1%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2c56ac00e04a480e88c4",
+      "mathmap_atom_id": "K48726033aa269f",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：生活中的截面（树木年轮、CT与3D打印）.md",
+      "text": "[阅读·欣赏：生活中的截面（树木年轮、CT与3D打印）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E6%88%AA%E9%9D%A2%EF%BC%88%E6%A0%91%E6%9C%A8%E5%B9%B4%E8%BD%AE%E3%80%81CT%E4%B8%8E3D%E6%89%93%E5%8D%B0%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 440
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b47a911304d1739ad6b7",
+      "text": "[1 生活中的立体图形](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%AB%8B%E4%BD%93%E5%9B%BE%E5%BD%A2--dbe96e90.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "18b4f862e0a5a4619d01",
+      "text": "[2 从立体图形到平面图形](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E4%BB%8E%E7%AB%8B%E4%BD%93%E5%9B%BE%E5%BD%A2%E5%88%B0%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%BD%A2--fdc878d1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 660
+    }
+  ]
+}

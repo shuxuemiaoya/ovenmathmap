@@ -1,0 +1,135 @@
+{
+  "edges": [
+    {
+      "fromNode": "92996c09a3fd063df0d7",
+      "fromSide": "bottom",
+      "id": "7d3521880fcec2414165",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "bd057bad99f57c5cf25e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bd057bad99f57c5cf25e",
+      "fromSide": "bottom",
+      "id": "7ac2066188c6271cabf0",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "b4564268410d66ba6831",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b4564268410d66ba6831",
+      "fromSide": "bottom",
+      "id": "cd4e3efbedb6d62acd9a",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "7730b89099832062686b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7730b89099832062686b",
+      "fromSide": "bottom",
+      "id": "b12019fc9199c216a948",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "a4031de118fca0bba508",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a4031de118fca0bba508",
+      "fromSide": "bottom",
+      "id": "92f496b7068066e94fee",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "56a0200ec91e205e7390",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b4564268410d66ba6831",
+      "fromSide": "left",
+      "id": "5172fc2bf7dbfd264fcf",
+      "label": "先修（2）",
+      "toEnd": "arrow",
+      "toNode": "a4031de118fca0bba508",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "一层",
+    "scope_key": "book-root",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "fa65013f53ec9632d820",
+      "text": "# 义务教育教科书 数学 七年级 上册（2024北师大版）\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "92996c09a3fd063df0d7",
+      "text": "[第一章 丰富的图形世界](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%B0%E5%AF%8C%E7%9A%84%E5%9B%BE%E5%BD%A2%E4%B8%96%E7%95%8C--321fd570.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "bd057bad99f57c5cf25e",
+      "text": "[第二章 有理数及其运算](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%9C%89%E7%90%86%E6%95%B0%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97--46b500ec.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 240
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b4564268410d66ba6831",
+      "text": "[第三章 整式及其加减](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%95%B4%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%8A%A0%E5%87%8F--f18eef6d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 480
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "7730b89099832062686b",
+      "text": "[第四章 基本平面图形](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9F%BA%E6%9C%AC%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%BD%A2--89e48b7b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 720
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "a4031de118fca0bba508",
+      "text": "[第五章 一元一次方程](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B--7d6c67fc.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 960
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "56a0200ec91e205e7390",
+      "text": "[第六章 数据的收集与整理](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%9A%84%E6%94%B6%E9%9B%86%E4%B8%8E%E6%95%B4%E7%90%86--2c75c47c.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1200
+    }
+  ]
+}

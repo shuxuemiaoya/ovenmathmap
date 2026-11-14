@@ -1,0 +1,77 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-049",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "eca0a840dc0c3b76018a",
+      "text": "# 5 三元一次方程组\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "cfaa818be24a144231e2",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84--7d6c67fc.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "620aaf937fad7894b637",
+      "mathmap_atom_id": "K2a426133d2670b",
+      "mathmap_file": "Mathmap/知识点/三元一次方程组的代入消元求解过程与检验方法.md",
+      "text": "[三元一次方程组的代入消元求解过程与检验方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E4%BB%A3%E5%85%A5%E6%B6%88%E5%85%83%E6%B1%82%E8%A7%A3%E8%BF%87%E7%A8%8B%E4%B8%8E%E6%A3%80%E9%AA%8C%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "008334254104728960cf",
+      "mathmap_atom_id": "K7dfc19fe0e63c6",
+      "mathmap_file": "Mathmap/知识点/三元一次方程组的概念.md",
+      "text": "[三元一次方程组的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7ed06c0bf6e1e59c9b52",
+      "mathmap_atom_id": "Kcb6f72b3fdbfcd",
+      "mathmap_file": "Mathmap/知识点/解三元一次方程组的“消元”转化基本思想.md",
+      "text": "[解三元一次方程组的“消元”转化基本思想](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%A3%E4%B8%89%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E2%80%9C%E6%B6%88%E5%85%83%E2%80%9D%E8%BD%AC%E5%8C%96%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f03b9c5712df12f84b6d",
+      "mathmap_atom_id": "Kcda0d0928e0ef1",
+      "mathmap_file": "Mathmap/知识点/阅读·思考：《九章算术》中的机械化算法思想.md",
+      "text": "[阅读·思考：《九章算术》中的机械化算法思想](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E3%80%8A%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%9C%AF%E3%80%8B%E4%B8%AD%E7%9A%84%E6%9C%BA%E6%A2%B0%E5%8C%96%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "6aaec1e38e9c4de44885",
+      "fromSide": "right",
+      "id": "db6ca6389d76decca66d",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "5f38cf8d768728e0d3ff",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5f38cf8d768728e0d3ff",
+      "fromSide": "right",
+      "id": "e2c1bec8f6d6e2951f42",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "242b9db83cecb8707887",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-047",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "024f4d2a41776fa86487",
+      "text": "# 问题解决策略：转化\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "3ab3c66ec1e3a388f55e",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0--4029d0d4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6aaec1e38e9c4de44885",
+      "mathmap_atom_id": "K40ab30e330a70b",
+      "mathmap_file": "Mathmap/知识点/转化策略的数学思想与定义.md",
+      "text": "[转化策略的数学思想与定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BD%AC%E5%8C%96%E7%AD%96%E7%95%A5%E7%9A%84%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3%E4%B8%8E%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5f38cf8d768728e0d3ff",
+      "mathmap_atom_id": "Ke9954c21c97df4",
+      "mathmap_file": "Mathmap/知识点/小明的轴对称最短路径转化模型示范（将军饮马模型）.md",
+      "text": "[小明的轴对称最短路径转化模型示范（将军饮马模型）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%8F%E6%98%8E%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%BD%AC%E5%8C%96%E6%A8%A1%E5%9E%8B%E7%A4%BA%E8%8C%83%EF%BC%88%E5%B0%86%E5%86%9B%E9%A5%AE%E9%A9%AC%E6%A8%A1%E5%9E%8B%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "242b9db83cecb8707887",
+      "mathmap_atom_id": "K3d18545ce9b4a0",
+      "mathmap_file": "Mathmap/知识点/转化策略的等价转化意义总结.md",
+      "text": "[转化策略的等价转化意义总结](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BD%AC%E5%8C%96%E7%AD%96%E7%95%A5%E7%9A%84%E7%AD%89%E4%BB%B7%E8%BD%AC%E5%8C%96%E6%84%8F%E4%B9%89%E6%80%BB%E7%BB%93.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    }
+  ]
+}

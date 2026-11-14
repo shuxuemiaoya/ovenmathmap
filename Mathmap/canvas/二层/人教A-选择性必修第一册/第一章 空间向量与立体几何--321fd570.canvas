@@ -1,0 +1,242 @@
+{
+  "edges": [
+    {
+      "fromNode": "bcf75e2ca95c620b5316",
+      "fromSide": "right",
+      "id": "a2f7880df23d107fdfb9",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "64c156f9719da0161ff4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bcf75e2ca95c620b5316",
+      "fromSide": "right",
+      "id": "35d27ad24d892db7e22e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "52bd596f0c4189694805",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "64c156f9719da0161ff4",
+      "fromSide": "right",
+      "id": "a8bcf7c76fa0b2696811",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "2f2d890e79080e272b52",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2f2d890e79080e272b52",
+      "fromSide": "right",
+      "id": "b514fd1d549e38da583e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0871692e811e886233b3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "52bd596f0c4189694805",
+      "fromSide": "right",
+      "id": "b544d3500d779d97c8fa",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0871692e811e886233b3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "52bd596f0c4189694805",
+      "fromSide": "right",
+      "id": "4c74088d90c9b8257b64",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "2a6b34e7d5f35c6c4484",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-001",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c5dcd0bdd298773be7ab",
+      "text": "# 第一章 空间向量与立体几何\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "eda52b35c33f814e405e",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bcf75e2ca95c620b5316",
+      "mathmap_atom_id": "K33418901b92cdd",
+      "mathmap_file": "Mathmap/知识点/空间向量的概念与线性运算.md",
+      "text": "[空间向量的概念与线性运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%BA%BF%E6%80%A7%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "64c156f9719da0161ff4",
+      "mathmap_atom_id": "K68464f7c7f8092",
+      "mathmap_file": "Mathmap/知识点/空间向量基本定理及其证明.md",
+      "text": "[空间向量基本定理及其证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "52bd596f0c4189694805",
+      "mathmap_atom_id": "K7dfe97bbf125df",
+      "mathmap_file": "Mathmap/知识点/空间向量的数量积运算.md",
+      "text": "[空间向量的数量积运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E6%95%B0%E9%87%8F%E7%A7%AF%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2f2d890e79080e272b52",
+      "mathmap_atom_id": "K68b2da16e4f5f7",
+      "mathmap_file": "Mathmap/知识点/空间直角坐标系与点的坐标.md",
+      "text": "[空间直角坐标系与点的坐标](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2a6b34e7d5f35c6c4484",
+      "mathmap_atom_id": "Kc95d5434066a27",
+      "mathmap_file": "Mathmap/知识点/空间距离与夹角的向量计算.md",
+      "text": "[空间距离与夹角的向量计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E8%B7%9D%E7%A6%BB%E4%B8%8E%E5%A4%B9%E8%A7%92%E7%9A%84%E5%90%91%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0871692e811e886233b3",
+      "mathmap_atom_id": "K0c30ac1f5fd9f9",
+      "mathmap_file": "Mathmap/知识点/空间向量运算的坐标表示.md",
+      "text": "[空间向量运算的坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "2b97e2d765589823d59d",
+      "mathmap_atom_id": "Cd53d5e51e5b605",
+      "mathmap_file": "Mathmap/概念或公式/n维向量与向量空间.md",
+      "text": "[n维向量与向量空间](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/n%E7%BB%B4%E5%90%91%E9%87%8F%E4%B8%8E%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "87987e45fe9643cbbf7f",
+      "mathmap_atom_id": "K904efdcf559297",
+      "mathmap_file": "Mathmap/知识点/空间直线与平面平行垂直的向量判定.md",
+      "text": "[空间直线与平面平行垂直的向量判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%B9%B3%E8%A1%8C%E5%9E%82%E7%9B%B4%E7%9A%84%E5%90%91%E9%87%8F%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "497738751f7246cd2480",
+      "mathmap_atom_id": "K41338d3b6879aa",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 向量概念的推广与应用.md",
+      "text": "[阅读与思考 向量概念的推广与应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%90%91%E9%87%8F%E6%A6%82%E5%BF%B5%E7%9A%84%E6%8E%A8%E5%B9%BF%E4%B8%8E%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 520
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b47a911304d1739ad6b7",
+      "text": "[1.1 空间向量及其运算](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/1.1%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97--dbe96e90.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "eacf54448b8fe5a42a2f",
+      "text": "[1.2 空间向量基本定理](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/1.2%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86--b5a9fdb1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "18b4f862e0a5a4619d01",
+      "text": "[1.3 空间向量及其运算的坐标表示](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/1.3%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA--fdc878d1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "5c5cb6f6f855069baebc",
+      "text": "[阅读与思考 向量概念的推广与应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%90%91%E9%87%8F%E6%A6%82%E5%BF%B5%E7%9A%84%E6%8E%A8%E5%B9%BF%E4%B8%8E%E5%BA%94%E7%94%A8--2b06ced0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 950
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "6ec1b868f0808eb3190b",
+      "text": "[1.4 空间向量的应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/1.4%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E7%9A%84%E5%BA%94%E7%94%A8--7ee2e281.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 950
+    }
+  ]
+}

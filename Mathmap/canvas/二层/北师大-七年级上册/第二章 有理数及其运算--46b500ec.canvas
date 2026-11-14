@@ -1,0 +1,413 @@
+{
+  "edges": [
+    {
+      "fromNode": "7c6262f814854d713522",
+      "fromSide": "right",
+      "id": "c61f64820fdbb90fd6aa",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "69fe0cf2e86ab0d0458c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1bddac06a69c8cbb05e1",
+      "fromSide": "right",
+      "id": "0741aafc7b40d414d6c6",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8354355b9ee962414016",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "396f958d12f932a2281b",
+      "fromSide": "right",
+      "id": "4b477dd96034a2cb4969",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "62032a3ad7ab576d0cdf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9d1c34ab4e318d77f3e8",
+      "fromSide": "right",
+      "id": "e4dad0fb3499e0e33ec4",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "61e6b0246c6f456aa49d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fa21cb3cce090dd3f491",
+      "fromSide": "right",
+      "id": "f1c31619b177461e4472",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "9d1c34ab4e318d77f3e8",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-008",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "508d40ecbed163b2995c",
+      "text": "# 第二章 有理数及其运算\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "57be54458d05235eced8",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1bddac06a69c8cbb05e1",
+      "mathmap_atom_id": "K0cb196e84d55d3",
+      "mathmap_file": "Mathmap/知识点/具有相反意义的量与正数、负数、0的概念.md",
+      "text": "[具有相反意义的量与正数、负数、0的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%B7%E6%9C%89%E7%9B%B8%E5%8F%8D%E6%84%8F%E4%B9%89%E7%9A%84%E9%87%8F%E4%B8%8E%E6%AD%A3%E6%95%B0%E3%80%81%E8%B4%9F%E6%95%B0%E3%80%810%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7c6262f814854d713522",
+      "mathmap_atom_id": "K00359b8514cdb1",
+      "mathmap_file": "Mathmap/知识点/数轴的概念与三要素（原点、单位长度、正方向）.md",
+      "text": "[数轴的概念与三要素（原点、单位长度、正方向）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E8%BD%B4%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E4%B8%89%E8%A6%81%E7%B4%A0%EF%BC%88%E5%8E%9F%E7%82%B9%E3%80%81%E5%8D%95%E4%BD%8D%E9%95%BF%E5%BA%A6%E3%80%81%E6%AD%A3%E6%96%B9%E5%90%91%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "396f958d12f932a2281b",
+      "mathmap_atom_id": "K20211c7c930ad4",
+      "mathmap_file": "Mathmap/知识点/有理数乘法法则及基本乘法运算示例.md",
+      "text": "[有理数乘法法则及基本乘法运算示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%B9%98%E6%B3%95%E8%BF%90%E7%AE%97%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fa21cb3cce090dd3f491",
+      "mathmap_atom_id": "Kfc2080d35b46ca",
+      "mathmap_file": "Mathmap/知识点/相反数与绝对值的概念及符号表示.md",
+      "text": "[相反数与绝对值的概念及符号表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B8%E5%8F%8D%E6%95%B0%E4%B8%8E%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%AC%A6%E5%8F%B7%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "62032a3ad7ab576d0cdf",
+      "mathmap_atom_id": "Ke10c2899eeb525",
+      "mathmap_file": "Mathmap/知识点/倒数的概念.md",
+      "text": "[倒数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%80%92%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8354355b9ee962414016",
+      "mathmap_atom_id": "K3364983828b14a",
+      "mathmap_file": "Mathmap/知识点/整数、分数与有理数的概念及分类.md",
+      "text": "[整数、分数与有理数的概念及分类](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B4%E6%95%B0%E3%80%81%E5%88%86%E6%95%B0%E4%B8%8E%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%88%86%E7%B1%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "69fe0cf2e86ab0d0458c",
+      "mathmap_atom_id": "K0a045008549d80",
+      "mathmap_file": "Mathmap/知识点/有理数与数轴上点的对应关系.md",
+      "text": "[有理数与数轴上点的对应关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E4%B8%8E%E6%95%B0%E8%BD%B4%E4%B8%8A%E7%82%B9%E7%9A%84%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9d1c34ab4e318d77f3e8",
+      "mathmap_atom_id": "K433f9177231330",
+      "mathmap_file": "Mathmap/知识点/绝对值的代数性质（正数、负数与0的绝对值）.md",
+      "text": "[绝对值的代数性质（正数、负数与0的绝对值）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E4%BB%A3%E6%95%B0%E6%80%A7%E8%B4%A8%EF%BC%88%E6%AD%A3%E6%95%B0%E3%80%81%E8%B4%9F%E6%95%B0%E4%B8%8E0%E7%9A%84%E7%BB%9D%E5%AF%B9%E5%80%BC%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "61e6b0246c6f456aa49d",
+      "mathmap_atom_id": "K4910a454f1fe19",
+      "mathmap_file": "Mathmap/知识点/有理数大小比较法则.md",
+      "text": "[有理数大小比较法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E5%A4%A7%E5%B0%8F%E6%AF%94%E8%BE%83%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6dac5646f828f6f8099a",
+      "mathmap_atom_id": "K5b7d0fb3f9fc0b",
+      "mathmap_file": "Mathmap/知识点/乘方、幂、底数与指数的概念.md",
+      "text": "[乘方、幂、底数与指数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B9%98%E6%96%B9%E3%80%81%E5%B9%82%E3%80%81%E5%BA%95%E6%95%B0%E4%B8%8E%E6%8C%87%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8c1a61b746af063f3ea9",
+      "mathmap_atom_id": "Kd50d5c6a4f0b5a",
+      "mathmap_file": "Mathmap/知识点/使用科学计算器进行有理数运算的按键方法.md",
+      "text": "[使用科学计算器进行有理数运算的按键方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BD%BF%E7%94%A8%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%99%A8%E8%BF%9B%E8%A1%8C%E6%9C%89%E7%90%86%E6%95%B0%E8%BF%90%E7%AE%97%E7%9A%84%E6%8C%89%E9%94%AE%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c4e306cb27089e2158de",
+      "mathmap_atom_id": "Ke1c0bb117fc596",
+      "mathmap_file": "Mathmap/知识点/基于乘法运算律推导负因数乘法符号规律.md",
+      "text": "[基于乘法运算律推导负因数乘法符号规律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9F%BA%E4%BA%8E%E4%B9%98%E6%B3%95%E8%BF%90%E7%AE%97%E5%BE%8B%E6%8E%A8%E5%AF%BC%E8%B4%9F%E5%9B%A0%E6%95%B0%E4%B9%98%E6%B3%95%E7%AC%A6%E5%8F%B7%E8%A7%84%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1120
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1d2c62befc00490dc22e",
+      "mathmap_atom_id": "K8eb939636bd4f4",
+      "mathmap_file": "Mathmap/知识点/多个有理数相乘的逐步运算示例.md",
+      "text": "[多个有理数相乘的逐步运算示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%9A%E4%B8%AA%E6%9C%89%E7%90%86%E6%95%B0%E7%9B%B8%E4%B9%98%E7%9A%84%E9%80%90%E6%AD%A5%E8%BF%90%E7%AE%97%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f6df348826a083a167c1",
+      "mathmap_atom_id": "Kdf7450f87d7346",
+      "mathmap_file": "Mathmap/知识点/有理数乘法的交换律、结合律与乘法对加法的分配律.md",
+      "text": "[有理数乘法的交换律、结合律与乘法对加法的分配律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E4%B9%98%E6%B3%95%E7%9A%84%E4%BA%A4%E6%8D%A2%E5%BE%8B%E3%80%81%E7%BB%93%E5%90%88%E5%BE%8B%E4%B8%8E%E4%B9%98%E6%B3%95%E5%AF%B9%E5%8A%A0%E6%B3%95%E7%9A%84%E5%88%86%E9%85%8D%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f29e775368e6f4ac44e8",
+      "mathmap_atom_id": "Ke680c98f14c5e4",
+      "mathmap_file": "Mathmap/知识点/有理数减法法则.md",
+      "text": "[有理数减法法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E5%87%8F%E6%B3%95%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1340
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f560ebef32d66c35730a",
+      "mathmap_atom_id": "Kbc8a64bae1360c",
+      "mathmap_file": "Mathmap/知识点/有理数加减混合运算统一成加法及简算方法.md",
+      "text": "[有理数加减混合运算统一成加法及简算方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E5%8A%A0%E5%87%8F%E6%B7%B7%E5%90%88%E8%BF%90%E7%AE%97%E7%BB%9F%E4%B8%80%E6%88%90%E5%8A%A0%E6%B3%95%E5%8F%8A%E7%AE%80%E7%AE%97%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "66a1f5ad0ae5125fb5b7",
+      "mathmap_atom_id": "K8c85ea530ed735",
+      "mathmap_file": "Mathmap/知识点/有理数加法法则及其基本计算示例.md",
+      "text": "[有理数加法法则及其基本计算示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E5%8A%A0%E6%B3%95%E6%B3%95%E5%88%99%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a585d2fc7bd18c09bc60",
+      "mathmap_atom_id": "K13653daef359ff",
+      "mathmap_file": "Mathmap/知识点/有理数加法的交换律、结合律及简便计算示例.md",
+      "text": "[有理数加法的交换律、结合律及简便计算示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E5%8A%A0%E6%B3%95%E7%9A%84%E4%BA%A4%E6%8D%A2%E5%BE%8B%E3%80%81%E7%BB%93%E5%90%88%E5%BE%8B%E5%8F%8A%E7%AE%80%E4%BE%BF%E8%AE%A1%E7%AE%97%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4268b80c319a34eeaa58",
+      "mathmap_atom_id": "Kdd87dc3e2852d6",
+      "mathmap_file": "Mathmap/知识点/有理数混合运算的运算顺序法则.md",
+      "text": "[有理数混合运算的运算顺序法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E6%B7%B7%E5%90%88%E8%BF%90%E7%AE%97%E7%9A%84%E8%BF%90%E7%AE%97%E9%A1%BA%E5%BA%8F%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "30be0645d12eef8907a1",
+      "mathmap_atom_id": "Ke4122319df5a3d",
+      "mathmap_file": "Mathmap/知识点/有理数除法法则（符号规律与0的除法）.md",
+      "text": "[有理数除法法则（符号规律与0的除法）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E9%99%A4%E6%B3%95%E6%B3%95%E5%88%99%EF%BC%88%E7%AC%A6%E5%8F%B7%E8%A7%84%E5%BE%8B%E4%B8%8E0%E7%9A%84%E9%99%A4%E6%B3%95%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0309517c692769ed0e28",
+      "mathmap_atom_id": "K705434ea063228",
+      "mathmap_file": "Mathmap/知识点/有理数除法转化为乘法法则（除以一个数等于乘这个数的倒数）.md",
+      "text": "[有理数除法转化为乘法法则（除以一个数等于乘这个数的倒数）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E9%99%A4%E6%B3%95%E8%BD%AC%E5%8C%96%E4%B8%BA%E4%B9%98%E6%B3%95%E6%B3%95%E5%88%99%EF%BC%88%E9%99%A4%E4%BB%A5%E4%B8%80%E4%B8%AA%E6%95%B0%E7%AD%89%E4%BA%8E%E4%B9%98%E8%BF%99%E4%B8%AA%E6%95%B0%E7%9A%84%E5%80%92%E6%95%B0%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7d232a7b6455b285d71b",
+      "mathmap_atom_id": "K488c5f5675b1ac",
+      "mathmap_file": "Mathmap/知识点/相反数与绝对值的几何意义.md",
+      "text": "[相反数与绝对值的几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B8%E5%8F%8D%E6%95%B0%E4%B8%8E%E7%BB%9D%E5%AF%B9%E5%80%BC%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "43244e7b499d6eef6c1d",
+      "mathmap_atom_id": "Kc06629cd436667",
+      "mathmap_file": "Mathmap/知识点/科学记数法的概念与表示范围.md",
+      "text": "[科学记数法的概念与表示范围](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A7%91%E5%AD%A6%E8%AE%B0%E6%95%B0%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%A1%A8%E7%A4%BA%E8%8C%83%E5%9B%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 2000
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6238529b90eb7920e62f",
+      "mathmap_atom_id": "K13b5bec7c546a8",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：负数小史与《九章算术》正负术.md",
+      "text": "[阅读·欣赏：负数小史与《九章算术》正负术](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E8%B4%9F%E6%95%B0%E5%B0%8F%E5%8F%B2%E4%B8%8E%E3%80%8A%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%9C%AF%E3%80%8B%E6%AD%A3%E8%B4%9F%E6%9C%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 2000
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "4cdf091dd254cb175641",
+      "text": "[1 认识有理数](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E8%AE%A4%E8%AF%86%E6%9C%89%E7%90%86%E6%95%B0--4635d5d5.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b50cf709ad3443b85874",
+      "text": "[2 有理数的加减运算](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E5%8A%A0%E5%87%8F%E8%BF%90%E7%AE%97--41206a64.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[3 有理数的乘除运算](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 2220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "144d863c2ff7520b5154",
+      "text": "[4 有理数的乘方](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/4%20%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E4%B9%98%E6%96%B9--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2430
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e2538341d946eb87c8d4",
+      "text": "[5 有理数的混合运算](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/5%20%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E6%B7%B7%E5%90%88%E8%BF%90%E7%AE%97--99368e80.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 2430
+    }
+  ]
+}

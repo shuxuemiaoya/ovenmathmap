@@ -1,0 +1,280 @@
+{
+  "edges": [
+    {
+      "fromNode": "f8ddf7dde44946abd1b3",
+      "fromSide": "right",
+      "id": "1c9099c8164b5448b165",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "7e38c41a4644136cd110",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6e5fb244e792a2096c13",
+      "fromSide": "right",
+      "id": "741c75d45f802b3ef495",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f962b004a06016545f25",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-040",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "13f9beafab6d8446a67f",
+      "text": "# 第五章 一元一次方程\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "d9fd81b0474354f6c293",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f8ddf7dde44946abd1b3",
+      "mathmap_atom_id": "K3e0722fb504708",
+      "mathmap_file": "Mathmap/知识点/方程与一元一次方程的概念.md",
+      "text": "[方程与一元一次方程的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%B9%E7%A8%8B%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6e5fb244e792a2096c13",
+      "mathmap_atom_id": "K9749c53c9d6bd0",
+      "mathmap_file": "Mathmap/知识点/等式的对称性与传递性基本事实.md",
+      "text": "[等式的对称性与传递性基本事实](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E4%BC%A0%E9%80%92%E6%80%A7%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7e38c41a4644136cd110",
+      "mathmap_atom_id": "Kac9b682386582c",
+      "mathmap_file": "Mathmap/知识点/方程的解与解方程的概念.md",
+      "text": "[方程的解与解方程的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3%E4%B8%8E%E8%A7%A3%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f962b004a06016545f25",
+      "mathmap_atom_id": "K1a829cb426f2c0",
+      "mathmap_file": "Mathmap/知识点/等式的基本性质.md",
+      "text": "[等式的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3189e2c2ba3447600183",
+      "mathmap_atom_id": "K057b589a15c6d3",
+      "mathmap_file": "Mathmap/知识点/《九章算术》“盈不足”问题与表格分析等量关系.md",
+      "text": "[《九章算术》“盈不足”问题与表格分析等量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E3%80%8A%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%9C%AF%E3%80%8B%E2%80%9C%E7%9B%88%E4%B8%8D%E8%B6%B3%E2%80%9D%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A1%A8%E6%A0%BC%E5%88%86%E6%9E%90%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "50f268b9af8335ad83f4",
+      "mathmap_atom_id": "K9c86c31ab641d6",
+      "mathmap_file": "Mathmap/知识点/去括号法解一元一次方程的基本步骤示例.md",
+      "text": "[去括号法解一元一次方程的基本步骤示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8E%BB%E6%8B%AC%E5%8F%B7%E6%B3%95%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%AD%A5%E9%AA%A4%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0bc608b6d46610d5a662",
+      "mathmap_atom_id": "K1a2fdd47c49c58",
+      "mathmap_file": "Mathmap/知识点/小明的直观分析解答示范：销售过程框图与方程求解.md",
+      "text": "[小明的直观分析解答示范：销售过程框图与方程求解](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%8F%E6%98%8E%E7%9A%84%E7%9B%B4%E8%A7%82%E5%88%86%E6%9E%90%E8%A7%A3%E7%AD%94%E7%A4%BA%E8%8C%83%EF%BC%9A%E9%94%80%E5%94%AE%E8%BF%87%E7%A8%8B%E6%A1%86%E5%9B%BE%E4%B8%8E%E6%96%B9%E7%A8%8B%E6%B1%82%E8%A7%A3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a820055fa1584a90c67c",
+      "mathmap_atom_id": "Kdd55bad6278aec",
+      "mathmap_file": "Mathmap/知识点/应用等式基本性质解一元一次方程的综合示例.md",
+      "text": "[应用等式基本性质解一元一次方程的综合示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BA%94%E7%94%A8%E7%AD%89%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E7%BB%BC%E5%90%88%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 740
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f7c45520a8495f6978be",
+      "mathmap_atom_id": "Kf37bd8f50a9363",
+      "mathmap_file": "Mathmap/知识点/用一元一次方程解决实际问题的一般步骤.md",
+      "text": "[用一元一次方程解决实际问题的一般步骤](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 740
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b625d60a0677da602d00",
+      "mathmap_atom_id": "K67f82dd877deaa",
+      "mathmap_file": "Mathmap/知识点/直观分析策略的数学思想与含义.md",
+      "text": "[直观分析策略的数学思想与含义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%82%E5%88%86%E6%9E%90%E7%AD%96%E7%95%A5%E7%9A%84%E6%95%B0%E5%AD%A6%E6%80%9D%E6%83%B3%E4%B8%8E%E5%90%AB%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 740
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4ec597f29109041687aa",
+      "mathmap_atom_id": "K4a46b01c76d8da",
+      "mathmap_file": "Mathmap/知识点/直观分析策略解决实际问题的核心价值总结.md",
+      "text": "[直观分析策略解决实际问题的核心价值总结](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%82%E5%88%86%E6%9E%90%E7%AD%96%E7%95%A5%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98%E7%9A%84%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E6%80%BB%E7%BB%93.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 960
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9f680559561a30df8714",
+      "mathmap_atom_id": "K7970f8552b6de7",
+      "mathmap_file": "Mathmap/知识点/移项的概念与移项法解一元一次方程.md",
+      "text": "[移项的概念与移项法解一元一次方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A7%BB%E9%A1%B9%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%A7%BB%E9%A1%B9%E6%B3%95%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 960
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a0f831af4246596e810c",
+      "mathmap_atom_id": "K35f72c5b36b15c",
+      "mathmap_file": "Mathmap/知识点/等积变形问题中的表格建模与寻找等量关系.md",
+      "text": "[等积变形问题中的表格建模与寻找等量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E7%A7%AF%E5%8F%98%E5%BD%A2%E9%97%AE%E9%A2%98%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%A0%BC%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%AF%BB%E6%89%BE%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 960
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b7d3bbbf5f8ee2db3d3d",
+      "mathmap_atom_id": "K78047e53ca623d",
+      "mathmap_file": "Mathmap/知识点/行程追及问题与画线段图分析等量关系.md",
+      "text": "[行程追及问题与画线段图分析等量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A1%8C%E7%A8%8B%E8%BF%BD%E5%8F%8A%E9%97%AE%E9%A2%98%E4%B8%8E%E7%94%BB%E7%BA%BF%E6%AE%B5%E5%9B%BE%E5%88%86%E6%9E%90%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1180
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "776220b9cf123d0b2cca",
+      "mathmap_atom_id": "Kf5278a1a48fb8e",
+      "mathmap_file": "Mathmap/知识点/解一元一次方程的一般步骤与转化思想.md",
+      "text": "[解一元一次方程的一般步骤与转化思想](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4%E4%B8%8E%E8%BD%AC%E5%8C%96%E6%80%9D%E6%83%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1180
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07fa8c6eff5d1cba6933",
+      "mathmap_atom_id": "Kd907c84f8195e4",
+      "mathmap_file": "Mathmap/知识点/阅读·思考：“瞎转圈”的道理与圆周步长方程模型.md",
+      "text": "[阅读·思考：“瞎转圈”的道理与圆周步长方程模型](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E2%80%9C%E7%9E%8E%E8%BD%AC%E5%9C%88%E2%80%9D%E7%9A%84%E9%81%93%E7%90%86%E4%B8%8E%E5%9C%86%E5%91%A8%E6%AD%A5%E9%95%BF%E6%96%B9%E7%A8%8B%E6%A8%A1%E5%9E%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1180
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "205c69d895d399665d5e",
+      "text": "[1 认识方程](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E8%AE%A4%E8%AF%86%E6%96%B9%E7%A8%8B--a2bc2f26.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1400
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d48ce67723b8d29ec3cb",
+      "text": "[2 一元一次方程的解法](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3%E6%B3%95--e6ce5609.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1400
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "794350cca0fad8414094",
+      "text": "[3 一元一次方程的应用](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%BA%94%E7%94%A8--a1ddf92c.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1400
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e566853101be7375b001",
+      "text": "[问题解决策略：直观分析](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5%EF%BC%9A%E7%9B%B4%E8%A7%82%E5%88%86%E6%9E%90--d00e1959.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1610
+    }
+  ]
+}

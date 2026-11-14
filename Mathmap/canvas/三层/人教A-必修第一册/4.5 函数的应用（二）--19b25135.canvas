@@ -1,0 +1,129 @@
+{
+  "edges": [
+    {
+      "fromNode": "6a2f3a80d4598ad7e6ba",
+      "fromSide": "left",
+      "id": "11b35496528df672248b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "5809a4420cb59f7297a1",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6a2f3a80d4598ad7e6ba",
+      "fromSide": "right",
+      "id": "cbcd26e4d55caca75fce",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "cf6156ed429bc1ffb4b7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8614d0da484e87dbaece",
+      "fromSide": "right",
+      "id": "f7125488bd1836472128",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "6a2f3a80d4598ad7e6ba",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-037",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "3e5536434e2e37467984",
+      "text": "# 4.5 函数的应用（二）\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "e404bdbf0f5287acdb89",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0--d95503db.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8614d0da484e87dbaece",
+      "mathmap_atom_id": "Kf59f99ed105c84",
+      "mathmap_file": "Mathmap/知识点/函数的零点与方程的解--000147.md",
+      "text": "[函数的零点与方程的解](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E9%9B%B6%E7%82%B9%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3--000147.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "5809a4420cb59f7297a1",
+      "mathmap_atom_id": "C87a17c7576774a",
+      "mathmap_file": "Mathmap/概念或公式/函数零点存在定理--C87a17c7576774a.md",
+      "text": "[函数零点存在定理](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%87%BD%E6%95%B0%E9%9B%B6%E7%82%B9%E5%AD%98%E5%9C%A8%E5%AE%9A%E7%90%86--C87a17c7576774a.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a2f3a80d4598ad7e6ba",
+      "mathmap_atom_id": "K7ee885d548d05c",
+      "mathmap_file": "Mathmap/知识点/函数零点存在定理--000148.md",
+      "text": "[函数零点存在定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E9%9B%B6%E7%82%B9%E5%AD%98%E5%9C%A8%E5%AE%9A%E7%90%86--000148.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf6156ed429bc1ffb4b7",
+      "mathmap_atom_id": "K1b7e7acb8b64a0",
+      "mathmap_file": "Mathmap/知识点/用二分法求方程近似解--000149.md",
+      "text": "[用二分法求方程近似解](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E4%BA%8C%E5%88%86%E6%B3%95%E6%B1%82%E6%96%B9%E7%A8%8B%E8%BF%91%E4%BC%BC%E8%A7%A3--000149.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "53e270d692c49f1f0370",
+      "mathmap_atom_id": "K1e0f4f227cd90b",
+      "mathmap_file": "Mathmap/知识点/中外历史上的方程求解--000150.md",
+      "text": "[中外历史上的方程求解](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%AD%E5%A4%96%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E6%96%B9%E7%A8%8B%E6%B1%82%E8%A7%A3--000150.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0f9a38258d6142e89913",
+      "mathmap_atom_id": "K695e5de8195b45",
+      "mathmap_file": "Mathmap/知识点/建立函数模型解决实际问题的基本过程--000151.md",
+      "text": "[建立函数模型解决实际问题的基本过程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BB%BA%E7%AB%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%BF%87%E7%A8%8B--000151.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    }
+  ]
+}

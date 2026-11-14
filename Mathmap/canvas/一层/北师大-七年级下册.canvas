@@ -1,0 +1,126 @@
+{
+  "edges": [
+    {
+      "fromNode": "92996c09a3fd063df0d7",
+      "fromSide": "bottom",
+      "id": "1649e385124ceeb0826e",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "2f3a46a4c224afe010e9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2f3a46a4c224afe010e9",
+      "fromSide": "bottom",
+      "id": "d77863357e735d3929ac",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "b4564268410d66ba6831",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b4564268410d66ba6831",
+      "fromSide": "bottom",
+      "id": "a81e25613fe6ef8f345d",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "9bd0f666aaa9e9bdafeb",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bd0f666aaa9e9bdafeb",
+      "fromSide": "bottom",
+      "id": "4a064fcc21d21ec4a1bd",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "8fd26bdaa7bd2011944f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8fd26bdaa7bd2011944f",
+      "fromSide": "bottom",
+      "id": "aa88aa994aad00c984af",
+      "label": "来源编排（非先修）",
+      "toEnd": "arrow",
+      "toNode": "56a0200ec91e205e7390",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "一层",
+    "scope_key": "book-root",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "fa65013f53ec9632d820",
+      "text": "# 义务教育教科书 数学 七年级 下册（2024北师大版）\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "92996c09a3fd063df0d7",
+      "text": "[第一章 整式的乘除](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%95%B4%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4--321fd570.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2f3a46a4c224afe010e9",
+      "text": "[第二章 相交线与平行线](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%9B%B8%E4%BA%A4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF--5cd67262.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 240
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b4564268410d66ba6831",
+      "text": "[第三章 概率初步](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%A6%82%E7%8E%87%E5%88%9D%E6%AD%A5--f18eef6d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 480
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "9bd0f666aaa9e9bdafeb",
+      "text": "[第四章 三角形](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2--88652822.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 720
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "8fd26bdaa7bd2011944f",
+      "text": "[第五章 图形的轴对称](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0--4029d0d4.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 960
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "56a0200ec91e205e7390",
+      "text": "[第六章 变量之间的关系](../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB--2c75c47c.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1200
+    }
+  ]
+}

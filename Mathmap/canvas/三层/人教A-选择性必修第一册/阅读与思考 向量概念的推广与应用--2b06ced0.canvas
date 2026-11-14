@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-005",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5e833ae7c86ab6240529",
+      "text": "# 阅读与思考 向量概念的推广与应用\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "a1a2862a089492d411ee",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "2b97e2d765589823d59d",
+      "mathmap_atom_id": "Cd53d5e51e5b605",
+      "mathmap_file": "Mathmap/概念或公式/n维向量与向量空间.md",
+      "text": "[n维向量与向量空间](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/n%E7%BB%B4%E5%90%91%E9%87%8F%E4%B8%8E%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "497738751f7246cd2480",
+      "mathmap_atom_id": "K41338d3b6879aa",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 向量概念的推广与应用.md",
+      "text": "[阅读与思考 向量概念的推广与应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%90%91%E9%87%8F%E6%A6%82%E5%BF%B5%E7%9A%84%E6%8E%A8%E5%B9%BF%E4%B8%8E%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

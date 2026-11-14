@@ -1,0 +1,75 @@
+{
+  "edges": [
+    {
+      "fromNode": "81f002073cb1ea693564",
+      "fromSide": "right",
+      "id": "04520d5008ce6885de99",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "9e167a614f27ba62a697",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-027",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d91faf63173f8353c1e6",
+      "text": "# 8.6 空间直线、平面的垂直\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd729c15d0d000a1db69",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5--fc518d23.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "81f002073cb1ea693564",
+      "mathmap_atom_id": "K9a4d01f2c5017c",
+      "mathmap_file": "Mathmap/知识点/直线与平面垂直的判定及性质.md",
+      "text": "[直线与平面垂直的判定及性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9e167a614f27ba62a697",
+      "mathmap_atom_id": "K983ba9e467fee3",
+      "mathmap_file": "Mathmap/知识点/平面与平面垂直的判定及性质.md",
+      "text": "[平面与平面垂直的判定及性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E4%B8%8E%E5%B9%B3%E9%9D%A2%E5%9E%82%E7%9B%B4%E7%9A%84%E5%88%A4%E5%AE%9A%E5%8F%8A%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "555a133825c5d1a41e74",
+      "mathmap_atom_id": "K5af64b8272c552",
+      "mathmap_file": "Mathmap/知识点/空间直线垂直与异面直线所成角.md",
+      "text": "[空间直线垂直与异面直线所成角](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%9B%B4%E4%B8%8E%E5%BC%82%E9%9D%A2%E7%9B%B4%E7%BA%BF%E6%89%80%E6%88%90%E8%A7%92.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "edges": [
+    {
+      "fromNode": "7a901276bd847704f1ef",
+      "fromSide": "right",
+      "id": "c84867a30407a04d1408",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fbc362a61d6d86438948",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "35b3aca23af5c057d0fc",
+      "fromSide": "right",
+      "id": "49e06c111a999bbb7aff",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "07803ffc65bba5b960ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "35b3aca23af5c057d0fc",
+      "fromSide": "right",
+      "id": "ddf99669e731925a9b63",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fc575a4ecd49607cbd90",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-009",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "550445f1f73d3a06a7fe",
+      "text": "# 第二章 直线和圆的方程\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd33a9fdffdcee97fd50",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7a901276bd847704f1ef",
+      "mathmap_atom_id": "K63e9ae204c4548",
+      "mathmap_file": "Mathmap/知识点/平面两点间的距离公式及其推导.md",
+      "text": "[平面两点间的距离公式及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E4%B8%A4%E7%82%B9%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fc575a4ecd49607cbd90",
+      "mathmap_atom_id": "Kf880b20b11f723",
+      "mathmap_file": "Mathmap/知识点/两条直线平行与垂直的斜率判定.md",
+      "text": "[两条直线平行与垂直的斜率判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E4%B8%8E%E5%9E%82%E7%9B%B4%E7%9A%84%E6%96%9C%E7%8E%87%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fbc362a61d6d86438948",
+      "mathmap_atom_id": "K645a18fb0cc63d",
+      "mathmap_file": "Mathmap/知识点/圆的标准方程及其推导.md",
+      "text": "[圆的标准方程及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07803ffc65bba5b960ee",
+      "mathmap_atom_id": "K5e3a20f35fccf0",
+      "mathmap_file": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "text": "[直线的点斜式与斜截式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E7%82%B9%E6%96%9C%E5%BC%8F%E4%B8%8E%E6%96%9C%E6%88%AA%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "085d3b85760150a821a6",
+      "mathmap_atom_id": "C64ca1ee751df80",
+      "mathmap_file": "Mathmap/概念或公式/两条平行直线间的距离.md",
+      "text": "[两条平行直线间的距离](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E4%B8%A4%E6%9D%A1%E5%B9%B3%E8%A1%8C%E7%9B%B4%E7%BA%BF%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b85012e09a16e6c11786",
+      "mathmap_atom_id": "K3339667d4367b7",
+      "mathmap_file": "Mathmap/知识点/两条平行直线间的距离.md",
+      "text": "[两条平行直线间的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E6%9D%A1%E5%B9%B3%E8%A1%8C%E7%9B%B4%E7%BA%BF%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "53c308e2d59fa77be2aa",
+      "mathmap_atom_id": "K266ef899282d66",
+      "mathmap_file": "Mathmap/知识点/两条直线的交点坐标.md",
+      "text": "[两条直线的交点坐标](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 820
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "53b461b8a112e3d22e3b",
+      "mathmap_atom_id": "Kacaa8f5ad0c14d",
+      "mathmap_file": "Mathmap/知识点/圆的一般方程与成立条件.md",
+      "text": "[圆的一般方程与成立条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E7%9A%84%E4%B8%80%E8%88%AC%E6%96%B9%E7%A8%8B%E4%B8%8E%E6%88%90%E7%AB%8B%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6b5b25382cf4b0367e87",
+      "mathmap_atom_id": "Ka082493822490b",
+      "mathmap_file": "Mathmap/知识点/探究与发现 方向向量与直线的参数方程.md",
+      "text": "[探究与发现 方向向量与直线的参数方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E6%96%B9%E5%90%91%E5%90%91%E9%87%8F%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "97fd5eaa017967dfc656",
+      "mathmap_atom_id": "K2d8b62110ae6b2",
+      "mathmap_file": "Mathmap/知识点/点到直线距离公式的代数推导.md",
+      "text": "[点到直线距离公式的代数推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E4%BB%A3%E6%95%B0%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1040
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e1e1046387a83f5b1be0",
+      "mathmap_atom_id": "Kaec6c226cf4c86",
+      "mathmap_file": "Mathmap/知识点/点到直线距离公式的向量推导.md",
+      "text": "[点到直线距离公式的向量推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%90%91%E9%87%8F%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d6ce060e5e5dd06f8b2a",
+      "mathmap_atom_id": "K1db7fb83e5e418",
+      "mathmap_file": "Mathmap/知识点/直线的一般式方程.md",
+      "text": "[直线的一般式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%80%E8%88%AC%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c481069fde3e9e958df5",
+      "mathmap_atom_id": "K0dddadef318bed",
+      "mathmap_file": "Mathmap/知识点/直线的两点式与截距式方程.md",
+      "text": "[直线的两点式与截距式方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%B8%A4%E7%82%B9%E5%BC%8F%E4%B8%8E%E6%88%AA%E8%B7%9D%E5%BC%8F%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1260
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "06cb7cbfb4577dcbda8c",
+      "mathmap_atom_id": "Kbb367792be4ab9",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 坐标法与数学机械化.md",
+      "text": "[阅读与思考 坐标法与数学机械化](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%9D%90%E6%A0%87%E6%B3%95%E4%B8%8E%E6%95%B0%E5%AD%A6%E6%9C%BA%E6%A2%B0%E5%8C%96.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1480
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8edc4e70870116c8ffa1",
+      "mathmap_atom_id": "K07259624b9ef37",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 笛卡儿与解析几何.md",
+      "text": "[阅读与思考 笛卡儿与解析几何](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%AC%9B%E5%8D%A1%E5%84%BF%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1480
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "27a0066bd831b6aaf834",
+      "text": "[2.1 直线的倾斜角与斜率](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.1%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87--e51a80d4.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1700
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b50cf709ad3443b85874",
+      "text": "[2.2 直线的方程](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.2%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%96%B9%E7%A8%8B--41206a64.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1700
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2f3a46a4c224afe010e9",
+      "text": "[探究与发现 方向向量与直线的参数方程](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%8E%A2%E7%A9%B6%E4%B8%8E%E5%8F%91%E7%8E%B0%20%E6%96%B9%E5%90%91%E5%90%91%E9%87%8F%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%8F%82%E6%95%B0%E6%96%B9%E7%A8%8B--5cd67262.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1700
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[2.3 直线的交点坐标与距离公式](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.3%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1910
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "23f5a57c287379c4e69d",
+      "text": "[阅读与思考 笛卡儿与解析几何](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%AC%9B%E5%8D%A1%E5%84%BF%E4%B8%8E%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95--151aa748.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1910
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "144d863c2ff7520b5154",
+      "text": "[2.4 圆的方程](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.4%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1910
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "74ececdf8dd26218f483",
+      "text": "[阅读与思考 坐标法与数学机械化](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%9D%90%E6%A0%87%E6%B3%95%E4%B8%8E%E6%95%B0%E5%AD%A6%E6%9C%BA%E6%A2%B0%E5%8C%96--5cfefcf7.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 2120
+    }
+  ]
+}

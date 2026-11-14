@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-022",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "91f62a43c17f3ac98158",
+      "text": "# 1 代数式\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "22c6a77b50afc24222d0",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%95%B4%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%8A%A0%E5%87%8F--f18eef6d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a8304c9d711c8805dbac",
+      "mathmap_atom_id": "Keba3f9c83ca787",
+      "mathmap_file": "Mathmap/知识点/代数式的概念与求代数式的值.md",
+      "text": "[代数式的概念与求代数式的值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%A3%E6%95%B0%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%B1%82%E4%BB%A3%E6%95%B0%E5%BC%8F%E7%9A%84%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9643c7cbd80ade5d67c7",
+      "mathmap_atom_id": "K3d94d47f8784e5",
+      "mathmap_file": "Mathmap/知识点/单项式、多项式与整式的概念及其系数和次数.md",
+      "text": "[单项式、多项式与整式的概念及其系数和次数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8D%95%E9%A1%B9%E5%BC%8F%E3%80%81%E5%A4%9A%E9%A1%B9%E5%BC%8F%E4%B8%8E%E6%95%B4%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E7%B3%BB%E6%95%B0%E5%92%8C%E6%AC%A1%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "154828f59851905e8e4c",
+      "mathmap_atom_id": "K49e050fe7630d2",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：“代数”的由来.md",
+      "text": "[阅读·欣赏：“代数”的由来](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E2%80%9C%E4%BB%A3%E6%95%B0%E2%80%9D%E7%9A%84%E7%94%B1%E6%9D%A5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

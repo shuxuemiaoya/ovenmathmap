@@ -1,0 +1,336 @@
+{
+  "edges": [
+    {
+      "fromNode": "08056aa3337df40a171c",
+      "fromSide": "right",
+      "id": "a852fa6cae9398d7922c",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1baa7e3127e28351ac44",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e536190b6b8aef0b61c9",
+      "fromSide": "right",
+      "id": "72f237ece8b08e741976",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0d39e9eec85089733a2b",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-032",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "6ca27da1c5ca42798bcb",
+      "text": "# 第九章 统计\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8d4dc211d4ac4ca1e3d5",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e536190b6b8aef0b61c9",
+      "mathmap_atom_id": "K8a0cc8bcb7d781",
+      "mathmap_file": "Mathmap/知识点/总体集中趋势的估计.md",
+      "text": "[总体集中趋势的估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%80%BB%E4%BD%93%E9%9B%86%E4%B8%AD%E8%B6%8B%E5%8A%BF%E7%9A%84%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "08056aa3337df40a171c",
+      "mathmap_atom_id": "K3751507565d8c8",
+      "mathmap_file": "Mathmap/知识点/简单随机抽样的概念与特征.md",
+      "text": "[简单随机抽样的概念与特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AE%80%E5%8D%95%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1baa7e3127e28351ac44",
+      "mathmap_atom_id": "K6b602de5d0fec5",
+      "mathmap_file": "Mathmap/知识点/分层随机抽样与总体均值估计.md",
+      "text": "[分层随机抽样与总体均值估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%B1%82%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E4%B8%8E%E6%80%BB%E4%BD%93%E5%9D%87%E5%80%BC%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0d39e9eec85089733a2b",
+      "mathmap_atom_id": "Kca839fe1f898f4",
+      "mathmap_file": "Mathmap/知识点/总体离散程度的估计.md",
+      "text": "[总体离散程度的估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%80%BB%E4%BD%93%E7%A6%BB%E6%95%A3%E7%A8%8B%E5%BA%A6%E7%9A%84%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fc358ba88c4ccf26f22b",
+      "mathmap_atom_id": "K1e7443d73da1ac",
+      "mathmap_file": "Mathmap/知识点/R软件中的统计量计算.md",
+      "text": "[R软件中的统计量计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/R%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%9A%84%E7%BB%9F%E8%AE%A1%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "502f987148fffa120dfb",
+      "mathmap_atom_id": "K46fd35e7b07b15",
+      "mathmap_file": "Mathmap/知识点/R软件生成随机数.md",
+      "text": "[R软件生成随机数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/R%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0927a5d436ed6247b9fc",
+      "mathmap_atom_id": "K7a95cd694959dd",
+      "mathmap_file": "Mathmap/知识点/抽签法.md",
+      "text": "[抽签法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%BD%E7%AD%BE%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "67d04fa03127c413a7f8",
+      "mathmap_atom_id": "K8c7a453b4830eb",
+      "mathmap_file": "Mathmap/知识点/用R软件sample函数进行随机抽样.md",
+      "text": "[用R软件sample函数进行随机抽样](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8R%E8%BD%AF%E4%BB%B6sample%E5%87%BD%E6%95%B0%E8%BF%9B%E8%A1%8C%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 740
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "94a365981b4fe2717b93",
+      "mathmap_atom_id": "K56cfdd4704268f",
+      "mathmap_file": "Mathmap/知识点/用R软件生成随机数.md",
+      "text": "[用R软件生成随机数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8R%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 740
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d8075ecea36aa2751917",
+      "mathmap_atom_id": "K5c1f3f6e9f7f23",
+      "mathmap_file": "Mathmap/知识点/用电子表格生成随机数.md",
+      "text": "[用电子表格生成随机数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 740
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8e60eddb66b728e77129",
+      "mathmap_atom_id": "Kbfc1bad2d3e178",
+      "mathmap_file": "Mathmap/知识点/用计算器生成随机数.md",
+      "text": "[用计算器生成随机数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E8%AE%A1%E7%AE%97%E5%99%A8%E7%94%9F%E6%88%90%E9%9A%8F%E6%9C%BA%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 960
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d4b50bed3f144733c5f0",
+      "mathmap_atom_id": "K03f341bdf412d9",
+      "mathmap_file": "Mathmap/知识点/电子表格中的统计量计算.md",
+      "text": "[电子表格中的统计量计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC%E4%B8%AD%E7%9A%84%E7%BB%9F%E8%AE%A1%E9%87%8F%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 960
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "16b3862646659747e48f",
+      "mathmap_atom_id": "Kcef4059fe5cc58",
+      "mathmap_file": "Mathmap/知识点/电子表格中的随机抽样.md",
+      "text": "[电子表格中的随机抽样](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC%E4%B8%AD%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 960
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4c867098f0ea12ee50ca",
+      "mathmap_atom_id": "K45d1ca2bac95c1",
+      "mathmap_file": "Mathmap/知识点/通过查询获得数据.md",
+      "text": "[通过查询获得数据](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%9A%E8%BF%87%E6%9F%A5%E8%AF%A2%E8%8E%B7%E5%BE%97%E6%95%B0%E6%8D%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1180
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b7421b16b36e9e1553c8",
+      "mathmap_atom_id": "Kb8101e99867ef1",
+      "mathmap_file": "Mathmap/知识点/通过试验获取数据.md",
+      "text": "[通过试验获取数据](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%9A%E8%BF%87%E8%AF%95%E9%AA%8C%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1180
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fca775aa34b9d3c7f177",
+      "mathmap_atom_id": "K7b5a62e2a87712",
+      "mathmap_file": "Mathmap/知识点/通过调查获取数据.md",
+      "text": "[通过调查获取数据](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%9A%E8%BF%87%E8%B0%83%E6%9F%A5%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1180
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c7e5cd5f53237c69ed2d",
+      "mathmap_atom_id": "K8e816a298886ff",
+      "mathmap_file": "Mathmap/知识点/阅读与思考 大数据.md",
+      "text": "[阅读与思考 大数据](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%A4%A7%E6%95%B0%E6%8D%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b0f25e8e768329fd75a6",
+      "mathmap_atom_id": "K93001a7ff9f917",
+      "mathmap_file": "Mathmap/知识点/随机数法.md",
+      "text": "[随机数法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9A%8F%E6%9C%BA%E6%95%B0%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c6f3390e1add04ef6789",
+      "mathmap_atom_id": "K958a958836530f",
+      "mathmap_file": "Mathmap/知识点/频率分布直方图的绘制方法.md",
+      "text": "[频率分布直方图的绘制方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A2%91%E7%8E%87%E5%88%86%E5%B8%83%E7%9B%B4%E6%96%B9%E5%9B%BE%E7%9A%84%E7%BB%98%E5%88%B6%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1400
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b3a995b2989c2ed20697",
+      "text": "[9.1 随机抽样](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/9.1%20%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7--5ecb5636.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1620
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "8b788658723407f9f605",
+      "text": "[阅读与思考 如何得到敏感性问题的诚实反应](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%A6%82%E4%BD%95%E5%BE%97%E5%88%B0%E6%95%8F%E6%84%9F%E6%80%A7%E9%97%AE%E9%A2%98%E7%9A%84%E8%AF%9A%E5%AE%9E%E5%8F%8D%E5%BA%94--d49d1dc1.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1620
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "28180e2c7aabbbd5adc3",
+      "text": "[信息技术应用 统计软件的应用](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%20%E7%BB%9F%E8%AE%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%BA%94%E7%94%A8--ee4decf2.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1620
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "4e9af35f0addc9ee7d98",
+      "text": "[9.2 用样本估计总体](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/9.2%20%E7%94%A8%E6%A0%B7%E6%9C%AC%E4%BC%B0%E8%AE%A1%E6%80%BB%E4%BD%93--984a5067.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1830
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "0cc16258f678259a24ad",
+      "text": "[阅读与思考 统计学在军事中的应用 ——二战时德国坦克总量的估计问题](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9C%A8%E5%86%9B%E4%BA%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%20%E2%80%94%E2%80%94%E4%BA%8C%E6%88%98%E6%97%B6%E5%BE%B7%E5%9B%BD%E5%9D%A6%E5%85%8B%E6%80%BB%E9%87%8F%E7%9A%84%E4%BC%B0%E8%AE%A1%E9%97%AE%E9%A2%98--19b25135.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1830
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "ddf852c9d48518081dd1",
+      "text": "[阅读与思考 大数据](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%A4%A7%E6%95%B0%E6%8D%AE--6d75bd32.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1830
+    }
+  ]
+}

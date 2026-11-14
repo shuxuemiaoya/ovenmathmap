@@ -1,0 +1,189 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-015",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8862c879873bb09320e8",
+      "text": "# 第二章 不等式与不等式组\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "caaffc2ac4b9c972221f",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e7965abc1b46ac187887",
+      "mathmap_atom_id": "K2595a724465c9b",
+      "mathmap_file": "Mathmap/知识点/一元一次不等式的概念.md",
+      "text": "[一元一次不等式的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b8bef15bf0d8568fb5ed",
+      "mathmap_atom_id": "Ke6ed3e0e992065",
+      "mathmap_file": "Mathmap/知识点/一元一次不等式组的实际应用示范.md",
+      "text": "[一元一次不等式组的实际应用示范](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E7%A4%BA%E8%8C%83.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5f505b7bba37248b190b",
+      "mathmap_atom_id": "K39241ca88b0daa",
+      "mathmap_file": "Mathmap/知识点/一元一次不等式组的概念.md",
+      "text": "[一元一次不等式组的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c5da199a6d8ea16000e0",
+      "mathmap_atom_id": "K92545f89c663e0",
+      "mathmap_file": "Mathmap/知识点/一元一次不等式组的解集与解不等式组.md",
+      "text": "[一元一次不等式组的解集与解不等式组](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84%E7%9A%84%E8%A7%A3%E9%9B%86%E4%B8%8E%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "edd7e3aaf110d38d9ee5",
+      "mathmap_atom_id": "Kdc42ef0da41291",
+      "mathmap_file": "Mathmap/知识点/一次函数、一元一次不等式与一元一次方程的内在联系.md",
+      "text": "[一次函数、一元一次不等式与一元一次方程的内在联系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E3%80%81%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%86%85%E5%9C%A8%E8%81%94%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a1735c062b525d130d9",
+      "mathmap_atom_id": "K0d19d444b91e53",
+      "mathmap_file": "Mathmap/知识点/不等式的三条基本性质.md",
+      "text": "[不等式的三条基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E4%B8%89%E6%9D%A1%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07f6efd6c95e2625a4d5",
+      "mathmap_atom_id": "Kd5d809a958a88c",
+      "mathmap_file": "Mathmap/知识点/不等式的定义.md",
+      "text": "[不等式的定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a9b16a7ed308ff3f4f2",
+      "mathmap_atom_id": "K18ee697ee53077",
+      "mathmap_file": "Mathmap/知识点/不等式的对称性与传递性.md",
+      "text": "[不等式的对称性与传递性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E4%BC%A0%E9%80%92%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "72d1c9422fc719ae561c",
+      "mathmap_atom_id": "Ka1ea80e7975ff5",
+      "mathmap_file": "Mathmap/知识点/不等式的解、解集与解不等式的概念.md",
+      "text": "[不等式的解、解集与解不等式的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A7%A3%E3%80%81%E8%A7%A3%E9%9B%86%E4%B8%8E%E8%A7%A3%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "93b367ae298f80b4b55f",
+      "mathmap_atom_id": "Ked3545caa78c98",
+      "mathmap_file": "Mathmap/知识点/用数轴表示不等式的解集.md",
+      "text": "[用数轴表示不等式的解集](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E6%95%B0%E8%BD%B4%E8%A1%A8%E7%A4%BA%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A7%A3%E9%9B%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 660
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "74ececdf8dd26218f483",
+      "text": "[1 不等式及其基本性质](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E4%B8%8D%E7%AD%89%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--5cfefcf7.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 880
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e5f65face8846d4de4c3",
+      "text": "[2 一元一次不等式](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F--b2c19dbf.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 880
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d3794fd35d42869f05c3",
+      "text": "[3 一元一次不等式与一次函数](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0--bd80c67d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 880
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "493a2e53f30ed6571963",
+      "text": "[4 一元一次不等式组](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/4%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%BB%84--6da8d542.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1090
+    }
+  ]
+}

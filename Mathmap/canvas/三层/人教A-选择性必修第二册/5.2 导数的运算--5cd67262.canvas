@@ -1,0 +1,129 @@
+{
+  "edges": [
+    {
+      "fromNode": "22b79899572f5e745838",
+      "fromSide": "right",
+      "id": "30eff4e6ffc8853b7403",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "e7cef3b89477e2a59bb6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22b79899572f5e745838",
+      "fromSide": "right",
+      "id": "1c7e33481b19e1f3e595",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "5558435b813edc23e58e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "22b79899572f5e745838",
+      "fromSide": "right",
+      "id": "b2a9234f91343566988e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "3bbbdb70ff8764628b6f",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-012",
+    "source_id": "rja-selective-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "e64d6faa8429bf9da85d",
+      "text": "# 5.2 导数的运算\n\n高中选择性必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd192a0da331c83a9e9a",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%BC%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--e51a80d4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "22b79899572f5e745838",
+      "mathmap_atom_id": "K0f7ac47d6a025b",
+      "mathmap_file": "Mathmap/知识点/基本初等函数的导数公式及推导.md",
+      "text": "[基本初等函数的导数公式及推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%BC%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3bbbdb70ff8764628b6f",
+      "mathmap_atom_id": "Ke93c0c204079d2",
+      "mathmap_file": "Mathmap/知识点/函数和与差的求导法则.md",
+      "text": "[函数和与差的求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5558435b813edc23e58e",
+      "mathmap_atom_id": "K7014b121f49147",
+      "mathmap_file": "Mathmap/知识点/函数积与商的求导法则.md",
+      "text": "[函数积与商的求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%A7%AF%E4%B8%8E%E5%95%86%E7%9A%84%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e7cef3b89477e2a59bb6",
+      "mathmap_atom_id": "K3bac05b7baa461",
+      "mathmap_file": "Mathmap/知识点/复合函数与链式求导法则.md",
+      "text": "[复合函数与链式求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0%E4%B8%8E%E9%93%BE%E5%BC%8F%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 600
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "62eec0df7ad3449a5ba6",
+      "mathmap_atom_id": "C26fb990767b811",
+      "mathmap_file": "Mathmap/概念或公式/函数和与差的求导法则.md",
+      "text": "[函数和与差的求导法则](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%87%BD%E6%95%B0%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "a0da8ba9a2cdc48c40a0",
+      "mathmap_atom_id": "C4e82e07358df68",
+      "mathmap_file": "Mathmap/概念或公式/基本初等函数的导数公式.md",
+      "text": "[基本初等函数的导数公式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0%E7%9A%84%E5%AF%BC%E6%95%B0%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 820
+    }
+  ]
+}

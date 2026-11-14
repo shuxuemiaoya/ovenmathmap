@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-019",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "dc1b78be8e3aeb42a7b0",
+      "text": "# 复习题\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "40879065651b4ad8bc37",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%AE%9E%E6%95%B0--41206a64.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b26e68c4cca553961091",
+      "mathmap_atom_id": "Ke1f5803f8b3fa3",
+      "mathmap_file": "Mathmap/知识点/对有理数概念扩充与实数系统再认识探究.md",
+      "text": "[对有理数概念扩充与实数系统再认识探究](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E6%9C%89%E7%90%86%E6%95%B0%E6%A6%82%E5%BF%B5%E6%89%A9%E5%85%85%E4%B8%8E%E5%AE%9E%E6%95%B0%E7%B3%BB%E7%BB%9F%E5%86%8D%E8%AE%A4%E8%AF%86%E6%8E%A2%E7%A9%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

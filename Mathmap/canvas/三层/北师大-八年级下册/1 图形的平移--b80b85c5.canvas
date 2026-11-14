@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-027",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d91faf63173f8353c1e6",
+      "text": "# 1 图形的平移\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd729c15d0d000a1db69",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC--dcb67386.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "72f1a022fda4289f7f45",
+      "mathmap_atom_id": "K0d8753b60a3e5c",
+      "mathmap_file": "Mathmap/知识点/平移的基本性质.md",
+      "text": "[平移的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E7%A7%BB%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1e8bc26a328b0a88cdbe",
+      "mathmap_atom_id": "K4bb6226d9c8992",
+      "mathmap_file": "Mathmap/知识点/平移的概念及对应元素.md",
+      "text": "[平移的概念及对应元素](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E7%A7%BB%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%AF%B9%E5%BA%94%E5%85%83%E7%B4%A0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

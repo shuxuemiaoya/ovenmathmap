@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "f8ddf7dde44946abd1b3",
+      "fromSide": "right",
+      "id": "1c9099c8164b5448b165",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "7e38c41a4644136cd110",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-041",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c34c7274eb0e0bb4c74c",
+      "text": "# 1 认识方程\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "88f8a6450367255f3985",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B--7d6c67fc.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f8ddf7dde44946abd1b3",
+      "mathmap_atom_id": "K3e0722fb504708",
+      "mathmap_file": "Mathmap/知识点/方程与一元一次方程的概念.md",
+      "text": "[方程与一元一次方程的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%B9%E7%A8%8B%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7e38c41a4644136cd110",
+      "mathmap_atom_id": "Kac9b682386582c",
+      "mathmap_file": "Mathmap/知识点/方程的解与解方程的概念.md",
+      "text": "[方程的解与解方程的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3%E4%B8%8E%E8%A7%A3%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}
