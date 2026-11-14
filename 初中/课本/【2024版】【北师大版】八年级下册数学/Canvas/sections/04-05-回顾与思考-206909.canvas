@@ -1,0 +1,73 @@
+{
+  "nodes": [
+    {
+      "id": "0d11f7e8ad41cf91",
+      "type": "group",
+      "label": "回顾与思考",
+      "x": 0,
+      "y": 0,
+      "width": 372,
+      "height": 374
+    },
+    {
+      "id": "a62599035b9e9ad4",
+      "type": "text",
+      "text": "[§ 回顾与思考](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)",
+      "x": 56,
+      "y": 252,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "48a8d1c4cd05e12e",
+      "type": "text",
+      "text": "[· 问题 · 第四章 回顾与思考问题](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83%E9%97%AE%E9%A2%98.md)",
+      "x": 56,
+      "y": 76,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "e1caa0ccb06ac061",
+      "type": "text",
+      "text": "# [回顾与思考](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "47f78913cab6b4c6",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3-643fe5.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "8950203600f89331",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "7e4a4a80e84bd368",
+      "fromNode": "48a8d1c4cd05e12e",
+      "toNode": "a62599035b9e9ad4",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

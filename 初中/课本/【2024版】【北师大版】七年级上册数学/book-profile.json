@@ -73,7 +73,8 @@
     "organizer_filename_policy": "clear-title",
     "concept_filename_policy": "preferred-label-collision-safe",
     "inject_concept_wikilinks": false,
-    "knowledge_filename_policy": "title-stable-number"
+    "knowledge_filename_policy": "title-stable-number",
+    "scenario_filename_policy": "title-sequence-category-code"
   },
   "markdown_beautification": {
     "enabled": true,

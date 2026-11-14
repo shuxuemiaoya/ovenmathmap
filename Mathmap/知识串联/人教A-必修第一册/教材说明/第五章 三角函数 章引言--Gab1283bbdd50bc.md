@@ -4,7 +4,7 @@ kind: "guide"
 title: "第五章 三角函数 章引言"
 source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
-source_files: ["原子层/情景引入/0029-S.md"]
+source_files: ["原子层/情景引入/从昼夜与潮汐的周期变化走向三角函数--0029-S.md"]
 source_node_keys: ["atom-29d7a28f9b4ced75"]
 ---
 

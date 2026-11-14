@@ -1,0 +1,73 @@
+{
+  "nodes": [
+    {
+      "id": "9e42565b41869375",
+      "type": "group",
+      "label": "神奇的加密术",
+      "x": 0,
+      "y": 0,
+      "width": 372,
+      "height": 374
+    },
+    {
+      "id": "3b1c371c055909ac",
+      "type": "text",
+      "text": "[§ 神奇的加密术](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF.md)",
+      "x": 56,
+      "y": 252,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "16a125fa762d30d0",
+      "type": "text",
+      "text": "[· 问题 · 综合与实践：神奇的加密术](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF.md)",
+      "x": 56,
+      "y": 76,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "00d891110c4f8cd8",
+      "type": "text",
+      "text": "# [神奇的加密术](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "1216ce733cdac6fb",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/08-%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-bf69b1.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "0681619269a1002b",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "5fc32df8fbe0ce41",
+      "fromNode": "16a125fa762d30d0",
+      "toNode": "3b1c371c055909ac",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

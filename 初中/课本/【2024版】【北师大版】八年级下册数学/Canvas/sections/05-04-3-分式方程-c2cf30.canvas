@@ -1,0 +1,382 @@
+{
+  "nodes": [
+    {
+      "id": "8774188445243f80",
+      "type": "group",
+      "label": "3 分式方程",
+      "x": 0,
+      "y": 0,
+      "width": 2236,
+      "height": 4470
+    },
+    {
+      "id": "c395301ceae586c1",
+      "type": "group",
+      "label": "分式方程的概念",
+      "x": 56,
+      "y": 3238,
+      "width": 1232,
+      "height": 566
+    },
+    {
+      "id": "af6624c9165e8b0d",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由京张高铁甲乙列车行驶时间差等量关系引出分式方程的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E4%BA%AC%E5%BC%A0%E9%AB%98%E9%93%81%E7%94%B2%E4%B9%99%E5%88%97%E8%BD%A6%E8%A1%8C%E9%A9%B6%E6%97%B6%E9%97%B4%E5%B7%AE%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB%E5%BC%95%E5%87%BA%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5--0025-S.md)",
+      "x": 112,
+      "y": 3492,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "2578f510f1f20d9c",
+      "type": "text",
+      "text": "[练习入口 · 分式方程的概念](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)\n\n共 1 题",
+      "x": 492,
+      "y": 3502,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "efb948e4a1399e99",
+      "type": "text",
+      "text": "[✦ 问题 · 人均捐款相等情境中的分式方程列写](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E4%BA%BA%E5%9D%87%E6%8D%90%E6%AC%BE%E7%9B%B8%E7%AD%89%E6%83%85%E5%A2%83%E4%B8%AD%E7%9A%84%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E5%88%97%E5%86%99.md)",
+      "x": 112,
+      "y": 3314,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1da3fb730aec0534",
+      "type": "text",
+      "text": "[✦ 问题 · 分式方程共同特征观察与交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81%E8%A7%82%E5%AF%9F%E4%B8%8E%E4%BA%A4%E6%B5%81.md)",
+      "x": 112,
+      "y": 3670,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "bbada53e9ee92bcb",
+      "type": "text",
+      "text": "[✦ 分式方程的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5--000065.md)",
+      "x": 532,
+      "y": 3314,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "e2232a423ce9dd42",
+      "type": "text",
+      "text": "[✦ 问题 · 分式方程求解思路探索](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E6%B1%82%E8%A7%A3%E6%80%9D%E8%B7%AF%E6%8E%A2%E7%B4%A2.md)",
+      "x": 952,
+      "y": 3314,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "6949a1c1c3ec5561",
+      "type": "group",
+      "label": "分式方程的解法与增根检验",
+      "x": 588,
+      "y": 4204,
+      "width": 1592,
+      "height": 210
+    },
+    {
+      "id": "f0181fa38f11de8b",
+      "type": "text",
+      "text": "[练习入口 · 分式方程的解法与增根检验](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3%E6%B3%95%E4%B8%8E%E5%A2%9E%E6%A0%B9%E6%A3%80%E9%AA%8C.md)\n\n共 1 题",
+      "x": 1864,
+      "y": 4280,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "127760ac85b71366",
+      "type": "text",
+      "text": "[✦ 问题 · 解分式方程中出现无意义根的辨析交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%A7%A3%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%97%A0%E6%84%8F%E4%B9%89%E6%A0%B9%E7%9A%84%E8%BE%A8%E6%9E%90%E4%BA%A4%E6%B5%81.md)",
+      "x": 644,
+      "y": 4280,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "8908b090c1751e85",
+      "type": "text",
+      "text": "[✦ 分式方程的增根概念、产生原因与检验方法](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%A2%9E%E6%A0%B9%E6%A6%82%E5%BF%B5%E3%80%81%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E4%B8%8E%E6%A3%80%E9%AA%8C%E6%96%B9%E6%B3%95--000066.md)",
+      "x": 1064,
+      "y": 4280,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "9d1fb93c9aeba556",
+      "type": "text",
+      "text": "[✦ 问题 · 解分式方程的一般步骤与注意事项总结](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%A7%A3%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4%E4%B8%8E%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E6%80%BB%E7%BB%93.md)",
+      "x": 1484,
+      "y": 4280,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1246aafea04bfbc2",
+      "type": "group",
+      "label": "分式方程的实际应用",
+      "x": 1448,
+      "y": 3212,
+      "width": 372,
+      "height": 832
+    },
+    {
+      "id": "34406f38422a918e",
+      "type": "text",
+      "text": "[· 问题 · 房屋租金增长问题中的等量关系与分式方程建模](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%88%BF%E5%B1%8B%E7%A7%9F%E9%87%91%E5%A2%9E%E9%95%BF%E9%97%AE%E9%A2%98%E4%B8%AD%E7%9A%84%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E5%BB%BA%E6%A8%A1.md)",
+      "x": 1504,
+      "y": 3288,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "cc4b92a438a7c13e",
+      "type": "text",
+      "text": "[§ 分式方程的实际应用](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.md)",
+      "x": 1504,
+      "y": 3464,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "d9e426de5748222a",
+      "type": "text",
+      "text": "[练习入口 · 分式方程的实际应用](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.md)\n\n共 2 题",
+      "x": 1504,
+      "y": 3690,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "1249e730268dedae",
+      "type": "text",
+      "text": "[· 方法例题 · 例2 列分式方程解师徒加工工艺品问题（含检验）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0045-W.md)",
+      "x": 1504,
+      "y": 3922,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "978faec83c553245",
+      "type": "group",
+      "label": "习题 5.3",
+      "x": 56,
+      "y": 3964,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "5ca1d057550c659e",
+      "type": "text",
+      "text": "[练习入口 · 习题 5.3](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E4%B9%A0%E9%A2%98%205.3.md)\n\n共 8 题",
+      "x": 112,
+      "y": 4040,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "1267837ca47d07ee",
+      "type": "text",
+      "text": "# [3 分式方程](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "7095d630b72ff9ec",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/05-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B-5f6ca6.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "ea847ec6ee12f7f6",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "89a86f59c87ec470",
+      "fromNode": "efb948e4a1399e99",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b2d8449bb3439fb2",
+      "fromNode": "bbada53e9ee92bcb",
+      "toNode": "8908b090c1751e85",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "53755d3ebff28bf0",
+      "fromNode": "1da3fb730aec0534",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ffbddd6f20da47c9",
+      "fromNode": "bbada53e9ee92bcb",
+      "toNode": "e2232a423ce9dd42",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a16fa2d28a7ff5e9",
+      "fromNode": "1249e730268dedae",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "46e4d1c8e37ddf25",
+      "fromNode": "af6624c9165e8b0d",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "195faf9d4f474630",
+      "fromNode": "127760ac85b71366",
+      "toNode": "8908b090c1751e85",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7e9c99c22e929f89",
+      "fromNode": "efb948e4a1399e99",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0b1af146af56da64",
+      "fromNode": "8908b090c1751e85",
+      "toNode": "9d1fb93c9aeba556",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "db78e0d825fa846f",
+      "fromNode": "bbada53e9ee92bcb",
+      "toNode": "2578f510f1f20d9c",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b895da17db20b681",
+      "fromNode": "bbada53e9ee92bcb",
+      "toNode": "f0181fa38f11de8b",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "763089f319f2af03",
+      "fromNode": "8908b090c1751e85",
+      "toNode": "d9e426de5748222a",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6cf215f6bed317cf",
+      "fromNode": "8908b090c1751e85",
+      "toNode": "5ca1d057550c659e",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 8题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7ba46c7529bc1f27",
+      "fromNode": "34406f38422a918e",
+      "toNode": "cc4b92a438a7c13e",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

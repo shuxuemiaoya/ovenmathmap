@@ -4,7 +4,7 @@ kind: "problem"
 title: "观察：类比实数加法的并集引入"
 source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
-source_files: ["原子层/情景引入/0006-S.md"]
+source_files: ["原子层/情景引入/从两组元素的合并认识并集--0006-S.md"]
 source_node_keys: ["atom-838c19977810d52b"]
 ---
 

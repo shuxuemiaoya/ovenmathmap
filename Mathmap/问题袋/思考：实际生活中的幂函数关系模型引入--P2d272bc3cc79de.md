@@ -4,7 +4,7 @@ kind: "problem"
 title: "思考：实际生活中的幂函数关系模型引入"
 source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
-source_files: ["原子层/情景引入/0018-S.md"]
+source_files: ["原子层/情景引入/从蔬菜价格与正方形面积认识幂函数--0018-S.md"]
 source_node_keys: ["atom-72140afac4b83f9a"]
 ---
 

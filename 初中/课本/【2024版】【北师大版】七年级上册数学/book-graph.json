@@ -47,7 +47,145 @@
         "round": 2
       }
     },
-    "unresolved_count": 0
+    "unresolved_count": 0,
+    "title_overrides": {
+      "job-0001-f23708ba-a01": {
+        "from": "致同学：走进数学新天地",
+        "to": "从图形代数与统计现象开启初中数学学习路径"
+      },
+      "job-0002-b43faa1a-a01": {
+        "from": "第一章 丰富的图形世界章导语",
+        "to": "从现实世界图形观察到几何体展开切截与视图的研究路径"
+      },
+      "job-0003-436db3bd-a01": {
+        "from": "情境引入：小颖书房中的常见几何体识别",
+        "to": "从小颖书房实物与笔筒形状认识常见几何体与棱柱"
+      },
+      "job-0004-dace1d50-a03": {
+        "from": "观察·交流：生活物体运动轨迹探究",
+        "to": "从流星雨刮器与直角三角形运动轨迹认识点线面体的关系"
+      },
+      "job-0006-ba355e96-a01": {
+        "from": "情境引入：正方体的表面展开图探究",
+        "to": "沿棱剪开正方体探究正方体的表面展开图"
+      },
+      "job-0006-ba355e96-a06": {
+        "from": "操作探究：棱柱的表面展开图",
+        "to": "沿棱剪开棱柱探究棱柱的表面展开图"
+      },
+      "job-0006-ba355e96-a09": {
+        "from": "操作·思考：无底面圆柱与圆锥的侧面展开探究",
+        "to": "展开无底面圆柱与圆锥侧面探究曲面几何体侧面展开图"
+      },
+      "job-0012-b0c2cec2-a01": {
+        "from": "第二章 有理数及其运算章导语",
+        "to": "从珠峰与吐鲁番海拔高差走向有理数及其运算的研究路径"
+      },
+      "job-0013-2ed60816-a01": {
+        "from": "情境引入：知识竞赛得分与正负号表示",
+        "to": "从知识竞赛加扣分表格认识正负数与相反意义的量"
+      },
+      "job-0015-4e22239f-a01": {
+        "from": "情境引入：温度计刻度与直线表示有理数",
+        "to": "从温度计刻度特点认识数轴并用直线上的点表示有理数"
+      },
+      "job-0017-206716dc-a01": {
+        "from": "情境引入：知识竞赛得分与⊕⊖抵消模型探索有理数加法",
+        "to": "从知识竞赛两环节得分与正负抵消模型探索有理数加法法则"
+      },
+      "job-0019-d8bc7dbe-a01": {
+        "from": "情境引入：城市日温差计算与减法逆运算意义",
+        "to": "从北京最高最低气温求日温差认识有理数减法法则"
+      },
+      "job-0022-0eeec742-a01": {
+        "from": "情境引入：甲、乙水库水位变化引入有理数乘法",
+        "to": "从甲乙水库水位升降变化量探索有理数乘法法则"
+      },
+      "job-0024-13e5711a-a01": {
+        "from": "情境引入：利用乘法逆运算探索有理数除法",
+        "to": "由负数乘法算式逆运算探究有理数除法法则"
+      },
+      "job-0026-4f57d4f1-a01": {
+        "from": "情境引入：细胞分裂次数与相同因数连乘表示",
+        "to": "从细胞分裂个数连乘算式认识有理数的乘方"
+      },
+      "job-0029-5f57b07c-a01": {
+        "from": "情境引入：有理数混合运算的顺序问题",
+        "to": "从四则混合运算推广探究有理数混合运算顺序"
+      },
+      "job-0034-ef285a11-a01": {
+        "from": "第三章 整式及其加减章导语",
+        "to": "从自然数猜数游戏走向代数式与整式加减的研究路径"
+      },
+      "job-0035-a3c374c6-a01": {
+        "from": "情境引入：用小棒拼摆正方形探索字母表示规律",
+        "to": "从用小棒拼摆正方形个数规律认识字母表示数与代数式"
+      },
+      "job-0037-ca124068-a01": {
+        "from": "情境引入：组合柜的装饰条长度、喷漆面积与容积问题",
+        "to": "从组合柜装饰条长度喷漆面积与容积认识单项式多项式与整式"
+      },
+      "job-0039-c5ad2506-a01": {
+        "from": "情境引入：用两个小长方形面积和直观化简8n+5n",
+        "to": "从拼接长方形面积化简与乘法分配律认识同类项及合并同类项"
+      },
+      "job-0041-df953549-a01": {
+        "from": "情境引入：两位数数位交换求和规律探究",
+        "to": "从两位数交换十位个位求和规律探究整式的加减运算"
+      },
+      "job-0049-17516da0-a01": {
+        "from": "第四章 基本平面图形章导语",
+        "to": "从现实世界平面图形抽象走向线段角多边形与圆的研究路径"
+      },
+      "job-0053-3e8afc71-a01": {
+        "from": "情境引入：小学角的回忆与生活实物中的角识别",
+        "to": "从生活实物寻角与小学认知回顾认识角的概念与表示"
+      },
+      "job-0054-a3448e7c-a01": {
+        "from": "情境引入：类比线段长短比较探究角的大小比较",
+        "to": "类比线段长短比较探究角的大小比较方法"
+      },
+      "job-0055-0954adf1-a01": {
+        "from": "情境引入：用尺规将已知角移动到指定位置",
+        "to": "从移动角使边重合问题探究用尺规作一个角等于已知角"
+      },
+      "job-0057-7628aab6-a01": {
+        "from": "情境引入：生活中的多边形识别",
+        "to": "从生活中的平面图形识别引出多边形与圆的初步认识"
+      },
+      "job-0062-a12faa5a-a01": {
+        "from": "第五章 一元一次方程章导语",
+        "to": "从九章算术盈不足问题走向一元一次方程建模与求解路径"
+      },
+      "job-0063-d7ecfe74-a01": {
+        "from": "情境引入：班级秋游门票问题中的等量关系",
+        "to": "从班级秋游师生门票总价问题寻找等量关系认识方程"
+      },
+      "job-0067-7e0f773f-a01": {
+        "from": "情境引入：超市购物问题列含括号的一元一次方程",
+        "to": "从小颖超市买牛奶与矿泉水找零问题探究去括号解一元一次方程"
+      },
+      "job-0077-572cde51-a01": {
+        "from": "第六章 数据的收集与整理章导语",
+        "to": "从大数据时代统计图表走向数据收集整理与决策的研究路径"
+      },
+      "job-0078-1893483b-a01": {
+        "from": "情境引入：生活中的常见数据与信息价值",
+        "to": "从计步器天气预报与导航数据认识身边的数据与信息价值"
+      },
+      "job-0080-5da9f6b9-a01": {
+        "from": "情境引入：体育活动调查问卷与条形图解读",
+        "to": "从全班体育活动问卷调查与条形图认识数据收集的方式"
+      },
+      "job-0081-368dfa8e-a01": {
+        "from": "情境引入：老年人健康状况的不同抽样方案对比",
+        "to": "从公园医院与户籍网调查老年人健康状况对比认识抽样调查代表性"
+      },
+      "job-0083-8991ef6d-a01": {
+        "from": "情境引入：学校阅读周图书喜好调查与扇形统计图",
+        "to": "从学校阅读周图书喜好问卷数据引出扇形统计图的绘制与百分比计算"
+      }
+    }
   },
   "excluded_ranges": [
     {
@@ -2386,12 +2524,12 @@
     },
     {
       "key": "atom-b000e6ab4c83c00b",
-      "title": "致同学：走进数学新天地",
+      "title": "从图形代数与统计现象开启初中数学学习路径",
       "layer": "atom",
       "parent_key": "book-root",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0001-S.md",
+      "filename": "原子层/情景引入/从图形代数与统计现象开启初中数学学习路径--0001-S.md",
       "source_range": [
         23,
         37
@@ -2401,12 +2539,12 @@
     },
     {
       "key": "atom-980fc59d9862484c",
-      "title": "第一章 丰富的图形世界章导语",
+      "title": "从现实世界图形观察到几何体展开切截与视图的研究路径",
       "layer": "atom",
       "parent_key": "node-toc-001",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0002-S.md",
+      "filename": "原子层/情景引入/从现实世界图形观察到几何体展开切截与视图的研究路径--0002-S.md",
       "source_range": [
         119,
         137
@@ -2416,12 +2554,12 @@
     },
     {
       "key": "atom-f256abcc2660c3c6",
-      "title": "情境引入：小颖书房中的常见几何体识别",
+      "title": "从小颖书房实物与笔筒形状认识常见几何体与棱柱",
       "layer": "atom",
       "parent_key": "topic-1-1-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0003-S.md",
+      "filename": "原子层/情景引入/从小颖书房实物与笔筒形状认识常见几何体与棱柱--0003-S.md",
       "source_range": [
         139,
         153
@@ -2609,12 +2747,12 @@
     },
     {
       "key": "atom-dfeae85c72ace2db",
-      "title": "观察·交流：生活物体运动轨迹探究",
+      "title": "从流星雨刮器与直角三角形运动轨迹认识点线面体的关系",
       "layer": "atom",
       "parent_key": "topic-1-1-2",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0004-S.md",
+      "filename": "原子层/情景引入/从流星雨刮器与直角三角形运动轨迹认识点线面体的关系--0004-S.md",
       "source_range": [
         269,
         279
@@ -2809,12 +2947,12 @@
     },
     {
       "key": "atom-d943e0796a54574a",
-      "title": "情境引入：正方体的表面展开图探究",
+      "title": "沿棱剪开正方体探究正方体的表面展开图",
       "layer": "atom",
       "parent_key": "topic-1-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0005-S.md",
+      "filename": "原子层/情景引入/沿棱剪开正方体探究正方体的表面展开图--0005-S.md",
       "source_range": [
         411,
         422
@@ -2882,12 +3020,12 @@
     },
     {
       "key": "atom-3c5456ccc332dae6",
-      "title": "操作探究：棱柱的表面展开图",
+      "title": "沿棱剪开棱柱探究棱柱的表面展开图",
       "layer": "atom",
       "parent_key": "topic-1-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0006-S.md",
+      "filename": "原子层/情景引入/沿棱剪开棱柱探究棱柱的表面展开图--0006-S.md",
       "source_range": [
         464,
         475
@@ -2927,12 +3065,12 @@
     },
     {
       "key": "atom-b5c641d0e57979a7",
-      "title": "操作·思考：无底面圆柱与圆锥的侧面展开探究",
+      "title": "展开无底面圆柱与圆锥侧面探究曲面几何体侧面展开图",
       "layer": "atom",
       "parent_key": "topic-1-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0007-S.md",
+      "filename": "原子层/情景引入/展开无底面圆柱与圆锥侧面探究曲面几何体侧面展开图--0007-S.md",
       "source_range": [
         501,
         509
@@ -3585,12 +3723,12 @@
     },
     {
       "key": "atom-948b1ccdfb3675c4",
-      "title": "第二章 有理数及其运算章导语",
+      "title": "从珠峰与吐鲁番海拔高差走向有理数及其运算的研究路径",
       "layer": "atom",
       "parent_key": "node-toc-008",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0008-S.md",
+      "filename": "原子层/情景引入/从珠峰与吐鲁番海拔高差走向有理数及其运算的研究路径--0008-S.md",
       "source_range": [
         923,
         945
@@ -3600,12 +3738,12 @@
     },
     {
       "key": "atom-a5646c32b2b70b4b",
-      "title": "情境引入：知识竞赛得分与正负号表示",
+      "title": "从知识竞赛加扣分表格认识正负数与相反意义的量",
       "layer": "atom",
       "parent_key": "topic-2-1-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0009-S.md",
+      "filename": "原子层/情景引入/从知识竞赛加扣分表格认识正负数与相反意义的量--0009-S.md",
       "source_range": [
         947,
         969
@@ -3953,12 +4091,12 @@
     },
     {
       "key": "atom-791143db25ec974d",
-      "title": "情境引入：温度计刻度与直线表示有理数",
+      "title": "从温度计刻度特点认识数轴并用直线上的点表示有理数",
       "layer": "atom",
       "parent_key": "topic-2-1-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0010-S.md",
+      "filename": "原子层/情景引入/从温度计刻度特点认识数轴并用直线上的点表示有理数--0010-S.md",
       "source_range": [
         1129,
         1134
@@ -4411,12 +4549,12 @@
     },
     {
       "key": "atom-7c0e79fa92cd334e",
-      "title": "情境引入：知识竞赛得分与⊕⊖抵消模型探索有理数加法",
+      "title": "从知识竞赛两环节得分与正负抵消模型探索有理数加法法则",
       "layer": "atom",
       "parent_key": "topic-2-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0011-S.md",
+      "filename": "原子层/情景引入/从知识竞赛两环节得分与正负抵消模型探索有理数加法法则--0011-S.md",
       "source_range": [
         1305,
         1337
@@ -4618,12 +4756,12 @@
     },
     {
       "key": "atom-8f2c01cb4481096d",
-      "title": "情境引入：城市日温差计算与减法逆运算意义",
+      "title": "从北京最高最低气温求日温差认识有理数减法法则",
       "layer": "atom",
       "parent_key": "topic-2-2-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0012-S.md",
+      "filename": "原子层/情景引入/从北京最高最低气温求日温差认识有理数减法法则--0012-S.md",
       "source_range": [
         1453,
         1468
@@ -5175,12 +5313,12 @@
     },
     {
       "key": "atom-2a12a5ddf33aa0d1",
-      "title": "情境引入：甲、乙水库水位变化引入有理数乘法",
+      "title": "从甲乙水库水位升降变化量探索有理数乘法法则",
       "layer": "atom",
       "parent_key": "topic-2-3-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0013-S.md",
+      "filename": "原子层/情景引入/从甲乙水库水位升降变化量探索有理数乘法法则--0013-S.md",
       "source_range": [
         1828,
         1842
@@ -5456,12 +5594,12 @@
     },
     {
       "key": "atom-5541105a8ef846ff",
-      "title": "情境引入：利用乘法逆运算探索有理数除法",
+      "title": "由负数乘法算式逆运算探究有理数除法法则",
       "layer": "atom",
       "parent_key": "topic-2-3-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0014-S.md",
+      "filename": "原子层/情景引入/由负数乘法算式逆运算探究有理数除法法则--0014-S.md",
       "source_range": [
         2004,
         2013
@@ -5787,12 +5925,12 @@
     },
     {
       "key": "atom-a2fcdb25e32c6229",
-      "title": "情境引入：细胞分裂次数与相同因数连乘表示",
+      "title": "从细胞分裂个数连乘算式认识有理数的乘方",
       "layer": "atom",
       "parent_key": "topic-2-4-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0015-S.md",
+      "filename": "原子层/情景引入/从细胞分裂个数连乘算式认识有理数的乘方--0015-S.md",
       "source_range": [
         2232,
         2251
@@ -6175,12 +6313,12 @@
     },
     {
       "key": "atom-d755a94953c61ef3",
-      "title": "情境引入：有理数混合运算的顺序问题",
+      "title": "从四则混合运算推广探究有理数混合运算顺序",
       "layer": "atom",
       "parent_key": "topic-2-5-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0016-S.md",
+      "filename": "原子层/情景引入/从四则混合运算推广探究有理数混合运算顺序--0016-S.md",
       "source_range": [
         2423,
         2425
@@ -6926,12 +7064,12 @@
     },
     {
       "key": "atom-e0584f397e8b8843",
-      "title": "第三章 整式及其加减章导语",
+      "title": "从自然数猜数游戏走向代数式与整式加减的研究路径",
       "layer": "atom",
       "parent_key": "node-toc-021",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0017-S.md",
+      "filename": "原子层/情景引入/从自然数猜数游戏走向代数式与整式加减的研究路径--0017-S.md",
       "source_range": [
         2859,
         2877
@@ -6941,12 +7079,12 @@
     },
     {
       "key": "atom-4d9e33bdf832deb3",
-      "title": "情境引入：用小棒拼摆正方形探索字母表示规律",
+      "title": "从用小棒拼摆正方形个数规律认识字母表示数与代数式",
       "layer": "atom",
       "parent_key": "topic-3-1-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0018-S.md",
+      "filename": "原子层/情景引入/从用小棒拼摆正方形个数规律认识字母表示数与代数式--0018-S.md",
       "source_range": [
         2879,
         2896
@@ -7146,12 +7284,12 @@
     },
     {
       "key": "atom-68f1fea71e5014f6",
-      "title": "情境引入：组合柜的装饰条长度、喷漆面积与容积问题",
+      "title": "从组合柜装饰条长度喷漆面积与容积认识单项式多项式与整式",
       "layer": "atom",
       "parent_key": "topic-3-1-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0019-S.md",
+      "filename": "原子层/情景引入/从组合柜装饰条长度喷漆面积与容积认识单项式多项式与整式--0019-S.md",
       "source_range": [
         3001,
         3014
@@ -7486,12 +7624,12 @@
     },
     {
       "key": "atom-8083af295634c4f9",
-      "title": "情境引入：用两个小长方形面积和直观化简8n+5n",
+      "title": "从拼接长方形面积化简与乘法分配律认识同类项及合并同类项",
       "layer": "atom",
       "parent_key": "topic-3-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0020-S.md",
+      "filename": "原子层/情景引入/从拼接长方形面积化简与乘法分配律认识同类项及合并同类项--0020-S.md",
       "source_range": [
         3218,
         3227
@@ -7764,12 +7902,12 @@
     },
     {
       "key": "atom-b2f295802b8bf01c",
-      "title": "情境引入：两位数数位交换求和规律探究",
+      "title": "从两位数交换十位个位求和规律探究整式的加减运算",
       "layer": "atom",
       "parent_key": "topic-3-2-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0021-S.md",
+      "filename": "原子层/情景引入/从两位数交换十位个位求和规律探究整式的加减运算--0021-S.md",
       "source_range": [
         3362,
         3379
@@ -8765,12 +8903,12 @@
     },
     {
       "key": "atom-e240f60a04b75ec4",
-      "title": "第四章 基本平面图形章导语",
+      "title": "从现实世界平面图形抽象走向线段角多边形与圆的研究路径",
       "layer": "atom",
       "parent_key": "node-toc-031",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0022-S.md",
+      "filename": "原子层/情景引入/从现实世界平面图形抽象走向线段角多边形与圆的研究路径--0022-S.md",
       "source_range": [
         3965,
         3983
@@ -9307,12 +9445,12 @@
     },
     {
       "key": "atom-3e31cbb2bcbc7484",
-      "title": "情境引入：小学角的回忆与生活实物中的角识别",
+      "title": "从生活实物寻角与小学认知回顾认识角的概念与表示",
       "layer": "atom",
       "parent_key": "topic-4-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0023-S.md",
+      "filename": "原子层/情景引入/从生活实物寻角与小学认知回顾认识角的概念与表示--0023-S.md",
       "source_range": [
         4268,
         4277
@@ -9454,12 +9592,12 @@
     },
     {
       "key": "atom-f3a8fd1c56961524",
-      "title": "情境引入：类比线段长短比较探究角的大小比较",
+      "title": "类比线段长短比较探究角的大小比较方法",
       "layer": "atom",
       "parent_key": "topic-4-2-2",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0024-S.md",
+      "filename": "原子层/情景引入/类比线段长短比较探究角的大小比较方法--0024-S.md",
       "source_range": [
         4369,
         4386
@@ -9602,12 +9740,12 @@
     },
     {
       "key": "atom-f7aaa1bc86b8c8cd",
-      "title": "情境引入：用尺规将已知角移动到指定位置",
+      "title": "从移动角使边重合问题探究用尺规作一个角等于已知角",
       "layer": "atom",
       "parent_key": "topic-4-2-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0025-S.md",
+      "filename": "原子层/情景引入/从移动角使边重合问题探究用尺规作一个角等于已知角--0025-S.md",
       "source_range": [
         4460,
         4472
@@ -9814,12 +9952,12 @@
     },
     {
       "key": "atom-ed739aadb25619f6",
-      "title": "情境引入：生活中的多边形识别",
+      "title": "从生活中的平面图形识别引出多边形与圆的初步认识",
       "layer": "atom",
       "parent_key": "topic-4-3-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0026-S.md",
+      "filename": "原子层/情景引入/从生活中的平面图形识别引出多边形与圆的初步认识--0026-S.md",
       "source_range": [
         4610,
         4619
@@ -10232,12 +10370,12 @@
     },
     {
       "key": "atom-e000650813064dca",
-      "title": "第五章 一元一次方程章导语",
+      "title": "从九章算术盈不足问题走向一元一次方程建模与求解路径",
       "layer": "atom",
       "parent_key": "node-toc-040",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0027-S.md",
+      "filename": "原子层/情景引入/从九章算术盈不足问题走向一元一次方程建模与求解路径--0027-S.md",
       "source_range": [
         4821,
         4843
@@ -10247,12 +10385,12 @@
     },
     {
       "key": "atom-28472efe3f333fb2",
-      "title": "情境引入：班级秋游门票问题中的等量关系",
+      "title": "从班级秋游师生门票总价问题寻找等量关系认识方程",
       "layer": "atom",
       "parent_key": "node-toc-041",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0028-S.md",
+      "filename": "原子层/情景引入/从班级秋游师生门票总价问题寻找等量关系认识方程--0028-S.md",
       "source_range": [
         4845,
         4853
@@ -10685,12 +10823,12 @@
     },
     {
       "key": "atom-b823928368f52547",
-      "title": "情境引入：超市购物问题列含括号的一元一次方程",
+      "title": "从小颖超市买牛奶与矿泉水找零问题探究去括号解一元一次方程",
       "layer": "atom",
       "parent_key": "topic-5-2-3",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0029-S.md",
+      "filename": "原子层/情景引入/从小颖超市买牛奶与矿泉水找零问题探究去括号解一元一次方程--0029-S.md",
       "source_range": [
         5172,
         5181
@@ -11948,12 +12086,12 @@
     },
     {
       "key": "atom-a488a2d3e811151b",
-      "title": "第六章 数据的收集与整理章导语",
+      "title": "从大数据时代统计图表走向数据收集整理与决策的研究路径",
       "layer": "atom",
       "parent_key": "node-toc-050",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0030-S.md",
+      "filename": "原子层/情景引入/从大数据时代统计图表走向数据收集整理与决策的研究路径--0030-S.md",
       "source_range": [
         5936,
         5958
@@ -11963,12 +12101,12 @@
     },
     {
       "key": "atom-1940b85617b59349",
-      "title": "情境引入：生活中的常见数据与信息价值",
+      "title": "从计步器天气预报与导航数据认识身边的数据与信息价值",
       "layer": "atom",
       "parent_key": "node-toc-051",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0031-S.md",
+      "filename": "原子层/情景引入/从计步器天气预报与导航数据认识身边的数据与信息价值--0031-S.md",
       "source_range": [
         5960,
         5964
@@ -12110,12 +12248,12 @@
     },
     {
       "key": "atom-a39e85a42eaa4b80",
-      "title": "情境引入：体育活动调查问卷与条形图解读",
+      "title": "从全班体育活动问卷调查与条形图认识数据收集的方式",
       "layer": "atom",
       "parent_key": "topic-6-2-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0032-S.md",
+      "filename": "原子层/情景引入/从全班体育活动问卷调查与条形图认识数据收集的方式--0032-S.md",
       "source_range": [
         6036,
         6077
@@ -12288,12 +12426,12 @@
     },
     {
       "key": "atom-7db9441d37355eec",
-      "title": "情境引入：老年人健康状况的不同抽样方案对比",
+      "title": "从公园医院与户籍网调查老年人健康状况对比认识抽样调查代表性",
       "layer": "atom",
       "parent_key": "topic-6-2-2",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0033-S.md",
+      "filename": "原子层/情景引入/从公园医院与户籍网调查老年人健康状况对比认识抽样调查代表性--0033-S.md",
       "source_range": [
         6135,
         6162
@@ -12618,12 +12756,12 @@
     },
     {
       "key": "atom-3503cf731c3a3c69",
-      "title": "情境引入：学校阅读周图书喜好调查与扇形统计图",
+      "title": "从学校阅读周图书喜好问卷数据引出扇形统计图的绘制与百分比计算",
       "layer": "atom",
       "parent_key": "topic-6-3-1",
       "category": "scenario",
       "coverage_role": "primary",
-      "filename": "原子层/情景引入/0034-S.md",
+      "filename": "原子层/情景引入/从学校阅读周图书喜好问卷数据引出扇形统计图的绘制与百分比计算--0034-S.md",
       "source_range": [
         6275,
         6297

@@ -1,0 +1,543 @@
+{
+  "nodes": [
+    {
+      "id": "bc471949795486ab",
+      "type": "group",
+      "label": "2 平行四边形的判定",
+      "x": 0,
+      "y": 0,
+      "width": 4240,
+      "height": 856
+    },
+    {
+      "id": "8b9feb1e9fe7c150",
+      "type": "group",
+      "label": "平行四边形的边判定定理",
+      "x": 56,
+      "y": 252,
+      "width": 1232,
+      "height": 392
+    },
+    {
+      "id": "51b0d39a1b180df2",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由已知邻边与夹角画平行四边形的不同画法引出平行四边形的判定定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E5%B7%B2%E7%9F%A5%E9%82%BB%E8%BE%B9%E4%B8%8E%E5%A4%B9%E8%A7%92%E7%94%BB%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E4%B8%8D%E5%90%8C%E7%94%BB%E6%B3%95%E5%BC%95%E5%87%BA%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86--0028-S.md)",
+      "x": 112,
+      "y": 506,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "f764d579e320fe98",
+      "type": "text",
+      "text": "[练习入口 · 平行四边形的边判定定理](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E8%BE%B9%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86.md)\n\n共 2 题",
+      "x": 492,
+      "y": 516,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "5f87e47c883da3a6",
+      "type": "text",
+      "text": "[✦ 问题 · 平行四边形边判定条件的探索思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E8%BE%B9%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E7%9A%84%E6%8E%A2%E7%B4%A2%E6%80%9D%E8%80%83.md)",
+      "x": 112,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "617f1b6ca0ec4afb",
+      "type": "text",
+      "text": "[✦ 平行四边形判定定理：两组对边分别相等](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86-%E4%B8%A4%E7%BB%84%E5%AF%B9%E8%BE%B9%E5%88%86%E5%88%AB%E7%9B%B8%E7%AD%89--000072.md)",
+      "x": 532,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "6916961e5944c981",
+      "type": "text",
+      "text": "[✦ 平行四边形判定定理：一组对边平行且相等](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86-%E4%B8%80%E7%BB%84%E5%AF%B9%E8%BE%B9%E5%B9%B3%E8%A1%8C%E4%B8%94%E7%9B%B8%E7%AD%89--000073.md)",
+      "x": 952,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "b517e356ad0a7a9a",
+      "type": "group",
+      "label": "平行四边形的对角线判定定理",
+      "x": 1448,
+      "y": 252,
+      "width": 812,
+      "height": 542
+    },
+    {
+      "id": "efe185fd3d27b27e",
+      "type": "text",
+      "text": "[✦ 平行四边形判定定理：对角线互相平分](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86-%E5%AF%B9%E8%A7%92%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%B9%B3%E5%88%86--000074.md)",
+      "x": 1504,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "0680b75fea1beb43",
+      "type": "text",
+      "text": "[§ 平行四边形的对角线判定定理](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%AF%B9%E8%A7%92%E7%BA%BF%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86.md)",
+      "x": 1864,
+      "y": 672,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "85639ae0cedca8e0",
+      "type": "text",
+      "text": "[练习入口 · 平行四边形的对角线判定定理](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%AF%B9%E8%A7%92%E7%BA%BF%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86.md)\n\n共 1 题",
+      "x": 1504,
+      "y": 516,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "06b30cebc6993f4a",
+      "type": "text",
+      "text": "[✦ 问题 · 平行四边形性质定理与判定定理的关系对比](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E4%B8%8E%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%E7%9A%84%E5%85%B3%E7%B3%BB%E5%AF%B9%E6%AF%94.md)",
+      "x": 1924,
+      "y": 494,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "6aae7d98e409be6b",
+      "type": "text",
+      "text": "[· 问题 · 平行四边形性质与判定证明思路经验回顾](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E6%80%A7%E8%B4%A8%E4%B8%8E%E5%88%A4%E5%AE%9A%E8%AF%81%E6%98%8E%E6%80%9D%E8%B7%AF%E7%BB%8F%E9%AA%8C%E5%9B%9E%E9%A1%BE.md)",
+      "x": 1884,
+      "y": 328,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "3ff6c0273557ae9e",
+      "type": "group",
+      "label": "平行线间的距离与判定综合应用",
+      "x": 2420,
+      "y": 76,
+      "width": 1232,
+      "height": 720
+    },
+    {
+      "id": "dc8bb9d518b14c54",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由笔直铁轨间平行枕木等长现象引出两条平行线之间的距离](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E7%AC%94%E7%9B%B4%E9%93%81%E8%BD%A8%E9%97%B4%E5%B9%B3%E8%A1%8C%E6%9E%95%E6%9C%A8%E7%AD%89%E9%95%BF%E7%8E%B0%E8%B1%A1%E5%BC%95%E5%87%BA%E4%B8%A4%E6%9D%A1%E5%B9%B3%E8%A1%8C%E7%BA%BF%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB--0029-S.md)",
+      "x": 2476,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "0c8cf2e2c0e9b6fa",
+      "type": "text",
+      "text": "[练习入口 · 平行线间的距离与判定综合应用](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E4%B8%8E%E5%88%A4%E5%AE%9A%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)\n\n共 1 题",
+      "x": 2476,
+      "y": 516,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "111b96b017950a29",
+      "type": "text",
+      "text": "[· 方法例题 · 例3 证明夹在两条平行线间的垂线段相等](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0050-W.md)",
+      "x": 2856,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "227943f76daa3bb0",
+      "type": "text",
+      "text": "[✦ 平行线之间的距离的概念与性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8--000075.md)",
+      "x": 2896,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "0a0c131f6d418f5c",
+      "type": "text",
+      "text": "[✦ 问题 · 夹在两条平行线间的平行线段相等性思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%A4%B9%E5%9C%A8%E4%B8%A4%E6%9D%A1%E5%B9%B3%E8%A1%8C%E7%BA%BF%E9%97%B4%E7%9A%84%E5%B9%B3%E8%A1%8C%E7%BA%BF%E6%AE%B5%E7%9B%B8%E7%AD%89%E6%80%A7%E6%80%9D%E8%80%83.md)",
+      "x": 3316,
+      "y": 318,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "7f08a53a5d46ff50",
+      "type": "text",
+      "text": "[✦ 问题 · 利用方格纸格点画平行四边形的验证交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%A9%E7%94%A8%E6%96%B9%E6%A0%BC%E7%BA%B8%E6%A0%BC%E7%82%B9%E7%94%BB%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E9%AA%8C%E8%AF%81%E4%BA%A4%E6%B5%81.md)",
+      "x": 3316,
+      "y": 662,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "0f724ebe10c3e951",
+      "type": "text",
+      "text": "[· 方法例题 · 例4 综合运用平行四边形性质与判定证明四边形MENF为平行四边形](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0051-W.md)",
+      "x": 3206,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "a6cbbadff18a47a7",
+      "type": "text",
+      "text": "[✦ 平行四边形连杆机构原理与应用](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8--000076.md)",
+      "x": 3316,
+      "y": 496,
+      "width": 250,
+      "height": 66,
+      "color": "2"
+    },
+    {
+      "id": "543a89213c5d9c1d",
+      "type": "group",
+      "label": "习题 6.2",
+      "x": 3812,
+      "y": 596,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "57a7952604ccb0bb",
+      "type": "text",
+      "text": "[练习入口 · 习题 6.2](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A/%E4%B9%A0%E9%A2%98%206.2.md)\n\n共 15 题",
+      "x": 3868,
+      "y": 672,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "be0dc91a8e3ce40c",
+      "type": "text",
+      "text": "# [2 平行四边形的判定](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2/2%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "84113e36b5a9880a",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/06-%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2-b0a9fb.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "d10631babec6ec62",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "3f65b75a73f00150",
+      "fromNode": "5f87e47c883da3a6",
+      "toNode": "617f1b6ca0ec4afb",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d7e734cd15276602",
+      "fromNode": "617f1b6ca0ec4afb",
+      "toNode": "6916961e5944c981",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7d32f019474d3876",
+      "fromNode": "6916961e5944c981",
+      "toNode": "efe185fd3d27b27e",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d362600d36eda14d",
+      "fromNode": "efe185fd3d27b27e",
+      "toNode": "227943f76daa3bb0",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8ae09b6ebafeb325",
+      "fromNode": "227943f76daa3bb0",
+      "toNode": "a6cbbadff18a47a7",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "19eb5485a870e76c",
+      "fromNode": "5f87e47c883da3a6",
+      "toNode": "617f1b6ca0ec4afb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d021ed9869990abe",
+      "fromNode": "5f87e47c883da3a6",
+      "toNode": "6916961e5944c981",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e70efce3031ba0b4",
+      "fromNode": "227943f76daa3bb0",
+      "toNode": "0a0c131f6d418f5c",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "bbf5ab25a5175f46",
+      "fromNode": "227943f76daa3bb0",
+      "toNode": "7f08a53a5d46ff50",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "84780fe152c54307",
+      "fromNode": "111b96b017950a29",
+      "toNode": "617f1b6ca0ec4afb",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e27ba36e46f7428b",
+      "fromNode": "111b96b017950a29",
+      "toNode": "6916961e5944c981",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "36be7bd0ab89063f",
+      "fromNode": "111b96b017950a29",
+      "toNode": "227943f76daa3bb0",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6e51bcf14278de70",
+      "fromNode": "51b0d39a1b180df2",
+      "toNode": "617f1b6ca0ec4afb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "670fceacfbb1d3f0",
+      "fromNode": "dc8bb9d518b14c54",
+      "toNode": "227943f76daa3bb0",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "30582cc5bb9f67fe",
+      "fromNode": "efe185fd3d27b27e",
+      "toNode": "06b30cebc6993f4a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "297d261118146f9c",
+      "fromNode": "0f724ebe10c3e951",
+      "toNode": "617f1b6ca0ec4afb",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a5909149f3dd1982",
+      "fromNode": "0f724ebe10c3e951",
+      "toNode": "6916961e5944c981",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "52792f182de4df15",
+      "fromNode": "0f724ebe10c3e951",
+      "toNode": "a6cbbadff18a47a7",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a2a2f24d6810d35a",
+      "fromNode": "0f724ebe10c3e951",
+      "toNode": "227943f76daa3bb0",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "4fe95eb74ec4106e",
+      "fromNode": "0f724ebe10c3e951",
+      "toNode": "efe185fd3d27b27e",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "368f8802b0c7d03d",
+      "fromNode": "617f1b6ca0ec4afb",
+      "toNode": "f764d579e320fe98",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a3077625f80ec85a",
+      "fromNode": "efe185fd3d27b27e",
+      "toNode": "85639ae0cedca8e0",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "9b06d4c0d44f436b",
+      "fromNode": "227943f76daa3bb0",
+      "toNode": "0c8cf2e2c0e9b6fa",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "af9ddfb53e0297ff",
+      "fromNode": "a6cbbadff18a47a7",
+      "toNode": "57a7952604ccb0bb",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 15题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "75417a3ce1105e15",
+      "fromNode": "6aae7d98e409be6b",
+      "toNode": "0680b75fea1beb43",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

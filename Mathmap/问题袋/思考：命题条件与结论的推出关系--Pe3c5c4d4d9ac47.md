@@ -4,7 +4,7 @@ kind: "problem"
 title: "思考：命题条件与结论的推出关系"
 source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
-source_files: ["原子层/情景引入/0009-S.md"]
+source_files: ["原子层/情景引入/由真假命题辨析条件与结论的推出关系--0009-S.md"]
 source_node_keys: ["atom-d3a1bb7b05b0c889"]
 ---
 

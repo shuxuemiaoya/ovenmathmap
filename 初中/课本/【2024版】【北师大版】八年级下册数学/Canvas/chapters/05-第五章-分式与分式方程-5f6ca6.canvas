@@ -1,0 +1,1109 @@
+{
+  "nodes": [
+    {
+      "id": "9e091410440ace3f",
+      "type": "group",
+      "label": "第五章 分式与分式方程",
+      "x": 0,
+      "y": 0,
+      "width": 10248,
+      "height": 2980
+    },
+    {
+      "id": "23bc5f353b95ae46",
+      "type": "text",
+      "text": "[⌕ 放大 · 章引入](../sections/05-01-%E7%AB%A0%E5%BC%95%E5%85%A5-f61da0.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 56,
+      "y": 76,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "1ae4fd3357a0d8dc",
+      "type": "text",
+      "text": "[✦ 情景引入 · 对比分数与整式走向分式的概念、性质、运算及分式方程](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E5%AF%B9%E6%AF%94%E5%88%86%E6%95%B0%E4%B8%8E%E6%95%B4%E5%BC%8F%E8%B5%B0%E5%90%91%E5%88%86%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E6%80%A7%E8%B4%A8%E3%80%81%E8%BF%90%E7%AE%97%E5%8F%8A%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B--0019-S.md)",
+      "x": 56,
+      "y": 330,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "6a2360208fae7ce2",
+      "type": "group",
+      "label": "02 · 1 分式及其基本性质",
+      "x": 56,
+      "y": 1634,
+      "width": 5456,
+      "height": 342
+    },
+    {
+      "id": "d9a51fe18eddbc0c",
+      "type": "text",
+      "text": "[⌕ 放大 · 1 分式及其基本性质](../sections/05-02-1-%E5%88%86%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8-75dd29.canvas)\n\n12 个展示原子 · 15 题",
+      "x": 5156,
+      "y": 1710,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "20eece80d84927cc",
+      "type": "group",
+      "label": "分式的概念与有意义的条件",
+      "x": 112,
+      "y": 1710,
+      "width": 1992,
+      "height": 210
+    },
+    {
+      "id": "d030d52692a02d39",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由京张高铁甲乙列车行驶时间代数式引出分式的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E4%BA%AC%E5%BC%A0%E9%AB%98%E9%93%81%E7%94%B2%E4%B9%99%E5%88%97%E8%BD%A6%E8%A1%8C%E9%A9%B6%E6%97%B6%E9%97%B4%E4%BB%A3%E6%95%B0%E5%BC%8F%E5%BC%95%E5%87%BA%E5%88%86%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5--0020-S.md)",
+      "x": 168,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "97bcfa929a030e0c",
+      "type": "text",
+      "text": "[✦ 问题 · 生活情境中的分式代数式列举](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%94%9F%E6%B4%BB%E6%83%85%E5%A2%83%E4%B8%AD%E7%9A%84%E5%88%86%E5%BC%8F%E4%BB%A3%E6%95%B0%E5%BC%8F%E5%88%97%E4%B8%BE.md)",
+      "x": 548,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "dbd6fd1ab2559eee",
+      "type": "text",
+      "text": "[✦ 问题 · 分式与整式共同特征及区别观察](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E4%B8%8E%E6%95%B4%E5%BC%8F%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81%E5%8F%8A%E5%8C%BA%E5%88%AB%E8%A7%82%E5%AF%9F.md)",
+      "x": 928,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "acf22ad96e9802dd",
+      "type": "text",
+      "text": "[✦ 分式的概念与分母不为零条件](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%86%E6%AF%8D%E4%B8%8D%E4%B8%BA%E9%9B%B6%E6%9D%A1%E4%BB%B6--000057.md)",
+      "x": 1348,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "8e8123cd073dd819",
+      "type": "text",
+      "text": "[✦ 问题 · 赋予分式实际意义交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%B5%8B%E4%BA%88%E5%88%86%E5%BC%8F%E5%AE%9E%E9%99%85%E6%84%8F%E4%B9%89%E4%BA%A4%E6%B5%81.md)",
+      "x": 1768,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "634ce2865409891e",
+      "type": "group",
+      "label": "分式的基本性质、约分与最简分式",
+      "x": 2264,
+      "y": 1710,
+      "width": 2732,
+      "height": 210
+    },
+    {
+      "id": "fd08ecbfe8cf8798",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由分数约分等值关系类比猜想分式的基本性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E5%88%86%E6%95%B0%E7%BA%A6%E5%88%86%E7%AD%89%E5%80%BC%E5%85%B3%E7%B3%BB%E7%B1%BB%E6%AF%94%E7%8C%9C%E6%83%B3%E5%88%86%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--0021-S.md)",
+      "x": 3930,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "e06c335dc63ac9ed",
+      "type": "text",
+      "text": "[✦ 分式的基本性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--000058.md)",
+      "x": 2320,
+      "y": 1786,
+      "width": 250,
+      "height": 66,
+      "color": "2"
+    },
+    {
+      "id": "2229fdd2ce11309b",
+      "type": "text",
+      "text": "[✦ 分式的约分概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E7%9A%84%E7%BA%A6%E5%88%86%E6%A6%82%E5%BF%B5--000059.md)",
+      "x": 2710,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "267864a652346c0b",
+      "type": "text",
+      "text": "[✦ 问题 · 分式约分彻底性辨析交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E7%BA%A6%E5%88%86%E5%BD%BB%E5%BA%95%E6%80%A7%E8%BE%A8%E6%9E%90%E4%BA%A4%E6%B5%81.md)",
+      "x": 3130,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "549ed2db26a72932",
+      "type": "text",
+      "text": "[✦ 最简分式的概念与化简要求](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%80%E7%AE%80%E5%88%86%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%8C%96%E7%AE%80%E8%A6%81%E6%B1%82--000060.md)",
+      "x": 3550,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "1fc7159b37716a5a",
+      "type": "text",
+      "text": "[✦ 问题 · 分式分子分母与分式本身的符号变化规律](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E5%88%86%E5%AD%90%E5%88%86%E6%AF%8D%E4%B8%8E%E5%88%86%E5%BC%8F%E6%9C%AC%E8%BA%AB%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B.md)",
+      "x": 4660,
+      "y": 1786,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "e6fd9293fd811046",
+      "type": "text",
+      "text": "[✦ 分式模型在购物中心吸引力分析中的应用](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%A8%A1%E5%9E%8B%E5%9C%A8%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%90%B8%E5%BC%95%E5%8A%9B%E5%88%86%E6%9E%90%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8--000061.md)",
+      "x": 4310,
+      "y": 1786,
+      "width": 250,
+      "height": 66,
+      "color": "2"
+    },
+    {
+      "id": "ad4c18b3ab14db51",
+      "type": "group",
+      "label": "03 · 2 分式的运算",
+      "x": 4168,
+      "y": 330,
+      "width": 3228,
+      "height": 1144
+    },
+    {
+      "id": "e77c1c49d49bd337",
+      "type": "text",
+      "text": "[⌕ 放大 · 2 分式的运算](../sections/05-03-2-%E5%88%86%E5%BC%8F%E7%9A%84%E8%BF%90%E7%AE%97-d1a645.canvas)\n\n14 个展示原子 · 22 题",
+      "x": 5616,
+      "y": 1324,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "aa31171ae5e328d7",
+      "type": "group",
+      "label": "分式的乘除法",
+      "x": 4224,
+      "y": 406,
+      "width": 1232,
+      "height": 388
+    },
+    {
+      "id": "6761cc897eae758c",
+      "type": "text",
+      "text": "[✦ 情景引入 · 类比分数乘除运算探索分式的乘除法法则](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%B1%BB%E6%AF%94%E5%88%86%E6%95%B0%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E6%8E%A2%E7%B4%A2%E5%88%86%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E6%B3%95%E6%B3%95%E5%88%99--0022-S.md)",
+      "x": 4280,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "f31250d6b394b9ba",
+      "type": "text",
+      "text": "[§ 分式的乘除法](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/2%20%E5%88%86%E5%BC%8F%E7%9A%84%E8%BF%90%E7%AE%97/%E5%88%86%E5%BC%8F%E7%9A%84%E4%B9%98%E9%99%A4%E6%B3%95.md)",
+      "x": 5080,
+      "y": 660,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "8f2385857b366c1b",
+      "type": "text",
+      "text": "[✦ 问题 · 类比分数乘除法探索分式乘除法法则](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%B1%BB%E6%AF%94%E5%88%86%E6%95%B0%E4%B9%98%E9%99%A4%E6%B3%95%E6%8E%A2%E7%B4%A2%E5%88%86%E5%BC%8F%E4%B9%98%E9%99%A4%E6%B3%95%E6%B3%95%E5%88%99.md)",
+      "x": 4280,
+      "y": 660,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "be5eeb5bb2b750fb",
+      "type": "text",
+      "text": "[✦ 分式的乘法与除法法则](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E7%9A%84%E4%B9%98%E6%B3%95%E4%B8%8E%E9%99%A4%E6%B3%95%E6%B3%95%E5%88%99--000062.md)",
+      "x": 4700,
+      "y": 648,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "0c2cf5a715b8cdd5",
+      "type": "text",
+      "text": "[✦ 问题 · 分式的乘方运算规律思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E7%9A%84%E4%B9%98%E6%96%B9%E8%BF%90%E7%AE%97%E8%A7%84%E5%BE%8B%E6%80%9D%E8%80%83.md)",
+      "x": 5120,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "a2ecd961b9c9305b",
+      "type": "text",
+      "text": "[· 问题 · 西瓜瓤体积比例的分式建模与大小比较](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%A5%BF%E7%93%9C%E7%93%A4%E4%BD%93%E7%A7%AF%E6%AF%94%E4%BE%8B%E7%9A%84%E5%88%86%E5%BC%8F%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%A4%A7%E5%B0%8F%E6%AF%94%E8%BE%83.md)",
+      "x": 4660,
+      "y": 482,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "737f244bf66b5255",
+      "type": "group",
+      "label": "同分母分式的加减法",
+      "x": 4264,
+      "y": 954,
+      "width": 1192,
+      "height": 210
+    },
+    {
+      "id": "81ab977019196148",
+      "type": "text",
+      "text": "[✦ 情景引入 · 在分式乘除运算基础上探索同分母分式的加减法运算思路](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E5%9C%A8%E5%88%86%E5%BC%8F%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97%E5%9F%BA%E7%A1%80%E4%B8%8A%E6%8E%A2%E7%B4%A2%E5%90%8C%E5%88%86%E6%AF%8D%E5%88%86%E5%BC%8F%E7%9A%84%E5%8A%A0%E5%87%8F%E6%B3%95%E8%BF%90%E7%AE%97%E6%80%9D%E8%B7%AF--0023-S.md)",
+      "x": 4320,
+      "y": 1030,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "b1c20fd843ce8a63",
+      "type": "text",
+      "text": "[✦ 问题 · 同分母分式加减法法则类比探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%90%8C%E5%88%86%E6%AF%8D%E5%88%86%E5%BC%8F%E5%8A%A0%E5%87%8F%E6%B3%95%E6%B3%95%E5%88%99%E7%B1%BB%E6%AF%94%E6%8E%A2%E7%A9%B6.md)",
+      "x": 4700,
+      "y": 1030,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "c50ce266ccdc0c27",
+      "type": "text",
+      "text": "[✦ 同分母分式的加减法法则](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E5%88%86%E6%AF%8D%E5%88%86%E5%BC%8F%E7%9A%84%E5%8A%A0%E5%87%8F%E6%B3%95%E6%B3%95%E5%88%99--000063.md)",
+      "x": 5120,
+      "y": 1030,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "8b7bdc4bcfcf0f5c",
+      "type": "group",
+      "label": "分式的通分与异分母分式的加减法",
+      "x": 5616,
+      "y": 954,
+      "width": 1192,
+      "height": 210
+    },
+    {
+      "id": "d6573c9254bdc4ed",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由算式3/a+1/4a的计算问题引出异分母分式的通分与加减法](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E7%AE%97%E5%BC%8F3-a%2B1-4a%E7%9A%84%E8%AE%A1%E7%AE%97%E9%97%AE%E9%A2%98%E5%BC%95%E5%87%BA%E5%BC%82%E5%88%86%E6%AF%8D%E5%88%86%E5%BC%8F%E7%9A%84%E9%80%9A%E5%88%86%E4%B8%8E%E5%8A%A0%E5%87%8F%E6%B3%95--0024-S.md)",
+      "x": 5672,
+      "y": 1030,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "7eaac61608c46c44",
+      "type": "text",
+      "text": "[✦ 问题 · 异分母分式通分中公分母选择对比交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%BC%82%E5%88%86%E6%AF%8D%E5%88%86%E5%BC%8F%E9%80%9A%E5%88%86%E4%B8%AD%E5%85%AC%E5%88%86%E6%AF%8D%E9%80%89%E6%8B%A9%E5%AF%B9%E6%AF%94%E4%BA%A4%E6%B5%81.md)",
+      "x": 6052,
+      "y": 1030,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "b5bf5113dd2cc474",
+      "type": "text",
+      "text": "[✦ 分式的通分、最简公分母与异分母分式加减法法则](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E7%9A%84%E9%80%9A%E5%88%86%E3%80%81%E6%9C%80%E7%AE%80%E5%85%AC%E5%88%86%E6%AF%8D%E4%B8%8E%E5%BC%82%E5%88%86%E6%AF%8D%E5%88%86%E5%BC%8F%E5%8A%A0%E5%87%8F%E6%B3%95%E6%B3%95%E5%88%99--000064.md)",
+      "x": 6472,
+      "y": 1030,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "45568cbfa817c9de",
+      "type": "group",
+      "label": "分式的混合运算",
+      "x": 6968,
+      "y": 406,
+      "width": 372,
+      "height": 706
+    },
+    {
+      "id": "4a2fa53df793a519",
+      "type": "text",
+      "text": "[§ 分式的混合运算](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/2%20%E5%88%86%E5%BC%8F%E7%9A%84%E8%BF%90%E7%AE%97/%E5%88%86%E5%BC%8F%E7%9A%84%E6%B7%B7%E5%90%88%E8%BF%90%E7%AE%97.md)",
+      "x": 7024,
+      "y": 824,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "1d7cca61ed7abb48",
+      "type": "text",
+      "text": "[· 方法例题 · 例8 条件分式化简求值（整体代入法）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0043-W.md)",
+      "x": 7024,
+      "y": 990,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "ae863ccf7a9f8970",
+      "type": "text",
+      "text": "[· 问题 · 工程修建盲道工期缩短的分式运算建模](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B7%A5%E7%A8%8B%E4%BF%AE%E5%BB%BA%E7%9B%B2%E9%81%93%E5%B7%A5%E6%9C%9F%E7%BC%A9%E7%9F%AD%E7%9A%84%E5%88%86%E5%BC%8F%E8%BF%90%E7%AE%97%E5%BB%BA%E6%A8%A1.md)",
+      "x": 7024,
+      "y": 482,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "dcb139be28e83040",
+      "type": "text",
+      "text": "[· 问题 · 分式运算学习过程与代数式运算感悟](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E8%BF%90%E7%AE%97%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%B8%8E%E4%BB%A3%E6%95%B0%E5%BC%8F%E8%BF%90%E7%AE%97%E6%84%9F%E6%82%9F.md)",
+      "x": 7024,
+      "y": 648,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "fa1cf201f32feda5",
+      "type": "group",
+      "label": "04 · 3 分式方程",
+      "x": 7556,
+      "y": 330,
+      "width": 2636,
+      "height": 1230
+    },
+    {
+      "id": "2a203c3cb9ae01fe",
+      "type": "text",
+      "text": "[⌕ 放大 · 3 分式方程](../sections/05-04-3-%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B-c2cf30.canvas)\n\n10 个展示原子 · 12 题",
+      "x": 7612,
+      "y": 406,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "308913e125b50649",
+      "type": "group",
+      "label": "分式方程的概念",
+      "x": 7612,
+      "y": 924,
+      "width": 1992,
+      "height": 210
+    },
+    {
+      "id": "af6624c9165e8b0d",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由京张高铁甲乙列车行驶时间差等量关系引出分式方程的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E4%BA%AC%E5%BC%A0%E9%AB%98%E9%93%81%E7%94%B2%E4%B9%99%E5%88%97%E8%BD%A6%E8%A1%8C%E9%A9%B6%E6%97%B6%E9%97%B4%E5%B7%AE%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB%E5%BC%95%E5%87%BA%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5--0025-S.md)",
+      "x": 7668,
+      "y": 1000,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "efb948e4a1399e99",
+      "type": "text",
+      "text": "[✦ 问题 · 人均捐款相等情境中的分式方程列写](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E4%BA%BA%E5%9D%87%E6%8D%90%E6%AC%BE%E7%9B%B8%E7%AD%89%E6%83%85%E5%A2%83%E4%B8%AD%E7%9A%84%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E5%88%97%E5%86%99.md)",
+      "x": 8048,
+      "y": 1000,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1da3fb730aec0534",
+      "type": "text",
+      "text": "[✦ 问题 · 分式方程共同特征观察与交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81%E8%A7%82%E5%AF%9F%E4%B8%8E%E4%BA%A4%E6%B5%81.md)",
+      "x": 8428,
+      "y": 1000,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "bbada53e9ee92bcb",
+      "type": "text",
+      "text": "[✦ 分式方程的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5--000065.md)",
+      "x": 8848,
+      "y": 1000,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "e2232a423ce9dd42",
+      "type": "text",
+      "text": "[✦ 问题 · 分式方程求解思路探索](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E6%B1%82%E8%A7%A3%E6%80%9D%E8%B7%AF%E6%8E%A2%E7%B4%A2.md)",
+      "x": 9268,
+      "y": 1000,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "7858d8d9a3fc6373",
+      "type": "group",
+      "label": "分式方程的解法与增根检验",
+      "x": 8792,
+      "y": 1294,
+      "width": 1232,
+      "height": 210
+    },
+    {
+      "id": "127760ac85b71366",
+      "type": "text",
+      "text": "[✦ 问题 · 解分式方程中出现无意义根的辨析交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%A7%A3%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%97%A0%E6%84%8F%E4%B9%89%E6%A0%B9%E7%9A%84%E8%BE%A8%E6%9E%90%E4%BA%A4%E6%B5%81.md)",
+      "x": 8848,
+      "y": 1370,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "8908b090c1751e85",
+      "type": "text",
+      "text": "[✦ 分式方程的增根概念、产生原因与检验方法](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%A2%9E%E6%A0%B9%E6%A6%82%E5%BF%B5%E3%80%81%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E4%B8%8E%E6%A3%80%E9%AA%8C%E6%96%B9%E6%B3%95--000066.md)",
+      "x": 9268,
+      "y": 1370,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "9d1fb93c9aeba556",
+      "type": "text",
+      "text": "[✦ 问题 · 解分式方程的一般步骤与注意事项总结](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%A7%A3%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4%E4%B8%8E%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E6%80%BB%E7%BB%93.md)",
+      "x": 9688,
+      "y": 1370,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "3a98aaf0769d2b2d",
+      "type": "group",
+      "label": "分式方程的实际应用",
+      "x": 9764,
+      "y": 406,
+      "width": 372,
+      "height": 540
+    },
+    {
+      "id": "34406f38422a918e",
+      "type": "text",
+      "text": "[· 问题 · 房屋租金增长问题中的等量关系与分式方程建模](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%88%BF%E5%B1%8B%E7%A7%9F%E9%87%91%E5%A2%9E%E9%95%BF%E9%97%AE%E9%A2%98%E4%B8%AD%E7%9A%84%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E5%BB%BA%E6%A8%A1.md)",
+      "x": 9820,
+      "y": 482,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "456a6f15eb839c33",
+      "type": "text",
+      "text": "[§ 分式方程的实际应用](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/3%20%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8.md)",
+      "x": 9820,
+      "y": 658,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "1249e730268dedae",
+      "type": "text",
+      "text": "[· 方法例题 · 例2 列分式方程解师徒加工工艺品问题（含检验）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0045-W.md)",
+      "x": 9820,
+      "y": 824,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "cb6941cabb453b3f",
+      "type": "group",
+      "label": "05 · 回顾与思考",
+      "x": 56,
+      "y": 2136,
+      "width": 412,
+      "height": 402
+    },
+    {
+      "id": "4f45bb258e8abc6b",
+      "type": "text",
+      "text": "[⌕ 放大 · 回顾与思考](../sections/05-05-%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83-f99b38.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 112,
+      "y": 2388,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "279fe984fe3ea6e2",
+      "type": "text",
+      "text": "[· 问题 · 第五章 回顾与思考问题](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83%E9%97%AE%E9%A2%98.md)",
+      "x": 112,
+      "y": 2212,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "dad46d5546e4364b",
+      "type": "group",
+      "label": "06 · 复习题",
+      "x": 56,
+      "y": 2698,
+      "width": 412,
+      "height": 226
+    },
+    {
+      "id": "2afca98bb89cea70",
+      "type": "text",
+      "text": "[⌕ 放大 · 复习题](../sections/05-06-%E5%A4%8D%E4%B9%A0%E9%A2%98-81df2c.canvas)\n\n0 个展示原子 · 21 题",
+      "x": 112,
+      "y": 2774,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "f49be620e19dd97a",
+      "type": "text",
+      "text": "# [第五章 分式与分式方程](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "a8947b466f8725d4",
+      "type": "text",
+      "text": "[← 返回全书](../overview.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "48b13d4aaa687925",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "696755d714ba3045",
+      "fromNode": "549ed2db26a72932",
+      "toNode": "e6fd9293fd811046",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a05815c91220a997",
+      "fromNode": "c50ce266ccdc0c27",
+      "toNode": "b5bf5113dd2cc474",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ad8e7ec0d3d72d88",
+      "fromNode": "be5eeb5bb2b750fb",
+      "toNode": "c50ce266ccdc0c27",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "f06648d93d6de355",
+      "fromNode": "2229fdd2ce11309b",
+      "toNode": "549ed2db26a72932",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "211983022a2b84e6",
+      "fromNode": "e6fd9293fd811046",
+      "toNode": "be5eeb5bb2b750fb",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d557708cbad5ea50",
+      "fromNode": "b5bf5113dd2cc474",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "11bab103adbf2fe0",
+      "fromNode": "bbada53e9ee92bcb",
+      "toNode": "8908b090c1751e85",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "51bd4f1d4a75e245",
+      "fromNode": "acf22ad96e9802dd",
+      "toNode": "e06c335dc63ac9ed",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fccc8b94f06ca362",
+      "fromNode": "e06c335dc63ac9ed",
+      "toNode": "2229fdd2ce11309b",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "36389c4cd84d6437",
+      "fromNode": "81ab977019196148",
+      "toNode": "c50ce266ccdc0c27",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3f96811a19c988a3",
+      "fromNode": "d030d52692a02d39",
+      "toNode": "acf22ad96e9802dd",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d759c8d7ec4b5f90",
+      "fromNode": "6761cc897eae758c",
+      "toNode": "be5eeb5bb2b750fb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "bbb89ead3b04e846",
+      "fromNode": "1da3fb730aec0534",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8a3b19f962b6e778",
+      "fromNode": "bbada53e9ee92bcb",
+      "toNode": "e2232a423ce9dd42",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e634df159bc4aa99",
+      "fromNode": "549ed2db26a72932",
+      "toNode": "1fc7159b37716a5a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "f918cdd33eea33af",
+      "fromNode": "1249e730268dedae",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6820d3eccc54558f",
+      "fromNode": "1249e730268dedae",
+      "toNode": "acf22ad96e9802dd",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5111cdb1021932d5",
+      "fromNode": "2229fdd2ce11309b",
+      "toNode": "267864a652346c0b",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ae25212e581bd8ff",
+      "fromNode": "d6573c9254bdc4ed",
+      "toNode": "b5bf5113dd2cc474",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8742db254726cbb6",
+      "fromNode": "c50ce266ccdc0c27",
+      "toNode": "d6573c9254bdc4ed",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a239311cc9641a08",
+      "fromNode": "8f2385857b366c1b",
+      "toNode": "be5eeb5bb2b750fb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "288207426ccd0da0",
+      "fromNode": "af6624c9165e8b0d",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "9e8e87836da7b827",
+      "fromNode": "fd08ecbfe8cf8798",
+      "toNode": "b5bf5113dd2cc474",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3fff7a0a7a86135e",
+      "fromNode": "127760ac85b71366",
+      "toNode": "8908b090c1751e85",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ef5e59fd46760574",
+      "fromNode": "efb948e4a1399e99",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "471e240b8c84c72b",
+      "fromNode": "97bcfa929a030e0c",
+      "toNode": "acf22ad96e9802dd",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5c5498b84f52676d",
+      "fromNode": "be5eeb5bb2b750fb",
+      "toNode": "0c2cf5a715b8cdd5",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "f7b11be105adf4cc",
+      "fromNode": "7eaac61608c46c44",
+      "toNode": "b5bf5113dd2cc474",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "259e75647b99130f",
+      "fromNode": "1d7cca61ed7abb48",
+      "toNode": "acf22ad96e9802dd",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e3c4f8933a43d138",
+      "fromNode": "b1c20fd843ce8a63",
+      "toNode": "c50ce266ccdc0c27",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "410b286d23b0b925",
+      "fromNode": "dbd6fd1ab2559eee",
+      "toNode": "acf22ad96e9802dd",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "2f1a7ff0b3d094ba",
+      "fromNode": "acf22ad96e9802dd",
+      "toNode": "81ab977019196148",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "f25fa2ff51e94718",
+      "fromNode": "acf22ad96e9802dd",
+      "toNode": "6761cc897eae758c",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a79e42e22bb77443",
+      "fromNode": "acf22ad96e9802dd",
+      "toNode": "fd08ecbfe8cf8798",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "be0ff1098f687e74",
+      "fromNode": "acf22ad96e9802dd",
+      "toNode": "8e8123cd073dd819",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6d365b5e3ccbd517",
+      "fromNode": "1ae4fd3357a0d8dc",
+      "toNode": "bbada53e9ee92bcb",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "948488dd27b15e10",
+      "fromNode": "267864a652346c0b",
+      "toNode": "549ed2db26a72932",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3d10b16be5a93aa0",
+      "fromNode": "8908b090c1751e85",
+      "toNode": "9d1fb93c9aeba556",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "59a9b63901096ea5",
+      "fromNode": "a2ecd961b9c9305b",
+      "toNode": "f31250d6b394b9ba",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "55343e4a80df09c4",
+      "fromNode": "ae863ccf7a9f8970",
+      "toNode": "4a2fa53df793a519",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d58099dc915998c8",
+      "fromNode": "dcb139be28e83040",
+      "toNode": "4a2fa53df793a519",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fbd7f85da0c26873",
+      "fromNode": "34406f38422a918e",
+      "toNode": "456a6f15eb839c33",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "17539e44a72eead8",
+      "fromNode": "279fe984fe3ea6e2",
+      "toNode": "4f45bb258e8abc6b",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

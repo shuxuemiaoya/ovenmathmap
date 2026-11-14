@@ -1,0 +1,533 @@
+{
+  "nodes": [
+    {
+      "id": "5b1b68c2905f5882",
+      "type": "group",
+      "label": "2 等腰三角形",
+      "x": 0,
+      "y": 0,
+      "width": 6760,
+      "height": 700
+    },
+    {
+      "id": "4b154e420b9843eb",
+      "type": "group",
+      "label": "等腰三角形与等边三角形的性质",
+      "x": 56,
+      "y": 76,
+      "width": 2912,
+      "height": 392
+    },
+    {
+      "id": "5f785bd04bba6f0d",
+      "type": "text",
+      "text": "[✦ 问题 · 等腰三角形性质回顾与证明引导](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E6%80%A7%E8%B4%A8%E5%9B%9E%E9%A1%BE%E4%B8%8E%E8%AF%81%E6%98%8E%E5%BC%95%E5%AF%BC.md)",
+      "x": 112,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "8cc6994c9b1ba438",
+      "type": "text",
+      "text": "[练习入口 · 等腰三角形与等边三角形的性质](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/2%20%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%8E%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8.md)\n\n共 2 题",
+      "x": 112,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "24b8288170112b3b",
+      "type": "text",
+      "text": "[✦ 等腰三角形“等边对等角”定理及证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E2%80%9C%E7%AD%89%E8%BE%B9%E5%AF%B9%E7%AD%89%E8%A7%92%E2%80%9D%E5%AE%9A%E7%90%86%E5%8F%8A%E8%AF%81%E6%98%8E--000007.md)",
+      "x": 532,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "0f987adffd1ae137",
+      "type": "text",
+      "text": "[✦ 问题 · 等腰三角形底边中线AD的特征思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BA%95%E8%BE%B9%E4%B8%AD%E7%BA%BFAD%E7%9A%84%E7%89%B9%E5%BE%81%E6%80%9D%E8%80%83.md)",
+      "x": 952,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "25060bc72dda32f1",
+      "type": "text",
+      "text": "[✦ 等腰三角形“三线合一”定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E2%80%9C%E4%B8%89%E7%BA%BF%E5%90%88%E4%B8%80%E2%80%9D%E5%AE%9A%E7%90%86--000008.md)",
+      "x": 1372,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "9b2c9407bfa88054",
+      "type": "text",
+      "text": "[✦ 问题 · 等边三角形特殊性质探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%89%B9%E6%AE%8A%E6%80%A7%E8%B4%A8%E6%8E%A2%E7%A9%B6.md)",
+      "x": 1792,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "d1fad32e18f123c0",
+      "type": "text",
+      "text": "[✦ 等边三角形内角性质定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E5%86%85%E8%A7%92%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86--000009.md)",
+      "x": 2212,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "443cf776073e7365",
+      "type": "text",
+      "text": "[✦ 问题 · 等腰三角形性质研究经验回顾](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E6%80%A7%E8%B4%A8%E7%A0%94%E7%A9%B6%E7%BB%8F%E9%AA%8C%E5%9B%9E%E9%A1%BE.md)",
+      "x": 2632,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "aa4319cc1cd4e8b8",
+      "type": "group",
+      "label": "等腰三角形的判定与反证法",
+      "x": 3128,
+      "y": 76,
+      "width": 1232,
+      "height": 568
+    },
+    {
+      "id": "eb807a8078b1da77",
+      "type": "text",
+      "text": "[✦ 等腰三角形“等角对等边”判定定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E2%80%9C%E7%AD%89%E8%A7%92%E5%AF%B9%E7%AD%89%E8%BE%B9%E2%80%9D%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86--000010.md)",
+      "x": 3184,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "e2635be321561a7c",
+      "type": "text",
+      "text": "[练习入口 · 等腰三角形的判定与反证法](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/2%20%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A%E4%B8%8E%E5%8F%8D%E8%AF%81%E6%B3%95.md)\n\n共 2 题",
+      "x": 3184,
+      "y": 516,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "9a6c29d3e9b7c1d5",
+      "type": "text",
+      "text": "[✦ 问题 · 三角形中不等角所对边不等关系的思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%AD%E4%B8%8D%E7%AD%89%E8%A7%92%E6%89%80%E5%AF%B9%E8%BE%B9%E4%B8%8D%E7%AD%89%E5%85%B3%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83.md)",
+      "x": 3604,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "83b05752d3ff5600",
+      "type": "text",
+      "text": "[✦ 反证法的概念与推理过程](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8D%E8%AF%81%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%8E%A8%E7%90%86%E8%BF%87%E7%A8%8B--000011.md)",
+      "x": 4024,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "1b3cd4a7b5863203",
+      "type": "text",
+      "text": "[· 方法例题 · 例2 用反证法证明三角形中不能有两个直角](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0007-W.md)",
+      "x": 3184,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "f06cc0555e25e5d2",
+      "type": "group",
+      "label": "等边三角形的判定与含30°角的直角三角形",
+      "x": 4520,
+      "y": 76,
+      "width": 1652,
+      "height": 392
+    },
+    {
+      "id": "0ad3b6285dab8ada",
+      "type": "text",
+      "text": "[✦ 问题 · 等边三角形判定条件猜想与证明引导](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E7%8C%9C%E6%83%B3%E4%B8%8E%E8%AF%81%E6%98%8E%E5%BC%95%E5%AF%BC.md)",
+      "x": 4576,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "baf7498b5ffbfedf",
+      "type": "text",
+      "text": "[练习入口 · 等边三角形的判定与含30°角的直角三角形](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/2%20%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E5%88%A4%E5%AE%9A%E4%B8%8E%E5%90%AB30%C2%B0%E8%A7%92%E7%9A%84%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2.md)\n\n共 2 题",
+      "x": 4576,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "839d8da9ce1afff5",
+      "type": "text",
+      "text": "[✦ 等边三角形的两个判定定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86--000012.md)",
+      "x": 4996,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "95710d1bb42f2f21",
+      "type": "text",
+      "text": "[✦ 问题 · 含30°角直角三角尺拼接结论探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%90%AB30%C2%B0%E8%A7%92%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%B0%BA%E6%8B%BC%E6%8E%A5%E7%BB%93%E8%AE%BA%E6%8E%A2%E7%A9%B6.md)",
+      "x": 5416,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "6eff0b42ff20c808",
+      "type": "text",
+      "text": "[✦ 含30°角的直角三角形性质定理及证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%AB30%C2%B0%E8%A7%92%E7%9A%84%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E5%8F%8A%E8%AF%81%E6%98%8E--000013.md)",
+      "x": 5836,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "3f0460ab440e47bb",
+      "type": "group",
+      "label": "习题 1.2",
+      "x": 6332,
+      "y": 264,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "9a86d35a2df58ad2",
+      "type": "text",
+      "text": "[练习入口 · 习题 1.2](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/2%20%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2/%E4%B9%A0%E9%A2%98%201.2.md)\n\n共 15 题",
+      "x": 6388,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "879e907fc36e76a1",
+      "type": "text",
+      "text": "# [2 等腰三角形](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/2%20%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "a8a2d8c3583e2795",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-75a20e.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "01baa39f7d7b8b44",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "60c938c4caf5e82b",
+      "fromNode": "eb807a8078b1da77",
+      "toNode": "83b05752d3ff5600",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a8ca39c58b8bc9ae",
+      "fromNode": "25060bc72dda32f1",
+      "toNode": "d1fad32e18f123c0",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5164f0147d144cbb",
+      "fromNode": "839d8da9ce1afff5",
+      "toNode": "6eff0b42ff20c808",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1be5ccbca1854764",
+      "fromNode": "5f785bd04bba6f0d",
+      "toNode": "24b8288170112b3b",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "15d3755f4d887e05",
+      "fromNode": "83b05752d3ff5600",
+      "toNode": "839d8da9ce1afff5",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "69594ae869165cdf",
+      "fromNode": "d1fad32e18f123c0",
+      "toNode": "eb807a8078b1da77",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1a1e5cd6ea2dd86f",
+      "fromNode": "24b8288170112b3b",
+      "toNode": "25060bc72dda32f1",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fd6b69c11922d540",
+      "fromNode": "9b2c9407bfa88054",
+      "toNode": "d1fad32e18f123c0",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d2b149b64debb4ee",
+      "fromNode": "95710d1bb42f2f21",
+      "toNode": "6eff0b42ff20c808",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e84eececb1d57cc1",
+      "fromNode": "0f987adffd1ae137",
+      "toNode": "25060bc72dda32f1",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6136ce518b85543a",
+      "fromNode": "839d8da9ce1afff5",
+      "toNode": "95710d1bb42f2f21",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "cbd3d5adeb9b1418",
+      "fromNode": "1b3cd4a7b5863203",
+      "toNode": "83b05752d3ff5600",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "2e823630ac249925",
+      "fromNode": "1b3cd4a7b5863203",
+      "toNode": "eb807a8078b1da77",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3fd6305d4f5e3983",
+      "fromNode": "eb807a8078b1da77",
+      "toNode": "9a6c29d3e9b7c1d5",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8f008a9d0eea5846",
+      "fromNode": "d1fad32e18f123c0",
+      "toNode": "443cf776073e7365",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5fcdf9bb13e6f8df",
+      "fromNode": "0ad3b6285dab8ada",
+      "toNode": "839d8da9ce1afff5",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e83e382c67c44a8f",
+      "fromNode": "5f785bd04bba6f0d",
+      "toNode": "24b8288170112b3b",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3fbff10fa2fb5d66",
+      "fromNode": "24b8288170112b3b",
+      "toNode": "0f987adffd1ae137",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b1361305776abd9c",
+      "fromNode": "9a6c29d3e9b7c1d5",
+      "toNode": "83b05752d3ff5600",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fc5f99604346fdaf",
+      "fromNode": "25060bc72dda32f1",
+      "toNode": "9b2c9407bfa88054",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a9b3c51d48cfff3a",
+      "fromNode": "d1fad32e18f123c0",
+      "toNode": "8cc6994c9b1ba438",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "afe33209b456424d",
+      "fromNode": "83b05752d3ff5600",
+      "toNode": "e2635be321561a7c",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "4eab4d74c22fe6e8",
+      "fromNode": "6eff0b42ff20c808",
+      "toNode": "baf7498b5ffbfedf",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e1587531fd4c9701",
+      "fromNode": "6eff0b42ff20c808",
+      "toNode": "9a86d35a2df58ad2",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 15题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

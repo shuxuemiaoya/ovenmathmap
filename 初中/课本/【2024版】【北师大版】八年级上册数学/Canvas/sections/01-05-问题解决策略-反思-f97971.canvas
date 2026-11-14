@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "e39fc9839344d4ec",
+      "type": "group",
+      "label": "问题解决策略：反思",
+      "x": 0,
+      "y": 0,
+      "width": 372,
+      "height": 380
+    },
+    {
+      "id": "d08ed580e3407cc3",
+      "type": "text",
+      "text": "[练习入口 · 问题解决策略：反思](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5-%E5%8F%8D%E6%80%9D.md)\n\n共 2 题",
+      "x": 56,
+      "y": 252,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "60624f2df595397f",
+      "type": "text",
+      "text": "[✦ 问题解决策略：反思的四个环节与方法体系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5-%E5%8F%8D%E6%80%9D%E7%9A%84%E5%9B%9B%E4%B8%AA%E7%8E%AF%E8%8A%82%E4%B8%8E%E6%96%B9%E6%B3%95%E4%BD%93%E7%B3%BB--000005.md)",
+      "x": 56,
+      "y": 76,
+      "width": 250,
+      "height": 66,
+      "color": "2"
+    },
+    {
+      "id": "b8ad6eb3b0f347a0",
+      "type": "text",
+      "text": "# [问题解决策略：反思](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E7%AD%96%E7%95%A5-%E5%8F%8D%E6%80%9D.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "06c6305ca240514f",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86-75a20e.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "7bc2faeaf98466d4",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "53d857f0cba5a552",
+      "fromNode": "60624f2df595397f",
+      "toNode": "d08ed580e3407cc3",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

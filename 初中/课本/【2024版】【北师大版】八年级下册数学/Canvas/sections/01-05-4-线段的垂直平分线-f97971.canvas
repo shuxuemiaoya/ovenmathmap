@@ -1,0 +1,344 @@
+{
+  "nodes": [
+    {
+      "id": "e39fc9839344d4ec",
+      "type": "group",
+      "label": "4 线段的垂直平分线",
+      "x": 0,
+      "y": 0,
+      "width": 4498,
+      "height": 524
+    },
+    {
+      "id": "6bd31af98b3721dc",
+      "type": "group",
+      "label": "线段垂直平分线的性质与判定",
+      "x": 56,
+      "y": 76,
+      "width": 1652,
+      "height": 392
+    },
+    {
+      "id": "9ae9422e8fb2f25b",
+      "type": "text",
+      "text": "[✦ 问题 · 线段垂直平分线性质定理证明引导](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E%E5%BC%95%E5%AF%BC.md)",
+      "x": 112,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "ba39763bc732f6a3",
+      "type": "text",
+      "text": "[练习入口 · 线段垂直平分线的性质与判定](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/4%20%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8%E4%B8%8E%E5%88%A4%E5%AE%9A.md)\n\n共 2 题",
+      "x": 112,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "9e2695555e7b2d25",
+      "type": "text",
+      "text": "[✦ 线段垂直平分线的性质定理及证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E5%8F%8A%E8%AF%81%E6%98%8E--000022.md)",
+      "x": 532,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "3821c748d0dcc066",
+      "type": "text",
+      "text": "[✦ 问题 · 线段垂直平分线性质定理的逆命题探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E7%9A%84%E9%80%86%E5%91%BD%E9%A2%98%E6%8E%A2%E7%A9%B6.md)",
+      "x": 952,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1cd4c78509b6239f",
+      "type": "text",
+      "text": "[✦ 线段垂直平分线的判定定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86--000023.md)",
+      "x": 1372,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "ac3f6f899968029a",
+      "type": "group",
+      "label": "尺规作等腰三角形与三角形三边的垂直平分线",
+      "x": 1868,
+      "y": 76,
+      "width": 2042,
+      "height": 392
+    },
+    {
+      "id": "37b319cec5f197c8",
+      "type": "text",
+      "text": "[✦ 问题 · 已知底边和底边上的高尺规作等腰三角形探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B7%B2%E7%9F%A5%E5%BA%95%E8%BE%B9%E5%92%8C%E5%BA%95%E8%BE%B9%E4%B8%8A%E7%9A%84%E9%AB%98%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E6%8E%A2%E7%A9%B6.md)",
+      "x": 1924,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "c334fb85cb366689",
+      "type": "text",
+      "text": "[练习入口 · 尺规作等腰三角形与三角形三边的垂直平分线](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/4%20%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF/%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%8E%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%89%E8%BE%B9%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF.md)\n\n共 1 题",
+      "x": 1924,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "bfb2676a2f510a65",
+      "type": "text",
+      "text": "[✦ 已知底边和底边上的高用尺规作等腰三角形](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B7%B2%E7%9F%A5%E5%BA%95%E8%BE%B9%E5%92%8C%E5%BA%95%E8%BE%B9%E4%B8%8A%E7%9A%84%E9%AB%98%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2--000024.md)",
+      "x": 2344,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "4065b821d86769b2",
+      "type": "text",
+      "text": "[✦ 问题 · 过直线外一点尺规作已知直线垂线探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E8%BF%87%E7%9B%B4%E7%BA%BF%E5%A4%96%E4%B8%80%E7%82%B9%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E5%9E%82%E7%BA%BF%E6%8E%A2%E7%A9%B6.md)",
+      "x": 2764,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "d0ef4a3a99b843a9",
+      "type": "text",
+      "text": "[✦ 过直线外一点用尺规作已知直线的垂线](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%BF%87%E7%9B%B4%E7%BA%BF%E5%A4%96%E4%B8%80%E7%82%B9%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%B7%B2%E7%9F%A5%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%9E%82%E7%BA%BF--000025.md)",
+      "x": 3184,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "ed4c8493a199e0ef",
+      "type": "text",
+      "text": "[✦ 三角形三条边垂直平分线的交点性质](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%89%E6%9D%A1%E8%BE%B9%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E6%80%A7%E8%B4%A8--000026.md)",
+      "x": 3604,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "2"
+    },
+    {
+      "id": "7c93526f42486c76",
+      "type": "group",
+      "label": "习题 1.4",
+      "x": 4070,
+      "y": 252,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "902715250a6879a3",
+      "type": "text",
+      "text": "[练习入口 · 习题 1.4](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/4%20%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF/%E4%B9%A0%E9%A2%98%201.4.md)\n\n共 8 题",
+      "x": 4126,
+      "y": 328,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "b8ad6eb3b0f347a0",
+      "type": "text",
+      "text": "# [4 线段的垂直平分线](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/4%20%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF/%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "06c6305ca240514f",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-75a20e.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "7bc2faeaf98466d4",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "bdc86dd4d20ed26e",
+      "fromNode": "9ae9422e8fb2f25b",
+      "toNode": "9e2695555e7b2d25",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "99fffa1dbf79d5d6",
+      "fromNode": "1cd4c78509b6239f",
+      "toNode": "bfb2676a2f510a65",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ac1f7ca327f4e632",
+      "fromNode": "bfb2676a2f510a65",
+      "toNode": "d0ef4a3a99b843a9",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8547bb4c9c5e1f3d",
+      "fromNode": "d0ef4a3a99b843a9",
+      "toNode": "ed4c8493a199e0ef",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "85c96748f6793e99",
+      "fromNode": "9e2695555e7b2d25",
+      "toNode": "1cd4c78509b6239f",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b714e1db8a7377d8",
+      "fromNode": "bfb2676a2f510a65",
+      "toNode": "4065b821d86769b2",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e3f64025bb5d1318",
+      "fromNode": "9ae9422e8fb2f25b",
+      "toNode": "9e2695555e7b2d25",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "cacacfc05787ca00",
+      "fromNode": "3821c748d0dcc066",
+      "toNode": "1cd4c78509b6239f",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8285e137530aad7c",
+      "fromNode": "9e2695555e7b2d25",
+      "toNode": "3821c748d0dcc066",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fc5c93f8834e3f5a",
+      "fromNode": "37b319cec5f197c8",
+      "toNode": "bfb2676a2f510a65",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b7bbf8a4b3805365",
+      "fromNode": "4065b821d86769b2",
+      "toNode": "d0ef4a3a99b843a9",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c68d6dfb17748a7d",
+      "fromNode": "1cd4c78509b6239f",
+      "toNode": "ba39763bc732f6a3",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fd478d288eb3ed0b",
+      "fromNode": "d0ef4a3a99b843a9",
+      "toNode": "c334fb85cb366689",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6262e93e74b2e5ba",
+      "fromNode": "ed4c8493a199e0ef",
+      "toNode": "902715250a6879a3",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 8题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

@@ -1,0 +1,2734 @@
+{
+  "applied": true,
+  "atom_contract": "source-independent/v2",
+  "backup": "/Users/oven/Documents/ovenmathmap/Mathmap/.mathmap-linker/backups/20261114T060921188017Z",
+  "changes": [
+    {
+      "destination": "Mathmap/.mathmap-linker/knowledge-number-ledger.json",
+      "sha256": "7675675fb0896824ae0b56a6b61218e43027bd3f96f868d65d264d2bd334dcbb"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/exercise-number-ledger.json",
+      "sha256": "585618af1bdc67d9991c8e58a23d697f38f00fdb2cf94991f268cab18c7cd98c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从计数原理到随机变量与成对数据分析--Ga9d53bfb6e2ba5.md",
+      "sha256": "f4d8c8aeddd7e3530ef1457925a8efe01743cbdc3c0b5e77b11586b2464a7258"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/19/199b1b46f35e4c7c33556789dc1db4fdc1ad698500f832b9e2aad9f2e547a36f.jpg",
+      "sha256": "199b1b46f35e4c7c33556789dc1db4fdc1ad698500f832b9e2aad9f2e547a36f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从汽车号牌扩容问题认识计数原理--G87b42bc71b185d.md",
+      "sha256": "98727db8a441214313ccdc6f57b65be6a6d9478784ab0413368f3cd055bf30d3"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从逐个列举走向分类与分步计数--Gba811a897dd68f.md",
+      "sha256": "6070b7b925829dd3245f4f240c2cc043c8070cde07dd53aee12b827f0563db3f"
+    },
+    {
+      "destination": "Mathmap/知识点/分类加法计数原理.md",
+      "sha256": "ecdb67d2863eda4a0ec00f79202c3b82c8fd9d3edf1f0cb0781ee83b2e977500"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001635.md",
+      "sha256": "6e8384d4fcd5db38af4b2910055ef762629009f5a3129a73ae9b39a4d229d1a0"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000216.md",
+      "sha256": "bd861223e81b390b37a79e7cda5461550eea9724b1822a4bc5c0cd12d89f8e60"
+    },
+    {
+      "destination": "Mathmap/问题袋/探究-分类加法计数原理向三类方案推广.md",
+      "sha256": "0f5aae65fc02f53712c2c8c3f51834a8429666e6eaecee12cbbd9f3d2a397873"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/34/344f2b29649fe2b69a45b4fc50852bcbf38b7c41e85f7a68e9a0e337a46f647f.jpg",
+      "sha256": "344f2b29649fe2b69a45b4fc50852bcbf38b7c41e85f7a68e9a0e337a46f647f"
+    },
+    {
+      "destination": "Mathmap/知识点/分步乘法计数原理.md",
+      "sha256": "551461ca9be2f8fcce493a3df7336dfbc36f6bc9eb587bb5603765cc9b330464"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001636.md",
+      "sha256": "c0f30e014aa5af8b3dc47ab3b5d375ec6732d25a452451f17ac4b811d82f9127"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000217.md",
+      "sha256": "4a3b20918769e277700879002e373129106960feb1d4bfac0522cec1c6ad16eb"
+    },
+    {
+      "destination": "Mathmap/问题袋/探究-分步乘法计数原理向三个步骤推广.md",
+      "sha256": "94e129b23cb7aaa1ee5dc1b294020a7a06c30e3f1073383bceb24fc22703a4bf"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001637.md",
+      "sha256": "902d826a7161cb1efb32cc8eac2304b96a9fcce3a115c4810a63fb4e5013bbac"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000218.md",
+      "sha256": "27a3c903546d881778f68ee24e81f6b7b7803cbb5a320b2b73a499558d9483cc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001638.md",
+      "sha256": "54db931239dbeab9570917d3ee0d0d79d8652bd4a16722b9444e22c0e4aa26ab"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001639.md",
+      "sha256": "07aae2422f30503314f329b7acebb636df0caac2698f26d98d5289753c48c40b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001640.md",
+      "sha256": "5c0c2a92387a41663581ab4d85a67a589dca466f24ec8a210b1659a464f4f85e"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/26/264c572113007f763f7e0181d77e3d73ac80842442a3d2b4717d9d0d41822f11.jpg",
+      "sha256": "264c572113007f763f7e0181d77e3d73ac80842442a3d2b4717d9d0d41822f11"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/44/44a95d6c63de1cf5a3101676625fbdad9d1cadb57cfbc2c2cc8e2cd41e4dded8.jpg",
+      "sha256": "44a95d6c63de1cf5a3101676625fbdad9d1cadb57cfbc2c2cc8e2cd41e4dded8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001641.md",
+      "sha256": "d630d7c29ba7f78d8d2bc3d87427146b69f21a2af7c8cc3e4ec0cfba9dbaa37f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001642.md",
+      "sha256": "1e2494d5f934f796cb0abe8badb9c718ea939b68b89f028b7ae3ada520096a74"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001643.md",
+      "sha256": "5b31a5042280cab50fdc849d6a71e04f4e66640a06e888026a62eb7b82060bde"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001644.md",
+      "sha256": "1c5583fd04e881a7a54a0afee269d24f466e0261b368be3bdc82c7e31aed0429"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001645.md",
+      "sha256": "2716f2c955ec8df1d35f150f397c374fcc246659384e2af68c324b489e38ba75"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/17/17014010a8514275316743995a32605a2a8e6e4528684ef34690ca5a2feefd8f.jpg",
+      "sha256": "17014010a8514275316743995a32605a2a8e6e4528684ef34690ca5a2feefd8f"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/97/973a631ae6a84c6cae7cfa8b498aac1e2f7f4b18b68f4037894e1c11ed02538c.jpg",
+      "sha256": "973a631ae6a84c6cae7cfa8b498aac1e2f7f4b18b68f4037894e1c11ed02538c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001646.md",
+      "sha256": "c9b5fd7436ba8c471856a96f43d603737a18c67493ce62de9b2108735c80f986"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001647.md",
+      "sha256": "76a9a01b3cc2ab3efe7f7997eca1e256e24ae878156a80307d28727b6efb700b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001648.md",
+      "sha256": "6844ef3fb587d8fb265ce4ca509f2ba55371e9c7819899273f987df6d5a445b0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001649.md",
+      "sha256": "62a9159648fe800c84ef2607b4aa3ad1537d29a61473831062a845dbe7b8843e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001650.md",
+      "sha256": "b3b447e040f0ea5ba730ca67bb5dec5b06a8f67a73283f817447c179861cba52"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e2/e29d599a8810e565e8c05b0718089eaa6226249788cd5094ce74b3d0e4fea47c.jpg",
+      "sha256": "e29d599a8810e565e8c05b0718089eaa6226249788cd5094ce74b3d0e4fea47c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001651.md",
+      "sha256": "669fd87e8bf1f51950111c6df08a5f32eb5549c367649b225a0564d52a27a8db"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/23/23891a00189c67ee07ffc6336bc8608bbb8df76a728d647a75f3f82eb4e559db.jpg",
+      "sha256": "23891a00189c67ee07ffc6336bc8608bbb8df76a728d647a75f3f82eb4e559db"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/8f/8f17869b34fc7b065fb78346fab6f8f3a822772887878e1d9541d489481539ad.jpg",
+      "sha256": "8f17869b34fc7b065fb78346fab6f8f3a822772887878e1d9541d489481539ad"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001652.md",
+      "sha256": "85f1a21cecf5518f8148b1b2415cc058e0b5608e7c59b3cf0ba841c6c40e3c6f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001653.md",
+      "sha256": "06bf8da42d6e4e6eb0d0e045c2c5b2d78262487ef990f9675256e60a0da55894"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001654.md",
+      "sha256": "b322506f5d4ed96b996da517827eb50e50daab3f06ac5631a619ed6708f4ba63"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001655.md",
+      "sha256": "5d07ca351a74aad63e5c086e4daa94e57211628526c6fb36e4a031b19a752675"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001656.md",
+      "sha256": "221ad23392274b9303d9bdf20f6d73bc8bb505ba1dec3eea4ee6700c917fe6f5"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/21/2181082f8dd158249f81ae6e28c45aa62a0073d182502bd64dde5d4ec4d6b7d9.jpg",
+      "sha256": "2181082f8dd158249f81ae6e28c45aa62a0073d182502bd64dde5d4ec4d6b7d9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001657.md",
+      "sha256": "be43a3af176a689ae282fa686716ddeedc15bdf8d0a28a9efaa1a3854dc64e06"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001658.md",
+      "sha256": "73ec83a70f01d3a7b061d6e15c74d4a88ceafcd92f4c3ab793803ca6e968a3b2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001659.md",
+      "sha256": "f2abbc90e72cd5d167a13afa447f5cd32de8b3c1beb5a81a7b8569f4b94734a7"
+    },
+    {
+      "destination": "Mathmap/知识点/探究与发现 子集的个数有多少.md",
+      "sha256": "930eea1eab3c055f638e5e506c3183489c66000c2479075a1b06525b40975852"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/排列与组合--G8dda5d1d56ab6a.md",
+      "sha256": "13e0080a1536003630913c63d3f9f3a304388ba749be445a69ddacebfb746050"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/b7/b74273392ebd3a1fee84e78b4709772c7e61849cb01f9c00b61edd98071315fb.jpg",
+      "sha256": "b74273392ebd3a1fee84e78b4709772c7e61849cb01f9c00b61edd98071315fb"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/2e/2eb13bd732bd8fe060c66d441de3bddc305da5e872fa001fcb6f584c1dd80ec4.jpg",
+      "sha256": "2eb13bd732bd8fe060c66d441de3bddc305da5e872fa001fcb6f584c1dd80ec4"
+    },
+    {
+      "destination": "Mathmap/知识点/排列的概念与实际背景.md",
+      "sha256": "2066193963a24404c9d27f86d4085cd0a68fdaaa18b637366de16b699993c05d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001660.md",
+      "sha256": "264c1e1c05013c22276ca214179e7189ab63ab6396aaa4cda80a6361f68eec79"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000219.md",
+      "sha256": "1b59762f75cca0515813ce2b93767749ed0cf102f7a3a52333377da0a08bea5d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001661.md",
+      "sha256": "20af6af26017c2baa68f43a76afbe34542e65731fcce23e9f4ad851684d25444"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000220.md",
+      "sha256": "b033257d5b0d65b99a05a5e1e12efca63aae9db47821e26c232167d5328bd9a2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001662.md",
+      "sha256": "bf9ec1fed2c742b9b2ff4cf2ba572182a8b78ad6bf3e7fa0b9f98e73710b55a1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001663.md",
+      "sha256": "1995e310f3468dd39d46e8607a566d3d8bf5dc220e97c14c54ff08ba5da73efe"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001664.md",
+      "sha256": "9acbdb792a0e7b18777f27ceff3e7a64fcb1b8bedcf31ec04f6c3a0bd6b8e018"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/21/21bb7fadc039367fcd2d709a0a6e82944bd076b30c34769bee2bd7ba965c35fb.jpg",
+      "sha256": "21bb7fadc039367fcd2d709a0a6e82944bd076b30c34769bee2bd7ba965c35fb"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/e0/e0db1d8ba06c5a7334b19ca9b5bd1fb732adbab2d59d4628c9daf8c890f1b15c.jpg",
+      "sha256": "e0db1d8ba06c5a7334b19ca9b5bd1fb732adbab2d59d4628c9daf8c890f1b15c"
+    },
+    {
+      "destination": "Mathmap/知识点/排列数公式及其推导.md",
+      "sha256": "c0d83fb65d4e46ab907c0627a91bcf668fe52ef735bb1d216e586a77fb13a1c1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001665.md",
+      "sha256": "aa31be6f212e02567fae855e94cea553122725f02c0731d9129b8bb56e411705"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000221.md",
+      "sha256": "6a4269614554b16c4ee04967fb8ca880233dc383f06427740b7f98167ff49582"
+    },
+    {
+      "destination": "Mathmap/知识点/排列数公式的阶乘表示.md",
+      "sha256": "6bc88dd55e9f8138b823c213ceef6867de556de4910f4dff1ea1995fdb1649d0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001666.md",
+      "sha256": "ea9783a9e9f267aafd5a62a28df2a4e2dbf50f68578764efdb79ba2909bc4ef4"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/8e/8e3538ea9d63de17a210068703729ff2939124e242558ffe2b57f4f066cdc085.jpg",
+      "sha256": "8e3538ea9d63de17a210068703729ff2939124e242558ffe2b57f4f066cdc085"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000222.md",
+      "sha256": "1c20428952c2581a5c90e6434261b10c14f140c6551531e9a05cac28bf529978"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/b5/b596650efac881b7a38ebc8fc63286beb7b5bf2823a5b1d1981612d3cbc71985.jpg",
+      "sha256": "b596650efac881b7a38ebc8fc63286beb7b5bf2823a5b1d1981612d3cbc71985"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000223.md",
+      "sha256": "69499e51f620f1787596f95479967677ad19a7ff13989d940bdd5bb0d671f4f1"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000224.md",
+      "sha256": "652344e1bba68aedf535d5b1efba3a62880f709b4e85ed9210c49a9a89cf90a6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001667.md",
+      "sha256": "010b50472a9f826931f5761c79c6cb1c1ec531991aa2beecb67dfbad087c0987"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001668.md",
+      "sha256": "c962953e4dd55deed894ca0d91eaf7f77c9a1b3bfcce7195832ba991b10992b0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001669.md",
+      "sha256": "dc895a2a5b0e9c8959673726d28812fea4d331fb1de36a86f6cfbaf02a1997ec"
+    },
+    {
+      "destination": "Mathmap/知识点/组合的概念.md",
+      "sha256": "b114311e90ce363fcfd039f7d1bc8524698057d5f96a939fb295fd3ea79f36b8"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/72/7245ddc5594dc93c433742a74930e16c0e72332fae8de6ef90c4666c3c23577a.jpg",
+      "sha256": "7245ddc5594dc93c433742a74930e16c0e72332fae8de6ef90c4666c3c23577a"
+    },
+    {
+      "destination": "Mathmap/知识点/排列与组合的联系和区别.md",
+      "sha256": "c76fba327cb003d5c37d69da6f62f4210645b980be0a5a50ae1736b3e31d44cb"
+    },
+    {
+      "destination": "Mathmap/问题袋/思考-选车与分配车辆中的排列组合.md",
+      "sha256": "2d1338ec2521e40775313e51f985399e2d9de398b54a975a7a5a9df28e04bfe7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001670.md",
+      "sha256": "26f0a113a3e4b7defbb79ce7528d2ad45c009fb6a7035e96c3bd4de156d586e6"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000225.md",
+      "sha256": "1ffd87390fd2969c8b91855692513eb300c70ed733d76a1370c8777c468f991e"
+    },
+    {
+      "destination": "Mathmap/问题袋/思考-相同元素的排列与组合的对应关系.md",
+      "sha256": "068594ebe195ba81b2e23466321e9f8dcbff0ae60cbaaaef1fa99412d604cb42"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001671.md",
+      "sha256": "390ff8d29bfe36ed15c468a09bea2a4c4b2130128e1328fef7bea120b37aeaae"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001672.md",
+      "sha256": "1870776d2c8a184bc063bdf566747f644c7456d87d1e3d93c6c68842f599dd1c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001673.md",
+      "sha256": "d48d13796fcde223228087229a512f4d6b18a69a656d37e27d7dfe67512c978d"
+    },
+    {
+      "destination": "Mathmap/知识点/组合数公式及其推导.md",
+      "sha256": "27e437f9f77b403e342a5f20fa3bbc2e48d441b6991ec62d7974fb0d36252a54"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001674.md",
+      "sha256": "e886d722f647af0495c417b7cd8afbe8ba626c57afc5f91f0a5d7415f56c5fd8"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000226.md",
+      "sha256": "29848732c08c32898377d668218782c8595479894ba8281913326455b27c1851"
+    },
+    {
+      "destination": "Mathmap/问题袋/思考-组合数不同公式与对称结果.md",
+      "sha256": "5b6817e03ca450eb0252cb9b4e106a7bc8618e9daa2b797f2cbf1bf39a2e30b5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001675.md",
+      "sha256": "1c29a8fb4cddb802b4e0679e264c65f99896001b88572c47b0ead49bae858cc0"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000227.md",
+      "sha256": "593a5c97c335d2199e3b5bda5ace2c51c331b11f14ec49c39b79c7797b988953"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001676.md",
+      "sha256": "6e13cc634a723c7cfc869b41ab299239d630ee5a1bf9308bd18687f50d79635d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001677.md",
+      "sha256": "a0666bcf0f93f33f2023c6a24679a139ed28f51dceac4c0f18ee2d10a6ddc79c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001678.md",
+      "sha256": "9229aafc5f1422a736b2e6a592dbefb569fc2b64edbaeaebfeb5519f3bdc7d88"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/b1/b146a4b44e4ef0418da2e2719574d27766dc6ce6e17f388a8a2747c7b802fb39.jpg",
+      "sha256": "b146a4b44e4ef0418da2e2719574d27766dc6ce6e17f388a8a2747c7b802fb39"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001679.md",
+      "sha256": "556c17ce8da17111715603946792f7a2794a0fad1f5656cf23eee26db747d3c7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001680.md",
+      "sha256": "36159efd3b761f05f1ec81dded071507adc7afad8210ef6f69302771f4921e4e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001681.md",
+      "sha256": "1fdbba9e1b2deda52314c51cdafeedf4d88347b6f9c01f867b370a44c7d3a64f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001682.md",
+      "sha256": "275ae5168334fdb1758b3e29680bc93f6109d1cd4406b324e698364c24d51cfa"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001683.md",
+      "sha256": "005d69ff13c4c6e6874f51086dacff1620c7dd420f1304fcdf589a477f622e2f"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/63/63c02be49ee0889778d45e10a9841f20b33b150bc37d830ff9a98fc0952e44dc.jpg",
+      "sha256": "63c02be49ee0889778d45e10a9841f20b33b150bc37d830ff9a98fc0952e44dc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001684.md",
+      "sha256": "17ae099bbaef33494fa63cdf719b5d18b1e66cd9ec7fd6b73da62fe055513e0b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001685.md",
+      "sha256": "642a74b2a404d6d1f1fa6861e9f9adf5d1793f619b46d37e9a434843bf08948f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001686.md",
+      "sha256": "384c2e02f3ead228e56299aab8c9e7ecb486d0ecedab7c3100e2615e66fc0333"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001687.md",
+      "sha256": "7b59b5b963c59f425d84a2e3f23b88269959407cb79d9ef83749b85aa7fb29cc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001688.md",
+      "sha256": "a4191dac614c1fd8c23d90285e2fac036ded8f03a62116753acf710a16cb53cb"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001689.md",
+      "sha256": "8bcb7ec4e23f352fe9aa446b6b81f467329807106c25ec6d3f5b1413f29f7097"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001690.md",
+      "sha256": "c18ee775b917cf0c542f0d86c5c955d4627380da822f85ce1b9876c6d29dbe5a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d0/d0401a934b587090e0bcd92fbdd3176e5e321bf75b967165de1db3f51f361e89.jpg",
+      "sha256": "d0401a934b587090e0bcd92fbdd3176e5e321bf75b967165de1db3f51f361e89"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001691.md",
+      "sha256": "a5e27d189160d35a757a567bac89da76a2f2fbd477f446bc28ebe8dd8069738d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001692.md",
+      "sha256": "20dbcc422121a5491a7510348b7b64dd4ced6af4990d8e92be5d94a528d0726a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/0b/0b3d9aa985a50703741afdf95c7a17d869ae7675db6ab932d7bed0d3cbed700e.jpg",
+      "sha256": "0b3d9aa985a50703741afdf95c7a17d869ae7675db6ab932d7bed0d3cbed700e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001693.md",
+      "sha256": "5589852493cb184fe60c5cc5d5240bf0d11c95c1437e77bde0eed2320dcb8ece"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001694.md",
+      "sha256": "dd9a9cc646b46f9e286e9de7d35bcca4e1bddfbf6e44c5907c7d14124140a34e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001695.md",
+      "sha256": "bcb2e3d9e2eb82800370e36419f88fff1bb26aa100b7d1da2f32fb804ffba479"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/2b/2b8f70fefb192b697ad9f5d24193b7100c8b391a4ff1c14eb13cd46f20253b1d.jpg",
+      "sha256": "2b8f70fefb192b697ad9f5d24193b7100c8b391a4ff1c14eb13cd46f20253b1d"
+    },
+    {
+      "destination": "Mathmap/知识点/探究与发现 组合数的两个性质.md",
+      "sha256": "f47cb5ef890b38966023457c9a3fd00cba2e297745e7560ac966823811e1d0c6"
+    },
+    {
+      "destination": "Mathmap/知识点/二项式定理及其计数推导.md",
+      "sha256": "adf1b5aaf1c0cd5f326966c7b6790306b7a4973697466b9e1d32174e19cd16a7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001696.md",
+      "sha256": "6ef7863520b6367b794ad3df1b7da875f9970a012e0a10903387621eead48b4a"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000228.md",
+      "sha256": "3883ac1b1b4d0d534fe7da13c3f29a6030b166e9cf822f28731cf0a1ea72325a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001697.md",
+      "sha256": "134eb2a44511991017a761c3df4685978e5fa134c110eb4dc4738cd25452fb3e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000229.md",
+      "sha256": "d3050ac08582ae3d3e752c370c2c1601a8d0e258015d909d73e43722cc0a8631"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001698.md",
+      "sha256": "c7ca03311fe3b38e4d294ab9a631c033f175886f4f7a6ac58ca5ea0f39ce9183"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001699.md",
+      "sha256": "0400462ca0cb7ccf233b47402b825a7fdc2b552eb64f03e86ace87d62e74741d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001700.md",
+      "sha256": "b0a02c197442b6cec95a6e00e24cb05a093e4ce4561d8038ba78474b20c84e0e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001701.md",
+      "sha256": "9f6c5c5dbe8db4811d9f8b7a4f8fa70e506d36fecd60dc747286be0c1eeba8d0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001702.md",
+      "sha256": "a35c783c7637987cb5d1e5f913e223afccc264d39fbc41ef6acd4aabbfaa7989"
+    },
+    {
+      "destination": "Mathmap/知识点/二项式系数与杨辉三角.md",
+      "sha256": "166ea1129104bb2b71d2528f8082cecbe3ae4facece6b7af3b1086998cb0c440"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/64/64c8b3616b954ae44a05fb54c49caeba5beec89c61eb4b1b2d8d4e6b008d4a6a.jpg",
+      "sha256": "64c8b3616b954ae44a05fb54c49caeba5beec89c61eb4b1b2d8d4e6b008d4a6a"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/6e/6eeb87568d9460967554398d5fd606cbe55ff33b574dddc0e46937e7c2b1e64e.jpg",
+      "sha256": "6eeb87568d9460967554398d5fd606cbe55ff33b574dddc0e46937e7c2b1e64e"
+    },
+    {
+      "destination": "Mathmap/问题袋/探究-二项式系数表中的分布规律.md",
+      "sha256": "28383eb3f50c8dea2e3fd5b07f38d73dddf812ccf5bbbec143f65a4c2f743b55"
+    },
+    {
+      "destination": "Mathmap/问题袋/探究-不同阶二项式系数图像的共同规律.md",
+      "sha256": "0284730d103c4e3a7f215a6f7462a9af0102d62b35661df1ed5e670e61355487"
+    },
+    {
+      "destination": "Mathmap/知识点/二项式系数的对称性.md",
+      "sha256": "9a19246a099c316104e1536d5eef53f3ec88973863fe7bf31189b2a3194a5106"
+    },
+    {
+      "destination": "Mathmap/知识点/二项式系数的增减性与最大值.md",
+      "sha256": "a230709b3709997a1cb9ef6c94e1ace5ce63412d340cf016deef049d602bb36c"
+    },
+    {
+      "destination": "Mathmap/知识点/各二项式系数的和.md",
+      "sha256": "91759308031a93baacfcd777c76cbccd3f5adc64ca633ad3453d9a7c2f6b5458"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001703.md",
+      "sha256": "c95b9e4f3af0054b2040991c2ac25c62e43d205b77a6823d3201aa647a00e0e2"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000230.md",
+      "sha256": "e1b127612f0bb2ed0c983d99ef4522a806c426a708e559f63779a1423c7ee298"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001704.md",
+      "sha256": "de843a72e9233a45f7b1a6ce9f5ffb80f2efc074d35c4652acacc165ea460db1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001705.md",
+      "sha256": "d5280298f821064c61832b75320931ffd66a410fd23060698de5a53782455940"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001706.md",
+      "sha256": "08909a6cc066455f6f1a612c5f8b1704475adb05eddf59274f2eddb984ba5268"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001707.md",
+      "sha256": "9fddb88d6ccfa1050ecd94935de2276fd3a660aa84aa7e39ce9e7ffd77b57497"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e3/e3b54148a3eca1e40a8c8dd13d4034b8875431ecc51f30cf6efc957464accadd.jpg",
+      "sha256": "e3b54148a3eca1e40a8c8dd13d4034b8875431ecc51f30cf6efc957464accadd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001708.md",
+      "sha256": "9f222a2740630ddea16c0f1470a4906709d6684194ab5fad37d2b5705ec10ca2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001709.md",
+      "sha256": "8a9a029d09a8c2c7758205d81122e362cc17cfa6990915e88e28e20d21420d14"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001710.md",
+      "sha256": "cdfb332ea134e1f3ba19f215897f969be63b72973f6d685d84ef2a3253db437d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001711.md",
+      "sha256": "0d6589fa02c5a06c1e651d58d548595236e27c2841e9fd3ce5aad463bc43b50d"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/2f/2fa63fba864c73f9220d9e6faf0b7e84f5045870c57ec506a007bab25e31bb1d.jpg",
+      "sha256": "2fa63fba864c73f9220d9e6faf0b7e84f5045870c57ec506a007bab25e31bb1d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001712.md",
+      "sha256": "6ee70626268db40db437c309948b41483123b90664f25b4599ee430a015584e0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001713.md",
+      "sha256": "9509fcc550784cc7805143c0b30ee5fa2f9bbfeaa0b048fa31928e2d0764a979"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001714.md",
+      "sha256": "fd277c13dda829abbab9cf5be2de2f528762fb73a80f8ad6bd8ba0b06ed68a6d"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/2d/2dd3ab24c8e1301b1d874c9da7105acae7c1655c7e119c1d229260b2fd592411.jpg",
+      "sha256": "2dd3ab24c8e1301b1d874c9da7105acae7c1655c7e119c1d229260b2fd592411"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001715.md",
+      "sha256": "b5b9698bf200917583b527d7e4351a800dd4e7eff741bc39a939a97fb4546655"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001716.md",
+      "sha256": "1314f8972327e6ed28c368110089dd875e18d1603b4554eacb1021ab440a50ab"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/b1/b1cc36bac991e7540cba2f16b4c96405358d46b9cb377f1fa9fb53f3efb9aac7.jpg",
+      "sha256": "b1cc36bac991e7540cba2f16b4c96405358d46b9cb377f1fa9fb53f3efb9aac7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001717.md",
+      "sha256": "d4669e26047a37bc71471bb81cdb3c973a6863de1aa56ba6d243788865e1f8b4"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/49/49a91f0f882736d54aaec79afe7a9f3db4ddf1d520ad1deb012b84d6a55ce5a4.jpg",
+      "sha256": "49a91f0f882736d54aaec79afe7a9f3db4ddf1d520ad1deb012b84d6a55ce5a4"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第六章 计数原理 小结--G985bf542c45680.md",
+      "sha256": "20f3a59dccc486f1e44d36556b3418058b0a38c6e26a9cfa7569a67cef002dbf"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001718.md",
+      "sha256": "ba14a7e7a4bba3b2510ae246f2e56fecfe1868f4b5ae51ac41c8d332f7da4b0a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001719.md",
+      "sha256": "c5e119ad4a8d38fa851d94690c21fdec20256fb2863f6039766bbc9d504771d2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001720.md",
+      "sha256": "9e6340d03928c59fa5a71ffc455670035240a19157e67c9141a1fcbb13d63430"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001721.md",
+      "sha256": "145c2860ded1d838257334bb87b7b6f7faf687ee1267c11d31f33c7d9a0f5560"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001722.md",
+      "sha256": "655b206c31349f69a009a8e807dee6820477773d83520019fb5cb07dd1a5dece"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e2/e2a2ae8b298d0fcb41120551833d703cb06adb638187ad9c25f624d499ccffd6.jpg",
+      "sha256": "e2a2ae8b298d0fcb41120551833d703cb06adb638187ad9c25f624d499ccffd6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/81/81f573d771e0e0e04cf8cd2ef5dd621cb8913bdc78210319e1dbf6f708aa5701.jpg",
+      "sha256": "81f573d771e0e0e04cf8cd2ef5dd621cb8913bdc78210319e1dbf6f708aa5701"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001723.md",
+      "sha256": "e68fbe8e7351303a65f496493dd418b84345a93bb8b4f21f88c05b660c9b6823"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001724.md",
+      "sha256": "ca7c1843f2368fcef4c5e566d43596a7fd3e3447f0276a7d225cdfd0d8c67a4a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/f3/f30a45f8a85e893c7c5a42102be43ce9b3a7935947bd1197cc3d103c4ab1ed93.jpg",
+      "sha256": "f30a45f8a85e893c7c5a42102be43ce9b3a7935947bd1197cc3d103c4ab1ed93"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001725.md",
+      "sha256": "8a974882d8b2b7756ea829f3d64aed2b79e302cd3b90a5d15cf9dedae129197d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001726.md",
+      "sha256": "ce026431d639939227e3a34bed4798a2a700abfec72aff0da63feb88604af57c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001727.md",
+      "sha256": "075a1fe65bcfe4ccdbb321cd05ee66690477ef5e292c874d3aa99096fdfc12cc"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/1d/1db9cee589820ab479f65ba0aae1071c0cc23fcff0330dfbe2887d62a03a9d2f.jpg",
+      "sha256": "1db9cee589820ab479f65ba0aae1071c0cc23fcff0330dfbe2887d62a03a9d2f"
+    },
+    {
+      "destination": "Mathmap/知识点/杨辉三角的历史与结构.md",
+      "sha256": "ab39cbf0a9240090832370f78ecc8ea886cf5752a25c268d282278a2ee7de99a"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/03/03b6a741ca44ccada250e8442c58b5c1fe7c86c263923507545d1680b9a8b922.jpg",
+      "sha256": "03b6a741ca44ccada250e8442c58b5c1fe7c86c263923507545d1680b9a8b922"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/6d/6d5c00f39070b26f6d53834d463750df3293fc96505f3076e4230d8456f69a51.jpg",
+      "sha256": "6d5c00f39070b26f6d53834d463750df3293fc96505f3076e4230d8456f69a51"
+    },
+    {
+      "destination": "Mathmap/知识点/杨辉三角的性质.md",
+      "sha256": "1ae89cb4515a86b39eb8e93f98a1ccab6d73871ec47678b330c2315fea2347fa"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a1/a173f615cd285e7a9456755efc43b3dae75ce2da0a9fa21892eb300dc9291f40.jpg",
+      "sha256": "a173f615cd285e7a9456755efc43b3dae75ce2da0a9fa21892eb300dc9291f40"
+    },
+    {
+      "destination": "Mathmap/知识点/杨辉三角的应用.md",
+      "sha256": "d85a56e211e80e05e8fe3fcdd2b249930b8dfaa0eb796a004126b2fa20403e98"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/三、研究报告的参考形式--Gc6056b921ee546.md",
+      "sha256": "c1697eca06c7364cc07c24885a1789b0b8e1d70f7c880fba64efb0a15946492c"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/43/4348836c5f6e88730126443ab15374293917b34df2d7948033779e1f789e4559.jpg",
+      "sha256": "4348836c5f6e88730126443ab15374293917b34df2d7948033779e1f789e4559"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从古典概率走向条件概率与随机变量分布--G0cbbbd578c8b54.md",
+      "sha256": "c55337d989d0e6ad131dc595e4988a7a003cda823a8428ec40fe49411b51db5a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/条件概率与全概率公式--G50e2b1a9ae6445.md",
+      "sha256": "2e0bd79358095daf9a1c73d3c6731231e32826c011cbe513679e40fd6377d10a"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/f2/f2e8226ff38c097c392f6b4c79b2a126c86235ffe044659f5ae820cc9ca1fca0.jpg",
+      "sha256": "f2e8226ff38c097c392f6b4c79b2a126c86235ffe044659f5ae820cc9ca1fca0"
+    },
+    {
+      "destination": "Mathmap/知识点/条件概率的概念与计算.md",
+      "sha256": "d6f4750b3b0fbaef5693b8f1290133a9808542d49524d6ed1cade66ca8e5c782"
+    },
+    {
+      "destination": "Mathmap/知识点/独立事件与条件概率.md",
+      "sha256": "db17b93a644b5dd426773e5438a814b12ea10516a49f72ec1c9cec21329204bf"
+    },
+    {
+      "destination": "Mathmap/知识点/概率的乘法公式.md",
+      "sha256": "34064d7fd0513667aa6abc054ad1da880e717216491a7722303eff8d992e61ef"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001728.md",
+      "sha256": "949b5f329ac60f5ff9a20fd48e9e9f6f284a57370ec3823b5f888261603f0ba8"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000231.md",
+      "sha256": "4c1ac75c2314391057c6285032fda36ca89fb99890b286e62bba0615db841cf8"
+    },
+    {
+      "destination": "Mathmap/知识点/条件概率的样本空间解释与性质.md",
+      "sha256": "f2435a73590369b65627b749b973d9fc955bd36565540220c3c5e32860e9504b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001729.md",
+      "sha256": "92a577f777cc58cb9b43c79fcc7ad45f3e86fe3a8265f896337486a52e8561e7"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000232.md",
+      "sha256": "b5dcf2711ad5508c4ec86293349c4621455a4f6e76add3e886d700cd430bada4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001730.md",
+      "sha256": "d09c76da311852043f78ca5e96d64ea64e4149f0ef6944abbbe76545e28ff5f8"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000233.md",
+      "sha256": "3accac78631075b0f4b90c98e832d61a00759dc8641acf0f262351cf11dc4c08"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001731.md",
+      "sha256": "fa4a23e794b00ed07c68c55ae32ed6df05ea04b967129a1b2f74a0223dbd4633"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001732.md",
+      "sha256": "1318113cafee2a483ed2a480a6a1af804c33242245f2de2d1a5238635532f1c8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001733.md",
+      "sha256": "654e59aec1d0786f278bd580ed554a651a88536759dab840bdea1e63c3bb93ba"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/全概率公式--G483d8f9117d8e5.md",
+      "sha256": "188d0ee1612bde645dbcc55fb70524fdf041d392f0a8d583d2c9cc3496249e2c"
+    },
+    {
+      "destination": "Mathmap/知识点/全概率公式及其应用.md",
+      "sha256": "08e58061c9352de10d8b245ab3c0c6f93a22323ea9851397ce946505101b986b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001734.md",
+      "sha256": "52819f0c84146e6f44daaebafd3637d6e2f9307ea7bacd9a09d87966fd7f864d"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000234.md",
+      "sha256": "48e769a27b79862f513c214ca9722230971819186da3051482dfe515a2bd9093"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001735.md",
+      "sha256": "069ff6da727d2408b0a1303ca561df59b49e7aa5ef5e051d28874f430245b5fd"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/94/940fdeabfbe86a361802be6a9027315e593b1ed735ec08ba2d73850e22336e24.jpg",
+      "sha256": "940fdeabfbe86a361802be6a9027315e593b1ed735ec08ba2d73850e22336e24"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000235.md",
+      "sha256": "ec8bb13b4ab2e3bf8532951383aa390c1821c08b8af62ba61af37931e89e2735"
+    },
+    {
+      "destination": "Mathmap/知识点/先验概率与后验概率的解释.md",
+      "sha256": "d77b26b6c88fe2a02a3d6829afdaf4094254115ddba72f07af83211fb93f04d2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001736.md",
+      "sha256": "01fdb7f37fdec07e4a901ad04cab9d7ac9542a395143d0af91527c593a1501f8"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/5b/5b63be3e753ad85f9632a3ee6e716f5095991d1dc97035b9bab074f475c2bff9.jpg",
+      "sha256": "5b63be3e753ad85f9632a3ee6e716f5095991d1dc97035b9bab074f475c2bff9"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000236.md",
+      "sha256": "d4002a0b37c9133d5e9b1a548ee2496fc9885b75d8569cb70da003032c4c79f4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001737.md",
+      "sha256": "0bd4b8e4ea3465bdfed2f344214b1b9f19089d1c3eed8a9d93d41f89f863aced"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001738.md",
+      "sha256": "9f1bf9548535312f490e8c29a95fe966c202b04f5b4f2041cd9341ac04f6f073"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e3/e36db5e0df4aa62f3f767740389029f5e316d13e80d473c98ead109025a861f9.jpg",
+      "sha256": "e36db5e0df4aa62f3f767740389029f5e316d13e80d473c98ead109025a861f9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001739.md",
+      "sha256": "5f742df34b26f4defd702223a7b482ed6c8c28da873d1be254fe1d4d4a619f37"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001740.md",
+      "sha256": "8f107f200f03c017131e459b77acd1afbfee1602a018d1059e82a5f31e71caab"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001741.md",
+      "sha256": "74f06f71f415439d092d408dc5c144fb63029591089605892007ba0d1c04e988"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001742.md",
+      "sha256": "3b04a953d9f7fe2c55f4036069088dc94242c8f7c49f40da4f51dd6bd5e03f1e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001743.md",
+      "sha256": "4c6264958bae1847e839fb1f23b739fb8e2abd68a2a1f34071605dc7df1a2ed0"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/09/09f435cd79e1d5bc27d4d9495e2a119af0a001833197fdfda548bfa7da41a42d.jpg",
+      "sha256": "09f435cd79e1d5bc27d4d9495e2a119af0a001833197fdfda548bfa7da41a42d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001744.md",
+      "sha256": "8570f3a253cb03f082acc2464ab3e489d752e743c47dc511dbd00d3a4c051f34"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001745.md",
+      "sha256": "fdd69c746905208f605c0ba89c244b6832c365f974a619e11a7f82d2fa885273"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001746.md",
+      "sha256": "5f2443233ddcc2b940ebadb9805449f9ff1e2b2ac00ffb509b1a8e24e6d0a204"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/6e/6eb5fa44d54883c56799f32b1579c7f424ec101197fca76dffe36aa0e163909d.jpg",
+      "sha256": "6eb5fa44d54883c56799f32b1579c7f424ec101197fca76dffe36aa0e163909d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001747.md",
+      "sha256": "322c581f582ca434de76bf448a915831890f0a0e188c9dcb6f4bbd4fb5a3fa97"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001748.md",
+      "sha256": "eacd60fb042ea1b1e4140a2bc8e87421e03e87792363069d3928ccd08f5d041f"
+    },
+    {
+      "destination": "Mathmap/知识点/阅读与思考 贝叶斯公式与人工智能.md",
+      "sha256": "35aee065cfd2c39e7b1b740069a366917838342c71c42896f397b0c40ad92133"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/d9/d9c4bff74361c84fdfb98ff1fa9a2a02ddd81913730ad25c98394949023b5d7c.jpg",
+      "sha256": "d9c4bff74361c84fdfb98ff1fa9a2a02ddd81913730ad25c98394949023b5d7c"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/65/653a1e447492035c01713658e1efbd4058deaaf035b85c31d85b8d6d78e9f752.jpg",
+      "sha256": "653a1e447492035c01713658e1efbd4058deaaf035b85c31d85b8d6d78e9f752"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/6b/6b3ab1ff7a5919eeb1b355559621130f378fe3ec61d7c283543e67cac8705ba8.jpg",
+      "sha256": "6b3ab1ff7a5919eeb1b355559621130f378fe3ec61d7c283543e67cac8705ba8"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/ff/ffcbae7fc3dbc83aff7611115c4c0052bef1b3e74543ef15f108a97b11d92f07.jpg",
+      "sha256": "ffcbae7fc3dbc83aff7611115c4c0052bef1b3e74543ef15f108a97b11d92f07"
+    },
+    {
+      "destination": "Mathmap/知识点/随机变量与离散型分布列.md",
+      "sha256": "08043209b29be4694d3e6aae590f4cb1f40b19a0afc9307af036a53a07494c27"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001749.md",
+      "sha256": "7151d4f09c4faa7e40f0aae2f55032f003465c3a47517c2a6b2c684606e8dff2"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000237.md",
+      "sha256": "22d6c9416b17bca18448b76dea5d99e93b2e45c44153620afb2d18148ff6a339"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001750.md",
+      "sha256": "2078182f6f5a9091ac3e2a275b48e20648599bd4816598cd10d0e2a5339b5c1c"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000238.md",
+      "sha256": "d558edd83b65e479ad9ae0fcae11fa29cd139f50b8828224a8ef332762f38f8f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001751.md",
+      "sha256": "d1dcf51354a195404d5490d7ed49c2465ed3f15bbea7c76ec6814b6a0f62e9db"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000239.md",
+      "sha256": "2dbb607468decfbecc2009f9ba5f47c918ba8a55b002ee970630e96bbb18c691"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001752.md",
+      "sha256": "a275e7821c4046c4b6f5754c49533cea55baf5636b7246f29828bbf68c40056b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001753.md",
+      "sha256": "941fc7e3976e0aba1cecd9189f90a1aa32f30c3ce011dc07670c7944f6242b53"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001754.md",
+      "sha256": "1073f5c95b3fff2f6aba1807609405133e55e4b788119f10b12f3a99825ed7b3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001755.md",
+      "sha256": "88d0392f8c4703f7f39c6cd14c7747343c4e8e613fe4c557f28c4671f8324c98"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ae/ae9fdc288ae42930de6a99bca362c27c92a47f9a5e7a00f2b19a576e4ad871ba.jpg",
+      "sha256": "ae9fdc288ae42930de6a99bca362c27c92a47f9a5e7a00f2b19a576e4ad871ba"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001756.md",
+      "sha256": "53a32775a243a735152b382fdd75f73e2747ce3b06c23db26a9a41e39f2d2489"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001757.md",
+      "sha256": "b38c78bcf99299563a740168878b085db193b1d1e9b24ca11d3b959a9069465f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001758.md",
+      "sha256": "f9808415838c63b0ea21cdd13eab1ed5ec82bfd315debcb949e945e9483a1ee7"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/42/42820917c332e4e6a4bd57a45ae755a5fd987a0a490ffc503f360aa000f95537.jpg",
+      "sha256": "42820917c332e4e6a4bd57a45ae755a5fd987a0a490ffc503f360aa000f95537"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001759.md",
+      "sha256": "90fecdbef67c83585953339bce7e9624b2a23cffa6e3d2484197fd41c1672e4a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001760.md",
+      "sha256": "a25b36098daa4c5f1dc1d23b68aacbdea2ff8e8c05df1ab21c1d7b9b2a06bc72"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001761.md",
+      "sha256": "0dbe2fdbf339e2cf08526b9ac13d1f1f6242e321e196dc556ccf920451aea13e"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从考试成绩与射箭水平认识随机变量数字特征--Gc16de126f3ee9f.md",
+      "sha256": "21be43146b708606076f61d7dad92e9d3bdb80e8657758e34cacaca5f429c435"
+    },
+    {
+      "destination": "Mathmap/知识点/离散型随机变量的均值.md",
+      "sha256": "4d0d78ce4a35bd291b93f91f5748d59414407735934deba16ddb6f764987943a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001762.md",
+      "sha256": "743e9997784c731c405231c9eb9ac085e1341f78f9cfc758c33cafee11273d89"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000240.md",
+      "sha256": "c5dbafef541bc2bedc22a6282b197e9eb1f83b4ed7e3f1b617b59cb00e9526e2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001763.md",
+      "sha256": "c138d21af65d9897931473522a9cf2b3d11b9e289021a78a15f85c9e91eff1e7"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000241.md",
+      "sha256": "326bf661b869e63521f1618c27ae4cf3e4a3557a5fceea0425151148a08c3afd"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/8d/8dffa947bff4e8a71bbd7c58a8446ba7c31a04010a981f60b3899efb58d0b874.jpg",
+      "sha256": "8dffa947bff4e8a71bbd7c58a8446ba7c31a04010a981f60b3899efb58d0b874"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/05/0538ef5eebbaf1854bb94df64559d1de22a2667ea12b6f57d7485451d4df7ce4.jpg",
+      "sha256": "0538ef5eebbaf1854bb94df64559d1de22a2667ea12b6f57d7485451d4df7ce4"
+    },
+    {
+      "destination": "Mathmap/知识点/随机变量均值的统计含义.md",
+      "sha256": "da63d1dcf8f23eca9d95ed80749ccc95ec1e8d36f0fb0309eb1aeb2bea27b354"
+    },
+    {
+      "destination": "Mathmap/知识点/随机变量均值的线性运算法则.md",
+      "sha256": "054b4520d9c7b1cde4b7ed1f55e9de17095be4dc1298c38c0a4b935646dd65e2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001764.md",
+      "sha256": "db3039825fbd5d6160c07e3be5aa036f7a44ed838675b510757637236aecee02"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000242.md",
+      "sha256": "e0420498c47b07eb11bae3879e8db59644a39b2a456c14e604e049f890a79aef"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001765.md",
+      "sha256": "fb1ece166f15f14d8cab1bb337d6d3728d53e2f453766e33a47cae3bb471df86"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000243.md",
+      "sha256": "9f3b6d9626fa4d94f67c89e355ff38d1c7fa0eefe38a6e3db2a6edf545b5eb55"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001766.md",
+      "sha256": "a61ef18291036fa91306419946df73057bdd5d6238ae498198a2378486373d4b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001767.md",
+      "sha256": "5c09262ac670ac63d0714dbf2cd3ca66dfe012bb8411890da30a54813a8e523a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001768.md",
+      "sha256": "40912de58a4efb0fab9847e62f764cdcee0b70bebbfe2baf4e938e903ae23577"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/87/87dba2b4ee4ce5c4f159194c9154f93f9f0bb8e55ed81d959b00aa09b73c3220.jpg",
+      "sha256": "87dba2b4ee4ce5c4f159194c9154f93f9f0bb8e55ed81d959b00aa09b73c3220"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/24/243e30e0f57a4041b95d3d745349c36eb23c6f6a9784f20c9c41d2f60e7afc4f.jpg",
+      "sha256": "243e30e0f57a4041b95d3d745349c36eb23c6f6a9784f20c9c41d2f60e7afc4f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从均值无法刻画波动认识随机变量方差--G6686e039fcce72.md",
+      "sha256": "136784b90958d5898c94ae069aaa148c2ed15d82221d4dbb256d70295da99dc1"
+    },
+    {
+      "destination": "Mathmap/知识点/离散型随机变量的方差.md",
+      "sha256": "ce6906ba3f44adc0252c998a5b078597d58c8ed7053df007e8ac65c8996a4414"
+    },
+    {
+      "destination": "Mathmap/知识点/方差的平移与伸缩规律.md",
+      "sha256": "7a1c9ff566b7456b3920fef45a454ad26c2de4e5032d6a891588f6319910935d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001769.md",
+      "sha256": "52f90b81f7a391f25871baadf3f51bc00f2c99215f265cd2aab03b38c14caa8f"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000244.md",
+      "sha256": "b3c1bf233060fdf4e653b2080766ef4667a0a57f4bbef5c72b4fabd1e4b406f8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001770.md",
+      "sha256": "670b0495fdd85cae401b881bb3bcd75be94d196ea8f8e38ab0ef16ed15cf4ead"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000245.md",
+      "sha256": "79683a3ceed99b83628215ca46fe7233726bd0f28247940a02cfe9429d32b748"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001771.md",
+      "sha256": "d846db3941cc0878f1f839bf97e486017d983578e3a2482b298d87a6a317f2a4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001772.md",
+      "sha256": "56fbe82f39aef427b4570dacb6d50413fa91b2de769e857a8480a5fd59e1cc20"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001773.md",
+      "sha256": "23e328e253eaf23ebc71c8d680bce46376908be4a6a3aae09cdc948727344b7b"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/13/1393e97b58960efd383d6c41e8abc91b38d56dec4960e77865ccef9d0a718bc0.jpg",
+      "sha256": "1393e97b58960efd383d6c41e8abc91b38d56dec4960e77865ccef9d0a718bc0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001774.md",
+      "sha256": "142b582760be747a1a07366cf11d8f2d71e7f85a84d83857b6847c7c487ba9c8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001775.md",
+      "sha256": "a8bdfb1491ac030585cd9728a9e15468cc6de7e4faa983ba3b0be7e76e5ef2c2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001776.md",
+      "sha256": "0afc378ba34cffe97320c335764aa2218b43d6057e28574a4f76be1b36f847dd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001777.md",
+      "sha256": "2ec8563586b37f058aeb5b53c46b43c9cb4859fe7cc9963c01b0ba29dbbe174d"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/9f/9f8d6284d6c35fda366a35b9f48fd32b5f04103fa1515144170d1f9927997df6.jpg",
+      "sha256": "9f8d6284d6c35fda366a35b9f48fd32b5f04103fa1515144170d1f9927997df6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001778.md",
+      "sha256": "c1c36e7f21350819b9ec27b1096c81d0ab4c553df09038303141cd1586434511"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001779.md",
+      "sha256": "997824fb0dbb911f6f9485249057c783e66712c373d7b0eb5848fc74fa2cc2fe"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/1e/1e651db3f446221b504f91876ac37b07cbb4c8ee9eb5ef4a5171492a035e5eca.jpg",
+      "sha256": "1e651db3f446221b504f91876ac37b07cbb4c8ee9eb5ef4a5171492a035e5eca"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001780.md",
+      "sha256": "34fffff230a409d8d2e8da6f819c0f6b36a492644243299efbe4b02ee955909a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a3/a37b3341c4f235f8fcade7103f49b6e32fb1b17bb10218b2f35ef4db77cc46f9.jpg",
+      "sha256": "a37b3341c4f235f8fcade7103f49b6e32fb1b17bb10218b2f35ef4db77cc46f9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001781.md",
+      "sha256": "30c2eac36df9e259cb8f58d8f11f92a12ba7999d158d82a76a595d21fadb6ca5"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由离散随机变量分布走向二项与超几何分布--G3b446f38ee1fc2.md",
+      "sha256": "18ad65e0602571b03153def72b887fce231e1e44e499a430e3a6ea6e036f5157"
+    },
+    {
+      "destination": "Mathmap/知识点/伯努利试验与n重伯努利试验.md",
+      "sha256": "c29b120b5d03b07c530b23ba3a7085e98259124e0da96ebdc2f4d3935572217d"
+    },
+    {
+      "destination": "Mathmap/问题袋/思考-辨别n重伯努利试验及成功概率.md",
+      "sha256": "f438733ee81274594674d53d9388336e8514fa7915eb81adcb65ec02a353b416"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/85/853b1268d239826cb203d5978a1370ac236673f4088d8f599f9df287c38f42b5.jpg",
+      "sha256": "853b1268d239826cb203d5978a1370ac236673f4088d8f599f9df287c38f42b5"
+    },
+    {
+      "destination": "Mathmap/知识点/二项分布的概率公式.md",
+      "sha256": "6a291487cd4e712b1ce31eb410477d21d354880348a0859c120686752a680422"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001782.md",
+      "sha256": "a772b0a645e191cbb025e567ea08049b9ec4b7453d6a83711f36821ee2d3c865"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000246.md",
+      "sha256": "211e632a447afc6f2b90243de5a27970ff0c353905c2127c57cb0744bab9794f"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/39/3959fab93bbc55b0f823008770d0ae1ff9f4e4a16a5e3f6bd53bb4d0c490d6ed.jpg",
+      "sha256": "3959fab93bbc55b0f823008770d0ae1ff9f4e4a16a5e3f6bd53bb4d0c490d6ed"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/20/2023cd14f65267396dcf9fb09d52020ae50c84e2f058c9e7bca22a0f94aa7651.jpg",
+      "sha256": "2023cd14f65267396dcf9fb09d52020ae50c84e2f058c9e7bca22a0f94aa7651"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001783.md",
+      "sha256": "d316a585b6717f0f81335f0df48d272f74499fd087345deeda9d7d71cee651e5"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/20/2023cd14f65267396dcf9fb09d52020ae50c84e2f058c9e7bca22a0f94aa7651.jpg",
+      "sha256": "2023cd14f65267396dcf9fb09d52020ae50c84e2f058c9e7bca22a0f94aa7651"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000247.md",
+      "sha256": "af6a9e474f6e3d19e5de4547e1e66493652fc122cdb08840895ee28a9f813dbc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001784.md",
+      "sha256": "4b3fdc3adbbfd08ef77f83e49f849d9dc566530ed2956be79d1c9f45dbffb1dc"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000248.md",
+      "sha256": "7f9740ed5400ead80206c55e024571ceb1814cc9623af31d54ac9f5ac53c507f"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000249.md",
+      "sha256": "9663a9fd2749005cc313d404dc7d775981594550b465b59d34bb11ede833ab8c"
+    },
+    {
+      "destination": "Mathmap/知识点/二项分布的均值与方差.md",
+      "sha256": "7ed2569d8225c57425d42f6a455aa6d01067d150c0ec027974de47255b26b726"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001785.md",
+      "sha256": "27062b9d6b3c185217b729cb7a9e5147e9ca9a7e0fe714de5d5027c794612e91"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001786.md",
+      "sha256": "79bd16af9956a65b540aa6e1f4524c67b37e61ea319862524855b05a94f12f3a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001787.md",
+      "sha256": "d0848e4135bb6126014ce0ee602a70a608555ad226423a2dabc0e1de7f6a1404"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001788.md",
+      "sha256": "92db2e34101303c413bcfa021eb3c93d8f9a3e715f7a5ce41bcbca7d6b2c6d4a"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/e0/e0c16f785055ce28d380a207f9724f5d424881c1a3955b50c436b86992996ef6.jpg",
+      "sha256": "e0c16f785055ce28d380a207f9724f5d424881c1a3955b50c436b86992996ef6"
+    },
+    {
+      "destination": "Mathmap/知识点/超几何分布的概念与分布列.md",
+      "sha256": "b41f01a77f32e48e907adf31bad134cf816859b7f2109e6263d8adeb8ac7ef34"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001789.md",
+      "sha256": "1e1da957afc4dc32a52f013bfe107cd345e8426a918f49569bb815440cd88d85"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000250.md",
+      "sha256": "640aeef87d12fb6273efb04452d135e0cab8405b495c770292d432bd7d5f76f0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001790.md",
+      "sha256": "24f6f4445731b7cdb2e06524c00d91e83505b3f96aa803aeeccca4a2ae458c2c"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000251.md",
+      "sha256": "a35f2dc2b21130a238509b648904b64629e8f0524fea1a9f2d55d2cb7c6b32e9"
+    },
+    {
+      "destination": "Mathmap/知识点/超几何分布的均值.md",
+      "sha256": "34da54af5888a83b577f8bb04326d1e583627083c4257730a0e6bd6152762e60"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001791.md",
+      "sha256": "deb3a4b16b8c8091a4cda7de64f02dbd147fe8a7ecfcc223633ce529a14e5a60"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/dc/dcbe084ec6a37aac58f4516b3a2858e382c30085bb41c86546c891ea5e0dce02.jpg",
+      "sha256": "dcbe084ec6a37aac58f4516b3a2858e382c30085bb41c86546c891ea5e0dce02"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000252.md",
+      "sha256": "aebbd39417225c4efc01f0a5b00420a00edffe6ab86f8de90661c0e4e7af3808"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001792.md",
+      "sha256": "40f57f9eb395159fb7a59636509bea912d4dcfaed10f527d2ab2c41f86fcb759"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001793.md",
+      "sha256": "dc7462c12ededa202a4dfce445723c4d9f2e8c5fa460ebdbb1e195f853f10216"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001794.md",
+      "sha256": "7e73871fce0b27bdf5d71aee0fad359a04966703227f1bea0b2ec816fe89a4a5"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/50/502e4f7d57d6d8da45a7f98868faac3e9fad82fb610b1c74fab9b2f5e921e1a3.jpg",
+      "sha256": "502e4f7d57d6d8da45a7f98868faac3e9fad82fb610b1c74fab9b2f5e921e1a3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001795.md",
+      "sha256": "0df417a0dab0a18698729c4c28b662f0c15428fed7429a25ca3ca951d0177763"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001796.md",
+      "sha256": "33fbbd5fa3c0a797b51419d9f474f5933541c1db4463f9bf9f29beeb830e1675"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/86/86817bbade4be0d8f7fe185b6a88125d374be31400bafd086252c1d0f703b165.jpg",
+      "sha256": "86817bbade4be0d8f7fe185b6a88125d374be31400bafd086252c1d0f703b165"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001797.md",
+      "sha256": "9b8e7fafd9633447cd0a3bb2cfa9d2e4085e58022272bf7cdb94ebbb013a065f"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/9d/9d27adc4fd1fed5a639730dea6d43d5f80e47154fbd40fce70f24100273df0e8.jpg",
+      "sha256": "9d27adc4fd1fed5a639730dea6d43d5f80e47154fbd40fce70f24100273df0e8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001798.md",
+      "sha256": "52fc40e64a62707a933941db78272082656446c52aba25b2cb1216755b1347a0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001799.md",
+      "sha256": "a75f96a616e8d46d7eb6be1be914876d7490b6764576c792a0a08daec7f9920e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001800.md",
+      "sha256": "ea874163952f7ffe4b43aff755f147d514b5fcd65b60ebb0b7f0a05683534c90"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/b4/b47cc9b3a123eded2fa2e90fb283c9db3a8266ddd078a8afc46a23456abf1c9c.jpg",
+      "sha256": "b47cc9b3a123eded2fa2e90fb283c9db3a8266ddd078a8afc46a23456abf1c9c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001801.md",
+      "sha256": "dc703a9a581ae59f45f782202d78764f07d477e64eec17fbff22523c568def0f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001802.md",
+      "sha256": "128b834015d1a019f5a8491055feaa44da643932a633cf151e4cc0b9a6839299"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/ff/ff0709ed4969bb25efc4663c45e82abf9c48e4cbf93e29c8b3a994fa4e7e12b4.jpg",
+      "sha256": "ff0709ed4969bb25efc4663c45e82abf9c48e4cbf93e29c8b3a994fa4e7e12b4"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/b6/b66ccc9fad86144a48783f3fb140b62ec22a38baa616ab8e45686ed5014e1ba4.jpg",
+      "sha256": "b66ccc9fad86144a48783f3fb140b62ec22a38baa616ab8e45686ed5014e1ba4"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/9b/9b87659537a96151f039b7ff82db30d92a02011a9de70a2da4d8c1f88a11a51b.jpg",
+      "sha256": "9b87659537a96151f039b7ff82db30d92a02011a9de70a2da4d8c1f88a11a51b"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/85/85e4ef0f06c80c2be00a525812bbf7a7cd594eba81ddf0169a7c6233675a4b26.jpg",
+      "sha256": "85e4ef0f06c80c2be00a525812bbf7a7cd594eba81ddf0169a7c6233675a4b26"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/c6/c6454fb4b29a16493ac828939ac8ff2c7535ee92736ab3ff0455a6022e9adcce.jpg",
+      "sha256": "c6454fb4b29a16493ac828939ac8ff2c7535ee92736ab3ff0455a6022e9adcce"
+    },
+    {
+      "destination": "Mathmap/知识点/探究与发现 二项分布的性质.md",
+      "sha256": "aa957af05b1c12349d8ef71c71cd35cb5c4eaef091a901d1fe69866584a12bdd"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/b4/b47a392e7e98ea162e2e3769e540f4510d9ade5a1eb130300112a3a1c3aa1d4b.jpg",
+      "sha256": "b47a392e7e98ea162e2e3769e540f4510d9ade5a1eb130300112a3a1c3aa1d4b"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a2/a2bf373a22d0fea7dbbc37d239ab9d1443cc78bacbcd8a4709af6330e42441aa.jpg",
+      "sha256": "a2bf373a22d0fea7dbbc37d239ab9d1443cc78bacbcd8a4709af6330e42441aa"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/eb/eb2683c00abf6190967de1638b250d6ea53a8496d2173fecc80b982b27964f52.jpg",
+      "sha256": "eb2683c00abf6190967de1638b250d6ea53a8496d2173fecc80b982b27964f52"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/9e/9e1f3e28d67a9f0051bb01768c8de3d57ff0f544ee73a9fcba527b5c9ee5c16e.jpg",
+      "sha256": "9e1f3e28d67a9f0051bb01768c8de3d57ff0f544ee73a9fcba527b5c9ee5c16e"
+    },
+    {
+      "destination": "Mathmap/知识点/正态分布与正态曲线.md",
+      "sha256": "7af48de46bb63b2b563f5740a3538e96542feb29eac10badf7a801e2114975ae"
+    },
+    {
+      "destination": "Mathmap/知识点/正态曲线的基本性质.md",
+      "sha256": "9e834ab77f509131f045f39ef40f6d66decda3c57ae9c6db9e40efd0377c5b98"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/e0/e06a9bdd20d112e99d9a88ae70ef7d56f483b56da71e1c1660e308fc961d6e0e.jpg",
+      "sha256": "e06a9bdd20d112e99d9a88ae70ef7d56f483b56da71e1c1660e308fc961d6e0e"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/46/46a81bbb87339d33509cd09481c268851e943a70444b1a2f7328b40480e347c4.jpg",
+      "sha256": "46a81bbb87339d33509cd09481c268851e943a70444b1a2f7328b40480e347c4"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/87/8710acfb249f2a5afe17d75ec41e85dd9156af920afae444093e403e4cf7a25b.jpg",
+      "sha256": "8710acfb249f2a5afe17d75ec41e85dd9156af920afae444093e403e4cf7a25b"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/75/7599207c7a2e67d921523fd8699c320f45ca6135c99227e7e6dcc9181ba8b735.jpg",
+      "sha256": "7599207c7a2e67d921523fd8699c320f45ca6135c99227e7e6dcc9181ba8b735"
+    },
+    {
+      "destination": "Mathmap/知识点/正态分布参数与标准差区间概率.md",
+      "sha256": "1d16f41523e8b93ef14cc6376aa221a8eb8ff29b3a3ba1da7e63def46591a587"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001803.md",
+      "sha256": "4b1c28f890c1e2fb2d020393bda3d76e288f74e68fbd185960a2a53bae77da9f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001804.md",
+      "sha256": "3359908ed6af66519957b31506b01d9894333ae6137c72978ecefe36425b1f5c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001805.md",
+      "sha256": "abd360333322e29892a19dc3f36724bb93f6022f168ca1f5dc57e9140740a9d4"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/12/12652ec50baba63b4bab081c78fcfdbed29bcb35463668464605ca0ad21008b4.jpg",
+      "sha256": "12652ec50baba63b4bab081c78fcfdbed29bcb35463668464605ca0ad21008b4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001806.md",
+      "sha256": "f069546427de0293381e3f12ba697e0a50a698507b0a59920b1744d407149c6f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001807.md",
+      "sha256": "661edd4678027a393b29f48baf2150024515a5303366b0c5adaacfdb1291367d"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/63/6336683c9dde33ac29ec59166f69dac79c4943aa96b3a03ce10dd4391c92fab9.jpg",
+      "sha256": "6336683c9dde33ac29ec59166f69dac79c4943aa96b3a03ce10dd4391c92fab9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001808.md",
+      "sha256": "e37efd0d64d6a1c157e6a07b5a5b2baf96d2d6b4906ea430da8c84bb90b009e1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001809.md",
+      "sha256": "97930e0b4fd7f870c83b77a2b2bb6d3e80487da81375c40de3aaf0701bc9d464"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/信息技术应用 概率分布图及概率计算--Gbfcef43529aecf.md",
+      "sha256": "adba8fa2a978c345b5d1214e896dc18339457cc36b2ce7e1e306459ebf6ee233"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/66/66279e6bf452269dbb3a38d87db52b4fb8d0ca49bb6a174c452ab4f58c520ed3.jpg",
+      "sha256": "66279e6bf452269dbb3a38d87db52b4fb8d0ca49bb6a174c452ab4f58c520ed3"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/3c/3c1c9b8d27573a8376f0627954777a1d4e26a5be575692da732e3a036b55cff1.jpg",
+      "sha256": "3c1c9b8d27573a8376f0627954777a1d4e26a5be575692da732e3a036b55cff1"
+    },
+    {
+      "destination": "Mathmap/知识点/用GeoGebra计算二项分布概率.md",
+      "sha256": "899b137df42f1a210d4261b4e7cf5ec13eb5ee378b4797dbbbe3702fa7e24f10"
+    },
+    {
+      "destination": "Mathmap/知识点/用GeoGebra计算超几何分布概率.md",
+      "sha256": "8c25f461cdde4b26bc63bb7c3c34c1f0f2a84f56862a51af39f561c08706ca13"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/95/95ce34144a38db66f1021501a60ffec7627499b8c63a71bcc76359aecb70b574.jpg",
+      "sha256": "95ce34144a38db66f1021501a60ffec7627499b8c63a71bcc76359aecb70b574"
+    },
+    {
+      "destination": "Mathmap/知识点/用GeoGebra计算正态分布概率.md",
+      "sha256": "818478879eabddd644fc7e8e34c76380b040c56217a0909f5b09363aedda33a8"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/4e/4ef79737b54075e9a5a089609e0d9a97abd83141c86e9ec178ec6cf7d3d4b49c.jpg",
+      "sha256": "4ef79737b54075e9a5a089609e0d9a97abd83141c86e9ec178ec6cf7d3d4b49c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第七章 随机变量及其分布 小结--Ge39b314add2d85.md",
+      "sha256": "ffdf67b7f186f34ac9f34c0ac252717b71b9a3a9e9eb82b46de818b6d2621fd5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001810.md",
+      "sha256": "a0bb3396dd78c5f3688000aa3ae85a42471e1c43378b5f7fd8396e41d6b6fdf6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001811.md",
+      "sha256": "f11a481a07a4115c907e735302ba957dcf8fa9312b1f6d1a40ccbcf919a0f966"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001812.md",
+      "sha256": "bf7103b6c762a349f85cf22bd358a5a0f547b6673c92348a47c892f1c31e76ea"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001813.md",
+      "sha256": "258567b9eacea6928d0c12f7ad66409158afc2bdd89eeeb8684df58287c1ec63"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001814.md",
+      "sha256": "11d50a7c9bd7ed40a90a52fb27dc425047f1ec01d34ce92182952db470a0168c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001815.md",
+      "sha256": "01d4ddef1ea2dbbf61e2bf412972635e41770dbf56697bb53d348fc097d9afd5"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/37/37a9ec4a870bd309193c1242c1c11c4e856df2250a6a6445da864123b715bd28.jpg",
+      "sha256": "37a9ec4a870bd309193c1242c1c11c4e856df2250a6a6445da864123b715bd28"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001816.md",
+      "sha256": "134965dc5373fdc781924f34e5e5552f8057ba00095e629a6e9a53145b6023f8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001817.md",
+      "sha256": "7f39818009ef404346d096be01ba24bc480751ba4d55bc992b51391eb5106b8a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001818.md",
+      "sha256": "a5aa7b1969222befb75ca23d3152dc9f6ebe6e21ec4186ed96137ac6f3a567c0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001819.md",
+      "sha256": "19ed7b63c167afaee88f8bb0d6f4c9eb903bd1bd69528757a5ff24e526d13f0b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001820.md",
+      "sha256": "32914c59b02a9ab3d54240e6840e618c0a69875aada1de0f2b9ba855e6af1b4c"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ff/ff5044afe6c58214c0770bcbf1a152442f7ee67cce8eeaf5d253054c0ebd9538.jpg",
+      "sha256": "ff5044afe6c58214c0770bcbf1a152442f7ee67cce8eeaf5d253054c0ebd9538"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001821.md",
+      "sha256": "a01a7086d57b092ccbf87d8aa9df003326539ce6e28cdc94484075c172ede015"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001822.md",
+      "sha256": "41227cef2c4ec1f971aaa7ef22321bf995a1fc24cf1f877111a256b24915954c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001823.md",
+      "sha256": "f70b22494bf264dbd4bf5df7cbd0c5b68513be1374cccba3a0b3b6492bcfbb78"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/11/117791999015b489005d119c43029c1255c99e910c49343ae2df4fce9ca55b58.jpg",
+      "sha256": "117791999015b489005d119c43029c1255c99e910c49343ae2df4fce9ca55b58"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001824.md",
+      "sha256": "694e6e3afe13aa760e2b48b04f6f0e427007bbcdd8460e995845c8ff29200138"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001825.md",
+      "sha256": "71e2cdc161b8729251f210c39d9e622f31f032469e64ed13ff76d4472fff6e8e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001826.md",
+      "sha256": "5719fcb1dca38b3415638d5a2c402f17ad0595518350dd46ef729b9c11eda049"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001827.md",
+      "sha256": "9e15e01e61fee8f48c47d84b47156968772481bf974b3294d7c13fd1934a38be"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a2/a223af2c993570e7a5764f74cafb95b644f17dae097b79fb33e4f5d5aff8f869.jpg",
+      "sha256": "a223af2c993570e7a5764f74cafb95b644f17dae097b79fb33e4f5d5aff8f869"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从单变量统计走向成对数据的相关与回归--Gfb3144d34e193d.md",
+      "sha256": "26a59c84d490d61861f102eccaf35f93d43b0c460e3561dc0e2e96cdcd4f37eb"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由身高体重关系认识统计相关性--Gb1e06f54736974.md",
+      "sha256": "f0ee93a5fe7ce252dfe59c0f6cb7f4ba486765031763ed05466e9e67ff7d2866"
+    },
+    {
+      "destination": "Mathmap/知识点/变量的相关关系.md",
+      "sha256": "c2df4bda6bce2c69ff0b62573f9b471be7ab60753e83278c9d031e6e2f9342e4"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/97/972f1134eb213ca3cc4d3585a3ece8d50e9e5e00ab7f001c2430c632a83c2266.jpg",
+      "sha256": "972f1134eb213ca3cc4d3585a3ece8d50e9e5e00ab7f001c2430c632a83c2266"
+    },
+    {
+      "destination": "Mathmap/知识点/正相关与负相关的散点图特征.md",
+      "sha256": "5e2d54b873797456dd4f7727e2962ada5b579d22d87e6cd77c7f8462c38bcb19"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/1f/1fbe4846f1146c10c0747f11ea98127815d35957134ad21261be1ba8b26437c1.jpg",
+      "sha256": "1fbe4846f1146c10c0747f11ea98127815d35957134ad21261be1ba8b26437c1"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/11/11d46b0d3c7798e7b3542089706a81b25bd603ada34765b7d05c655e18a4b02b.jpg",
+      "sha256": "11d46b0d3c7798e7b3542089706a81b25bd603ada34765b7d05c655e18a4b02b"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/cf/cf88677a313cf0fe81e4d19834c9415b9f9eff78da17a68ad476e0a96449863c.jpg",
+      "sha256": "cf88677a313cf0fe81e4d19834c9415b9f9eff78da17a68ad476e0a96449863c"
+    },
+    {
+      "destination": "Mathmap/知识点/线性相关与非线性相关.md",
+      "sha256": "f364d4a57323c37ca64c40683ffed178e57e56aa6971f172e2cf4c10160b3959"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001828.md",
+      "sha256": "56fe1a04ae1b862854f16213060e779f695bedf927bc92576fc721fc6aaa30e6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/03/03c63b81a146e562c2a5130a79d1e15f53bd01c5dcbebb89ad2a0efc38a9bd26.jpg",
+      "sha256": "03c63b81a146e562c2a5130a79d1e15f53bd01c5dcbebb89ad2a0efc38a9bd26"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a0/a03a40e6e1baf89e2d168c77341342742c8ef24b5df228b61046a7a6bca67d58.jpg",
+      "sha256": "a03a40e6e1baf89e2d168c77341342742c8ef24b5df228b61046a7a6bca67d58"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/74/74b78237b386ff1e1265bca9cd05d714f707d97e7749a03ee525dbb9e25f05ba.jpg",
+      "sha256": "74b78237b386ff1e1265bca9cd05d714f707d97e7749a03ee525dbb9e25f05ba"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e2/e2a0155020ea134a1f4707152f4a066e6f7415de8168a15064cecb3f20e8bbd4.jpg",
+      "sha256": "e2a0155020ea134a1f4707152f4a066e6f7415de8168a15064cecb3f20e8bbd4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001829.md",
+      "sha256": "070b2f99dc72df3a23f61b063f09f86ea022ecd3c63caaaf2ec13a8c6ac9d307"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001830.md",
+      "sha256": "1934a8982c416d5dba916fcd49cd537d7247174a704c7315a1ca005a985ca65d"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/e3/e31dc49663b9ce635d85e9ea836a6e2bb499f56fc694b47fdee2d41e1bc0a9e7.jpg",
+      "sha256": "e31dc49663b9ce635d85e9ea836a6e2bb499f56fc694b47fdee2d41e1bc0a9e7"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/73/73b02b1e8e4ac717ebed77a33af8fba403567b2c5d05beef9ce909f14b343fc8.jpg",
+      "sha256": "73b02b1e8e4ac717ebed77a33af8fba403567b2c5d05beef9ce909f14b343fc8"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a8/a8f68675e932a9738839627285c1eef8007530005b9833252306f35aa76f49fa.jpg",
+      "sha256": "a8f68675e932a9738839627285c1eef8007530005b9833252306f35aa76f49fa"
+    },
+    {
+      "destination": "Mathmap/知识点/样本相关系数的构造与定义.md",
+      "sha256": "924906f8721acb39d2f1ad5653b3fe1fc1161fb4a8053521751e4712708d9cef"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/0d/0d8330c78b6167de58f2f002c21c3cb7c4b3639193469f1b21d07c366f9a5916.jpg",
+      "sha256": "0d8330c78b6167de58f2f002c21c3cb7c4b3639193469f1b21d07c366f9a5916"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/c5/c5e4fa2c5745b3c6eef364b7cefc67222dceb7fd107814601ba930e609e2c9ad.jpg",
+      "sha256": "c5e4fa2c5745b3c6eef364b7cefc67222dceb7fd107814601ba930e609e2c9ad"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/47/476b2c0e00fbfb0a65910c39f491d1dd63dca7b657703f3237a2dc1157c7fd00.jpg",
+      "sha256": "476b2c0e00fbfb0a65910c39f491d1dd63dca7b657703f3237a2dc1157c7fd00"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/91/91c2bbbcdcadd7065e211d248d101602d7deea5b18fbe150b9ab2464bb2d7995.jpg",
+      "sha256": "91c2bbbcdcadd7065e211d248d101602d7deea5b18fbe150b9ab2464bb2d7995"
+    },
+    {
+      "destination": "Mathmap/知识点/样本相关系数的性质与解释.md",
+      "sha256": "0af34c7659a98052d2917b9da89b0e3c91c5e47d0de20a99469b33755d75e540"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001831.md",
+      "sha256": "d31ab952cc6ee4c8ca76e1cae218a6ecbaff3a47afea9a0718143d167b33a136"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000253.md",
+      "sha256": "b71a908926074df31c3815480a399186d65b72b24b89a47048e2f0c5fdb71c3d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001832.md",
+      "sha256": "ad28b179ab9546e06fa0e9339aadafe6926d7a5e55b8773850a18dd0e1d2cb11"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/1c/1c7982812cf86a12962688a3c5e2561c5e475d4f856f825fe40a7b776c7bfe5e.jpg",
+      "sha256": "1c7982812cf86a12962688a3c5e2561c5e475d4f856f825fe40a7b776c7bfe5e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000254.md",
+      "sha256": "17f36a6cbfd5394d20a7cecdb63fe8eecc2e41ca9cbdddd4dbebc4786515e1e8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001833.md",
+      "sha256": "c4f508e71d8a683df6b8122c7c5675e6bd0776645d5fff64677eb67d47e6950e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/e7/e77445e4ef724dd9430912d639c91f3990da3f4daacf745a9c06ae21d18bc5a0.jpg",
+      "sha256": "e77445e4ef724dd9430912d639c91f3990da3f4daacf745a9c06ae21d18bc5a0"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/be/be274deadff3614e592b8738edfafa73318bea441c59b4bb0468477287a1ccaa.jpg",
+      "sha256": "be274deadff3614e592b8738edfafa73318bea441c59b4bb0468477287a1ccaa"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000255.md",
+      "sha256": "1cb5c4845d42e0f5e8c379c0fc353b7628d2b5b170e7c3b66fd87f3154c7fe99"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001834.md",
+      "sha256": "1fda9a1f626e7921b5957c8858c8563184b71cbb8a62d8ec95764bfb5b155f65"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001835.md",
+      "sha256": "37b1d29451d8cb2ed3fbc83e3e0773494e5789593084a4a71316264b74f5714c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001836.md",
+      "sha256": "99d4263f39c082036d13d67fa705115c0cdd34cae9a5a1ffb2fbb87ab61902fc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001837.md",
+      "sha256": "3bb94908f61060566a82803645603995ddb84db5f44f1b4dc70fff79bc93f0d0"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ea/eabc1f0eaa9c13280774c1ff3b285de7150946d3972b73fa2080410035f47696.jpg",
+      "sha256": "eabc1f0eaa9c13280774c1ff3b285de7150946d3972b73fa2080410035f47696"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/7d/7d91d4b30642bbb0dc44c6c3d797a132bb785b7c5cb9d97448b53feaf61c2478.jpg",
+      "sha256": "7d91d4b30642bbb0dc44c6c3d797a132bb785b7c5cb9d97448b53feaf61c2478"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/17/1780cd5d7d885684ad90aa65b4f9fcc563c3288ce3763e43b4438bace5fe5fc9.jpg",
+      "sha256": "1780cd5d7d885684ad90aa65b4f9fcc563c3288ce3763e43b4438bace5fe5fc9"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/58/584029199a6326c37dd1b9e63eed138310c980c24bc4a0d787ba66c3f459e3dc.jpg",
+      "sha256": "584029199a6326c37dd1b9e63eed138310c980c24bc4a0d787ba66c3f459e3dc"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/9a/9a0e074184d69dda7721d97bd665c9a5078a88135ac0770a9aec26964a2a145d.jpg",
+      "sha256": "9a0e074184d69dda7721d97bd665c9a5078a88135ac0770a9aec26964a2a145d"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/28/280ebf127933fc4c189a9a450aaf9434e9c749ba1138afaf710748feec4cc7e5.jpg",
+      "sha256": "280ebf127933fc4c189a9a450aaf9434e9c749ba1138afaf710748feec4cc7e5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001838.md",
+      "sha256": "69c4e6ec3a6ba8c7d9298b7c48d8aba143d69b54be5507e16e02ca053780075e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001839.md",
+      "sha256": "3fbfb6593f4c112b3726041d8c0ae4c7595c8668682692a3e1a63ba74b1b5609"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/1c/1c465128970bc534d46c99065c826d46a470f0e0a846611d14d92b985bea528e.jpg",
+      "sha256": "1c465128970bc534d46c99065c826d46a470f0e0a846611d14d92b985bea528e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001840.md",
+      "sha256": "210803ee0179698e35847d3f13d89304c8634533d10b129e624c555a04fe09f4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001841.md",
+      "sha256": "64a743247d796679a64caed2f43be9369c02bba6f9d72936f0bdfe0dbe9af8bc"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由相关系数走向一元线性回归模型--G22dc53bc742083.md",
+      "sha256": "e79ef14486167da2c8ddb5c8ee3317e4d06b94fe03c72fe3a3406e7a2353670b"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/f9/f9abfcf9abe59e6dee55ae124110ea71f97b87994e7da27b2df4d400b4fedd5f.jpg",
+      "sha256": "f9abfcf9abe59e6dee55ae124110ea71f97b87994e7da27b2df4d400b4fedd5f"
+    },
+    {
+      "destination": "Mathmap/知识点/一元线性回归模型与随机误差.md",
+      "sha256": "6a4bf4114769a7b0d617328484461b95f77feacd0faa53be817bb6aa06365ae6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001842.md",
+      "sha256": "26bfc8c7fbb2e510a0d19f5f7936f3f98d534813fbb2278c2023b398457735c3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001843.md",
+      "sha256": "9e42280e7dfdd141d30f0e58ae8a9caee27273573a784da1f9dafcbbb73cf5db"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001844.md",
+      "sha256": "465c62f8440134693fb8f5b23c8303db4e901126fb99e8b7a3dcd11023fdb6b9"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/13/1336766bc88ebe96b7927af23515d2b09ea3fdfa21c7737510538e78ba656cfe.jpg",
+      "sha256": "1336766bc88ebe96b7927af23515d2b09ea3fdfa21c7737510538e78ba656cfe"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/7b/7bc4195e4dc70149d70de79227f1453eb237f055d48f4591f97d174d386cf910.jpg",
+      "sha256": "7bc4195e4dc70149d70de79227f1453eb237f055d48f4591f97d174d386cf910"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/22/2276e67ee93d0704dd76e6b4c2155ce8455525c4581179b2c9943ee1c8fd606a.jpg",
+      "sha256": "2276e67ee93d0704dd76e6b4c2155ce8455525c4581179b2c9943ee1c8fd606a"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/6a/6a6a6728323c769072389c7ca5c37c625ef224c83bcf9e2a639e7c9f33113a57.jpg",
+      "sha256": "6a6a6728323c769072389c7ca5c37c625ef224c83bcf9e2a639e7c9f33113a57"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/21/21f95999a5713be9d65d25056f9cac0cd21a50fef7fa9af8156eb9daa6d5eeb1.jpg",
+      "sha256": "21f95999a5713be9d65d25056f9cac0cd21a50fef7fa9af8156eb9daa6d5eeb1"
+    },
+    {
+      "destination": "Mathmap/知识点/一元线性回归参数的最小二乘估计.md",
+      "sha256": "0de72fd6b7c7f59abd06cff00098c1128dcf70d26f24cfdf1aa2bf695254ee22"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/84/84d50c40afcc13aa9ae44d47c57ee708e7846c7843c95109940982ac1f2af88c.jpg",
+      "sha256": "84d50c40afcc13aa9ae44d47c57ee708e7846c7843c95109940982ac1f2af88c"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/f8/f88e2e2b6bd9fab61564c53974e8767443e84dfa4bc995928580a6b99a4a28fa.jpg",
+      "sha256": "f88e2e2b6bd9fab61564c53974e8767443e84dfa4bc995928580a6b99a4a28fa"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/d3/d3bdbed66c8cfc6c32b75e7a2e0f8c33fa8155ff73adf57374849b828481277e.jpg",
+      "sha256": "d3bdbed66c8cfc6c32b75e7a2e0f8c33fa8155ff73adf57374849b828481277e"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/19/19d9ee2c60f88d7700c1afa71c8432b7f42de5b79480cc44aa4a154d7b47249d.jpg",
+      "sha256": "19d9ee2c60f88d7700c1afa71c8432b7f42de5b79480cc44aa4a154d7b47249d"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/73/737288847695e3ac8c22d6a8c9ef81716321603a7b2fe3501d3b95cc3db271b1.jpg",
+      "sha256": "737288847695e3ac8c22d6a8c9ef81716321603a7b2fe3501d3b95cc3db271b1"
+    },
+    {
+      "destination": "Mathmap/知识点/回归预测与残差分析.md",
+      "sha256": "1eabb2d1b340bba240de423ed1986bafb9f29b6b7d66fe6190b89cc86dc7730c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001845.md",
+      "sha256": "c3679f2c726ad2e15eb09f3907a40792008e21c2f4c135a890762903e3e6c04c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001846.md",
+      "sha256": "74cca1373245dbe2ea4b4a2f308e08bad86ca4d9269e5dfdd2ed2f1d78eb6165"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001847.md",
+      "sha256": "e2e2903d57369998f0637b86bcbb9185e9fd0365e854474b956e617838d251f2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001848.md",
+      "sha256": "10b7af8c51941a7c09474ec52f2a863dc3ff67f5e2337de2f2c298f72fd576c2"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ba/baf3030fc6bdfda98b3b0999dea9c998cbed19e758966165c5f3f883d1a3794b.jpg",
+      "sha256": "baf3030fc6bdfda98b3b0999dea9c998cbed19e758966165c5f3f883d1a3794b"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/18/1807610835665324a8632dc8a4b3f53d85cc6dc5ce37e67396e56ec3c26ac343.jpg",
+      "sha256": "1807610835665324a8632dc8a4b3f53d85cc6dc5ce37e67396e56ec3c26ac343"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/77/77f55a3a26ec4c47559323e46fa8292aef1d819b12f21bd1e9dae867d255c5d1.jpg",
+      "sha256": "77f55a3a26ec4c47559323e46fa8292aef1d819b12f21bd1e9dae867d255c5d1"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/24/24a35a3090b7f781c5d6ee7bee8f310d52180b7b366c065a0fe2eb46d9761d74.jpg",
+      "sha256": "24a35a3090b7f781c5d6ee7bee8f310d52180b7b366c065a0fe2eb46d9761d74"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/7c/7ca51e352d7de09dcd9c4cfe96992013a20556bc78d987e94af11dc443d6736d.jpg",
+      "sha256": "7ca51e352d7de09dcd9c4cfe96992013a20556bc78d987e94af11dc443d6736d"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ee/eedd65aae22e883e4b3d4bf58634b57392491a8e09572f83a8f45aea063a6e4a.jpg",
+      "sha256": "eedd65aae22e883e4b3d4bf58634b57392491a8e09572f83a8f45aea063a6e4a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/8b/8b5c41bf23b71e291df899aca848580a1605c8690b02ac1e80a50ef7e7c9865e.jpg",
+      "sha256": "8b5c41bf23b71e291df899aca848580a1605c8690b02ac1e80a50ef7e7c9865e"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a4/a48e8f54060b5b4648fb55986a5be197d7589e308cd2558182f654526ffd4727.jpg",
+      "sha256": "a48e8f54060b5b4648fb55986a5be197d7589e308cd2558182f654526ffd4727"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/cc/cc4297500b989b8baade98b1b33ad78d0f5ccabb5ce82db7d80cf9086c154099.jpg",
+      "sha256": "cc4297500b989b8baade98b1b33ad78d0f5ccabb5ce82db7d80cf9086c154099"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001849.md",
+      "sha256": "ec1e39eeacd3331e19658db6dd6659997b4ebc7168c5c886e66b7e782767f949"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001850.md",
+      "sha256": "6b82f1461e4be8c097f3c3f25a5750a3931bb66027857e686436742ec8214f88"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001851.md",
+      "sha256": "c258e7edae7a0ed196230250f1c26f6588a096fa8ebc1b0231f2b3cf95ee22ff"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/b2/b2fcc34c1640cac01346b21f4e1256a1bb20260acaade45dc539c0796ca0d00b.jpg",
+      "sha256": "b2fcc34c1640cac01346b21f4e1256a1bb20260acaade45dc539c0796ca0d00b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001852.md",
+      "sha256": "d1f66921f45c549e9b0fb138e311f922a64efa96287a4542991e10dabc776c1d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001853.md",
+      "sha256": "a10b62d6ac90e8e946bfcbe3154a2b461b68ed8cf3c4980be644c8c0c84fe644"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e0/e00bc28655ec1f75f451cfa453454bc0ab43a7379567c25f0673de4843f08d7e.jpg",
+      "sha256": "e00bc28655ec1f75f451cfa453454bc0ab43a7379567c25f0673de4843f08d7e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001854.md",
+      "sha256": "06a4fe0587805fd60335be6fcd933dcf71fdae87c861f62c9886cf60e6ab7662"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001855.md",
+      "sha256": "b805eb307f8e64f73a6ad191139c39a910ed34c33fa42d863fbdfab7136880c8"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/7e/7e339ec879cbede9da93864c8e710b80603b4524070b625254c33319060b5d20.jpg",
+      "sha256": "7e339ec879cbede9da93864c8e710b80603b4524070b625254c33319060b5d20"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001856.md",
+      "sha256": "3b3d0cbe6f4d081a7d0b37e47fef5f49a88772f1022767fe2be1ae1dd61aafab"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d3/d374de98b8ad82f18f03ef369256efabec945206ddf6e59e38eadd51b5fbb3c2.jpg",
+      "sha256": "d374de98b8ad82f18f03ef369256efabec945206ddf6e59e38eadd51b5fbb3c2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001857.md",
+      "sha256": "aa36d53ca31582dcbed51ff43a2e8a67f220b55c275a022a43da4809f5113dd1"
+    },
+    {
+      "destination": "Mathmap/知识点/阅读与思考 回归与相关.md",
+      "sha256": "5b18a5d3a212ec39da64af1900cfdd6eea99429ae7a7f64b24a0b8a2fa07add1"
+    },
+    {
+      "destination": "Mathmap/知识点/分类变量的概念与列联表.md",
+      "sha256": "3d8a0565137a97817c3fe898eae5a138c8259173ccbf2fc9791287faca809724"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001858.md",
+      "sha256": "e06c72501feca769e0f8382db3f96ced1c45792789383ce3917911d34ba53721"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/e2/e2f4cf0b413112e2da5664ae86516f9a9b3bbeb2461c30de90e06ed4cedad837.jpg",
+      "sha256": "e2f4cf0b413112e2da5664ae86516f9a9b3bbeb2461c30de90e06ed4cedad837"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000256.md",
+      "sha256": "22fff7610b290b632eb721696e6cbb75f6469db77ecd90bc1d7bacfe895eef48"
+    },
+    {
+      "destination": "Mathmap/问题袋/思考-比较样本优秀率得出结论的可靠性.md",
+      "sha256": "c26daa0e7688bbe3d97253f6033d1fc11954dbb13ed3fbaff46ac35a6d784e90"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001859.md",
+      "sha256": "f56720f026c8aaca10c5dce3e80b593fe67a690fdd6f1ed10bfbd608952126b5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001860.md",
+      "sha256": "1f1274c761530c448ca34a5e6c0eb5b8dbde374b3877a7a8c93f2b64af241f85"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001861.md",
+      "sha256": "ea78a771285ed2d4af846ae251396917f32560f39cffc640362737dccbf10cec"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001862.md",
+      "sha256": "d1cb06d554a3dcffa6b87eda6d3792d96c81a8e54984584ac0cb9a2bd1073b77"
+    },
+    {
+      "destination": "Mathmap/知识点/独立性检验的思想与卡方统计量.md",
+      "sha256": "04d6654a5fbce019d0273b9ec484481549479f5b07b9e81e69542c70d168df1d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001863.md",
+      "sha256": "bf7852379ce07544641cdb116e569f5e04797c2922b55e7863d7f78dcb04b788"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000257.md",
+      "sha256": "8f9be50a3794f8230effa1625ab37d5400f3b5837aa359dc590788cc5539b90d"
+    },
+    {
+      "destination": "Mathmap/知识点/样本频率比较与独立性检验的差异.md",
+      "sha256": "d772b4c26a0cc51ccb0bb4178bc9260a0d6b22239e26e914206e6e86fc3abdb0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001864.md",
+      "sha256": "d3fc1510b10ec2b50b6d4b44b7e3779edbe4a1ca504801e9adceb26c08352c4c"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000258.md",
+      "sha256": "de3733bcc01e22f52ddbcbf5ff5a1fb4a163fa7a1b3f2003144f57a3de6cd566"
+    },
+    {
+      "destination": "Mathmap/问题袋/观察-调换列联表行列后统计量的变化.md",
+      "sha256": "b0b79e86510df8f175d961299f40d0d18005105b826f5f7910de15ff4bcba720"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001865.md",
+      "sha256": "1e026b56ab797aad78ee04e3f9259a1646576b6a385d49e564f3ade444408bf5"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000259.md",
+      "sha256": "01388c071a3e4080367f403e10148bf1d29fbe6555d15c22d34a8502e01c4b2d"
+    },
+    {
+      "destination": "Mathmap/问题袋/思考-独立性检验与反证法的联系和区别.md",
+      "sha256": "33622464c30a163d34282ce9e88e518392e915319bac446d16061201db593be5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001866.md",
+      "sha256": "814819ca73dd39966fa62440ce27ba4c054e67fa282887d6e1318774c1a73341"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001867.md",
+      "sha256": "b755641f1115c86023b1b263f33796871eee56d229413e515c8f3edc19d3631b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001868.md",
+      "sha256": "2e001e59f2578686e9a0dcc7e7208278edf2dc1889d903c1b737ea43247614ff"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001869.md",
+      "sha256": "9bf253ebe9b1ab76a9e217b2ad4a14541085c56a9345f03b2b1c7a9fa76313cb"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/71/71a4c5982747b5218efa7a105c4423d599feeac880d5351252e0f86637692aae.jpg",
+      "sha256": "71a4c5982747b5218efa7a105c4423d599feeac880d5351252e0f86637692aae"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001870.md",
+      "sha256": "76e0bf38a62e2c5f89d1a52f88a1b2fa36e2ac97b9c504bcc971c514477fcb1c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001871.md",
+      "sha256": "31a4e4376327978191cb1069d8bc799ece36b9823cea3de6892c1b8e49ff3668"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001872.md",
+      "sha256": "1b545636224974ee6d8617896581128d1f4f2f665ff79032cc19138998d32571"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/b6/b6fa379711df5373e60ce3fc3d675cb4e8ebf9fe2a2efe5213cfd558c9c68350.jpg",
+      "sha256": "b6fa379711df5373e60ce3fc3d675cb4e8ebf9fe2a2efe5213cfd558c9c68350"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001873.md",
+      "sha256": "370c0e421b1d676843e5c80433be5fe82d58695ca5fa4a4be9b6d4f55366cb03"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001874.md",
+      "sha256": "0bd9a84692fe8a55c3b0060e854059f1f411c15235b2c5e146b74ab6dd32576e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001875.md",
+      "sha256": "fd33a7e66405cf4c391ec37dc3dafe3c4c7c47a1c7de8f7a185eb6c9b2c4f4bf"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001876.md",
+      "sha256": "da36ac4b560df01070f850ad7f7ebbac6cefbb080e67217a9b396ab1d0087745"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d3/d393c6f64d6848f3cb49cbd5728828eb2d82ddf1993fdcc3a90cbce67a812d7d.jpg",
+      "sha256": "d393c6f64d6848f3cb49cbd5728828eb2d82ddf1993fdcc3a90cbce67a812d7d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001877.md",
+      "sha256": "4c21507b132a5b6bd4b683fbb756d142d11bbf704939171e2a67a41ed66df618"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001878.md",
+      "sha256": "c28d0a22753479fdf9488414595e86f34a5f1136497b289576268522c5c0a420"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第八章 成对数据的统计分析 小结--G19bffb06a5561c.md",
+      "sha256": "a442cfc1a32d827a83a312d0a96c3ece019d0e8d8988624b190455fd0b841a8f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001879.md",
+      "sha256": "a8c1538529b2a9e4523b6864a8b96f7052d6f843a59df1f21e4b8de248067802"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001880.md",
+      "sha256": "dc3723db4f5a9bb95388267ad7b16be720388ff06b5d0d37bde0e64bafb3ab1b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001881.md",
+      "sha256": "fdc77ebd85bee8a047a450269fc6fb940326d9b200f9bbbc5e30bacc389f0825"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001882.md",
+      "sha256": "57891f35c73b09c1173e5af4b578d447cd7ffa54ed7ccfe5f1686a6d3797f023"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001883.md",
+      "sha256": "a746ae72744cfbd12f37f749e76f312d3c6ec6b69997773d5158c5ffe65f6cf4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001884.md",
+      "sha256": "bfc95228dbbe2c3d287be11585ff7a95ff0dae15018d4a1364cb2ec78f720e10"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001885.md",
+      "sha256": "2b2e0d62266e61bc3de9d52d072547a0170de13a0610d9ad6e3864b95e76e314"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001886.md",
+      "sha256": "06c230b47b5917918b3d8197c9b4a3c65f225fcb620b0ea68261b9d8e0bb0667"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001887.md",
+      "sha256": "079f9beaa1a9b302d06846a876d83eccbb80dfe57170ff2b9b9e7e07a123d5e5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001888.md",
+      "sha256": "ca79d504c00f59a08e0aa5f97b83e225ff81e59ed0cf89e2d4e0524a1109ffaf"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e5/e55949e6dcbe735c7b4f4037f5ba15dff1309a74504dfe05db855076418aebf1.jpg",
+      "sha256": "e55949e6dcbe735c7b4f4037f5ba15dff1309a74504dfe05db855076418aebf1"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/83/83832591086d4d745c6396ca563a543adc5a979961ef8276d448a19e6108bf10.jpg",
+      "sha256": "83832591086d4d745c6396ca563a543adc5a979961ef8276d448a19e6108bf10"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001889.md",
+      "sha256": "42eb14840ad7414c150b5c33b525e72066ff40182fd525fbcaccf2a8999e3b3c"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/23/23a8328ebde9057ab1f2ea71c14d41d8c91ef6b11d30dfb29214a1437b047cac.jpg",
+      "sha256": "23a8328ebde9057ab1f2ea71c14d41d8c91ef6b11d30dfb29214a1437b047cac"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001890.md",
+      "sha256": "19da864e3bf8857bd5d858f294bee381b0b96e4c1ff7339e0e644b23098bb515"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d2/d262699511a8593efb7d6f3b2e7271baa32d23838d522758fdee0570a6260bf4.jpg",
+      "sha256": "d262699511a8593efb7d6f3b2e7271baa32d23838d522758fdee0570a6260bf4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001891.md",
+      "sha256": "ee7db66ef338234e351ff78d886db4f29e60b304bc0753eb47a4a3e9a41bf975"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001892.md",
+      "sha256": "c73fb779bbfaffa0338d1373ffa82b83095b9bd9b9caa56b27f6e1e74b60d4dd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001893.md",
+      "sha256": "7b112e8a999ba2cb7c2f154fffeb53311e6be98de899809d9d65189b22b6ba52"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001894.md",
+      "sha256": "68288ecf964c8dfe7e406e2efd72f781338dca2fb1cfe17c4d5ea12d4ffeba91"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/46/466c39bb6483b290c7121491f3d9e12b536277282848ac5965df6a3501116de4.jpg",
+      "sha256": "466c39bb6483b290c7121491f3d9e12b536277282848ac5965df6a3501116de4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001895.md",
+      "sha256": "b1a4f4c41e42340705876a319528d0bcc1f741cb1ad2141e963959f8ddc22e56"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001896.md",
+      "sha256": "6d993a20bedca2aacefb14936a05b4e53f452146e64177e8d220885f6aabb20c"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/9a/9a9846da51e4e92735962c8f98f379e0c5eb0087f97c193b2839c75bd55ff777.jpg",
+      "sha256": "9a9846da51e4e92735962c8f98f379e0c5eb0087f97c193b2839c75bd55ff777"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/53/53d2a420f2e39c26114988aff10c42d649b3b117b4e2152dcd2d117e470c7319.jpg",
+      "sha256": "53d2a420f2e39c26114988aff10c42d649b3b117b4e2152dcd2d117e470c7319"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/bd/bd232e0399335ebd77d6688434029daef7350bb30a54b5644de5dd5ed7aea728.jpg",
+      "sha256": "bd232e0399335ebd77d6688434029daef7350bb30a54b5644de5dd5ed7aea728"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/bc/bc614cadbc8e8b2dfc45500495c3565a05f07b52210e1ec71cfdd7dff32118bf.jpg",
+      "sha256": "bc614cadbc8e8b2dfc45500495c3565a05f07b52210e1ec71cfdd7dff32118bf"
+    },
+    {
+      "destination": "Mathmap/知识点/用汽车流量预测PM2.5浓度的统计建模.md",
+      "sha256": "7df9178d52f3f92e4ba729d50f0637bdcc1f0781353ca3920d10c6d40d23a1b4"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/四、数学建模活动的选题--Gc30316d220a928.md",
+      "sha256": "48126ac612e04a8d9eeba2758ae4a1914184c7afbad65f0ad862af637dbe8ce2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/组建合作团队--G90727fbe67488a.md",
+      "sha256": "d8c3ade5b9aca74f30fa42c626b7e6c3fd38b564358e1d89f0e2b0a6ccd4a448"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/开展研究活动--G49e3de14485878.md",
+      "sha256": "4c8a418c4078eb0accfedd55d4b9dda83ea747878502b2a5a6a350231882abb5"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/撰写研究报告--G84893454a63f8f.md",
+      "sha256": "3452c60d7b4bf575d943ff8cbf4dc101f7541c5a23cdd3aeac47f748426ef57e"
+    },
+    {
+      "destination": "Mathmap/知识点/交流展示.md",
+      "sha256": "90b648fa3b8ab3cb2d83c770e9bed87b9ad7b7a6d4bb3d330e6402e34bcc006b"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/六、数学建模活动研究报告的参考形式--Gec83a9c1e9272f.md",
+      "sha256": "b376a1c5c83fc3e9867581de8693bbacb30df4148d036996fd3f1fe7929516ca"
+    },
+    {
+      "destination": "Mathmap/概念或公式/n元集合的子集个数.md",
+      "sha256": "7fc1c41e08c15381ebfe439fe4facef9205f2b5ae1a647708c77e381482c34a9"
+    },
+    {
+      "destination": "Mathmap/概念或公式/组合数的两个性质.md",
+      "sha256": "24fd59cebd826b69ccc018127f6c817af98dfc1f1a81767c61a46e8981301091"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md",
+      "sha256": "b3b7512756bb1e7bca3f57b05532f20174fd572fa426f987db6e14cbad2c5a76"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md",
+      "sha256": "38ea0d6bf005312b9dbdfc7018e1fd639758fd65681cddaf8aedd6f78d616ab3"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md",
+      "sha256": "a1a5b077eaf23d500e8d21927f73cc12810b21859cd732f12a518284df41230a"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md",
+      "sha256": "11d46058ba7efa080e12200ec6645cbfdb04d95fa0ece350870398d4b1dc197b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md",
+      "sha256": "936920ff685bd41f0d90953f78a4df472754f91f09b853fa664be4183668a309"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/习题8.3.md",
+      "sha256": "de601374305510e5922f5f43b1e74aa749b776e9ce4226eb36f9c3edc2ff96d6"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md",
+      "sha256": "627427f71b90b9ba38ec6bcdc2f2a86ce7e18eb964064ed59b558a5ced93aad0"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md",
+      "sha256": "bff0387cabd835f3d17fd10d65b1c6394021fddf8a473334924370e387b08066"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md",
+      "sha256": "dcb2bc60d05504abe3087161a4edb167aa959c61ee7487ab650ab2d413e0574c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md",
+      "sha256": "beb71f29db668f9f3bf48cd697e9bf0875de3db563ff14def8413e3398df5b8a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.1 变量的相关关系.md",
+      "sha256": "e3af6219d475161918caecece74486e7e93ead914e38a5563823d3bb17bf272a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.2 样本相关系数.md",
+      "sha256": "a708721293a271327d113131e367cc8418d8ee1434f32b2c2e2bd4a46b036f5f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1 成对数据的统计相关性.md",
+      "sha256": "c113eb43417d454f58a0ebc3376a1efe5681356c6f014240200262f35c2854df"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.1 一元线性回归模型.md",
+      "sha256": "7a4cce889d9ed60c4ba16ede0b309130d3c72dd3f71d9dc930d9a79a95701343"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "sha256": "9570fc85f1e0a4c72b4fae7d4baea229fa59b378fccaf881ef80c413dfe08f8d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2 一元线性回归模型及其应用.md",
+      "sha256": "4b76beca5ee9de9a8fa56a9f2f6482b9801c8432feb40cbf5f8906f8103d02e5"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关.md",
+      "sha256": "f54021f690d04a3fe93f26dd9540304e287c384386428990ee202dead470b94d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md",
+      "sha256": "dc2d3be4ed44b8c9022c0095befbc29cce15bf13b986ed3451be1c852293d6d1"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md",
+      "sha256": "504e7da86e4a4b78068beb2c9bc0c0026ef0ccc82639f718a53470c920fe7b00"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.1 变量的相关关系.md",
+      "sha256": "c9d8cf9dc1c28c09a8334ed067ad57d26395ef78f0be791e80bc6d25cd05ee45"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.2 样本相关系数.md",
+      "sha256": "e4cf378327ca25065d9124fdbcc58c3ec25cafdd478e7a6bbad5c66fa3ee1241"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/习题8.1.md",
+      "sha256": "c70c1acf49909c4d6d4bf2911304f1d893d17a7b8a7283229626954f461d3b04"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1 成对数据的统计相关性.md",
+      "sha256": "d0cc782c30c2142f3a4a3eb64c1778aaf6e6ce14efcbc4c27f826f447a51c339"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.1 一元线性回归模型.md",
+      "sha256": "31929712b328fb699e7b83ad74785ee5ffa8b22ea69cec9ce7b6d9e8f452246e"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.2 一元线性回归模型参数的最小二乘估计.md",
+      "sha256": "fdeda4c52f5628ab9566a6c367e9002b582978bc923b45ac48f2239747b2d794"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/习题8.2.md",
+      "sha256": "52da875aed66f316f1f721ad9b617b602282a8b350670d7725fed9525b8c99aa"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2 一元线性回归模型及其应用.md",
+      "sha256": "253f38da828b1cf75e8636abce593bb1c1208da2521c97aca3d23ff3c928b38e"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md",
+      "sha256": "bcf6d61fa5ead74e0b1652a80bfcc53332ece39fefdc95fcfabe32713285e5cf"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 复习参考题 8.md",
+      "sha256": "7926e9e0b0610cbb0c3dd3f550a9e695ccb5800d0f219d6ce90fca98f93e6d72"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md",
+      "sha256": "48c4fc738dcdb8952bc6db5e4f69bdd603bef8c3a8cb734fd3a72bd6c40ccfc2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md",
+      "sha256": "c64e19a8c9ad6479dd34af8502dc3186c687de47633156d65b3caf07c615eacb"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md",
+      "sha256": "93206df7b1b69ef0c612841520d624a49a348454d74d9cefc53309ee45ec42e4"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md",
+      "sha256": "baccdeed65078996320c9f42db9c800c8e65eef85789cbc1c387f23cde9418b2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md",
+      "sha256": "93786908ef5aeb6a5aa39306121213ebfb8e4cc2883d646eee7d24ed3f84cf43"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md",
+      "sha256": "68b19407c749cbaf3ba11080c4de7ea967158c38a9da17822134c61d571d0c86"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少.md",
+      "sha256": "7c91ecfd4e2d052fcee53ae0a2a820d398a174bb7adb46553906e748ad306dde"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.1 排列.md",
+      "sha256": "97c726e57e56e4a1bfbaa98eebeed1739c6781d56cefc47204fa22d4502f699e"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.2 排列数.md",
+      "sha256": "51a21f34b8678cf4bcf443f072a4030c110128799e1e348d724ee93028251d02"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md",
+      "sha256": "0c0e8a2f773812525e376346150c9f471b98105b0de25d3f4bb78b7ff06e3231"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md",
+      "sha256": "d1c2f1e42899136f1043799044bd894f4a96be5ed6e5ec3bccdf24ede66de3e0"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质.md",
+      "sha256": "c315377b6fc6a97fa080aa5f20eae4d79f8ffc257de184943082240dd53fa5e5"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md",
+      "sha256": "019e2a9c6a5b3efe4e6f287118f905db4832fb610eec2440c9dd84b57294008d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md",
+      "sha256": "c9a57e5b2ca4311842f3c5efce5928a8e0f2bccd8ede42d8d8b7714c9c29db92"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md",
+      "sha256": "726490cf4d42adab0552f663c1dae9934e8c2db4a7c12dd7bbf3bc71f8d7ff30"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md",
+      "sha256": "f52b132defb6e4fa216df52ba8a4a03ddf4d3f297c11099088fb8867aa371a5b"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/数学探究 杨辉三角的性质与应用.md",
+      "sha256": "9f28d4d2372e62898f07a77e652747edf603d63c427119d1497d6a5907887790"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md",
+      "sha256": "af92778f3c331ceaa1f93b3c0bc922898e7390407d7a5894aac0b813843a1eb9"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.1 条件概率.md",
+      "sha256": "b2027f7ce06734051d50662faed71b8ffa62624c27812d9324c709228dba90fd"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.2 全概率公式.md",
+      "sha256": "17b4925da647b49e7f7b783df394d9ddbe47b18476b3ed9d3ff52c9b5554439d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1 条件概率与全概率公式.md",
+      "sha256": "6046958a1eae02f2a6e7ec6caa84be707ab2289698eb74b7054f774d4213a996"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能.md",
+      "sha256": "51d99ca533a8d8bbf52452f8f84b96cee2f446f365b8877ca4476f24d1432feb"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/7.2 离散型随机变量及其分布列.md",
+      "sha256": "48f0014e3e5cf9997a971fd11f5a05a6caea8450c7b75c43e77b2b5c458d4eaf"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.1 离散型随机变量的均值.md",
+      "sha256": "f6a8afdd8149fd3e10bdf110edd108e1f3c75e41db819e7f5885619e5757fdc8"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.2 离散型随机变量的方差.md",
+      "sha256": "6bc6e550e516c557445d96ae0f0e252a815df9a38b51b210e0b614631a94471a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3 离散型随机变量的数字特征.md",
+      "sha256": "2901e5e7aa7af432942f583ff7e11a8df55393d30c35be24c9242cab36c9d08a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md",
+      "sha256": "acb89245a8c049b7edbd9e98975ef4117218bd9db5d10a0d70361ad89f64ed08"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.2 超几何分布.md",
+      "sha256": "ef5bba6f113108936218d1bc2316d0b939b4e7889ffa4de5947d3c4eeacba2c6"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md",
+      "sha256": "84ead6bcaac0b1ba3eb7903864969f74cab959138ea2fccb92376990fef6008f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质.md",
+      "sha256": "11198dd51523779364e4c2bbdf9bb1919e397ab947965c5d0bad9a0cb4d75da8"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/7.5 正态分布.md",
+      "sha256": "6d14c233eb6eafaefe93b6c28c45c9a202d32d766cc7fb28abd7fce0dcbc123e"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/信息技术应用 概率分布图及概率计算.md",
+      "sha256": "98b88f1c0e5a99246a937bf31de240bc2e6e0aa58c61dde3bb262561b587a2b2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md",
+      "sha256": "1a495fecb86a32ea1b253b249e4b66269ce2bc3bbe19bfe7ca477f7bb27f8ba8"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md",
+      "sha256": "98d8f4b0d40c016899f666ed444a829e792b3cb41169b4780fdce257659130f7"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/数学建模 建立统计模型进行预测.md",
+      "sha256": "a4a4bf9c3187a1b13ea89ce1eacfb3f9a43c088583f8dc54c02c3ade7e0d2135"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/人教A-选择性必修第三册.md",
+      "sha256": "1ea745981e9ad6782bda72684cd5ce44b91d19ef4d815b371fdbd81a394fb6fa"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/习题6.1.md",
+      "sha256": "a38167e2ae605633d331dd4b74c0c55ec25ae7e697627a111570f8e0147b0c7d"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md",
+      "sha256": "b7a0ddb8ef2ca89203f06b514ef45a845bd814baffd0b3e8155c59f882653ace"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.1 排列.md",
+      "sha256": "2dff01856a2760ae45b97efbbec2c9473f6a2d1ab9ea54cc234954be4ee0f267"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.2 排列数.md",
+      "sha256": "6e0f407e7431f1ff26b32db989d6a21a124971344a1973b9bea8143b9a676d1b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md",
+      "sha256": "8e5044acbe4e02828e572b7c668cf93c398d2d86525dfcac044817600eaefed3"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/习题6.2.md",
+      "sha256": "9ff49af8a981a82ec2249af8c070d5aabefbf7362b8376e18585d2960cedbc25"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md",
+      "sha256": "f61c459a3017dd379967c972152a882f09ea88a226008f1b9b891b3b2c8662d0"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md",
+      "sha256": "a616b744a50738759458c5fb38606ca041eb814a3fdf03610cf9acacae9e466e"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md",
+      "sha256": "c0ad38d7435f928a22bcb1d256d5cc60d4914277dd9713593741f0653770e254"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/习题6.3.md",
+      "sha256": "c121b4412a650ebd42ec8cc79b0605767b7dc15f9dcf4d83153e5c5e87f426f4"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md",
+      "sha256": "f6f065b15ea9436030e30a32949826b54ac681f688609193ea54aacbe6d68b0c"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md",
+      "sha256": "776189e5e2dffa0133316d4cfc541a64a925396b1153363ff7b1e230d489097a"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 复习参考题 6.md",
+      "sha256": "89bec1ab459ffc3f5711e93914aae0c40f58ccca312441fe77f1f514066bed01"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md",
+      "sha256": "a55607d92952003ea3b6e092463d1e7e655d6d59799a8fd39ac650a0f03fca88"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.1 条件概率.md",
+      "sha256": "4a4a91e046d4be2a4e4f6310f08989f99e759caad5ee63090052826682e0422f"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.2 全概率公式.md",
+      "sha256": "a9a9fca0a1b78baa0acc036c7b6b46338ae5139e09d70a48763ecc1b61e79925"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/习题7.1.md",
+      "sha256": "911e3662b08368daf8e7d3c19d2c26c20ea6af7c05507dc88a68c83000429bd6"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1 条件概率与全概率公式.md",
+      "sha256": "e0edf071fa6adbba57e324fce6e152e40f8bc3af025c0fcfac33e59539cf3f6c"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/习题7.2.md",
+      "sha256": "970fc6ff4d91513bea5fab95399a23db286cee7a5b8ed781a20d3c955a744a25"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/7.2 离散型随机变量及其分布列.md",
+      "sha256": "deacbb8a161436d73dc1a708341bec888e5749908ac4f305874b1556ffc085cd"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.1 离散型随机变量的均值.md",
+      "sha256": "5d967c553a02baf410e0420b91bc3cf69d072b6c58ecfc329006a36602b2d11d"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.2 离散型随机变量的方差.md",
+      "sha256": "beca863266e6c9faf003e7d9c95b5980065a1460ea78576847c782b8736fa8f5"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/习题7.3.md",
+      "sha256": "5fc88b36fe2c7d204c3a0f2abf7cd31a1a4d0707b3282962d158ef03375fe65b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3 离散型随机变量的数字特征.md",
+      "sha256": "41e15f4e10e29494fa88233bec6c540f05a92b4e167ddd5141a0e6a02f3b3a44"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md",
+      "sha256": "f8c5d505cdbc81ccdad6dd1848fd7430962aa9f099db5414e9227df7983e111c"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.2 超几何分布.md",
+      "sha256": "7899fa02e32a1ca3eb48b07a653dcafce1bf64cd8899e35a272e3ace007e831f"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/习题7.4.md",
+      "sha256": "20354ce9537572a4919f6a90e8fb6db4f713988c0823649332319dec1b6d743b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md",
+      "sha256": "3ac0b6bb896378786d44c2238be21f2a295aed0584f540ac7f301b6ecf142cc8"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/习题7.5.md",
+      "sha256": "c07a7d5c290015b8a836c0d618486d5524f71d568a8ae0e70addbc1f8fc4a99b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/7.5 正态分布.md",
+      "sha256": "5129d48d4627e8d849545d0626e6b46243651c6bf0f2e92ee340e10dbf85fdb3"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md",
+      "sha256": "286d48aa48043c4d138f863f1d8c031cc23f154d15632879232ac40a3c6fa1bd"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 复习参考题 7.md",
+      "sha256": "3942e258a8ef20691fc287a690749dfd7fb62a30d372785e433f4f2821a3ac6b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md",
+      "sha256": "a5408efdd5ac5833eae4263a93b8322d5dffada2b8343dd6291a14d4d0b14385"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/人教A-选择性必修第三册.md",
+      "sha256": "569862f314329b0b9b585a54f0d0a497713a7ed4bd80430f9cf44a3ecc41372c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md",
+      "sha256": "a880798487c7f386be422ff76a00c0869489ec71ca5379b10a45820a2336327c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md",
+      "sha256": "405e7969e48187198115e17102e03a9766bdf31583ee88cc7a9aa5ce20d4f255"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md",
+      "sha256": "936f3afed4aa45e68b8b0e044ad495be5992adabe1b880f595effdb2ca0801bb"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md",
+      "sha256": "7d79781f1cda2d29d4a579c84ed0995380ea61ad6e398c450d96c1d14c362eb9"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md",
+      "sha256": "f79129a8828ad072a19b64a2e3722eba17e77b17b4691f0b649a20298e9dc3f2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/第六章 计数原理.md",
+      "sha256": "285d8d67b4edacdff186961dd6715820e5fe9b91187c605e0e8e1f1791daf790"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md",
+      "sha256": "78d2e159bd339e0a9afcae7395e4d59b3870a63b4e89f492d4a336c34026fa7d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md",
+      "sha256": "afafb27af10e1adf2f5ad205da4bca379a9d20de91a57f9fde527b281649e274"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/第七章 随机变量及其分布.md",
+      "sha256": "a15385321d41ad17e678f4f01c4f55d2744497800638f7ca1b25e703bb5082e1"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/人教A-选择性必修第三册.md",
+      "sha256": "2c7a1e3f9577a98f3e93fa348793c908126e90d20e2419123927b990c2b85f70"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第六章 计数原理 · 概念索引.md",
+      "sha256": "4cf32688852a17c43222b61946d6864be427e6436b21dc1534095739be32090f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第七章 随机变量及其分布 · 概念索引.md",
+      "sha256": "3aadd9963b8a97729b4d38e59204023a08aa9ab3314c90065fa2aa292dadd4be"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第八章 成对数据的统计分析 · 概念索引.md",
+      "sha256": "426f876c9445cf786da6c209dd746809c8d18c3dc8f5b80e672b8fc6b170e2c5"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/source-archives/rja-selective-3.zip",
+      "sha256": "aac3d01d0d6806e37eb4d34079d229de13c6a5fa5e7d173827ca53275c2e7ec2"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/sources/rja-selective-3.json",
+      "sha256": "6db365e66a601c5a3b175f888a7617c0989b7ef407fbf8fa3455f705c6e1887c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/来源与整理说明.md",
+      "sha256": "444714581be551ed1aaef7c77575fcb209d83864329fcab012c24a89fb3adfa5"
+    },
+    {
+      "destination": "Mathmap/索引.md",
+      "sha256": "5f0372804b2000153179971fd75210e8e673e9f8acba33f936a357804cfaaac2"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/layout.json",
+      "sha256": "c7709e942ec9329b8c98031efba639223386cb3fa4e26737e63d87542c521592"
+    }
+  ],
+  "conflicts": [],
+  "errors": [],
+  "mode": "apply",
+  "relocations": [],
+  "replayed_knowledge_refinement": false,
+  "source": "高中选择性必修 第三册·人教A版数学",
+  "source_id": "rja-selective-3",
+  "summary": {
+    "assets": 156,
+    "atoms": {
+      "answer": 44,
+      "concept_formula": 2,
+      "guide": 23,
+      "knowledge": 57,
+      "problem": 11,
+      "question": 262
+    },
+    "audit_errors": 0,
+    "classified_problems": 0,
+    "conflicts": 0,
+    "create": 666,
+    "definition_aliases": 5,
+    "embedded_motivation_sections": 15,
+    "formula_summary_pages": 0,
+    "motivation_note_embeds": 25,
+    "organization_views": {
+      "按章节分类": 50,
+      "教材问题顺序": 15,
+      "知识串联": 44
+    },
+    "problem_organization_status": "not-in-source",
+    "relocated_chapter_pages": 0,
+    "source_atoms": 390,
+    "source_files": 679,
+    "source_heading_markers": 28,
+    "source_markdown": 451,
+    "thought_classification_pages": 0,
+    "thought_memberships": 0,
+    "unaccounted_markdown": 0,
+    "unchanged": 4,
+    "update": 4,
+    "verified_source_corrections": 0,
+    "withdrawn_editorial_pages": 0,
+    "withdrawn_formula_summary_pages": 0
+  },
+  "warnings": [],
+  "withdrawals": []
+}

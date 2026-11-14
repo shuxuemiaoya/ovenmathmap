@@ -1,0 +1,2619 @@
+{
+  "applied": true,
+  "atom_contract": "source-independent/v2",
+  "backup": "/Users/oven/Documents/ovenmathmap/Mathmap/.mathmap-linker/backups/20261114T060919000166Z",
+  "changes": [
+    {
+      "destination": "Mathmap/.mathmap-linker/knowledge-number-ledger.json",
+      "sha256": "92abb2558dc9b0074fc3bdc4717a5a78f63a5a4f27840396babb2d07e7613443"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/exercise-number-ledger.json",
+      "sha256": "c0b3035c268633c7c12a7f10f9b068f22c1b80d3447266a4d6bd549dcbbedb6b"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从数列规律到导数研究变化的知识路径--G8b854254109e8c.md",
+      "sha256": "8aa9d16040119cba84ed8ebd5738d87d83bb54fc5682c19b5b2dc0ad980e7d0c"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/ca/caaa16d5ebf08d3538931251acb84a3fbcb0c0ef55b8fa486a564cfb5f056e5a.jpg",
+      "sha256": "caaa16d5ebf08d3538931251acb84a3fbcb0c0ef55b8fa486a564cfb5f056e5a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由树木高度的逐年记录认识数列--Gf63fcef94df1d4.md",
+      "sha256": "10cae50a38ffdeeb1f6413a11a79cd73807f9a0796588cd99c943b4e8b7b604f"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/be/be27d5137855dce6da16d11f765ccb3975e8cfad1d947ed36db7a8e98417fb25.jpg",
+      "sha256": "be27d5137855dce6da16d11f765ccb3975e8cfad1d947ed36db7a8e98417fb25"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/be/be9d405119b674b0a0705b005d9eaa6c3cb706e79fd04e225dff1e589b6055c7.jpg",
+      "sha256": "be9d405119b674b0a0705b005d9eaa6c3cb706e79fd04e225dff1e589b6055c7"
+    },
+    {
+      "destination": "Mathmap/问题袋/从逐年身高数据认识数列的有序性.md",
+      "sha256": "2ffed3f45e43ed64ff16be5549fe4f2a273dff6dcff0a98f4ca60944fa3ab3a3"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/be/be27d5137855dce6da16d11f765ccb3975e8cfad1d947ed36db7a8e98417fb25.jpg",
+      "sha256": "be27d5137855dce6da16d11f765ccb3975e8cfad1d947ed36db7a8e98417fb25"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/be/be9d405119b674b0a0705b005d9eaa6c3cb706e79fd04e225dff1e589b6055c7.jpg",
+      "sha256": "be9d405119b674b0a0705b005d9eaa6c3cb706e79fd04e225dff1e589b6055c7"
+    },
+    {
+      "destination": "Mathmap/知识点/数列的概念与有穷性.md",
+      "sha256": "af7d33ddb7c8d937263c8815bbc81ba5d51cead168d24052eef7ed6d08caf5cf"
+    },
+    {
+      "destination": "Mathmap/知识点/数列的函数观点.md",
+      "sha256": "a5747f4bec77c9c2361ac35c002c03c27bae433fc925bf67b3268d10f66c78f6"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/42/42153c3810d892d13e428d8fe0ad08583dfe39a76c4a7c42f89e10b8748dbe0a.jpg",
+      "sha256": "42153c3810d892d13e428d8fe0ad08583dfe39a76c4a7c42f89e10b8748dbe0a"
+    },
+    {
+      "destination": "Mathmap/知识点/数列的表示与单调性.md",
+      "sha256": "5c7a0af0231fd9308de4d84a79535608efc7b02b56aa87ae5a1029013424b73e"
+    },
+    {
+      "destination": "Mathmap/知识点/数列的通项公式.md",
+      "sha256": "bc23995872c7b479820938480052d31a5a551285bb9b72eb85b29759080473db"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001373.md",
+      "sha256": "bfb13ad5ec9373ee86789eab416dfdbb071635b6024a09b6cf447d02800ea635"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/5e/5eca4e1781a9ea79ac8484591691711f1deaf77990270792d41a958cf3a140c9.jpg",
+      "sha256": "5eca4e1781a9ea79ac8484591691711f1deaf77990270792d41a958cf3a140c9"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/00/0058f526e59057c21eca23bf58ea6c0683e0032293c041262235678b969d221a.jpg",
+      "sha256": "0058f526e59057c21eca23bf58ea6c0683e0032293c041262235678b969d221a"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000163.md",
+      "sha256": "e40324f37b92d39f18249dd77127a118888051dd05f689e9f86558543e23dbf9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001374.md",
+      "sha256": "e5dd8de2a5e1cdc08e1334a974fe7189645da51f9d094f31486fbcad6cb489f8"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000164.md",
+      "sha256": "6e4ac0884beef1626a6cf0fb1923ed5c8eb3102cd80a677f48af2ce040488024"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001375.md",
+      "sha256": "1f072ebf630006c75136cc5f85568f103e9883019db49cc415a1171b46c24c32"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001376.md",
+      "sha256": "eb50051ce173f63c7947458cc54cf1bc49742fd9efb5182cf90b9aa244d2ff60"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001377.md",
+      "sha256": "4452bef00da32ac3a5e75549398363fded3ccde4fb33deae344cb203f89ee4d4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001378.md",
+      "sha256": "d2328cf08c26db08ef908bfdba55a8fc67dd6ebc64f2627f9f8398f521de7573"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001379.md",
+      "sha256": "7dd473ebdcd32f18a3b7e0def769be1277e78f986e6dbe357bd83fbddfa88bbb"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000165.md",
+      "sha256": "566069ef276e7dedf0dd2ba83f5dbc9e1411981f6b78999f55b7a472d6b13e39"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/52/52f58f798f2b309d9af45d9f664f30881c8d965089cf38dffe596b665a1206c8.jpg",
+      "sha256": "52f58f798f2b309d9af45d9f664f30881c8d965089cf38dffe596b665a1206c8"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/2f/2f2120bc060f53f9206f0ff56bface6ee26ac6cc69a052908fb64faaf7bc1f02.jpg",
+      "sha256": "2f2120bc060f53f9206f0ff56bface6ee26ac6cc69a052908fb64faaf7bc1f02"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/56/5661658e6832290379505e1f059533ff841c3c35144359dc7dfbee5366084aa7.jpg",
+      "sha256": "5661658e6832290379505e1f059533ff841c3c35144359dc7dfbee5366084aa7"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/29/299f77d72026c36ac69eb9f7eb95dba1a9ff3cddc239980496522a3ea95dc77c.jpg",
+      "sha256": "299f77d72026c36ac69eb9f7eb95dba1a9ff3cddc239980496522a3ea95dc77c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001380.md",
+      "sha256": "f61890ea0e6da0f958d4415eabcd0c4e249ec2d1b70e10e5a2a3d736641dc7cc"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000166.md",
+      "sha256": "b618f562086c14464a7306a41432a40e060d09b8f8b913ff99ade274cf2fafb4"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由相邻项的差与商寻找数列递推规律--Ge0f91a497c087a.md",
+      "sha256": "6a824e90c739c7f6bd3b7507c5db842627356fefc38fd0daebcd2b0fb0084a88"
+    },
+    {
+      "destination": "Mathmap/知识点/数列的递推公式.md",
+      "sha256": "15cca91e52a6c9655b7088caccaded946cefd452a7b2dbf2984419b547a767a3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001381.md",
+      "sha256": "26bd63373f4355d0ed54e77cc64d9426771a11979de0e2e86f4e5ba0bb589131"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000167.md",
+      "sha256": "74a23aa1be3563ba6fddf6aae45eff6e6d3555e48921c4c469bdc3d1b1228a1a"
+    },
+    {
+      "destination": "Mathmap/知识点/数列的前 n 项和及其与通项的关系.md",
+      "sha256": "99633a0b0e8927e7d9c56b68ed12cef9af52c609b11e45a26220d2424ce726b5"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/1d/1d2e122e85dccd29340df2eeb9d2af3c5975115a37da6895547d29335e47a1dc.jpg",
+      "sha256": "1d2e122e85dccd29340df2eeb9d2af3c5975115a37da6895547d29335e47a1dc"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e8/e8fa8bbd8b99581e46a554fb88b9bc315b8bfed0ff750dd03757b996f5ec5914.jpg",
+      "sha256": "e8fa8bbd8b99581e46a554fb88b9bc315b8bfed0ff750dd03757b996f5ec5914"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/0f/0f68951b1e9c4ed03bd55e45af852f3a6df0e228148ad6ab104d4cf95bd5469e.jpg",
+      "sha256": "0f68951b1e9c4ed03bd55e45af852f3a6df0e228148ad6ab104d4cf95bd5469e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001382.md",
+      "sha256": "0ff3dcedf189412ababab186016a743d1b6dd0edbde26a0a9c0c0d61c13e8c92"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001383.md",
+      "sha256": "d1d16fbbe972a7a6703cd819346ea923acb2b6cbe72c1de447703e838243bbcd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001384.md",
+      "sha256": "10ae0fc9d5fe9253776b554a4fddcc97bf2dc2c0919fd21ad697ebdd0731f5ae"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001385.md",
+      "sha256": "47ff4a785055642888c316c24c1d6ac95da8cf854f1bb2ccd675d2018e4dbf44"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/e6/e6c2b33e646d07f0c9bcc67001a34eeba76d7f8181e5fd61d5253872a649ca41.jpg",
+      "sha256": "e6c2b33e646d07f0c9bcc67001a34eeba76d7f8181e5fd61d5253872a649ca41"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001386.md",
+      "sha256": "aef8d533a9f711d8d2a6124c96a5698c6dbc328c6f947e6fa676c6b817803a47"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001387.md",
+      "sha256": "5bec50b2002f3fac910a8afee2d6314cb7f9bb8221a6597657034122bf6608e6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ff/ff817385e2821f0536d8151058b0d62d37ee0cc3c3d935586cb944c48dee1376.jpg",
+      "sha256": "ff817385e2821f0536d8151058b0d62d37ee0cc3c3d935586cb944c48dee1376"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001388.md",
+      "sha256": "22d90a5d25036c1e90b2624b43f3227eddb34a5e9ce51b504f69c31340bcf1e4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001389.md",
+      "sha256": "70180db6a6bcc24025d0f8f6cb1596b623c151e45c838d27057945108a388661"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/f8/f820c901e8f1ae9840cadacf1ad5faeacea716bae8fc8ff21e4bc80692a79bb5.jpg",
+      "sha256": "f820c901e8f1ae9840cadacf1ad5faeacea716bae8fc8ff21e4bc80692a79bb5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001390.md",
+      "sha256": "561c6aca8b85926410e2d49917ac0041c419a46a864c4ea31b16a745b52f568a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/5b/5b225916876ab8dadde8d678c285d8a5893a9d36c17c2f18f50cc994b0f33b0f.jpg",
+      "sha256": "5b225916876ab8dadde8d678c285d8a5893a9d36c17c2f18f50cc994b0f33b0f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001391.md",
+      "sha256": "be4cf8ba4035bf5c272dbf22bf7927db7433f4458454e7f20e8a8363b9afb915"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001392.md",
+      "sha256": "627d2c83dfd393b97020056e2e39702abf43e374e0a3b44b4974baac52f63691"
+    },
+    {
+      "destination": "Mathmap/问题袋/从兔子繁殖问题认识斐波那契数列.md",
+      "sha256": "263df3990def1c879922fed3e7a57274269692c9ba8462d58f0d893fd5f604e5"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/51/51ee6cd1955b7b862994211e56a38e3addc243f616bf5405bfbd5ecf70191ab8.jpg",
+      "sha256": "51ee6cd1955b7b862994211e56a38e3addc243f616bf5405bfbd5ecf70191ab8"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/5e/5e237c5abe964e320415fd2665851b96b19ad55ac6d291716ca50391a9a0b62e.jpg",
+      "sha256": "5e237c5abe964e320415fd2665851b96b19ad55ac6d291716ca50391a9a0b62e"
+    },
+    {
+      "destination": "Mathmap/知识点/斐波那契数列及其应用.md",
+      "sha256": "23e515f3a149071549f03090a902417722efb5a85249d5400a12543d8fef0998"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/类比基本初等函数研究等差与等比数列--Gbf86a051f13bb6.md",
+      "sha256": "627ba3203b7ff3fbc2fc2cd6f4a4d9133fe741581fc15f80cec7905f8ada3359"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/f9/f942d3ba5952fbe6deef1bba9f91e6d4c697d5335d0fe97cf0653f0885c168bd.jpg",
+      "sha256": "f942d3ba5952fbe6deef1bba9f91e6d4c697d5335d0fe97cf0653f0885c168bd"
+    },
+    {
+      "destination": "Mathmap/问题袋/由圜丘坛石板数与服装尺码认识等差数列.md",
+      "sha256": "5b9dbe468360eb3abacb289650129e51ba42fc908c08da74d474470452b5e3c4"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/f9/f942d3ba5952fbe6deef1bba9f91e6d4c697d5335d0fe97cf0653f0885c168bd.jpg",
+      "sha256": "f942d3ba5952fbe6deef1bba9f91e6d4c697d5335d0fe97cf0653f0885c168bd"
+    },
+    {
+      "destination": "Mathmap/知识点/等差数列与公差.md",
+      "sha256": "0e3a84f77b6ae0d1f501128742a961b6906fdb9333aec510296651fba3b47eec"
+    },
+    {
+      "destination": "Mathmap/知识点/等差中项.md",
+      "sha256": "be326f78b629af5bb305aa519b0a7ea2b1eb30272c94795fee8f9f07d2acf26c"
+    },
+    {
+      "destination": "Mathmap/问题袋/从等差数列定义推导通项公式.md",
+      "sha256": "60b874b831a5d3adde0e46ca6c34b95951bdb1886892c4d1f391bb765d80eeb3"
+    },
+    {
+      "destination": "Mathmap/知识点/等差数列的通项公式.md",
+      "sha256": "6bf3e8872ad28a679439b43f44db9cdb9479ce4a7ac21d8af6e984d6069029cd"
+    },
+    {
+      "destination": "Mathmap/问题袋/由通项公式联系等差数列与一次函数.md",
+      "sha256": "9509e26efc574fe28963d5d30416777de9b0885e58f078675465892eb58eaf56"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/34/3456100520602c91336dcf10663dc810614322cb4e5c95bcddfd5b2c83cdbc65.jpg",
+      "sha256": "3456100520602c91336dcf10663dc810614322cb4e5c95bcddfd5b2c83cdbc65"
+    },
+    {
+      "destination": "Mathmap/知识点/等差数列与一次函数.md",
+      "sha256": "40437c5e47565d3b09415c3533184560d5945ac0ca923436a0babc1b3034e469"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001393.md",
+      "sha256": "fcbf072d273c085a325ce8d98f54712585dc2b1833f53e13a5d422d75887a515"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000168.md",
+      "sha256": "30793ccbaddeb4de38803981694d4fe4f7542a0c942e651923628a5df8708123"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001394.md",
+      "sha256": "fb80bdec070fe776173206a6aaef6b0d11e5c2f38a0a4173b0f63b1b6bac68b4"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000169.md",
+      "sha256": "69d541d08153d340ce53bb362fdc2b4968977ae995be846d4f19dfa7de1c097b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001395.md",
+      "sha256": "1066bba4caf792d5abfc2cb062b81d48e1496dc22016e3db738210eb738f5f61"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001396.md",
+      "sha256": "00d8418b475d3e828113f31fa5877a7e5a9c38d7bbb7cddf7b7ec34062cc83ca"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001397.md",
+      "sha256": "ae869febf72cb078f1db93592e675533d37e1af8855fabdb4e18b705dc7ac257"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001398.md",
+      "sha256": "5ab31c4af8fcad62baf1d23af49abf442da01aae383dd9682118d2185eff58de"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001399.md",
+      "sha256": "03460877bb93552b2922bcc8b05f623c878bf9f9bfb73a4fc71a5a164c425948"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001400.md",
+      "sha256": "232f400532fbdbdba2e0e29fe10752376ba5b8b623d18ed50937f9d036b1ca54"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000170.md",
+      "sha256": "766e769dd34645d65cb3e97d22aa8f6cda80c17b8530967d6877d9930216580b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001401.md",
+      "sha256": "aaf178afea4d2d9ce786821d4a6b2b9d11ee48b64b1b9f47f14e46abeab15ef0"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000171.md",
+      "sha256": "4eb9d4e6dd007b8c8cbd0b88efde023ed871638dc0a29cdec685bc145eddfdad"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001402.md",
+      "sha256": "2b341f0ad66627fd727b89342aa141c74c1d40134635a7c5a4268ecf0d26d8fe"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000172.md",
+      "sha256": "0d25ab1750d74ca771a4ac342f45405dd0d5039991496627499219cb37054cbf"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/f3/f314e384fc70cc7f27319f991840cfa65703910b6504787cbd834b80607378b9.jpg",
+      "sha256": "f314e384fc70cc7f27319f991840cfa65703910b6504787cbd834b80607378b9"
+    },
+    {
+      "destination": "Mathmap/问题袋/等差数列性质的几何解释.md",
+      "sha256": "732f4d82513a068142c87ada7af1109010fd9c00e6f25b1586e710613458775d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001403.md",
+      "sha256": "963c5625e1aa816dd50962293e5b9d2479b043017a21c1bae44ffc9e4f08f74c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001404.md",
+      "sha256": "36221bb698466d176b23aeba25ae06378408ecbc123a7a2211314b9dec5b6910"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001405.md",
+      "sha256": "45c95fce8c0beaed2bc5320dd233ba190068f2d389460fd73f0d8c51c52e62d0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001406.md",
+      "sha256": "4fe8af4407c8041361c2f54660d79d6949f694bfdc25b03d634084c3a12508a9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001407.md",
+      "sha256": "8a5820b636a90925e5490415487e0ad554d1dc9e634a8c7789d6c1583e81ec0f"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/cc/cc0815cdec5939cc806ef85ab589db02f74c107271fde98f942f5855908169e2.jpg",
+      "sha256": "cc0815cdec5939cc806ef85ab589db02f74c107271fde98f942f5855908169e2"
+    },
+    {
+      "destination": "Mathmap/问题袋/从高斯求和发现等差数列的对称性.md",
+      "sha256": "93661299cdabd8d3fb1f73f64eefd8281b600275a99bef8176592a7e0fc066b8"
+    },
+    {
+      "destination": "Mathmap/知识点/高斯求和与等差数列的对称性.md",
+      "sha256": "8da132f25a210ae941c6aa1737adc3049ee25a553284564be455233aea5cd36e"
+    },
+    {
+      "destination": "Mathmap/问题袋/由前n个正整数求和探索倒序相加法.md",
+      "sha256": "4dd8a623fb973b61f4d0893465a0496bed440b3d579dcc82ff10b63c0051c505"
+    },
+    {
+      "destination": "Mathmap/知识点/倒序相加法与等差数列前 n 项和公式.md",
+      "sha256": "9dad916662246112289b5bb26dd4a807edf0b4cd51e9d8ecc9a80e04a26563c9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001408.md",
+      "sha256": "37e030e6e41eb042212ebcc672900c3d0820d005ff40c68dd30c8d95cd8d42eb"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000173.md",
+      "sha256": "f31f552ff3890c04dd50ca4fb96f5de2eeb193d43badb775234bec3ceae86ef3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001409.md",
+      "sha256": "a98bb0d481ae180d03c54faab12a93b003a967be964c9c15db725c6e71c02567"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000174.md",
+      "sha256": "467fd0d8199deb2a5fbd8315106b34377fa9e6c2f518ea250ee282331183de37"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001410.md",
+      "sha256": "10e0c964b99485f2db7b8e7dc904af6eb9b2df7ac6ae07c49f1bd34c6cd61b69"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001411.md",
+      "sha256": "7bff56d820bd8107ff3a4d2e4e1a339eb4603b9506a670a8424a54e0ee6d6a13"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001412.md",
+      "sha256": "cbeacea1b26fb78570de9596f676619815db8bf4535bf45b99dd686195bb1485"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001413.md",
+      "sha256": "de22ace18c25e1d941d253dc7e101faac00e39940d39d90efab73a103100afd3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001414.md",
+      "sha256": "9ce73168ee8d5633ed2b8ca19ea7c5031879afb4d38c90decc2d8784dbcb44d5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001415.md",
+      "sha256": "6abcddf7da4b2673d6a8876e173eab43d10ae26b3b3f108152534ae877240d83"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001416.md",
+      "sha256": "2a80e736c7efff7d8bbda5532192137c3f4c835501f8462f3bb4bf4c6c2e5fd2"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000175.md",
+      "sha256": "bf1266e0d8a0bf3fb21595c0d518838eed9a39ca1366881132318d6646f82f24"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d7/d758a3bd7c1e42ec1f0c5f8d5e8946fe1c7469748284b2c2a0878eeabea1b6ab.jpg",
+      "sha256": "d758a3bd7c1e42ec1f0c5f8d5e8946fe1c7469748284b2c2a0878eeabea1b6ab"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001417.md",
+      "sha256": "12939fd04a9d91a4ea84a4ba2db6c2754c246d5ab28d6d921d518189eaeac7bd"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000176.md",
+      "sha256": "1eb56cdef07131c342540135d39670fb16cd3e27c41c816fe7adea9055123ce7"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000177.md",
+      "sha256": "817d042285caab8d1a0c4f0ae6fc771fc59a8df51595599594599c141a2f7d0e"
+    },
+    {
+      "destination": "Mathmap/问题袋/等差数列前 n 项和最值的推广.md",
+      "sha256": "2affda0d8c39b020c83a26f2fcedc6c01d949705eb4375cae263eb9a9d019749"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001418.md",
+      "sha256": "74b88fa37ed2433f3e4cfdd74505c2331f1b77a7765b414209d4b0528ef4913c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001419.md",
+      "sha256": "204db7f4a436b13b24a1083151f55aa55b1f6fda64a881888560054515f123fd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001420.md",
+      "sha256": "6fed2c485b3f03401c1773e5a33f76d551fa0ac0602f071301ed218d98070071"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001421.md",
+      "sha256": "56348413435ffd62c88490032ba5e5c6c9360433ba5c3e8fd1c6b871c9af1354"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001422.md",
+      "sha256": "0565b39426c5b747c874deb610f605a5eb79bc6671d24e33bf054199e682c02f"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/63/638132d69702e194a82724a54697096df7c55138cabd966b55c8bf3c6459d66b.jpg",
+      "sha256": "638132d69702e194a82724a54697096df7c55138cabd966b55c8bf3c6459d66b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001423.md",
+      "sha256": "6dc01ecb12c268917fb48659a8e2521434ce13e7200f216401e8c03b4430f53e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001424.md",
+      "sha256": "54093b138444211ffa645c1df734a7ff60be89ae4b0402e7bc07241bf727058c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001425.md",
+      "sha256": "03e212ecef621734701fc61b80fc1e97e9ff758df3286ae215de64118b1917c6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d3/d337f2713c5f3c04186aad7e5bdc9a3cc5bc95ba238a2e7578382a68528f24e0.jpg",
+      "sha256": "d337f2713c5f3c04186aad7e5bdc9a3cc5bc95ba238a2e7578382a68528f24e0"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/71/713869420389599d7b36d0eac776ee176d6ef55b2322fbcdf822781882263a77.jpg",
+      "sha256": "713869420389599d7b36d0eac776ee176d6ef55b2322fbcdf822781882263a77"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001426.md",
+      "sha256": "4c8beacf64955a52353d88881cd9ab9317977b7d31aa220704db0a2ad49833b8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001427.md",
+      "sha256": "bc88728212fe6d23715916564554a1dc91991d28f2b53bab4331915f2df7092d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001428.md",
+      "sha256": "40046b28e3781b277c35be38f604b0d23757d955ab49364cb9889a4b1e136a85"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001429.md",
+      "sha256": "61710fb0dd3d84215bccdf273023a33954f630368431be1df4dcc9fb1dc1b8e3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001430.md",
+      "sha256": "cc14b2815173fa681a2a699a298ca6d3f6a87a2f93fb376eefa13a3f9941293b"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ca/ca3fb7113b6ae2c88ef4066877c3674cd1811bbb88d3074c9fff1d72dad28174.jpg",
+      "sha256": "ca3fb7113b6ae2c88ef4066877c3674cd1811bbb88d3074c9fff1d72dad28174"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001431.md",
+      "sha256": "4ad66473ad7472b697309fd6a05cb80348f9cc5adde7a200d50df9148142c8d7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001432.md",
+      "sha256": "d1775f7976bff1e977469a92a8ee6af1383332d8f2e0c9229e059a7ee697d8ef"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001433.md",
+      "sha256": "f9b7d5b61ae527f5ff3bff80c5e9b593c90712bb74130e292386f0fffb7fcf39"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/3d/3d54437b40e4fdc79c13ceeb833bb584e5cde1fcc53f8dfc8c0280a2a68a268f.jpg",
+      "sha256": "3d54437b40e4fdc79c13ceeb833bb584e5cde1fcc53f8dfc8c0280a2a68a268f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001434.md",
+      "sha256": "3d8a49d37fd2c63c4d0bad95c3a60e55f31b9310f25fa5282dc476a53c27dc19"
+    },
+    {
+      "destination": "Mathmap/问题袋/由等差数列的恒差类比等比数列的恒比.md",
+      "sha256": "b7b45c60849a990d318650792298f43646206b3c6953b53d79ba982661ae7700"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/96/96b88f1a9ce9a79711b657b389ba21257e7b4bf2c5ce2872c4877058455ab4c2.jpg",
+      "sha256": "96b88f1a9ce9a79711b657b389ba21257e7b4bf2c5ce2872c4877058455ab4c2"
+    },
+    {
+      "destination": "Mathmap/问题袋/从古巴比伦泥版数列认识等比数列.md",
+      "sha256": "04ae39c96be41332a41970feee06f2b206fd8cea3d2cd9fc830dfc44c56151cb"
+    },
+    {
+      "destination": "Mathmap/知识点/等比数列与公比.md",
+      "sha256": "1ccfe38ed33b40f6ab0ff0ee886e15412747a19d54e3f1e371c63d284190f91f"
+    },
+    {
+      "destination": "Mathmap/知识点/等比中项.md",
+      "sha256": "64eaf978eb018f110c6436eb6e59ba59e077a9455199020f8df4dcb32cf99c82"
+    },
+    {
+      "destination": "Mathmap/问题袋/从等比数列定义推导通项公式.md",
+      "sha256": "968830ff4b730c0a15108955082cbf89fa84834784808d75a71cb56f071f12ea"
+    },
+    {
+      "destination": "Mathmap/知识点/等比数列的通项公式.md",
+      "sha256": "3888073f75622c7c11e7d0e926c4f404474c55ad20e11aedee4b745a43547b66"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/f9/f9c7e1b3177d35ab9cac776a396e2a9c93f00caf2f93958de1cfc4e632d0a23c.jpg",
+      "sha256": "f9c7e1b3177d35ab9cac776a396e2a9c93f00caf2f93958de1cfc4e632d0a23c"
+    },
+    {
+      "destination": "Mathmap/知识点/等比数列与指数函数.md",
+      "sha256": "90a76cb11f5af880c1a438bb2a9143ef0b7c9a4b65f89331ec7caf270583adb7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001435.md",
+      "sha256": "4ffc9ab534caa8675e930c07b14e9a40aa255a6ac9d738c5228d1b06134610da"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000178.md",
+      "sha256": "bedb1d42facce964f98f65b9a3a8be62b8cdaadc0f5f6f0594ae877b3d5b992e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000179.md",
+      "sha256": "75df7b26cc67c0022af7b16f716d2114d982f04137764347557f646d92fc85d0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001436.md",
+      "sha256": "9f404cd564c997ebc9e8937aa87f0d73cc561c04a8f014b94a279cd0baab15b4"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000180.md",
+      "sha256": "060bc866498d9f0a1b071fa22fb21697e353592be137cc13a8654e71e75fdf44"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001437.md",
+      "sha256": "a89f3ccb46fa57cc982f34d63beafceaf4829b473019b97fe81356338a89e936"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000181.md",
+      "sha256": "047a6a854d8751956ba8953f87a4232fedb42c847e62cf3d446e4759cbaa2028"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001438.md",
+      "sha256": "28d834a3cfa784b7082ea78aeef3d7025060d6eadb531f37f1653683033e6abe"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001439.md",
+      "sha256": "a46d38895483dc0f074c5ac153cad5295e19fc74565fbac54b53331cd6fdeb7b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001440.md",
+      "sha256": "77c8b3b73f3d2354449a391b250ca94bbce9657abcc64bfb22b92f91f19736e0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001441.md",
+      "sha256": "344b382cf4a9a3f817856601b142418ef0172a0e65fe69366b0c9db56abb17ba"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001442.md",
+      "sha256": "26f97fcbf79927a9cf340161d499e0c394d99b768b12df5a4d548ea48384a9c5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001443.md",
+      "sha256": "fd8772b0475fbe72ae36d001a946534497090e97c6680c777f6ed5c9bcb82472"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000182.md",
+      "sha256": "994bf2c22598462440c90171c97269d9e7269fc0d63681b755a6a7986dd30f0a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001444.md",
+      "sha256": "6cd6d646095f20ca6f45fa75a21dc1916476ceafe0f33d902c5fe63e4803a1e6"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000183.md",
+      "sha256": "65e62d9b0d1b54da7a77f1c66f5f8be8f8ec96be673b99bc02c9d3a8aca637e9"
+    },
+    {
+      "destination": "Mathmap/问题袋/等差与等比数列变换的推广.md",
+      "sha256": "05eea7ae14d7639c3222fb03d6afa8e9ca53f2b9570e74bdfa7a0172064801fd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001445.md",
+      "sha256": "445004209f76307e3af3b28276698d00264daa3920dcffb8b7416caadf59ba51"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000184.md",
+      "sha256": "9c1a79ed2c58b055c5a314cfb4f78a5e57b1c3ef2a6ea84d94536f10ea18e77b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001446.md",
+      "sha256": "dbd6e646ccf4dec43c0e73677c2d5752384a307ae7164049d90dd75b2de18523"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001447.md",
+      "sha256": "1d5cc5e4f48b4121381ef689c18c05508bdbdf64b2253df051b4a27b9783246f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001448.md",
+      "sha256": "b25dfe65b5129fe628ec56cb909f44e00bff5870b3ae5544d4b622d212dc22fa"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001449.md",
+      "sha256": "5af3114067a855cccfc29e351e350087744976fab397390123b2fb9587f85c74"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001450.md",
+      "sha256": "44529d00d5a7f1dabe23da47dabc13d6432ab2c506a68aa5a92b2981f3425fc7"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/58/58f5a12959a04974b4d9d976c0a2d655bc05f873cebfd4c553122c8b16d6a0ff.jpg",
+      "sha256": "58f5a12959a04974b4d9d976c0a2d655bc05f873cebfd4c553122c8b16d6a0ff"
+    },
+    {
+      "destination": "Mathmap/问题袋/从棋盘麦粒倍增求和探索错位相减法.md",
+      "sha256": "cab99c8d113bac443cfa960ccd1181488c8385a271d163b7dfdabdd37e89e6e3"
+    },
+    {
+      "destination": "Mathmap/知识点/错位相减法与等比数列前 n 项和公式.md",
+      "sha256": "586e7270f329decc766ac7633905fcefacdc86595efa3aba180ef974d932e465"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001451.md",
+      "sha256": "b5fec68169b1b2fd015a5758317a769ab7fa49815e252bd1d3ddbfe6c30fc86a"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000185.md",
+      "sha256": "4dbce4c0a2d6e27a4788cfa052a19012f75ea1bf22093bff5fe623230938911e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001452.md",
+      "sha256": "f63b8abd2a3d55b02c073ec8824724bb1bd4c112957c553849d527564e01706f"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000186.md",
+      "sha256": "da14586da863a296220b6df4625a2875cf5c3a57bcf37b2ff7cbb6172aa171b7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001453.md",
+      "sha256": "237da2653b45d434681862f250910aa409493e5350159bac0991bdcd800f0cb3"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000187.md",
+      "sha256": "b452243a577dcc1b1bc9316e2b0c40fa93d78f76d8dccba5f244cf2bd1a5a52b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001454.md",
+      "sha256": "eadd13cac238c1df94dd824db5cf1c183f9cdb1ea1391df3d231e7d6bb6fea01"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001455.md",
+      "sha256": "48e4075cfe3d5024bc91f2928e4550cc24ec29fa07669353e310ba10245b8432"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001456.md",
+      "sha256": "3233062d940c685305e4657581eac250e3641d4d967047c849f8fa883e9be9f1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001457.md",
+      "sha256": "fa307350f01d292007831f53c68519df04bf84d384595ffecc183f659e67b0d6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001458.md",
+      "sha256": "8aad9b228ad927eaa158c178698e718eea673c103450597fe309ff84bdf69af6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/82/82d6e34aa618d90ba001ed01559e7e50006757b6e3aee5ac7701132fd0372d71.jpg",
+      "sha256": "82d6e34aa618d90ba001ed01559e7e50006757b6e3aee5ac7701132fd0372d71"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001459.md",
+      "sha256": "51aadbc953d317865824ec6ef163faeab25f223ea7f636aa813178c70844baa1"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000188.md",
+      "sha256": "3d593f9ffe922409372db6ea4cc6d06ad9fd1699ebd10332c351cd49f6ae74e1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001460.md",
+      "sha256": "4d471bfbd24de11872c16ca846373715501b8fd76994c2b634e40d81251bd394"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000189.md",
+      "sha256": "baf6d880217cec28522a96af0797787e5c52432beabf19cb20ee7dd1a59e64c1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001461.md",
+      "sha256": "5dde8825fe6046085288ea5ebe916d395d042c337090954c0095ebd09c6bb578"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000190.md",
+      "sha256": "c5ec4948d41b274cfde1bb332b6088a9c1d66834e652cc90f0a40ceea5001505"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001462.md",
+      "sha256": "43b310fd5c2f131a321332e2537393498bfcaa1ca616af61c82fcd154b421d84"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001463.md",
+      "sha256": "47c7ba25f5d846b06e428d721199142cc4610d7b924516c658c192c6e1d0484b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001464.md",
+      "sha256": "096b0572d46b5ba5d098b4b697ee4c6fd2f4bb7963ee9a9476f30affdf57e133"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/30/30c031d2610381fb66c02ac5f549460daaebd2d6709f6765e1ed6674a1de4a33.jpg",
+      "sha256": "30c031d2610381fb66c02ac5f549460daaebd2d6709f6765e1ed6674a1de4a33"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001465.md",
+      "sha256": "e2097aa01b0c75df3befe181a92a53b37470bd5bf49f6cf19d71f57ee30370a5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001466.md",
+      "sha256": "2f835893a5a911f837a9fe3ff3ba7763019739673000a453b865a6e5f5e18cf5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001467.md",
+      "sha256": "189edbec1db14013bcfc015cab98a8d0bee3b1d7eb2ac872ad7a4221ab022894"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/39/3999a458485bcfb062bf22d7e01d75c72cb5c30ea8d94cbe64f63f65e83c1332.jpg",
+      "sha256": "3999a458485bcfb062bf22d7e01d75c72cb5c30ea8d94cbe64f63f65e83c1332"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001468.md",
+      "sha256": "f8b4faa597b1c9aba63f53e89fadd4cd72325fd921893ad4969905402af46180"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001469.md",
+      "sha256": "815f1eb69fe5c6dede425593578c07ce899f1da4a75ee0b3f000122cf5c26e11"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001470.md",
+      "sha256": "e175f81a9b06ed2e236d2686451a0228ca538904c2547a339540874d31a12094"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001471.md",
+      "sha256": "74ffd6611399474857fc4838378f74fa9999fb1cb21eeb6e9efb78ff5586d6d2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001472.md",
+      "sha256": "2e4561f669f95c631c00c2ceb5501c343072a67da0d196629639ed7be65ea66a"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a6/a6051616656af4c80346b4bd0a38a5432fe97fec6d3dca09d6ba3808ae4bae4d.jpg",
+      "sha256": "a6051616656af4c80346b4bd0a38a5432fe97fec6d3dca09d6ba3808ae4bae4d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001473.md",
+      "sha256": "b3c5cdd619f691dfe1f004a1976622ed6bcf0a97cad94d6c29a68b7702e96398"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001474.md",
+      "sha256": "8758b0019269c01f755341365c5f3a18a87ca543f91b6b73ef55c3aad10fa821"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001475.md",
+      "sha256": "9790629c5290d953e4b5d7515012196078949d0d75ef0633174f289c2b28f843"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001476.md",
+      "sha256": "91e01ca6c19fa6b7f411d2644b7e2b4c1c30f4e383d067863a545afad22bc747"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从古埃及纸草书记载看数列求和方法--G454d3a9a88502e.md",
+      "sha256": "3c061d6050dd7e82498cca5531851f121341727032ff615fc6babb3281c90bfe"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/ad/ad3107d0bcdf57aaa91e3a4d3fe66a9a9b537c22ee15986a01c967c73aa6bf22.jpg",
+      "sha256": "ad3107d0bcdf57aaa91e3a4d3fe66a9a9b537c22ee15986a01c967c73aa6bf22"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/68/681b22d0aefe578ad47eb7020d04ff898a5359a0a4d939d5a3a9990dabec3caf.jpg",
+      "sha256": "681b22d0aefe578ad47eb7020d04ff898a5359a0a4d939d5a3a9990dabec3caf"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/eb/eb71302d50fa3f66c202e1ee6f525d2c21e266f5764bcbd0130ff9a02c4cad59.jpg",
+      "sha256": "eb71302d50fa3f66c202e1ee6f525d2c21e266f5764bcbd0130ff9a02c4cad59"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/cd/cd892f07e393675b0154b1f8e1b1b09a77b96de60ec12255c16f9ec3646e966d.jpg",
+      "sha256": "cd892f07e393675b0154b1f8e1b1b09a77b96de60ec12255c16f9ec3646e966d"
+    },
+    {
+      "destination": "Mathmap/知识点/中国古代数列求和方法.md",
+      "sha256": "ffd1553fe5155a4cd34bcc43ae8b179fbd1f248fa8dfbc94db7f326e288d2c1f"
+    },
+    {
+      "destination": "Mathmap/问题袋/由归纳猜想的证明需求引出数学归纳法.md",
+      "sha256": "88be7da86c2f374a70a7eadbf51a595ad23da9fdd045d5481139ba36b4517d17"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/af/af93facc1e25eff694f74ae3ca3bc6243cd0c5fdf064c5abbb81bbb92f576a4c.jpg",
+      "sha256": "af93facc1e25eff694f74ae3ca3bc6243cd0c5fdf064c5abbb81bbb92f576a4c"
+    },
+    {
+      "destination": "Mathmap/知识点/从归纳猜想到数学归纳法的递推机制.md",
+      "sha256": "0e9e9bce653b682843006ee143b51c874a05d17a853b2a7ca937d862a303c690"
+    },
+    {
+      "destination": "Mathmap/知识点/数学归纳法的原理与步骤.md",
+      "sha256": "e47f0faa7c903bd903443e528c50d37a73844c1a38ad67fbae3c089d8f99d888"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001477.md",
+      "sha256": "b91dac21bbe5712166e1deb92107dba0eb6a85ee56b81470dd91fa2f1f94c6b6"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000191.md",
+      "sha256": "8bcf199a2fcc07ca45accc1705d1a43de03dbe2f5cb6cd8cc3e0797c9971d548"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001478.md",
+      "sha256": "e1abaf78580e0d6d62b283f7fd27db7279f0641c9029d154c45127dd72325160"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001479.md",
+      "sha256": "9b64bba8c72d4e1b18db50a38c92c1bb44e3eb913eec67459c34857dfff426c3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001480.md",
+      "sha256": "2d9e8bc53d00ece505ee0e1c86fc7c5153dbd6030f52efbbc8692ac91ecea219"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000192.md",
+      "sha256": "a2aa50181c7cc7b28ab23a60668248e56e9d3ff556d08249e45204738630be42"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001481.md",
+      "sha256": "4fbc5e7834553f571b8403bf68e6f5df9513eed190d3adcf9950e1bb4d9da462"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000193.md",
+      "sha256": "ae6508376737ec75bf7d35a26f7519c0e4ef79f4122a3b7de034b48b7cedfd7c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001482.md",
+      "sha256": "03da35400b8a12d733d8c20769d8ffad9b9e8655928032b908a55902d5bb6cd3"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000194.md",
+      "sha256": "ee0eb0f10bc4f8239e2da869acb5ca07256a58a641cb8f34e7c19a65b319d75c"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000195.md",
+      "sha256": "0df265e54ea62395f7909cda054dfb630ab7b2056af9306c4c25cc6dc1cd85bf"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001483.md",
+      "sha256": "25e9b9bec400d44118051bd5c0ea389ffb51b7e14671cd47bb68ef7ef1871a6d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001484.md",
+      "sha256": "f3d5e0c959d4f5f21307888b78b9140c6bafb507514c21f572871ae14558af06"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001485.md",
+      "sha256": "d87825e2d1b7b958b9bd6ed3bb0e6e722d1489400dda2240a004d62d66dd1e9a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001486.md",
+      "sha256": "6567cbc8568bd19d9e8abaffd99326433559ceb0ec40b0b70bbc733ab9bcb634"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/14/14ce87e6edbdcd5456d7f6db47bc2e3fccc7367e753558998eb9ea31323ab098.jpg",
+      "sha256": "14ce87e6edbdcd5456d7f6db47bc2e3fccc7367e753558998eb9ea31323ab098"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001487.md",
+      "sha256": "ae2bb79948597ebb1d42562f250e962c0212b8e9aea072ded6aefc6be2f69db5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001488.md",
+      "sha256": "368f287b6f4563e1c76d69d6496ae5961074a166b5576883c69ad4da0c61eb3b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001489.md",
+      "sha256": "c423de36c4e1282dcf5aceacc7722cc39dfe8774feae23ee35ea48076a8438f4"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ab/ab846d02dad43f1064b852224a4d2df387d75df223f08e1fc20ac5caa7a155a6.jpg",
+      "sha256": "ab846d02dad43f1064b852224a4d2df387d75df223f08e1fc20ac5caa7a155a6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001490.md",
+      "sha256": "6604b776f6f0783590b671cf1efc301155761c722adf1c0e1efc4c16700db55c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001491.md",
+      "sha256": "13c398315955933857cdbe60e8c0c1a19b6ecc6f930c843f0acb44ad9fcf3654"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001492.md",
+      "sha256": "a4ca15a9fa3efe62b7621f2d2a5a477148725425932d2e3b8dd9e7e2a5ce87be"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/dd/dda49dc205fe12c3150b39e2ffa0306b4ec3af97e4e64b56f0ebe7a8ec57a7f5.jpg",
+      "sha256": "dda49dc205fe12c3150b39e2ffa0306b4ec3af97e4e64b56f0ebe7a8ec57a7f5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001493.md",
+      "sha256": "f5d0d4f6d5ef064ddc565e4e247137ac1031f263e03d094f87e26336fe55eb67"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001494.md",
+      "sha256": "462ffeef332f63fe7af0c0e35834d0a96de2ac693592d221609138c161895222"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001495.md",
+      "sha256": "413bc8c8399011bd2cfc38bde87e624ba6b9fcd8349a8bfc17ce426f001125ad"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001496.md",
+      "sha256": "cec6a36816e706eefef6cd6bde510c922e63fb0fe621e49b2145fbf22853f2f5"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/79/792fedc9a3a6ea6b85ab46fd8bd1b385505058725c1ea0592b36b306036a0c8a.jpg",
+      "sha256": "792fedc9a3a6ea6b85ab46fd8bd1b385505058725c1ea0592b36b306036a0c8a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第四章数列知识结构与方法回顾--G7420236e6dc472.md",
+      "sha256": "e1d272c6a7b2f933cd88114d05f14af859156871b990bd9728a8881fee2af7a4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001497.md",
+      "sha256": "4ab6594d2047c0d62f9a3a707acd706f49c97afe4d6aaa23d481ce0586a76622"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001498.md",
+      "sha256": "8be1d096bfe8f9600ec5a4ecf7400faefafa3c25430f83bc19bc07b483e13a64"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001499.md",
+      "sha256": "1efa889c87ad60aded762344ac5d99ce13c6a368f8c1125d1c20653d361cd6c0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001500.md",
+      "sha256": "f4de5212ac3a08c0e2ea444c4978959b143b62ff1660adc0ecc6805614618e2e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001501.md",
+      "sha256": "657c4e4c8a13c4e13bab224867137bb4dad2464b7c2385602405488a870e3f41"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001502.md",
+      "sha256": "a8aea67067afd8117280e14a6fb03735583ffbb72f0229f5fe97cf689e10760a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001503.md",
+      "sha256": "760c17ded2e8db797894631b528aa473392db9cc940f46b80cbc92d532603031"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a0/a0a670c3ff61501cc3fa90804ebb4aea2c2da484cdb86406efb1e3075e96253f.jpg",
+      "sha256": "a0a670c3ff61501cc3fa90804ebb4aea2c2da484cdb86406efb1e3075e96253f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001504.md",
+      "sha256": "a4f2b871cb1a6f13fe0e7a5452f511c9677cc41acfb1f243a7af795ab0161d1f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001505.md",
+      "sha256": "321a22177d9dd39a122110c870528b7ee2d848a60c71c415da26f1fe7c291e53"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/08/08688d401809ad33c146a8a2416bba5d90170b116c0191c4c1353959ea866227.jpg",
+      "sha256": "08688d401809ad33c146a8a2416bba5d90170b116c0191c4c1353959ea866227"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/21/2141d206c4694cd474714cfc5b1c490b6e9f0b8f1b830e838ce038ef6f3df0b1.jpg",
+      "sha256": "2141d206c4694cd474714cfc5b1c490b6e9f0b8f1b830e838ce038ef6f3df0b1"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/2b/2b57d7ee2f3592e7cf8823ee8a5b98366ea8fc002783291424013f0a8652fb07.jpg",
+      "sha256": "2b57d7ee2f3592e7cf8823ee8a5b98366ea8fc002783291424013f0a8652fb07"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/11/117a6bf8ad51ed5ffc134116eabdfb2223fb0624d46b665040b80de418b0220a.jpg",
+      "sha256": "117a6bf8ad51ed5ffc134116eabdfb2223fb0624d46b665040b80de418b0220a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001506.md",
+      "sha256": "c09119c3caae104ba3ff5e61ed5dac33a15667e7865af6fe3c041db01997298f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001507.md",
+      "sha256": "35ee126da321233902670deee50cfbb01371d6c6c18e54c98339aea9024977a7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001508.md",
+      "sha256": "7b5194e800167760b36f8e4aac1acd9df4824b472384fc5af78baf5afd98d2ec"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001509.md",
+      "sha256": "1ef06c2839695d4b95ccfb717997e8740c8029b5e67108a62c7d2ce5962d3f31"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/1b/1ba6841bd707a73c6ccf76530cec7978a9b2f441fc28af369ed2b0f2591d65fb.jpg",
+      "sha256": "1ba6841bd707a73c6ccf76530cec7978a9b2f441fc28af369ed2b0f2591d65fb"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001510.md",
+      "sha256": "7a98e2f5d280590c2ff9ebf316e17a53ec31cdedb034d8f2eee4caac07372a88"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/73/73245a1a94d9147e1d83c4cd199d47748a31d622c259b281558f389900b4c6fe.jpg",
+      "sha256": "73245a1a94d9147e1d83c4cd199d47748a31d622c259b281558f389900b4c6fe"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001511.md",
+      "sha256": "211408ae048aadf61632d0c1724e58def083c06c74c02b8e317213afb963bf81"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/68/68a4ea188eb9742677015da4a2e3d894e2e4bb1529ff12bc013c735f94476cbd.jpg",
+      "sha256": "68a4ea188eb9742677015da4a2e3d894e2e4bb1529ff12bc013c735f94476cbd"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001512.md",
+      "sha256": "9d7b3ea4c5986966bfbaf5472025cb36dd43c31e4849bc819b7113209e9fb05b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001513.md",
+      "sha256": "47eb37442fe6e7dc35a52e4e53a046d495da6ec1456191dcaeaa8ff90ad42dee"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001514.md",
+      "sha256": "c0681878eb3e7401e7f47058beb3cef896d0fa661ecb45b5b05866d67f3972b3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001515.md",
+      "sha256": "d9e3c580aaa9853878f54c60b69da5e83154ed37cbae55332efc25c29ee40c60"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/fa/fa2acfe2f5026c09850f99d214c24976be7cd312bb765b2b634c12114cbe7435.jpg",
+      "sha256": "fa2acfe2f5026c09850f99d214c24976be7cd312bb765b2b634c12114cbe7435"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从瞬时速度与切线问题认识导数的研究路径--G9daa9ba6d367f0.md",
+      "sha256": "daec34098ade089edf79240db0fc733f4889bb447233636fe86eca320affc9b4"
+    },
+    {
+      "destination": "Mathmap/问题袋/从函数增长快慢的定性比较走向变化率.md",
+      "sha256": "8e67f04aac2af01d1ab1aee2c973321f5cc9bd30b45139999feb8692ec039213"
+    },
+    {
+      "destination": "Mathmap/问题袋/从跳水运动的高度变化逼近瞬时速度.md",
+      "sha256": "46f6d1e31f8c006b30dabb1d9470a3afc401a9687d1fc055dfc79ffd34e457c3"
+    },
+    {
+      "destination": "Mathmap/知识点/平均速度、瞬时速度与极限逼近.md",
+      "sha256": "ce34f1a2cbab3b5762584352f4529ab6aca7e475e30d61558080d019551a7358"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001516.md",
+      "sha256": "b04bf5f3327bc80ae3d724e61d2045df91d480d5f0edef9acac9e72b2c32aaed"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001517.md",
+      "sha256": "e30c3f8c9cd79f6d166b649b1dcd92713f75201d5e092b2b7f0faa954384f548"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001518.md",
+      "sha256": "62735d07959db8a6437b84deac9543fd19a367a6b194c4fd8e70e97997688ac0"
+    },
+    {
+      "destination": "Mathmap/问题袋/由抛物线割线逼近曲线切线斜率.md",
+      "sha256": "e6d25ef5d630182deed5db990b2cd40d0adf038bfedc4d4b9b0c0438bb546ca7"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/28/28ca8cd88b54c1c6700851268c022a7f3f686b940a72cbbda847a3c6d5eac242.jpg",
+      "sha256": "28ca8cd88b54c1c6700851268c022a7f3f686b940a72cbbda847a3c6d5eac242"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/78/787d326a463430d142c37f33054b0b77fa7bd7fe366d32d1e09e4ee367da7daf.jpg",
+      "sha256": "787d326a463430d142c37f33054b0b77fa7bd7fe366d32d1e09e4ee367da7daf"
+    },
+    {
+      "destination": "Mathmap/知识点/曲线切线、割线斜率与瞬时变化率.md",
+      "sha256": "652ee9eefcb6e8fbfd64eba7723c8cb4fb0c6aaf429482135e76c4edb67f30db"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001519.md",
+      "sha256": "dcaa3846def0944cdb9b185e84bbbd2565999fd65facb75a515edf4f5f265a57"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001520.md",
+      "sha256": "554764549b71c4483bdeefb4fbe53acb67975b8313b48ab3dd56457037d3d2ea"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从速度与切线的共同变化率定义导数--Gb6b9feae7f83da.md",
+      "sha256": "7a7724fd5935c94c0fe3c3f488f374d6e13075472c9883b05987814a752dc1a4"
+    },
+    {
+      "destination": "Mathmap/知识点/平均变化率与导数的定义.md",
+      "sha256": "85a3a95f0101a6e8ec1bc2bd665f789054fd9f733d88f0951b505ae74cc26956"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001521.md",
+      "sha256": "1dd61157df1257aaed1ebe5487d4797cc28338fa854bc5f2e225c376e112d97e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000196.md",
+      "sha256": "6a00a1747a20fc38dd59df69132f8f92f34513ad43b155a2afc10423851432d0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001522.md",
+      "sha256": "68e6c9641c72ad98571c7982c4861ffefd6dcff23db98d702883d14800ca0261"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000197.md",
+      "sha256": "ce88aabdd158c395c0f55c6daa996f11508a95237364ca65506b0cf7e285bf99"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001523.md",
+      "sha256": "8934a50bd1bc742a86bde455b05968dd7c455b5280849c3adff46748a6fdbdf5"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000198.md",
+      "sha256": "443ed0d4ca31bcd99700db70c1b5f9844f54f08fb8aca38466da2b2e7fff32b2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001524.md",
+      "sha256": "4ec4b0c424e528e469d748c28644a633269cf5f7859211ddd272c9b3480b7336"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001525.md",
+      "sha256": "6ca3a2c314181f3af22d4072a00457ddbf5dc37b54d36049fb89430aaf2d442e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001526.md",
+      "sha256": "d20c8336ced56152e4b6602bce7e055b8a1a78d4f46f8f603480c19897b6a09f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001527.md",
+      "sha256": "d33967ac7b2882d3a06c3a9497e10201ae90a92728ce4700cf19b9305d2471ba"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/45/45dbb6809b0bc7ffd5717c2f654b10c1eaf158df3b90078ed8c91fdcd9ef13a0.jpg",
+      "sha256": "45dbb6809b0bc7ffd5717c2f654b10c1eaf158df3b90078ed8c91fdcd9ef13a0"
+    },
+    {
+      "destination": "Mathmap/问题袋/从瞬时变化率理解导数的几何意义.md",
+      "sha256": "c31509bd230b4d2128a3ea7c5fe5fddf89b05ab5ea466d67a8eb58c82104c85f"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a2/a298d9cafc049c4748c9e76f3aa541dd5deb37f97f2533c9c1f9c99143e2ef58.jpg",
+      "sha256": "a298d9cafc049c4748c9e76f3aa541dd5deb37f97f2533c9c1f9c99143e2ef58"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/d8/d80576a9033f195d60301a1aef4cd71dec010de1cc91e9de3c3b89e7c7d7d786.jpg",
+      "sha256": "d80576a9033f195d60301a1aef4cd71dec010de1cc91e9de3c3b89e7c7d7d786"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/e8/e861231d6f3b9304d1b7e7206ea677e15830d8759453c39b29a79f806fe5dd6e.jpg",
+      "sha256": "e861231d6f3b9304d1b7e7206ea677e15830d8759453c39b29a79f806fe5dd6e"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a2/a254851590297517688f11ccd31419e1b3ebc02c092b62bfb6cad23e9d7e8520.jpg",
+      "sha256": "a254851590297517688f11ccd31419e1b3ebc02c092b62bfb6cad23e9d7e8520"
+    },
+    {
+      "destination": "Mathmap/知识点/导数的几何意义与以直代曲.md",
+      "sha256": "be69bd78d943941f3e9323cbf2dafbc2739b42e76992d5eb8335886569f4fed6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/9f/9fe1b62076a0e58bbc8bbdedc7a398df47c288ff7140d375fad8d616bdb9c4f0.jpg",
+      "sha256": "9fe1b62076a0e58bbc8bbdedc7a398df47c288ff7140d375fad8d616bdb9c4f0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001528.md",
+      "sha256": "806334e830424be5fdab21688976653091495c9a1c8feb529eff75e98b3d577d"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000199.md",
+      "sha256": "ecaf65c35e24f4922c4f728282a6210367510d2caaa72fb802328902fdd9b863"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ba/ba5b26a7505358fd52bb01f3ab445381bd5e5e9c366e81fcd62e2543c4a9b86a.jpg",
+      "sha256": "ba5b26a7505358fd52bb01f3ab445381bd5e5e9c366e81fcd62e2543c4a9b86a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001529.md",
+      "sha256": "ec8f3364acdd76231f359930551047ae5f52aef6d8a12b52bc612a4cfb7a4a22"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000200.md",
+      "sha256": "b54e5b6f3d9d892d119a0ac5da5941fe8c93c9a1c88c2608e62f914fb32c02c9"
+    },
+    {
+      "destination": "Mathmap/知识点/导函数的定义.md",
+      "sha256": "a8bb0ffbd35c3fb08201ed3e8b91d90bd99cffa26f0e2dc9c40a6cb2841fd2da"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001530.md",
+      "sha256": "15ad3610cba7848970cef5a93cbf4b91b53326b2e24f2f693101de2a9c33d3e9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001531.md",
+      "sha256": "149f9ae8f92a734fc10059e357730dd71daf9f98532a3d6104368d05b5e0f1d4"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/b3/b33c67b9b41ea38359b3c3ebd487ae73c4e99da47338fc516922cfce1a6eaa29.jpg",
+      "sha256": "b33c67b9b41ea38359b3c3ebd487ae73c4e99da47338fc516922cfce1a6eaa29"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001532.md",
+      "sha256": "6d4cdf55544e8944a4809b9a6da4406a8ccdd9f215109e582be55b556399dc51"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001533.md",
+      "sha256": "7f686fdaea9fa3e8693d4743f5b44634a6e15679aedc95af6a0de2a9ff653b08"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a1/a1648172c76eac6a3f46cb25e5daeba6f11d6aa3c8c2d8db6cfe972fa1ebef3a.jpg",
+      "sha256": "a1648172c76eac6a3f46cb25e5daeba6f11d6aa3c8c2d8db6cfe972fa1ebef3a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001534.md",
+      "sha256": "fe0d615ae8f0ddee193929dabf02f9e3335e9d0de24026d34135e1bbbbb0bf70"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001535.md",
+      "sha256": "f1c3394318b2e669615c630dab42f1c332a83075aa5c62140810836ee08adc0d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001536.md",
+      "sha256": "c73e61f6453e58e1ae6e9d7b21b62282ea9ba5caf5e85c7d5ac01adfea493a50"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001537.md",
+      "sha256": "c2f6df2595379f21c3723de64683fd82c5d870f8727ff33b4043c186eec88f48"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/14/14bc2570dfb69ddc44e5930a0dee07faf86ac21abd5b49fe864aa727ed5a8c17.jpg",
+      "sha256": "14bc2570dfb69ddc44e5930a0dee07faf86ac21abd5b49fe864aa727ed5a8c17"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/35/357117aebb927bfe4818c035698aafb983bc852ac6e0062bdd7e7aa6d0df5758.jpg",
+      "sha256": "357117aebb927bfe4818c035698aafb983bc852ac6e0062bdd7e7aa6d0df5758"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/4a/4add0723bffb42de6dbc919c8f414bd8d15ffda3a52de498f86bc5ef4e368d2b.jpg",
+      "sha256": "4add0723bffb42de6dbc919c8f414bd8d15ffda3a52de498f86bc5ef4e368d2b"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/25/25ace3c6f912eb8680ca713167a0f43976dd34e479e794ba4f0ff535580d7406.jpg",
+      "sha256": "25ace3c6f912eb8680ca713167a0f43976dd34e479e794ba4f0ff535580d7406"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001538.md",
+      "sha256": "798d8d94c574ccf459ac4f70c43bff386585b3f9f39ace349924bfc5eab0e78f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001539.md",
+      "sha256": "c81151175067938455f8a1ba0b740eaff428cfaaed6f760086a2a9001942dbea"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/0e/0e3fa654322c6af09f72b09b42f0d3f68666afda16065ac3b41fedc96ed8ab33.jpg",
+      "sha256": "0e3fa654322c6af09f72b09b42f0d3f68666afda16065ac3b41fedc96ed8ab33"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/13/1369897980d51ec2310f81b56af0ddd0b977b823170eafd71c91bc007b2667d0.jpg",
+      "sha256": "1369897980d51ec2310f81b56af0ddd0b977b823170eafd71c91bc007b2667d0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001540.md",
+      "sha256": "825e5fb62a358bc1ec0ecc3675e7f2bed961d84b14139275727652620d05cdc2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001541.md",
+      "sha256": "eac5e137f236a89ddd80aa1051d546f708ef6b9162136245d6c6c82ee1c61c6b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001542.md",
+      "sha256": "3189b5b7e2c54d5b49a98c4a52d0f72aab986c938fd10934659a0cf48bbae5a6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ae/ae511af9a67c227121419d1d3667a026bf9150b61b9e6423ed36b7a6852dad52.jpg",
+      "sha256": "ae511af9a67c227121419d1d3667a026bf9150b61b9e6423ed36b7a6852dad52"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/9b/9b4be0593d26c76aba7b3dc1f8a3ecdee39394e466b47fc6ccd37e5a9c770ff0.jpg",
+      "sha256": "9b4be0593d26c76aba7b3dc1f8a3ecdee39394e466b47fc6ccd37e5a9c770ff0"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/36/36b8146baf115bb0dcf6b104996581c9371ec6eecab779e9ce127328b9532b09.jpg",
+      "sha256": "36b8146baf115bb0dcf6b104996581c9371ec6eecab779e9ce127328b9532b09"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/78/78c6438bad25e564391b4c98fdeceb225449ecb273a614144d7b11da5aefe412.jpg",
+      "sha256": "78c6438bad25e564391b4c98fdeceb225449ecb273a614144d7b11da5aefe412"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001543.md",
+      "sha256": "e8ac0ad7495ce427b345e9c40d56e346f6b2c4ae478169aba97de35c4f0339b5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001544.md",
+      "sha256": "6e47ad8fb87267cd7ab97900259149a44d7547e95f1be4c770d3b6ebc971a6bc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001545.md",
+      "sha256": "e6cbb16a2d2ab3637deb1a95c84b510d1f9f8f0997fdc1e0ad43b85e433b1c64"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由基本初等函数走向导数运算法则--Gf185d904e54bfb.md",
+      "sha256": "a01f363bd366bd3e8afa42163386074d463374500443ebc940ad0a3de780a14d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由变化率极限求基本初等函数的导数--G71a22ee14c27aa.md",
+      "sha256": "4f8ada6ba6ca2fb915c535a1efeea848ec182b8de6a9e6f8d31a5ae0c0136d17"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/1e/1e53a9a2eef23e647153cb2c7515d06de21d75ec2a212a99adda189a5ceab708.jpg",
+      "sha256": "1e53a9a2eef23e647153cb2c7515d06de21d75ec2a212a99adda189a5ceab708"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/e8/e8b2f76ef0202bb4b4c9be5f99136cba09bbfa80cbaeb2e44d558429810fbdc7.jpg",
+      "sha256": "e8b2f76ef0202bb4b4c9be5f99136cba09bbfa80cbaeb2e44d558429810fbdc7"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/55/556c6c1a607a5afa9534b4e18ae8089932d991582fc14e67cf645d5ba37b8e86.jpg",
+      "sha256": "556c6c1a607a5afa9534b4e18ae8089932d991582fc14e67cf645d5ba37b8e86"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/11/1146a3cc55d03dedda81d895b0ec2d29e74ad541e83ac0a5d33e5334a339bc1c.jpg",
+      "sha256": "1146a3cc55d03dedda81d895b0ec2d29e74ad541e83ac0a5d33e5334a339bc1c"
+    },
+    {
+      "destination": "Mathmap/知识点/基本初等函数的导数公式及推导.md",
+      "sha256": "9775f76d0ad8f29a4bb42d18143e2a24da376327157088c71ba418b616cc6780"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001546.md",
+      "sha256": "2052c3b964979d6d840c038b58a10c18833aef755623edfc525fdcc91a95c944"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000201.md",
+      "sha256": "c9d42cf5b884729e2c9d46e0d4951468f80ccdf291e4c5d268057097e825cc9e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001547.md",
+      "sha256": "2cc309bacbd181e1e118b1d51943327f3f516593a57b6af46b45b55a7e3191b2"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000202.md",
+      "sha256": "aa7fe376753e396527a41e8680d2da559d5b35b0839bdecfcbbca770865850dc"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001548.md",
+      "sha256": "f8038331cf77cb6bd57a9139d6828856615b7aa41bb1a12e5c8adb1f2f248b47"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001549.md",
+      "sha256": "3a7d3db9c5d16c1d9364b8e3d504289287487139ec8d623c6dfbfe6063ced8ef"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001550.md",
+      "sha256": "641e683669fa7c21ee0d3a20d7d4e48e830304226c4e09a5ce11289f4983b1c3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001551.md",
+      "sha256": "44cd804a29d2a4f944d8ef76059e24694f493b98b8f79cc4dc26ab6aa227a536"
+    },
+    {
+      "destination": "Mathmap/问题袋/从人口增长模型探索函数和差的导数.md",
+      "sha256": "df21b7d33d5f15526bb441b5e8eadf2079ef33885c738fda1f018d8410603f5e"
+    },
+    {
+      "destination": "Mathmap/知识点/函数和与差的求导法则.md",
+      "sha256": "900d43966959c0a0f9b763d659da6eed749a790a8056fc13f12ee9d5697c9b11"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001552.md",
+      "sha256": "d6323709cb98c2156607876d91cad3cb07e0a19d15bb9e8b8617e675c7c10aa5"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000203.md",
+      "sha256": "9688f4dbb158bfc7b85de0069f897a64df88a1d7cb2079f84acfb006316fada7"
+    },
+    {
+      "destination": "Mathmap/问题袋/从幂函数乘积反例探索积商求导法则.md",
+      "sha256": "9511c33653656a860f406beff9f1dcb80d9c09add1836ff9312ccbe478a456a7"
+    },
+    {
+      "destination": "Mathmap/知识点/函数积与商的求导法则.md",
+      "sha256": "eebb8558b00539b739bdf0c1b69c69f51afb44e784fb7d24b08c6eb867bde82c"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001553.md",
+      "sha256": "d31d1a871791faa81ea81b504bd6004bd0bb324afc3d3a6e261afe2f709ac04e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000204.md",
+      "sha256": "deef8a74765ae8f7cb36f4309c4ccc16fd510ec90ce24288e7da3a102549b589"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001554.md",
+      "sha256": "15e3807386cc1188cf819f0a97ec847cbc94ccf672e699c4c6531ea506b5f670"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000205.md",
+      "sha256": "23d7435e0c5a27a15805bfd7d2ae0d8762a3564d6c994c325b00900dfac3383e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001555.md",
+      "sha256": "b45169ab530bb182a69ab8abbd883bbc5432130994cdc74ba5d93f21483986ce"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001556.md",
+      "sha256": "c06bd54fd88c2c80f262701f3410aa4607a6c18db379c257f4d76360909d0f1b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001557.md",
+      "sha256": "113de33a0949a988821a1ac3ad51910abac8881db14ce3cb7bfac4991f8e7a89"
+    },
+    {
+      "destination": "Mathmap/问题袋/由复合对数函数引出链式求导法则.md",
+      "sha256": "40e78f5964caf8e2d56d6e6220437cbb40b5a99ef0890040eb2c46d25b4c7e7d"
+    },
+    {
+      "destination": "Mathmap/知识点/复合函数与链式求导法则.md",
+      "sha256": "79d584102277a695e859aaf9a85257628b3352eded45c9ccc0b2f8cdc5e02f49"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001558.md",
+      "sha256": "5c42e0a4d4984bcd8cdb47a2b3d0ec1af5e6a801b7608d688703f56110188c17"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000206.md",
+      "sha256": "b545176b7a645a5d208e35814109bbdf34b5138c7e1572f5e5d4b0b392568a70"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001559.md",
+      "sha256": "8770050f50eaa4739f8b1419c5b39fc079042ef362f65812df46da6c3c857914"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000207.md",
+      "sha256": "58c579c466021b01e2bb607e4ad18c4b0102a8fe29f3e1dcd8566938a4946f17"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001560.md",
+      "sha256": "3f4b4a0335156c94b85e64fc25635ce6b2006c156b63a50bd9cf97a32dd605ae"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001561.md",
+      "sha256": "2318247176bc03af253d0cbd3ab0fafd7a81d82ee1cd77b7af66de86eefdec1a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001562.md",
+      "sha256": "6ff7f0750022763f9526ebd430a5df578fcec5d759ff6b2313de435c30da85c6"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/bb/bb55da7ee3251e063753f3dbe4c6f7e444b7d00bae19b22f554782d0fa202616.jpg",
+      "sha256": "bb55da7ee3251e063753f3dbe4c6f7e444b7d00bae19b22f554782d0fa202616"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001563.md",
+      "sha256": "ad1a7910975b94ee2b5693860bf089df9a1dce443b8bf623b38a2ec8630c33a6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001564.md",
+      "sha256": "83f8f657ef783f39035fe8c83750d6d6f32f0d219ee8ba83feb9c8c6e2c20318"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001565.md",
+      "sha256": "476906bc1739447376e8275d52e44b95d102d701e77aedd20de97a4f8844c8fe"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001566.md",
+      "sha256": "7270fd33afc898591ff0ec21d4bcf27685abedb2fd456fecfd9f89c34db2a0e4"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/55/551acd5876505a892b06f24b40597d64717ba793bd8c0f539e320940ed1fb97a.jpg",
+      "sha256": "551acd5876505a892b06f24b40597d64717ba793bd8c0f539e320940ed1fb97a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001567.md",
+      "sha256": "cc994c731011f4f75856bc3ae08735c16b0f5baf9b83c81e7ee8037d3543474f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001568.md",
+      "sha256": "8a9818784f452e9d54282f629d5e4c0bac5f774bcf9e384bd0efb64330326b2d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001569.md",
+      "sha256": "d7d302dfc28c60df8d9b4b50d6cb51ea36eb675017058ee0129d2f7aafd284d8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001570.md",
+      "sha256": "21c7e08be5557eb3e7fe00ccfc239e0a98f6475f516f95d5e4b6b548886c8dbb"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001571.md",
+      "sha256": "57f295a3a75c5f0720b871e1dd905fb9885471f2bd0a96c8afa6f0ece53ab6d2"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/c2/c2836b1638815e1eeb20ebedb626fc4cd3babdf6ef7a5e860392254b7545673d.jpg",
+      "sha256": "c2836b1638815e1eeb20ebedb626fc4cd3babdf6ef7a5e860392254b7545673d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001572.md",
+      "sha256": "651d467fa5fb8b54415c87562e2d451b4486fedc284e0d0bcbf2239392a38b14"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001573.md",
+      "sha256": "3f3de09d82bc1f5eea0a49a39e742f59be3c27eb6df1d068ee355d7046010baa"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001574.md",
+      "sha256": "a98855422e512bb9a373be138e8f71a7e95ce07f2247634bf349e44080e5a1ea"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a8/a8809085fc508752daf5d67e9287fd2cd236f5610e20611717ce5dae127c4db7.jpg",
+      "sha256": "a8809085fc508752daf5d67e9287fd2cd236f5610e20611717ce5dae127c4db7"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001575.md",
+      "sha256": "f17b2d6bfefd13bf36335059c4be14068d47424cc437ea3396060a036e0a4485"
+    },
+    {
+      "destination": "Mathmap/问题袋/从高次方程近似解认识牛顿法.md",
+      "sha256": "cd57a56c8b8fa1aacf11bcb5b835241121ed70840259d35088560627171c8696"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/5d/5d84547159b0127e5d79f147f805461f5f8ea1cb5e950d0f9afa5c642c8e7b2c.jpg",
+      "sha256": "5d84547159b0127e5d79f147f805461f5f8ea1cb5e950d0f9afa5c642c8e7b2c"
+    },
+    {
+      "destination": "Mathmap/知识点/牛顿法求方程的近似解.md",
+      "sha256": "276a0ee75de6843fb440326dcb1fdc6d0c9895a48c6feccd73c6c7001835ef52"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从函数图象走向用导数研究函数性质--Gc667b22c3236d0.md",
+      "sha256": "1b4e553ac5b92848a57404bcb636dfb23799a028e3a421af5ff1c66b48c4ba3b"
+    },
+    {
+      "destination": "Mathmap/问题袋/从跳水高度与速度图象判定函数单调性.md",
+      "sha256": "46295c15480c2ece564ef552b8aae428047a3f886fa18717cfae29565d3c8f64"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/10/1053e4a21e1efd73b418fb57bc51938cf5620bb817b042fa3e69127f7337b808.jpg",
+      "sha256": "1053e4a21e1efd73b418fb57bc51938cf5620bb817b042fa3e69127f7337b808"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/b9/b9f4955c5c14e0db660a301b0758c11dbf4a3cb81a99362978a2731a63999dd8.jpg",
+      "sha256": "b9f4955c5c14e0db660a301b0758c11dbf4a3cb81a99362978a2731a63999dd8"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/55/552ce6e8b5f9b3c357e0d020fafe097ae502343a459fffafa24dc6f17fbc5025.jpg",
+      "sha256": "552ce6e8b5f9b3c357e0d020fafe097ae502343a459fffafa24dc6f17fbc5025"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/f1/f1035470a7c998888355d47798b9c1e9c4cb8fc1b57cd843382570dbcb88de3e.jpg",
+      "sha256": "f1035470a7c998888355d47798b9c1e9c4cb8fc1b57cd843382570dbcb88de3e"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/5f/5fe4e7c36f8c3a0e7ec9a4913ccf9a3107eefc8a45e9868b41097f7e78a20b2c.jpg",
+      "sha256": "5fe4e7c36f8c3a0e7ec9a4913ccf9a3107eefc8a45e9868b41097f7e78a20b2c"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/57/57af9a0a7b63cd312b17b7e008ea25b0e6527603f12d1f10100334129606571e.jpg",
+      "sha256": "57af9a0a7b63cd312b17b7e008ea25b0e6527603f12d1f10100334129606571e"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/54/54b1bd814fddc4a16a89f958a632c622c7a3584727434214fd92367b2e8b7c63.jpg",
+      "sha256": "54b1bd814fddc4a16a89f958a632c622c7a3584727434214fd92367b2e8b7c63"
+    },
+    {
+      "destination": "Mathmap/知识点/导数符号与函数单调性.md",
+      "sha256": "2204576cef6025a2b3d6f9418207a12bb26a63f3cb5acc50dee864d2518c2ac6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001576.md",
+      "sha256": "698c837135e9d2e37f464624d5137ed9d1d2673d6bb8dea3d037b4723176ff48"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/8c/8cc5eb08640c38a51ed1b1189572d60e3e81c627244c6f3d946b3be5dd6dfb35.jpg",
+      "sha256": "8cc5eb08640c38a51ed1b1189572d60e3e81c627244c6f3d946b3be5dd6dfb35"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/82/823e7f66179d18ef0a5b4e645dede35db6eee96f13fb1ae7c8122f3bb0d91f68.jpg",
+      "sha256": "823e7f66179d18ef0a5b4e645dede35db6eee96f13fb1ae7c8122f3bb0d91f68"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/b6/b621d88a80b4bdeec6556c33529c21185ce3e34c041f906be8ff92d71bf03160.jpg",
+      "sha256": "b621d88a80b4bdeec6556c33529c21185ce3e34c041f906be8ff92d71bf03160"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000208.md",
+      "sha256": "dc56f7fd8b550f505aec0176a8b84356cb80c192f01730bbe02e5ae4a9941d31"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001577.md",
+      "sha256": "b2a6453f09560c86cc930e19920ff1edb855c2c5589830f673d9c0ecdbf8eaa5"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/fc/fcb9d53bb805019424506987315367d8904ab42ad8e1b9289d4cd3974c2fec96.jpg",
+      "sha256": "fcb9d53bb805019424506987315367d8904ab42ad8e1b9289d4cd3974c2fec96"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000209.md",
+      "sha256": "7d55f5240bb1efd954e5d81d177e5ddc757d35ce36bcdb273cf329f033d84006"
+    },
+    {
+      "destination": "Mathmap/问题袋/导数为零与单调性的边界.md",
+      "sha256": "0a813d312ccc4fde179c76c36cd06211a4bea02f30095fd2be1c7ac829c43bfb"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001578.md",
+      "sha256": "fb8aa95dc7f12796dc7f98ff181f5f5f4977264ef54bdb695e91aa4a1031f74e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001579.md",
+      "sha256": "ea2851719dfcf7b021d80af9be7b3894c75b2a9eb44394e1e6e5f6670a672da0"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/d8/d878ae74bb55a8f5cfdcc8d29297fdc7eb8a20b62296568b077062c82fe97a06.jpg",
+      "sha256": "d878ae74bb55a8f5cfdcc8d29297fdc7eb8a20b62296568b077062c82fe97a06"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001580.md",
+      "sha256": "6e179a367fd3258d0648e4676a182c1a2c3389900be488f0f090de1934d0a917"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001581.md",
+      "sha256": "b82b6cc290367a8b54e6f7da737c0916be052b59d746a0c6050ac426990c0d31"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/34/34346b3b0e32aa839afadc54ee2208274c611a952bea8d342fea931e0996821d.jpg",
+      "sha256": "34346b3b0e32aa839afadc54ee2208274c611a952bea8d342fea931e0996821d"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000210.md",
+      "sha256": "82af06116823e55806a0033c917c0e3d8ae6cf7e12ea305cc92073de2e046b98"
+    },
+    {
+      "destination": "Mathmap/问题袋/比较对数与幂函数增长证明不等式.md",
+      "sha256": "64e4ce692b184eac7bfcd03f96e65971d095654e97c03ba6ee8fdc725f2fe24a"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/dd/dddd72d9c808273e190a9885b7ed583f79419e66670c9ba3bae3ea9d2362b498.jpg",
+      "sha256": "dddd72d9c808273e190a9885b7ed583f79419e66670c9ba3bae3ea9d2362b498"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/58/58d030a7311c334ef232d5bd6c93239a42c8dd8260b9409f486dc059d61989e3.jpg",
+      "sha256": "58d030a7311c334ef232d5bd6c93239a42c8dd8260b9409f486dc059d61989e3"
+    },
+    {
+      "destination": "Mathmap/知识点/利用单调性比较函数值与证明不等式.md",
+      "sha256": "1b280ce0767d8b6479d5573c69f3807dbdef65ba6cd5f3954ae3a048d1cb489e"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/14/14ff95df3aa0c03a37b303ee48031ea70c14eeb23f4b4c177c12b6f3a7f77cae.jpg",
+      "sha256": "14ff95df3aa0c03a37b303ee48031ea70c14eeb23f4b4c177c12b6f3a7f77cae"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001582.md",
+      "sha256": "69e960b74e88fffe1aadbafbb525823e9433e2a66ef7e908dc68886acf4edeff"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/14/14ff95df3aa0c03a37b303ee48031ea70c14eeb23f4b4c177c12b6f3a7f77cae.jpg",
+      "sha256": "14ff95df3aa0c03a37b303ee48031ea70c14eeb23f4b4c177c12b6f3a7f77cae"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000211.md",
+      "sha256": "b3e145731916cc0801e8526282c934813c23f01fb68aed6f7b84f4bf6037d248"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001583.md",
+      "sha256": "bfb9571a4bb20b6ef064ef18e3601e6f6ac0f7ae1cc2cf55e95e37ced31f5b88"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001584.md",
+      "sha256": "2af1e59e19b767db17a3e54883a4412b1aca91ceb155036e87069a017a036fe8"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/bd/bdc75b7e51465cf9ba6086fdd56cefbbb9f17b6018580c1874205acb83120bb0.jpg",
+      "sha256": "bdc75b7e51465cf9ba6086fdd56cefbbb9f17b6018580c1874205acb83120bb0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001585.md",
+      "sha256": "8efafdaaaaddf3b85a143477f3b348d2cc2cf75299deda7b444b3b5df63a0ead"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/a0/a055dc8cb2497d52220306c19b121efb2e113c87595c66ff76e5f3e27b9d6874.jpg",
+      "sha256": "a055dc8cb2497d52220306c19b121efb2e113c87595c66ff76e5f3e27b9d6874"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/cf/cf7320ec4151b3d3744e6dd659bfea2f09ac25d9222e3d2ad483f0835b575d79.jpg",
+      "sha256": "cf7320ec4151b3d3744e6dd659bfea2f09ac25d9222e3d2ad483f0835b575d79"
+    },
+    {
+      "destination": "Mathmap/问题袋/由跳水高度最大处认识导数与函数极值.md",
+      "sha256": "2662416b22c85e77ec0987b624a5df4400cf74d172fe40f0888e3bcc24775d0a"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/a0/a055dc8cb2497d52220306c19b121efb2e113c87595c66ff76e5f3e27b9d6874.jpg",
+      "sha256": "a055dc8cb2497d52220306c19b121efb2e113c87595c66ff76e5f3e27b9d6874"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/cf/cf7320ec4151b3d3744e6dd659bfea2f09ac25d9222e3d2ad483f0835b575d79.jpg",
+      "sha256": "cf7320ec4151b3d3744e6dd659bfea2f09ac25d9222e3d2ad483f0835b575d79"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/4e/4ee34ff9b499c2cec4fcbdabc79e744de523ffb45bda4651927ab6b26cf99d6d.jpg",
+      "sha256": "4ee34ff9b499c2cec4fcbdabc79e744de523ffb45bda4651927ab6b26cf99d6d"
+    },
+    {
+      "destination": "Mathmap/知识点/函数极值的概念与导数判定.md",
+      "sha256": "745a82bf0370dae94ba2374600c90465931a0087c3df4bfa466ecfdc7acf3c67"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001586.md",
+      "sha256": "9e1a820561054e3e3ebee729d54aa99019cb7b27241fb0a514cd6082d4782a7e"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/41/41c72f3554179cfe43412460bf0bbe11b1b997b2b784ffbce6708d6caa371bc8.jpg",
+      "sha256": "41c72f3554179cfe43412460bf0bbe11b1b997b2b784ffbce6708d6caa371bc8"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000212.md",
+      "sha256": "3797e12a1515b6f7a830ad0c8a5dda13da6131fff88dff99e1c3623cfad146c7"
+    },
+    {
+      "destination": "Mathmap/问题袋/从导数为零的点辨析函数极值点.md",
+      "sha256": "afe83c51b0dd51082d5b65998524ada97d9e9de1099dc0452d4f2e87d99bad3c"
+    },
+    {
+      "destination": "Mathmap/知识点/极值点、驻点与不可导点的关系.md",
+      "sha256": "5fb3fc0b4815dcd147486e10f7b70d87c5620eac6dd8132d9ad655576f78483b"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001587.md",
+      "sha256": "7ae2a943e93aa7a5f4cf540bdd106a7de92cbed493263fb5149909892a6c5979"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/32/324dc2c3654c2e964fdb5213b72c1a534e1836d29cf88a0241a635f1d08f6296.jpg",
+      "sha256": "324dc2c3654c2e964fdb5213b72c1a534e1836d29cf88a0241a635f1d08f6296"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001588.md",
+      "sha256": "11301cd75a66d2e2d6733f4048a87c02d2423e0a2162608b82d3ef3e3dd5eafb"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/22/22a15adec75607baab82d7ccefd4cee142ec1b2be7c42a7c1d650cafe3506d6d.jpg",
+      "sha256": "22a15adec75607baab82d7ccefd4cee142ec1b2be7c42a7c1d650cafe3506d6d"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/5f/5fc82e620c563dc3438e8995c8b9352d91f2275fcde4876e92c2e8771174f734.jpg",
+      "sha256": "5fc82e620c563dc3438e8995c8b9352d91f2275fcde4876e92c2e8771174f734"
+    },
+    {
+      "destination": "Mathmap/问题袋/attachments/bc/bca6794b265c9eb5b049174862ebcfb37746db395c743438a8b292ddb0d27f5c.jpg",
+      "sha256": "bca6794b265c9eb5b049174862ebcfb37746db395c743438a8b292ddb0d27f5c"
+    },
+    {
+      "destination": "Mathmap/问题袋/从局部极值走向闭区间上的最值.md",
+      "sha256": "cd460bd32e471f0ee2c553eef77aaaf59fce3d47dec469796808b2d5055d0082"
+    },
+    {
+      "destination": "Mathmap/知识点/闭区间上函数的最大值与最小值.md",
+      "sha256": "06158368cf35fa36f47de7adaaca344bea324c2edae6539e33f7f313e9eba4d6"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001589.md",
+      "sha256": "b9a5b01b724b1359248628bd24f05a3e0c62ba9661afe8f8d8ad531ac3352260"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/ec/eca1e8d022c3276be238f9cf92a897726743e2bc05a214fe8eb1e47904914e37.jpg",
+      "sha256": "eca1e8d022c3276be238f9cf92a897726743e2bc05a214fe8eb1e47904914e37"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000213.md",
+      "sha256": "ded02a63ae8080418d3ac31ae5316ccfd6a3bf1443ee15f4770991c875237e9f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001590.md",
+      "sha256": "fe6ce59228b60e991ea2c2cf60c3281cc854fd4f98d451eb117651cf2486d5c0"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001591.md",
+      "sha256": "2bf84b7d23e525b2ad1c3ec9668d53513aa3ff874692df2908264f50d48a6611"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001592.md",
+      "sha256": "3f2448ae2a75dd9f09d08f645362c4f4b369969b7625500b3c27ba3c42542360"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/35/35c1f4434465da6387701c3cb68246969e25d939759d00afbab475bf8811563d.jpg",
+      "sha256": "35c1f4434465da6387701c3cb68246969e25d939759d00afbab475bf8811563d"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000214.md",
+      "sha256": "173e9ed336d4c16474c0298255083bdca8b9d9576ecf5169a02e70ac5a9ad670"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001593.md",
+      "sha256": "e25725f47693fdd37f6676993e439808a57e4b49934a623c5a8ccb4fc8712024"
+    },
+    {
+      "destination": "Mathmap/习题/解析/attachments/d3/d392207702eaf41aa676386ad3c66475e61561ff3d10ed1834cedc4edf2498df.jpg",
+      "sha256": "d392207702eaf41aa676386ad3c66475e61561ff3d10ed1834cedc4edf2498df"
+    },
+    {
+      "destination": "Mathmap/习题/解析/A070000000215.md",
+      "sha256": "d269ad0094db7eb53f0cc15f5972d133f00b3e7bf7e47360794eb19bbdf75073"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001594.md",
+      "sha256": "d8e8e566a4cac8466c3056bd315213823ffae6017de09c6f165a4a698a03ee45"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/c2/c25584fcd5002cd1e3169bb656e83042c71dab958d1aac4bf6a59768fd78ae43.jpg",
+      "sha256": "c25584fcd5002cd1e3169bb656e83042c71dab958d1aac4bf6a59768fd78ae43"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001595.md",
+      "sha256": "9133490c13775b306390d2b73b53f1f230acaf4c89ec756914ec9fbc46468cdb"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/0b/0b96674e6932872f7ac7b331ac6d6fb1bc9d1550eb5808e81b9152677433ef89.jpg",
+      "sha256": "0b96674e6932872f7ac7b331ac6d6fb1bc9d1550eb5808e81b9152677433ef89"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001596.md",
+      "sha256": "f0cd01c89f4b16a3955105d5a7d8473c4db2480f6eae7ee8cf4b8621de35c66f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001597.md",
+      "sha256": "55b9690340b297ee93a2059f9eb993d84342102b2344ff089675a438e9640b86"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ad/adffc34011582149caddc93408a07b948e78c911de40ba1493ed315e98808bcb.jpg",
+      "sha256": "adffc34011582149caddc93408a07b948e78c911de40ba1493ed315e98808bcb"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/bd/bdebc08250fcffd66016ee88cddffea1c017298345cb0c23a73edbe224575160.jpg",
+      "sha256": "bdebc08250fcffd66016ee88cddffea1c017298345cb0c23a73edbe224575160"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001598.md",
+      "sha256": "ec23054e317e8bac93de797129c051de91ecc852c456aa44c289e5ccbc61bf82"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001599.md",
+      "sha256": "dc25bdae82da3fe10f99364b6074e6e1633f4fa5af540fcdc056cbc5feff76fb"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001600.md",
+      "sha256": "b8efb3132fe50d708b93cec1461179386fa2546c795101c37daad6d7b1c9e2d2"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a7/a7a620f8b4823d291c73730008f60496ea0d895423e16fad0b2ea42e790639e2.jpg",
+      "sha256": "a7a620f8b4823d291c73730008f60496ea0d895423e16fad0b2ea42e790639e2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001601.md",
+      "sha256": "bb375d3598e485e6af11faddb74ebf0cd8846bb2c7bded491864256a9c4f44c8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001602.md",
+      "sha256": "5e8d9573c944d91785c8bf88c958ed114bb89b114617001fe1d339ede3581f42"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001603.md",
+      "sha256": "f80478f2b5d19170ce61205d35f7510d4976f9f26619f8bfa42b3f4581e424f4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001604.md",
+      "sha256": "c44cf2406af7cb3265fe65eca0ed588eb317d8ec4b65d6f695709db0fadbb00e"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001605.md",
+      "sha256": "a1d49ac078b829659efc42dd73dd146f58ee0f437d431cd851c2ecbb62b9ac94"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001606.md",
+      "sha256": "2c0826e1a2f2faa058e424c10aba6b86c6a40d6be35276a211de825abb260440"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/c1/c1b24451c6b7f5d61f52ab5133cf7213e3aec4ba079147ca7916a829889e0c88.jpg",
+      "sha256": "c1b24451c6b7f5d61f52ab5133cf7213e3aec4ba079147ca7916a829889e0c88"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001607.md",
+      "sha256": "0c0acc229be43cfb04844039103ed42d4275888ce404732cbae82e37e8565e82"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/1c/1c2541243f7e0fa15befd7fbacab6a4fda3ad00fdb030ba1db433f15f1a14c91.jpg",
+      "sha256": "1c2541243f7e0fa15befd7fbacab6a4fda3ad00fdb030ba1db433f15f1a14c91"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001608.md",
+      "sha256": "17fb03501f78866837cfdc6ef778f4f1672bc0697bb0d388cdc8bf79ba3e6405"
+    },
+    {
+      "destination": "Mathmap/问题袋/用图形计算工具观察函数性质.md",
+      "sha256": "fa67a93850138cd6214e535aaf81b814478ae203a93349585681c7d7cf9c4bfd"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/7c/7ce5c4f33a82a1e9efefd40d0690041786f931cba673672406828e9e0f53b39d.jpg",
+      "sha256": "7ce5c4f33a82a1e9efefd40d0690041786f931cba673672406828e9e0f53b39d"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/05/05a8ec0e8e1e482f13bce570a4042a326f6ea573f6dec00b82b57f1b764a88cf.jpg",
+      "sha256": "05a8ec0e8e1e482f13bce570a4042a326f6ea573f6dec00b82b57f1b764a88cf"
+    },
+    {
+      "destination": "Mathmap/知识点/用图形技术研究函数性质.md",
+      "sha256": "25f9ba558414737211ccddf7520c37a7161c068da6797f8e8eac7a2ecbf888ca"
+    },
+    {
+      "destination": "Mathmap/问题袋/微积分创立的历史背景与时代意义.md",
+      "sha256": "0f3cd9793715d6d48e46233971e7ae5a1019edc7488e8c35e785f7b6c8884bf9"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001609.md",
+      "sha256": "f5b7dffdf25c622482b437bb371524fa28e396f859639e2ebda8ba71baca78f0"
+    },
+    {
+      "destination": "Mathmap/知识点/attachments/8f/8f711af7a9220d8ba9d5c374da1e7913550d06cc92e1aaec4ad62445d5a943b3.jpg",
+      "sha256": "8f711af7a9220d8ba9d5c374da1e7913550d06cc92e1aaec4ad62445d5a943b3"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第五章导数知识结构与方法回顾--G596fe2ddd15809.md",
+      "sha256": "fbe898eceb1ad51a89ea688e0bf68a8c674d7043c5c6647b0d553e14c3777314"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001610.md",
+      "sha256": "9b7051d4d479b844c6666b353d64df94330e1ec4b0049887a11115ed3cd2d76a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001611.md",
+      "sha256": "a4eb92d7fc999381c45c509f99d776b32d180b26b10aa4bd526a087822e8e7f8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001612.md",
+      "sha256": "54585a533023e54b55a105360b23bb83afdb5f5296c9166fb23c17898de7919f"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001613.md",
+      "sha256": "ee907cc0925965fd886d16647697be0cce4ed6b4bdacd9db00bdba94807273c4"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001614.md",
+      "sha256": "662190a35a2251ebfad706fb96b605acdced8f2e11992fe319c2e330bbc55c5a"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001615.md",
+      "sha256": "4fa18012d2c74a6f6a389187f2d5b939bbb98787da8607c100186e97ff79c8da"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/34/344f50f513812264890e25c6d980a8a97caefaa612efd851f648defa19a9701d.jpg",
+      "sha256": "344f50f513812264890e25c6d980a8a97caefaa612efd851f648defa19a9701d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001616.md",
+      "sha256": "ff2cf694af7249a46da3d01b2ec04fee204ada90f4e07dae892fe1454fb64da5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001617.md",
+      "sha256": "22e8bc7d741e3e60480e2a39d321905e56ced9770534f2c3d40901512a8dac1b"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/56/56156b54385a9d928dd0752bb3c039f20702c7a5b2c1099781405ca83cbfc267.jpg",
+      "sha256": "56156b54385a9d928dd0752bb3c039f20702c7a5b2c1099781405ca83cbfc267"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/9a/9a581201721c94b002b28687a4d3d74be2815d11ac84cbb7231055a6bf2245ba.jpg",
+      "sha256": "9a581201721c94b002b28687a4d3d74be2815d11ac84cbb7231055a6bf2245ba"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/ce/ce135dac40fdc1a3275e7353bdc5fc5143c5814c6a81fafa3ec2fbb12ebf2e5f.jpg",
+      "sha256": "ce135dac40fdc1a3275e7353bdc5fc5143c5814c6a81fafa3ec2fbb12ebf2e5f"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/3a/3a786f925954efa05eac94ab194e4619d806321d0026950be5ccba5b678192ad.jpg",
+      "sha256": "3a786f925954efa05eac94ab194e4619d806321d0026950be5ccba5b678192ad"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/55/5504fa4bad76d696516857859ab91635340b41548a0e895773f5d1de0fd34c47.jpg",
+      "sha256": "5504fa4bad76d696516857859ab91635340b41548a0e895773f5d1de0fd34c47"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001618.md",
+      "sha256": "f1781b48f267a512bdf3a30c5dff26a434f12a9779c5ad379abfdfc2c76d6f51"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001619.md",
+      "sha256": "9c716616a6fb7c36455718aa440024aba766ebc9e6b90a4524cfc6e1594681af"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001620.md",
+      "sha256": "30cce2dead07cc9c808710f2ff22d4d956f0c1afe8cf4687f02201a1fb6672d1"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001621.md",
+      "sha256": "1e32c1668e8c8e38b2e8992aa7af739b0a154c58a66b64c14e68b948d88ccfb5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001622.md",
+      "sha256": "891648b9291d8595e277452eb72cb7af252b42bf803c372d9b1815be81c35081"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001623.md",
+      "sha256": "4837dc54b2f9875565c5cf8bf00e9dfd2603f22a2e88765505f3f87300dcc24d"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001624.md",
+      "sha256": "d6dc6cec56c9b365fef8d39af91fb61574a0ee3f20c0f91ed439a2124d0405de"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/77/77a007deb2aba89989798815c796bd42c893ae3b8b759bf0d74270dd87686b95.jpg",
+      "sha256": "77a007deb2aba89989798815c796bd42c893ae3b8b759bf0d74270dd87686b95"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/45/45b589c2fe826e8269ca6a5150c09fdca68d0b8863389cd7b5d74f40c49ff9a5.jpg",
+      "sha256": "45b589c2fe826e8269ca6a5150c09fdca68d0b8863389cd7b5d74f40c49ff9a5"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001625.md",
+      "sha256": "20d6bf720bc408e0443a68d658f9a237671143475f10d4f30bcefd651fcdbe80"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/14/14cfefe3626be67cc305ecc0492ce40662ec092d739b4324180db053416d9566.jpg",
+      "sha256": "14cfefe3626be67cc305ecc0492ce40662ec092d739b4324180db053416d9566"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/5e/5e817aabcd029eef3a65c39e4e728e80385d6f5645ba42290ee374a39cc2ade5.jpg",
+      "sha256": "5e817aabcd029eef3a65c39e4e728e80385d6f5645ba42290ee374a39cc2ade5"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/21/21518be8fba10bbbc4c60be87d4d97fb9281bfe879639ee202a10b6c3d8f9c99.jpg",
+      "sha256": "21518be8fba10bbbc4c60be87d4d97fb9281bfe879639ee202a10b6c3d8f9c99"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/da/da78a94675818f1f7d40594319479f806e7803260c151517a706f259a668cead.jpg",
+      "sha256": "da78a94675818f1f7d40594319479f806e7803260c151517a706f259a668cead"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/05/057652517765ee15896201c6c38cbc0f5be5d058dac8c3fcb6d635552bd06aa8.jpg",
+      "sha256": "057652517765ee15896201c6c38cbc0f5be5d058dac8c3fcb6d635552bd06aa8"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001626.md",
+      "sha256": "d91e8adab5df82e7aaf8e36cfb90039048f4acb4109e5f74fe6dc49b721d1317"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001627.md",
+      "sha256": "4da824a43d10f996eed80d0686b79141d5cff7daa8906262e80348774f6ce265"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001628.md",
+      "sha256": "fb819159b79ca7c158587b9ebeb98ce67495313d596d9a82eaad834a45940edb"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001629.md",
+      "sha256": "96dee4c2f1b5ea70bd0bde9e4e1feb632ef50e93f291c8c4604e299ba2d6d94b"
+    },
+    {
+      "destination": "Mathmap/习题/attachments/a3/a3ce8b182fbea6f2739a4c29bca476492122fbd852e591c5e91b15b6ecccf318.jpg",
+      "sha256": "a3ce8b182fbea6f2739a4c29bca476492122fbd852e591c5e91b15b6ecccf318"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001630.md",
+      "sha256": "c16ce0ef4a177c025234b03ee6b298f9feb4e9a9d2456338fc21041accbb2ce3"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001631.md",
+      "sha256": "8d87f1287addf5794dab0dee1a7b76cdc7af8f257c383a84f8509f399de285f2"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001632.md",
+      "sha256": "6918b8b0701d62e81e0278b1521a8bc7d5bea9418cf11443de65654745da5982"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001633.md",
+      "sha256": "98461a3d6db16a4d06007f1c564d3d50ff5ca4e1b82310b5c676342348a24145"
+    },
+    {
+      "destination": "Mathmap/习题/Q070000001634.md",
+      "sha256": "35588441d413732f935ec08f68f376195657f16ea853051e74ee8c5385854e7e"
+    },
+    {
+      "destination": "Mathmap/概念或公式/数列的单调性.md",
+      "sha256": "e5af82147d76b6546c80c3022137a178b9a2dd7246f1c8174b0d16c5656b4fff"
+    },
+    {
+      "destination": "Mathmap/概念或公式/数列的通项公式.md",
+      "sha256": "4829fb341e77e88da1863be5f37073e45337ba941ac9a890e1b7f537d0dbae6f"
+    },
+    {
+      "destination": "Mathmap/概念或公式/等差数列与公差.md",
+      "sha256": "303088248abaa8c791ca7bc3bf57d15b1dd78fe0f8597614f07d436aaeedd75f"
+    },
+    {
+      "destination": "Mathmap/概念或公式/等差中项.md",
+      "sha256": "358de0ab3ab899ee67687eade7fd3120202d6c8866c42c07c88ba317313858cf"
+    },
+    {
+      "destination": "Mathmap/概念或公式/等比数列与公比.md",
+      "sha256": "e0211f376151e9cda88d3c98b3938e7e6985bc4036605443a5fd7477d19f9134"
+    },
+    {
+      "destination": "Mathmap/概念或公式/等比中项.md",
+      "sha256": "27c0ac1d09ddd7ed34da1e3373f0c0235dd8d29b3f0ea10102bf01980162ec2f"
+    },
+    {
+      "destination": "Mathmap/概念或公式/数学归纳法.md",
+      "sha256": "39521fc41a01e22293be709d9d35e6765dd30040db2922d866f2c984e82a51a9"
+    },
+    {
+      "destination": "Mathmap/概念或公式/曲线的切线.md",
+      "sha256": "ca1595d5d8776a6d5fcde7f68f83eb9f3fb11af07ad19727b4ef1b1bc7cf1b89"
+    },
+    {
+      "destination": "Mathmap/概念或公式/函数和与差的求导法则.md",
+      "sha256": "8bec5f835b5902bba165600716fcdc1c078e3448b4158ed19ff888a5906a74d3"
+    },
+    {
+      "destination": "Mathmap/概念或公式/基本初等函数的导数公式.md",
+      "sha256": "5b988d7d499c894f4b0b3cd696c458c5dad52a35070a5b3f0790b00d49986b54"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md",
+      "sha256": "06a25285c7431ddd9e69f6500aa88b8463bc3e5d845c7556929adf1d766779f5"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md",
+      "sha256": "cdda0eb0986ed319d4f871de2d43a504298db3e36b3adb6bc3f90ca8db1a6be9"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/4.1 数列的概念.md",
+      "sha256": "e977299aba7aa290e49202b63a93eae936b5b72091266a6c95ea0998e7839650"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 斐波那契数列.md",
+      "sha256": "4b7fc29649f228fbf27a68850cc0d7cfcd5f48cbefda37b25c71d86eda3fd03e"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md",
+      "sha256": "333b0681a8f0b6bae4a3c3a7635f7a9bbd5e55b84e714b0834d7d7b71f4b6793"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md",
+      "sha256": "0b7f08b8d15a5ac8cd2ff53409b8808fc6e2bff0535990b5c5778b1d5cad1d53"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2 等差数列.md",
+      "sha256": "01d3b4c0ee494abbc510aad99820df5420e25ca4fb6fa75aee67f7208b8402e9"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md",
+      "sha256": "a9e38843d5fd4caebb91962dcc085e0efc682398dc5e1aa7ba96eb230b937428"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md",
+      "sha256": "b953c032eb4973ac6d2151f347b59520b3f0730a332c9e8483de053abf21b1a2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3 等比数列.md",
+      "sha256": "ca9d726a1ad133b1c0f55d4a3877eeb597633cead1b3529e636ce5bd5f68022c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 中国古代数学家求数列和的方法.md",
+      "sha256": "f277495f995003651db1e3c370484d8a97dd851c90bd1add1d8d8a26f659be2d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md",
+      "sha256": "388b1c7e7e7e513d5448f267da621a90eba0470dfb14218bc9304531c05cd28f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md",
+      "sha256": "5b2ef24a542aa7ac1b0d11ae5aab4006c5d6e1c4388eeace681d9fc04aaab78b"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列.md",
+      "sha256": "c8914442d64f09f32479867220b0bbf5c38eec9f0c0d655da1b3882ac9dc62b6"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md",
+      "sha256": "c97c36f9bc0436255e045a5d28e2ffe30106f433131e1c59bb76628561707d0e"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md",
+      "sha256": "aa08b2b4b260314095cb4208f6ae731f880cd819cbdcbdbf8f6ac7ef3c9b7b87"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md",
+      "sha256": "c3d309645a7df78764f1321346743fef5e9ca60f617f1556bb8c1ff779928f51"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md",
+      "sha256": "3e84dbb74728c8ec77a5680bd0610923a032c010e3020fcbb3cf5bee849c4919"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md",
+      "sha256": "d55bd144ebc087e24138805514135af995e590a7f292caeddd5fbb3a98675652"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md",
+      "sha256": "fa59aee869a8ca9343eefd0d9966102788c80633c2120db39cac464b73fd562f"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md",
+      "sha256": "9c2d41bf9d056fc05d5908dc3a83da1e2a09598bc3321f8a30e1eab48f774e9c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md",
+      "sha256": "d54c4ad4f4fd547ab8ba1718117e5b31dd48a2676658fe44874a7f25bd5e280a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md",
+      "sha256": "7f3ad904fa7d185f4988377ceb6962e15831d9f5b78c7a44b06e683954f7dee2"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md",
+      "sha256": "a633e4af83b820b85649c3d7b16b4368920f983bc32a3bf1ad57065ceec89127"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md",
+      "sha256": "626a6585bfc867b65d74209f2ab149257e5f738fb2ea25482f41105bad64257a"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md",
+      "sha256": "2567ca2b612bed5b19e9a93132b09fc1c4526a6f9c8b2649da12f6429d8e7400"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md",
+      "sha256": "1ff43b9e611169960bcd277dfb414d8f6dc79424b5dc5386bde94e19a2694449"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/人教A-选择性必修第二册.md",
+      "sha256": "1c9a31f6b2fca32b5a8b47711097033b9c9fde5044ad4e01e107a19eef5693ce"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/习题4.1.md",
+      "sha256": "506f0ee604b22c0ee9aa811d0f795b7efa847e26c816952e5ef0c67b6798747b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/4.1 数列的概念.md",
+      "sha256": "80c941ff768c2db29aa6b0c22a80c427bd058ee938c9447bf57a63f9b8d21157"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md",
+      "sha256": "3bdc6a074324e49a74158d15deb3fe40989f695f98616cc0c2809b18e51a0fac"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md",
+      "sha256": "8be160fabd4a4e543bf0d864983534fe66dd11be6c90d757844afd6352bd6896"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/习题4.2.md",
+      "sha256": "c4d0d8eb5cadbd38323611019182b3bf822768791bab5f3921738af99903bdf0"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2 等差数列.md",
+      "sha256": "fae56a37c60d2c296c2464c34c8561ad5f1c9244a9af0e7024734da63b0b8935"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md",
+      "sha256": "1766874fb858a4d6e27c9452a69dc7099c2e8980c7c09d8ac292521c8f599dcd"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md",
+      "sha256": "a62b95946465e40230d0ebf30967750a083159ece9b8ecf3b8dc42535d82a34a"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/习题4.3.md",
+      "sha256": "1d731def5138604e6b34083d2e489534f41927b4645f6d5543602a162d8d1f1f"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3 等比数列.md",
+      "sha256": "2f0191892d108fb193aad38cba0a680f436eae80f067b63778281265c31c8d09"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/习题4.4.md",
+      "sha256": "469ab4878dea588448e3df0ad3bda48d7af89e46b92d8fda5b7138ea578fe096"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md",
+      "sha256": "dd0f6c22c6695430b36184722261611056133f7b6deb3f205e83ac4c8221198e"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md",
+      "sha256": "42ee045e2f24ad91b4a81e7a67a8571166078174ea0268117ffea723bed7f104"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列 复习参考题 4.md",
+      "sha256": "33a0459a19476eac81d711fab8b7993e44025bb64ff7a344dff477db84747632"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列.md",
+      "sha256": "c80bbed9543c459ed740f39109986d9a0a93e17f81bd7fc8760363ee4c32bd08"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md",
+      "sha256": "fc9766497e7ff8abbecda1cd591dbb8a6730b27af2ec702fd5d6b7d817de19e4"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md",
+      "sha256": "b0d7db9154a53bbc05acbbae14d00dd30513740b1332d18aedef03469c74a1fe"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/习题5.1.md",
+      "sha256": "6157c9de1f520311bfe72ff8f027892b090b803aac611ee82447f718dc949950"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md",
+      "sha256": "50380feb4aa4704670f849d8d8eff409a6390bdfab2a8f368de3e355c3e0eddf"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md",
+      "sha256": "dcc5ddf3f6f7f3d2408d80976468b3de3f21708ae1fc2cd59e14c50c30a07ddc"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md",
+      "sha256": "cdd57acc5e02550392e27664b1485bad77763c3f185d6de191db2d6b80a05b8d"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md",
+      "sha256": "b9f33ca1d4a534ec30644853761069ed686a8df13d405cffd3236577c5bdccdf"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/习题5.2.md",
+      "sha256": "4ea3c3a7c39595f897daf1c552939a63e1cb7707b0e928279317153cedd21d1f"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md",
+      "sha256": "c1d18abc3b705998ee8e8879aa095da8fe8cbde5af2546f3a51cf37522b0cb92"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md",
+      "sha256": "6351407bc61313334ae2f7e1d4cef02b30ee1c67e96cc8aa48354ed2a139dde7"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md",
+      "sha256": "d9a340dc62224d6db1a54502fc978ad668efaee64ec66c893d46fb1e2d8eee5f"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/习题5.3.md",
+      "sha256": "3efd14683fdc05611cd1cd7419d29f850bc7c0174b6f4b2496fe8bab83f55432"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md",
+      "sha256": "286c224e1aecce135c3d53b94ef92e7408574cd3ab5f76036c8bafc01aa6faf0"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md",
+      "sha256": "0812feeb8f2cb193763a572fa20edc456952dd148f23293c33bc1cd418efe4f1"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md",
+      "sha256": "f550a476cf57791f37e01e017bb5eca2d77bdb5903a9a2ffee6ffa7ca025769b"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 复习参考题 5.md",
+      "sha256": "e806b1d5852105dff0d9f3d54c73bec96966050ee95948f16db212f0bf55406c"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md",
+      "sha256": "4215cde9b18f090fca99e0afa214fcc15680cfdc37d90b07dd173b7dd59f56dd"
+    },
+    {
+      "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/人教A-选择性必修第二册.md",
+      "sha256": "6892ac85d6925b7dfb836eff622795861ba629bef48b1df425f24a84d393feb9"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.1 数列的概念/4.1 数列的概念.md",
+      "sha256": "69b0fb05d39c59dd215878c708e4a13a6f187125d414eafee42bc9a558f2337b"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/阅读与思考 斐波那契数列.md",
+      "sha256": "f5266f14a34f2d6a37a7190d2a15c5fca16f7ef9b146b523d9f03ad96ac5bd63"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md",
+      "sha256": "4607f1e84d4ffd7ca7149fcbb846ebe501f7d3f7b92f8a0133ae235c66e16af3"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md",
+      "sha256": "6e9f5ede3eee08ae8b03be66a247d834bc0e078a17c85333bce61d80901f5660"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2 等差数列.md",
+      "sha256": "2bbc9986952d91833dacf29494bbdcd08697b55531697172a8febd0d448f6108"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md",
+      "sha256": "292d5b1668afed793d40668ceaeda75e7b83bd1919f27d6fab8cdb949d887cee"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md",
+      "sha256": "e42f83e98b4ca165662358675d57bda60cb71e4ccf8fdc7558cc72f2d53a4bea"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3 等比数列.md",
+      "sha256": "a968ca6ffa695541a3081ef209c787a9ed9906de0ef180c2e646e7848ce980b4"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md",
+      "sha256": "bc75fde82acd0f2db17a8a1e98b38a2046e45cddef919724005ff323124b1032"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/第四章 数列.md",
+      "sha256": "321e81a372a320d37ab26d17c21306e6cc354d5277cb42bdcc5792233a117405"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md",
+      "sha256": "a4593bb939bd19ac4a28d9449b81461d5687a22c82a6b1885c8b99211004aafb"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md",
+      "sha256": "afa3b0cca64f38d272deeb2f861d8965399859e6d3931fb12ac0987698369b05"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md",
+      "sha256": "99ffd234b98b005f4161b0d772b5e540228ac4ea62a76c752741ac50dbfbd6df"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md",
+      "sha256": "26e88a57cdac55313c47cdd8279da8520d194bfb99302a8afcae40b62356139c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md",
+      "sha256": "4f625a18769d368b21619e79ac1114ecb6a7ba967b329995a9e518c18244cc2c"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md",
+      "sha256": "eaec5a40dc5799a5189292dde6d4a5b0a1cb486928bd3de9cf653204d6db0faa"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md",
+      "sha256": "827248f5122bf5fb2590893c723b0a5fc50643aebb09e38f2703149a4ed89f0d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md",
+      "sha256": "41bf31461523dd2fc9f40b4da92c31e8b1f2a9dd1987bbdb3449c328d20b077b"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md",
+      "sha256": "a5cb1b6fd5f6a7ca0f6ff1c36d447bb5fda22610cec8e67b4dd6541c941df48d"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md",
+      "sha256": "60d6d76908b9178ff06ae7bac12a56a7386fbbf87ce65d7665b8cf67776eae76"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md",
+      "sha256": "4f6179443be7cf0bbd50fecf8a37d4b77451d0bbd626b76e806100aac67f6379"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md",
+      "sha256": "eef4150a740ab149fff44d309d2072de7c85bf7e5070000cac4c43f0dd10da43"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/人教A-选择性必修第二册.md",
+      "sha256": "93289a97b8c43d93dd00cdebe13cca79b8b6b420bd288342f0c18570363026b7"
+    },
+    {
+      "destination": "Mathmap/公式总结/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md",
+      "sha256": "e154fdb3edafbdba3e8fb0cd0c6411658811c567ffa9dc2c0bed6c9ea54bbaf8"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第四章 数列 · 概念索引.md",
+      "sha256": "34a01bd2f9151baf412621e1987bc62f2682f4a6f7d5a481b1a7108da783a2e1"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第五章 一元函数的导数及其应用 · 概念索引.md",
+      "sha256": "69b9cbb90e680ca87c815525cf791a2fc47fc236c01771ec2a3a7d1796054e75"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/source-archives/rja-selective-2.zip",
+      "sha256": "b5e083077165bdb346496ae91f41d9caac894bf56a22089c18027a907f7823aa"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/sources/rja-selective-2.json",
+      "sha256": "d337abd421be1340349eead34fd8ad1aa3f92797ccf64cf1169d68544ca394d9"
+    },
+    {
+      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/来源与整理说明.md",
+      "sha256": "5d09fc563961bf7c9706b15b5cac8ef25b985ae0a11e075acbe7c73c137a747f"
+    },
+    {
+      "destination": "Mathmap/索引.md",
+      "sha256": "4f1dd454359637322261b16e1c3cb57a6ef40a83cfb5cf922d63e1847b28d2d3"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/layout.json",
+      "sha256": "d98b2cf939cb71d4544eca924e36fcf3df665810ae287b214c51cc8650856b62"
+    }
+  ],
+  "conflicts": [],
+  "errors": [],
+  "mode": "apply",
+  "relocations": [],
+  "replayed_knowledge_refinement": false,
+  "source": "高中选择性必修 第二册·人教A版数学",
+  "source_id": "rja-selective-2",
+  "summary": {
+    "assets": 143,
+    "atoms": {
+      "answer": 53,
+      "concept_formula": 10,
+      "guide": 12,
+      "knowledge": 37,
+      "problem": 31,
+      "question": 262
+    },
+    "audit_errors": 0,
+    "classified_problems": 0,
+    "conflicts": 0,
+    "create": 637,
+    "definition_aliases": 17,
+    "embedded_motivation_sections": 35,
+    "formula_summary_pages": 1,
+    "motivation_note_embeds": 73,
+    "organization_views": {
+      "公式总结": 1,
+      "按章节分类": 33,
+      "教材问题顺序": 24,
+      "知识串联": 27
+    },
+    "problem_organization_status": "not-in-source",
+    "relocated_chapter_pages": 0,
+    "source_atoms": 370,
+    "source_files": 594,
+    "source_heading_markers": 0,
+    "source_markdown": 409,
+    "thought_classification_pages": 0,
+    "thought_memberships": 0,
+    "unaccounted_markdown": 0,
+    "unchanged": 1,
+    "update": 4,
+    "verified_source_corrections": 0,
+    "withdrawn_editorial_pages": 0,
+    "withdrawn_formula_summary_pages": 0
+  },
+  "warnings": [],
+  "withdrawals": []
+}

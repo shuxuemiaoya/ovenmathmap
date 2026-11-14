@@ -1,0 +1,73 @@
+{
+  "nodes": [
+    {
+      "id": "2dab2e48e5b9f81d",
+      "type": "group",
+      "label": "第六章 数据的分析",
+      "x": 0,
+      "y": 0,
+      "width": 392,
+      "height": 386
+    },
+    {
+      "id": "28a1e2c1f29a2403",
+      "type": "text",
+      "text": "[§ 第六章 数据的分析](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90.md)",
+      "x": 56,
+      "y": 264,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "c3b6c8511cc7272d",
+      "type": "text",
+      "text": "[✦ 情景引入 · 排球决赛拦网高度数据统计引出集中趋势与离散程度分析](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E6%8E%92%E7%90%83%E5%86%B3%E8%B5%9B%E6%8B%A6%E7%BD%91%E9%AB%98%E5%BA%A6%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%E5%BC%95%E5%87%BA%E9%9B%86%E4%B8%AD%E8%B6%8B%E5%8A%BF%E4%B8%8E%E7%A6%BB%E6%95%A3%E7%A8%8B%E5%BA%A6%E5%88%86%E6%9E%90--0019-S.md)",
+      "x": 56,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "36ad34c48bdb2e80",
+      "type": "text",
+      "text": "# [章引入](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "76cc7979a2680a0f",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/06-%E7%AC%AC%E5%85%AD%E7%AB%A0-%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E6%9E%90-b0a9fb.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "35cf091531ee6ce3",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "7a942449c1a5759c",
+      "fromNode": "c3b6c8511cc7272d",
+      "toNode": "28a1e2c1f29a2403",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

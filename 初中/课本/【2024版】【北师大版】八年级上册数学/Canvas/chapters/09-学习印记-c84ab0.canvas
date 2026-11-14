@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "19076b5245e1ce4c",
+      "type": "group",
+      "label": "学习印记",
+      "x": 0,
+      "y": 0,
+      "width": 412,
+      "height": 402
+    },
+    {
+      "id": "a7964bc4a5e89a7d",
+      "type": "text",
+      "text": "[⌕ 放大 · 章引入](../sections/09-01-%E7%AB%A0%E5%BC%95%E5%85%A5-e18340.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 56,
+      "y": 252,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "87c419f052ad743b",
+      "type": "text",
+      "text": "[· 问题 · 学期学习印记与反思总结](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%AD%A6%E6%9C%9F%E5%AD%A6%E4%B9%A0%E5%8D%B0%E8%AE%B0%E4%B8%8E%E5%8F%8D%E6%80%9D%E6%80%BB%E7%BB%93.md)",
+      "x": 56,
+      "y": 76,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "f368b71a1825e0f1",
+      "type": "text",
+      "text": "# [学习印记](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E5%AD%A6%E4%B9%A0%E5%8D%B0%E8%AE%B0.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "f59da9fd755177c4",
+      "type": "text",
+      "text": "[← 返回全书](../overview.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "f75be6d22885ab43",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "a71c8e4e3ed8fbbe",
+      "fromNode": "87c419f052ad743b",
+      "toNode": "a7964bc4a5e89a7d",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

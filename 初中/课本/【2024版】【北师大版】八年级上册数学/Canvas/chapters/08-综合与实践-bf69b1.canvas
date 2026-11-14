@@ -1,0 +1,123 @@
+{
+  "nodes": [
+    {
+      "id": "d63b5e48de1ef1e7",
+      "type": "group",
+      "label": "综合与实践",
+      "x": 0,
+      "y": 0,
+      "width": 524,
+      "height": 1096
+    },
+    {
+      "id": "93083ea7da6b0c0b",
+      "type": "group",
+      "label": "01 · 哪个城市夏天更热",
+      "x": 56,
+      "y": 76,
+      "width": 412,
+      "height": 402
+    },
+    {
+      "id": "ec67e2800e52d7f2",
+      "type": "text",
+      "text": "[⌕ 放大 · 哪个城市夏天更热](../sections/08-01-%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD-e66952.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 112,
+      "y": 328,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "8592769eb5f2a1ae",
+      "type": "text",
+      "text": "[· 问题 · 综合与实践：哪个城市夏天更热](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)",
+      "x": 112,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "c40ac2b2d4ca67e8",
+      "type": "group",
+      "label": "02 · 神奇的加密术",
+      "x": 56,
+      "y": 638,
+      "width": 412,
+      "height": 402
+    },
+    {
+      "id": "297131d1feb513df",
+      "type": "text",
+      "text": "[⌕ 放大 · 神奇的加密术](../sections/08-02-%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF-a686bb.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 112,
+      "y": 890,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "16a125fa762d30d0",
+      "type": "text",
+      "text": "[· 问题 · 综合与实践：神奇的加密术](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9C%AF.md)",
+      "x": 112,
+      "y": 714,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "c5470d54cb03b986",
+      "type": "text",
+      "text": "# [综合与实践](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "971df2d058d0f54b",
+      "type": "text",
+      "text": "[← 返回全书](../overview.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "0157893c8e23d93d",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "85d26cbae5d01e07",
+      "fromNode": "8592769eb5f2a1ae",
+      "toNode": "ec67e2800e52d7f2",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6431c5a70ea9dbd3",
+      "fromNode": "16a125fa762d30d0",
+      "toNode": "297131d1feb513df",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "nodes": [
+    {
+      "id": "819e3c2c3896f622",
+      "type": "group",
+      "label": "4 一次函数的应用",
+      "x": 0,
+      "y": 0,
+      "width": 3036,
+      "height": 1794
+    },
+    {
+      "id": "31214257ff595396",
+      "type": "group",
+      "label": "4.4.1 确定一次函数表达式",
+      "x": 1226,
+      "y": 966,
+      "width": 792,
+      "height": 772
+    },
+    {
+      "id": "120453368180b307",
+      "type": "text",
+      "text": "[· 问题 · 斜坡下滑速度—时间正比例图象反求关系式问题（图4-7）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%96%9C%E5%9D%A1%E4%B8%8B%E6%BB%91%E9%80%9F%E5%BA%A6%E2%80%94%E6%97%B6%E9%97%B4%E6%AD%A3%E6%AF%94%E4%BE%8B%E5%9B%BE%E8%B1%A1%E5%8F%8D%E6%B1%82%E5%85%B3%E7%B3%BB%E5%BC%8F%E9%97%AE%E9%A2%98%28%E5%9B%BE4-7%29.md)",
+      "x": 1282,
+      "y": 1042,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "77d83f48e5ad1a85",
+      "type": "text",
+      "text": "[练习入口 · 4.4.1 确定一次函数表达式](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/4.4.1%20%E7%A1%AE%E5%AE%9A%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)\n\n共 3 题",
+      "x": 1702,
+      "y": 1042,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "b942d8b420d14bc5",
+      "type": "text",
+      "text": "[§ 4.4.1 确定一次函数表达式](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/4.4.1%20%E7%A1%AE%E5%AE%9A%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)",
+      "x": 1282,
+      "y": 1616,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "51464e7f5e0c2cee",
+      "type": "text",
+      "text": "[· 问题 · 思考·交流：确定正比例函数与一次函数表达式所需条件个数](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81-%E7%A1%AE%E5%AE%9A%E6%AD%A3%E6%AF%94%E4%BE%8B%E5%87%BD%E6%95%B0%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%89%80%E9%9C%80%E6%9D%A1%E4%BB%B6%E4%B8%AA%E6%95%B0.md)",
+      "x": 1702,
+      "y": 1274,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "f2834d2380ba7d1d",
+      "type": "text",
+      "text": "[· 方法例题 · 例1 弹簧长度与所挂质量一次函数表达式求解](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0026-W.md)",
+      "x": 1282,
+      "y": 1274,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "64bffb661038a1be",
+      "type": "text",
+      "text": "[· 问题 · 尝试·思考：总结确定一次函数表达式的通用步骤](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83-%E6%80%BB%E7%BB%93%E7%A1%AE%E5%AE%9A%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E9%80%9A%E7%94%A8%E6%AD%A5%E9%AA%A4.md)",
+      "x": 1282,
+      "y": 1440,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "76c7ef209fa353d4",
+      "type": "group",
+      "label": "4.4.2 单个一次函数图象的应用与一元一次方程",
+      "x": 1616,
+      "y": 76,
+      "width": 812,
+      "height": 730
+    },
+    {
+      "id": "3b1bd3c2d0e5c202",
+      "type": "text",
+      "text": "[· 问题 · 摩托车剩余油量与行驶路程一次函数图象分析（图4-8）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%91%A9%E6%89%98%E8%BD%A6%E5%89%A9%E4%BD%99%E6%B2%B9%E9%87%8F%E4%B8%8E%E8%A1%8C%E9%A9%B6%E8%B7%AF%E7%A8%8B%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E5%88%86%E6%9E%90%28%E5%9B%BE4-8%29.md)",
+      "x": 1672,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "478282bb6ef49969",
+      "type": "text",
+      "text": "[练习入口 · 4.4.2 单个一次函数图象的应用与一元一次方程](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/4.4.2%20%E5%8D%95%E4%B8%AA%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E7%9A%84%E5%BA%94%E7%94%A8%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B.md)\n\n共 1 题",
+      "x": 2052,
+      "y": 516,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "d4e6c62c62da1ce6",
+      "type": "text",
+      "text": "[§ 4.4.2 单个一次函数图象的应用与一元一次方程](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/4.4.2%20%E5%8D%95%E4%B8%AA%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E7%9A%84%E5%BA%94%E7%94%A8%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B.md)",
+      "x": 1672,
+      "y": 328,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "77bd4b6f3767371c",
+      "type": "text",
+      "text": "[· 方法例题 · 例2 水库蓄水量与干旱持续时间图象信息提取与求解](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0027-W.md)",
+      "x": 2022,
+      "y": 152,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "1c49349ef1c59fc5",
+      "type": "text",
+      "text": "[✦ 问题 · 尝试·思考：观察函数值为零时对应自变量与直线交点关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83-%E8%A7%82%E5%AF%9F%E5%87%BD%E6%95%B0%E5%80%BC%E4%B8%BA%E9%9B%B6%E6%97%B6%E5%AF%B9%E5%BA%94%E8%87%AA%E5%8F%98%E9%87%8F%E4%B8%8E%E7%9B%B4%E7%BA%BF%E4%BA%A4%E7%82%B9%E5%85%B3%E7%B3%BB.md)",
+      "x": 1672,
+      "y": 494,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "effaa7958da8e659",
+      "type": "text",
+      "text": "[✦ 问题 · 思考·交流：用一元一次方程观点与函数图象视角解同一问题](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81-%E7%94%A8%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E8%A7%82%E7%82%B9%E4%B8%8E%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E8%A7%86%E8%A7%92%E8%A7%A3%E5%90%8C%E4%B8%80%E9%97%AE%E9%A2%98.md)",
+      "x": 1672,
+      "y": 672,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "6a07370cda15a04d",
+      "type": "text",
+      "text": "[✦ 一次函数与一元一次方程的关系（函数值为0与直线同x轴交点）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%85%B3%E7%B3%BB%28%E5%87%BD%E6%95%B0%E5%80%BC%E4%B8%BA0%E4%B8%8E%E7%9B%B4%E7%BA%BF%E5%90%8Cx%E8%BD%B4%E4%BA%A4%E7%82%B9%29--000045.md)",
+      "x": 2092,
+      "y": 328,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "2de0bd231b5cc5eb",
+      "type": "group",
+      "label": "4.4.3 两个一次函数图象的交点与综合应用",
+      "x": 2588,
+      "y": 76,
+      "width": 392,
+      "height": 884
+    },
+    {
+      "id": "ffe692d662a75054",
+      "type": "text",
+      "text": "[✦ 问题 · 销售收入与销售成本双直线图象信息填空（图4-10）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A5%E4%B8%8E%E9%94%80%E5%94%AE%E6%88%90%E6%9C%AC%E5%8F%8C%E7%9B%B4%E7%BA%BF%E5%9B%BE%E8%B1%A1%E4%BF%A1%E6%81%AF%E5%A1%AB%E7%A9%BA%28%E5%9B%BE4-10%29.md)",
+      "x": 2644,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "c1ea09c2b8e40ea8",
+      "type": "text",
+      "text": "[§ 4.4.3 两个一次函数图象的交点与综合应用](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/4.4.3%20%E4%B8%A4%E4%B8%AA%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E7%9A%84%E4%BA%A4%E7%82%B9%E4%B8%8E%E7%BB%BC%E5%90%88%E5%BA%94%E7%94%A8.md)",
+      "x": 2644,
+      "y": 838,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "530704a980b99a97",
+      "type": "text",
+      "text": "[· 问题 · 思考·交流：分析双一次函数图象中交点前后大小比较与决策](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81-%E5%88%86%E6%9E%90%E5%8F%8C%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E4%B8%AD%E4%BA%A4%E7%82%B9%E5%89%8D%E5%90%8E%E5%A4%A7%E5%B0%8F%E6%AF%94%E8%BE%83%E4%B8%8E%E5%86%B3%E7%AD%96.md)",
+      "x": 2644,
+      "y": 330,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "851dee41b80fe36d",
+      "type": "text",
+      "text": "[· 方法例题 · 例3 观景台追及问题中双一次函数图象（图4-12）与追及分析](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0028-W.md)",
+      "x": 2644,
+      "y": 496,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "cbc940067e991338",
+      "type": "text",
+      "text": "[· 问题 · 回顾·反思：从函数图象获取实际问题信息的通用方法](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%9B%9E%E9%A1%BE%C2%B7%E5%8F%8D%E6%80%9D-%E4%BB%8E%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E8%8E%B7%E5%8F%96%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98%E4%BF%A1%E6%81%AF%E7%9A%84%E9%80%9A%E7%94%A8%E6%96%B9%E6%B3%95.md)",
+      "x": 2644,
+      "y": 662,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "a0a7eb767f8c9d59",
+      "type": "group",
+      "label": "习题 4.4",
+      "x": 56,
+      "y": 440,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "2f3d5b228b934475",
+      "type": "text",
+      "text": "[练习入口 · 习题 4.4](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/%E4%B9%A0%E9%A2%98%204.4.md)\n\n共 12 题",
+      "x": 112,
+      "y": 516,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "76c60c77ce9ebbae",
+      "type": "text",
+      "text": "# [4 一次函数的应用](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0/4%20%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "b32261227d3dfd08",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/04-%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0-32408f.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "c1632957a16f9fb3",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "8b10fcc464eed006",
+      "fromNode": "1c49349ef1c59fc5",
+      "toNode": "51464e7f5e0c2cee",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "dc2a1e9b9cd8d77d",
+      "fromNode": "120453368180b307",
+      "toNode": "1c49349ef1c59fc5",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7905f38f8680ec97",
+      "fromNode": "6a07370cda15a04d",
+      "toNode": "ffe692d662a75054",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "02efd7908c94a7bf",
+      "fromNode": "77bd4b6f3767371c",
+      "toNode": "6a07370cda15a04d",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c58779ad5c064a37",
+      "fromNode": "effaa7958da8e659",
+      "toNode": "6a07370cda15a04d",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "79ce48d2e600d1a1",
+      "fromNode": "1c49349ef1c59fc5",
+      "toNode": "6a07370cda15a04d",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "97c10682a131767f",
+      "fromNode": "6a07370cda15a04d",
+      "toNode": "77d83f48e5ad1a85",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 3题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "49c7c5ec871d7bb6",
+      "fromNode": "6a07370cda15a04d",
+      "toNode": "478282bb6ef49969",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1940cf80d19e74f7",
+      "fromNode": "6a07370cda15a04d",
+      "toNode": "2f3d5b228b934475",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属 · 12题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "17b2d97abb4d1a8a",
+      "fromNode": "f2834d2380ba7d1d",
+      "toNode": "b942d8b420d14bc5",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "87138335f778df12",
+      "fromNode": "64bffb661038a1be",
+      "toNode": "b942d8b420d14bc5",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e62b9c1f96160c7b",
+      "fromNode": "3b1bd3c2d0e5c202",
+      "toNode": "d4e6c62c62da1ce6",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a44ea296c4e50bd0",
+      "fromNode": "530704a980b99a97",
+      "toNode": "c1ea09c2b8e40ea8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "dd2316f21268379c",
+      "fromNode": "851dee41b80fe36d",
+      "toNode": "c1ea09c2b8e40ea8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3020a31d5bcb068b",
+      "fromNode": "cbc940067e991338",
+      "toNode": "c1ea09c2b8e40ea8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

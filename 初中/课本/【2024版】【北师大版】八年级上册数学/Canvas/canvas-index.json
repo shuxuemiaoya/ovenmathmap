@@ -1,0 +1,6372 @@
+{
+  "schema_version": 3,
+  "manifest": "/Users/oven/Documents/ovenmathmap/初中/课本/【2024版】【北师大版】八年级上册数学/book-graph.json",
+  "manifest_sha256": "baaefe14bb473381dfdeea8f6a117d0437d392a05e70b9d8054a1d16e3361d9e",
+  "book_root": "/Users/oven/Documents/ovenmathmap/初中/课本/【2024版】【北师大版】八年级上册数学",
+  "relation_status": "passed",
+  "layout": {
+    "mode": "three-level-constellation",
+    "theme": "adaptive",
+    "zoom_levels": [
+      "book-chapters",
+      "chapter-core",
+      "section-detail"
+    ],
+    "learning_direction": "edge-constrained-clusters",
+    "organization_encoding": "regions-and-organizer-groups",
+    "atom_visibility": "chapter-core-and-section-detail",
+    "exercise_representation": "chapter-counts-section-primary-entries",
+    "concept_hub_visibility": "hidden",
+    "edge_noise_policy": "semantic-or-labelled-membership",
+    "edge_ports": {
+      "progression": "right-to-left",
+      "inspiration": "right-to-top",
+      "support-and-containment": "bottom-to-top"
+    },
+    "revision": "compact-v1",
+    "navigation": "unconnected-header-and-local-portals",
+    "direction_constraints": {
+      "right_outgoing": "target.left>=source.right+gap",
+      "bottom_outgoing": "target.top>=source.bottom+gap"
+    },
+    "spacing": {
+      "node_margin": 100,
+      "region_gap": 160,
+      "right_gap": 140,
+      "down_gap": 110
+    }
+  },
+  "atlas": {
+    "role": "book-atlas",
+    "root_key": "book-root",
+    "path": "overview.canvas",
+    "counts": {
+      "cards": 11,
+      "groups": 0,
+      "edges": 17,
+      "organizers": 10,
+      "atoms": 0,
+      "internal_atoms": 0,
+      "external_portals": 0,
+      "landmarks": 0,
+      "navigation_nodes": 2,
+      "regions": 0,
+      "backbone_edges": 0,
+      "supporting_edges": 9,
+      "source_order_edges": 8,
+      "semantic_edges": 9,
+      "landmark_edges": 0
+    },
+    "bounds": {
+      "x": -889,
+      "y": -780,
+      "width": 1778,
+      "height": 1517,
+      "aspect_ratio": 1.1721
+    },
+    "png_path": "overview.png",
+    "png_sha256": "c570225ba150a40397d8548b8d68fc09367764e4bab28c276e0c0a6786ebd93e",
+    "png_dimensions": [
+      2400,
+      2077
+    ]
+  },
+  "chapter_maps": [
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-001",
+      "status": "ready",
+      "path": "chapters/01-第一章-勾股定理-75a20e.canvas",
+      "counts": {
+        "cards": 31,
+        "groups": 9,
+        "edges": 26,
+        "internal_atoms": 21,
+        "source_atoms": 61,
+        "knowledge_atoms": 5,
+        "scenario_atoms": 13,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 40,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 7,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 19,
+        "concept_relation_edges": 4,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 3,
+        "navigation_nodes": 10,
+        "regions": 6,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 5576,
+        "height": 1444,
+        "aspect_ratio": 3.8615
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 7,
+        "edge_length_median": 455,
+        "edge_length_p90": 1630,
+        "edge_length_max": 3102,
+        "edges_over_2000": 1,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-1-1-1",
+          "node_id": "db250d27b39953a0",
+          "parent_id": "0c089fe1014bec8e",
+          "member_ids": [
+            "1c635e8f28f5a09d",
+            "b53e784aa09b4164",
+            "d512e2686a3066f7",
+            "feda75e61b36062e"
+          ]
+        },
+        {
+          "organizer_key": "topic-1-1-2",
+          "node_id": "8974152910d9a320",
+          "parent_id": "0c089fe1014bec8e",
+          "member_ids": [
+            "06c69a49871635b8",
+            "0970af91b51e4b21",
+            "0fff28bfa4019394",
+            "17e68ca4cb4ad48f",
+            "5114ab064dcbbe26",
+            "866eb135ab30bf9c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-002",
+          "node_id": "0c089fe1014bec8e",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "06c69a49871635b8",
+            "0970af91b51e4b21",
+            "0fff28bfa4019394",
+            "17e68ca4cb4ad48f",
+            "1c635e8f28f5a09d",
+            "5114ab064dcbbe26",
+            "866eb135ab30bf9c",
+            "b53e784aa09b4164",
+            "baae0d944549fe4d",
+            "d512e2686a3066f7",
+            "feda75e61b36062e"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-004",
+          "node_id": "86ea37c0dfe5c875",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "06d2378d66392a3a",
+            "4fb0102da84b3208",
+            "5b91f19405fcefea",
+            "6d395540279d0c6d",
+            "7c9abb90625471a2",
+            "c03c9f5c25a7d17f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-006",
+          "node_id": "ff27f811061db630",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "2944775e816dcb9d",
+            "7115549cc75319a3",
+            "76cce221f4d054e3",
+            "7fff0a1511882bf0"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-008",
+          "node_id": "2107539e5d85b680",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "31e0641c9efe1962",
+            "60624f2df595397f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-009",
+          "node_id": "b6318faf41fc2aea",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "f5857e9c21043c17",
+            "fad03cd592af69bd"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-010",
+          "node_id": "73f1e5d0f8bb5a84",
+          "parent_id": "87ad805e9f5e5d9b",
+          "member_ids": [
+            "251bb60dfccbdb1a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-001",
+          "node_id": "87ad805e9f5e5d9b",
+          "parent_id": null,
+          "member_ids": [
+            "06c69a49871635b8",
+            "06d2378d66392a3a",
+            "0970af91b51e4b21",
+            "0fff28bfa4019394",
+            "17e68ca4cb4ad48f",
+            "1c635e8f28f5a09d",
+            "251bb60dfccbdb1a",
+            "2944775e816dcb9d",
+            "31e0641c9efe1962",
+            "4fb0102da84b3208",
+            "5114ab064dcbbe26",
+            "5b91f19405fcefea",
+            "60624f2df595397f",
+            "6d395540279d0c6d",
+            "7115549cc75319a3",
+            "76cce221f4d054e3",
+            "76ee02a471711c61",
+            "7c9abb90625471a2",
+            "7fff0a1511882bf0",
+            "866eb135ab30bf9c",
+            "b53e784aa09b4164",
+            "baae0d944549fe4d",
+            "c03c9f5c25a7d17f",
+            "c3e0e5a375ded2b3",
+            "d512e2686a3066f7",
+            "f5857e9c21043c17",
+            "fad03cd592af69bd",
+            "feda75e61b36062e"
+          ]
+        }
+      ],
+      "png_path": "chapters/01-第一章-勾股定理-75a20e.png",
+      "png_sha256": "5bb6cc905b28f2bf76496c6b333ef74148000b2424178fe250790d0cfc34044c",
+      "png_dimensions": [
+        2400,
+        672
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-011",
+      "status": "ready",
+      "path": "chapters/02-第二章-实数-9775d4.canvas",
+      "counts": {
+        "cards": 68,
+        "groups": 15,
+        "edges": 111,
+        "internal_atoms": 57,
+        "source_atoms": 140,
+        "knowledge_atoms": 21,
+        "scenario_atoms": 22,
+        "featured_examples": 14,
+        "exercise_atoms_summarized": 83,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 6,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 92,
+        "concept_relation_edges": 13,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 6,
+        "navigation_nodes": 11,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 16994,
+        "height": 2578,
+        "aspect_ratio": 6.5919
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 619,
+        "edge_length_median": 840,
+        "edge_length_p90": 6895,
+        "edge_length_max": 10031,
+        "edges_over_2000": 31,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-2-1-1",
+          "node_id": "b0eb7baf967b9ade",
+          "parent_id": "68764399e5f0f6c5",
+          "member_ids": [
+            "13644aa3155fe505",
+            "3554c0fc721e302d",
+            "7cf95094a33a5be4",
+            "b32a473b87655056",
+            "c38d1569f680e0f2"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-1-2",
+          "node_id": "b9976d5818fc83f3",
+          "parent_id": "68764399e5f0f6c5",
+          "member_ids": [
+            "0b123fd7abca7504",
+            "1c97b3316e273866",
+            "399f8ad0f8f75b73",
+            "92fbc95942f33f48",
+            "c4469b8829b3a8a9",
+            "e095b2f25c4acb6f",
+            "e935b2279c9dec05",
+            "eb3139e698052c0b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-012",
+          "node_id": "68764399e5f0f6c5",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "0b123fd7abca7504",
+            "13644aa3155fe505",
+            "13b4515eedfa6232",
+            "1c97b3316e273866",
+            "3554c0fc721e302d",
+            "399f8ad0f8f75b73",
+            "7cf95094a33a5be4",
+            "92fbc95942f33f48",
+            "b32a473b87655056",
+            "c38d1569f680e0f2",
+            "c4469b8829b3a8a9",
+            "e095b2f25c4acb6f",
+            "e935b2279c9dec05",
+            "eb3139e698052c0b"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-1",
+          "node_id": "a60f97843f024143",
+          "parent_id": "2b4c5179f8f632a6",
+          "member_ids": [
+            "282346e4b473bea9",
+            "41d422108673b402",
+            "496d8a4f2f6e6e63",
+            "519d9137b4f774ea",
+            "80ee444fba5fe5bc",
+            "ca6fc23fd70364e3"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-2",
+          "node_id": "c50e6230ac39e9fb",
+          "parent_id": "2b4c5179f8f632a6",
+          "member_ids": [
+            "21be9bc5e57193b7",
+            "6a5ee24396227e70",
+            "d2393459614d10d4",
+            "dad099fe22b75373",
+            "ee1e1df48dc017b0",
+            "fb4bf0e552bdfe05"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-3",
+          "node_id": "301d9c8047e7e8ba",
+          "parent_id": "2b4c5179f8f632a6",
+          "member_ids": [
+            "611ad34fe01f7e57",
+            "6fa3d07f607c5392",
+            "8787c78278ef338d",
+            "b5cfa52386e1af65",
+            "c2fe483bb6855c0f",
+            "c54ca52b1ed91f0e",
+            "d3540db76447e390"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-4",
+          "node_id": "dfa683ad866dfa03",
+          "parent_id": "2b4c5179f8f632a6",
+          "member_ids": [
+            "1987644d689f39c6",
+            "60ce3561a9eced4d",
+            "72caee4a4c04ea54",
+            "ac2676f7c70ae2a9",
+            "b8bb8bfe1bdfea13",
+            "c7b69546a03c214f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-015",
+          "node_id": "06f59a71530f6566",
+          "parent_id": "2b4c5179f8f632a6",
+          "member_ids": [
+            "89cd07504f822989"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-014",
+          "node_id": "2b4c5179f8f632a6",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "1987644d689f39c6",
+            "21be9bc5e57193b7",
+            "282346e4b473bea9",
+            "41d422108673b402",
+            "496d8a4f2f6e6e63",
+            "519d9137b4f774ea",
+            "60ce3561a9eced4d",
+            "611ad34fe01f7e57",
+            "6a5ee24396227e70",
+            "6fa3d07f607c5392",
+            "72caee4a4c04ea54",
+            "80ee444fba5fe5bc",
+            "8787c78278ef338d",
+            "89cd07504f822989",
+            "ac2676f7c70ae2a9",
+            "b5cfa52386e1af65",
+            "b8bb8bfe1bdfea13",
+            "c2fe483bb6855c0f",
+            "c54ca52b1ed91f0e",
+            "c7b69546a03c214f",
+            "ca6fc23fd70364e3",
+            "d2393459614d10d4",
+            "d3540db76447e390",
+            "dad099fe22b75373",
+            "ed13034de1b2882b",
+            "ee1e1df48dc017b0",
+            "fb4bf0e552bdfe05"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-3-1",
+          "node_id": "7ddc3c2dc13bce6d",
+          "parent_id": "8b5840c4af38150f",
+          "member_ids": [
+            "5209004dfee381e9",
+            "60c3135b059a0827",
+            "6d5ba5da92994c0a",
+            "ca38403a03c24895",
+            "ed920a647a444949"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-3-2",
+          "node_id": "8b51193d8ef209cb",
+          "parent_id": "8b5840c4af38150f",
+          "member_ids": [
+            "0d603dc4ca6c1d84",
+            "1388df3a997e63d2",
+            "2f1eeb2c3c6863dc",
+            "5b841a27ecbc8e65",
+            "7114936c975312e8",
+            "771964c232c7c800",
+            "7fbb8ba806896804",
+            "998044b2df213b58",
+            "a7ac8325176355d0",
+            "aa535c618e594803",
+            "adf92eb378bcccf7",
+            "d30bbb0df1ad6706"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-016",
+          "node_id": "8b5840c4af38150f",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "0d603dc4ca6c1d84",
+            "1388df3a997e63d2",
+            "2f1eeb2c3c6863dc",
+            "5209004dfee381e9",
+            "5b841a27ecbc8e65",
+            "60c3135b059a0827",
+            "6d5ba5da92994c0a",
+            "7114936c975312e8",
+            "771964c232c7c800",
+            "7fbb8ba806896804",
+            "998044b2df213b58",
+            "a7ac8325176355d0",
+            "aa535c618e594803",
+            "adf92eb378bcccf7",
+            "ca38403a03c24895",
+            "d30bbb0df1ad6706",
+            "dbf532350733e006",
+            "ed920a647a444949"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-018",
+          "node_id": "228866fd95d9cb1c",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "0c82c8c7c2063782",
+            "5ffde2c90ee36fa8"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-019",
+          "node_id": "7b87215c2d7caea2",
+          "parent_id": "b4084bfa85c6bcb1",
+          "member_ids": [
+            "cd0728f3ba60cd6a",
+            "f3cf576f4deec331"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-011",
+          "node_id": "b4084bfa85c6bcb1",
+          "parent_id": null,
+          "member_ids": [
+            "0b123fd7abca7504",
+            "0c82c8c7c2063782",
+            "0d603dc4ca6c1d84",
+            "13644aa3155fe505",
+            "1388df3a997e63d2",
+            "13b4515eedfa6232",
+            "1987644d689f39c6",
+            "1c97b3316e273866",
+            "21be9bc5e57193b7",
+            "22a7ee04ae14853c",
+            "282346e4b473bea9",
+            "2f1eeb2c3c6863dc",
+            "3554c0fc721e302d",
+            "399f8ad0f8f75b73",
+            "41d422108673b402",
+            "496d8a4f2f6e6e63",
+            "519d9137b4f774ea",
+            "5209004dfee381e9",
+            "5b841a27ecbc8e65",
+            "5ffde2c90ee36fa8",
+            "60c3135b059a0827",
+            "60ce3561a9eced4d",
+            "611ad34fe01f7e57",
+            "6a5ee24396227e70",
+            "6d5ba5da92994c0a",
+            "6fa3d07f607c5392",
+            "7114936c975312e8",
+            "72caee4a4c04ea54",
+            "771964c232c7c800",
+            "7cf95094a33a5be4",
+            "7fbb8ba806896804",
+            "80ee444fba5fe5bc",
+            "8787c78278ef338d",
+            "89cd07504f822989",
+            "92fbc95942f33f48",
+            "998044b2df213b58",
+            "9dba392112a99a4a",
+            "a7ac8325176355d0",
+            "aa535c618e594803",
+            "ac2676f7c70ae2a9",
+            "adf92eb378bcccf7",
+            "b32a473b87655056",
+            "b5cfa52386e1af65",
+            "b8bb8bfe1bdfea13",
+            "c2fe483bb6855c0f",
+            "c38d1569f680e0f2",
+            "c4469b8829b3a8a9",
+            "c54ca52b1ed91f0e",
+            "c7b69546a03c214f",
+            "ca38403a03c24895",
+            "ca6fc23fd70364e3",
+            "cd0728f3ba60cd6a",
+            "d2393459614d10d4",
+            "d30bbb0df1ad6706",
+            "d3540db76447e390",
+            "dad099fe22b75373",
+            "dbf532350733e006",
+            "e095b2f25c4acb6f",
+            "e935b2279c9dec05",
+            "eb3139e698052c0b",
+            "ed13034de1b2882b",
+            "ed920a647a444949",
+            "ee1e1df48dc017b0",
+            "f3cf576f4deec331",
+            "fb4bf0e552bdfe05"
+          ]
+        }
+      ],
+      "png_path": "chapters/02-第二章-实数-9775d4.png",
+      "png_sha256": "41f20acac4a69af34377dc043f597c6e1d822ec943963e2468860c7eb25bbfcd",
+      "png_dimensions": [
+        2400,
+        384
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-020",
+      "status": "ready",
+      "path": "chapters/03-第三章-位置与坐标-35a66a.canvas",
+      "counts": {
+        "cards": 40,
+        "groups": 9,
+        "edges": 39,
+        "internal_atoms": 29,
+        "source_atoms": 65,
+        "knowledge_atoms": 6,
+        "scenario_atoms": 18,
+        "featured_examples": 5,
+        "exercise_atoms_summarized": 36,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 6,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 26,
+        "concept_relation_edges": 5,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 8,
+        "navigation_nodes": 11,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 6570,
+        "height": 3232,
+        "aspect_ratio": 2.0328
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 29,
+        "edge_length_median": 706,
+        "edge_length_p90": 1852,
+        "edge_length_max": 4284,
+        "edges_over_2000": 3,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-021",
+          "node_id": "161a7553f724bd1e",
+          "parent_id": "abb834c634a0f4ae",
+          "member_ids": [
+            "02d74962fe7128fd",
+            "1fd50eb53d07dc13",
+            "6352067429378976",
+            "91b3a4258ea8caf6",
+            "9be7969abf65ef1c",
+            "d2fdc24aa6f3825b",
+            "d82c58faa956c367",
+            "d915863c94c71400"
+          ]
+        },
+        {
+          "organizer_key": "topic-3-2-1",
+          "node_id": "ff6ac2b627402178",
+          "parent_id": "64d06e38795f6f7e",
+          "member_ids": [
+            "59d70a591833a00f",
+            "676107c2288b1238",
+            "6ae637e90a04c0ec",
+            "a1c09dd067e7ba4c",
+            "dc8ad2f166361531",
+            "fb0d6930cb2b769d"
+          ]
+        },
+        {
+          "organizer_key": "topic-3-2-2",
+          "node_id": "3b71e0b13d45b47e",
+          "parent_id": "64d06e38795f6f7e",
+          "member_ids": [
+            "2dc2378a2bc6e4b5",
+            "34a3206120fb0097",
+            "8c78e6559b54df7a",
+            "a5b3a870613b5973"
+          ]
+        },
+        {
+          "organizer_key": "topic-3-2-3",
+          "node_id": "d7cee35a565993ba",
+          "parent_id": "64d06e38795f6f7e",
+          "member_ids": [
+            "1f8fabeeecbd67b1",
+            "599e26445e4c4501",
+            "82b264d997f57d0b",
+            "d29ce1b33693673a",
+            "db3cb4d623452df8",
+            "e1288356d7fd3387"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-023",
+          "node_id": "64d06e38795f6f7e",
+          "parent_id": "abb834c634a0f4ae",
+          "member_ids": [
+            "1f8fabeeecbd67b1",
+            "2368ae8607ba4e8c",
+            "2dc2378a2bc6e4b5",
+            "34a3206120fb0097",
+            "599e26445e4c4501",
+            "59d70a591833a00f",
+            "676107c2288b1238",
+            "6ae637e90a04c0ec",
+            "82b264d997f57d0b",
+            "8c78e6559b54df7a",
+            "a1c09dd067e7ba4c",
+            "a5b3a870613b5973",
+            "d29ce1b33693673a",
+            "db3cb4d623452df8",
+            "dc8ad2f166361531",
+            "e1288356d7fd3387",
+            "fb0d6930cb2b769d"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-025",
+          "node_id": "6487f763b8962c03",
+          "parent_id": "abb834c634a0f4ae",
+          "member_ids": [
+            "0c4c5a4edf9d79ea",
+            "1532a275e8246263",
+            "1e0230bcd405f8b3",
+            "591171378998edc3",
+            "bd43154d2f8c90dc",
+            "cd57d099eeb70f32",
+            "ea35a467fe7f175b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-027",
+          "node_id": "0cbd73e41ee2ea4a",
+          "parent_id": "abb834c634a0f4ae",
+          "member_ids": [
+            "3efc41e179f390cf",
+            "432a92fd4ca03367"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-028",
+          "node_id": "25b8d1eda8624f2c",
+          "parent_id": "abb834c634a0f4ae",
+          "member_ids": [
+            "42d34a4a1c8cddb1"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-020",
+          "node_id": "abb834c634a0f4ae",
+          "parent_id": null,
+          "member_ids": [
+            "02d74962fe7128fd",
+            "0c4c5a4edf9d79ea",
+            "1532a275e8246263",
+            "1e0230bcd405f8b3",
+            "1f8fabeeecbd67b1",
+            "1fd50eb53d07dc13",
+            "2368ae8607ba4e8c",
+            "2dc2378a2bc6e4b5",
+            "34a3206120fb0097",
+            "3efc41e179f390cf",
+            "42d34a4a1c8cddb1",
+            "432a92fd4ca03367",
+            "591171378998edc3",
+            "599e26445e4c4501",
+            "59d70a591833a00f",
+            "6352067429378976",
+            "676107c2288b1238",
+            "6ae637e90a04c0ec",
+            "8233dd3a5f227a84",
+            "82b264d997f57d0b",
+            "8c78e6559b54df7a",
+            "91b3a4258ea8caf6",
+            "93637236d3a75141",
+            "9be7969abf65ef1c",
+            "a1c09dd067e7ba4c",
+            "a5b3a870613b5973",
+            "bd43154d2f8c90dc",
+            "cd57d099eeb70f32",
+            "d29ce1b33693673a",
+            "d2fdc24aa6f3825b",
+            "d82c58faa956c367",
+            "d915863c94c71400",
+            "db3cb4d623452df8",
+            "dc8ad2f166361531",
+            "e1288356d7fd3387",
+            "ea35a467fe7f175b",
+            "fb0d6930cb2b769d"
+          ]
+        }
+      ],
+      "png_path": "chapters/03-第三章-位置与坐标-35a66a.png",
+      "png_sha256": "0090fb78e7dce0ff4e00e34d946125af8b79849f99c6c03ab0f86584deb9dea8",
+      "png_dimensions": [
+        2400,
+        1210
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-029",
+      "status": "ready",
+      "path": "chapters/04-第四章-一次函数-32408f.canvas",
+      "counts": {
+        "cards": 67,
+        "groups": 15,
+        "edges": 71,
+        "internal_atoms": 53,
+        "source_atoms": 124,
+        "knowledge_atoms": 13,
+        "scenario_atoms": 34,
+        "featured_examples": 6,
+        "exercise_atoms_summarized": 71,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 7,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 53,
+        "concept_relation_edges": 9,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 9,
+        "navigation_nodes": 14,
+        "regions": 6,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 10676,
+        "height": 2200,
+        "aspect_ratio": 4.8527
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 86,
+        "edge_length_median": 560,
+        "edge_length_p90": 3299,
+        "edge_length_max": 8489,
+        "edges_over_2000": 13,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-030",
+          "node_id": "08053e69bc5c7af2",
+          "parent_id": "8f59d204cbf9e6e9",
+          "member_ids": [
+            "2196eea2a73379fb",
+            "283e4bfd010e4097",
+            "4032481127bba526",
+            "5158f0bae11de811",
+            "6ef18532675baf14",
+            "870dbc26626e379c",
+            "ca68d1abf54235c4"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-2-1",
+          "node_id": "41fcafabbec30474",
+          "parent_id": "2c066a069722c73d",
+          "member_ids": [
+            "61de7bbfbd1edaf5",
+            "6dc4f4e228e18c36",
+            "8d60bad64b54e5eb",
+            "9da3c5b427d4ea8c",
+            "a7df350d1e0725e9",
+            "d146ffccafe0f16c",
+            "fd71baba18f7f463"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-2-2",
+          "node_id": "8bcb0658decea71f",
+          "parent_id": "2c066a069722c73d",
+          "member_ids": [
+            "208882beac254461",
+            "33c8d65dae24b54d",
+            "78db4819aa885cba",
+            "9e9dc85dfcece52d",
+            "f73b072b1e68b5fe",
+            "fa3587e06c96b159"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-2-3",
+          "node_id": "6d2ec71bb5d434a7",
+          "parent_id": "2c066a069722c73d",
+          "member_ids": [
+            "2ac76665c8ac0d1f",
+            "554300d594775bb1",
+            "7e057d950aec554a",
+            "dbab2324fd737ea5",
+            "fe14016f11a19790"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-032",
+          "node_id": "2c066a069722c73d",
+          "parent_id": "8f59d204cbf9e6e9",
+          "member_ids": [
+            "208882beac254461",
+            "2ac76665c8ac0d1f",
+            "33c8d65dae24b54d",
+            "554300d594775bb1",
+            "61de7bbfbd1edaf5",
+            "6dc4f4e228e18c36",
+            "78db4819aa885cba",
+            "7e057d950aec554a",
+            "8d60bad64b54e5eb",
+            "9da3c5b427d4ea8c",
+            "9e9dc85dfcece52d",
+            "a7df350d1e0725e9",
+            "af1176c7022c72e8",
+            "d146ffccafe0f16c",
+            "dbab2324fd737ea5",
+            "f73b072b1e68b5fe",
+            "fa3587e06c96b159",
+            "fd71baba18f7f463",
+            "fe14016f11a19790"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-3-1",
+          "node_id": "091c13d1b5bec45f",
+          "parent_id": "6c37dec8d5a3f851",
+          "member_ids": [
+            "0e51e1d21d37c85a",
+            "10bcafc69e0c5b61",
+            "53f2907c0c2106c1",
+            "77d3e97a57ca4634",
+            "887cd0805f1cb4d8",
+            "a9b31af38d7cfc53",
+            "c69a9bbb6a177615",
+            "c93ef5936d7e7456",
+            "ee74bff99862f846"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-3-2",
+          "node_id": "42e02570c0fc4180",
+          "parent_id": "6c37dec8d5a3f851",
+          "member_ids": [
+            "116574b85676110c",
+            "3a0b1f49e093eb6e",
+            "3c1f48075972cce2",
+            "49c3da80b3ab882a",
+            "a09eebc3602d5878",
+            "c83056bc1aa4b833"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-034",
+          "node_id": "6c37dec8d5a3f851",
+          "parent_id": "8f59d204cbf9e6e9",
+          "member_ids": [
+            "0e51e1d21d37c85a",
+            "10bcafc69e0c5b61",
+            "116574b85676110c",
+            "3a0b1f49e093eb6e",
+            "3c1f48075972cce2",
+            "49c3da80b3ab882a",
+            "53f2907c0c2106c1",
+            "77d3e97a57ca4634",
+            "887cd0805f1cb4d8",
+            "a09eebc3602d5878",
+            "a9b31af38d7cfc53",
+            "c3327f346eef4be9",
+            "c69a9bbb6a177615",
+            "c83056bc1aa4b833",
+            "c93ef5936d7e7456",
+            "ee74bff99862f846"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-4-1",
+          "node_id": "af1a44e29578849b",
+          "parent_id": "dddddafaba54abee",
+          "member_ids": [
+            "120453368180b307",
+            "35da581ee87f9808",
+            "51464e7f5e0c2cee",
+            "64bffb661038a1be",
+            "f2834d2380ba7d1d"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-4-2",
+          "node_id": "2bed0ab727338678",
+          "parent_id": "dddddafaba54abee",
+          "member_ids": [
+            "1c49349ef1c59fc5",
+            "3b1bd3c2d0e5c202",
+            "6a07370cda15a04d",
+            "77bd4b6f3767371c",
+            "effaa7958da8e659",
+            "f7fb68e7b5786594"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-4-3",
+          "node_id": "6a76e1efca2c9829",
+          "parent_id": "dddddafaba54abee",
+          "member_ids": [
+            "530704a980b99a97",
+            "851dee41b80fe36d",
+            "cbc940067e991338",
+            "d3ce9b7e50ecfcb0",
+            "ffe692d662a75054"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-036",
+          "node_id": "dddddafaba54abee",
+          "parent_id": "8f59d204cbf9e6e9",
+          "member_ids": [
+            "120453368180b307",
+            "1c49349ef1c59fc5",
+            "35da581ee87f9808",
+            "3b1bd3c2d0e5c202",
+            "51464e7f5e0c2cee",
+            "530704a980b99a97",
+            "64bffb661038a1be",
+            "6a07370cda15a04d",
+            "77bd4b6f3767371c",
+            "851dee41b80fe36d",
+            "9d2112cc5e651afc",
+            "cbc940067e991338",
+            "d3ce9b7e50ecfcb0",
+            "effaa7958da8e659",
+            "f2834d2380ba7d1d",
+            "f7fb68e7b5786594",
+            "ffe692d662a75054"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-038",
+          "node_id": "62d5fbd1f7be1ccd",
+          "parent_id": "8f59d204cbf9e6e9",
+          "member_ids": [
+            "2030d5bee73f1694",
+            "ddcbaaf392f1e5e6"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-039",
+          "node_id": "7f0b20d3fa7e7634",
+          "parent_id": "8f59d204cbf9e6e9",
+          "member_ids": [
+            "577fd452dff0adfa"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-029",
+          "node_id": "8f59d204cbf9e6e9",
+          "parent_id": null,
+          "member_ids": [
+            "0e51e1d21d37c85a",
+            "10bcafc69e0c5b61",
+            "116574b85676110c",
+            "120453368180b307",
+            "1c49349ef1c59fc5",
+            "2030d5bee73f1694",
+            "208882beac254461",
+            "2196eea2a73379fb",
+            "283e4bfd010e4097",
+            "2ac76665c8ac0d1f",
+            "33c8d65dae24b54d",
+            "35da581ee87f9808",
+            "3a0b1f49e093eb6e",
+            "3b1bd3c2d0e5c202",
+            "3c1f48075972cce2",
+            "4032481127bba526",
+            "49c3da80b3ab882a",
+            "51464e7f5e0c2cee",
+            "5158f0bae11de811",
+            "530704a980b99a97",
+            "53f2907c0c2106c1",
+            "554300d594775bb1",
+            "577fd452dff0adfa",
+            "61de7bbfbd1edaf5",
+            "64bffb661038a1be",
+            "6a07370cda15a04d",
+            "6dc4f4e228e18c36",
+            "6ef18532675baf14",
+            "77bd4b6f3767371c",
+            "77d3e97a57ca4634",
+            "78db4819aa885cba",
+            "7e057d950aec554a",
+            "851dee41b80fe36d",
+            "870dbc26626e379c",
+            "887cd0805f1cb4d8",
+            "8d60bad64b54e5eb",
+            "8dcd83e5c558f890",
+            "9d2112cc5e651afc",
+            "9da3c5b427d4ea8c",
+            "9e9dc85dfcece52d",
+            "a09eebc3602d5878",
+            "a7df350d1e0725e9",
+            "a9b31af38d7cfc53",
+            "af1176c7022c72e8",
+            "baeccffab6231d0a",
+            "c3327f346eef4be9",
+            "c69a9bbb6a177615",
+            "c83056bc1aa4b833",
+            "c93ef5936d7e7456",
+            "ca68d1abf54235c4",
+            "cbc940067e991338",
+            "d146ffccafe0f16c",
+            "d3ce9b7e50ecfcb0",
+            "dbab2324fd737ea5",
+            "ddcbaaf392f1e5e6",
+            "ee74bff99862f846",
+            "effaa7958da8e659",
+            "f2834d2380ba7d1d",
+            "f73b072b1e68b5fe",
+            "f7fb68e7b5786594",
+            "fa3587e06c96b159",
+            "fd71baba18f7f463",
+            "fe14016f11a19790",
+            "ffe692d662a75054"
+          ]
+        }
+      ],
+      "png_path": "chapters/04-第四章-一次函数-32408f.png",
+      "png_sha256": "c827c5fac7bf08fec87f6b96d4e0629cf47a3fd8d809a67455509ac70c6f325e",
+      "png_dimensions": [
+        2400,
+        523
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-040",
+      "status": "ready",
+      "path": "chapters/05-第五章-二元一次方程组-b2ac1c.canvas",
+      "counts": {
+        "cards": 67,
+        "groups": 16,
+        "edges": 89,
+        "internal_atoms": 53,
+        "source_atoms": 126,
+        "knowledge_atoms": 19,
+        "scenario_atoms": 28,
+        "featured_examples": 6,
+        "exercise_atoms_summarized": 73,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 9,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 72,
+        "concept_relation_edges": 12,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 5,
+        "navigation_nodes": 14,
+        "regions": 8,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 16188,
+        "height": 1888,
+        "aspect_ratio": 8.5742
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 366,
+        "edge_length_median": 800,
+        "edge_length_p90": 7535,
+        "edge_length_max": 11756,
+        "edges_over_2000": 30,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-041",
+          "node_id": "0b615990d70738a9",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "00cf9d8677eb55ac",
+            "18b66b66b78529bc",
+            "3a772bbd9476e3a4",
+            "5c9c7a89aae359af",
+            "5f4e005e56615391",
+            "601ea8714fa75a8d",
+            "bd5b811443168aa5",
+            "bd9025a2acd9cdf6",
+            "d34551cee5e71771"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-2-1",
+          "node_id": "270a73a690ebfd66",
+          "parent_id": "4e440dca6a5784e0",
+          "member_ids": [
+            "080feffd4280107c",
+            "0aa3eb3648890ca6",
+            "4529af0e5d43abd6",
+            "a8283d7ecbb9f196",
+            "b48377c40884097b",
+            "b8bd05fdda4ecd07"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-2-2",
+          "node_id": "5ee9ea538a72f2b1",
+          "parent_id": "4e440dca6a5784e0",
+          "member_ids": [
+            "003eb0ea8af19474",
+            "66a8ffa86b56b576",
+            "a10f78ca8f4ba9ee",
+            "bbe885fcb35d31bf"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-043",
+          "node_id": "4e440dca6a5784e0",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "003eb0ea8af19474",
+            "080feffd4280107c",
+            "0aa3eb3648890ca6",
+            "4529af0e5d43abd6",
+            "66a8ffa86b56b576",
+            "a10f78ca8f4ba9ee",
+            "a8283d7ecbb9f196",
+            "b48377c40884097b",
+            "b8bd05fdda4ecd07",
+            "bbe885fcb35d31bf",
+            "cb2c7e5405ba8b8e"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-3-1",
+          "node_id": "deeea03c61b61787",
+          "parent_id": "a1311eac30526aef",
+          "member_ids": [
+            "066710d7c2463a07",
+            "0bfef1fb1a5e7d9b",
+            "236430a00f456329",
+            "3562fbd8572e28e0",
+            "5cf818a54610e153",
+            "6da6e7e1f8cf4657"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-3-2",
+          "node_id": "0b48f03c995fd095",
+          "parent_id": "a1311eac30526aef",
+          "member_ids": [
+            "5669931ff1b08d9b",
+            "619414c6b6cf68f5",
+            "7ddc5f5f2886dd18",
+            "e33ef45b0866cd8b"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-3-3",
+          "node_id": "8f3ca57421e96df8",
+          "parent_id": "a1311eac30526aef",
+          "member_ids": [
+            "13b4a3b31a2f5e00",
+            "1f388a6fa807201a",
+            "7f5ab5ba92b5f62a",
+            "9e4537e2822de7b2",
+            "e367e7902be31b3b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-045",
+          "node_id": "a1311eac30526aef",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "066710d7c2463a07",
+            "0bfef1fb1a5e7d9b",
+            "13b4a3b31a2f5e00",
+            "1f388a6fa807201a",
+            "236430a00f456329",
+            "3562fbd8572e28e0",
+            "563d003d077ed0b1",
+            "5669931ff1b08d9b",
+            "5cf818a54610e153",
+            "619414c6b6cf68f5",
+            "6da6e7e1f8cf4657",
+            "7ddc5f5f2886dd18",
+            "7f5ab5ba92b5f62a",
+            "9e4537e2822de7b2",
+            "e33ef45b0866cd8b",
+            "e367e7902be31b3b"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-4-1",
+          "node_id": "5f06b10444bdca11",
+          "parent_id": "2383aef135432efb",
+          "member_ids": [
+            "1451e3333eff9018",
+            "3189e2dd6a5da9e2",
+            "85cb8f7649799a4a",
+            "9959b0a446b9f79b",
+            "b0845a7dd1f0c3d9"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-4-2",
+          "node_id": "7985ea9e3af92a88",
+          "parent_id": "2383aef135432efb",
+          "member_ids": [
+            "0860f726efc81fda",
+            "3349aeb1c7beaec0",
+            "3752a34753f26cb1",
+            "f48cfd717ca69ebb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-047",
+          "node_id": "2383aef135432efb",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "0860f726efc81fda",
+            "1451e3333eff9018",
+            "3189e2dd6a5da9e2",
+            "3349aeb1c7beaec0",
+            "3752a34753f26cb1",
+            "85cb8f7649799a4a",
+            "9959b0a446b9f79b",
+            "b0845a7dd1f0c3d9",
+            "c3a34fa81e843c96",
+            "f48cfd717ca69ebb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-049",
+          "node_id": "2c3c0b61a0f54d62",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "074b22406f165993",
+            "1dbd0ca7e00cf324",
+            "2c4abf3650a0e85a",
+            "3489f839f44b202b",
+            "99d4d27e4d7ab0ae",
+            "af3d3be2a4bc07df",
+            "afec36fa6bd0e615",
+            "c258b69f1b3aa311",
+            "f297ac04c1a9b3ba"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-051",
+          "node_id": "af6f6ed84b4ce9f8",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "1b801bb61986f53d",
+            "9366537cc498b2ba",
+            "cbc2078ac9c412f2",
+            "cecaaced74ed5f1a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-052",
+          "node_id": "e31e2bb7c2f0c250",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "7049f23a06b9bdf3",
+            "c917f102b512ecff"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-053",
+          "node_id": "8e8175e9e3f36a9f",
+          "parent_id": "13d52934323cc40c",
+          "member_ids": [
+            "54fc39af7f0a81b7"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-040",
+          "node_id": "13d52934323cc40c",
+          "parent_id": null,
+          "member_ids": [
+            "003eb0ea8af19474",
+            "00cf9d8677eb55ac",
+            "066710d7c2463a07",
+            "074b22406f165993",
+            "080feffd4280107c",
+            "0860f726efc81fda",
+            "0aa3eb3648890ca6",
+            "0bfef1fb1a5e7d9b",
+            "13b4a3b31a2f5e00",
+            "1451e3333eff9018",
+            "18b66b66b78529bc",
+            "1b801bb61986f53d",
+            "1dbd0ca7e00cf324",
+            "1f388a6fa807201a",
+            "236430a00f456329",
+            "2c4abf3650a0e85a",
+            "3189e2dd6a5da9e2",
+            "3349aeb1c7beaec0",
+            "3489f839f44b202b",
+            "3562fbd8572e28e0",
+            "3752a34753f26cb1",
+            "3a772bbd9476e3a4",
+            "3f4a3484fffe7e43",
+            "4529af0e5d43abd6",
+            "54fc39af7f0a81b7",
+            "563d003d077ed0b1",
+            "5669931ff1b08d9b",
+            "5c9c7a89aae359af",
+            "5cf818a54610e153",
+            "5f4e005e56615391",
+            "601ea8714fa75a8d",
+            "619414c6b6cf68f5",
+            "66a8ffa86b56b576",
+            "6da6e7e1f8cf4657",
+            "7049f23a06b9bdf3",
+            "7ddc5f5f2886dd18",
+            "7f5ab5ba92b5f62a",
+            "85cb8f7649799a4a",
+            "9366537cc498b2ba",
+            "9959b0a446b9f79b",
+            "99d4d27e4d7ab0ae",
+            "9e4537e2822de7b2",
+            "a10f78ca8f4ba9ee",
+            "a8283d7ecbb9f196",
+            "af3d3be2a4bc07df",
+            "afec36fa6bd0e615",
+            "b0845a7dd1f0c3d9",
+            "b48377c40884097b",
+            "b8bd05fdda4ecd07",
+            "bbe885fcb35d31bf",
+            "bd5b811443168aa5",
+            "bd9025a2acd9cdf6",
+            "c258b69f1b3aa311",
+            "c25b836bd8ff3cd1",
+            "c3a34fa81e843c96",
+            "c917f102b512ecff",
+            "cb2c7e5405ba8b8e",
+            "cbc2078ac9c412f2",
+            "cecaaced74ed5f1a",
+            "d34551cee5e71771",
+            "e33ef45b0866cd8b",
+            "e367e7902be31b3b",
+            "f297ac04c1a9b3ba",
+            "f48cfd717ca69ebb"
+          ]
+        }
+      ],
+      "png_path": "chapters/05-第五章-二元一次方程组-b2ac1c.png",
+      "png_sha256": "f1c6971d36310b0dcbbd30f7f5be526797114f8d2faf395d67820077f758cc11",
+      "png_dimensions": [
+        2400,
+        301
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-054",
+      "status": "ready",
+      "path": "chapters/06-第六章-数据的分析-b0a9fb.canvas",
+      "counts": {
+        "cards": 49,
+        "groups": 13,
+        "edges": 55,
+        "internal_atoms": 39,
+        "source_atoms": 96,
+        "knowledge_atoms": 12,
+        "scenario_atoms": 23,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 57,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 6,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 44,
+        "concept_relation_edges": 9,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 10,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 9986,
+        "height": 2758,
+        "aspect_ratio": 3.6207
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 24,
+        "edge_length_median": 690,
+        "edge_length_p90": 2185,
+        "edge_length_max": 5998,
+        "edges_over_2000": 7,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-6-1-1",
+          "node_id": "ab8940c08842024e",
+          "parent_id": "07b89f377577e252",
+          "member_ids": [
+            "00e357bcf4e5ed9f",
+            "5c0486feeb38baab",
+            "7f5714c7ffc63074",
+            "a93e69d03a3fb4a0",
+            "ceef1583ab4561b5",
+            "dbb9a862d111a50f"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-1-2",
+          "node_id": "368a35885008aa8a",
+          "parent_id": "07b89f377577e252",
+          "member_ids": [
+            "24f45f0a8e2f61ee",
+            "3cc70224a253a934",
+            "b64736b1179dd501",
+            "c75f31009b2ef6fc",
+            "c985b09508eee569",
+            "ee7cd7dc5c727c76"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-1-3",
+          "node_id": "b5c41e9c833d76c2",
+          "parent_id": "07b89f377577e252",
+          "member_ids": [
+            "56d5061ab8b212c0",
+            "72819834747257c0",
+            "75b67206953a0ea3",
+            "accde50516761ca0",
+            "f0f85266fc37c75e"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-1-4",
+          "node_id": "d4d659a7a0b32e55",
+          "parent_id": "07b89f377577e252",
+          "member_ids": [
+            "1a37e4c638a4ffbe",
+            "c6f4ab137f8af5d4",
+            "f92fd0be8346fdee"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-055",
+          "node_id": "07b89f377577e252",
+          "parent_id": "019a3545dbc8893c",
+          "member_ids": [
+            "00e357bcf4e5ed9f",
+            "1a37e4c638a4ffbe",
+            "2193054159424bd0",
+            "24f45f0a8e2f61ee",
+            "3cc70224a253a934",
+            "56d5061ab8b212c0",
+            "5c0486feeb38baab",
+            "72819834747257c0",
+            "75b67206953a0ea3",
+            "7f5714c7ffc63074",
+            "a93e69d03a3fb4a0",
+            "accde50516761ca0",
+            "b64736b1179dd501",
+            "c6f4ab137f8af5d4",
+            "c75f31009b2ef6fc",
+            "c985b09508eee569",
+            "ceef1583ab4561b5",
+            "dbb9a862d111a50f",
+            "ee7cd7dc5c727c76",
+            "f0f85266fc37c75e",
+            "f92fd0be8346fdee"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-2-1",
+          "node_id": "32f1e3ea4f214335",
+          "parent_id": "6edb51926345edad",
+          "member_ids": [
+            "5b57b17698d6bde8",
+            "ad777c3bd68e1cfd",
+            "b7796f81861ddc39",
+            "c013eae487811898",
+            "d11d8d5be27412ce",
+            "f478230e137ca399"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-2-2",
+          "node_id": "b0effe14d46db2d6",
+          "parent_id": "6edb51926345edad",
+          "member_ids": [
+            "ccf8383294b3fc52",
+            "f04ebdcefa61d48d"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-2-3",
+          "node_id": "a144757aabd74b9b",
+          "parent_id": "6edb51926345edad",
+          "member_ids": [
+            "2ee5ca2c3b6a0ba0",
+            "5b73bf99731b18fc",
+            "835117b191941a0b",
+            "a517fccec106c1e5",
+            "b9548b4958cfa6ab",
+            "ed0294a74ffa220a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-057",
+          "node_id": "6edb51926345edad",
+          "parent_id": "019a3545dbc8893c",
+          "member_ids": [
+            "0c43aaf97bf8e46e",
+            "2ee5ca2c3b6a0ba0",
+            "5b57b17698d6bde8",
+            "5b73bf99731b18fc",
+            "835117b191941a0b",
+            "a517fccec106c1e5",
+            "ad777c3bd68e1cfd",
+            "b7796f81861ddc39",
+            "b9548b4958cfa6ab",
+            "c013eae487811898",
+            "ccf8383294b3fc52",
+            "d11d8d5be27412ce",
+            "ed0294a74ffa220a",
+            "f04ebdcefa61d48d",
+            "f478230e137ca399"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-059",
+          "node_id": "a8d4b487e9da8b0a",
+          "parent_id": "019a3545dbc8893c",
+          "member_ids": [
+            "4630b8571c71ea97",
+            "79e4baa1cb701242",
+            "9ee3acfc6af2e3a3",
+            "a0c3076314d2b28f",
+            "fe0c11b2ed4d2e11"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-061",
+          "node_id": "8c5f47dbda9e9089",
+          "parent_id": "019a3545dbc8893c",
+          "member_ids": [
+            "1922ca207ce40933",
+            "afcfd40a1c71e0b9"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-062",
+          "node_id": "6c158e922f846330",
+          "parent_id": "019a3545dbc8893c",
+          "member_ids": [
+            "b77d96b1f05779c3"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-054",
+          "node_id": "019a3545dbc8893c",
+          "parent_id": null,
+          "member_ids": [
+            "00e357bcf4e5ed9f",
+            "0c43aaf97bf8e46e",
+            "1922ca207ce40933",
+            "1a37e4c638a4ffbe",
+            "2193054159424bd0",
+            "24f45f0a8e2f61ee",
+            "2ee5ca2c3b6a0ba0",
+            "3cc70224a253a934",
+            "4630b8571c71ea97",
+            "56d5061ab8b212c0",
+            "5b57b17698d6bde8",
+            "5b73bf99731b18fc",
+            "5c0486feeb38baab",
+            "7134cdd3095db495",
+            "72819834747257c0",
+            "75b67206953a0ea3",
+            "79e4baa1cb701242",
+            "7f5714c7ffc63074",
+            "835117b191941a0b",
+            "9ee3acfc6af2e3a3",
+            "a0c3076314d2b28f",
+            "a517fccec106c1e5",
+            "a93e69d03a3fb4a0",
+            "accde50516761ca0",
+            "ad777c3bd68e1cfd",
+            "afcfd40a1c71e0b9",
+            "b64736b1179dd501",
+            "b7796f81861ddc39",
+            "b77d96b1f05779c3",
+            "b9548b4958cfa6ab",
+            "c013eae487811898",
+            "c3b6c8511cc7272d",
+            "c6f4ab137f8af5d4",
+            "c75f31009b2ef6fc",
+            "c985b09508eee569",
+            "ccf8383294b3fc52",
+            "ceef1583ab4561b5",
+            "d11d8d5be27412ce",
+            "dbb9a862d111a50f",
+            "ed0294a74ffa220a",
+            "ee7cd7dc5c727c76",
+            "f04ebdcefa61d48d",
+            "f0f85266fc37c75e",
+            "f478230e137ca399",
+            "f92fd0be8346fdee",
+            "fe0c11b2ed4d2e11"
+          ]
+        }
+      ],
+      "png_path": "chapters/06-第六章-数据的分析-b0a9fb.png",
+      "png_sha256": "4130f7e9722b62dc50a3a1c7b1384e407b96842f882214bffd4f3bc58c7f4d95",
+      "png_dimensions": [
+        2400,
+        691
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-063",
+      "status": "ready",
+      "path": "chapters/07-第七章-证明-84e5e1.canvas",
+      "counts": {
+        "cards": 35,
+        "groups": 10,
+        "edges": 41,
+        "internal_atoms": 26,
+        "source_atoms": 64,
+        "knowledge_atoms": 13,
+        "scenario_atoms": 11,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 38,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 6,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 28,
+        "concept_relation_edges": 11,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 9,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 9186,
+        "height": 2270,
+        "aspect_ratio": 4.0467
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 12,
+        "edge_length_median": 455,
+        "edge_length_p90": 1888,
+        "edge_length_max": 6504,
+        "edges_over_2000": 3,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-064",
+          "node_id": "7a15f9470d6e5e26",
+          "parent_id": "e123c13b5845aa66",
+          "member_ids": [
+            "05144e633bcd1293",
+            "8b194b0d188358e4",
+            "aeec5d92933cf31c",
+            "b28694d1f8b3dd79",
+            "f36063c65a7d3f74"
+          ]
+        },
+        {
+          "organizer_key": "topic-7-2-1",
+          "node_id": "0fe962d3b54d1e8c",
+          "parent_id": "e2f7e9cc8b620d4e",
+          "member_ids": [
+            "1b827fc92a296c44",
+            "711f5e0f6a867eba",
+            "82b5ddf5ba056321",
+            "86f648d1e698e303",
+            "c7a4d19ad5480ae6",
+            "eac931e4ca63eea9",
+            "ef2ba7ae404448f7"
+          ]
+        },
+        {
+          "organizer_key": "topic-7-2-2",
+          "node_id": "0422188883d492a6",
+          "parent_id": "e2f7e9cc8b620d4e",
+          "member_ids": [
+            "34dbda589f076654",
+            "8af7b2c885a096ea",
+            "acd76b7edd89f075",
+            "f45c14ccef339b04"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-066",
+          "node_id": "e2f7e9cc8b620d4e",
+          "parent_id": "e123c13b5845aa66",
+          "member_ids": [
+            "1b827fc92a296c44",
+            "34dbda589f076654",
+            "711f5e0f6a867eba",
+            "78e06077d63ea256",
+            "82b5ddf5ba056321",
+            "86f648d1e698e303",
+            "8af7b2c885a096ea",
+            "acd76b7edd89f075",
+            "c7a4d19ad5480ae6",
+            "eac931e4ca63eea9",
+            "ef2ba7ae404448f7",
+            "f45c14ccef339b04"
+          ]
+        },
+        {
+          "organizer_key": "topic-7-3-1",
+          "node_id": "9c17dbf1d40e1910",
+          "parent_id": "164123438db9c833",
+          "member_ids": [
+            "4b045c470a43092a",
+            "5b331c24a536cbfd",
+            "8b7f2b0e6e0d2947",
+            "d5a0d5d2387d38d4"
+          ]
+        },
+        {
+          "organizer_key": "topic-7-3-2",
+          "node_id": "876adb992c988158",
+          "parent_id": "164123438db9c833",
+          "member_ids": [
+            "0606214e57b8aa4e",
+            "1c07dd1605fe2d28",
+            "54b9fcceeb85ad2b",
+            "896e093744d86e0d",
+            "a7e4bb18f370ace0"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-068",
+          "node_id": "164123438db9c833",
+          "parent_id": "e123c13b5845aa66",
+          "member_ids": [
+            "0606214e57b8aa4e",
+            "1c07dd1605fe2d28",
+            "4393b5f8211352f7",
+            "4b045c470a43092a",
+            "54b9fcceeb85ad2b",
+            "5b331c24a536cbfd",
+            "896e093744d86e0d",
+            "8b7f2b0e6e0d2947",
+            "a7e4bb18f370ace0",
+            "d5a0d5d2387d38d4"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-070",
+          "node_id": "9d4d31991650c8a2",
+          "parent_id": "e123c13b5845aa66",
+          "member_ids": [
+            "68c838915aa6bdbd",
+            "cca36a9edd9b4849"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-071",
+          "node_id": "afd57e8095589b60",
+          "parent_id": "e123c13b5845aa66",
+          "member_ids": [
+            "4387ebec71360d45"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-063",
+          "node_id": "e123c13b5845aa66",
+          "parent_id": null,
+          "member_ids": [
+            "05144e633bcd1293",
+            "0606214e57b8aa4e",
+            "170db7451b3d3854",
+            "1b827fc92a296c44",
+            "1c07dd1605fe2d28",
+            "34dbda589f076654",
+            "4387ebec71360d45",
+            "4393b5f8211352f7",
+            "4b045c470a43092a",
+            "54b9fcceeb85ad2b",
+            "5b331c24a536cbfd",
+            "68c838915aa6bdbd",
+            "711f5e0f6a867eba",
+            "78e06077d63ea256",
+            "82b5ddf5ba056321",
+            "841d32e979483359",
+            "86f648d1e698e303",
+            "896e093744d86e0d",
+            "8af7b2c885a096ea",
+            "8b194b0d188358e4",
+            "8b7f2b0e6e0d2947",
+            "a7e4bb18f370ace0",
+            "acd76b7edd89f075",
+            "aeec5d92933cf31c",
+            "b28694d1f8b3dd79",
+            "c7a4d19ad5480ae6",
+            "cca36a9edd9b4849",
+            "d5a0d5d2387d38d4",
+            "eac931e4ca63eea9",
+            "ef2ba7ae404448f7",
+            "f36063c65a7d3f74",
+            "f45c14ccef339b04"
+          ]
+        }
+      ],
+      "png_path": "chapters/07-第七章-证明-84e5e1.png",
+      "png_sha256": "745b8f9e78450c6669e4809463129a1986929c99bd5d4c9206f6fe126f81fe1c",
+      "png_dimensions": [
+        2400,
+        625
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-072",
+      "status": "ready",
+      "path": "chapters/08-综合与实践-bf69b1.canvas",
+      "counts": {
+        "cards": 7,
+        "groups": 3,
+        "edges": 2,
+        "internal_atoms": 2,
+        "source_atoms": 2,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 2,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 2,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 5,
+        "regions": 2,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 1276,
+        "aspect_ratio": 0.9561
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 192,
+        "edge_length_p90": 192,
+        "edge_length_max": 192,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-073",
+          "node_id": "93083ea7da6b0c0b",
+          "parent_id": "d63b5e48de1ef1e7",
+          "member_ids": [
+            "8592769eb5f2a1ae",
+            "ec67e2800e52d7f2"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-074",
+          "node_id": "c40ac2b2d4ca67e8",
+          "parent_id": "d63b5e48de1ef1e7",
+          "member_ids": [
+            "16a125fa762d30d0",
+            "297131d1feb513df"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-072",
+          "node_id": "d63b5e48de1ef1e7",
+          "parent_id": null,
+          "member_ids": [
+            "16a125fa762d30d0",
+            "297131d1feb513df",
+            "8592769eb5f2a1ae",
+            "ec67e2800e52d7f2"
+          ]
+        }
+      ],
+      "png_path": "chapters/08-综合与实践-bf69b1.png",
+      "png_sha256": "3c52e204fcc2eca15251a85efb69163e5624619016bfb4667dc5036d511ac379",
+      "png_dimensions": [
+        2400,
+        2498
+      ]
+    },
+    {
+      "role": "chapter-knowledge-map",
+      "root_key": "node-toc-075",
+      "status": "ready",
+      "path": "chapters/09-学习印记-c84ab0.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 1,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 582,
+        "aspect_ratio": 2.0962
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 192,
+        "edge_length_p90": 192,
+        "edge_length_max": 192,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-075",
+          "node_id": "19076b5245e1ce4c",
+          "parent_id": null,
+          "member_ids": [
+            "87c419f052ad743b",
+            "a7964bc4a5e89a7d"
+          ]
+        }
+      ],
+      "png_path": "chapters/09-学习印记-c84ab0.png",
+      "png_sha256": "407c37694cdf9c0c176dadba21eecb2a2718a9c7b64fbcbd4351e3c7505c7081",
+      "png_dimensions": [
+        2400,
+        1291
+      ]
+    }
+  ],
+  "section_maps": [
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/01-01-章引入-55b0cf.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-001",
+          "node_id": "d8bb4198db846584",
+          "parent_id": null,
+          "member_ids": [
+            "76ee02a471711c61",
+            "98eb2a31e4642839"
+          ]
+        }
+      ],
+      "png_path": "sections/01-01-章引入-55b0cf.png",
+      "png_sha256": "f55dcc5e28a1c1c20b98dab06923d4c00de2c093f1c7b688c1e222aa8dfc5bea",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-002",
+      "status": "ready",
+      "path": "sections/01-02-1-探索勾股定理-f18845.canvas",
+      "counts": {
+        "cards": 16,
+        "groups": 4,
+        "edges": 16,
+        "internal_atoms": 10,
+        "source_atoms": 21,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 6,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 11,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 11,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3688,
+        "height": 880,
+        "aspect_ratio": 4.1909
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 5,
+        "edge_length_median": 455,
+        "edge_length_p90": 1392,
+        "edge_length_max": 2780,
+        "edges_over_2000": 1,
+        "practice_edge_share": 0.1875
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-1-1-1",
+          "node_id": "303612c3870f060c",
+          "parent_id": "1c0e58a8a06940cf",
+          "member_ids": [
+            "1c635e8f28f5a09d",
+            "b53e784aa09b4164",
+            "b69f3b83d3d44400",
+            "d512e2686a3066f7",
+            "feda75e61b36062e"
+          ]
+        },
+        {
+          "organizer_key": "topic-1-1-2",
+          "node_id": "e3a9b7625166daca",
+          "parent_id": "1c0e58a8a06940cf",
+          "member_ids": [
+            "06c69a49871635b8",
+            "0970af91b51e4b21",
+            "0fff28bfa4019394",
+            "17e68ca4cb4ad48f",
+            "5114ab064dcbbe26",
+            "866eb135ab30bf9c",
+            "9c290249cb03ddac"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-003",
+          "node_id": "d00a3d529da9d4a2",
+          "parent_id": "1c0e58a8a06940cf",
+          "member_ids": [
+            "37d637fd4623f8a3"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-002",
+          "node_id": "1c0e58a8a06940cf",
+          "parent_id": null,
+          "member_ids": [
+            "06c69a49871635b8",
+            "0970af91b51e4b21",
+            "0fff28bfa4019394",
+            "17e68ca4cb4ad48f",
+            "1c635e8f28f5a09d",
+            "37d637fd4623f8a3",
+            "5114ab064dcbbe26",
+            "866eb135ab30bf9c",
+            "9c290249cb03ddac",
+            "b53e784aa09b4164",
+            "b69f3b83d3d44400",
+            "d512e2686a3066f7",
+            "feda75e61b36062e"
+          ]
+        }
+      ],
+      "png_path": "sections/01-02-1-探索勾股定理-f18845.png",
+      "png_sha256": "8ad6e50b4f00fc6b276385db4c02ff95c06a3351c71c853e78493e40fb7445ea",
+      "png_dimensions": [
+        2400,
+        649
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-004",
+      "status": "ready",
+      "path": "sections/01-03-2-一定是直角三角形吗-43a38d.canvas",
+      "counts": {
+        "cards": 10,
+        "groups": 2,
+        "edges": 6,
+        "internal_atoms": 5,
+        "source_atoms": 12,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 3,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 7,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 4,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 804,
+        "aspect_ratio": 1.6716
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 455,
+        "edge_length_p90": 468,
+        "edge_length_max": 520,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.3333
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-005",
+          "node_id": "3f0460ab440e47bb",
+          "parent_id": "5b1b68c2905f5882",
+          "member_ids": [
+            "9a86d35a2df58ad2"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-004",
+          "node_id": "5b1b68c2905f5882",
+          "parent_id": null,
+          "member_ids": [
+            "06d2378d66392a3a",
+            "5b91f19405fcefea",
+            "6d395540279d0c6d",
+            "7c9abb90625471a2",
+            "9a86d35a2df58ad2",
+            "b3aabb8086fdf824",
+            "c03c9f5c25a7d17f"
+          ]
+        }
+      ],
+      "png_path": "sections/01-03-2-一定是直角三角形吗-43a38d.png",
+      "png_sha256": "56f078d8c7aacbd3e730cb309333cdc013038aa68b6662615b2338bc5403a015",
+      "png_dimensions": [
+        2400,
+        1539
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-006",
+      "status": "ready",
+      "path": "sections/01-04-3-勾股定理的应用-91847a.canvas",
+      "counts": {
+        "cards": 9,
+        "groups": 2,
+        "edges": 3,
+        "internal_atoms": 3,
+        "source_atoms": 8,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 2,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 5,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 1150,
+        "aspect_ratio": 1.0609
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 179,
+        "edge_length_p90": 179,
+        "edge_length_max": 311,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-007",
+          "node_id": "f20fce6bcaad08ad",
+          "parent_id": "4d0dab08fbf4a606",
+          "member_ids": [
+            "74881a24fb7c6a74"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-006",
+          "node_id": "4d0dab08fbf4a606",
+          "parent_id": null,
+          "member_ids": [
+            "2944775e816dcb9d",
+            "5e4e54f33c5d0257",
+            "6cd17804c619d769",
+            "7115549cc75319a3",
+            "74881a24fb7c6a74",
+            "7fff0a1511882bf0"
+          ]
+        }
+      ],
+      "png_path": "sections/01-04-3-勾股定理的应用-91847a.png",
+      "png_sha256": "9cff0dc44133cd85d7bb64ef59a8368055399900795bfd730931e39a143a059c",
+      "png_dimensions": [
+        2400,
+        2279
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-008",
+      "status": "ready",
+      "path": "sections/01-05-问题解决策略-反思-f97971.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 3,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 2,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 1,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 560,
+        "aspect_ratio": 2.1786
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 179,
+        "edge_length_p90": 179,
+        "edge_length_max": 179,
+        "edges_over_2000": 0,
+        "practice_edge_share": 1.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-008",
+          "node_id": "e39fc9839344d4ec",
+          "parent_id": null,
+          "member_ids": [
+            "60624f2df595397f",
+            "d08ed580e3407cc3"
+          ]
+        }
+      ],
+      "png_path": "sections/01-05-问题解决策略-反思-f97971.png",
+      "png_sha256": "04f44b9a2bd1a9c6aaca3d23a9e1a7799809f0e761d12d1199d594476b02c3af",
+      "png_dimensions": [
+        2400,
+        1253
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-009",
+      "status": "ready",
+      "path": "sections/01-06-回顾与思考-8b1d45.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-009",
+          "node_id": "804960d8d880a3dc",
+          "parent_id": null,
+          "member_ids": [
+            "757389dd3b334253",
+            "f5857e9c21043c17"
+          ]
+        }
+      ],
+      "png_path": "sections/01-06-回顾与思考-8b1d45.png",
+      "png_sha256": "0ae0a9ad383af8fbb5198aebadf2c0699385fc5a2e6f4e93f662ea6200725253",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-001",
+      "root_key": "node-toc-010",
+      "status": "ready",
+      "path": "sections/01-07-复习题-70ee63.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 15,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 15,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-010",
+          "node_id": "7a90d4892e79d99f",
+          "parent_id": null,
+          "member_ids": [
+            "24118256bb547b1e"
+          ]
+        }
+      ],
+      "png_path": "sections/01-07-复习题-70ee63.png",
+      "png_sha256": "743ccdeba75bda0512786fdd18844e8eb8cb1c54f6c893ccde58dde7f6bce393",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/02-01-章引入-edf1c8.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-011",
+          "node_id": "1c9aa0286c8a2976",
+          "parent_id": null,
+          "member_ids": [
+            "9dba392112a99a4a",
+            "e18a99e9036465bf"
+          ]
+        }
+      ],
+      "png_path": "sections/02-01-章引入-edf1c8.png",
+      "png_sha256": "9af3d78cdab9d06435b210d7f928966bcfb3d344029ccf7e82a12a2606509423",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-012",
+      "status": "ready",
+      "path": "sections/02-02-1-认识实数-bb4664.canvas",
+      "counts": {
+        "cards": 19,
+        "groups": 4,
+        "edges": 19,
+        "internal_atoms": 13,
+        "source_atoms": 24,
+        "knowledge_atoms": 7,
+        "scenario_atoms": 5,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 11,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 14,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3024,
+        "height": 1422,
+        "aspect_ratio": 2.1266
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 19,
+        "edge_length_median": 511,
+        "edge_length_p90": 874,
+        "edge_length_max": 1828,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.1579
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-2-1-1",
+          "node_id": "91c8f5b4ab2ef00d",
+          "parent_id": "712ee5dcfd6e1dd3",
+          "member_ids": [
+            "13644aa3155fe505",
+            "3554c0fc721e302d",
+            "7cf95094a33a5be4",
+            "b32a473b87655056",
+            "c38d1569f680e0f2",
+            "cf330fb4f365e5a9"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-1-2",
+          "node_id": "d43eb4160ca5df51",
+          "parent_id": "712ee5dcfd6e1dd3",
+          "member_ids": [
+            "0b123fd7abca7504",
+            "17eabba8ee7065cd",
+            "1c97b3316e273866",
+            "399f8ad0f8f75b73",
+            "92fbc95942f33f48",
+            "c4469b8829b3a8a9",
+            "e095b2f25c4acb6f",
+            "e935b2279c9dec05",
+            "eb3139e698052c0b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-013",
+          "node_id": "5d9e5fc888b17935",
+          "parent_id": "712ee5dcfd6e1dd3",
+          "member_ids": [
+            "ff3700971c8924ea"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-012",
+          "node_id": "712ee5dcfd6e1dd3",
+          "parent_id": null,
+          "member_ids": [
+            "0b123fd7abca7504",
+            "13644aa3155fe505",
+            "17eabba8ee7065cd",
+            "1c97b3316e273866",
+            "3554c0fc721e302d",
+            "399f8ad0f8f75b73",
+            "7cf95094a33a5be4",
+            "92fbc95942f33f48",
+            "b32a473b87655056",
+            "c38d1569f680e0f2",
+            "c4469b8829b3a8a9",
+            "cf330fb4f365e5a9",
+            "e095b2f25c4acb6f",
+            "e935b2279c9dec05",
+            "eb3139e698052c0b",
+            "ff3700971c8924ea"
+          ]
+        }
+      ],
+      "png_path": "sections/02-02-1-认识实数-bb4664.png",
+      "png_sha256": "eedc4360d147c7c53ee56647f46ed86be05aca5ca85d05699517e970880e87cd",
+      "png_dimensions": [
+        2400,
+        1193
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-014",
+      "status": "ready",
+      "path": "sections/02-03-2-平方根与立方根-27329a.canvas",
+      "counts": {
+        "cards": 34,
+        "groups": 6,
+        "edges": 38,
+        "internal_atoms": 25,
+        "source_atoms": 60,
+        "knowledge_atoms": 8,
+        "scenario_atoms": 10,
+        "featured_examples": 7,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 35,
+        "exercise_portals": 0,
+        "exercise_organizers": 5,
+        "exercise_relation_edges": 5,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 25,
+        "concept_relation_edges": 7,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 7732,
+        "height": 880,
+        "aspect_ratio": 8.7864
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 5,
+        "edge_length_median": 455,
+        "edge_length_p90": 974,
+        "edge_length_max": 1876,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.1316
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-2-2-1",
+          "node_id": "f1922afb65d9ee95",
+          "parent_id": "fdd27008ae3fe4ba",
+          "member_ids": [
+            "282346e4b473bea9",
+            "41d422108673b402",
+            "496d8a4f2f6e6e63",
+            "519d9137b4f774ea",
+            "6e3afc073d6841af",
+            "80ee444fba5fe5bc",
+            "ca6fc23fd70364e3"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-2",
+          "node_id": "64b8bc6511c7ebbe",
+          "parent_id": "fdd27008ae3fe4ba",
+          "member_ids": [
+            "0a598c19d9202375",
+            "21be9bc5e57193b7",
+            "6a5ee24396227e70",
+            "d2393459614d10d4",
+            "dad099fe22b75373",
+            "ee1e1df48dc017b0",
+            "fb4bf0e552bdfe05"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-3",
+          "node_id": "8e832ab965003140",
+          "parent_id": "fdd27008ae3fe4ba",
+          "member_ids": [
+            "5798826f242eac39",
+            "611ad34fe01f7e57",
+            "6fa3d07f607c5392",
+            "8787c78278ef338d",
+            "b5cfa52386e1af65",
+            "c2fe483bb6855c0f",
+            "c54ca52b1ed91f0e",
+            "d3540db76447e390"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-2-4",
+          "node_id": "06feaca2d665937b",
+          "parent_id": "fdd27008ae3fe4ba",
+          "member_ids": [
+            "44e464ae6371c1ef",
+            "60ce3561a9eced4d",
+            "72caee4a4c04ea54",
+            "7e75584b48ae8116",
+            "ac2676f7c70ae2a9",
+            "b8bb8bfe1bdfea13",
+            "c7b69546a03c214f"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-015",
+          "node_id": "9727d58059f8389d",
+          "parent_id": "fdd27008ae3fe4ba",
+          "member_ids": [
+            "175fadc38bf04c75",
+            "89cd07504f822989"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-014",
+          "node_id": "fdd27008ae3fe4ba",
+          "parent_id": null,
+          "member_ids": [
+            "0a598c19d9202375",
+            "175fadc38bf04c75",
+            "21be9bc5e57193b7",
+            "282346e4b473bea9",
+            "41d422108673b402",
+            "44e464ae6371c1ef",
+            "496d8a4f2f6e6e63",
+            "519d9137b4f774ea",
+            "5798826f242eac39",
+            "60ce3561a9eced4d",
+            "611ad34fe01f7e57",
+            "6a5ee24396227e70",
+            "6e3afc073d6841af",
+            "6fa3d07f607c5392",
+            "72caee4a4c04ea54",
+            "7e75584b48ae8116",
+            "80ee444fba5fe5bc",
+            "8787c78278ef338d",
+            "89cd07504f822989",
+            "ac2676f7c70ae2a9",
+            "b5cfa52386e1af65",
+            "b8bb8bfe1bdfea13",
+            "c2fe483bb6855c0f",
+            "c54ca52b1ed91f0e",
+            "c7b69546a03c214f",
+            "ca6fc23fd70364e3",
+            "d2393459614d10d4",
+            "d3540db76447e390",
+            "dad099fe22b75373",
+            "ee1e1df48dc017b0",
+            "fb4bf0e552bdfe05"
+          ]
+        }
+      ],
+      "png_path": "sections/02-03-2-平方根与立方根-27329a.png",
+      "png_sha256": "66370efa6b067f8b4075ec7ece3228d9e0cb08a5fcc20a4f07d4ff343dbce952",
+      "png_dimensions": [
+        2400,
+        317
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-016",
+      "status": "ready",
+      "path": "sections/02-04-3-二次根式-24ed9f.canvas",
+      "counts": {
+        "cards": 23,
+        "groups": 4,
+        "edges": 33,
+        "internal_atoms": 16,
+        "source_atoms": 32,
+        "knowledge_atoms": 5,
+        "scenario_atoms": 5,
+        "featured_examples": 6,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 16,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 25,
+        "concept_relation_edges": 4,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3798,
+        "height": 880,
+        "aspect_ratio": 4.3159
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 71,
+        "edge_length_median": 575,
+        "edge_length_p90": 2085,
+        "edge_length_max": 2783,
+        "edges_over_2000": 5,
+        "practice_edge_share": 0.0606
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-2-3-1",
+          "node_id": "f4fdffe01ce996d3",
+          "parent_id": "d645c253582d36b7",
+          "member_ids": [
+            "10373c3a6300ff0f",
+            "5209004dfee381e9",
+            "60c3135b059a0827",
+            "6d5ba5da92994c0a",
+            "ca38403a03c24895",
+            "ed920a647a444949"
+          ]
+        },
+        {
+          "organizer_key": "topic-2-3-2",
+          "node_id": "18c7c5c24a067191",
+          "parent_id": "d645c253582d36b7",
+          "member_ids": [
+            "0d603dc4ca6c1d84",
+            "1388df3a997e63d2",
+            "2f1eeb2c3c6863dc",
+            "5b841a27ecbc8e65",
+            "7114936c975312e8",
+            "771964c232c7c800",
+            "7a85ac43c0af43af",
+            "7fbb8ba806896804",
+            "998044b2df213b58",
+            "aa535c618e594803",
+            "adf92eb378bcccf7",
+            "bbf3321dd869c5fa",
+            "d30bbb0df1ad6706"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-017",
+          "node_id": "698d98a1a81f25ec",
+          "parent_id": "d645c253582d36b7",
+          "member_ids": [
+            "090e7d7519db659a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-016",
+          "node_id": "d645c253582d36b7",
+          "parent_id": null,
+          "member_ids": [
+            "090e7d7519db659a",
+            "0d603dc4ca6c1d84",
+            "10373c3a6300ff0f",
+            "1388df3a997e63d2",
+            "2f1eeb2c3c6863dc",
+            "5209004dfee381e9",
+            "5b841a27ecbc8e65",
+            "60c3135b059a0827",
+            "6d5ba5da92994c0a",
+            "7114936c975312e8",
+            "771964c232c7c800",
+            "7a85ac43c0af43af",
+            "7fbb8ba806896804",
+            "998044b2df213b58",
+            "aa535c618e594803",
+            "adf92eb378bcccf7",
+            "bbf3321dd869c5fa",
+            "ca38403a03c24895",
+            "d30bbb0df1ad6706",
+            "ed920a647a444949"
+          ]
+        }
+      ],
+      "png_path": "sections/02-04-3-二次根式-24ed9f.png",
+      "png_sha256": "ce1bb5dcddc13a1ae2c96c3a0af916014df594f895da752a8c2b859dbc61f6cb",
+      "png_dimensions": [
+        2400,
+        631
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-018",
+      "status": "ready",
+      "path": "sections/02-05-回顾与思考-2d137a.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-018",
+          "node_id": "5c9453e45b32858a",
+          "parent_id": null,
+          "member_ids": [
+            "0c82c8c7c2063782",
+            "ddd80763509fa586"
+          ]
+        }
+      ],
+      "png_path": "sections/02-05-回顾与思考-2d137a.png",
+      "png_sha256": "cae6fd2e3c48c9014e59c652004d1590f80f2af1e3f8cf6eba5b29c77364bc84",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-011",
+      "root_key": "node-toc-019",
+      "status": "ready",
+      "path": "sections/02-06-复习题-6ec0d9.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 22,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 21,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 1,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 560,
+        "aspect_ratio": 2.1786
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 179,
+        "edge_length_p90": 179,
+        "edge_length_max": 179,
+        "edges_over_2000": 0,
+        "practice_edge_share": 1.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-019",
+          "node_id": "2e3790dcab6c7bb7",
+          "parent_id": null,
+          "member_ids": [
+            "1b2bbaa262b5dc10",
+            "cd0728f3ba60cd6a"
+          ]
+        }
+      ],
+      "png_path": "sections/02-06-复习题-6ec0d9.png",
+      "png_sha256": "af6e20a0ed54ad4471c3aff635b7248de51a2b980683a6dab713408ed2594c8d",
+      "png_dimensions": [
+        2400,
+        1253
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-020",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/03-01-章引入-b225c0.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-020",
+          "node_id": "90fef91fef4e9b91",
+          "parent_id": null,
+          "member_ids": [
+            "1ac74a5842f67751",
+            "8233dd3a5f227a84"
+          ]
+        }
+      ],
+      "png_path": "sections/03-01-章引入-b225c0.png",
+      "png_sha256": "1a729fc808adbca72372be7ad3e13b0d4a18552bf1c73113e6c8ff4d0727f644",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-020",
+      "root_key": "node-toc-021",
+      "status": "ready",
+      "path": "sections/03-02-1-确定位置-910844.canvas",
+      "counts": {
+        "cards": 13,
+        "groups": 2,
+        "edges": 8,
+        "internal_atoms": 7,
+        "source_atoms": 12,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 4,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 5,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 3,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 2,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1284,
+        "height": 930,
+        "aspect_ratio": 1.3806
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 387,
+        "edge_length_p90": 527,
+        "edge_length_max": 543,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.25
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-022",
+          "node_id": "6a5c461122f61fdb",
+          "parent_id": "1e88a41330ca67b1",
+          "member_ids": [
+            "ee85b77575bab8c9"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-021",
+          "node_id": "1e88a41330ca67b1",
+          "parent_id": null,
+          "member_ids": [
+            "02d74962fe7128fd",
+            "1fd50eb53d07dc13",
+            "62a5b3de0c50c9a8",
+            "8b9cd154e96d4a68",
+            "91b3a4258ea8caf6",
+            "9be7969abf65ef1c",
+            "d2fdc24aa6f3825b",
+            "d82c58faa956c367",
+            "d915863c94c71400",
+            "ee85b77575bab8c9"
+          ]
+        }
+      ],
+      "png_path": "sections/03-02-1-确定位置-910844.png",
+      "png_sha256": "8fc02da7879071b2c7c885ac292afab5ef3e674d455c41126fc504a77f47a4c0",
+      "png_dimensions": [
+        2400,
+        1812
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-020",
+      "root_key": "node-toc-023",
+      "status": "ready",
+      "path": "sections/03-03-2-平面直角坐标系-f49246.canvas",
+      "counts": {
+        "cards": 24,
+        "groups": 5,
+        "edges": 20,
+        "internal_atoms": 14,
+        "source_atoms": 30,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 8,
+        "featured_examples": 4,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 16,
+        "exercise_portals": 0,
+        "exercise_organizers": 4,
+        "exercise_relation_edges": 4,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 9,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 6,
+        "navigation_nodes": 6,
+        "regions": 4,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2716,
+        "height": 4108,
+        "aspect_ratio": 0.6611
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 14,
+        "edge_length_median": 508,
+        "edge_length_p90": 1481,
+        "edge_length_max": 1882,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.2
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-3-2-1",
+          "node_id": "c99b0cc438f0751e",
+          "parent_id": "31f00255344bc10f",
+          "member_ids": [
+            "59d70a591833a00f",
+            "676107c2288b1238",
+            "6ae637e90a04c0ec",
+            "8a847c0430c62d6f",
+            "a1c09dd067e7ba4c",
+            "b45ab65a3d756e5c",
+            "dc8ad2f166361531",
+            "fb0d6930cb2b769d"
+          ]
+        },
+        {
+          "organizer_key": "topic-3-2-2",
+          "node_id": "36613fbc879d30cc",
+          "parent_id": "31f00255344bc10f",
+          "member_ids": [
+            "34a3206120fb0097",
+            "8c78e6559b54df7a",
+            "8dc02933dddf46b8",
+            "a5b3a870613b5973",
+            "de2a178690a254ff"
+          ]
+        },
+        {
+          "organizer_key": "topic-3-2-3",
+          "node_id": "df84ea2170c05c5a",
+          "parent_id": "31f00255344bc10f",
+          "member_ids": [
+            "599e26445e4c4501",
+            "75b2150769dba735",
+            "82b264d997f57d0b",
+            "b2faf8518d2713d8",
+            "d29ce1b33693673a",
+            "db3cb4d623452df8",
+            "e1288356d7fd3387"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-024",
+          "node_id": "8ba420f61c101786",
+          "parent_id": "31f00255344bc10f",
+          "member_ids": [
+            "0e69581c825c9c4b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-023",
+          "node_id": "31f00255344bc10f",
+          "parent_id": null,
+          "member_ids": [
+            "0e69581c825c9c4b",
+            "34a3206120fb0097",
+            "599e26445e4c4501",
+            "59d70a591833a00f",
+            "676107c2288b1238",
+            "6ae637e90a04c0ec",
+            "75b2150769dba735",
+            "82b264d997f57d0b",
+            "8a847c0430c62d6f",
+            "8c78e6559b54df7a",
+            "8dc02933dddf46b8",
+            "a1c09dd067e7ba4c",
+            "a5b3a870613b5973",
+            "b2faf8518d2713d8",
+            "b45ab65a3d756e5c",
+            "d29ce1b33693673a",
+            "db3cb4d623452df8",
+            "dc8ad2f166361531",
+            "de2a178690a254ff",
+            "e1288356d7fd3387",
+            "fb0d6930cb2b769d"
+          ]
+        }
+      ],
+      "png_path": "sections/03-03-2-平面直角坐标系-f49246.png",
+      "png_sha256": "e45cd96b61be21d9b7dc432162a1f3728dedabe792414fe7c030d9cf233358d4",
+      "png_dimensions": [
+        2400,
+        3562
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-020",
+      "root_key": "node-toc-025",
+      "status": "ready",
+      "path": "sections/03-04-3-轴对称与坐标变化-323c84.canvas",
+      "counts": {
+        "cards": 11,
+        "groups": 2,
+        "edges": 9,
+        "internal_atoms": 6,
+        "source_atoms": 11,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 4,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 5,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 6,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2184,
+        "height": 754,
+        "aspect_ratio": 2.8966
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 456,
+        "edge_length_p90": 577,
+        "edge_length_max": 840,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.2222
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-026",
+          "node_id": "90c8932ac3bae2a4",
+          "parent_id": "585b864d78b0bc26",
+          "member_ids": [
+            "717409edc932508c"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-025",
+          "node_id": "585b864d78b0bc26",
+          "parent_id": null,
+          "member_ids": [
+            "0c4c5a4edf9d79ea",
+            "1532a275e8246263",
+            "1e0230bcd405f8b3",
+            "591171378998edc3",
+            "717409edc932508c",
+            "b3355458dd24f929",
+            "cd57d099eeb70f32",
+            "ea35a467fe7f175b"
+          ]
+        }
+      ],
+      "png_path": "sections/03-04-3-轴对称与坐标变化-323c84.png",
+      "png_sha256": "dffdeae8f03ad1138f47ae0b2f165f8b955d06635fa6a9afed5900f6e0e3c53e",
+      "png_dimensions": [
+        2400,
+        936
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-020",
+      "root_key": "node-toc-027",
+      "status": "ready",
+      "path": "sections/03-05-回顾与思考-051eed.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-027",
+          "node_id": "24886d6fb93b8d24",
+          "parent_id": null,
+          "member_ids": [
+            "432a92fd4ca03367",
+            "f66fae2baa275619"
+          ]
+        }
+      ],
+      "png_path": "sections/03-05-回顾与思考-051eed.png",
+      "png_sha256": "426b2a811eddc7f63195a84ce4b5362fa851b033d15699fcb40fb0d7cf231faf",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-020",
+      "root_key": "node-toc-028",
+      "status": "ready",
+      "path": "sections/03-06-复习题-315ca3.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 10,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 10,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-028",
+          "node_id": "27665d2fd8896d79",
+          "parent_id": null,
+          "member_ids": [
+            "f70e1716cdf9fc0a"
+          ]
+        }
+      ],
+      "png_path": "sections/03-06-复习题-315ca3.png",
+      "png_sha256": "743ccdeba75bda0512786fdd18844e8eb8cb1c54f6c893ccde58dde7f6bce393",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/04-01-章引入-b1206a.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-029",
+          "node_id": "6657ac70f344d896",
+          "parent_id": null,
+          "member_ids": [
+            "baeccffab6231d0a",
+            "ea9efab9c1a6943f"
+          ]
+        }
+      ],
+      "png_path": "sections/04-01-章引入-b1206a.png",
+      "png_sha256": "86c2d88739167a11a8836d3257dd4d9e012e563b78f7974fc2fb891c661268d3",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "node-toc-030",
+      "status": "ready",
+      "path": "sections/04-02-1-函数-77c1ef.canvas",
+      "counts": {
+        "cards": 12,
+        "groups": 2,
+        "edges": 8,
+        "internal_atoms": 6,
+        "source_atoms": 11,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 4,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 5,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 4,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1694,
+        "height": 920,
+        "aspect_ratio": 1.8413
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 5,
+        "edge_length_median": 452,
+        "edge_length_p90": 856,
+        "edge_length_max": 1339,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.25
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-031",
+          "node_id": "9f29cfd37a686778",
+          "parent_id": "d83dfe88a3364217",
+          "member_ids": [
+            "58cbec5c1c065381"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-030",
+          "node_id": "d83dfe88a3364217",
+          "parent_id": null,
+          "member_ids": [
+            "17ecc483e333069f",
+            "2196eea2a73379fb",
+            "283e4bfd010e4097",
+            "3e51dd97b1eff4ed",
+            "4032481127bba526",
+            "5158f0bae11de811",
+            "58cbec5c1c065381",
+            "870dbc26626e379c",
+            "ca68d1abf54235c4"
+          ]
+        }
+      ],
+      "png_path": "sections/04-02-1-函数-77c1ef.png",
+      "png_sha256": "ac46262238174ad4bf575b075a11be607f540898904729f9a52189af193546ce",
+      "png_dimensions": [
+        2400,
+        1399
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "node-toc-032",
+      "status": "ready",
+      "path": "sections/04-03-2-认识一次函数-77499b.canvas",
+      "counts": {
+        "cards": 25,
+        "groups": 5,
+        "edges": 25,
+        "internal_atoms": 17,
+        "source_atoms": 34,
+        "knowledge_atoms": 4,
+        "scenario_atoms": 10,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 17,
+        "exercise_portals": 0,
+        "exercise_organizers": 4,
+        "exercise_relation_edges": 4,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 18,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 4,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 4288,
+        "height": 2156,
+        "aspect_ratio": 1.9889
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 9,
+        "edge_length_median": 456,
+        "edge_length_p90": 1515,
+        "edge_length_max": 3000,
+        "edges_over_2000": 1,
+        "practice_edge_share": 0.16
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-4-2-1",
+          "node_id": "c32954761c01fc55",
+          "parent_id": "1121dfcfc4776ba3",
+          "member_ids": [
+            "2da59728c9e7ba5b",
+            "61de7bbfbd1edaf5",
+            "6dc4f4e228e18c36",
+            "8d60bad64b54e5eb",
+            "9da3c5b427d4ea8c",
+            "a7df350d1e0725e9",
+            "d146ffccafe0f16c",
+            "fd71baba18f7f463"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-2-2",
+          "node_id": "8c44ffa1b7a83f01",
+          "parent_id": "1121dfcfc4776ba3",
+          "member_ids": [
+            "1d6fc9b6d7511c1e",
+            "208882beac254461",
+            "33c8d65dae24b54d",
+            "78db4819aa885cba",
+            "9e9dc85dfcece52d",
+            "f73b072b1e68b5fe",
+            "fa3587e06c96b159"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-2-3",
+          "node_id": "d5a59c792d7ee3b3",
+          "parent_id": "1121dfcfc4776ba3",
+          "member_ids": [
+            "2ac76665c8ac0d1f",
+            "554300d594775bb1",
+            "56b93e2faeee47d0",
+            "6ded78c69d05eb88",
+            "7e057d950aec554a",
+            "dbab2324fd737ea5"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-033",
+          "node_id": "02c9be7ae0501258",
+          "parent_id": "1121dfcfc4776ba3",
+          "member_ids": [
+            "78a25a36c851fd85"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-032",
+          "node_id": "1121dfcfc4776ba3",
+          "parent_id": null,
+          "member_ids": [
+            "1d6fc9b6d7511c1e",
+            "208882beac254461",
+            "2ac76665c8ac0d1f",
+            "2da59728c9e7ba5b",
+            "33c8d65dae24b54d",
+            "554300d594775bb1",
+            "56b93e2faeee47d0",
+            "61de7bbfbd1edaf5",
+            "6dc4f4e228e18c36",
+            "6ded78c69d05eb88",
+            "78a25a36c851fd85",
+            "78db4819aa885cba",
+            "7e057d950aec554a",
+            "8d60bad64b54e5eb",
+            "9da3c5b427d4ea8c",
+            "9e9dc85dfcece52d",
+            "a7df350d1e0725e9",
+            "d146ffccafe0f16c",
+            "dbab2324fd737ea5",
+            "f73b072b1e68b5fe",
+            "fa3587e06c96b159",
+            "fd71baba18f7f463"
+          ]
+        }
+      ],
+      "png_path": "sections/04-03-2-认识一次函数-77499b.png",
+      "png_sha256": "ba1a78bcd101beb9f62e233527195759ad1a169f4f0359a1f359f0273c3b323d",
+      "png_dimensions": [
+        2400,
+        1250
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "node-toc-034",
+      "status": "ready",
+      "path": "sections/04-04-3-一次函数的图象-8db754.canvas",
+      "counts": {
+        "cards": 22,
+        "groups": 4,
+        "edges": 21,
+        "internal_atoms": 15,
+        "source_atoms": 28,
+        "knowledge_atoms": 6,
+        "scenario_atoms": 9,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 13,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 13,
+        "concept_relation_edges": 4,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 6804,
+        "height": 1256,
+        "aspect_ratio": 5.4172
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 4,
+        "edge_length_median": 420,
+        "edge_length_p90": 1376,
+        "edge_length_max": 6313,
+        "edges_over_2000": 1,
+        "practice_edge_share": 0.1429
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-4-3-1",
+          "node_id": "7ad2fd3e7167a79d",
+          "parent_id": "bbb9c768b1b4f897",
+          "member_ids": [
+            "0e51e1d21d37c85a",
+            "10bcafc69e0c5b61",
+            "53f2907c0c2106c1",
+            "77d3e97a57ca4634",
+            "887cd0805f1cb4d8",
+            "a9b31af38d7cfc53",
+            "c2e632cc54eb0259",
+            "c69a9bbb6a177615",
+            "c93ef5936d7e7456",
+            "ee74bff99862f846"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-3-2",
+          "node_id": "e7af64f78b72b85f",
+          "parent_id": "bbb9c768b1b4f897",
+          "member_ids": [
+            "116574b85676110c",
+            "3a0b1f49e093eb6e",
+            "3c1f48075972cce2",
+            "49c3da80b3ab882a",
+            "675881b0defb3820",
+            "7000c8cf42496060",
+            "a09eebc3602d5878",
+            "c83056bc1aa4b833"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-035",
+          "node_id": "1cba0cda9bb7d096",
+          "parent_id": "bbb9c768b1b4f897",
+          "member_ids": [
+            "87bf0bc830ee6b7a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-034",
+          "node_id": "bbb9c768b1b4f897",
+          "parent_id": null,
+          "member_ids": [
+            "0e51e1d21d37c85a",
+            "10bcafc69e0c5b61",
+            "116574b85676110c",
+            "3a0b1f49e093eb6e",
+            "3c1f48075972cce2",
+            "49c3da80b3ab882a",
+            "53f2907c0c2106c1",
+            "675881b0defb3820",
+            "7000c8cf42496060",
+            "77d3e97a57ca4634",
+            "87bf0bc830ee6b7a",
+            "887cd0805f1cb4d8",
+            "a09eebc3602d5878",
+            "a9b31af38d7cfc53",
+            "c2e632cc54eb0259",
+            "c69a9bbb6a177615",
+            "c83056bc1aa4b833",
+            "c93ef5936d7e7456",
+            "ee74bff99862f846"
+          ]
+        }
+      ],
+      "png_path": "sections/04-04-3-一次函数的图象-8db754.png",
+      "png_sha256": "ab1f009ba18c43f67d95222463210c062b4eba157e13a5edf4292d16b532be4f",
+      "png_dimensions": [
+        2400,
+        488
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "node-toc-036",
+      "status": "ready",
+      "path": "sections/04-05-4-一次函数的应用-52d2c8.canvas",
+      "counts": {
+        "cards": 22,
+        "groups": 5,
+        "edges": 15,
+        "internal_atoms": 13,
+        "source_atoms": 29,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 9,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 16,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 4,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 6,
+        "navigation_nodes": 6,
+        "regions": 4,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3036,
+        "height": 1974,
+        "aspect_ratio": 1.538
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 1,
+        "edge_length_median": 452,
+        "edge_length_p90": 774,
+        "edge_length_max": 1999,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.1333
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-4-4-1",
+          "node_id": "31214257ff595396",
+          "parent_id": "819e3c2c3896f622",
+          "member_ids": [
+            "120453368180b307",
+            "51464e7f5e0c2cee",
+            "64bffb661038a1be",
+            "77d83f48e5ad1a85",
+            "b942d8b420d14bc5",
+            "f2834d2380ba7d1d"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-4-2",
+          "node_id": "76c7ef209fa353d4",
+          "parent_id": "819e3c2c3896f622",
+          "member_ids": [
+            "1c49349ef1c59fc5",
+            "3b1bd3c2d0e5c202",
+            "478282bb6ef49969",
+            "6a07370cda15a04d",
+            "77bd4b6f3767371c",
+            "d4e6c62c62da1ce6",
+            "effaa7958da8e659"
+          ]
+        },
+        {
+          "organizer_key": "topic-4-4-3",
+          "node_id": "2de0bd231b5cc5eb",
+          "parent_id": "819e3c2c3896f622",
+          "member_ids": [
+            "530704a980b99a97",
+            "851dee41b80fe36d",
+            "c1ea09c2b8e40ea8",
+            "cbc940067e991338",
+            "ffe692d662a75054"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-037",
+          "node_id": "a0a7eb767f8c9d59",
+          "parent_id": "819e3c2c3896f622",
+          "member_ids": [
+            "2f3d5b228b934475"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-036",
+          "node_id": "819e3c2c3896f622",
+          "parent_id": null,
+          "member_ids": [
+            "120453368180b307",
+            "1c49349ef1c59fc5",
+            "2f3d5b228b934475",
+            "3b1bd3c2d0e5c202",
+            "478282bb6ef49969",
+            "51464e7f5e0c2cee",
+            "530704a980b99a97",
+            "64bffb661038a1be",
+            "6a07370cda15a04d",
+            "77bd4b6f3767371c",
+            "77d83f48e5ad1a85",
+            "851dee41b80fe36d",
+            "b942d8b420d14bc5",
+            "c1ea09c2b8e40ea8",
+            "cbc940067e991338",
+            "d4e6c62c62da1ce6",
+            "effaa7958da8e659",
+            "f2834d2380ba7d1d",
+            "ffe692d662a75054"
+          ]
+        }
+      ],
+      "png_path": "sections/04-05-4-一次函数的应用-52d2c8.png",
+      "png_sha256": "13d7c5eecc81701eaa8c6773788b53f58e43d54628fe7b3294946515e749790d",
+      "png_dimensions": [
+        2400,
+        1603
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "node-toc-038",
+      "status": "ready",
+      "path": "sections/04-06-回顾与思考-d481f2.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-038",
+          "node_id": "1dc36c87394b32eb",
+          "parent_id": null,
+          "member_ids": [
+            "a92a82b003d031a9",
+            "ddcbaaf392f1e5e6"
+          ]
+        }
+      ],
+      "png_path": "sections/04-06-回顾与思考-d481f2.png",
+      "png_sha256": "8cc4c46ea658592ec1490edc89146627c864b3467bf3f715275b7c99052dbb6a",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-029",
+      "root_key": "node-toc-039",
+      "status": "ready",
+      "path": "sections/04-07-复习题-491c73.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 20,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 20,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-039",
+          "node_id": "ca2e49df10d27f68",
+          "parent_id": null,
+          "member_ids": [
+            "5a94acf8a476dbed"
+          ]
+        }
+      ],
+      "png_path": "sections/04-07-复习题-491c73.png",
+      "png_sha256": "743ccdeba75bda0512786fdd18844e8eb8cb1c54f6c893ccde58dde7f6bce393",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/05-01-章引入-41a9fc.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-040",
+          "node_id": "a1be49a4dc9a6c2e",
+          "parent_id": null,
+          "member_ids": [
+            "c25b836bd8ff3cd1",
+            "d83ce76c12220552"
+          ]
+        }
+      ],
+      "png_path": "sections/05-01-章引入-41a9fc.png",
+      "png_sha256": "29e64c01e3049701fdd3fc5b485a7ae3b944a79b60e4099acd7b9631bf8a5a59",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-041",
+      "status": "ready",
+      "path": "sections/05-02-1-认识二元一次方程组-fd21eb.canvas",
+      "counts": {
+        "cards": 14,
+        "groups": 2,
+        "edges": 11,
+        "internal_atoms": 8,
+        "source_atoms": 16,
+        "knowledge_atoms": 3,
+        "scenario_atoms": 5,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 8,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 6,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2604,
+        "height": 754,
+        "aspect_ratio": 3.4536
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 6,
+        "edge_length_median": 452,
+        "edge_length_p90": 840,
+        "edge_length_max": 1773,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.1818
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-042",
+          "node_id": "dab1226c20efa59a",
+          "parent_id": "e782b79e94a12101",
+          "member_ids": [
+            "b89d1bde1e64e442"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-041",
+          "node_id": "e782b79e94a12101",
+          "parent_id": null,
+          "member_ids": [
+            "00cf9d8677eb55ac",
+            "18b66b66b78529bc",
+            "3a772bbd9476e3a4",
+            "5c9c7a89aae359af",
+            "5f4e005e56615391",
+            "a2592795317b607d",
+            "a9cf2500ee641197",
+            "b89d1bde1e64e442",
+            "bd5b811443168aa5",
+            "bd9025a2acd9cdf6",
+            "d34551cee5e71771"
+          ]
+        }
+      ],
+      "png_path": "sections/05-02-1-认识二元一次方程组-fd21eb.png",
+      "png_sha256": "ceb06b5bd62895dbc3864be72bd036d3b2e8fbf6b5cff720b44db09d88eadf29",
+      "png_dimensions": [
+        2400,
+        794
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-043",
+      "status": "ready",
+      "path": "sections/05-03-2-二元一次方程组的解法-779573.canvas",
+      "counts": {
+        "cards": 16,
+        "groups": 4,
+        "edges": 16,
+        "internal_atoms": 10,
+        "source_atoms": 17,
+        "knowledge_atoms": 4,
+        "scenario_atoms": 4,
+        "featured_examples": 2,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 7,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 12,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 2736,
+        "height": 1244,
+        "aspect_ratio": 2.1994
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 9,
+        "edge_length_median": 420,
+        "edge_length_p90": 1012,
+        "edge_length_max": 1836,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.1875
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-5-2-1",
+          "node_id": "8d4610487ecbac47",
+          "parent_id": "5444120c1ffd622a",
+          "member_ids": [
+            "080feffd4280107c",
+            "0aa3eb3648890ca6",
+            "4529af0e5d43abd6",
+            "8e3c1ad872574da2",
+            "a8283d7ecbb9f196",
+            "b48377c40884097b",
+            "b8bd05fdda4ecd07"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-2-2",
+          "node_id": "0b203bb2ecb70622",
+          "parent_id": "5444120c1ffd622a",
+          "member_ids": [
+            "003eb0ea8af19474",
+            "66a8ffa86b56b576",
+            "a10f78ca8f4ba9ee",
+            "bbe885fcb35d31bf",
+            "c805f7d1e11f74cd"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-044",
+          "node_id": "f147e4dec7583fb5",
+          "parent_id": "5444120c1ffd622a",
+          "member_ids": [
+            "434cbb4ad3b82580"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-043",
+          "node_id": "5444120c1ffd622a",
+          "parent_id": null,
+          "member_ids": [
+            "003eb0ea8af19474",
+            "080feffd4280107c",
+            "0aa3eb3648890ca6",
+            "434cbb4ad3b82580",
+            "4529af0e5d43abd6",
+            "66a8ffa86b56b576",
+            "8e3c1ad872574da2",
+            "a10f78ca8f4ba9ee",
+            "a8283d7ecbb9f196",
+            "b48377c40884097b",
+            "b8bd05fdda4ecd07",
+            "bbe885fcb35d31bf",
+            "c805f7d1e11f74cd"
+          ]
+        }
+      ],
+      "png_path": "sections/05-03-2-二元一次方程组的解法-779573.png",
+      "png_sha256": "17ee44768a61a77d2f84e5483aa8c5c75d2fc5d5138a1fc0af1e98015d153046",
+      "png_dimensions": [
+        2400,
+        1164
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-045",
+      "status": "ready",
+      "path": "sections/05-04-3-二元一次方程组的应用-b8deca.canvas",
+      "counts": {
+        "cards": 22,
+        "groups": 5,
+        "edges": 17,
+        "internal_atoms": 13,
+        "source_atoms": 30,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 8,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 17,
+        "exercise_portals": 0,
+        "exercise_organizers": 4,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 2,
+        "concept_hubs": 0,
+        "atom_relation_edges": 7,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 5,
+        "navigation_nodes": 5,
+        "regions": 4,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1896,
+        "height": 4228,
+        "aspect_ratio": 0.4484
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 4,
+        "edge_length_median": 455,
+        "edge_length_p90": 1030,
+        "edge_length_max": 1169,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.1176
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-5-3-1",
+          "node_id": "c2f693fbd59b1b4f",
+          "parent_id": "79543c49990a22ee",
+          "member_ids": [
+            "066710d7c2463a07",
+            "0bfef1fb1a5e7d9b",
+            "2578f510f1f20d9c",
+            "3562fbd8572e28e0",
+            "5cf818a54610e153",
+            "6bfa4ec90d50ebbd",
+            "6da6e7e1f8cf4657"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-3-2",
+          "node_id": "bf00f334daa3dc17",
+          "parent_id": "79543c49990a22ee",
+          "member_ids": [
+            "5669931ff1b08d9b",
+            "619414c6b6cf68f5",
+            "7ddc5f5f2886dd18",
+            "e33ef45b0866cd8b",
+            "f0181fa38f11de8b"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-3-3",
+          "node_id": "5f984d8dba744e46",
+          "parent_id": "79543c49990a22ee",
+          "member_ids": [
+            "1f388a6fa807201a",
+            "7f5ab5ba92b5f62a",
+            "9e4537e2822de7b2",
+            "9e9c1de3ab416e3a",
+            "d9e426de5748222a",
+            "e367e7902be31b3b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-046",
+          "node_id": "7dd6806f60f13e43",
+          "parent_id": "79543c49990a22ee",
+          "member_ids": [
+            "5e96f8f1026a0bf9"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-045",
+          "node_id": "79543c49990a22ee",
+          "parent_id": null,
+          "member_ids": [
+            "066710d7c2463a07",
+            "0bfef1fb1a5e7d9b",
+            "1f388a6fa807201a",
+            "2578f510f1f20d9c",
+            "3562fbd8572e28e0",
+            "5669931ff1b08d9b",
+            "5cf818a54610e153",
+            "5e96f8f1026a0bf9",
+            "619414c6b6cf68f5",
+            "6bfa4ec90d50ebbd",
+            "6da6e7e1f8cf4657",
+            "7ddc5f5f2886dd18",
+            "7f5ab5ba92b5f62a",
+            "9e4537e2822de7b2",
+            "9e9c1de3ab416e3a",
+            "d9e426de5748222a",
+            "e33ef45b0866cd8b",
+            "e367e7902be31b3b",
+            "f0181fa38f11de8b"
+          ]
+        }
+      ],
+      "png_path": "sections/05-04-3-二元一次方程组的应用-b8deca.png",
+      "png_sha256": "95cf8fdc25b0c00a6970f53f8ba73348999953cbfd88d96a16033a6fbcbbe0e7",
+      "png_dimensions": [
+        2400,
+        5123
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-047",
+      "status": "ready",
+      "path": "sections/05-05-4-二元一次方程与一次函数-6da0c1.canvas",
+      "counts": {
+        "cards": 15,
+        "groups": 4,
+        "edges": 12,
+        "internal_atoms": 9,
+        "source_atoms": 22,
+        "knowledge_atoms": 4,
+        "scenario_atoms": 4,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 13,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 7,
+        "concept_relation_edges": 2,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3688,
+        "height": 868,
+        "aspect_ratio": 4.2488
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 4,
+        "edge_length_median": 420,
+        "edge_length_p90": 993,
+        "edge_length_max": 1283,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.25
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-5-4-1",
+          "node_id": "c7244df67774fe59",
+          "parent_id": "53804d03dc442617",
+          "member_ids": [
+            "1451e3333eff9018",
+            "3189e2dd6a5da9e2",
+            "85cb8f7649799a4a",
+            "8bddac77192f9f69",
+            "9959b0a446b9f79b",
+            "b0845a7dd1f0c3d9"
+          ]
+        },
+        {
+          "organizer_key": "topic-5-4-2",
+          "node_id": "256d879f2293efb0",
+          "parent_id": "53804d03dc442617",
+          "member_ids": [
+            "0860f726efc81fda",
+            "3349aeb1c7beaec0",
+            "3752a34753f26cb1",
+            "ebdde59a41287148",
+            "f48cfd717ca69ebb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-048",
+          "node_id": "2ef8d817fb0a9650",
+          "parent_id": "53804d03dc442617",
+          "member_ids": [
+            "e7069b520794fc2b"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-047",
+          "node_id": "53804d03dc442617",
+          "parent_id": null,
+          "member_ids": [
+            "0860f726efc81fda",
+            "1451e3333eff9018",
+            "3189e2dd6a5da9e2",
+            "3349aeb1c7beaec0",
+            "3752a34753f26cb1",
+            "85cb8f7649799a4a",
+            "8bddac77192f9f69",
+            "9959b0a446b9f79b",
+            "b0845a7dd1f0c3d9",
+            "e7069b520794fc2b",
+            "ebdde59a41287148",
+            "f48cfd717ca69ebb"
+          ]
+        }
+      ],
+      "png_path": "sections/05-05-4-二元一次方程与一次函数-6da0c1.png",
+      "png_sha256": "d4b9e8ffbf1850bec75e6647d20890a4ae8cee501456629f58d9f156b5281df8",
+      "png_dimensions": [
+        2400,
+        642
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-049",
+      "status": "ready",
+      "path": "sections/05-06-5-三元一次方程组-f54232.canvas",
+      "counts": {
+        "cards": 13,
+        "groups": 2,
+        "edges": 10,
+        "internal_atoms": 8,
+        "source_atoms": 15,
+        "knowledge_atoms": 4,
+        "scenario_atoms": 4,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 7,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 7,
+        "concept_relation_edges": 1,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 3024,
+        "height": 616,
+        "aspect_ratio": 4.9091
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 1,
+        "edge_length_median": 456,
+        "edge_length_p90": 980,
+        "edge_length_max": 1680,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.2
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-050",
+          "node_id": "bbc118e1bc0858e6",
+          "parent_id": "3abc61926486d665",
+          "member_ids": [
+            "483159a5e9d089de"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-049",
+          "node_id": "3abc61926486d665",
+          "parent_id": null,
+          "member_ids": [
+            "074b22406f165993",
+            "1dbd0ca7e00cf324",
+            "2c4abf3650a0e85a",
+            "3489f839f44b202b",
+            "483159a5e9d089de",
+            "99d4d27e4d7ab0ae",
+            "a2a1d30c77366ba2",
+            "afec36fa6bd0e615",
+            "c258b69f1b3aa311",
+            "f297ac04c1a9b3ba"
+          ]
+        }
+      ],
+      "png_path": "sections/05-06-5-三元一次方程组-f54232.png",
+      "png_sha256": "d7bac991e8f9165f56478072acbe40c6021fe909d39dd4a841d8599240be3242",
+      "png_dimensions": [
+        2400,
+        585
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-051",
+      "status": "ready",
+      "path": "sections/05-07-问题解决策略-逐步确定-2ea7ec.canvas",
+      "counts": {
+        "cards": 6,
+        "groups": 1,
+        "edges": 2,
+        "internal_atoms": 3,
+        "source_atoms": 3,
+        "knowledge_atoms": 2,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 390,
+        "aspect_ratio": 3.1282
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 420,
+        "edge_length_p90": 420,
+        "edge_length_max": 800,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-051",
+          "node_id": "c8aed1eb560ff69a",
+          "parent_id": null,
+          "member_ids": [
+            "1b801bb61986f53d",
+            "cbc2078ac9c412f2",
+            "cecaaced74ed5f1a"
+          ]
+        }
+      ],
+      "png_path": "sections/05-07-问题解决策略-逐步确定-2ea7ec.png",
+      "png_sha256": "ceec3ae50bda3ee0640a2adbdd294a4b5e56dd2a8f7dfbd8a5a9f422fa5ee572",
+      "png_dimensions": [
+        2400,
+        957
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-052",
+      "status": "ready",
+      "path": "sections/05-08-回顾与思考-21d6e7.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-052",
+          "node_id": "98d032cf4715cc5f",
+          "parent_id": null,
+          "member_ids": [
+            "a904c5105bb36d24",
+            "c917f102b512ecff"
+          ]
+        }
+      ],
+      "png_path": "sections/05-08-回顾与思考-21d6e7.png",
+      "png_sha256": "00eb0a6c6dc42d5f5642462726261710fdf3db129cf8b1a4d98e0abda1d1f36e",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-040",
+      "root_key": "node-toc-053",
+      "status": "ready",
+      "path": "sections/05-09-复习题-6c7fd0.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 21,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 21,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-053",
+          "node_id": "fdf9e0dc6dfb946f",
+          "parent_id": null,
+          "member_ids": [
+            "60f86ed2ed35a45f"
+          ]
+        }
+      ],
+      "png_path": "sections/05-09-复习题-6c7fd0.png",
+      "png_sha256": "743ccdeba75bda0512786fdd18844e8eb8cb1c54f6c893ccde58dde7f6bce393",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-054",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/06-01-章引入-b2dddb.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-054",
+          "node_id": "2dab2e48e5b9f81d",
+          "parent_id": null,
+          "member_ids": [
+            "28a1e2c1f29a2403",
+            "c3b6c8511cc7272d"
+          ]
+        }
+      ],
+      "png_path": "sections/06-01-章引入-b2dddb.png",
+      "png_sha256": "54512057b50447b0dc06e533f92429a194a0619d2c6bc30c4fbd34c31618d725",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-054",
+      "root_key": "node-toc-055",
+      "status": "ready",
+      "path": "sections/06-02-1-平均数与方差-2c402b.canvas",
+      "counts": {
+        "cards": 28,
+        "groups": 6,
+        "edges": 30,
+        "internal_atoms": 19,
+        "source_atoms": 41,
+        "knowledge_atoms": 5,
+        "scenario_atoms": 11,
+        "featured_examples": 3,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 22,
+        "exercise_portals": 0,
+        "exercise_organizers": 5,
+        "exercise_relation_edges": 5,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 20,
+        "concept_relation_edges": 4,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 5,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 4726,
+        "height": 2884,
+        "aspect_ratio": 1.6387
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 13,
+        "edge_length_median": 493,
+        "edge_length_p90": 1816,
+        "edge_length_max": 4248,
+        "edges_over_2000": 3,
+        "practice_edge_share": 0.1667
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-6-1-1",
+          "node_id": "e59171d54ab744a7",
+          "parent_id": "0a92a9ddc0c4abba",
+          "member_ids": [
+            "00e357bcf4e5ed9f",
+            "3f80575107e594c5",
+            "52d6e04d24157777",
+            "5c0486feeb38baab",
+            "7f5714c7ffc63074",
+            "a93e69d03a3fb4a0",
+            "dbb9a862d111a50f"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-1-2",
+          "node_id": "85b84e4a992e0504",
+          "parent_id": "0a92a9ddc0c4abba",
+          "member_ids": [
+            "24f45f0a8e2f61ee",
+            "37e43d15cfafc3ad",
+            "3cc70224a253a934",
+            "b64736b1179dd501",
+            "c75f31009b2ef6fc",
+            "c985b09508eee569",
+            "ee7cd7dc5c727c76"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-1-3",
+          "node_id": "40cc3027af0b10d6",
+          "parent_id": "0a92a9ddc0c4abba",
+          "member_ids": [
+            "56d5061ab8b212c0",
+            "72819834747257c0",
+            "75b67206953a0ea3",
+            "9a92f516172d9606",
+            "accde50516761ca0",
+            "f0f85266fc37c75e"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-1-4",
+          "node_id": "a47e74b8e4bfb80e",
+          "parent_id": "0a92a9ddc0c4abba",
+          "member_ids": [
+            "1a37e4c638a4ffbe",
+            "aec8c19a07fb8be9",
+            "c6f4ab137f8af5d4",
+            "f92fd0be8346fdee"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-056",
+          "node_id": "6f037c9887f391a5",
+          "parent_id": "0a92a9ddc0c4abba",
+          "member_ids": [
+            "5f6c168f205158dc"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-055",
+          "node_id": "0a92a9ddc0c4abba",
+          "parent_id": null,
+          "member_ids": [
+            "00e357bcf4e5ed9f",
+            "1a37e4c638a4ffbe",
+            "24f45f0a8e2f61ee",
+            "37e43d15cfafc3ad",
+            "3cc70224a253a934",
+            "3f80575107e594c5",
+            "52d6e04d24157777",
+            "56d5061ab8b212c0",
+            "5c0486feeb38baab",
+            "5f6c168f205158dc",
+            "72819834747257c0",
+            "75b67206953a0ea3",
+            "7f5714c7ffc63074",
+            "9a92f516172d9606",
+            "a93e69d03a3fb4a0",
+            "accde50516761ca0",
+            "aec8c19a07fb8be9",
+            "b64736b1179dd501",
+            "c6f4ab137f8af5d4",
+            "c75f31009b2ef6fc",
+            "c985b09508eee569",
+            "dbb9a862d111a50f",
+            "ee7cd7dc5c727c76",
+            "f0f85266fc37c75e",
+            "f92fd0be8346fdee"
+          ]
+        }
+      ],
+      "png_path": "sections/06-02-1-平均数与方差-2c402b.png",
+      "png_sha256": "00023cd141eef3e72e1005e20102849552c207aca9c8fdd3a7d73b449f1238fe",
+      "png_dimensions": [
+        2400,
+        1496
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-054",
+      "root_key": "node-toc-057",
+      "status": "ready",
+      "path": "sections/06-03-2-中位数与箱线图-ca7c68.canvas",
+      "counts": {
+        "cards": 20,
+        "groups": 5,
+        "edges": 24,
+        "internal_atoms": 14,
+        "source_atoms": 26,
+        "knowledge_atoms": 6,
+        "scenario_atoms": 7,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 12,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 18,
+        "concept_relation_edges": 3,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 4,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 5080,
+        "height": 1046,
+        "aspect_ratio": 4.8566
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 3,
+        "edge_length_median": 456,
+        "edge_length_p90": 974,
+        "edge_length_max": 1826,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.125
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-6-2-1",
+          "node_id": "8b9feb1e9fe7c150",
+          "parent_id": "bc471949795486ab",
+          "member_ids": [
+            "5b57b17698d6bde8",
+            "ad777c3bd68e1cfd",
+            "b7796f81861ddc39",
+            "c013eae487811898",
+            "d11d8d5be27412ce",
+            "f478230e137ca399",
+            "f764d579e320fe98"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-2-2",
+          "node_id": "b517e356ad0a7a9a",
+          "parent_id": "bc471949795486ab",
+          "member_ids": [
+            "ccf8383294b3fc52",
+            "f04ebdcefa61d48d"
+          ]
+        },
+        {
+          "organizer_key": "topic-6-2-3",
+          "node_id": "3ff6c0273557ae9e",
+          "parent_id": "bc471949795486ab",
+          "member_ids": [
+            "0c8cf2e2c0e9b6fa",
+            "2ee5ca2c3b6a0ba0",
+            "5b73bf99731b18fc",
+            "835117b191941a0b",
+            "a517fccec106c1e5",
+            "b9548b4958cfa6ab",
+            "ed0294a74ffa220a"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-058",
+          "node_id": "543a89213c5d9c1d",
+          "parent_id": "bc471949795486ab",
+          "member_ids": [
+            "57a7952604ccb0bb"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-057",
+          "node_id": "bc471949795486ab",
+          "parent_id": null,
+          "member_ids": [
+            "0c8cf2e2c0e9b6fa",
+            "2ee5ca2c3b6a0ba0",
+            "57a7952604ccb0bb",
+            "5b57b17698d6bde8",
+            "5b73bf99731b18fc",
+            "835117b191941a0b",
+            "a517fccec106c1e5",
+            "ad777c3bd68e1cfd",
+            "b7796f81861ddc39",
+            "b9548b4958cfa6ab",
+            "c013eae487811898",
+            "ccf8383294b3fc52",
+            "d11d8d5be27412ce",
+            "ed0294a74ffa220a",
+            "f04ebdcefa61d48d",
+            "f478230e137ca399",
+            "f764d579e320fe98"
+          ]
+        }
+      ],
+      "png_path": "sections/06-03-2-中位数与箱线图-ca7c68.png",
+      "png_sha256": "89b75a1592f15640d3c93d6438a946f9a89c5c7c265458c1ec23b6f627a607c7",
+      "png_dimensions": [
+        2400,
+        553
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-054",
+      "root_key": "node-toc-059",
+      "status": "ready",
+      "path": "sections/06-04-3-哪个团队收益大-aa0c43.canvas",
+      "counts": {
+        "cards": 9,
+        "groups": 2,
+        "edges": 5,
+        "internal_atoms": 4,
+        "source_atoms": 9,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 3,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 5,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 1,
+        "exercise_ownership_edges": 1,
+        "concept_hubs": 0,
+        "atom_relation_edges": 3,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1344,
+        "height": 932,
+        "aspect_ratio": 1.4421
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 456,
+        "edge_length_p90": 468,
+        "edge_length_max": 689,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.2
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-060",
+          "node_id": "1fdcec08fac327a8",
+          "parent_id": "751dca7e77891b8f",
+          "member_ids": [
+            "d67708bbfe396377"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-059",
+          "node_id": "751dca7e77891b8f",
+          "parent_id": null,
+          "member_ids": [
+            "4630b8571c71ea97",
+            "79e4baa1cb701242",
+            "9fb2755a0fd27534",
+            "a0c3076314d2b28f",
+            "d67708bbfe396377",
+            "fe0c11b2ed4d2e11"
+          ]
+        }
+      ],
+      "png_path": "sections/06-04-3-哪个团队收益大-aa0c43.png",
+      "png_sha256": "fbbb91c31d05f3edc691e4d43d5fd39e73f5f8e3f1b773b6e9da39be91c89502",
+      "png_dimensions": [
+        2400,
+        1743
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-054",
+      "root_key": "node-toc-061",
+      "status": "ready",
+      "path": "sections/06-05-回顾与思考-73aa26.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-061",
+          "node_id": "fc082a5a50d65eb9",
+          "parent_id": null,
+          "member_ids": [
+            "1922ca207ce40933",
+            "35fcc37d9a692f8b"
+          ]
+        }
+      ],
+      "png_path": "sections/06-05-回顾与思考-73aa26.png",
+      "png_sha256": "ba9ff689a79d1a13a7d8b4aa4f6b254f255c181212488263e163fb74f025f895",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-054",
+      "root_key": "node-toc-062",
+      "status": "ready",
+      "path": "sections/06-06-复习题-fea068.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 18,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 18,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-062",
+          "node_id": "0909697f985c8333",
+          "parent_id": null,
+          "member_ids": [
+            "2b683dfe13851e4d"
+          ]
+        }
+      ],
+      "png_path": "sections/06-06-复习题-fea068.png",
+      "png_sha256": "743ccdeba75bda0512786fdd18844e8eb8cb1c54f6c893ccde58dde7f6bce393",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-063",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/07-01-章引入-aa1222.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 566,
+        "aspect_ratio": 2.1555
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 182,
+        "edge_length_p90": 182,
+        "edge_length_max": 182,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-063",
+          "node_id": "eb7d73e8da5e3b26",
+          "parent_id": null,
+          "member_ids": [
+            "841d32e979483359",
+            "df2dd3904d353343"
+          ]
+        }
+      ],
+      "png_path": "sections/07-01-章引入-aa1222.png",
+      "png_sha256": "64b2ebb3d57fc60b438005e824d64a4978e9a8f6d58e49ef625e09b31d53f413",
+      "png_dimensions": [
+        2400,
+        1263
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-063",
+      "root_key": "node-toc-064",
+      "status": "ready",
+      "path": "sections/07-02-1-为什么要证明-18738a.canvas",
+      "counts": {
+        "cards": 10,
+        "groups": 2,
+        "edges": 5,
+        "internal_atoms": 4,
+        "source_atoms": 10,
+        "knowledge_atoms": 1,
+        "scenario_atoms": 3,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 6,
+        "exercise_portals": 0,
+        "exercise_organizers": 2,
+        "exercise_relation_edges": 2,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 2,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 1,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1324,
+        "height": 932,
+        "aspect_ratio": 1.4206
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 430,
+        "edge_length_p90": 456,
+        "edge_length_max": 581,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.4
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-065",
+          "node_id": "6bbf5d54ed66f6e6",
+          "parent_id": "4eb15bc516bdd5d5",
+          "member_ids": [
+            "54c1d923e86e8f33"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-064",
+          "node_id": "4eb15bc516bdd5d5",
+          "parent_id": null,
+          "member_ids": [
+            "05144e633bcd1293",
+            "4ee304d0df79de2f",
+            "54c1d923e86e8f33",
+            "8b194b0d188358e4",
+            "aeec5d92933cf31c",
+            "b7e3eb0eb549700c",
+            "f36063c65a7d3f74"
+          ]
+        }
+      ],
+      "png_path": "sections/07-02-1-为什么要证明-18738a.png",
+      "png_sha256": "b67193bffea88cdedc120d331f1a48af4fae56c90f3a36a569a81546f8fcae26",
+      "png_dimensions": [
+        2400,
+        1767
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-063",
+      "root_key": "node-toc-066",
+      "status": "ready",
+      "path": "sections/07-03-2-认识证明-f3b698.canvas",
+      "counts": {
+        "cards": 17,
+        "groups": 4,
+        "edges": 18,
+        "internal_atoms": 11,
+        "source_atoms": 22,
+        "knowledge_atoms": 7,
+        "scenario_atoms": 3,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 11,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 9,
+        "concept_relation_edges": 6,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 14580,
+        "height": 1046,
+        "aspect_ratio": 13.9388
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 6,
+        "edge_length_median": 420,
+        "edge_length_p90": 870,
+        "edge_length_max": 11016,
+        "edges_over_2000": 2,
+        "practice_edge_share": 0.1667
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-7-2-1",
+          "node_id": "1f25e4fc97442bbc",
+          "parent_id": "48745aa482c35360",
+          "member_ids": [
+            "05cd12f9e6b0892a",
+            "1b827fc92a296c44",
+            "711f5e0f6a867eba",
+            "82b5ddf5ba056321",
+            "86f648d1e698e303",
+            "c7a4d19ad5480ae6",
+            "eac931e4ca63eea9",
+            "ef2ba7ae404448f7"
+          ]
+        },
+        {
+          "organizer_key": "topic-7-2-2",
+          "node_id": "c261c6736dd29a11",
+          "parent_id": "48745aa482c35360",
+          "member_ids": [
+            "34dbda589f076654",
+            "8af7b2c885a096ea",
+            "acd76b7edd89f075",
+            "f45c14ccef339b04",
+            "fb7ab6cef30cecba"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-067",
+          "node_id": "303c1dcade41f290",
+          "parent_id": "48745aa482c35360",
+          "member_ids": [
+            "9d0ee7908ecff268"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-066",
+          "node_id": "48745aa482c35360",
+          "parent_id": null,
+          "member_ids": [
+            "05cd12f9e6b0892a",
+            "1b827fc92a296c44",
+            "34dbda589f076654",
+            "711f5e0f6a867eba",
+            "82b5ddf5ba056321",
+            "86f648d1e698e303",
+            "8af7b2c885a096ea",
+            "9d0ee7908ecff268",
+            "acd76b7edd89f075",
+            "c7a4d19ad5480ae6",
+            "eac931e4ca63eea9",
+            "ef2ba7ae404448f7",
+            "f45c14ccef339b04",
+            "fb7ab6cef30cecba"
+          ]
+        }
+      ],
+      "png_path": "sections/07-03-2-认识证明-f3b698.png",
+      "png_sha256": "090b3430f1626576e588de615c8ab319e316e90e1b2f67da4d0ab33508313f7b",
+      "png_dimensions": [
+        2400,
+        197
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-063",
+      "root_key": "node-toc-068",
+      "status": "ready",
+      "path": "sections/07-04-3-平行线的证明-1107db.canvas",
+      "counts": {
+        "cards": 15,
+        "groups": 4,
+        "edges": 17,
+        "internal_atoms": 9,
+        "source_atoms": 19,
+        "knowledge_atoms": 5,
+        "scenario_atoms": 3,
+        "featured_examples": 1,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 10,
+        "exercise_portals": 0,
+        "exercise_organizers": 3,
+        "exercise_relation_edges": 3,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 10,
+        "concept_relation_edges": 4,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 3,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 4078,
+        "height": 880,
+        "aspect_ratio": 4.6341
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 1,
+        "edge_length_median": 455,
+        "edge_length_p90": 974,
+        "edge_length_max": 3169,
+        "edges_over_2000": 1,
+        "practice_edge_share": 0.1765
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "topic-7-3-1",
+          "node_id": "56691ea4470a5612",
+          "parent_id": "bb5f1317ace2e7d6",
+          "member_ids": [
+            "4b045c470a43092a",
+            "5b331c24a536cbfd",
+            "8b7f2b0e6e0d2947",
+            "d5a0d5d2387d38d4",
+            "f5de7e7fa96a0f95"
+          ]
+        },
+        {
+          "organizer_key": "topic-7-3-2",
+          "node_id": "bdde909c4d47db01",
+          "parent_id": "bb5f1317ace2e7d6",
+          "member_ids": [
+            "0606214e57b8aa4e",
+            "1c07dd1605fe2d28",
+            "54b9fcceeb85ad2b",
+            "896e093744d86e0d",
+            "a7e4bb18f370ace0",
+            "d78e98992faaac18"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-069",
+          "node_id": "d43aee3c1f22b908",
+          "parent_id": "bb5f1317ace2e7d6",
+          "member_ids": [
+            "6446832d8959658d"
+          ]
+        },
+        {
+          "organizer_key": "node-toc-068",
+          "node_id": "bb5f1317ace2e7d6",
+          "parent_id": null,
+          "member_ids": [
+            "0606214e57b8aa4e",
+            "1c07dd1605fe2d28",
+            "4b045c470a43092a",
+            "54b9fcceeb85ad2b",
+            "5b331c24a536cbfd",
+            "6446832d8959658d",
+            "896e093744d86e0d",
+            "8b7f2b0e6e0d2947",
+            "a7e4bb18f370ace0",
+            "d5a0d5d2387d38d4",
+            "d78e98992faaac18",
+            "f5de7e7fa96a0f95"
+          ]
+        }
+      ],
+      "png_path": "sections/07-04-3-平行线的证明-1107db.png",
+      "png_sha256": "6c9ac0977905bf14cab9d8bf25cb010ddd0cdff5be2a212de8ebc80b10ae884c",
+      "png_dimensions": [
+        2400,
+        589
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-063",
+      "root_key": "node-toc-070",
+      "status": "ready",
+      "path": "sections/07-05-回顾与思考-c7afd1.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-070",
+          "node_id": "f73837320cf1142a",
+          "parent_id": null,
+          "member_ids": [
+            "5c1fc4cfb26fefd0",
+            "68c838915aa6bdbd"
+          ]
+        }
+      ],
+      "png_path": "sections/07-05-回顾与思考-c7afd1.png",
+      "png_sha256": "21ae79479999b4c5981c29dd13e34a74ab432c5b109936a2e0479c1a129bdf53",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-063",
+      "root_key": "node-toc-071",
+      "status": "ready",
+      "path": "sections/07-06-复习题-d5bed6.canvas",
+      "counts": {
+        "cards": 4,
+        "groups": 1,
+        "edges": 0,
+        "internal_atoms": 0,
+        "source_atoms": 11,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 0,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 11,
+        "exercise_portals": 0,
+        "exercise_organizers": 1,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 0,
+        "navigation_nodes": 3,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 384,
+        "aspect_ratio": 3.1771
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 0,
+        "edge_length_p90": 0,
+        "edge_length_max": 0,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-071",
+          "node_id": "80c9bf3d3ea93ef2",
+          "parent_id": null,
+          "member_ids": [
+            "fdfd9d8057747d8b"
+          ]
+        }
+      ],
+      "png_path": "sections/07-06-复习题-d5bed6.png",
+      "png_sha256": "743ccdeba75bda0512786fdd18844e8eb8cb1c54f6c893ccde58dde7f6bce393",
+      "png_dimensions": [
+        2400,
+        947
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-072",
+      "root_key": "node-toc-073",
+      "status": "ready",
+      "path": "sections/08-01-哪个城市夏天更热-e66952.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-073",
+          "node_id": "ba38c837dea371c3",
+          "parent_id": null,
+          "member_ids": [
+            "72352eee27613d13",
+            "8592769eb5f2a1ae"
+          ]
+        }
+      ],
+      "png_path": "sections/08-01-哪个城市夏天更热-e66952.png",
+      "png_sha256": "24cf593539764b07a5ad4723aa2b439a5bacc2321e37c86bfc537b334d03d93d",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-072",
+      "root_key": "node-toc-074",
+      "status": "ready",
+      "path": "sections/08-02-神奇的加密术-a686bb.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-074",
+          "node_id": "9e42565b41869375",
+          "parent_id": null,
+          "member_ids": [
+            "16a125fa762d30d0",
+            "3b1c371c055909ac"
+          ]
+        }
+      ],
+      "png_path": "sections/08-02-神奇的加密术-a686bb.png",
+      "png_sha256": "2d42d7c0868c9b5588c97613b0951a46e0fe21003f94915d867820ca1d44a5f2",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    },
+    {
+      "role": "section-detail-map",
+      "chapter_key": "node-toc-075",
+      "root_key": "__chapter_intro__",
+      "status": "ready",
+      "path": "sections/09-01-章引入-e18340.canvas",
+      "counts": {
+        "cards": 5,
+        "groups": 1,
+        "edges": 1,
+        "internal_atoms": 1,
+        "source_atoms": 1,
+        "knowledge_atoms": 0,
+        "scenario_atoms": 1,
+        "featured_examples": 0,
+        "exercise_atoms_summarized": 0,
+        "exercise_atoms_collapsed": 0,
+        "exercise_portals": 0,
+        "exercise_organizers": 0,
+        "exercise_relation_edges": 0,
+        "exercise_ownership_edges": 0,
+        "concept_hubs": 0,
+        "atom_relation_edges": 0,
+        "concept_relation_edges": 0,
+        "concept_membership_edges": 0,
+        "source_order_fallback_edges": 0,
+        "organization_membership_edges": 1,
+        "navigation_nodes": 4,
+        "regions": 0,
+        "landmarks": 0
+      },
+      "bounds": {
+        "x": 0,
+        "y": -180,
+        "width": 1220,
+        "height": 554,
+        "aspect_ratio": 2.2022
+      },
+      "visual_quality": {
+        "straight_crossing_estimate": 0,
+        "edge_length_median": 176,
+        "edge_length_p90": 176,
+        "edge_length_max": 176,
+        "edges_over_2000": 0,
+        "practice_edge_share": 0.0
+      },
+      "organization_groups": [
+        {
+          "organizer_key": "node-toc-075",
+          "node_id": "7b615b1a8df165e5",
+          "parent_id": null,
+          "member_ids": [
+            "87c419f052ad743b",
+            "abffc89047efc7aa"
+          ]
+        }
+      ],
+      "png_path": "sections/09-01-章引入-e18340.png",
+      "png_sha256": "22d75381cfa62c234137300d6397d49b7be0f86065aca22afa0053f65542014f",
+      "png_dimensions": [
+        2400,
+        1242
+      ]
+    }
+  ],
+  "png_previews": {
+    "required": true,
+    "count": 60,
+    "paths": [
+      "chapters/01-第一章-勾股定理-75a20e.png",
+      "chapters/02-第二章-实数-9775d4.png",
+      "chapters/03-第三章-位置与坐标-35a66a.png",
+      "chapters/04-第四章-一次函数-32408f.png",
+      "chapters/05-第五章-二元一次方程组-b2ac1c.png",
+      "chapters/06-第六章-数据的分析-b0a9fb.png",
+      "chapters/07-第七章-证明-84e5e1.png",
+      "chapters/08-综合与实践-bf69b1.png",
+      "chapters/09-学习印记-c84ab0.png",
+      "overview.png",
+      "sections/01-01-章引入-55b0cf.png",
+      "sections/01-02-1-探索勾股定理-f18845.png",
+      "sections/01-03-2-一定是直角三角形吗-43a38d.png",
+      "sections/01-04-3-勾股定理的应用-91847a.png",
+      "sections/01-05-问题解决策略-反思-f97971.png",
+      "sections/01-06-回顾与思考-8b1d45.png",
+      "sections/01-07-复习题-70ee63.png",
+      "sections/02-01-章引入-edf1c8.png",
+      "sections/02-02-1-认识实数-bb4664.png",
+      "sections/02-03-2-平方根与立方根-27329a.png",
+      "sections/02-04-3-二次根式-24ed9f.png",
+      "sections/02-05-回顾与思考-2d137a.png",
+      "sections/02-06-复习题-6ec0d9.png",
+      "sections/03-01-章引入-b225c0.png",
+      "sections/03-02-1-确定位置-910844.png",
+      "sections/03-03-2-平面直角坐标系-f49246.png",
+      "sections/03-04-3-轴对称与坐标变化-323c84.png",
+      "sections/03-05-回顾与思考-051eed.png",
+      "sections/03-06-复习题-315ca3.png",
+      "sections/04-01-章引入-b1206a.png",
+      "sections/04-02-1-函数-77c1ef.png",
+      "sections/04-03-2-认识一次函数-77499b.png",
+      "sections/04-04-3-一次函数的图象-8db754.png",
+      "sections/04-05-4-一次函数的应用-52d2c8.png",
+      "sections/04-06-回顾与思考-d481f2.png",
+      "sections/04-07-复习题-491c73.png",
+      "sections/05-01-章引入-41a9fc.png",
+      "sections/05-02-1-认识二元一次方程组-fd21eb.png",
+      "sections/05-03-2-二元一次方程组的解法-779573.png",
+      "sections/05-04-3-二元一次方程组的应用-b8deca.png",
+      "sections/05-05-4-二元一次方程与一次函数-6da0c1.png",
+      "sections/05-06-5-三元一次方程组-f54232.png",
+      "sections/05-07-问题解决策略-逐步确定-2ea7ec.png",
+      "sections/05-08-回顾与思考-21d6e7.png",
+      "sections/05-09-复习题-6c7fd0.png",
+      "sections/06-01-章引入-b2dddb.png",
+      "sections/06-02-1-平均数与方差-2c402b.png",
+      "sections/06-03-2-中位数与箱线图-ca7c68.png",
+      "sections/06-04-3-哪个团队收益大-aa0c43.png",
+      "sections/06-05-回顾与思考-73aa26.png",
+      "sections/06-06-复习题-fea068.png",
+      "sections/07-01-章引入-aa1222.png",
+      "sections/07-02-1-为什么要证明-18738a.png",
+      "sections/07-03-2-认识证明-f3b698.png",
+      "sections/07-04-3-平行线的证明-1107db.png",
+      "sections/07-05-回顾与思考-c7afd1.png",
+      "sections/07-06-复习题-d5bed6.png",
+      "sections/08-01-哪个城市夏天更热-e66952.png",
+      "sections/08-02-神奇的加密术-a686bb.png",
+      "sections/09-01-章引入-e18340.png"
+    ],
+    "renderer": "preview_canvas.py"
+  }
+}

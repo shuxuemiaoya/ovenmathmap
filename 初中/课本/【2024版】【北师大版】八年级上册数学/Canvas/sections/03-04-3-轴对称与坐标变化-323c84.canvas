@@ -1,0 +1,231 @@
+{
+  "nodes": [
+    {
+      "id": "585b864d78b0bc26",
+      "type": "group",
+      "label": "3 轴对称与坐标变化",
+      "x": 0,
+      "y": 0,
+      "width": 2184,
+      "height": 574
+    },
+    {
+      "id": "b3355458dd24f929",
+      "type": "text",
+      "text": "[练习入口 · 3 轴对称与坐标变化](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/3%20%E8%BD%B4%E5%AF%B9%E7%A7%B0%E4%B8%8E%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96/%E8%BD%B4%E5%AF%B9%E7%A7%B0%E4%B8%8E%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96.md)\n\n共 1 题",
+      "x": 56,
+      "y": 264,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "591171378998edc3",
+      "type": "text",
+      "text": "[✦ 问题 · 小旗轴对称图形对应点坐标规律探索（图3-18）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%8F%E6%97%97%E8%BD%B4%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E5%AF%B9%E5%BA%94%E7%82%B9%E5%9D%90%E6%A0%87%E8%A7%84%E5%BE%8B%E6%8E%A2%E7%B4%A2%28%E5%9B%BE3-18%29.md)",
+      "x": 56,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "0c4c5a4edf9d79ea",
+      "type": "text",
+      "text": "[✦ 坐标变化引起的图案轴对称变换](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96%E5%BC%95%E8%B5%B7%E7%9A%84%E5%9B%BE%E6%A1%88%E8%BD%B4%E5%AF%B9%E7%A7%B0%E5%8F%98%E6%8D%A2--000031.md)",
+      "x": 476,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "1532a275e8246263",
+      "type": "text",
+      "text": "[✦ 问题 · 操作·思考：横坐标保持不变纵坐标乘-1](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%93%8D%E4%BD%9C%C2%B7%E6%80%9D%E8%80%83-%E6%A8%AA%E5%9D%90%E6%A0%87%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98%E7%BA%B5%E5%9D%90%E6%A0%87%E4%B9%98-1.md)",
+      "x": 896,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "ea35a467fe7f175b",
+      "type": "text",
+      "text": "[✦ 问题 · 思考·交流：关于x轴、y轴对称的两个点坐标关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81-%E5%85%B3%E4%BA%8Ex%E8%BD%B4%E3%80%81y%E8%BD%B4%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E7%82%B9%E5%9D%90%E6%A0%87%E5%85%B3%E7%B3%BB.md)",
+      "x": 896,
+      "y": 254,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1e0230bcd405f8b3",
+      "type": "text",
+      "text": "[✦ 关于x轴、y轴对称的点的坐标变化规律](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%B3%E4%BA%8Ex%E8%BD%B4%E3%80%81y%E8%BD%B4%E5%AF%B9%E7%A7%B0%E7%9A%84%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B--000032.md)",
+      "x": 1316,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "cd57d099eeb70f32",
+      "type": "text",
+      "text": "[✦ 问题 · 回顾·反思：平面直角坐标系认识](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%9B%9E%E9%A1%BE%C2%B7%E5%8F%8D%E6%80%9D-%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E8%AE%A4%E8%AF%86.md)",
+      "x": 1736,
+      "y": 76,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "90c8932ac3bae2a4",
+      "type": "group",
+      "label": "习题 3.3",
+      "x": 1756,
+      "y": 314,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "717409edc932508c",
+      "type": "text",
+      "text": "[练习入口 · 习题 3.3](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/3%20%E8%BD%B4%E5%AF%B9%E7%A7%B0%E4%B8%8E%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96/%E4%B9%A0%E9%A2%98%203.3.md)\n\n共 4 题",
+      "x": 1812,
+      "y": 390,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "e1143c76472eef3a",
+      "type": "text",
+      "text": "# [3 轴对称与坐标变化](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/3%20%E8%BD%B4%E5%AF%B9%E7%A7%B0%E4%B8%8E%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96/%E8%BD%B4%E5%AF%B9%E7%A7%B0%E4%B8%8E%E5%9D%90%E6%A0%87%E5%8F%98%E5%8C%96.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "3b75cc6de8c1d026",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87-35a66a.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "eee5db502eb24e84",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "4fda4f23a0ba8a92",
+      "fromNode": "0c4c5a4edf9d79ea",
+      "toNode": "1e0230bcd405f8b3",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5c56b7b81ce870ab",
+      "fromNode": "0c4c5a4edf9d79ea",
+      "toNode": "1532a275e8246263",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "23343c37fa928e47",
+      "fromNode": "0c4c5a4edf9d79ea",
+      "toNode": "ea35a467fe7f175b",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edf2eaa65a907b4f",
+      "fromNode": "591171378998edc3",
+      "toNode": "0c4c5a4edf9d79ea",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "ea25cfc023b8fc07",
+      "fromNode": "1532a275e8246263",
+      "toNode": "1e0230bcd405f8b3",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a190d08021e2d07d",
+      "fromNode": "ea35a467fe7f175b",
+      "toNode": "1e0230bcd405f8b3",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1d7eaf26018600a6",
+      "fromNode": "1e0230bcd405f8b3",
+      "toNode": "cd57d099eeb70f32",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "50752f8b74366688",
+      "fromNode": "0c4c5a4edf9d79ea",
+      "toNode": "b3355458dd24f929",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0d8ee628214a3501",
+      "fromNode": "1e0230bcd405f8b3",
+      "toNode": "717409edc932508c",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 4题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ kind: "problem"
 title: "互为反函数的两个函数图象间的关系 探究引言"
 source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
-source_files: ["原子层/情景引入/0026-S.md"]
+source_files: ["原子层/情景引入/比较指数与对数函数图象探索反函数关系--0026-S.md"]
 source_node_keys: ["atom-31804bcf6658ebe5"]
 ---
 

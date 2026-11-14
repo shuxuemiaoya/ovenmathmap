@@ -1,0 +1,515 @@
+{
+  "nodes": [
+    {
+      "id": "4d0dab08fbf4a606",
+      "type": "group",
+      "label": "3 直角三角形",
+      "x": 0,
+      "y": 0,
+      "width": 6208,
+      "height": 524
+    },
+    {
+      "id": "d8774a738087187d",
+      "type": "group",
+      "label": "直角三角形的性质、判定与互逆命题",
+      "x": 56,
+      "y": 76,
+      "width": 4172,
+      "height": 392
+    },
+    {
+      "id": "73b6b8f58bb26c29",
+      "type": "text",
+      "text": "[✦ 问题 · 直角三角形两锐角互余及其判定思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%A4%E9%94%90%E8%A7%92%E4%BA%92%E4%BD%99%E5%8F%8A%E5%85%B6%E5%88%A4%E5%AE%9A%E6%80%9D%E8%80%83.md)",
+      "x": 112,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "0addf90643b30665",
+      "type": "text",
+      "text": "[练习入口 · 直角三角形的性质、判定与互逆命题](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/3%20%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8%E3%80%81%E5%88%A4%E5%AE%9A%E4%B8%8E%E4%BA%92%E9%80%86%E5%91%BD%E9%A2%98.md)\n\n共 3 题",
+      "x": 112,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "163b73d670490a4f",
+      "type": "text",
+      "text": "[✦ 直角三角形锐角互余性质与判定定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E9%94%90%E8%A7%92%E4%BA%92%E4%BD%99%E6%80%A7%E8%B4%A8%E4%B8%8E%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86--000014.md)",
+      "x": 532,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "600734d46df5d501",
+      "type": "text",
+      "text": "[✦ 勾股定理的表述](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E8%A1%A8%E8%BF%B0--000015.md)",
+      "x": 952,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "71a23f8a0040743a",
+      "type": "text",
+      "text": "[✦ 问题 · 勾股定理逆定理的证明探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E9%80%86%E5%AE%9A%E7%90%86%E7%9A%84%E8%AF%81%E6%98%8E%E6%8E%A2%E7%A9%B6.md)",
+      "x": 1372,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "37d2ebd3f72599e0",
+      "type": "text",
+      "text": "[✦ 勾股定理的逆定理及其证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E9%80%86%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E--000016.md)",
+      "x": 1792,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "bd6cc5ba74888ab3",
+      "type": "text",
+      "text": "[✦ 问题 · 互逆命题特征观察与交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E4%BA%92%E9%80%86%E5%91%BD%E9%A2%98%E7%89%B9%E5%BE%81%E8%A7%82%E5%AF%9F%E4%B8%8E%E4%BA%A4%E6%B5%81.md)",
+      "x": 2212,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "d55a0a0cd940124d",
+      "type": "text",
+      "text": "[✦ 互逆命题、原命题与逆命题的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%92%E9%80%86%E5%91%BD%E9%A2%98%E3%80%81%E5%8E%9F%E5%91%BD%E9%A2%98%E4%B8%8E%E9%80%86%E5%91%BD%E9%A2%98%E7%9A%84%E6%A6%82%E5%BF%B5--000017.md)",
+      "x": 2632,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "46c3544f2cf0ca1a",
+      "type": "text",
+      "text": "[✦ 问题 · 逆命题书写与真假判断尝试](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E9%80%86%E5%91%BD%E9%A2%98%E4%B9%A6%E5%86%99%E4%B8%8E%E7%9C%9F%E5%81%87%E5%88%A4%E6%96%AD%E5%B0%9D%E8%AF%95.md)",
+      "x": 3052,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1a82e6a801bb78f4",
+      "type": "text",
+      "text": "[✦ 逆定理的概念与互逆定理](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%80%86%E5%AE%9A%E7%90%86%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E4%BA%92%E9%80%86%E5%AE%9A%E7%90%86--000018.md)",
+      "x": 3472,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "607b4ccd762b5811",
+      "type": "text",
+      "text": "[✦ 欧几里得《原本》对勾股定理的证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E5%AF%B9%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E8%AF%81%E6%98%8E--000019.md)",
+      "x": 3892,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "3184ced62be0b7da",
+      "type": "group",
+      "label": "直角三角形全等的判定（HL）",
+      "x": 4388,
+      "y": 76,
+      "width": 1232,
+      "height": 392
+    },
+    {
+      "id": "a901f800d8deee31",
+      "type": "text",
+      "text": "[✦ 问题 · SSA与直角三角形全等条件辨析](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/SSA%E4%B8%8E%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E6%9D%A1%E4%BB%B6%E8%BE%A8%E6%9E%90.md)",
+      "x": 4444,
+      "y": 330,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "c7c216a51369e08a",
+      "type": "text",
+      "text": "[练习入口 · 直角三角形全等的判定（HL）](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/3%20%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E7%9A%84%E5%88%A4%E5%AE%9A%28HL%29.md)\n\n共 2 题",
+      "x": 4824,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "9fd7d333fa430bd9",
+      "type": "text",
+      "text": "[✦ 问题 · 已知斜边和直角边尺规作直角三角形方法探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B7%B2%E7%9F%A5%E6%96%9C%E8%BE%B9%E5%92%8C%E7%9B%B4%E8%A7%92%E8%BE%B9%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E6%96%B9%E6%B3%95%E6%8E%A2%E7%A9%B6.md)",
+      "x": 4444,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "6b2e00a2e2dd8c8a",
+      "type": "text",
+      "text": "[✦ 已知斜边和一条直角边用尺规作直角三角形](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B7%B2%E7%9F%A5%E6%96%9C%E8%BE%B9%E5%92%8C%E4%B8%80%E6%9D%A1%E7%9B%B4%E8%A7%92%E8%BE%B9%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2--000020.md)",
+      "x": 4864,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "d58e159127886a20",
+      "type": "text",
+      "text": "[✦ 直角三角形全等判定定理HL及其证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86HL%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E--000021.md)",
+      "x": 5284,
+      "y": 152,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "f20fce6bcaad08ad",
+      "type": "group",
+      "label": "习题 1.3",
+      "x": 5780,
+      "y": 264,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "74881a24fb7c6a74",
+      "type": "text",
+      "text": "[练习入口 · 习题 1.3](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/3%20%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2/%E4%B9%A0%E9%A2%98%201.3.md)\n\n共 10 题",
+      "x": 5836,
+      "y": 340,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "bfca10912a2edab8",
+      "type": "text",
+      "text": "# [3 直角三角形](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/3%20%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "724a87d676b2d16c",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/01-%E7%AC%AC%E4%B8%80%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E8%AF%81%E6%98%8E%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-75a20e.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "7234931467ef57f7",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "0508b379e9f7c881",
+      "fromNode": "d55a0a0cd940124d",
+      "toNode": "1a82e6a801bb78f4",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "cb7be4cf92b744dc",
+      "fromNode": "607b4ccd762b5811",
+      "toNode": "6b2e00a2e2dd8c8a",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "37fcca304a6c6100",
+      "fromNode": "37d2ebd3f72599e0",
+      "toNode": "d55a0a0cd940124d",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6fb0955fcdd8b6b8",
+      "fromNode": "73b6b8f58bb26c29",
+      "toNode": "163b73d670490a4f",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "de146217105fe958",
+      "fromNode": "6b2e00a2e2dd8c8a",
+      "toNode": "d58e159127886a20",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6002d237104f9dfc",
+      "fromNode": "600734d46df5d501",
+      "toNode": "37d2ebd3f72599e0",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "34bd9b86f1b68c55",
+      "fromNode": "1a82e6a801bb78f4",
+      "toNode": "607b4ccd762b5811",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d95724a6ad1442ef",
+      "fromNode": "163b73d670490a4f",
+      "toNode": "600734d46df5d501",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "5b37972c266ac953",
+      "fromNode": "600734d46df5d501",
+      "toNode": "71a23f8a0040743a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7ec364b13b255ecb",
+      "fromNode": "607b4ccd762b5811",
+      "toNode": "9fd7d333fa430bd9",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e40aa781c9ac6d62",
+      "fromNode": "607b4ccd762b5811",
+      "toNode": "a901f800d8deee31",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "9f733b9578ba0fdd",
+      "fromNode": "163b73d670490a4f",
+      "toNode": "71a23f8a0040743a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "209cccbbb14efecd",
+      "fromNode": "9fd7d333fa430bd9",
+      "toNode": "d58e159127886a20",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b69e34f015c19e0e",
+      "fromNode": "9fd7d333fa430bd9",
+      "toNode": "6b2e00a2e2dd8c8a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "22a194e241365720",
+      "fromNode": "bd6cc5ba74888ab3",
+      "toNode": "d55a0a0cd940124d",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7563ee1306b5b054",
+      "fromNode": "71a23f8a0040743a",
+      "toNode": "37d2ebd3f72599e0",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "759e840d9f7cc47b",
+      "fromNode": "d55a0a0cd940124d",
+      "toNode": "46c3544f2cf0ca1a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "693729068ea2a131",
+      "fromNode": "a901f800d8deee31",
+      "toNode": "6b2e00a2e2dd8c8a",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "fe2857a3c1eea8c6",
+      "fromNode": "37d2ebd3f72599e0",
+      "toNode": "bd6cc5ba74888ab3",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "98a10ace9f1d1d57",
+      "fromNode": "46c3544f2cf0ca1a",
+      "toNode": "1a82e6a801bb78f4",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "928163e12f7d60a2",
+      "fromNode": "73b6b8f58bb26c29",
+      "toNode": "600734d46df5d501",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "da86b11797dc906b",
+      "fromNode": "73b6b8f58bb26c29",
+      "toNode": "163b73d670490a4f",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "266f650add85e7c3",
+      "fromNode": "d55a0a0cd940124d",
+      "toNode": "0addf90643b30665",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 3题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c1438aceb23459a5",
+      "fromNode": "6b2e00a2e2dd8c8a",
+      "toNode": "c7c216a51369e08a",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 2题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "25c4e38b7f4dcce7",
+      "fromNode": "d58e159127886a20",
+      "toNode": "74881a24fb7c6a74",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 10题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

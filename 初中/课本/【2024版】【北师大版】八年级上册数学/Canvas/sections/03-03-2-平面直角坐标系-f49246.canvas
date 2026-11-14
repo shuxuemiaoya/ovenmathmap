@@ -1,0 +1,506 @@
+{
+  "nodes": [
+    {
+      "id": "31f00255344bc10f",
+      "type": "group",
+      "label": "2 平面直角坐标系",
+      "x": 0,
+      "y": 0,
+      "width": 2716,
+      "height": 3928
+    },
+    {
+      "id": "c99b0cc438f0751e",
+      "type": "group",
+      "label": "3.2.1 平面直角坐标系与点的坐标",
+      "x": 56,
+      "y": 3298,
+      "width": 1652,
+      "height": 568
+    },
+    {
+      "id": "fb0d6930cb2b769d",
+      "type": "text",
+      "text": "[✦ 情景引入 · 北京景点分布地图距离与方位介绍引出平面直角坐标系建立](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E5%8C%97%E4%BA%AC%E6%99%AF%E7%82%B9%E5%88%86%E5%B8%83%E5%9C%B0%E5%9B%BE%E8%B7%9D%E7%A6%BB%E4%B8%8E%E6%96%B9%E4%BD%8D%E4%BB%8B%E7%BB%8D%E5%BC%95%E5%87%BA%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E5%BB%BA%E7%AB%8B--0009-S.md)",
+      "x": 112,
+      "y": 3374,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "8a847c0430c62d6f",
+      "type": "text",
+      "text": "[§ 3.2.1 平面直角坐标系与点的坐标](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/3.2.1%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)",
+      "x": 112,
+      "y": 3730,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "b45ab65a3d756e5c",
+      "type": "text",
+      "text": "[练习入口 · 3.2.1 平面直角坐标系与点的坐标](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/3.2.1%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)\n\n共 1 题",
+      "x": 472,
+      "y": 3738,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "676107c2288b1238",
+      "type": "text",
+      "text": "[✦ 问题 · 尝试·思考：用数对建立北京景点位置网格与坐标表示探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83-%E7%94%A8%E6%95%B0%E5%AF%B9%E5%BB%BA%E7%AB%8B%E5%8C%97%E4%BA%AC%E6%99%AF%E7%82%B9%E4%BD%8D%E7%BD%AE%E7%BD%91%E6%A0%BC%E4%B8%8E%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA%E6%8E%A2%E7%A9%B6.md)",
+      "x": 112,
+      "y": 3552,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "dc8ad2f166361531",
+      "type": "text",
+      "text": "[✦ 平面直角坐标系的概念、象限划分与点的坐标有序实数对](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%B1%A1%E9%99%90%E5%88%92%E5%88%86%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E6%9C%89%E5%BA%8F%E5%AE%9E%E6%95%B0%E5%AF%B9--000029.md)",
+      "x": 532,
+      "y": 3550,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "a1c09dd067e7ba4c",
+      "type": "text",
+      "text": "[· 方法例题 · 例1 根据平面直角坐标系中多边形顶点位置写出各顶点坐标](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0019-W.md)",
+      "x": 492,
+      "y": 3374,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "6ae637e90a04c0ec",
+      "type": "text",
+      "text": "[✦ 问题 · 操作·思考：根据给定坐标描点连线发现图形与数对唯一性](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%93%8D%E4%BD%9C%C2%B7%E6%80%9D%E8%80%83-%E6%A0%B9%E6%8D%AE%E7%BB%99%E5%AE%9A%E5%9D%90%E6%A0%87%E6%8F%8F%E7%82%B9%E8%BF%9E%E7%BA%BF%E5%8F%91%E7%8E%B0%E5%9B%BE%E5%BD%A2%E4%B8%8E%E6%95%B0%E5%AF%B9%E5%94%AF%E4%B8%80%E6%80%A7.md)",
+      "x": 952,
+      "y": 3374,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "59d70a591833a00f",
+      "type": "text",
+      "text": "[✦ 平面内的点与有序实数对的一一对应关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%86%85%E7%9A%84%E7%82%B9%E4%B8%8E%E6%9C%89%E5%BA%8F%E5%AE%9E%E6%95%B0%E5%AF%B9%E7%9A%84%E4%B8%80%E4%B8%80%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB--000030.md)",
+      "x": 1372,
+      "y": 3550,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "36613fbc879d30cc",
+      "type": "group",
+      "label": "3.2.2 特殊位置点的坐标特征",
+      "x": 588,
+      "y": 2260,
+      "width": 372,
+      "height": 878
+    },
+    {
+      "id": "34a3206120fb0097",
+      "type": "text",
+      "text": "[· 方法例题 · 例2 在坐标系中描点连线构成图形并观察坐标特征](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0020-W.md)",
+      "x": 644,
+      "y": 2502,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "8dc02933dddf46b8",
+      "type": "text",
+      "text": "[练习入口 · 3.2.2 特殊位置点的坐标特征](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/3.2.2%20%E7%89%B9%E6%AE%8A%E4%BD%8D%E7%BD%AE%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E7%89%B9%E5%BE%81.md)\n\n共 1 题",
+      "x": 644,
+      "y": 3010,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "de2a178690a254ff",
+      "type": "text",
+      "text": "[§ 3.2.2 特殊位置点的坐标特征](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/3.2.2%20%E7%89%B9%E6%AE%8A%E4%BD%8D%E7%BD%AE%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E7%89%B9%E5%BE%81.md)",
+      "x": 644,
+      "y": 2844,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "8c78e6559b54df7a",
+      "type": "text",
+      "text": "[· 问题 · 思考·交流：各象限内及坐标轴上点的坐标符号与零特征探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81-%E5%90%84%E8%B1%A1%E9%99%90%E5%86%85%E5%8F%8A%E5%9D%90%E6%A0%87%E8%BD%B4%E4%B8%8A%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E7%AC%A6%E5%8F%B7%E4%B8%8E%E9%9B%B6%E7%89%B9%E5%BE%81%E6%8E%A2%E7%A9%B6.md)",
+      "x": 644,
+      "y": 2336,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "a5b3a870613b5973",
+      "type": "text",
+      "text": "[· 问题 · 尝试·思考：坐标轴上点坐标特点及平行于坐标轴直线上点的坐标关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83-%E5%9D%90%E6%A0%87%E8%BD%B4%E4%B8%8A%E7%82%B9%E5%9D%90%E6%A0%87%E7%89%B9%E7%82%B9%E5%8F%8A%E5%B9%B3%E8%A1%8C%E4%BA%8E%E5%9D%90%E6%A0%87%E8%BD%B4%E7%9B%B4%E7%BA%BF%E4%B8%8A%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E5%85%B3%E7%B3%BB.md)",
+      "x": 644,
+      "y": 2668,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "df84ea2170c05c5a",
+      "type": "group",
+      "label": "3.2.3 建立适当的平面直角坐标系",
+      "x": 1868,
+      "y": 2934,
+      "width": 792,
+      "height": 938
+    },
+    {
+      "id": "e1288356d7fd3387",
+      "type": "text",
+      "text": "[· 方法例题 · 例3 建立适当的直角坐标系表示长方形顶点坐标](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0021-W.md)",
+      "x": 1924,
+      "y": 3010,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "75b2150769dba735",
+      "type": "text",
+      "text": "[练习入口 · 3.2.3 建立适当的平面直角坐标系](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/3.2.3%20%E5%BB%BA%E7%AB%8B%E9%80%82%E5%BD%93%E7%9A%84%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB.md)\n\n共 1 题",
+      "x": 2344,
+      "y": 3010,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "b2faf8518d2713d8",
+      "type": "text",
+      "text": "[§ 3.2.3 建立适当的平面直角坐标系](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/3.2.3%20%E5%BB%BA%E7%AB%8B%E9%80%82%E5%BD%93%E7%9A%84%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB.md)",
+      "x": 1924,
+      "y": 3750,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "d29ce1b33693673a",
+      "type": "text",
+      "text": "[· 问题 · 思考·交流：不同原点选取对长方形顶点坐标的影响](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83%C2%B7%E4%BA%A4%E6%B5%81-%E4%B8%8D%E5%90%8C%E5%8E%9F%E7%82%B9%E9%80%89%E5%8F%96%E5%AF%B9%E9%95%BF%E6%96%B9%E5%BD%A2%E9%A1%B6%E7%82%B9%E5%9D%90%E6%A0%87%E7%9A%84%E5%BD%B1%E5%93%8D.md)",
+      "x": 1924,
+      "y": 3242,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "db3cb4d623452df8",
+      "type": "text",
+      "text": "[· 方法例题 · 例4 等边三角形顶点坐标求解（建系与勾股定理结合）](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E4%BE%8B%E9%A2%98/0022-W.md)",
+      "x": 2344,
+      "y": 3242,
+      "width": 250,
+      "height": 66,
+      "color": "4"
+    },
+    {
+      "id": "599e26445e4c4501",
+      "type": "text",
+      "text": "[· 问题 · 尝试·思考：重新建立坐标系求等边三角形顶点坐标](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%9D%E8%AF%95%C2%B7%E6%80%9D%E8%80%83-%E9%87%8D%E6%96%B0%E5%BB%BA%E7%AB%8B%E5%9D%90%E6%A0%87%E7%B3%BB%E6%B1%82%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2%E9%A1%B6%E7%82%B9%E5%9D%90%E6%A0%87.md)",
+      "x": 1924,
+      "y": 3408,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "82b264d997f57d0b",
+      "type": "text",
+      "text": "[· 问题 · 回顾·反思：建立适当平面直角坐标系的经验与注意事项](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%9B%9E%E9%A1%BE%C2%B7%E5%8F%8D%E6%80%9D-%E5%BB%BA%E7%AB%8B%E9%80%82%E5%BD%93%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E7%BB%8F%E9%AA%8C%E4%B8%8E%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)",
+      "x": 1924,
+      "y": 3574,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "8ba420f61c101786",
+      "type": "group",
+      "label": "习题 3.2",
+      "x": 56,
+      "y": 2934,
+      "width": 372,
+      "height": 204
+    },
+    {
+      "id": "0e69581c825c9c4b",
+      "type": "text",
+      "text": "[练习入口 · 习题 3.2](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/%E4%B9%A0%E9%A2%98%203.2.md)\n\n共 13 题",
+      "x": 112,
+      "y": 3010,
+      "width": 260,
+      "height": 72,
+      "color": "6"
+    },
+    {
+      "id": "438a4b25ea82ca46",
+      "type": "text",
+      "text": "# [2 平面直角坐标系](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB/%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "aed8957dcdec5d94",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E4%BD%8D%E7%BD%AE%E4%B8%8E%E5%9D%90%E6%A0%87-35a66a.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "d86e5d4fd8594a58",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "d63569949d50ef03",
+      "fromNode": "dc8ad2f166361531",
+      "toNode": "59d70a591833a00f",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e9c5e57f6ab175e1",
+      "fromNode": "6ae637e90a04c0ec",
+      "toNode": "59d70a591833a00f",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e2e048c26e65a4ba",
+      "fromNode": "34a3206120fb0097",
+      "toNode": "dc8ad2f166361531",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "adddfb48cd9a5c77",
+      "fromNode": "34a3206120fb0097",
+      "toNode": "59d70a591833a00f",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d5ec809c8bf66ceb",
+      "fromNode": "dc8ad2f166361531",
+      "toNode": "6ae637e90a04c0ec",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "736d4237163b08cc",
+      "fromNode": "e1288356d7fd3387",
+      "toNode": "dc8ad2f166361531",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7f5f0e2402bebf5a",
+      "fromNode": "db3cb4d623452df8",
+      "toNode": "dc8ad2f166361531",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "281ff7c104e35098",
+      "fromNode": "a1c09dd067e7ba4c",
+      "toNode": "dc8ad2f166361531",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "672d56914e528172",
+      "fromNode": "a1c09dd067e7ba4c",
+      "toNode": "59d70a591833a00f",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "例证",
+      "color": "4",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e93fc3fd3468211e",
+      "fromNode": "676107c2288b1238",
+      "toNode": "dc8ad2f166361531",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "41f8fea11ab12f66",
+      "fromNode": "dc8ad2f166361531",
+      "toNode": "b45ab65a3d756e5c",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "6bdc0a3a378bd520",
+      "fromNode": "dc8ad2f166361531",
+      "toNode": "8dc02933dddf46b8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "574a9a0ba2a54316",
+      "fromNode": "dc8ad2f166361531",
+      "toNode": "75b2150769dba735",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 1题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0a029298a1c75d91",
+      "fromNode": "dc8ad2f166361531",
+      "toNode": "0e69581c825c9c4b",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "练习 · 13题",
+      "color": "6",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c87ff21105284cda",
+      "fromNode": "fb0d6930cb2b769d",
+      "toNode": "8a847c0430c62d6f",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "419320a44bd84159",
+      "fromNode": "8c78e6559b54df7a",
+      "toNode": "de2a178690a254ff",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "0f607fe140d17ec5",
+      "fromNode": "a5b3a870613b5973",
+      "toNode": "de2a178690a254ff",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "54fa5e8b7f96959a",
+      "fromNode": "d29ce1b33693673a",
+      "toNode": "b2faf8518d2713d8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "353602788cb1ee7f",
+      "fromNode": "599e26445e4c4501",
+      "toNode": "b2faf8518d2713d8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a37e9303f29cc624",
+      "fromNode": "82b264d997f57d0b",
+      "toNode": "b2faf8518d2713d8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

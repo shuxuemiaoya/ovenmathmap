@@ -1,0 +1,696 @@
+{
+  "nodes": [
+    {
+      "id": "0857a6f989299b70",
+      "type": "group",
+      "label": "第四章 因式分解",
+      "x": 0,
+      "y": 0,
+      "width": 6894,
+      "height": 2630
+    },
+    {
+      "id": "3bc75593db09d17d",
+      "type": "text",
+      "text": "[⌕ 放大 · 章引入](../sections/04-01-%E7%AB%A0%E5%BC%95%E5%85%A5-70f920.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 56,
+      "y": 76,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "c1837c50b1713fdd",
+      "type": "text",
+      "text": "[✦ 情景引入 · 从整数乘积分解类比走向多项式因式分解及其基本方法](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E4%BB%8E%E6%95%B4%E6%95%B0%E4%B9%98%E7%A7%AF%E5%88%86%E8%A7%A3%E7%B1%BB%E6%AF%94%E8%B5%B0%E5%90%91%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E5%8F%8A%E5%85%B6%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95--0016-S.md)",
+      "x": 56,
+      "y": 330,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1e119c75c7f02d1f",
+      "type": "group",
+      "label": "02 · 1 因式分解",
+      "x": 56,
+      "y": 568,
+      "width": 812,
+      "height": 570
+    },
+    {
+      "id": "5e8fd466d87d55f0",
+      "type": "text",
+      "text": "[⌕ 放大 · 1 因式分解](../sections/04-02-1-%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3-4ff535.canvas)\n\n5 个展示原子 · 8 题",
+      "x": 492,
+      "y": 988,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "93b7a7a72e1b10f3",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由算式99³-99整除性变形类比引出因式分解的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E7%AE%97%E5%BC%8F993-99%E6%95%B4%E9%99%A4%E6%80%A7%E5%8F%98%E5%BD%A2%E7%B1%BB%E6%AF%94%E5%BC%95%E5%87%BA%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E6%A6%82%E5%BF%B5--0017-S.md)",
+      "x": 112,
+      "y": 644,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "867edc62602f5d5e",
+      "type": "text",
+      "text": "[✦ 问题 · 将多项式a³-a化为整式乘积的尝试](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B0%86%E5%A4%9A%E9%A1%B9%E5%BC%8Fa3-a%E5%8C%96%E4%B8%BA%E6%95%B4%E5%BC%8F%E4%B9%98%E7%A7%AF%E7%9A%84%E5%B0%9D%E8%AF%95.md)",
+      "x": 112,
+      "y": 822,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "79d995aaadc19af2",
+      "type": "text",
+      "text": "[✦ 问题 · 拼图面积恒等式与多项式变形观察](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%8B%BC%E5%9B%BE%E9%9D%A2%E7%A7%AF%E6%81%92%E7%AD%89%E5%BC%8F%E4%B8%8E%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%8F%98%E5%BD%A2%E8%A7%82%E5%AF%9F.md)",
+      "x": 112,
+      "y": 1000,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1e29bd6557ab38ba",
+      "type": "text",
+      "text": "[✦ 因式分解的定义](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E5%AE%9A%E4%B9%89--000049.md)",
+      "x": 532,
+      "y": 810,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "fc805c5d05dfa656",
+      "type": "text",
+      "text": "[· 问题 · 因式分解与整式乘法互逆关系思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%8E%E6%95%B4%E5%BC%8F%E4%B9%98%E6%B3%95%E4%BA%92%E9%80%86%E5%85%B3%E7%B3%BB%E6%80%9D%E8%80%83.md)",
+      "x": 492,
+      "y": 644,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "146326699c9e18eb",
+      "type": "group",
+      "label": "03 · 2 提公因式法",
+      "x": 1028,
+      "y": 330,
+      "width": 2604,
+      "height": 1296
+    },
+    {
+      "id": "89745c11cc661b75",
+      "type": "text",
+      "text": "[⌕ 放大 · 2 提公因式法](../sections/04-03-2-%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95-3e0eb2.canvas)\n\n8 个展示原子 · 9 题",
+      "x": 1084,
+      "y": 406,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "4101803ba5fdf375",
+      "type": "group",
+      "label": "提公因式法（单项式公因式）",
+      "x": 1084,
+      "y": 660,
+      "width": 2492,
+      "height": 210
+    },
+    {
+      "id": "2fff1e2b18746969",
+      "type": "text",
+      "text": "[✦ 情景引入 · 由多项式各项含相同因式的变形引出公因式与提公因式法](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E7%94%B1%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%90%84%E9%A1%B9%E5%90%AB%E7%9B%B8%E5%90%8C%E5%9B%A0%E5%BC%8F%E7%9A%84%E5%8F%98%E5%BD%A2%E5%BC%95%E5%87%BA%E5%85%AC%E5%9B%A0%E5%BC%8F%E4%B8%8E%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95--0018-S.md)",
+      "x": 1140,
+      "y": 736,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "d2507d64664d8bb5",
+      "type": "text",
+      "text": "[✦ 公因式的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%AC%E5%9B%A0%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5--000050.md)",
+      "x": 1560,
+      "y": 736,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "0318d7c53d136fc1",
+      "type": "text",
+      "text": "[✦ 问题 · 确定多项式公因式并尝试因式分解](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%A1%AE%E5%AE%9A%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%85%AC%E5%9B%A0%E5%BC%8F%E5%B9%B6%E5%B0%9D%E8%AF%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3.md)",
+      "x": 1980,
+      "y": 736,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "f71ce68f8e4c7302",
+      "type": "text",
+      "text": "[✦ 提公因式法的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E7%9A%84%E6%A6%82%E5%BF%B5--000051.md)",
+      "x": 2400,
+      "y": 736,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "cfa0093048787df6",
+      "type": "text",
+      "text": "[✦ 首项系数为负时提公因式法的符号规则](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%A6%96%E9%A1%B9%E7%B3%BB%E6%95%B0%E4%B8%BA%E8%B4%9F%E6%97%B6%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E7%9A%84%E7%AC%A6%E5%8F%B7%E8%A7%84%E5%88%99--000052.md)",
+      "x": 2820,
+      "y": 736,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "29ac214a916e070c",
+      "type": "text",
+      "text": "[✦ 问题 · 提公因式法因式分解与单项式乘多项式的关系](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%8E%E5%8D%95%E9%A1%B9%E5%BC%8F%E4%B9%98%E5%A4%9A%E9%A1%B9%E5%BC%8F%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "x": 3240,
+      "y": 736,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "03fe61af108ff696",
+      "type": "group",
+      "label": "提公因式法（多项式公因式）",
+      "x": 1084,
+      "y": 1030,
+      "width": 372,
+      "height": 540
+    },
+    {
+      "id": "001fcb52fdc4d707",
+      "type": "text",
+      "text": "[§ 提公因式法（多项式公因式）](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/2%20%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%28%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%85%AC%E5%9B%A0%E5%BC%8F%29.md)",
+      "x": 1140,
+      "y": 1448,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "4f4dce64fd30f7f8",
+      "type": "text",
+      "text": "[· 问题 · 提公因式法因式分解经验总结与交流](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93%E4%B8%8E%E4%BA%A4%E6%B5%81.md)",
+      "x": 1140,
+      "y": 1106,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "a2549be0c320affe",
+      "type": "text",
+      "text": "[· 问题 · 长方形卡片拼图与因式分解等式探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E9%95%BF%E6%96%B9%E5%BD%A2%E5%8D%A1%E7%89%87%E6%8B%BC%E5%9B%BE%E4%B8%8E%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%AD%89%E5%BC%8F%E6%8E%A2%E7%A9%B6.md)",
+      "x": 1140,
+      "y": 1272,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "6384040d9ca48b45",
+      "type": "group",
+      "label": "04 · 3 公式法",
+      "x": 3792,
+      "y": 330,
+      "width": 3046,
+      "height": 744
+    },
+    {
+      "id": "4d4f5fb5d747f079",
+      "type": "text",
+      "text": "[⌕ 放大 · 3 公式法](../sections/04-04-3-%E5%85%AC%E5%BC%8F%E6%B3%95-6d4678.canvas)\n\n8 个展示原子 · 11 题",
+      "x": 4820,
+      "y": 776,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "cc84ca6c631b03d7",
+      "type": "group",
+      "label": "平方差公式法因式分解",
+      "x": 3848,
+      "y": 406,
+      "width": 812,
+      "height": 612
+    },
+    {
+      "id": "b41a978db79205bf",
+      "type": "text",
+      "text": "[✦ 问题 · 平方差形式多项式因式分解引入思考](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E5%B9%B3%E6%96%B9%E5%B7%AE%E5%BD%A2%E5%BC%8F%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E5%BC%95%E5%85%A5%E6%80%9D%E8%80%83.md)",
+      "x": 3904,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "a0bd470110861bb8",
+      "type": "text",
+      "text": "[§ 平方差公式法因式分解](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/3%20%E5%85%AC%E5%BC%8F%E6%B3%95/%E5%B9%B3%E6%96%B9%E5%B7%AE%E5%85%AC%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3.md)",
+      "x": 3904,
+      "y": 896,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "73724a48a4efcf60",
+      "type": "text",
+      "text": "[✦ 因式分解的平方差公式](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E5%B9%B3%E6%96%B9%E5%B7%AE%E5%85%AC%E5%BC%8F--000053.md)",
+      "x": 4324,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "8468b0ffebcf4e26",
+      "type": "text",
+      "text": "[· 问题 · 正方形剪角剩余面积与平方差公式应用](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%89%AA%E8%A7%92%E5%89%A9%E4%BD%99%E9%9D%A2%E7%A7%AF%E4%B8%8E%E5%B9%B3%E6%96%B9%E5%B7%AE%E5%85%AC%E5%BC%8F%E5%BA%94%E7%94%A8.md)",
+      "x": 3904,
+      "y": 720,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "7c1b5f99f05dc34c",
+      "type": "group",
+      "label": "完全平方公式法因式分解",
+      "x": 4820,
+      "y": 406,
+      "width": 1962,
+      "height": 210
+    },
+    {
+      "id": "5afb16a5e5a99612",
+      "type": "text",
+      "text": "[✦ 因式分解的完全平方公式](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E5%85%AC%E5%BC%8F--000054.md)",
+      "x": 4876,
+      "y": 482,
+      "width": 250,
+      "height": 66,
+      "color": "2"
+    },
+    {
+      "id": "2b0d1cdccd53b522",
+      "type": "text",
+      "text": "[✦ 公式法因式分解的概念](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%AC%E5%BC%8F%E6%B3%95%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E6%A6%82%E5%BF%B5--000055.md)",
+      "x": 5266,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "bb0f060d7c90a4f4",
+      "type": "text",
+      "text": "[✦ 问题 · 从整式乘法到因式分解的探索过程反思](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E4%BB%8E%E6%95%B4%E5%BC%8F%E4%B9%98%E6%B3%95%E5%88%B0%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E7%9A%84%E6%8E%A2%E7%B4%A2%E8%BF%87%E7%A8%8B%E5%8F%8D%E6%80%9D.md)",
+      "x": 6066,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "1f31c8d45fc7627d",
+      "type": "text",
+      "text": "[✦ 智慧数的概念与奇数情况证明](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%99%BA%E6%85%A7%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%A5%87%E6%95%B0%E6%83%85%E5%86%B5%E8%AF%81%E6%98%8E--000056.md)",
+      "x": 5686,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "2"
+    },
+    {
+      "id": "802334fe906275a7",
+      "type": "text",
+      "text": "[✦ 问题 · 智慧数中4的倍数情况与第1000个智慧数探究](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%99%BA%E6%85%A7%E6%95%B0%E4%B8%AD4%E7%9A%84%E5%80%8D%E6%95%B0%E6%83%85%E5%86%B5%E4%B8%8E%E7%AC%AC1000%E4%B8%AA%E6%99%BA%E6%85%A7%E6%95%B0%E6%8E%A2%E7%A9%B6.md)",
+      "x": 6446,
+      "y": 482,
+      "width": 280,
+      "height": 78,
+      "color": "5"
+    },
+    {
+      "id": "3f6d86329f770a4c",
+      "type": "group",
+      "label": "05 · 回顾与思考",
+      "x": 56,
+      "y": 1786,
+      "width": 412,
+      "height": 402
+    },
+    {
+      "id": "5ef953f38f74d333",
+      "type": "text",
+      "text": "[⌕ 放大 · 回顾与思考](../sections/04-05-%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83-206909.canvas)\n\n1 个展示原子 · 0 题",
+      "x": 112,
+      "y": 2038,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "48a8d1c4cd05e12e",
+      "type": "text",
+      "text": "[· 问题 · 第四章 回顾与思考问题](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%9E%E9%A1%BE%E4%B8%8E%E6%80%9D%E8%80%83%E9%97%AE%E9%A2%98.md)",
+      "x": 112,
+      "y": 1862,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "8aaf7cf6cef140d3",
+      "type": "group",
+      "label": "06 · 复习题",
+      "x": 56,
+      "y": 2348,
+      "width": 412,
+      "height": 226
+    },
+    {
+      "id": "71e48f0130715f80",
+      "type": "text",
+      "text": "[⌕ 放大 · 复习题](../sections/04-06-%E5%A4%8D%E4%B9%A0%E9%A2%98-4cda20.canvas)\n\n0 个展示原子 · 13 题",
+      "x": 112,
+      "y": 2424,
+      "width": 300,
+      "height": 94,
+      "color": "1"
+    },
+    {
+      "id": "7157012864447693",
+      "type": "text",
+      "text": "# [第四章 因式分解](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "eb7f46adae5e2dd0",
+      "type": "text",
+      "text": "[← 返回全书](../overview.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "24792cca712086c5",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "f17108c746d7ac14",
+      "fromNode": "f71ce68f8e4c7302",
+      "toNode": "cfa0093048787df6",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c63ea9e73c03fd35",
+      "fromNode": "2b0d1cdccd53b522",
+      "toNode": "1f31c8d45fc7627d",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "92026583a35fa334",
+      "fromNode": "73724a48a4efcf60",
+      "toNode": "5afb16a5e5a99612",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "d8490ed79cb61556",
+      "fromNode": "d2507d64664d8bb5",
+      "toNode": "f71ce68f8e4c7302",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "3336b9d690d4d134",
+      "fromNode": "cfa0093048787df6",
+      "toNode": "73724a48a4efcf60",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "8e16d3bcbebf171d",
+      "fromNode": "1e29bd6557ab38ba",
+      "toNode": "d2507d64664d8bb5",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "49c2bcc047402fad",
+      "fromNode": "5afb16a5e5a99612",
+      "toNode": "2b0d1cdccd53b522",
+      "fromSide": "right",
+      "toSide": "left",
+      "label": "主线 · 发展",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "287c24e6024884b0",
+      "fromNode": "867edc62602f5d5e",
+      "toNode": "1e29bd6557ab38ba",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b595bdae29757400",
+      "fromNode": "b41a978db79205bf",
+      "toNode": "73724a48a4efcf60",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "98b3e73c19dd7430",
+      "fromNode": "d2507d64664d8bb5",
+      "toNode": "0318d7c53d136fc1",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "b5c556f129046edd",
+      "fromNode": "93b7a7a72e1b10f3",
+      "toNode": "1e29bd6557ab38ba",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "c435c9195cc21e86",
+      "fromNode": "2fff1e2b18746969",
+      "toNode": "d2507d64664d8bb5",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "2f5bd36574964435",
+      "fromNode": "c1837c50b1713fdd",
+      "toNode": "1e29bd6557ab38ba",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "a4467758e22bed54",
+      "fromNode": "1e29bd6557ab38ba",
+      "toNode": "2fff1e2b18746969",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "39b26dd027c2a3a3",
+      "fromNode": "79d995aaadc19af2",
+      "toNode": "1e29bd6557ab38ba",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "15c8c37d19b10055",
+      "fromNode": "cfa0093048787df6",
+      "toNode": "29ac214a916e070c",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7a99fd7c3e818083",
+      "fromNode": "2b0d1cdccd53b522",
+      "toNode": "bb0f060d7c90a4f4",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "e564c00219c82371",
+      "fromNode": "0318d7c53d136fc1",
+      "toNode": "f71ce68f8e4c7302",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "584c55b3f960adb8",
+      "fromNode": "1f31c8d45fc7627d",
+      "toNode": "802334fe906275a7",
+      "fromSide": "right",
+      "toSide": "top",
+      "label": "主线 · 引发",
+      "color": "3",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "7f40e155823c0995",
+      "fromNode": "fc805c5d05dfa656",
+      "toNode": "5e8fd466d87d55f0",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "418fb1b2e4fe37b9",
+      "fromNode": "4f4dce64fd30f7f8",
+      "toNode": "001fcb52fdc4d707",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "db77799847e7ee13",
+      "fromNode": "a2549be0c320affe",
+      "toNode": "001fcb52fdc4d707",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "1859e41735017d2e",
+      "fromNode": "8468b0ffebcf4e26",
+      "toNode": "a0bd470110861bb8",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "bbbf240a9a5d18cd",
+      "fromNode": "48a8d1c4cd05e12e",
+      "toNode": "5ef953f38f74d333",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}

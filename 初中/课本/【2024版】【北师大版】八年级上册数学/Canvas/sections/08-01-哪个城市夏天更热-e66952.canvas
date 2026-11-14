@@ -1,0 +1,73 @@
+{
+  "nodes": [
+    {
+      "id": "ba38c837dea371c3",
+      "type": "group",
+      "label": "哪个城市夏天更热",
+      "x": 0,
+      "y": 0,
+      "width": 372,
+      "height": 374
+    },
+    {
+      "id": "72352eee27613d13",
+      "type": "text",
+      "text": "[§ 哪个城市夏天更热](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)",
+      "x": 56,
+      "y": 252,
+      "width": 260,
+      "height": 66
+    },
+    {
+      "id": "8592769eb5f2a1ae",
+      "type": "text",
+      "text": "[· 问题 · 综合与实践：哪个城市夏天更热](../../%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)",
+      "x": 56,
+      "y": 76,
+      "width": 250,
+      "height": 66,
+      "color": "5"
+    },
+    {
+      "id": "bd0ce645fd02ccbe",
+      "type": "text",
+      "text": "# [哪个城市夏天更热](../../%E7%BB%84%E7%BB%87%E5%B1%82/%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%A4%8F%E5%A4%A9%E6%9B%B4%E7%83%AD.md)\n\n知识分簇 · 沿连线阅读",
+      "x": 0,
+      "y": -180,
+      "width": 390,
+      "height": 150,
+      "color": "1"
+    },
+    {
+      "id": "78fdf3994c623935",
+      "type": "text",
+      "text": "[← 返回章节](../chapters/08-%E7%BB%BC%E5%90%88%E4%B8%8E%E5%AE%9E%E8%B7%B5-bf69b1.canvas)",
+      "x": 490,
+      "y": -180,
+      "width": 230,
+      "height": 66
+    },
+    {
+      "id": "84c902febec389a0",
+      "type": "text",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "x": 820,
+      "y": -180,
+      "width": 400,
+      "height": 86
+    }
+  ],
+  "edges": [
+    {
+      "id": "513dd588e5960448",
+      "fromNode": "8592769eb5f2a1ae",
+      "toNode": "72352eee27613d13",
+      "fromSide": "bottom",
+      "toSide": "top",
+      "label": "归属",
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "toEnd": "arrow"
+    }
+  ]
+}
