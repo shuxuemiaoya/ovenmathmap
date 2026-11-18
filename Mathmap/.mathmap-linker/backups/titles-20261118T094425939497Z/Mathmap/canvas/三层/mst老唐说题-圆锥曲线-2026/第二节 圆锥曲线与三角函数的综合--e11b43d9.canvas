@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "508000e461f1e990a950",
+      "fromSide": "top",
+      "id": "a1cd6a420218fab75a15",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-a60e19ce263cb8df",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "819cb7c018ea7c3de3de",
+      "text": "# 第二节 圆锥曲线与三角函数的综合\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "9c14a9eaab182007bb21",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC09%E7%AB%A0%20%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E8%B7%A8%E7%95%8C%E7%BB%BC%E5%90%88--1e08c9be.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "960e6ed47d60c51c45ee",
+      "mathmap_atom_id": "Kff2296bfa3045c",
+      "mathmap_file": "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md",
+      "text": "[三角恒等变换的基本思路与特点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF%E4%B8%8E%E7%89%B9%E7%82%B9--000177.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "508000e461f1e990a950",
+      "mathmap_atom_id": "K63f2878a46c90d",
+      "mathmap_file": "Mathmap/知识点/积化和差与和差化积公式.md",
+      "text": "[积化和差与和差化积公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A7%AF%E5%8C%96%E5%92%8C%E5%B7%AE%E4%B8%8E%E5%92%8C%E5%B7%AE%E5%8C%96%E7%A7%AF%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    }
+  ]
+}

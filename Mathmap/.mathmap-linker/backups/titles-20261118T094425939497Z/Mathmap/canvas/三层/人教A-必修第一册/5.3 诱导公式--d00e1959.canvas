@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-047",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "024f4d2a41776fa86487",
+      "text": "# 5.3 诱导公式\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "3ab3c66ec1e3a388f55e",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0--e6ce5609.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1746b765b567863bef8f",
+      "mathmap_atom_id": "K9eafe64fb64d6b",
+      "mathmap_file": "Mathmap/知识点/利用诱导公式将任意角三角函数化归为锐角三角函数的方法--000161.md",
+      "text": "[利用诱导公式将任意角三角函数化归为锐角三角函数的方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%A9%E7%94%A8%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E5%B0%86%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E5%8C%96%E5%BD%92%E4%B8%BA%E9%94%90%E8%A7%92%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E6%96%B9%E6%B3%95--000161.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "65644e67c56d2d567c8d",
+      "mathmap_atom_id": "K0b9d3f496042ed",
+      "mathmap_file": "Mathmap/知识点/诱导公式二、三、四--000160.md",
+      "text": "[诱导公式二、三、四](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E4%BA%8C%E3%80%81%E4%B8%89%E3%80%81%E5%9B%9B--000160.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b4f6134d617f9f602d4a",
+      "mathmap_atom_id": "K6b3d3e4a84fe1d",
+      "mathmap_file": "Mathmap/知识点/诱导公式五、六--000162.md",
+      "text": "[诱导公式五、六](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%AF%B1%E5%AF%BC%E5%85%AC%E5%BC%8F%E4%BA%94%E3%80%81%E5%85%AD--000162.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

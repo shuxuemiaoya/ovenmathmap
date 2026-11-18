@@ -1,0 +1,175 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "635feabdd03cd46c",
+      "fromSide": "right",
+      "id": "a9152440330352d0",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "3331d5bc22a14cbc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "635feabdd03cd46c",
+      "fromSide": "right",
+      "id": "6922281970d98b47",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "3331d5bc22a14cbc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "12399fc71feb5358",
+      "fromSide": "right",
+      "id": "a440d1cb5a6d0666",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "635feabdd03cd46c",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "3331d5bc22a14cbc",
+      "fromSide": "bottom",
+      "id": "10f61d0c4e637398",
+      "label": "归属 · 4题",
+      "toEnd": "arrow",
+      "toNode": "1611d67af9fe82f2",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "3331d5bc22a14cbc",
+      "fromSide": "bottom",
+      "id": "d8d80a4f7a10df1c",
+      "label": "归属 · 7题",
+      "toEnd": "arrow",
+      "toNode": "71a165fa798254df",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 524,
+      "id": "096cf0f33ab8abf9",
+      "label": "5.6 函数 y = A sin(ωx + φ)",
+      "type": "group",
+      "width": 2028,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "12399fc71feb5358",
+      "text": "[✦ 情景引入 · 从匀速圆周运动建立正弦型函数模型](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%8C%80%E9%80%9F%E5%9C%86%E5%91%A8%E8%BF%90%E5%8A%A8%E5%BB%BA%E7%AB%8B%E6%AD%A3%E5%BC%A6%E5%9E%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "height": 210,
+      "id": "d90b5fae7b4f94ee",
+      "label": "5.6.1 匀速圆周运动的数学模型",
+      "type": "group",
+      "width": 392,
+      "x": 496,
+      "y": 76
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "635feabdd03cd46c",
+      "text": "[✦ 匀速圆周运动的数学模型](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8C%80%E9%80%9F%E5%9C%86%E5%91%A8%E8%BF%90%E5%8A%A8%E7%9A%84%E6%95%B0%E5%AD%A6%E6%A8%A1%E5%9E%8B--000178.md)",
+      "type": "text",
+      "width": 280,
+      "x": 552,
+      "y": 152
+    },
+    {
+      "height": 392,
+      "id": "b1587679bd639309",
+      "label": "5.6.2 函数 $y=A\\sin(\\omega x+\\varph…",
+      "type": "group",
+      "width": 392,
+      "x": 1048,
+      "y": 76
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "1611d67af9fe82f2",
+      "text": "[练习入口 · 5.6.2 函数 $y=A\\\\sin(\\\\omega…](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.6%20%E5%87%BD%E6%95%B0%20y%20%3D%20A%20sin%28%CF%89x%20%2B%20%CF%86%29/5.6.2%20%E5%87%BD%E6%95%B0%20%24y%3DA-sin%28-omega%20x%2B-varphi%29%24%20%E7%9A%84%E5%9B%BE%E8%B1%A1.md)\n\n共 4 题",
+      "type": "text",
+      "width": 260,
+      "x": 1104,
+      "y": 340
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "3331d5bc22a14cbc",
+      "text": "[✦ 参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图…](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%82%E6%95%B0%20%CF%86%E3%80%81%CF%89%E3%80%81A%20%E5%AF%B9%E5%87%BD%E6%95%B0%20y%3DAsin%28%CF%89x%2B%CF%86%29%20%E5%9B%BE%E8%B1%A1%E7%9A%84%E5%BD%B1%E5%93%8D%E4%B8%8E%E5%9B%BE%E8%B1%A1%E5%8F%98%E6%8D%A2--000179.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1104,
+      "y": 152
+    },
+    {
+      "height": 204,
+      "id": "a0e093da57a03dd1",
+      "label": "习题5.6",
+      "type": "group",
+      "width": 372,
+      "x": 1600,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "71a165fa798254df",
+      "text": "[练习入口 · 习题5.6](../../../../%E9%A2%98%E5%9E%8B/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.6%20%E5%87%BD%E6%95%B0%20y%20%3D%20A%20sin%28%CF%89x%20%2B%20%CF%86%29/%E4%B9%A0%E9%A2%985.6.md)\n\n共 7 题",
+      "type": "text",
+      "width": 260,
+      "x": 1656,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "75a8013b2999b8c4",
+      "text": "# [5.6 函数 y = A sin(ωx + φ)](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.6%20%E5%87%BD%E6%95%B0%20y%20%3D%20A%20sin%28%CF%89x%20%2B%20%CF%86%29/5.6%20%E5%87%BD%E6%95%B0%20y%20%3D%20A%20sin%28%CF%89x%20%2B%20%CF%86%29.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "4716475dd712af4b",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/06-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0-c80f27.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "62dfecad7f0c6d15",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

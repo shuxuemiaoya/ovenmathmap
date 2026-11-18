@@ -1,0 +1,341 @@
+{
+  "edges": [
+    {
+      "fromNode": "adb82a032e2acdfb014d",
+      "fromSide": "top",
+      "id": "4870a7c3b6e447e1cf87",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "1406cdf08615c70ac749",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "73a88d0ba9d7adca53f1",
+      "fromSide": "top",
+      "id": "433e316b031629560156",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "f4d3ba94f9bacc4cb42f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "47abcda9d8be9a7fc582",
+      "fromSide": "left",
+      "id": "b0b8c3eb934d50824641",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "2658fa488c15ffa1d2a5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "876efc3c131d984cbc7f",
+      "fromSide": "top",
+      "id": "8c76c960583aa6a78cb3",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "941b5b81ca77ede7fdd6",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ebe6420f6a1ff332e69b",
+      "fromSide": "top",
+      "id": "1f9ae5a4a4de03ff1cab",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "29ed41c2dd224ac27b84",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-017",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "9459741d30e28b073acb",
+      "text": "# 第三章 函数的概念与性质\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "83e7cb6db2855f0f4f1e",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "f4d3ba94f9bacc4cb42f",
+      "mathmap_atom_id": "Cfadc56006ac4c0",
+      "mathmap_file": "Mathmap/概念或公式/函数的最大值--Cfadc56006ac4c0.md",
+      "text": "[函数的最大值](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC--Cfadc56006ac4c0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "73a88d0ba9d7adca53f1",
+      "mathmap_atom_id": "K600f7fd47a27ac",
+      "mathmap_file": "Mathmap/知识点/函数的最大（小）值--000126.md",
+      "text": "[函数的最大（小）值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%EF%BC%88%E5%B0%8F%EF%BC%89%E5%80%BC--000126.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "47abcda9d8be9a7fc582",
+      "mathmap_atom_id": "K6b8a85f0160867",
+      "mathmap_file": "Mathmap/知识点/函数的构成要素与同一个函数的判定--000121.md",
+      "text": "[函数的构成要素与同一个函数的判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9E%84%E6%88%90%E8%A6%81%E7%B4%A0%E4%B8%8E%E5%90%8C%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E7%9A%84%E5%88%A4%E5%AE%9A--000121.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "1406cdf08615c70ac749",
+      "mathmap_atom_id": "C7f1ac9577a61c1",
+      "mathmap_file": "Mathmap/概念或公式/分段函数--C7f1ac9577a61c1.md",
+      "text": "[分段函数](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0--C7f1ac9577a61c1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "adb82a032e2acdfb014d",
+      "mathmap_atom_id": "K265704d7018998",
+      "mathmap_file": "Mathmap/知识点/分段函数的概念--000123.md",
+      "text": "[分段函数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--000123.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "2658fa488c15ffa1d2a5",
+      "mathmap_atom_id": "C74d53707a26643",
+      "mathmap_file": "Mathmap/概念或公式/同一个函数的判定--C74d53707a26643.md",
+      "text": "[同一个函数的判定](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%90%8C%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E7%9A%84%E5%88%A4%E5%AE%9A--C74d53707a26643.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "941b5b81ca77ede7fdd6",
+      "mathmap_atom_id": "Cbd224eb80864d5",
+      "mathmap_file": "Mathmap/概念或公式/奇函数--Cbd224eb80864d5.md",
+      "text": "[奇函数](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%A5%87%E5%87%BD%E6%95%B0--Cbd224eb80864d5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "876efc3c131d984cbc7f",
+      "mathmap_atom_id": "Ka914ddfb245aa3",
+      "mathmap_file": "Mathmap/知识点/奇函数--000128.md",
+      "text": "[奇函数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A5%87%E5%87%BD%E6%95%B0--000128.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "29ed41c2dd224ac27b84",
+      "mathmap_atom_id": "C6db28b3d092aeb",
+      "mathmap_file": "Mathmap/概念或公式/幂函数--C6db28b3d092aeb.md",
+      "text": "[幂函数](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%B9%82%E5%87%BD%E6%95%B0--C6db28b3d092aeb.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ebe6420f6a1ff332e69b",
+      "mathmap_atom_id": "Kf2545c1f4a2525",
+      "mathmap_file": "Mathmap/知识点/幂函数的概念--000130.md",
+      "text": "[幂函数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%82%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--000130.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ebf66f297da9f90d88da",
+      "mathmap_atom_id": "K6071218d64e89f",
+      "mathmap_file": "Mathmap/知识点/偶函数--000127.md",
+      "text": "[偶函数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%81%B6%E5%87%BD%E6%95%B0--000127.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2920
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7f830b0588cc522f0fed",
+      "mathmap_atom_id": "K1355524fa58402",
+      "mathmap_file": "Mathmap/知识点/函数概念的发展历程--000124.md",
+      "text": "[函数概念的发展历程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E6%A6%82%E5%BF%B5%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B--000124.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 2920
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "59e5b78bac4ec1facc39",
+      "mathmap_atom_id": "Kf5cac127a67cfa",
+      "mathmap_file": "Mathmap/知识点/函数的三种表示法--000122.md",
+      "text": "[函数的三种表示法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E4%B8%89%E7%A7%8D%E8%A1%A8%E7%A4%BA%E6%B3%95--000122.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 2920
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4ee78c71f870baa32634",
+      "mathmap_atom_id": "K2fee6535132d55",
+      "mathmap_file": "Mathmap/知识点/函数的单调性--000125.md",
+      "text": "[函数的单调性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7--000125.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3140
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e2c31401fdf1055dbb1d",
+      "mathmap_atom_id": "Kbaa6ea82229fa5",
+      "mathmap_file": "Mathmap/知识点/函数的概念--000119.md",
+      "text": "[函数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--000119.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 3140
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19f6dd2a554e4c667db2",
+      "mathmap_atom_id": "K3d562e260dbef0",
+      "mathmap_file": "Mathmap/知识点/区间的概念--000120.md",
+      "text": "[区间的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8C%BA%E9%97%B4%E7%9A%84%E6%A6%82%E5%BF%B5--000120.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 3140
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5299c12a7ac2c2dbe8e9",
+      "mathmap_atom_id": "K86c3f81db5a423",
+      "mathmap_file": "Mathmap/知识点/幂函数的图象与性质--000131.md",
+      "text": "[幂函数的图象与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%82%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E8%B1%A1%E4%B8%8E%E6%80%A7%E8%B4%A8--000131.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 3360
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "067b2c6dc0bbb2799c1a",
+      "mathmap_atom_id": "K738542cc2d33ad",
+      "mathmap_file": "Mathmap/知识点/用计算机绘制函数图象--000129.md",
+      "text": "[用计算机绘制函数图象](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%98%E5%88%B6%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1--000129.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 3360
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "e5f65face8846d4de4c3",
+      "text": "[3.1 函数的概念及其表示](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.1%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E8%A1%A8%E7%A4%BA--b2c19dbf.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 3580
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "c9b4ba3dc8c6c081ae63",
+      "text": "[阅读与思考 函数概念的发展历程](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E5%87%BD%E6%95%B0%E6%A6%82%E5%BF%B5%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B--fc518d23.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 3580
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d3794fd35d42869f05c3",
+      "text": "[3.2 函数的基本性质](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--bd80c67d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 3580
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "b4564268410d66ba6831",
+      "text": "[信息技术应用 用计算机绘制函数图象](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%20%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%98%E5%88%B6%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1--f18eef6d.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 3790
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "493a2e53f30ed6571963",
+      "text": "[3.3 幂函数](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.3%20%E5%B9%82%E5%87%BD%E6%95%B0--6da8d542.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 3790
+    }
+  ]
+}

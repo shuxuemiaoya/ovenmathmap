@@ -1,0 +1,222 @@
+{
+  "edges": [
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "bottom",
+      "id": "3d0162590fe0c5d591f1",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "297523b68bd749e9d32f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "5ffd7c3c8c5593ac25e0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "894ade46bbf99af34ca8",
+      "fromSide": "left",
+      "id": "3e25fbc95a79be227fe4",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "f01a4b093b111410071c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "9b2238bdc4646122682c",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "9a19b1bd105846ef352a",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d929d21b957d706ad99e",
+      "fromSide": "left",
+      "id": "5190d7bb5765bdc343b4",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "681d9200cf6e77e4ad32",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cf884f6d8ab40ba49c02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "top",
+      "id": "1c7aebffc5f30409d5c0",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "9cd98bc676ef40b94398",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "abc79fa74bc3d53ef2fc",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "a62b986d1cebbefac02d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b16f702ed59588466934",
+      "fromSide": "left",
+      "id": "4d7b957ff7a74f7a7270",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "960e6ed47d60c51c45ee",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "org-2a8df5cd0ae0d221",
+    "source_id": "mst-conics-2026"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8cdf047df2a68a39de0c",
+      "text": "# 第二节 单动点与圆锥曲线参数方程\n\n2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "d7c532721ec6a5b3e17d",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/mst%E8%80%81%E5%94%90%E8%AF%B4%E9%A2%98-%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF-2026/%E7%AC%AC08%E7%AB%A0%20%E8%81%94%E7%AB%8B%E8%AE%A1%E7%AE%97%E9%AB%98%E9%98%B6%E7%AF%87--8f1ad052.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "960e6ed47d60c51c45ee",
+      "mathmap_atom_id": "Kff2296bfa3045c",
+      "mathmap_file": "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md",
+      "text": "[三角恒等变换的基本思路与特点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E8%B7%AF%E4%B8%8E%E7%89%B9%E7%82%B9--000177.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b16f702ed59588466934",
+      "mathmap_atom_id": "Kecb27e4e90c990",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线切线的三角参数表示.md",
+      "text": "[圆锥曲线切线的三角参数表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E5%88%87%E7%BA%BF%E7%9A%84%E4%B8%89%E8%A7%92%E5%8F%82%E6%95%B0%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d929d21b957d706ad99e",
+      "mathmap_atom_id": "K98abe32224c0e8",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线的三角参数换元.md",
+      "text": "[圆锥曲线的三角参数换元](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E7%9A%84%E4%B8%89%E8%A7%92%E5%8F%82%E6%95%B0%E6%8D%A2%E5%85%83.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "894ade46bbf99af34ca8",
+      "mathmap_atom_id": "K926d6dc179f8e9",
+      "mathmap_file": "Mathmap/知识点/圆锥曲线顶点弦的万能三角代换.md",
+      "text": "[圆锥曲线顶点弦的万能三角代换](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF%E9%A1%B6%E7%82%B9%E5%BC%A6%E7%9A%84%E4%B8%87%E8%83%BD%E4%B8%89%E8%A7%92%E4%BB%A3%E6%8D%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf884f6d8ab40ba49c02",
+      "mathmap_atom_id": "K6a74d0f16b2ed0",
+      "mathmap_file": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "text": "[抛物线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%9B%E7%89%A9%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a62b986d1cebbefac02d",
+      "mathmap_atom_id": "Kb34926afc59081",
+      "mathmap_file": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "text": "[椭圆的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A4%AD%E5%9C%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    }
+  ]
+}

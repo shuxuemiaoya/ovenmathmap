@@ -1,0 +1,4840 @@
+{
+  "kind": "atom-filename-cleanup-review",
+  "pages": [
+    {
+      "after": "Mathmap/知识点/知识点-32 均值代换.md",
+      "before": "Mathmap/知识点/32 均值代换--001165.md",
+      "id": "K55fc7a97e416fa",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "376ada107f3db87852b2306549048ac87f98ab77b0f497da73ac76fb204cdcbc",
+      "registered_sha256": null,
+      "title": "32 均值代换"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-33 借助数轴.md",
+      "before": "Mathmap/知识点/33 借助数轴--001136.md",
+      "id": "K8f4b6db666653e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2df438117725f44748ff8b7fdfa00b3b50c18f9f32090c1156fbea47effaeb14",
+      "registered_sha256": null,
+      "title": "33 借助数轴"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-35 柯西不等式.md",
+      "before": "Mathmap/知识点/35 柯西不等式--001166.md",
+      "id": "Ka026ee0cf08d75",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "72ba21a0d26dd402100db41571595c6ce9ed2a7bda583f96c858fb0e86122c9f",
+      "registered_sha256": null,
+      "title": "35 柯西不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-ABC两两独立 P(ABC)=P(A)P(B)P(C) 不成立.md",
+      "before": "Mathmap/知识点/ABC两两独立 P(ABC)=P(A)P(B)P(C) 不成立--001024.md",
+      "id": "Kc5b82f523cb6a8",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b245372c979fb14ce48e4ff63127eccd4657a85437b7a58d6117a826789a12c4",
+      "registered_sha256": null,
+      "title": "ABC两两独立 P(ABC)=P(A)P(B)P(C) 不成立"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-i.md",
+      "before": "Mathmap/知识点/i--000901.md",
+      "id": "K64b6afc77bdbc0",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d4c37e95afaeb09d90e4e389cfeceeb15e0696e7eaa9e49dd70f607cc838957d",
+      "registered_sha256": null,
+      "title": "i"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-n次方根与根式.md",
+      "before": "Mathmap/知识点/n次方根与根式--000132.md",
+      "id": "K08e5c709439970",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "597e7ddb853d7427ed975717839b74a72f44137ca9a0d2a9b1b19b6c7f2dcb85",
+      "registered_sha256": "597e7ddb853d7427ed975717839b74a72f44137ca9a0d2a9b1b19b6c7f2dcb85",
+      "title": "n次方根与根式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-※点法式方程.md",
+      "before": "Mathmap/知识点/※点法式方程--000986.md",
+      "id": "K48df3dea7eb11d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b359e489e208999637e254b11c1d7b7dbb8d1a7c26c77ff1a129f09565c2f3e2",
+      "registered_sha256": null,
+      "title": "※点法式方程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-一些其他方法-等差数列.md",
+      "before": "Mathmap/知识点/一些其他方法-等差数列--001097.md",
+      "id": "K92b7f076a7294d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6f1a4e04d27d869242737eba5621a88eced64123bdcda2bfcac4fa6b22c570ce",
+      "registered_sha256": null,
+      "title": "一些其他方法-等差数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-一元二次不等式的概念.md",
+      "before": "Mathmap/知识点/一元二次不等式的概念--000117.md",
+      "id": "K670e3482350236",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "216120c228cfecc12a944601da71d946e423cb9f971cd9cd7408b516ba37c7e6",
+      "registered_sha256": "216120c228cfecc12a944601da71d946e423cb9f971cd9cd7408b516ba37c7e6",
+      "title": "一元二次不等式的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-一元二次不等式解决实际问题.md",
+      "before": "Mathmap/知识点/一元二次不等式解决实际问题--001163.md",
+      "id": "K2a991034cc6d58",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "dfe40cfa98ce70370c3b3552e2900160723c8e9c56b7d23b84cbe83250cf34f3",
+      "registered_sha256": null,
+      "title": "一元二次不等式解决实际问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-一元二次方程.md",
+      "before": "Mathmap/知识点/一元二次方程--001176.md",
+      "id": "Kf7cc65897e5b97",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "cc7f966454f5d0bcf24d59398f7769fd8815328be21fe41e3aa4dc5e8231d43a",
+      "registered_sha256": null,
+      "title": "一元二次方程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-万能公式.md",
+      "before": "Mathmap/知识点/万能公式--001125.md",
+      "id": "K65fda368a0f856",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c7866e25fda031020e7d0d9afcc21fe56db04a5607410f76f9acedca4bacbcf9",
+      "registered_sha256": null,
+      "title": "万能公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三个空间向量共面.md",
+      "before": "Mathmap/知识点/三个空间向量共面--000960.md",
+      "id": "Kfaa3d96cdf3953",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "537068121f382a571ab3a2d89c45d804cfb349388ca76760975657a17c77ac1d",
+      "registered_sha256": null,
+      "title": "三个空间向量共面"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三垂线定理.md",
+      "before": "Mathmap/知识点/三垂线定理--000920.md",
+      "id": "K2252cb92dff6fb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d3331bf0a65f9c041a9cb61f46e5bf98cc34b6fd6a0e6e3f0952ea6edf29aba6",
+      "registered_sha256": null,
+      "title": "三垂线定理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三点共线.md",
+      "before": "Mathmap/知识点/三点共线--000904.md",
+      "id": "K59c44a1e44f8b7",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ddc2429807148a726c0aad94790e4dcf9031218df72781b70c06c8c5f01be8e9",
+      "registered_sha256": null,
+      "title": "三点共线"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角函数描述局部近似周期变化.md",
+      "before": "Mathmap/知识点/三角函数描述局部近似周期变化--001108.md",
+      "id": "K292f6b788edcf2",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "61d060809b8147fec6c7546659b971853e487f130469612db4864ade47f2cfdc",
+      "registered_sha256": null,
+      "title": "三角函数描述局部近似周期变化"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角函数模型描述周期运动变化现象.md",
+      "before": "Mathmap/知识点/三角函数模型描述周期运动变化现象--001107.md",
+      "id": "Kd72c992a8eefa4",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2aeb6938d76b0e83a88ae97cc8c2072914778fc01ea62a01c118d82eb09b478a",
+      "registered_sha256": null,
+      "title": "三角函数模型描述周期运动变化现象"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角函数的性质.md",
+      "before": "Mathmap/知识点/三角函数的性质--001127.md",
+      "id": "K9cffd5f638e3e2",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "37788eaebe44ab553bfa091659bc597ec61efe6fc20cf3793944712210872ab9",
+      "registered_sha256": null,
+      "title": "三角函数的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角学与天文学.md",
+      "before": "Mathmap/知识点/三角学与天文学--000159.md",
+      "id": "K4df2a84a6e67d2",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "9d88c3610546cf734ff14c65ec7b07e85a6431708d0bb73e0af43f3d405b7495",
+      "registered_sha256": "335d730736996e3b1718fe76d009fbb290243b1951a8cce2d7978055946d0716",
+      "title": "三角学与天文学"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形内心.md",
+      "before": "Mathmap/知识点/三角形内心--000909.md",
+      "id": "K61b1ddca90e0fa",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3476fb47e4dc29e3c5b0f141c4927dc65b926c96a6a21ef7fcb91d1e4fe3b2f7",
+      "registered_sha256": null,
+      "title": "三角形内心"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形四心综合.md",
+      "before": "Mathmap/知识点/三角形四心综合--000911.md",
+      "id": "K4c3fce2b1a242d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b861f8e2576ce20dd4f9b9573d455c4180510c53484891c0262f723b4dba269c",
+      "registered_sha256": null,
+      "title": "三角形四心综合"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形垂心.md",
+      "before": "Mathmap/知识点/三角形垂心--000910.md",
+      "id": "K95ab881b567fac",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a67798619b7e736e556d07ad60e6eee2b6b5b666d230af775d0c0f7921a0b52c",
+      "registered_sha256": null,
+      "title": "三角形垂心"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形外心.md",
+      "before": "Mathmap/知识点/三角形外心--000907.md",
+      "id": "Kd56be7c18d24da",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "da4488653c46d711bf3f5058bcee4da8131eeafe3f7d9be943490ac5a25e894c",
+      "registered_sha256": null,
+      "title": "三角形外心"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形法则.md",
+      "before": "Mathmap/知识点/三角形法则--000970.md",
+      "id": "Kcf016efc53fe08",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f2ac1f14e51e1cd6e57f1936fc4b109b5afe13f76044fbdcd743267e864d157b",
+      "registered_sha256": null,
+      "title": "三角形法则"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形的其他元素与给定的某些元素有怎样的数量关系？.md",
+      "before": "Mathmap/知识点/三角形的其他元素与给定的某些元素有怎样的数量关系？--000917.md",
+      "id": "Kf416199abc85a9",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6c94d9fd8ae2a92fb042949d63fceb5c0ef772687da60a717f6ae82983027895",
+      "registered_sha256": null,
+      "title": "三角形的其他元素与给定的某些元素有怎样的数量关系？"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角形重心.md",
+      "before": "Mathmap/知识点/三角形重心--000908.md",
+      "id": "K5a1ea2a84b37d6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8016c0018b2397ea0d3d8d0489587c0a6113dfa4e2b851c4aac893cdf52d73c8",
+      "registered_sha256": null,
+      "title": "三角形重心"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三角恒等变换的基本思路与特点.md",
+      "before": "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md",
+      "id": "Kff2296bfa3045c",
+      "kind": "knowledge",
+      "owners": [
+        "mst-conics-2026",
+        "rja-required-1"
+      ],
+      "page_sha256": "e075dcb4b6dbc229248d3826d02b33c572f64ea6ec0d86c6b929fe69b278c48d",
+      "registered_sha256": "e075dcb4b6dbc229248d3826d02b33c572f64ea6ec0d86c6b929fe69b278c48d",
+      "title": "三角恒等变换的基本思路与特点"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-三项展开式中的特定项或特定系数问题.md",
+      "before": "Mathmap/知识点/三项展开式中的特定项或特定系数问题--001059.md",
+      "id": "Kc35d8aa11c5e10",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "41eaeb571ef911f62d5ea8b15a50231b5c61cd98501bdaafe5097fc6dcf239e7",
+      "registered_sha256": null,
+      "title": "三项展开式中的特定项或特定系数问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不动点法.md",
+      "before": "Mathmap/知识点/不动点法--001103.md",
+      "id": "K3edfaf4c07bf28",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1606425c2b93a0bf9bcad6c49910c671d92b660d6317e167239fe112eeb5c666",
+      "registered_sha256": null,
+      "title": "不动点法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不同函数增长的差异.md",
+      "before": "Mathmap/知识点/不同函数增长的差异--000146.md",
+      "id": "K8d237da388e897",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "307cf7ea9d8b24b42d7e691258782cb929d3d01a8cbf6c5a35a5b3c530805856",
+      "registered_sha256": "307cf7ea9d8b24b42d7e691258782cb929d3d01a8cbf6c5a35a5b3c530805856",
+      "title": "不同函数增长的差异"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不属于.md",
+      "before": "Mathmap/知识点/不属于--001140.md",
+      "id": "K649d33642c6553",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "79ed3c2ba2f306d74513fa3bc20cfb08cd80fbc478f9772c9c470ea2123cccc9",
+      "registered_sha256": null,
+      "title": "不属于"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不相邻排列问题.md",
+      "before": "Mathmap/知识点/不相邻排列问题--001051.md",
+      "id": "Ke0cdf528645046",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "aca0941d21085bc177e9225e702b0823fe0d0f70701b8b5f2c990e19a078f8d1",
+      "registered_sha256": null,
+      "title": "不相邻排列问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不等关系与实数大小比较的基本事实.md",
+      "before": "Mathmap/知识点/不等关系与实数大小比较的基本事实--000112.md",
+      "id": "K3bcacf0304a097",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "558bdd7c5c183901931d5b2d2c2e0099e4ecf4abd74e855d55d59bc21b264ee8",
+      "registered_sha256": "558bdd7c5c183901931d5b2d2c2e0099e4ecf4abd74e855d55d59bc21b264ee8",
+      "title": "不等关系与实数大小比较的基本事实"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不等式.md",
+      "before": "Mathmap/知识点/不等式--001178.md",
+      "id": "K88f6dd1e8d2146",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e754ef79b2fbd17aa596f30c0f1f872ffbcf2933e6aae1e42a90291b7503477a",
+      "registered_sha256": null,
+      "title": "不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不等式一题多解专题.md",
+      "before": "Mathmap/知识点/不等式一题多解专题--001164.md",
+      "id": "K09468402b584c2",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4087bfa70ee118d79b272eaae096d36a97c8980ab3b8cbe0731de7a51a09d28e",
+      "registered_sha256": null,
+      "title": "不等式一题多解专题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不等式的性质.md",
+      "before": "Mathmap/知识点/不等式的性质--000115.md",
+      "id": "K2ab6bb8b7304b8",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "1c44d7de831bf8d8ece995133e75e906eb132f40d0b5ddefbb6764c0ca1f44d2",
+      "registered_sha256": "1c44d7de831bf8d8ece995133e75e906eb132f40d0b5ddefbb6764c0ca1f44d2",
+      "title": "不等式的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-不等式难点.md",
+      "before": "Mathmap/知识点/不等式难点--001169.md",
+      "id": "K8a181d3590b1d1",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9871261ed17634b7d66eaada1b50de31748c0a9c2a3b652d3367aa7b7dd0dcad",
+      "registered_sha256": null,
+      "title": "不等式难点"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-与几何图形有关的组合问题.md",
+      "before": "Mathmap/知识点/与几何图形有关的组合问题--001058.md",
+      "id": "K306fc1a3ca9e26",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4c5571b591eac78f877b1441ea889eb5fac247803f5bbbf8578c3ff7a565d5bc",
+      "registered_sha256": null,
+      "title": "与几何图形有关的组合问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两个计数原理的综合应用.md",
+      "before": "Mathmap/知识点/两个计数原理的综合应用--001067.md",
+      "id": "K46e4ff3d734760",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "fa73112457a0a967a1de617fdf68e6c74f30fb81915bbcb0c29f02ec5b2c2f63",
+      "registered_sha256": null,
+      "title": "两个计数原理的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两平面的夹角（空间向量法）.md",
+      "before": "Mathmap/知识点/两平面的夹角（空间向量法）--000888.md",
+      "id": "K4d3f588d15b650",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "445fafab4cd3e17ce749fa06f66a6f914b52f112a5423244d19db80b171b7ccd",
+      "registered_sha256": null,
+      "title": "两平面的夹角（空间向量法）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两异面直线的夹角（空间向量法）.md",
+      "before": "Mathmap/知识点/两异面直线的夹角（空间向量法）--000886.md",
+      "id": "Kdbad2696dd74fc",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4f1ca65b77143588754d0b590e772c4535acab3ebb389fd7140f2f095f6cba16",
+      "registered_sha256": null,
+      "title": "两异面直线的夹角（空间向量法）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两点分布.md",
+      "before": "Mathmap/知识点/两点分布--001090.md",
+      "id": "K1b44a46c2df2ac",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6cf48d2a4b85c302b46d3afb4cdb0058a7dae34d625c55864d9056a051ffcd4c",
+      "registered_sha256": null,
+      "title": "两点分布"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两种计数原理的综合应用.md",
+      "before": "Mathmap/知识点/两种计数原理的综合应用--001066.md",
+      "id": "K303a1750aa6f2f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "babbfa36fcfa3050197d4bb6ae5441c75fa5b4022ff95c164d03087540e54662",
+      "registered_sha256": null,
+      "title": "两种计数原理的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两角和与差的正切公式.md",
+      "before": "Mathmap/知识点/两角和与差的正切公式--000174.md",
+      "id": "K4c48d21675129e",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "81a93680e8605d548cdd5526f2efbd8feaf6708f1b4d5b47c11c675430d45cf8",
+      "registered_sha256": "81a93680e8605d548cdd5526f2efbd8feaf6708f1b4d5b47c11c675430d45cf8",
+      "title": "两角和与差的正切公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两角和的余弦公式与两角和、差的正弦公式.md",
+      "before": "Mathmap/知识点/两角和的余弦公式与两角和、差的正弦公式--000173.md",
+      "id": "K616d4cf9db76a0",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "cfb5156f18cde66dc28fa7f248eb61b9bab0769061c7b182e2bc79255b83fe66",
+      "registered_sha256": "cfb5156f18cde66dc28fa7f248eb61b9bab0769061c7b182e2bc79255b83fe66",
+      "title": "两角和的余弦公式与两角和、差的正弦公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-两角差的余弦公式.md",
+      "before": "Mathmap/知识点/两角差的余弦公式--000172.md",
+      "id": "Kddc920cb6bb66e",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "8812f8f2bc939db6238612afbff8e0476645e394740d61ad9fe6392f03f87184",
+      "registered_sha256": "8812f8f2bc939db6238612afbff8e0476645e394740d61ad9fe6392f03f87184",
+      "title": "两角差的余弦公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-中外历史上的方程求解.md",
+      "before": "Mathmap/知识点/中外历史上的方程求解--000150.md",
+      "id": "K1e0f4f227cd90b",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "d3fd4da13068d04bc1286a6d7e45f76b36bf7cc6771a7b11fc8d4599222f967c",
+      "registered_sha256": "a3ddc1a18c8548fac3c765a3b56c4170d9c8dc9f9fb2fd2af481aba3e58d5b8e",
+      "title": "中外历史上的方程求解"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-中点坐标.md",
+      "before": "Mathmap/知识点/中点坐标--000982.md",
+      "id": "Kb80253a5a2423a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "babe89553c3e34f20c876ba59d9dd04ac7f3f21e8019088afb73bd0bd873ffa9",
+      "registered_sha256": null,
+      "title": "中点坐标"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-中点弦问题.md",
+      "before": "Mathmap/知识点/中点弦问题--001007.md",
+      "id": "K9b5a57e0d6972a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "bb740644d3d9f48ac0b339d6d9c150ca0c97b1e0736d0cf438ab54e9e051b9ef",
+      "registered_sha256": null,
+      "title": "中点弦问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-中线定理.md",
+      "before": "Mathmap/知识点/中线定理--000881.md",
+      "id": "K066e2745df7883",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b284366cbb3fef6e11fe23717bb09da26ad0dcea18792a1db138de7a7ac6b85c",
+      "registered_sha256": null,
+      "title": "中线定理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-串联电路.md",
+      "before": "Mathmap/知识点/串联电路--001082.md",
+      "id": "Ke3d889146bfe37",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5bbb69623f71e8545f82de35487b06792ad1ff48f62b67f9e13a7158db2ceae0",
+      "registered_sha256": null,
+      "title": "串联电路"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-乘法公式的应用.md",
+      "before": "Mathmap/知识点/乘法公式的应用--001084.md",
+      "id": "K10c9f4855bc18e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "250072c38813acb0c0049b210d21def704727aedff4554e0fed71de334f9f105",
+      "registered_sha256": null,
+      "title": "乘法公式的应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-事件的概率.md",
+      "before": "Mathmap/知识点/事件的概率--001022.md",
+      "id": "K1a4ef63abb25a6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "cc5d5c68c3806e9dd9775beae46d16e95b30294943a21fd9ea686ae1dc7ee179",
+      "registered_sha256": null,
+      "title": "事件的概率"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二倍角的正弦、余弦、正切公式.md",
+      "before": "Mathmap/知识点/二倍角的正弦、余弦、正切公式--000175.md",
+      "id": "Kfc57de31d49ca1",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "29b4de4d7129b0a42d6d7fad182d780276a4b2bd22a43f69a547c9fb8e827bd7",
+      "registered_sha256": "29b4de4d7129b0a42d6d7fad182d780276a4b2bd22a43f69a547c9fb8e827bd7",
+      "title": "二倍角的正弦、余弦、正切公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二次函数.md",
+      "before": "Mathmap/知识点/二次函数--001175.md",
+      "id": "K75ca06b4e59146",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b2b5b00684aea3633ee217d3fc5e6afa665e1141f7b4d53ee22401216b26393f",
+      "registered_sha256": null,
+      "title": "二次函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二次函数的零点与一元二次不等式的解法.md",
+      "before": "Mathmap/知识点/二次函数的零点与一元二次不等式的解法--000118.md",
+      "id": "K5cf6b93e5ce77b",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "82b132d1b1d213e72408dc99ed9652fdb5c169c4547a855e7af1478a3989a5e8",
+      "registered_sha256": "82b132d1b1d213e72408dc99ed9652fdb5c169c4547a855e7af1478a3989a5e8",
+      "title": "二次函数的零点与一元二次不等式的解法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二阶导.md",
+      "before": "Mathmap/知识点/二阶导--000977.md",
+      "id": "K70657aef643229",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "63a93c3778519007edc957955b083db9e4be86bb7465ff9774b58bdb3c2ae429",
+      "registered_sha256": null,
+      "title": "二阶导"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二面角.md",
+      "before": "Mathmap/知识点/二面角--000940.md",
+      "id": "Kbffb63cf15d93c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "73a00b432e7fea7c076b6b308b3ae37580cf71bd284d33746aca51ba732f4c1a",
+      "registered_sha256": null,
+      "title": "二面角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二项展开式中的特定项或特定系数问题.md",
+      "before": "Mathmap/知识点/二项展开式中的特定项或特定系数问题--001065.md",
+      "id": "Kd5c798b9b330b7",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "45976d0ff5141f9552099851a8e1dfca94787dca93465a884404e016e2881403",
+      "registered_sha256": null,
+      "title": "二项展开式中的特定项或特定系数问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-二项展开式的逆用.md",
+      "before": "Mathmap/知识点/二项展开式的逆用--001068.md",
+      "id": "Kdc834577493b81",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "dccd3e58971128747d89f911b4dabeeb2e8c0df7eb9b3bed24140d3e115d7c99",
+      "registered_sha256": null,
+      "title": "二项展开式的逆用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-互斥 (或互不相容).md",
+      "before": "Mathmap/知识点/互斥 (或互不相容)--001023.md",
+      "id": "Kfe93696d325259",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "72102dc6553bbe3ae719d87c4062b806df302002596fe29d59cac62832badb9b",
+      "registered_sha256": null,
+      "title": "互斥 (或互不相容)"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-交事件(或积事件).md",
+      "before": "Mathmap/知识点/交事件(或积事件)--001018.md",
+      "id": "K86808a26551fd9",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ed392bae38331daff2324409ab48a8de0fbc0c83b0437929728cd15fbc69124e",
+      "registered_sha256": null,
+      "title": "交事件(或积事件)"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-交集.md",
+      "before": "Mathmap/知识点/交集--000098.md",
+      "id": "K556752a69dc630",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "5ce451748d197b7391d1c1b3121849cf576a46437a59f0d73a6a4160112c3695",
+      "registered_sha256": "5ce451748d197b7391d1c1b3121849cf576a46437a59f0d73a6a4160112c3695",
+      "title": "交集"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-从特殊到一般.md",
+      "before": "Mathmap/知识点/从特殊到一般--001158.md",
+      "id": "K48c062ceaff941",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b2caa8bcbdf7427738b8c2024af271b936bc32454aa584c4801661c231ef8562",
+      "registered_sha256": null,
+      "title": "从特殊到一般"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-代数的几何意义.md",
+      "before": "Mathmap/知识点/代数的几何意义--000872.md",
+      "id": "Kaa0be19832814f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9f3e60af365c952f4abb114e470c0ad618f7603f3788f214867af026562c5dfa",
+      "registered_sha256": null,
+      "title": "代数的几何意义"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-任意位置向量的坐标.md",
+      "before": "Mathmap/知识点/任意位置向量的坐标--000906.md",
+      "id": "K95026beab3c481",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9729e946002ecdab0024fcbbdafddfedf148c6941802e30cc34f981fd8939257",
+      "registered_sha256": null,
+      "title": "任意位置向量的坐标"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-任意角与象限角.md",
+      "before": "Mathmap/知识点/任意角与象限角--000152.md",
+      "id": "K11adab9dfa6e6a",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "45bd522a69339570404a443e450e2865f37b1f2e58c869dad80c9073395075b0",
+      "registered_sha256": "45bd522a69339570404a443e450e2865f37b1f2e58c869dad80c9073395075b0",
+      "title": "任意角与象限角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-任意角的三角函数定义与定义域.md",
+      "before": "Mathmap/知识点/任意角的三角函数定义与定义域--000156.md",
+      "id": "K07cfe793b13dff",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "2c846aee4cf0e0fcdf92aa8065a042361c5e1e81da8a906f69088bc0bca33f75",
+      "registered_sha256": "2c846aee4cf0e0fcdf92aa8065a042361c5e1e81da8a906f69088bc0bca33f75",
+      "title": "任意角的三角函数定义与定义域"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-位置向量.md",
+      "before": "Mathmap/知识点/位置向量--000896.md",
+      "id": "K108cdc4db2178b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b84baaeb69e68eb43ac357c95b602b43817ad991319bb6369e56178c6e36e5af",
+      "registered_sha256": null,
+      "title": "位置向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-余弦函数.md",
+      "before": "Mathmap/知识点/余弦函数--001126.md",
+      "id": "K480b15748a462a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1c3ba53d4851bee34790ee612d20d470c4aa3399e2b77f57d334db057db5392c",
+      "registered_sha256": null,
+      "title": "余弦函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-余弦函数的图象.md",
+      "before": "Mathmap/知识点/余弦函数的图象--000164.md",
+      "id": "K2b5ed9eceab723",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "1dbf8dda8d677e994f7cde4c839fe98c93c12cf348fa762afe28ffdf4f673014",
+      "registered_sha256": "1dbf8dda8d677e994f7cde4c839fe98c93c12cf348fa762afe28ffdf4f673014",
+      "title": "余弦函数的图象"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-信息技术应用：探究指数函数的性质.md",
+      "before": "Mathmap/知识点/信息技术应用：探究指数函数的性质--000138.md",
+      "id": "K12d77c5c6dddde",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "59bd787dc45a919f98eae06b69f3280de3f15dc20b1d9f3e3e83869db3c53380",
+      "registered_sha256": "4098b07f9538164b95201b34d875cd5c92a26e32d855b158ab985dc307fc7dfc",
+      "title": "信息技术应用：探究指数函数的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-借助空间向量解决.md",
+      "before": "Mathmap/知识点/借助空间向量解决--000884.md",
+      "id": "K5480301bb26b49",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2b6997b3a36e61ecd5b20843aa6be51a8ec1269d82a3b721912089e56f63bfb6",
+      "registered_sha256": null,
+      "title": "借助空间向量解决"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-值域.md",
+      "before": "Mathmap/知识点/值域--001171.md",
+      "id": "K0732501eae2234",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d8b6898123bbd01c1199bcfbb633cb20a914890689d405283d47b6efca872c0c",
+      "registered_sha256": null,
+      "title": "值域"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-偶函数.md",
+      "before": "Mathmap/知识点/偶函数--000127.md",
+      "id": "K6071218d64e89f",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "b87166d9e6c9bc107363d0dfeba185c5dd7cb53e9d618d3a50f86e7f07740874",
+      "registered_sha256": "b87166d9e6c9bc107363d0dfeba185c5dd7cb53e9d618d3a50f86e7f07740874",
+      "title": "偶函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-元素.md",
+      "before": "Mathmap/知识点/元素--001143.md",
+      "id": "Kcf87c88c720265",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "76ee866fc9c4a83ed7f4a9098334b3c5e7fd716f42fe055e5156026101cd664b",
+      "registered_sha256": null,
+      "title": "元素"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-元素（位置）有限制条件的排列问题.md",
+      "before": "Mathmap/知识点/元素（位置）有限制条件的排列问题--001054.md",
+      "id": "Kd6c685276df90f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c7d7de2fb952827ee9add5813985466060a13ba3749c6daf379b3a57aebead01",
+      "registered_sha256": null,
+      "title": "元素（位置）有限制条件的排列问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-充分条件与必要条件.md",
+      "before": "Mathmap/知识点/充分条件与必要条件--000102.md",
+      "id": "Ke33fb36f61afbe",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f90550e9836921ebda61f06cd4eeb57ef557e36b7cb1843e050b9c16b22a3ee6",
+      "registered_sha256": "f90550e9836921ebda61f06cd4eeb57ef557e36b7cb1843e050b9c16b22a3ee6",
+      "title": "充分条件与必要条件"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-充要条件.md",
+      "before": "Mathmap/知识点/充要条件--000105.md",
+      "id": "K647939fa14b2b3",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "cc026342cbbff7d65b7b78f0f30c08597536c244b10b3b4ac2a6087b74ee879d",
+      "registered_sha256": "cc026342cbbff7d65b7b78f0f30c08597536c244b10b3b4ac2a6087b74ee879d",
+      "title": "充要条件"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-先猜后证.md",
+      "before": "Mathmap/知识点/先猜后证--000868.md",
+      "id": "K920a62172fe01c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b7beee43faea9492a23f3ef61e40b8f0c53ecebbedce99d79ecd3247a588f76b",
+      "registered_sha256": null,
+      "title": "先猜后证"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-全排列.md",
+      "before": "Mathmap/知识点/全排列--001083.md",
+      "id": "K6931a97d94ed29",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f72eacb74bb86eab3114655555dbb9eb9f69a2f1468aefb878065233d66f39bd",
+      "registered_sha256": null,
+      "title": "全排列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-全排列问题.md",
+      "before": "Mathmap/知识点/全排列问题--001061.md",
+      "id": "K4b6d50ea451ec9",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "870035f9e958b1112870e4f97a464ae1ed3b2e5aba935fe06bee9b8b12bd8249",
+      "registered_sha256": null,
+      "title": "全排列问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-全称量词与全称量词命题.md",
+      "before": "Mathmap/知识点/全称量词与全称量词命题--000108.md",
+      "id": "K675506f422dff3",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "a4bbec27cdedfb5329422e62f2ff71e3fc32c3051c0d098956f53a949ed5ffc6",
+      "registered_sha256": "a4bbec27cdedfb5329422e62f2ff71e3fc32c3051c0d098956f53a949ed5ffc6",
+      "title": "全称量词与全称量词命题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-全称量词命题的否定.md",
+      "before": "Mathmap/知识点/全称量词命题的否定--000110.md",
+      "id": "K0c83acc9ffd047",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "a4a72a65a17702c11b5f655d7dbcf66729adb5cd319728e63c6215f0e5fa93a8",
+      "registered_sha256": "a4a72a65a17702c11b5f655d7dbcf66729adb5cd319728e63c6215f0e5fa93a8",
+      "title": "全称量词命题的否定"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-全集与补集.md",
+      "before": "Mathmap/知识点/全集与补集--000099.md",
+      "id": "Kb7e8ce782fd48f",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "91ca58266f4d479499b867f8ed6c91a3a714a9a80739cccf4f5c03552e2a4ad1",
+      "registered_sha256": "91ca58266f4d479499b867f8ed6c91a3a714a9a80739cccf4f5c03552e2a4ad1",
+      "title": "全集与补集"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-共线共面问题.md",
+      "before": "Mathmap/知识点/共线共面问题--000919.md",
+      "id": "K1bfd09ea919d1e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f95fd85a0bcd87dc9398e6c133fe75374726065eb5fb5166b77c6c34834e72e6",
+      "registered_sha256": null,
+      "title": "共线共面问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-共线向量（空间）.md",
+      "before": "Mathmap/知识点/共线向量（空间）--000956.md",
+      "id": "Kffcbc88578deb5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3aece40fa97ff15acd93a623c44abb51eed748189de6c60cd96b9d84f7ef180b",
+      "registered_sha256": null,
+      "title": "共线向量（空间）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-共轭复数.md",
+      "before": "Mathmap/知识点/共轭复数--000883.md",
+      "id": "K0eae3b644f4136",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f29f8e48f7644e0a283cd4b005660d9b585ec8905bb787265c5118e716f8188b",
+      "registered_sha256": null,
+      "title": "共轭复数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-共面向量.md",
+      "before": "Mathmap/知识点/共面向量--000939.md",
+      "id": "K69cb9fdb427629",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0044f9cc345df2799450d74b1904604d03b477d95058f8bb01ef894070d7e615",
+      "registered_sha256": null,
+      "title": "共面向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-关于直线对称.md",
+      "before": "Mathmap/知识点/关于直线对称--000877.md",
+      "id": "K84ac2654bb8dd3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "244b38743d9386f0138bd17c92a98f39a8775a194b42fe1cb9c61d4221946f53",
+      "registered_sha256": null,
+      "title": "关于直线对称"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-内切球.md",
+      "before": "Mathmap/知识点/内切球--000963.md",
+      "id": "K547303fe9ac4cb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b24b69cae2d5e098ecd1ec5fad32a5654681ce869fc4d7ad19c2a3db54059ae8",
+      "registered_sha256": null,
+      "title": "内切球"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-减函数.md",
+      "before": "Mathmap/知识点/减函数--001152.md",
+      "id": "K589b1699fac59e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b8dd749ea0e1964ba43bdf6e70c7a30e2b886eeae9877534b7fcb9391c8b68c3",
+      "registered_sha256": null,
+      "title": "减函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-几个二项式的和或积的展开式中的特定项或特定系数问题.md",
+      "before": "Mathmap/知识点/几个二项式的和或积的展开式中的特定项或特定系数问题--001053.md",
+      "id": "Ke5b277e01316ec",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "bc49ab7667f9f232bece771145d04bdcf7818f9f0df531c4627f1c77e35444d7",
+      "registered_sha256": null,
+      "title": "几个二项式的和或积的展开式中的特定项或特定系数问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-几何命题与充分条件、必要条件.md",
+      "before": "Mathmap/知识点/几何命题与充分条件、必要条件--000107.md",
+      "id": "K340f6b248c9564",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "9a00768c616464a38e3d9c7f1897465067ab9a9bdc6a15f3828727e0eb6e76e5",
+      "registered_sha256": "33e758b6aa8c063ef74eb96c6cea75eead3e252861392312abf482fb62fb4774",
+      "title": "几何命题与充分条件、必要条件"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-几何投影法、基底法、坐标法 向量数量积的最值和范围.md",
+      "before": "Mathmap/知识点/几何投影法、基底法、坐标法 向量数量积的最值和范围--000918.md",
+      "id": "K0ba9c2f44ac2a2",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "dcb6b0c99de813985532fb6f70611fb8a4579a46ddc2fe1efeecd574b640e7d0",
+      "registered_sha256": null,
+      "title": "几何投影法、基底法、坐标法 向量数量积的最值和范围"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-几何法.md",
+      "before": "Mathmap/知识点/几何法--000981.md",
+      "id": "K3e6a15cb0d6291",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "69aea727757dd2bd1ee3d5ce0a428f254f107197abae519d33a583536eaada68",
+      "registered_sha256": null,
+      "title": "几何法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-几何法和解析几何法.md",
+      "before": "Mathmap/知识点/几何法和解析几何法--000875.md",
+      "id": "K9eb3940d83041e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "56d83efb4d33f56dd05cd4d4d738bb4f2b551e3f020551851826df337c0f9a45",
+      "registered_sha256": null,
+      "title": "几何法和解析几何法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导.md",
+      "before": "Mathmap/知识点/函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导--000167.md",
+      "id": "Ke236641b1ebca6",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "3af2a9e6a74f85198b144c93b31de6d96c2d3069e1daae83c811b68793218efb",
+      "registered_sha256": "25884f9b9aed3d95b909957b66b7b13c8824a4ecefb1434b621c197e44e4aac1",
+      "title": "函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型.md",
+      "before": "Mathmap/知识点/函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型--000180.md",
+      "id": "K8d08e17f8dac53",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f1fb3be7ab64cd83a34d90299ecd31265e1f1ce3e61ba83e1b87354d2b70306b",
+      "registered_sha256": "f1fb3be7ab64cd83a34d90299ecd31265e1f1ce3e61ba83e1b87354d2b70306b",
+      "title": "函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数四则运算后性质.md",
+      "before": "Mathmap/知识点/函数四则运算后性质--001157.md",
+      "id": "Kf1f8751a83ff74",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d9736f7325bb838e2a682df3f7b5144b7b72f900b90c17f6f71a8ffae6dbc63f",
+      "registered_sha256": null,
+      "title": "函数四则运算后性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数思想-参数分离法.md",
+      "before": "Mathmap/知识点/函数思想-参数分离法--001177.md",
+      "id": "K7c52ccd3020aae",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6b2d5f12f9f561c8cf02fa3a4697a41c833444606131ac7d660abcf1d833ffe4",
+      "registered_sha256": null,
+      "title": "函数思想-参数分离法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数换元题型.md",
+      "before": "Mathmap/知识点/函数换元题型--001147.md",
+      "id": "K57940570e82646",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3236f7f6d308fa8dfbd02c0dfa0d1b41928fbb22defd99e309217ded7827d105",
+      "registered_sha256": null,
+      "title": "函数换元题型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数概念的发展历程.md",
+      "before": "Mathmap/知识点/函数概念的发展历程--000124.md",
+      "id": "K1355524fa58402",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "bd21f941093deb4b3a2ea1b7a640ce913b20e1e3c63bacdcdc627d771bd11dde",
+      "registered_sha256": "d7941ed77b234b8345f726bae1c4ec54dc170ca1ee7bcb51d6e1deec7b662007",
+      "title": "函数概念的发展历程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数疑难杂症.md",
+      "before": "Mathmap/知识点/函数疑难杂症--001118.md",
+      "id": "Kf722566856177b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "cf19cc5c2ada52722de2ceab11d0e5d3a2a580ec41457bca99161546e166fe57",
+      "registered_sha256": null,
+      "title": "函数疑难杂症"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数的三种表示法.md",
+      "before": "Mathmap/知识点/函数的三种表示法--000122.md",
+      "id": "Kf5cac127a67cfa",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "44aa4d31173b163702fce69e89f5532e8fdb46d303a16689df99e1dbb0481720",
+      "registered_sha256": "44aa4d31173b163702fce69e89f5532e8fdb46d303a16689df99e1dbb0481720",
+      "title": "函数的三种表示法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数的单调性.md",
+      "before": "Mathmap/知识点/函数的单调性--000125.md",
+      "id": "K2fee6535132d55",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "4e77a6fa0aabed213f7382b4efc412741aef2e2e31fcdf5bd0bf1b28a79e8b94",
+      "registered_sha256": "4e77a6fa0aabed213f7382b4efc412741aef2e2e31fcdf5bd0bf1b28a79e8b94",
+      "title": "函数的单调性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数的最大（小）值.md",
+      "before": "Mathmap/知识点/函数的最大（小）值--000126.md",
+      "id": "K600f7fd47a27ac",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "ce60f2358216254cd7339f5b7ee01535acd45c1deda14534d249bce946673199",
+      "registered_sha256": "ce60f2358216254cd7339f5b7ee01535acd45c1deda14534d249bce946673199",
+      "title": "函数的最大（小）值"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数的构成要素与同一个函数的判定.md",
+      "before": "Mathmap/知识点/函数的构成要素与同一个函数的判定--000121.md",
+      "id": "K6b8a85f0160867",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "218f4c6f0c19f8c7f74387d5fb3144a5d680bb680f92c2937a40b997a0315879",
+      "registered_sha256": "218f4c6f0c19f8c7f74387d5fb3144a5d680bb680f92c2937a40b997a0315879",
+      "title": "函数的构成要素与同一个函数的判定"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数的概念.md",
+      "before": "Mathmap/知识点/函数的概念--000119.md",
+      "id": "Kbaa6ea82229fa5",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "222b2cd6854a85e1bb52544b07e378e4c4d8e7bed6363fa84c777abe2263a240",
+      "registered_sha256": "222b2cd6854a85e1bb52544b07e378e4c4d8e7bed6363fa84c777abe2263a240",
+      "title": "函数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数的零点与方程的解.md",
+      "before": "Mathmap/知识点/函数的零点与方程的解--000147.md",
+      "id": "Kf59f99ed105c84",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "cba5b18e4e7c470fa217456f252b9c7c4f2d8a018cef95a452bf2efca3ea0be0",
+      "registered_sha256": "cba5b18e4e7c470fa217456f252b9c7c4f2d8a018cef95a452bf2efca3ea0be0",
+      "title": "函数的零点与方程的解"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-函数零点存在定理.md",
+      "before": "Mathmap/知识点/函数零点存在定理--000148.md",
+      "id": "K7ee885d548d05c",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "364b12c0d615637d0ba5a7316c9d869afdc7e5354127f2dad450fecf98bca7d9",
+      "registered_sha256": "364b12c0d615637d0ba5a7316c9d869afdc7e5354127f2dad450fecf98bca7d9",
+      "title": "函数零点存在定理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分向量.md",
+      "before": "Mathmap/知识点/分向量--000891.md",
+      "id": "K660785a6dd156e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8f3c2dcae349df5022b40d7ca6721d275e64daf2c78b5272b6216011ab96f213",
+      "registered_sha256": null,
+      "title": "分向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分布列及其性质的应用.md",
+      "before": "Mathmap/知识点/分布列及其性质的应用--001089.md",
+      "id": "Ka837b575d1a28f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "65e7fade0b642d85b8c6fc7b5b1b0d84c962da4714729a4070972b47e7f7803c",
+      "registered_sha256": null,
+      "title": "分布列及其性质的应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分式不等式.md",
+      "before": "Mathmap/知识点/分式不等式--001161.md",
+      "id": "K25225fe7ad214c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "7959d71f0df9595ebed3961d75681f050b0bc5f0696399fee3ab6ecabbd8d1c2",
+      "registered_sha256": null,
+      "title": "分式不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分数指数幂与有理数指数幂的运算性质.md",
+      "before": "Mathmap/知识点/分数指数幂与有理数指数幂的运算性质--000133.md",
+      "id": "K1591d7dc66d6f8",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "03757edce681d5b54763041c89ae78e531756659e54adc719642353dc95990a5",
+      "registered_sha256": "03757edce681d5b54763041c89ae78e531756659e54adc719642353dc95990a5",
+      "title": "分数指数幂与有理数指数幂的运算性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分段函数的概念.md",
+      "before": "Mathmap/知识点/分段函数的概念--000123.md",
+      "id": "K265704d7018998",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "4ff725d45ec8a41399b0fef6d1f8c9337a1024f29b1e3fb52918630e38836b35",
+      "registered_sha256": "4ff725d45ec8a41399b0fef6d1f8c9337a1024f29b1e3fb52918630e38836b35",
+      "title": "分段函数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分段函数解析式题型.md",
+      "before": "Mathmap/知识点/分段函数解析式题型--001146.md",
+      "id": "K31bb25a9f35eef",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "312774a952f88ac0a242abd238da0d7081e1b0e9f0530ca7e8444e58198e3c93",
+      "registered_sha256": null,
+      "title": "分段函数解析式题型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分类思想练习.md",
+      "before": "Mathmap/知识点/分类思想练习--001167.md",
+      "id": "K94124e1f5ca4ba",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d52e30f2b316a9e08b754a715ca7d3a21692edfa1017491ec65ee2fb0e3b4e41",
+      "registered_sha256": null,
+      "title": "分类思想练习"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-分组、分配问题.md",
+      "before": "Mathmap/知识点/分组、分配问题--001049.md",
+      "id": "Kf74416e2b78e1e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "72eab6c28aec40a760160716c7bd21da17f7c1431cb86b9ea8a20a8fe47adb76",
+      "registered_sha256": null,
+      "title": "分组、分配问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-切线方程.md",
+      "before": "Mathmap/知识点/切线方程--000985.md",
+      "id": "K509ad0b906a568",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0d725934640cd5c572b6ab487c888a180eb01d603fc25fd5bcb094c514526dfb",
+      "registered_sha256": null,
+      "title": "切线方程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-列举法.md",
+      "before": "Mathmap/知识点/列举法--000092.md",
+      "id": "K220f7750f094d2",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "3d50f73107faac7b8b57cc62ba68c8be9e2849440439ad85ec446926a92b641b",
+      "registered_sha256": "3d50f73107faac7b8b57cc62ba68c8be9e2849440439ad85ec446926a92b641b",
+      "title": "列举法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-初等函数.md",
+      "before": "Mathmap/知识点/初等函数--001114.md",
+      "id": "K8661907b5b9d35",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ff0fe8280ed877d95ce56037627642eb993b843e6658b5511a1e4a16e491c029",
+      "registered_sha256": null,
+      "title": "初等函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-判定定理与充分条件的关系.md",
+      "before": "Mathmap/知识点/判定定理与充分条件的关系--000103.md",
+      "id": "K8857b67e1d55ee",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "800c36c3fdf9c3901dd180ad43cd9344c08487ebca001c2d43a5a85601930d24",
+      "registered_sha256": "800c36c3fdf9c3901dd180ad43cd9344c08487ebca001c2d43a5a85601930d24",
+      "title": "判定定理与充分条件的关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-利用三角恒等变化解决最值问题.md",
+      "before": "Mathmap/知识点/利用三角恒等变化解决最值问题--001110.md",
+      "id": "K2f67f9548d0a1d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "59ac4f6601acbca5fe8229e8794bbd448cd2c7d2a54a98e08c3cd1b186f566a2",
+      "registered_sha256": null,
+      "title": "利用三角恒等变化解决最值问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-利用二项式定理近似计算.md",
+      "before": "Mathmap/知识点/利用二项式定理近似计算--001047.md",
+      "id": "Kbfe090c56f2a89",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "da392609f3ccf502e91ee7deef404989aa7f410631369621502ff6aeebae6158",
+      "registered_sha256": null,
+      "title": "利用二项式定理近似计算"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-利用信息技术制作三角函数表.md",
+      "before": "Mathmap/知识点/利用信息技术制作三角函数表--000176.md",
+      "id": "K61e29eacc48c1c",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f0b1abaef8ee9c873dc694ef75aab4b76f20f5f47de007d769f29508101f6617",
+      "registered_sha256": "ec75bb08119caace3d1c78c9b24b839be3b2ce6193b470cf41f63e9d82e7613a",
+      "title": "利用信息技术制作三角函数表"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-利用单位圆的性质研究正弦函数、余弦函数的性质.md",
+      "before": "Mathmap/知识点/利用单位圆的性质研究正弦函数、余弦函数的性质--000169.md",
+      "id": "K1ff8f5f4113cbc",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "66c32c6eeceb800086f8582a849b2ecd4e13ef326334df2b7331707849c19fdc",
+      "registered_sha256": "67acccb0224c5244f7c45cc5fbcd0139b8a25b8e0357ea7a1179e69598457b9c",
+      "title": "利用单位圆的性质研究正弦函数、余弦函数的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-利用诱导公式将任意角三角函数化归为锐角三角函数的方法.md",
+      "before": "Mathmap/知识点/利用诱导公式将任意角三角函数化归为锐角三角函数的方法--000161.md",
+      "id": "K9eafe64fb64d6b",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "73702b3e5e00bbfa9e7183509964a3f6ecbea09d070fcc96a5415347616aaa1f",
+      "registered_sha256": "73702b3e5e00bbfa9e7183509964a3f6ecbea09d070fcc96a5415347616aaa1f",
+      "title": "利用诱导公式将任意角三角函数化归为锐角三角函数的方法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-动点思维.md",
+      "before": "Mathmap/知识点/动点思维--000983.md",
+      "id": "K40495241738d48",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "69cbb78ccd294f68c3c8d37a9f73d68e8ec668c3d434bf7a23df6aff1058d638",
+      "registered_sha256": null,
+      "title": "动点思维"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-匀速圆周运动的数学模型.md",
+      "before": "Mathmap/知识点/匀速圆周运动的数学模型--000178.md",
+      "id": "K1ccb46ce1d9f99",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "a5216e46c2a683484f5297e0cd9d07d929d488f4d9b70ca5abeb9773e37075b1",
+      "registered_sha256": "a5216e46c2a683484f5297e0cd9d07d929d488f4d9b70ca5abeb9773e37075b1",
+      "title": "匀速圆周运动的数学模型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-包含.md",
+      "before": "Mathmap/知识点/包含--001026.md",
+      "id": "Ka8bfcc4e318640",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e26fe7bb8864d50a9fe3fe03d236982d632e950b6c3e26a35e43b004e82a764c",
+      "registered_sha256": null,
+      "title": "包含"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-化归思想.md",
+      "before": "Mathmap/知识点/化归思想--001106.md",
+      "id": "Kd71e149ebd4c11",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "44a8ed66057e384a4b980a64aa5022089776fdd061997a8dd127e2933c50fc07",
+      "registered_sha256": null,
+      "title": "化归思想"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-区间的概念.md",
+      "before": "Mathmap/知识点/区间的概念--000120.md",
+      "id": "K3d562e260dbef0",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "6061554379aa7359b7ea012b8b37515903bbbaad5056ab545e57df12f15c758e",
+      "registered_sha256": "6061554379aa7359b7ea012b8b37515903bbbaad5056ab545e57df12f15c758e",
+      "title": "区间的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-单位向量.md",
+      "before": "Mathmap/知识点/单位向量--000975.md",
+      "id": "K76cf049fffc946",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "08c1b3bc44f03cf0ec0b0cc8f9d1a797ec2ebc66159a9ca1739ca129bb74ecf9",
+      "registered_sha256": null,
+      "title": "单位向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-单位向量（空间）.md",
+      "before": "Mathmap/知识点/单位向量（空间）--000954.md",
+      "id": "Kbc778b8b79ef4c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e1e5ca15d131eec9baa9bbcdff3f159bc7afc9168253fb9b804e0a50e48942c7",
+      "registered_sha256": null,
+      "title": "单位向量（空间）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-单位正交基底.md",
+      "before": "Mathmap/知识点/单位正交基底--000893.md",
+      "id": "K8ffec86fac8234",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4a8c28dbcc1af6ba8ae38783a521740a110acac567e668fa21d5273eb3f266b8",
+      "registered_sha256": null,
+      "title": "单位正交基底"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-单调区间.md",
+      "before": "Mathmap/知识点/单调区间--001153.md",
+      "id": "K7a8dd6a8a31f22",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d8a8a1b5f4f3b0bb1d67f548beaed07957c71b4fa86651c7ddaa76daf65ec03c",
+      "registered_sha256": null,
+      "title": "单调区间"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-单调递减.md",
+      "before": "Mathmap/知识点/单调递减--001151.md",
+      "id": "Kd047682e45d10e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5aa302ac04bb355e200618abfcdcc0e1a4b4c8fd1ed54e18cfddf3cd1a8c1d08",
+      "registered_sha256": null,
+      "title": "单调递减"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-单调递增.md",
+      "before": "Mathmap/知识点/单调递增--001149.md",
+      "id": "K8af6b41c2f51ae",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3e0e13e62a4ea6dbc0f35a1a68145c1bf731a9926e0c0358a308e04aafd8f151",
+      "registered_sha256": null,
+      "title": "单调递增"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换.md",
+      "before": "Mathmap/知识点/参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换--000179.md",
+      "id": "K8a9577ec777e00",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "ce164d65d444f6e94c9b82270d01142a28d78883df9dfeb127076b0817d1f598",
+      "registered_sha256": "ce164d65d444f6e94c9b82270d01142a28d78883df9dfeb127076b0817d1f598",
+      "title": "参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-参数的认识.md",
+      "before": "Mathmap/知识点/参数的认识--001004.md",
+      "id": "K86d04acef6af00",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "da12c26de52049570b2b8e7725d15f20a27f43c58ded1997d3185267e1a0bfef",
+      "registered_sha256": null,
+      "title": "参数的认识"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-双曲线的综合应用.md",
+      "before": "Mathmap/知识点/双曲线的综合应用--000997.md",
+      "id": "K7c364f2da8e038",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4a659cbce434cc5d227b2c4e34c4353a27b4c4ff32631ed7e573df3b9d681e7a",
+      "registered_sha256": null,
+      "title": "双曲线的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-反三角函数.md",
+      "before": "Mathmap/知识点/反三角函数--001109.md",
+      "id": "K58349aaad8e8b7",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f86066e367091c47f9d708cdd00240df17e9670c0623021bdf75bd3b8714582c",
+      "registered_sha256": null,
+      "title": "反三角函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-反函数的概念.md",
+      "before": "Mathmap/知识点/反函数的概念--000145.md",
+      "id": "K6620ef8f39bdf5",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "b70e38316c61c46a6544523f886c6c9614227f09edcaf4ad648b4fd2c1c255f9",
+      "registered_sha256": "b70e38316c61c46a6544523f886c6c9614227f09edcaf4ad648b4fd2c1c255f9",
+      "title": "反函数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-同角三角函数的基本关系.md",
+      "before": "Mathmap/知识点/同角三角函数的基本关系--000158.md",
+      "id": "Kf8ce46373932df",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "6a72e678657fc71045aff5e3d29fad14581c81443d0352df18fcb4bd7072a918",
+      "registered_sha256": "6a72e678657fc71045aff5e3d29fad14581c81443d0352df18fcb4bd7072a918",
+      "title": "同角三角函数的基本关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-向量不等式.md",
+      "before": "Mathmap/知识点/向量不等式--000971.md",
+      "id": "K4ada95e4749739",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "399807832397a1c29c64d69af6c79f09db28e9be5fe0655e7350d343f0bed157",
+      "registered_sha256": null,
+      "title": "向量不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-向量夹角.md",
+      "before": "Mathmap/知识点/向量夹角--000943.md",
+      "id": "K31bf09add02ca4",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4d746d00d8b05ff756369d1060f886c6922cfc6af9f4510b653b58acbf5f93d0",
+      "registered_sha256": null,
+      "title": "向量夹角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-向量模长.md",
+      "before": "Mathmap/知识点/向量模长--000934.md",
+      "id": "K82cc5e14b86431",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "bb9c79984c0c5b5f66809b4c1af2bd2c465dcc6de7a68b78cb82bcfe81086ae6",
+      "registered_sha256": null,
+      "title": "向量模长"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-向量法和几何法对比.md",
+      "before": "Mathmap/知识点/向量法和几何法对比--000937.md",
+      "id": "K5f3080e5280d91",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "97c3a52497788066bd283780aee68c23094602c9f638856556c9ebd8a9f89de2",
+      "registered_sha256": null,
+      "title": "向量法和几何法对比"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-周期函数与最小正周期.md",
+      "before": "Mathmap/知识点/周期函数与最小正周期--000165.md",
+      "id": "Kdacf127dc7e9dd",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "087a35966121a2cdf75fe87004e5d8b6179672ba956de7fce4a0d33e3b18a399",
+      "registered_sha256": "087a35966121a2cdf75fe87004e5d8b6179672ba956de7fce4a0d33e3b18a399",
+      "title": "周期函数与最小正周期"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-周期数列.md",
+      "before": "Mathmap/知识点/周期数列--001042.md",
+      "id": "K03546a24454114",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d417fc73d12720902e527b15cdf7b2399b7016122639480d61587601b422d322",
+      "registered_sha256": null,
+      "title": "周期数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-周期运动与声音中的三角函数.md",
+      "before": "Mathmap/知识点/周期运动与声音中的三角函数--000181.md",
+      "id": "K91e6008f47a6c8",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "21baacc357b0da2e246b68457d6cba1d46558719ce7f887b19faf612479ea992",
+      "registered_sha256": "71bf03e1b84d58224695115431bb1e3741443815ce5f504c70f90f18fef091ac",
+      "title": "周期运动与声音中的三角函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-命名，1个字.md",
+      "before": "Mathmap/知识点/命名，1个字--001079.md",
+      "id": "K3924af211b38dc",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "638d3a9e928d927b0ef029c1898b1d19c10821f7c8099df9e0ec883295af3464",
+      "registered_sha256": null,
+      "title": "命名，1个字"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-命名，多个字.md",
+      "before": "Mathmap/知识点/命名，多个字--001077.md",
+      "id": "K4b9c4e7278ff61",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1052dac21cc5cc69f693545dcf189e7f05ff88f2f5b3a18ee36369e5a69e46c4",
+      "registered_sha256": null,
+      "title": "命名，多个字"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-命题、条件与结论.md",
+      "before": "Mathmap/知识点/命题、条件与结论--000101.md",
+      "id": "K61150b24c7e796",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "108b661b30c15ef97c2d9444e97318aa5d8cde0fdea89c96218fcb50c4d9bcf8",
+      "registered_sha256": "108b661b30c15ef97c2d9444e97318aa5d8cde0fdea89c96218fcb50c4d9bcf8",
+      "title": "命题、条件与结论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-四点共面.md",
+      "before": "Mathmap/知识点/四点共面--000941.md",
+      "id": "Kaf8d492be56a22",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "90b57e469492db69c14e91f515d3454306545eb000278686dadd090d2fabf5f8",
+      "registered_sha256": null,
+      "title": "四点共面"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-圆周角相等.md",
+      "before": "Mathmap/知识点/圆周角相等--000915.md",
+      "id": "K1f6ea46812f7ed",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2da3aae8b5670e8d59d21cf43114c127bd786ff6108b5dbfdd93dff03a8404f5",
+      "registered_sha256": null,
+      "title": "圆周角相等"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-圆的方程的应用.md",
+      "before": "Mathmap/知识点/圆的方程的应用--000993.md",
+      "id": "Kda7fb5f9defdd8",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "90856a241c388b18468321f1cf41ccbfaaba113e9bd1990c1c69fe704103553e",
+      "registered_sha256": null,
+      "title": "圆的方程的应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-圆锥.md",
+      "before": "Mathmap/知识点/圆锥--000949.md",
+      "id": "K61b2b1f9fc2ceb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4c868c15c54b1d6d2c3f38196da60a3fb8b214be9942649ede43410b70db4b47",
+      "registered_sha256": null,
+      "title": "圆锥"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-在区间内有解.md",
+      "before": "Mathmap/知识点/在区间内有解--001162.md",
+      "id": "K16627993c8a1f0",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3838aa15a27528f45dacf05df7ce4a13c1d67149dc1687e5b578cc6c3a741fc3",
+      "registered_sha256": null,
+      "title": "在区间内有解"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-在直角坐标系内讨论角.md",
+      "before": "Mathmap/知识点/在直角坐标系内讨论角--001128.md",
+      "id": "K2245bf47590432",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "25d6c5ce9bc406b0d0443c6c6bd227862445e9c4d44210e87ccbcf102fc0bbd6",
+      "registered_sha256": null,
+      "title": "在直角坐标系内讨论角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-在频率分布直方图中估计平均数、中位数和众数.md",
+      "before": "Mathmap/知识点/在频率分布直方图中估计平均数、中位数和众数--001011.md",
+      "id": "K509b2dc729e75f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2a763955142c4aea0dc9286a89f6c5c97ccc0f84e8b755471ceeb1a09d1cef74",
+      "registered_sha256": null,
+      "title": "在频率分布直方图中估计平均数、中位数和众数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-坐标对称性.md",
+      "before": "Mathmap/知识点/坐标对称性--000926.md",
+      "id": "Ke251708bdffe3e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "7063bffbb3cb54948e9c2049be78576c7b470f1bd8e66ab09f4d701732cf265c",
+      "registered_sha256": null,
+      "title": "坐标对称性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-垂直向量.md",
+      "before": "Mathmap/知识点/垂直向量--000966.md",
+      "id": "K3ee954eb9715be",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "39b043d64312b85ccf510069a41908d3f04f608313b27e0d5d8f2ab88cc18c66",
+      "registered_sha256": null,
+      "title": "垂直向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-垂直平分线方程.md",
+      "before": "Mathmap/知识点/垂直平分线方程--000880.md",
+      "id": "K05259aca1c20ce",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "dda376f4558e639774453831e0f6edf35c20b7a348a64fff534a7584fff967b4",
+      "registered_sha256": null,
+      "title": "垂直平分线方程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基底法和坐标法 比较.md",
+      "before": "Mathmap/知识点/基底法和坐标法 比较--000905.md",
+      "id": "K462acb2aa52297",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8b7bf37e5a3d24146386385a6993ab09ffe7380f39283bb24b40bfeaff615e97",
+      "registered_sha256": null,
+      "title": "基底法和坐标法 比较"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基本不等式.md",
+      "before": "Mathmap/知识点/基本不等式--000116.md",
+      "id": "K362cac22506aa4",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "7fece07ab510e4e9cd11cd092a691eef9cd525118559871b5f6ce039b3d59da5",
+      "registered_sha256": "7fece07ab510e4e9cd11cd092a691eef9cd525118559871b5f6ce039b3d59da5",
+      "title": "基本不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基本事实.md",
+      "before": "Mathmap/知识点/基本事实--000922.md",
+      "id": "K7e986db4b25451",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "97b6a0c9f1dca704b0365e33d2d8aefc8cf8e53d36a9c6918ce90b578c19a00a",
+      "registered_sha256": null,
+      "title": "基本事实"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基本事实1.md",
+      "before": "Mathmap/知识点/基本事实1--000923.md",
+      "id": "Kda0417fad26893",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "34a709e7b7fc233f7488f110bc6eae2c7abe271a16636c8002b62459a01f06d3",
+      "registered_sha256": null,
+      "title": "基本事实1"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基本事实2.md",
+      "before": "Mathmap/知识点/基本事实2--000925.md",
+      "id": "Ka1258a4b555d0d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9dc51d595d65ad6eb15fbcf961eacce4d1e245f20bdeb3fae53b1ec2c2d7ba8f",
+      "registered_sha256": null,
+      "title": "基本事实2"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基本事实3.md",
+      "before": "Mathmap/知识点/基本事实3--000924.md",
+      "id": "K27c19216e1f82e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9b8244ad42892524a446229a97c90af191c2db11a8273cd74cba746b97377048",
+      "registered_sha256": null,
+      "title": "基本事实3"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-基本函数图像法.md",
+      "before": "Mathmap/知识点/基本函数图像法--001155.md",
+      "id": "K64ccf924d67568",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "18693860ef48892a28a5cb4a26a7c22ab7f764265666a81801e4b86780cc4591",
+      "registered_sha256": null,
+      "title": "基本函数图像法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-增函数.md",
+      "before": "Mathmap/知识点/增函数--001150.md",
+      "id": "K6407ba1995f4f0",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6c74c137b208e56ee5d02f1c3fa6a66e6bb581e888b5d0a99963aa12323fefe0",
+      "registered_sha256": null,
+      "title": "增函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-复杂函数图像.md",
+      "before": "Mathmap/知识点/复杂函数图像--001119.md",
+      "id": "Kdee326348a7d8c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "bddcf2eac19c29acb69ec1a476be3cb2f58e2d8f4540dd4af373ac13700728f7",
+      "registered_sha256": null,
+      "title": "复杂函数图像"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-外接球.md",
+      "before": "Mathmap/知识点/外接球--000964.md",
+      "id": "K5c5a3ca9e6fa67",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f09c3d3e9d16114fa5ba7401e2c40b7efea4aed03129d6b77fd97c4d111a60e4",
+      "registered_sha256": null,
+      "title": "外接球"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-多个事件的和事件以及积事件.md",
+      "before": "Mathmap/知识点/多个事件的和事件以及积事件--001019.md",
+      "id": "Kee89458b3a3038",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8eb33d95f77aaf3d348ea9deb430ceb944e12c4cf46ccfdc627355791f0e6126",
+      "registered_sha256": null,
+      "title": "多个事件的和事件以及积事件"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-大数定律.md",
+      "before": "Mathmap/知识点/大数定律--001044.md",
+      "id": "K95c523f7bff713",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "087f31097840378717956c276ef41ae557664f2bb289b14c677de8c75bc99845",
+      "registered_sha256": null,
+      "title": "大数定律"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-奇函数.md",
+      "before": "Mathmap/知识点/奇函数--000128.md",
+      "id": "Ka914ddfb245aa3",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "9666027d3766465d1c28113627019b22d41479b247c2cf0bfea58a6c61b6328a",
+      "registered_sha256": "9666027d3766465d1c28113627019b22d41479b247c2cf0bfea58a6c61b6328a",
+      "title": "奇函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-奔驰定理.md",
+      "before": "Mathmap/知识点/奔驰定理--000914.md",
+      "id": "K6bbc902d68aaa5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c45db67b893a9642cbe14759845d6e1ca610820c0ad8e6d68febb38148de7d7a",
+      "registered_sha256": null,
+      "title": "奔驰定理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-子集与Venn图.md",
+      "before": "Mathmap/知识点/子集与Venn图--000094.md",
+      "id": "K139b010b5537b9",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "994e9b8b9fa73ab0be6e713cd386b6942902fb39199e99f000bb40aeede975bd",
+      "registered_sha256": "994e9b8b9fa73ab0be6e713cd386b6942902fb39199e99f000bb40aeede975bd",
+      "title": "子集与Venn图"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-存在量词与存在量词命题.md",
+      "before": "Mathmap/知识点/存在量词与存在量词命题--000109.md",
+      "id": "K5a5ff45622bc51",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "73ed6d3cd19ce580d04497fc096ef5b9c80effcac0a325d48b3b3ba3a2b1bc20",
+      "registered_sha256": "73ed6d3cd19ce580d04497fc096ef5b9c80effcac0a325d48b3b3ba3a2b1bc20",
+      "title": "存在量词与存在量词命题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-存在量词命题的否定.md",
+      "before": "Mathmap/知识点/存在量词命题的否定--000111.md",
+      "id": "K597e84eb755d7f",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "a27ee7cbbf16025da529616fca31d8dda6fc650392e58c019d6ba28a79f90d5d",
+      "registered_sha256": "a27ee7cbbf16025da529616fca31d8dda6fc650392e58c019d6ba28a79f90d5d",
+      "title": "存在量词命题的否定"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-存在问题.md",
+      "before": "Mathmap/知识点/存在问题--001000.md",
+      "id": "K68d2b1878f0d4a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "659780e3b483f7b4736e3ec52f71846bf3c2009d178e2627d1e5cc86cb40d66a",
+      "registered_sha256": null,
+      "title": "存在问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-完全平方公式中的不等关系.md",
+      "before": "Mathmap/知识点/完全平方公式中的不等关系--000865.md",
+      "id": "K5b04f3f9fcc319",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "41d9384accd2dbe5291a5c58a8a5b764c735ee468e98a0fd1da7a8699f66197e",
+      "registered_sha256": null,
+      "title": "完全平方公式中的不等关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-定义域.md",
+      "before": "Mathmap/知识点/定义域--001112.md",
+      "id": "Kd6f48c2f88b281",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "98eac29d1c9eb05411d3e414af332e99453b080ab182e410fabbf82489ee3c6e",
+      "registered_sha256": null,
+      "title": "定义域"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-定点定值问题.md",
+      "before": "Mathmap/知识点/定点定值问题--001009.md",
+      "id": "Kb064ab0f715782",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "659a3fb9c9315fd0c1fa01bee8ecff5e86eccb89f7b1699a915adaa7aabc87ed",
+      "registered_sha256": null,
+      "title": "定点定值问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-实际问题.md",
+      "before": "Mathmap/知识点/实际问题--001064.md",
+      "id": "Kb1c50272299f60",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9a844c6c02eaead9713eff89f9a7356989c72a67153446b4ad93b4345822b8f4",
+      "registered_sha256": null,
+      "title": "实际问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对勾函数.md",
+      "before": "Mathmap/知识点/对勾函数--001148.md",
+      "id": "K5f864f8d501b75",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "146f097dba767aedf39a9d0adac1fec40d27f069152f9b8fbea93174245cfa94",
+      "registered_sha256": null,
+      "title": "对勾函数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数函数的图象和性质.md",
+      "before": "Mathmap/知识点/对数函数的图象和性质--000144.md",
+      "id": "K60a500bbefc913",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "db21b5bd6fdaaa3ae0d11c984924b610434d65a6f9f5015671b2317685ecb390",
+      "registered_sha256": "db21b5bd6fdaaa3ae0d11c984924b610434d65a6f9f5015671b2317685ecb390",
+      "title": "对数函数的图象和性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数函数的概念.md",
+      "before": "Mathmap/知识点/对数函数的概念--000143.md",
+      "id": "K5d16814fd886a0",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f5fb610a45facf272e70c318f8f3d237f7407367f88c0984b0378f32a35c6e7b",
+      "registered_sha256": "f5fb610a45facf272e70c318f8f3d237f7407367f88c0984b0378f32a35c6e7b",
+      "title": "对数函数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数比大小.md",
+      "before": "Mathmap/知识点/对数比大小--001113.md",
+      "id": "K9e2f3fa29e5b9b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c72d8b8a1e967bddf2e51835dd43030e5cfd56aeb6086e427271db4a8d9c78e1",
+      "registered_sha256": null,
+      "title": "对数比大小"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数的发明历史.md",
+      "before": "Mathmap/知识点/对数的发明历史--000142.md",
+      "id": "Kf9bf01653ad63a",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "e8de197fc53f1f74da170ae12b9c08dd69c5e9e500f96dd77468f153f1934329",
+      "registered_sha256": "e93b219d76fb9b3817918d51fc3b4e152c97167bbae29626906a548a5c1cb88f",
+      "title": "对数的发明历史"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数的换底公式.md",
+      "before": "Mathmap/知识点/对数的换底公式--000141.md",
+      "id": "K264f9b3397467a",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "ab9f5299da97886af1f24ff16eb559193bc08c0d0ac3bad6095385b191da2685",
+      "registered_sha256": "ab9f5299da97886af1f24ff16eb559193bc08c0d0ac3bad6095385b191da2685",
+      "title": "对数的换底公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数的概念.md",
+      "before": "Mathmap/知识点/对数的概念--000139.md",
+      "id": "K2e7548d81d92ff",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "7d2524b6f75cf543893d0c45145d12ae78e331ece45c06d0686a2acb78baaee1",
+      "registered_sha256": "7d2524b6f75cf543893d0c45145d12ae78e331ece45c06d0686a2acb78baaee1",
+      "title": "对数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对数的运算性质.md",
+      "before": "Mathmap/知识点/对数的运算性质--000140.md",
+      "id": "Kfccda66638936c",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "0f8032c07c958cf5c1974929d93a7d5681c0fbaf335645dfb8d44dc888c7b795",
+      "registered_sha256": "0f8032c07c958cf5c1974929d93a7d5681c0fbaf335645dfb8d44dc888c7b795",
+      "title": "对数的运算性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对称性.md",
+      "before": "Mathmap/知识点/对称性--001154.md",
+      "id": "K71923c757dd514",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "aaa727a247b5d190d37729ab931f41ecf3b23535fcf1f662e48bf8a86a2f3d84",
+      "registered_sha256": null,
+      "title": "对称性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-对立事件.md",
+      "before": "Mathmap/知识点/对立事件--001021.md",
+      "id": "Kd2c45b45c210d1",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "7499577fa3aacbd99754357dde3839fdc13691942735672f307cb864c4f6cff0",
+      "registered_sha256": null,
+      "title": "对立事件"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-射影坐标.md",
+      "before": "Mathmap/知识点/射影坐标--000927.md",
+      "id": "Kdc72787602a22f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f407fcb4b4b625ad1f5dfe7704a6737a8743cbfd0737626913e3e517815f6165",
+      "registered_sha256": null,
+      "title": "射影坐标"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-射影定理.md",
+      "before": "Mathmap/知识点/射影定理--000916.md",
+      "id": "K06aa5dda4b53b0",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5fe08dd45c98495db8b11a0f0090ad371657ff456193603fb99669ba6cd7d43c",
+      "registered_sha256": null,
+      "title": "射影定理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-属于.md",
+      "before": "Mathmap/知识点/属于--001141.md",
+      "id": "K03201555c40bec",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a4d76c0ce2e1528a974ae0722caf06bee80cda4310374834a295429a78a4c65d",
+      "registered_sha256": null,
+      "title": "属于"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-希尔伯特旅馆悖论.md",
+      "before": "Mathmap/知识点/希尔伯特旅馆悖论--001145.md",
+      "id": "K06dfca488fd252",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0544dd71f4269ef1f5ac7d2edc6e0f9ff7e8c29d81c533d74a2b9383f57a63f3",
+      "registered_sha256": null,
+      "title": "希尔伯特旅馆悖论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-带特殊值法.md",
+      "before": "Mathmap/知识点/带特殊值法--001172.md",
+      "id": "Kdd0419c5aa113a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c777a19e82dd43cf799709404f926e94aef347e23fcbc33b62fcab8d8ba45f27",
+      "registered_sha256": null,
+      "title": "带特殊值法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-带绝对值的图像.md",
+      "before": "Mathmap/知识点/带绝对值的图像--001117.md",
+      "id": "Kf5298979e7475e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "62c56d32466c30ec09e41f8d7c889b873b87cb734e182f7c6a348091f7b6d0b0",
+      "registered_sha256": null,
+      "title": "带绝对值的图像"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-常数列.md",
+      "before": "Mathmap/知识点/常数列--001094.md",
+      "id": "K824e317adb67e4",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "88da5900675ff7e522a03bf9b1ca6d89aed468a9bf453f96d6d60def51a91728",
+      "registered_sha256": null,
+      "title": "常数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-幂函数的图象与性质.md",
+      "before": "Mathmap/知识点/幂函数的图象与性质--000131.md",
+      "id": "K86c3f81db5a423",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "89722f9dec8ba94d6340dc07dcc6470ba7baeb74209435eeb380580ded49a05d",
+      "registered_sha256": "89722f9dec8ba94d6340dc07dcc6470ba7baeb74209435eeb380580ded49a05d",
+      "title": "幂函数的图象与性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-幂函数的概念.md",
+      "before": "Mathmap/知识点/幂函数的概念--000130.md",
+      "id": "Kf2545c1f4a2525",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "52cc3c651a440258371c4ea85c17c7ff6fb6184325c37933ab555cb279da36b7",
+      "registered_sha256": "52cc3c651a440258371c4ea85c17c7ff6fb6184325c37933ab555cb279da36b7",
+      "title": "幂函数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-平均数和中位数在频率分布直方图的形态.md",
+      "before": "Mathmap/知识点/平均数和中位数在频率分布直方图的形态--001013.md",
+      "id": "K44c2cdd08fd0e7",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9cbaac925a45ac945efab8636aeca91fae00ffe06a9d0628dbb99b84f410a5cd",
+      "registered_sha256": null,
+      "title": "平均数和中位数在频率分布直方图的形态"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-平行四边形法则.md",
+      "before": "Mathmap/知识点/平行四边形法则--000969.md",
+      "id": "K597b7b21b2a549",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e7192bae88d6cd1bf5813a2664767b6aa372fbafcddab4d9c780996a0bfee5b1",
+      "registered_sha256": null,
+      "title": "平行四边形法则"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-平面的向量表示式.md",
+      "before": "Mathmap/知识点/平面的向量表示式--000898.md",
+      "id": "Ka38ac7fe55ce74",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f23ffc14cb0d3c603f6b4c303bcf7406f3332ff525667710c23a8ce3bcf33ce3",
+      "registered_sha256": null,
+      "title": "平面的向量表示式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-平面的法向量.md",
+      "before": "Mathmap/知识点/平面的法向量--000899.md",
+      "id": "Kb41c752420ec01",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "44e9e5eb5f4891c6c6354f12610d0ec7c8f1e0ca9d59ceff9fb0424186024e84",
+      "registered_sha256": null,
+      "title": "平面的法向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-并事件(或和事件).md",
+      "before": "Mathmap/知识点/并事件(或和事件)--001017.md",
+      "id": "Ka27388cef7c319",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a8ad5fa9c7fd26caced7b64d39912ea896b1ce629f41e4ba6c3f0c073ae87e75",
+      "registered_sha256": null,
+      "title": "并事件(或和事件)"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-并联电路.md",
+      "before": "Mathmap/知识点/并联电路--001081.md",
+      "id": "Kd006cdf5d2fa5c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5d3ae713a4e47ee8416ff820151db41be18b159313395f2dbd36aebee12ca2d5",
+      "registered_sha256": null,
+      "title": "并联电路"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-并集.md",
+      "before": "Mathmap/知识点/并集--000097.md",
+      "id": "K3b69130ee211fb",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "7410b556e0a9f43826721b387f755d3e282799a51bcd96793d4d42a3e77d9e21",
+      "registered_sha256": "7410b556e0a9f43826721b387f755d3e282799a51bcd96793d4d42a3e77d9e21",
+      "title": "并集"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-并项法求和.md",
+      "before": "Mathmap/知识点/并项法求和--000867.md",
+      "id": "K432387586a72d4",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "fa873cee96423fe798c7e29fdbf691a361a688c07754c4983bf8281746f644d7",
+      "registered_sha256": null,
+      "title": "并项法求和"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-建立函数模型解决实际问题的基本过程.md",
+      "before": "Mathmap/知识点/建立函数模型解决实际问题的基本过程--000151.md",
+      "id": "K695e5de8195b45",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "dd3c2ca2fda4eb3a25f3a3ff052178d1abcb1fee9dd2f5671e3818c23c45ea4f",
+      "registered_sha256": "dd3c2ca2fda4eb3a25f3a3ff052178d1abcb1fee9dd2f5671e3818c23c45ea4f",
+      "title": "建立函数模型解决实际问题的基本过程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-弦长问题.md",
+      "before": "Mathmap/知识点/弦长问题--000876.md",
+      "id": "K2ec72c19c10b6e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4fd8959f5bea2e57e96eb5989bf558bd919f44d8b98cf74e750c46e3db7fddb4",
+      "registered_sha256": null,
+      "title": "弦长问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-弧度制的概念.md",
+      "before": "Mathmap/知识点/弧度制的概念--000154.md",
+      "id": "Kf82bd384aa30b9",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "e7f992cfb877058dacd35042c73694199ce351e03f5f810eff15400093dfd7f4",
+      "registered_sha256": "e7f992cfb877058dacd35042c73694199ce351e03f5f810eff15400093dfd7f4",
+      "title": "弧度制的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-微积分.md",
+      "before": "Mathmap/知识点/微积分--001142.md",
+      "id": "Kcd00839b95f73b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0224bca82b09ca44e2b1c7612cf076e4a1dc6af7f9f47998366f34ad7f9c8143",
+      "registered_sha256": null,
+      "title": "微积分"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-性质定理与必要条件的关系.md",
+      "before": "Mathmap/知识点/性质定理与必要条件的关系--000104.md",
+      "id": "K951e5cd15d81ae",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "fb42b3fd31cf5dfa963ccdbdba7b13c2d91956a0af9983145cc1845fe0030c2d",
+      "registered_sha256": "fb42b3fd31cf5dfa963ccdbdba7b13c2d91956a0af9983145cc1845fe0030c2d",
+      "title": "性质定理与必要条件的关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-总体数据.md",
+      "before": "Mathmap/知识点/总体数据--001036.md",
+      "id": "K9e9a32c7e722ed",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0acef3b182c00db0e0a27e88b46037e657b7dbbcfc9ac5165f08c0d8092368a7",
+      "registered_sha256": null,
+      "title": "总体数据"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-总体的平均值,中位数,众数.md",
+      "before": "Mathmap/知识点/总体的平均值,中位数,众数--001033.md",
+      "id": "K4bdffed684db62",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "bd66ad6d98887946aa900488224a58c3cdb1e0a1252f12b07098a8ffcce5be2d",
+      "registered_sha256": null,
+      "title": "总体的平均值,中位数,众数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-总体的标准差,方差,极差.md",
+      "before": "Mathmap/知识点/总体的标准差,方差,极差--001032.md",
+      "id": "K771622df1a523d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2c4d1e546d1be43cfdfe6f2e76a137bac2ea033a87daf446af649a8c40a77292",
+      "registered_sha256": null,
+      "title": "总体的标准差,方差,极差"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-恒成立问题.md",
+      "before": "Mathmap/知识点/恒成立问题--001160.md",
+      "id": "Kf827f4103b6c38",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "17e2bf394b98719da689d4dc4306ecbb2939fef78fdd28fb68aa98c24ec80065",
+      "registered_sha256": null,
+      "title": "恒成立问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-扁平程度.md",
+      "before": "Mathmap/知识点/扁平程度--000988.md",
+      "id": "K4af8208a75e991",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3f4010c62e9d45a615461d7d9e2a0405da90af989a6bf2dfb42e063b65c6f4aa",
+      "registered_sha256": null,
+      "title": "扁平程度"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-扇形图.md",
+      "before": "Mathmap/知识点/扇形图--001012.md",
+      "id": "K3df7806148b427",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "db2bff557a4a9fa4f3dc629a0b36cb4dc3ec59f66a3a31c9322806e1fa46cde9",
+      "registered_sha256": null,
+      "title": "扇形图"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-扇形的弧长和面积公式.md",
+      "before": "Mathmap/知识点/扇形的弧长和面积公式--001123.md",
+      "id": "Ked0052a89f3266",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4a01c6dda844deccd285fc4a299ef8fc4205fd36be3ab5cc4c72e996feacbf6e",
+      "registered_sha256": null,
+      "title": "扇形的弧长和面积公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-投信.md",
+      "before": "Mathmap/知识点/投信--001080.md",
+      "id": "K0ba37e1b175b1c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "cb22788959367f0def0de84655499053f355bf477b9a7a2a0621b0eee0b8b814",
+      "registered_sha256": null,
+      "title": "投信"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-投影向量.md",
+      "before": "Mathmap/知识点/投影向量--000936.md",
+      "id": "Kc70edd58a173c1",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d523f8d9e7bd72dc9a8bf1d9d7784f06b76803bf24b8c5e22bf0ce157f0ac7a0",
+      "registered_sha256": null,
+      "title": "投影向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-投影向量的表示.md",
+      "before": "Mathmap/知识点/投影向量的表示--000968.md",
+      "id": "Kff0a60f2fd08d7",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "09a36b511f7f1cbf9952762dfd51ebf6b4dfa832a59628fa1e0e5430c22153b3",
+      "registered_sha256": null,
+      "title": "投影向量的表示"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-投影向量（空间）.md",
+      "before": "Mathmap/知识点/投影向量（空间）--000894.md",
+      "id": "K098dccd1b6c906",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f83bcf355ae307821f5548ba48355174b27c9208f2e0b1b39aeb4d4154914a71",
+      "registered_sha256": null,
+      "title": "投影向量（空间）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-折线图.md",
+      "before": "Mathmap/知识点/折线图--001014.md",
+      "id": "K5929387b48e3f2",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b9bc608b8e4068e77e2da893979cb80eeb54098d438b505e5e5fc74e998c4fe0",
+      "registered_sha256": null,
+      "title": "折线图"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-抛物线的综合应用.md",
+      "before": "Mathmap/知识点/抛物线的综合应用--001003.md",
+      "id": "Kbdc2223a3b44bd",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e4e0c2c3764e132e25cfd75b7c249b8b9bbb8774a6d49ed070f4838845cfbd11",
+      "registered_sha256": null,
+      "title": "抛物线的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-抛物线的轴.md",
+      "before": "Mathmap/知识点/抛物线的轴--000995.md",
+      "id": "K42fa29ac41b2c8",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c70920dca062b6ceda86f30928e4166b913b84ac8b112b97b8bec5357f0237da",
+      "registered_sha256": null,
+      "title": "抛物线的轴"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-抛物线第二定义.md",
+      "before": "Mathmap/知识点/抛物线第二定义--000996.md",
+      "id": "K235b42c91e3bb0",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "544109078536c0575cc3eba5f6eb0153eb4be665cf9333392912f55399260dd0",
+      "registered_sha256": null,
+      "title": "抛物线第二定义"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-指数函数的图象和性质.md",
+      "before": "Mathmap/知识点/指数函数的图象和性质--000137.md",
+      "id": "K09026540490e90",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "bd1770ac1c98ef6bf3da65c74caacd2d77e6b283b75f04343480869869f1a5b3",
+      "registered_sha256": "bd1770ac1c98ef6bf3da65c74caacd2d77e6b283b75f04343480869869f1a5b3",
+      "title": "指数函数的图象和性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-指数函数的概念.md",
+      "before": "Mathmap/知识点/指数函数的概念--000135.md",
+      "id": "K814d414c3b6924",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "b349338b859e09b8cec504a31219a05fff9ef7f9d018de93928cc772e59ee72d",
+      "registered_sha256": "b349338b859e09b8cec504a31219a05fff9ef7f9d018de93928cc772e59ee72d",
+      "title": "指数函数的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-指数衰减.md",
+      "before": "Mathmap/知识点/指数衰减--001131.md",
+      "id": "K62026cbbeae130",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0bffe0fdbe364e3697c02e6c9e97fa85d947a507bb3f2c85422553ae9b6a8d32",
+      "registered_sha256": null,
+      "title": "指数衰减"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-指数运算技巧.md",
+      "before": "Mathmap/知识点/指数运算技巧--001115.md",
+      "id": "K0fda7c645f4a17",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "39a1163bad6c748a2c495b78ec261b43fa03006bddaee408ee5eadafc7956a9a",
+      "registered_sha256": null,
+      "title": "指数运算技巧"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-捆绑法.md",
+      "before": "Mathmap/知识点/捆绑法--001076.md",
+      "id": "Kcc5caa3ea89c65",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "7a47b316386a3fc2b510a9870c942f50b032a961fd2a30c8d546e0a42a4d7f8e",
+      "registered_sha256": null,
+      "title": "捆绑法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-换元思维.md",
+      "before": "Mathmap/知识点/换元思维--000866.md",
+      "id": "Kf0cd1281000861",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5f58c13ddff738ba349614bd1d1c6df31b5dce418431de2a8f528dd7e95aeb6e",
+      "registered_sha256": null,
+      "title": "换元思维"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-换元的方法.md",
+      "before": "Mathmap/知识点/换元的方法--001105.md",
+      "id": "K117ea4af43250f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2a06d7ee66708fbc82b5f34a85519e7c8adbbac1b80e47c9555d41e81a0efcf4",
+      "registered_sha256": null,
+      "title": "换元的方法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-排列、组合的综合应用.md",
+      "before": "Mathmap/知识点/排列、组合的综合应用--001055.md",
+      "id": "K106f76c762e196",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "215026bb83666987cf5a7b9e0190eb495f4fc74ed1162fbd638313238d5be89a",
+      "registered_sha256": null,
+      "title": "排列、组合的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-排列的列举问题.md",
+      "before": "Mathmap/知识点/排列的列举问题--001070.md",
+      "id": "Kf20ba1052c5ec9",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "04e840d8b4bc7407fb8fb264f0a6cd9f8bb64a3f1c20f0ef9ebeeba423d4d701",
+      "registered_sha256": null,
+      "title": "排列的列举问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-排列的综合应用.md",
+      "before": "Mathmap/知识点/排列的综合应用--001048.md",
+      "id": "K5c87365c346923",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2c278e6986f3931c5f376d0c2aeb124e6534a00e95f04c64b793d0971c1391b3",
+      "registered_sha256": null,
+      "title": "排列的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-排列组合常见11种方法汇总.md",
+      "before": "Mathmap/知识点/排列组合常见11种方法汇总--001075.md",
+      "id": "K11d1a64105a728",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0b10bcba17106a23dc2d66a12141d224b484f023d608fe34fd6904523f728178",
+      "registered_sha256": null,
+      "title": "排列组合常见11种方法汇总"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-探究与发现 互为反函数的两个函数图象间的关系.md",
+      "before": "Mathmap/知识点/探究与发现 互为反函数的两个函数图象间的关系--001130.md",
+      "id": "Kfe7a328c5d820d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1ddee420afb3f3987f6782813c14322442fd1db0058ac82dadc5b1a102b234bf",
+      "registered_sha256": null,
+      "title": "探究与发现 互为反函数的两个函数图象间的关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-推论.md",
+      "before": "Mathmap/知识点/推论--000921.md",
+      "id": "Kad49721990b934",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6406c71e38bfa20b46b7a05d8df94a51424240ae55d54d918924c8c3dfbc7a28",
+      "registered_sha256": null,
+      "title": "推论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-描述法.md",
+      "before": "Mathmap/知识点/描述法--000093.md",
+      "id": "K62969d33a3fd7b",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "69026123a5687fe2b0366b2021c1c0e797737a02cf18b9451df396de2d5015ea",
+      "registered_sha256": "69026123a5687fe2b0366b2021c1c0e797737a02cf18b9451df396de2d5015ea",
+      "title": "描述法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-插空法.md",
+      "before": "Mathmap/知识点/插空法--001073.md",
+      "id": "K2113b63b2e4a3b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "48cbdc8314b83cd11c535010b46662e7a2775d05dfdf1d54080753d7d8bec92f",
+      "registered_sha256": null,
+      "title": "插空法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-摩根定律.md",
+      "before": "Mathmap/知识点/摩根定律--001137.md",
+      "id": "K6cbb3d28d2fc16",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2124ce5b132b76cd65672a0e9b8ee377a5ae6d9140d4a7e9005f35f6bbc90f53",
+      "registered_sha256": null,
+      "title": "摩根定律"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-放到单位圆中研究.md",
+      "before": "Mathmap/知识点/放到单位圆中研究--001104.md",
+      "id": "K71cc7ae518bacb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "90f0c50203070b9684e4bd0507f86e097b8aaec01abbc5aa7b0e1e1f0d39625e",
+      "registered_sha256": null,
+      "title": "放到单位圆中研究"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-放射性物质的衰减与半衰期模型.md",
+      "before": "Mathmap/知识点/放射性物质的衰减与半衰期模型--000136.md",
+      "id": "K317e0620f3860f",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "c93d24740e5e6b4366830c46f1a33a54dde5b09fbc9719bc4c71c49aaf6352ce",
+      "registered_sha256": "fc6263bf835e0829c21755a72e028a1b167cb52d6a0735af27963b1c969c886d",
+      "title": "放射性物质的衰减与半衰期模型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-放缩.md",
+      "before": "Mathmap/知识点/放缩--000869.md",
+      "id": "Kcc3d35c64385e5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8673cc24cb3cff7fdb224b0af8334b1cf8634f7b1f886e357cabbbe72987ae90",
+      "registered_sha256": null,
+      "title": "放缩"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-数字排列问题.md",
+      "before": "Mathmap/知识点/数字排列问题--001057.md",
+      "id": "K5ad70f5a67b2e3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "58679dc3bbb8af308c2b69c70d50d9aaa0ff2ee1cbe156f79e8380791cd20c72",
+      "registered_sha256": null,
+      "title": "数字排列问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-数学定义与充要条件的关系.md",
+      "before": "Mathmap/知识点/数学定义与充要条件的关系--000106.md",
+      "id": "K5c55b18bf847b6",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "6c4ac61dbd9b5b960ff8e700e7fa8deb3f68eb3751d0a8d96efd9d127ed69221",
+      "registered_sha256": "6c4ac61dbd9b5b960ff8e700e7fa8deb3f68eb3751d0a8d96efd9d127ed69221",
+      "title": "数学定义与充要条件的关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-数形结合.md",
+      "before": "Mathmap/知识点/数形结合--001138.md",
+      "id": "K016f7e37c040fd",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "20070fcbcf034d04e0604a68d5b9ba6603f76fc330296c555d2d040b0c70b407",
+      "registered_sha256": null,
+      "title": "数形结合"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-方差（平均距离）.md",
+      "before": "Mathmap/知识点/方差（平均距离）--001015.md",
+      "id": "Ka00f57514aed0b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "911922eded6df18ae9a60f7aa52c437ed9e8e55b99d92084259252d4679d4aac",
+      "registered_sha256": null,
+      "title": "方差（平均距离）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-方程思想.md",
+      "before": "Mathmap/知识点/方程思想--001099.md",
+      "id": "Kfd26262a84873d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5a8fc0aa6d6f513fb93c1be44296589c284bbeb2f1f1df86efc31fbab3a82de6",
+      "registered_sha256": null,
+      "title": "方程思想"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-方程无解.md",
+      "before": "Mathmap/知识点/方程无解--000900.md",
+      "id": "K7af10f8e0638a3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "db90426834b2c7a6c3b138e3871b5b2f8ea754d9265ca2ed21a0be7001e8e200",
+      "registered_sha256": null,
+      "title": "方程无解"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-方程法.md",
+      "before": "Mathmap/知识点/方程法--000980.md",
+      "id": "K85aff58cf4008a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e9915202dba8f5268a7f899e21c9d32d7bd303153a4e498e1d65b6035e2c6d4f",
+      "registered_sha256": null,
+      "title": "方程法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-施密特正交.md",
+      "before": "Mathmap/知识点/施密特正交--000967.md",
+      "id": "K0456e7c17928f0",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6f3bd8861a4ea14d890b23e86674322f37fb40bd81dbb6a6b44368ba809598b2",
+      "registered_sha256": null,
+      "title": "施密特正交"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-无理数指数幂及其运算性质.md",
+      "before": "Mathmap/知识点/无理数指数幂及其运算性质--000134.md",
+      "id": "K13b3ba0d39926a",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "7ec234dd6a4fffa496e88595a7edad989a608022ee7ae356f2cd61a6c65d5f97",
+      "registered_sha256": "7ec234dd6a4fffa496e88595a7edad989a608022ee7ae356f2cd61a6c65d5f97",
+      "title": "无理数指数幂及其运算性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-无穷数列.md",
+      "before": "Mathmap/知识点/无穷数列--001040.md",
+      "id": "Kb9dd7489a4a21d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "18bbb6e66a43753c0f458565ed86c08cbe1d532567a3f711b59bf0863629da8d",
+      "registered_sha256": null,
+      "title": "无穷数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-映射.md",
+      "before": "Mathmap/知识点/映射--001170.md",
+      "id": "K4d73ba38e87650",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ac19e703c3527f5725f2bb58e7febe89ecd9b3fbcc9f49ee53ceee1fd8ebefe5",
+      "registered_sha256": null,
+      "title": "映射"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-最值问题.md",
+      "before": "Mathmap/知识点/最值问题--000878.md",
+      "id": "K6c66a12372d249",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "75bef891b625ad90c9981439723ef96dd6623fee00b8e2cd4b13e865128f6098",
+      "registered_sha256": null,
+      "title": "最值问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-有关整除或求余问题.md",
+      "before": "Mathmap/知识点/有关整除或求余问题--001045.md",
+      "id": "K8fe420c075bea1",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6fc6e620cb6c6a151ed47709a22e3cf628754060154a1df0354b203ce613fbe1",
+      "registered_sha256": null,
+      "title": "有关整除或求余问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-有向线段.md",
+      "before": "Mathmap/知识点/有向线段--000973.md",
+      "id": "K7879207999b78d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "131ee7ae5813ad95488df47ffecf99c8caab01d4d3ec67a57d65f0dcad70b8a5",
+      "registered_sha256": null,
+      "title": "有向线段"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-有穷数列.md",
+      "before": "Mathmap/知识点/有穷数列--001039.md",
+      "id": "Kef6ad46bf123b6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "96846dcfb4245791cc6ec647879ee65ff4f48f46089c220f8fc620af91b093f7",
+      "registered_sha256": null,
+      "title": "有穷数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-有限制条件排列问题.md",
+      "before": "Mathmap/知识点/有限制条件排列问题--001072.md",
+      "id": "K1170396f9ddeb6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c335ffb589339bea8389e6798a9c3cac82478e33bf9f54024d180f9e3545a41c",
+      "registered_sha256": null,
+      "title": "有限制条件排列问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-有限制条件的组合问题.md",
+      "before": "Mathmap/知识点/有限制条件的组合问题--001060.md",
+      "id": "Ke096c0c562954b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e0f9475450bd0e51f4707d48d86fd91a07e7ceb81b2f2333a1ecfc83eb961024",
+      "registered_sha256": null,
+      "title": "有限制条件的组合问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-有限集合中元素的个数与容斥原理.md",
+      "before": "Mathmap/知识点/有限集合中元素的个数与容斥原理--000100.md",
+      "id": "K247e2de30c10d1",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "d05574eb4176299829bc9f9b52ef5b3660eea6d2ec249f4c6c6763c17c62bf5b",
+      "registered_sha256": "072679872e52ed05243d50154df1df0176039274be9d19c05c6a897198c24201",
+      "title": "有限集合中元素的个数与容斥原理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-条形图.md",
+      "before": "Mathmap/知识点/条形图--001037.md",
+      "id": "K48c6038593ea49",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e25b1c91d76c28a29bd5d86cbfe6e9e345920a8903c0880c0fe35644fcc0a922",
+      "registered_sha256": null,
+      "title": "条形图"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-构造新数列.md",
+      "before": "Mathmap/知识点/构造新数列--001100.md",
+      "id": "Ke3158e0ebfb097",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6ef0bb8dfb4bc5955293ebf26bf3220164523a0b6729b25d2ee072c6db1c700c",
+      "registered_sha256": null,
+      "title": "构造新数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-柯西不等式及其变形.md",
+      "before": "Mathmap/知识点/柯西不等式及其变形--001168.md",
+      "id": "K891be628731178",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9c967762efede51b6627885d615ad16d6cc5d06fdfafbdbe5b83d706a8a01794",
+      "registered_sha256": null,
+      "title": "柯西不等式及其变形"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-树状图.md",
+      "before": "Mathmap/知识点/树状图--001078.md",
+      "id": "K6cf06afb69a520",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "dc92742b6baf86b89175abb0e6df7358533f3d3e8e65d242c6f74af830befaac",
+      "registered_sha256": null,
+      "title": "树状图"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本.md",
+      "before": "Mathmap/知识点/样本--001035.md",
+      "id": "Kf947e2a29ae384",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "76893283873aa96f793b5e9333555338e4d0bf603d70419adbba13dab29c5f86",
+      "registered_sha256": null,
+      "title": "样本"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本均值与总体均值.md",
+      "before": "Mathmap/知识点/样本均值与总体均值--001028.md",
+      "id": "K64d1de758c56f6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2535ece820c53f77e5e32527ac353cb2a38b215570cfd6604ae722a08e832c94",
+      "registered_sha256": null,
+      "title": "样本均值与总体均值"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本均值具有随机性.md",
+      "before": "Mathmap/知识点/样本均值具有随机性--001086.md",
+      "id": "Kd0b48e3967d831",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "30f6a92d2ab8b810568c92193bae680d65e9517e86c27a3f5b66f1b67d3ae74c",
+      "registered_sha256": null,
+      "title": "样本均值具有随机性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本平均数的随机性.md",
+      "before": "Mathmap/知识点/样本平均数的随机性--001030.md",
+      "id": "Kce6c9ee87ad244",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "06d309f674a904077e8bec717c24c7d2e3881848392fabaeb75efa8b7fc56555",
+      "registered_sha256": null,
+      "title": "样本平均数的随机性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本点和样本空间.md",
+      "before": "Mathmap/知识点/样本点和样本空间--001027.md",
+      "id": "K1af6a42e5eba9d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6404a8a631fe7a29574213b7362f467c702c6befff9fe854bf0339ec05da00b6",
+      "registered_sha256": null,
+      "title": "样本点和样本空间"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本的特殊处理.md",
+      "before": "Mathmap/知识点/样本的特殊处理--001029.md",
+      "id": "Kdabb220ae69188",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1b3af01c8e9442ac2abba39a4610d5405cf9b1039a224e80a2cfa4a5f64a7943",
+      "registered_sha256": null,
+      "title": "样本的特殊处理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本观测数据（样本数据）.md",
+      "before": "Mathmap/知识点/样本观测数据（样本数据）--001034.md",
+      "id": "Kf53b984ac3b96b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1723a9920f2ca90d86e98a1b4584d03b15ed6dddda200c4e3c8b9732d09c69ae",
+      "registered_sha256": null,
+      "title": "样本观测数据（样本数据）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-样本量.md",
+      "before": "Mathmap/知识点/样本量--001031.md",
+      "id": "Kf2a4f247db3453",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "17b5ed82dde8dae68f4bbee66cb8186730a3b9e962e7e0878e5622433ac84394",
+      "registered_sha256": null,
+      "title": "样本量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-椭圆与圆之间的关系.md",
+      "before": "Mathmap/知识点/椭圆与圆之间的关系--000989.md",
+      "id": "Kb55f82baafff5a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1028390269d627bfbe79dff322e23398121e8e33a86100e3cbed9420883de373",
+      "registered_sha256": null,
+      "title": "椭圆与圆之间的关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-椭圆的综合应用.md",
+      "before": "Mathmap/知识点/椭圆的综合应用--000990.md",
+      "id": "K6e73235ce3da6e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0c4b32de3324af1db41268bc4ecacb304ff6e97630eb6512eb7a662a3d0b27d7",
+      "registered_sha256": null,
+      "title": "椭圆的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-概率的计算.md",
+      "before": "Mathmap/知识点/概率的计算--001025.md",
+      "id": "K4c1b51a6911ea8",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d0b6474a4ea69c01c22df9a2f4547c87324138028541462908232d1efd468ec5",
+      "registered_sha256": null,
+      "title": "概率的计算"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-模(空间).md",
+      "before": "Mathmap/知识点/模(空间)--000952.md",
+      "id": "Kccb159b39dbada",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8168efc0436686e5f4943d6278d73abb3cdaee226989f70096e2d587fed052ab",
+      "registered_sha256": null,
+      "title": "模(空间)"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-模（向量的长度）.md",
+      "before": "Mathmap/知识点/模（向量的长度）--000974.md",
+      "id": "K7aedfa4e90c7d4",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c8874edf7dd52c602c263b12cdd5f1026f0267df37a44bca84dd4c05df789517",
+      "registered_sha256": null,
+      "title": "模（向量的长度）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-欧拉线定理.md",
+      "before": "Mathmap/知识点/欧拉线定理--000912.md",
+      "id": "K63e298d20bd298",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8d835454f0c6485622ea3fd65e19f7f02bfdb281de8f801f44e76cb9b177e7c5",
+      "registered_sha256": null,
+      "title": "欧拉线定理"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正余弦函数值域.md",
+      "before": "Mathmap/知识点/正余弦函数值域--001120.md",
+      "id": "K0685a6e0776ccc",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "93364007350526a0fd61ba3a601d0ad5734b07437263c6e47622df3e19266b2b",
+      "registered_sha256": null,
+      "title": "正余弦函数值域"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正余弦函数对称性.md",
+      "before": "Mathmap/知识点/正余弦函数对称性--001121.md",
+      "id": "K9faab098f9dd72",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5a916340d68d51e290ff02834744da8b30afc6b16a4a354bc259c9943904c082",
+      "registered_sha256": null,
+      "title": "正余弦函数对称性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正切函数的周期性与奇偶性.md",
+      "before": "Mathmap/知识点/正切函数的周期性与奇偶性--000170.md",
+      "id": "K9b706c1b4d817d",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "af69626a395f0a846e8bc5e7756ac56765e6646b5808629157d057805ef7c1af",
+      "registered_sha256": "af69626a395f0a846e8bc5e7756ac56765e6646b5808629157d057805ef7c1af",
+      "title": "正切函数的周期性与奇偶性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正切函数的图象与单调性、值域.md",
+      "before": "Mathmap/知识点/正切函数的图象与单调性、值域--000171.md",
+      "id": "K46764629db6286",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "12d1b9802775ceaca0a27d37799df905fc808f26c14c40c86c3d44a0f1481791",
+      "registered_sha256": "12d1b9802775ceaca0a27d37799df905fc808f26c14c40c86c3d44a0f1481791",
+      "title": "正切函数的图象与单调性、值域"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正弦函数、余弦函数的单调性.md",
+      "before": "Mathmap/知识点/正弦函数、余弦函数的单调性--000168.md",
+      "id": "K9f965bc2dd85cd",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "b6d13cf43411d5a557241b1f241399ed82a0472961a7663519edbd44bf56e95f",
+      "registered_sha256": "b6d13cf43411d5a557241b1f241399ed82a0472961a7663519edbd44bf56e95f",
+      "title": "正弦函数、余弦函数的单调性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正弦函数、余弦函数的奇偶性.md",
+      "before": "Mathmap/知识点/正弦函数、余弦函数的奇偶性--000166.md",
+      "id": "Kd285293e1b95df",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "c158c5831b2ff8100fb0d75bdf3e84af1c00d8b2c175db7ca532460d55fcb72d",
+      "registered_sha256": "c158c5831b2ff8100fb0d75bdf3e84af1c00d8b2c175db7ca532460d55fcb72d",
+      "title": "正弦函数、余弦函数的奇偶性"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正弦函数的图象与五点法.md",
+      "before": "Mathmap/知识点/正弦函数的图象与五点法--000163.md",
+      "id": "K436e83d9989cae",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "0e20ce6c8715f653b426c8975224628d67f9a0472dd8abd2f0f7d48849fe62be",
+      "registered_sha256": "0e20ce6c8715f653b426c8975224628d67f9a0472dd8abd2f0f7d48849fe62be",
+      "title": "正弦函数的图象与五点法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-正难则反.md",
+      "before": "Mathmap/知识点/正难则反--001074.md",
+      "id": "K376a5925756388",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "06f39728d0ff865ed93a50e9a76d1dc608c77576c4428934de9c391cef6ba607",
+      "registered_sha256": null,
+      "title": "正难则反"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-比大小.md",
+      "before": "Mathmap/知识点/比大小--001174.md",
+      "id": "Ke91b2b6c4581b7",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8f922639b8fc58d25071147deb07fc324d724ccdf87b1324bc1f48c2fc6583d3",
+      "registered_sha256": null,
+      "title": "比大小"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-比较两个数的大小.md",
+      "before": "Mathmap/知识点/比较两个数的大小--001173.md",
+      "id": "K9fc44e25423001",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2f1d32ef4326727ed9bfe1ac6fd57575f9676e2a38407afa493f5ebe31494b41",
+      "registered_sha256": null,
+      "title": "比较两个数的大小"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-求展开式.md",
+      "before": "Mathmap/知识点/求展开式--001071.md",
+      "id": "K9a6c34441dac5d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "807fbbeb375a4c14defaf995cfff6c6786914888564bd62967cfbed5c7122bca",
+      "registered_sha256": null,
+      "title": "求展开式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-没有用的小知识-蛛网模型.md",
+      "before": "Mathmap/知识点/没有用的小知识-蛛网模型--001091.md",
+      "id": "Ke7ca35210b492f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3c56c4dec6e90f44167fa1500102a70997308b8e53fed38cc3d0ab50ef97315a",
+      "registered_sha256": null,
+      "title": "没有用的小知识-蛛网模型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-法向量.md",
+      "before": "Mathmap/知识点/法向量--000935.md",
+      "id": "Kf794cbdf8fee86",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "064631d198f4aec530789938af9fad49f574f787fd37bc4531e460d19095751c",
+      "registered_sha256": null,
+      "title": "法向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-点与圆的位置关系判断.md",
+      "before": "Mathmap/知识点/点与圆的位置关系判断--000979.md",
+      "id": "K01f30490adef1a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ac4fe2fef52ee8e52952e535d6f9512abfb47f6b30553af527c466dead78c7b9",
+      "registered_sha256": null,
+      "title": "点与圆的位置关系判断"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-点与圆锥曲线位置关系.md",
+      "before": "Mathmap/知识点/点与圆锥曲线位置关系--001001.md",
+      "id": "Kd7a398585c174b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "fb4fc9640e2551b530e96a80e8bb13f94297fc8368edde625fe6f912b127aa7f",
+      "registered_sha256": null,
+      "title": "点与圆锥曲线位置关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-点到平面的距离（空间向量法）.md",
+      "before": "Mathmap/知识点/点到平面的距离（空间向量法）--000889.md",
+      "id": "K073a89f14eccf3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c064a3580eff48be1d06be1e48e2c59d0d59377ee3d6b79882522308f653f37b",
+      "registered_sha256": null,
+      "title": "点到平面的距离（空间向量法）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-点到面距离.md",
+      "before": "Mathmap/知识点/点到面距离--000932.md",
+      "id": "K8178790ae1277c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "3d0c56ee4854afc0b9291af81f38bbf9e66825280c4237992e8b618301651fb7",
+      "registered_sha256": null,
+      "title": "点到面距离"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-点的轨迹方程.md",
+      "before": "Mathmap/知识点/点的轨迹方程--000992.md",
+      "id": "K75b84f93f55438",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "1da4ecae124ef429334fedc2ec5af195ce2c10d5cb9ee66a1f580f5cec353428",
+      "registered_sha256": null,
+      "title": "点的轨迹方程"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-点线面思想.md",
+      "before": "Mathmap/知识点/点线面思想--000962.md",
+      "id": "Ke39a495f323aa5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b5564eff74dd0d41bc4b946a1654b45f5f98a471d863eb12e3ee729a454015e6",
+      "registered_sha256": null,
+      "title": "点线面思想"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-特殊函数的性质.md",
+      "before": "Mathmap/知识点/特殊函数的性质--001116.md",
+      "id": "K5d9756aace2659",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "7b3eaf86431df22b1a96a8ae1ac984a3a6d60522ed6a35e5e9b20a88c9a695ba",
+      "registered_sha256": null,
+      "title": "特殊函数的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-独立性的性质.md",
+      "before": "Mathmap/知识点/独立性的性质--001016.md",
+      "id": "K1a22c6b5d15804",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ff2e345badc7b5a45df98ba494824896f6da241250663d642816f3a2aaaa8ce7",
+      "registered_sha256": null,
+      "title": "独立性的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-球.md",
+      "before": "Mathmap/知识点/球--000950.md",
+      "id": "K30d45ee05da624",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "61b6de059def011618319c02ba63e1c67626aea9d8b432420ab01fd71ba68657",
+      "registered_sha256": null,
+      "title": "球"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-用二分法求方程近似解.md",
+      "before": "Mathmap/知识点/用二分法求方程近似解--000149.md",
+      "id": "K1b7e7acb8b64a0",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f071319fa6b8eca1f68b3cea2f763de785c9f96dac2b6c00b4a7450fd8f19839",
+      "registered_sha256": "f071319fa6b8eca1f68b3cea2f763de785c9f96dac2b6c00b4a7450fd8f19839",
+      "title": "用二分法求方程近似解"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-用平面向量表示复数.md",
+      "before": "Mathmap/知识点/用平面向量表示复数--000902.md",
+      "id": "K86585dd96c7ac5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "12ca8deb4c2e3013972c8a53510ad74976c2a07fb34339cf27e9d1eef0d908d6",
+      "registered_sha256": null,
+      "title": "用平面向量表示复数"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-用方程表示曲线的思想.md",
+      "before": "Mathmap/知识点/用方程表示曲线的思想--000879.md",
+      "id": "Kbb4a512487c3eb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5d80fef09647ebd5ffc744e2d80962e4bf7c03563e74b82c20960763631c8e48",
+      "registered_sha256": null,
+      "title": "用方程表示曲线的思想"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-用线段比值度量圆心角的大小.md",
+      "before": "Mathmap/知识点/用线段比值度量圆心角的大小--001124.md",
+      "id": "K98b313c844d460",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "beaf49fd9de2a97a80ae3008a41371d56f99283250f99ee24fedd086196de209",
+      "registered_sha256": null,
+      "title": "用线段比值度量圆心角的大小"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-用解析几何如何表达圆.md",
+      "before": "Mathmap/知识点/用解析几何如何表达圆--000978.md",
+      "id": "K2125e956b2936e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "26b348f305dae567feabc2a015268be5c3a861cfbb2ab124fa2e06c01e11cf5e",
+      "registered_sha256": null,
+      "title": "用解析几何如何表达圆"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-用计算机绘制函数图象.md",
+      "before": "Mathmap/知识点/用计算机绘制函数图象--000129.md",
+      "id": "K738542cc2d33ad",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "988d259e8220230478c524e262f3ca720603f4b8ba36b8122b6bf8f4ac472fe0",
+      "registered_sha256": "12e5640a09d51e3ebd6e641cd18de9f00e5da9a2a578504e0ad270602899cd22",
+      "title": "用计算机绘制函数图象"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-直线与圆锥曲线位置关系.md",
+      "before": "Mathmap/知识点/直线与圆锥曲线位置关系--001002.md",
+      "id": "K3a4e4b047f7ead",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4af62f0d2884bdd0b959227872301b8dcc8bc80c8f4fe75930706dbb59f86fc9",
+      "registered_sha256": null,
+      "title": "直线与圆锥曲线位置关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-直线与平面的夹角（空间向量法）.md",
+      "before": "Mathmap/知识点/直线与平面的夹角（空间向量法）--000887.md",
+      "id": "K70c9a90d86d68a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "466af36c1afba1195a5eb25ba6ca83bbb5a6da03bb19c03d71f595fddde66a31",
+      "registered_sha256": null,
+      "title": "直线与平面的夹角（空间向量法）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-直线方程魔方题.md",
+      "before": "Mathmap/知识点/直线方程魔方题--000873.md",
+      "id": "K5461048880e237",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "880e96c00a6e1a0535e940d7108003d48adef692c20b43784394f20fc03dccf7",
+      "registered_sha256": null,
+      "title": "直线方程魔方题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-直线的向量表示式.md",
+      "before": "Mathmap/知识点/直线的向量表示式--000897.md",
+      "id": "Kbccd38a0aa35db",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "166f350d0cc0e46d3c8200b1735616a885970e0c93165781a0233992c09e1d39",
+      "registered_sha256": null,
+      "title": "直线的向量表示式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-直线的方向向量.md",
+      "before": "Mathmap/知识点/直线的方向向量--000951.md",
+      "id": "Kb0936ea2462b73",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8a7864273f7d5164ead9fa540692b5ecad38a2b80d98d778661456fa6235bd5d",
+      "registered_sha256": null,
+      "title": "直线的方向向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-相反向量（空间）.md",
+      "before": "Mathmap/知识点/相反向量（空间）--000955.md",
+      "id": "K5fe13bb6e7d28b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a343d477b060d7055810b53d5076a205eff33df30b542414c9ef9b51cf051719",
+      "registered_sha256": null,
+      "title": "相反向量（空间）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-相等.md",
+      "before": "Mathmap/知识点/相等--001020.md",
+      "id": "Ka9d0bcb6928557",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5d19d42cd30ef3abab62403feb0462fdda39006c7d5eb376ffafed01af828ce3",
+      "registered_sha256": null,
+      "title": "相等"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-相等向量（空间）.md",
+      "before": "Mathmap/知识点/相等向量（空间）--000957.md",
+      "id": "K0bdfdab5480fbb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "de7059899cf1d1cad8ba1404ccdd79c3c203d2a677ef50f1c22acd2484dacb03",
+      "registered_sha256": null,
+      "title": "相等向量（空间）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-相邻问题的排列问题.md",
+      "before": "Mathmap/知识点/相邻问题的排列问题--001056.md",
+      "id": "Kd33905bc1fe6d9",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2b5769aa148b6ab58365ddb82578bb7d6cbf84a665783aa570ae77d7cace8202",
+      "registered_sha256": null,
+      "title": "相邻问题的排列问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-相邻（不相邻）排列综合问题.md",
+      "before": "Mathmap/知识点/相邻（不相邻）排列综合问题--001052.md",
+      "id": "K4785b25796832f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ece4c6e94a8cf1903d742e688d01b7fd0cefccd78ca3ffaf2bd17cd94794a6e3",
+      "registered_sha256": null,
+      "title": "相邻（不相邻）排列综合问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-离心率范围问题.md",
+      "before": "Mathmap/知识点/离心率范围问题--001010.md",
+      "id": "K33513eb4c89dd8",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "032c5f477d95aa4d6bf2d54b0577ed456c36f9d846262cf99d9d9424a96ffdfc",
+      "registered_sha256": null,
+      "title": "离心率范围问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间两点间的距离公式.md",
+      "before": "Mathmap/知识点/空间两点间的距离公式--000890.md",
+      "id": "Ked44a577f79780",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "cad6c8d63b066a4c5bafad293ba3af7e971f34185157e099a20206e56f6842af",
+      "registered_sha256": null,
+      "title": "空间两点间的距离公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间两点间距离问题.md",
+      "before": "Mathmap/知识点/空间两点间距离问题--000933.md",
+      "id": "Ke0db4c635e7086",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e53f1af4fe7c13729178497b1ab72519d75f5ce1165ce94492115ea43afbf6d9",
+      "registered_sha256": null,
+      "title": "空间两点间距离问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间中点、直线和平面的向量表示.md",
+      "before": "Mathmap/知识点/空间中点、直线和平面的向量表示--000895.md",
+      "id": "Kf09b702acd03fb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2127fe9b8d605ef61b0998b40f4bc6a19a14d1e1058350728de5473c7ca6ddb1",
+      "registered_sha256": null,
+      "title": "空间中点、直线和平面的向量表示"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量 讲课中的一些问题.md",
+      "before": "Mathmap/知识点/空间向量 讲课中的一些问题--000948.md",
+      "id": "K0f98c719907824",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6372ea611e5bfd1bcf82457b5532f63b94cc0b807aae969f215664ba885716a7",
+      "registered_sha256": null,
+      "title": "空间向量 讲课中的一些问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量二级结论.md",
+      "before": "Mathmap/知识点/空间向量二级结论--000946.md",
+      "id": "Ka7091ac1292889",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9f5b2954b8f7f23156a819f76def9cb25d0d32df7f30c17e00c978dd7c44a24c",
+      "registered_sha256": null,
+      "title": "空间向量二级结论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量共线的充要条件.md",
+      "before": "Mathmap/知识点/空间向量共线的充要条件--000961.md",
+      "id": "Kb9fd1bf0728911",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e095a91b805417265b64e5badcab2f6ab8f10f098477a38cb2d9713b5bd7734d",
+      "registered_sha256": null,
+      "title": "空间向量共线的充要条件"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量思维方法.md",
+      "before": "Mathmap/知识点/空间向量思维方法--000947.md",
+      "id": "Kcd9403d44644ed",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "de5047b10c66d7ad7c033a0ad9905449d1fc66ff3c837425e59c33c441fffa22",
+      "registered_sha256": null,
+      "title": "空间向量思维方法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量的基底与基向量.md",
+      "before": "Mathmap/知识点/空间向量的基底与基向量--000892.md",
+      "id": "Ke76b44ed42931e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "95716c992bb63b2d6a7e100d1cb7efde9787cb822d2cc74c7230d15fd4e5dfb0",
+      "registered_sha256": null,
+      "title": "空间向量的基底与基向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量的夹角.md",
+      "before": "Mathmap/知识点/空间向量的夹角--000958.md",
+      "id": "K7be04750cac5ff",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "989c197aa9a02911f56701b466b68611520e412c5ac4cd17bea02f1304a26793",
+      "registered_sha256": null,
+      "title": "空间向量的夹角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空间向量难点.md",
+      "before": "Mathmap/知识点/空间向量难点--000945.md",
+      "id": "K7851780636ceaa",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6a152cc49163f6993fd77c24e6d9375d98011d5a864bd9eccb77fd5d279d01e2",
+      "registered_sha256": null,
+      "title": "空间向量难点"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-空集与子集的性质.md",
+      "before": "Mathmap/知识点/空集与子集的性质--000096.md",
+      "id": "Kc8b659ecdc57fe",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "8a9f64eaaf6afa08dcadee0010e3ca0f4e27648a8bfef400201290ff4203000e",
+      "registered_sha256": "8a9f64eaaf6afa08dcadee0010e3ca0f4e27648a8bfef400201290ff4203000e",
+      "title": "空集与子集的性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-穿针引线法.md",
+      "before": "Mathmap/知识点/穿针引线法--001159.md",
+      "id": "Kba5766698d41d3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4c458891b9c5156e9583be38c1bf5ae698c3f62dd7e26adba6586941c2f29d56",
+      "registered_sha256": null,
+      "title": "穿针引线法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-立体几何中的向量法.md",
+      "before": "Mathmap/知识点/立体几何中的向量法--000885.md",
+      "id": "K2ed9268abddeff",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e2f0d6e070c763b986d09e0c9b13603e9602ca61c1853c76fa32b3b35a67096b",
+      "registered_sha256": null,
+      "title": "立体几何中的向量法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-立体几何难点.md",
+      "before": "Mathmap/知识点/立体几何难点--000965.md",
+      "id": "Ka7d19a8f9955fa",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4b783c5284ebb9c94a96343e7c34356f8036406fe226fd5738dd052e115587b5",
+      "registered_sha256": null,
+      "title": "立体几何难点"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等和线.md",
+      "before": "Mathmap/知识点/等和线--000976.md",
+      "id": "Kd7db71bf562c09",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "9124ed1365e5773c1aad8bc92125a9193f11bd0a28460142c0050b28462af38a",
+      "registered_sha256": null,
+      "title": "等和线"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等差例子.md",
+      "before": "Mathmap/知识点/等差例子--001095.md",
+      "id": "Kd2130974dff92d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5211b09388ffc5951380c4126c0fd2d0f562ec983d3c21f036585e7b95a94913",
+      "registered_sha256": null,
+      "title": "等差例子"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等差数列的图像.md",
+      "before": "Mathmap/知识点/等差数列的图像--001101.md",
+      "id": "K1fbac6f279cf0b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "aa8829fd597300a18c47736f8d21c5d07635a9fac6ed4964ddbe3ce5e8590622",
+      "registered_sha256": null,
+      "title": "等差数列的图像"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等式的基本性质.md",
+      "before": "Mathmap/知识点/等式的基本性质--000114.md",
+      "id": "K356e0f478d7663",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "af7fc353071f3f7b544d15ad3da707baf4694dcb9455e66b1d7c7932ce9df21d",
+      "registered_sha256": "af7fc353071f3f7b544d15ad3da707baf4694dcb9455e66b1d7c7932ce9df21d",
+      "title": "等式的基本性质"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等比例子.md",
+      "before": "Mathmap/知识点/等比例子--001096.md",
+      "id": "Ka1b5472796102f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "419516e0ed477421e8031d2db235e52e4a6cea004b80ab1444be923ed3407740",
+      "registered_sha256": null,
+      "title": "等比例子"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等比数列的图像.md",
+      "before": "Mathmap/知识点/等比数列的图像--001102.md",
+      "id": "K0c4c45d7338bb8",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ed3054207d8908c281616054c5342fd087927aeccf912cba2abb12431e9b8e74",
+      "registered_sha256": null,
+      "title": "等比数列的图像"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-等轴双曲线.md",
+      "before": "Mathmap/知识点/等轴双曲线--000987.md",
+      "id": "Kdad9618c133773",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "847578eac950e62135b961b497d992e34e31d88641601d6380e17eeeb9ba5b0a",
+      "registered_sha256": null,
+      "title": "等轴双曲线"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-简单组合体.md",
+      "before": "Mathmap/知识点/简单组合体--000959.md",
+      "id": "K4dc59f5a1f92c3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "996dde905de68c25dbe1637f1c90a32dac20c1670f9678affaab8333f28e91ab",
+      "registered_sha256": null,
+      "title": "简单组合体"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-糖水不等式.md",
+      "before": "Mathmap/知识点/糖水不等式--000871.md",
+      "id": "K0fcb0679f51c69",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "448d6bb4df35d433835644a613b39b77f44b453be0e0b3fc52184ca098bfd453",
+      "registered_sha256": null,
+      "title": "糖水不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-系数最大（小）项问题.md",
+      "before": "Mathmap/知识点/系数最大（小）项问题--001046.md",
+      "id": "Kd676a55431a739",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b40696284c223244bf2163f09a25df948c909cfe1f98376606864bb24283abc9",
+      "registered_sha256": null,
+      "title": "系数最大（小）项问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-线线夹角问题.md",
+      "before": "Mathmap/知识点/线线夹角问题--000942.md",
+      "id": "K6da5081ebc01b6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ddeec0d05edcfb31aa7d41624fdc558f24673229348af5276397cb94855d7db1",
+      "registered_sha256": null,
+      "title": "线线夹角问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-线线距离.md",
+      "before": "Mathmap/知识点/线线距离--000931.md",
+      "id": "Ke2b40bbdcaa73d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ff94909446dbef41eb99385d9b2c9931230b5f8b50b7fd372f7950c896771710",
+      "registered_sha256": null,
+      "title": "线线距离"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-线面夹角问题.md",
+      "before": "Mathmap/知识点/线面夹角问题--000944.md",
+      "id": "Kcb5b94509b2be5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "fc8363143ec3042e05c1dbec7033f6caca19055f5e960dfbdd91bf9bf3d3b10c",
+      "registered_sha256": null,
+      "title": "线面夹角问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-线面距离.md",
+      "before": "Mathmap/知识点/线面距离--000929.md",
+      "id": "K63000a9a45f501",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ee9538aa986f2045de9eb0fd833dd0785b0b72e3237a677919c63e50d7bcb6e7",
+      "registered_sha256": null,
+      "title": "线面距离"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-练计算.md",
+      "before": "Mathmap/知识点/练计算--000938.md",
+      "id": "Kbf7ef8089dcf6a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a90ddf7693bcb855db3dd8d6aafd55d7e07f2ccf7fe903289baee2f3e7dd430d",
+      "registered_sha256": null,
+      "title": "练计算"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-组合数方程与不等式.md",
+      "before": "Mathmap/知识点/组合数方程与不等式--001069.md",
+      "id": "K2535b88766c998",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "2f5a7e9a8ad43f9ac4a2e39f5ecc728ac09b5b026d97a54e0e545aa8489de910",
+      "registered_sha256": null,
+      "title": "组合数方程与不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-终边相同的角.md",
+      "before": "Mathmap/知识点/终边相同的角--000153.md",
+      "id": "K67f6835fd22a0c",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f11e1ac83d62381ef223db3c1ec4135bf50d5be98ee0d7e437339126c4117c4d",
+      "registered_sha256": "f11e1ac83d62381ef223db3c1ec4135bf50d5be98ee0d7e437339126c4117c4d",
+      "title": "终边相同的角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-综合法.md",
+      "before": "Mathmap/知识点/综合法--000994.md",
+      "id": "Kee13f45e93b8a9",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e988e62418ac2900beb4c248e77ab3e70f6854c85920c3b79a8777ed41490ed8",
+      "registered_sha256": null,
+      "title": "综合法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-罗素悖论.md",
+      "before": "Mathmap/知识点/罗素悖论--001139.md",
+      "id": "K20a628e21dc128",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6cf8707f6dafd511ca5b19bea095259da93a444b1afc6a684cb4a6e886284719",
+      "registered_sha256": null,
+      "title": "罗素悖论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-范围最值问题.md",
+      "before": "Mathmap/知识点/范围最值问题--001008.md",
+      "id": "K6322b4dc499cf2",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "46de8efae727c0c15868f5b8dd16f59303a8d7e76eda932b326053f40a723f20",
+      "registered_sha256": null,
+      "title": "范围最值问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-裂项相消法与裂项放缩法.md",
+      "before": "Mathmap/知识点/裂项相消法与裂项放缩法--000870.md",
+      "id": "Kbbe3f1e2bd4021",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8337c8478567d27955f04a024bd5a4ac871cfbd3f580d1e3a5ed22ba6df95b7f",
+      "registered_sha256": null,
+      "title": "裂项相消法与裂项放缩法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-角度与弧度的换算.md",
+      "before": "Mathmap/知识点/角度与弧度的换算--000155.md",
+      "id": "K79fb7e6ef47551",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "2039e55e9d8ca5b9e838f6ee47b41880f53b14e32e77f072e7bc2e99d24f1b4e",
+      "registered_sha256": "2039e55e9d8ca5b9e838f6ee47b41880f53b14e32e77f072e7bc2e99d24f1b4e",
+      "title": "角度与弧度的换算"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-角度制.md",
+      "before": "Mathmap/知识点/角度制--001122.md",
+      "id": "K4a81b430796878",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d76677155759c5d8bae6cc70b083d082aec4dee7d629c3d12442a6441072c83a",
+      "registered_sha256": null,
+      "title": "角度制"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-解三角形.md",
+      "before": "Mathmap/知识点/解三角形--000913.md",
+      "id": "Ke1546ad513731f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "70323bc8a305636ce375708eda446398d643f544808f7aa69b6655727123c685",
+      "registered_sha256": null,
+      "title": "解三角形"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-解与零点.md",
+      "before": "Mathmap/知识点/解与零点--001133.md",
+      "id": "Kb97f4afba1f0ee",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "b2db7631aafe46a33045f951ac4987b7f9ac36ff02e05c43b21c2b8c7ea7ca6e",
+      "registered_sha256": null,
+      "title": "解与零点"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-解析几何二级结论.md",
+      "before": "Mathmap/知识点/解析几何二级结论--000882.md",
+      "id": "K7c417270ac68ee",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "bd0c7828b4a789bf061f39af5996c768e21825ea496f9eba39f6291d2199c389",
+      "registered_sha256": null,
+      "title": "解析几何二级结论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-解析几何思维方法.md",
+      "before": "Mathmap/知识点/解析几何思维方法--000998.md",
+      "id": "K1404a79d82ad35",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8de93ffcb942bdce2c0b678a7c87ac3c9ddc19578786ce65f4562f5f8d394ea1",
+      "registered_sha256": null,
+      "title": "解析几何思维方法"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-解析几何难点.md",
+      "before": "Mathmap/知识点/解析几何难点--001006.md",
+      "id": "K2e40000db4e378",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "576273aaef75a6b98ce9b293983c48186c7e9d58020e14078a5b570d00f73d8a",
+      "registered_sha256": null,
+      "title": "解析几何难点"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-解析几何题型.md",
+      "before": "Mathmap/知识点/解析几何题型--001005.md",
+      "id": "K7b3f05045561c6",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ee35595dbb8bcb35dae129576d80d461b9de6928b560978e6f50163dd5cd85af",
+      "registered_sha256": null,
+      "title": "解析几何题型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-诱导公式一.md",
+      "before": "Mathmap/知识点/诱导公式一--000157.md",
+      "id": "K1f25c026d4cdfa",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "d205e2aa17afe246989e3cfb0ac09360b646bebac1e523ac86ef87ad42c9ee45",
+      "registered_sha256": "d205e2aa17afe246989e3cfb0ac09360b646bebac1e523ac86ef87ad42c9ee45",
+      "title": "诱导公式一"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-诱导公式二、三、四.md",
+      "before": "Mathmap/知识点/诱导公式二、三、四--000160.md",
+      "id": "K0b9d3f496042ed",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "43e336e15b0f39fa434f66eccb0d337a9a04e79e2d2e577f1b4754be61a39993",
+      "registered_sha256": "43e336e15b0f39fa434f66eccb0d337a9a04e79e2d2e577f1b4754be61a39993",
+      "title": "诱导公式二、三、四"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-诱导公式五、六.md",
+      "before": "Mathmap/知识点/诱导公式五、六--000162.md",
+      "id": "K6b3d3e4a84fe1d",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "03fdcf04551083dd721761b4c38e404211cd2e337a5b468a26087d8e62344720",
+      "registered_sha256": "03fdcf04551083dd721761b4c38e404211cd2e337a5b468a26087d8e62344720",
+      "title": "诱导公式五、六"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-谢尔宾斯基三角形.md",
+      "before": "Mathmap/知识点/谢尔宾斯基三角形--001041.md",
+      "id": "Kc43b0063521a16",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a73e6b391f1231e5b110d2a970ab6213fbdcb88b91a6e01cedc70a08498f327a",
+      "registered_sha256": null,
+      "title": "谢尔宾斯基三角形"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-贝叶斯公式的应用.md",
+      "before": "Mathmap/知识点/贝叶斯公式的应用--001087.md",
+      "id": "K4a4376d7f9d9eb",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "4c16cbf81b354986ab4cb49319d94e16031fd1b1a792ff0c86eb4464e92f7c98",
+      "registered_sha256": null,
+      "title": "贝叶斯公式的应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-赋值法解决系数和问题.md",
+      "before": "Mathmap/知识点/赋值法解决系数和问题--001050.md",
+      "id": "K71fd9a1844b92d",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "5a65db3f96f6e6a7a7af9a2bb3ca676a87b928282ec94754ba65f99b78986744",
+      "registered_sha256": null,
+      "title": "赋值法解决系数和问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-起点在原点的向量坐标.md",
+      "before": "Mathmap/知识点/起点在原点的向量坐标--000903.md",
+      "id": "K1c32cd3290ca87",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "71e192d7280d95634fe69d3440685e996019273871913d8f0cbb10ba8da4ac48",
+      "registered_sha256": null,
+      "title": "起点在原点的向量坐标"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-距离最值.md",
+      "before": "Mathmap/知识点/距离最值--000999.md",
+      "id": "Kcb0219ccca2073",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "8826753607d8a4b6e5b356bf29769adc665a49d8ad1b5f17301a6d3939fef631",
+      "registered_sha256": null,
+      "title": "距离最值"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-轨迹题型.md",
+      "before": "Mathmap/知识点/轨迹题型--000984.md",
+      "id": "K70fa70f9ee10f3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "87ff1d05af376f309be840cec889a7013f9465a02592d10d039b82f5ba380286",
+      "registered_sha256": null,
+      "title": "轨迹题型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-辅助角公式.md",
+      "before": "Mathmap/知识点/辅助角公式--001111.md",
+      "id": "K162070b5d0a605",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d69582d7b83b307d8a75f1e1a81040dc84a536ea0720c93c914388ff9d463ec7",
+      "registered_sha256": null,
+      "title": "辅助角公式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-辛普森悖论.md",
+      "before": "Mathmap/知识点/辛普森悖论--001043.md",
+      "id": "Kf159633ce90ed5",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "014791ebeeb358d065d75384f00e01d0b0eb7eb1a9b8d677641ea419c74dc317",
+      "registered_sha256": null,
+      "title": "辛普森悖论"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-选择合适的函数建立数学模型.md",
+      "before": "Mathmap/知识点/选择合适的函数建立数学模型--001135.md",
+      "id": "K68410ca7be6259",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "461c839cee95aa6e8333533d4632948ffbd0d7e58c11906ece0a9b57eb69c8a3",
+      "registered_sha256": null,
+      "title": "选择合适的函数建立数学模型"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-选择恰当的方法表示问题中的函数关系.md",
+      "before": "Mathmap/知识点/选择恰当的方法表示问题中的函数关系--001156.md",
+      "id": "K03456baac08975",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "fc97836b9f509cda186d72128b7e3ed2cc43d77c2503ccf4d2d1e8c915ebb014",
+      "registered_sha256": null,
+      "title": "选择恰当的方法表示问题中的函数关系"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-选择抽样调查的原因.md",
+      "before": "Mathmap/知识点/选择抽样调查的原因--001038.md",
+      "id": "Kade2cbfe63250f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e6efa9e6a5206d266bf457a9c94d51edcbe43b9501fa33b63c838efab7b5e23c",
+      "registered_sha256": null,
+      "title": "选择抽样调查的原因"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-递减数列.md",
+      "before": "Mathmap/知识点/递减数列--001092.md",
+      "id": "K9dc79aa9308d6e",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "0bdb5131307556927360fed34158d811df6fde1f237cadc68171ca7a04c6c832",
+      "registered_sha256": null,
+      "title": "递减数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-递增数列.md",
+      "before": "Mathmap/知识点/递增数列--001093.md",
+      "id": "K9d8331a5b555ae",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "ae36428152e4bea6639af74b8606a2fc645a83484845ca497671572715c38a44",
+      "registered_sha256": null,
+      "title": "递增数列"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-重心坐标.md",
+      "before": "Mathmap/知识点/重心坐标--000928.md",
+      "id": "Ke35cb2268b8f58",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "810c3038be76e3d04ebc1af3d86edfa3469e8ba85a18f87307e86fe37dde5db7",
+      "registered_sha256": null,
+      "title": "重心坐标"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-重要不等式.md",
+      "before": "Mathmap/知识点/重要不等式--000113.md",
+      "id": "K5677a73468245a",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "202fd4a308d89bbdf0687af98c3e3002d9ec15fe849011bdeccd08f95b6630df",
+      "registered_sha256": "202fd4a308d89bbdf0687af98c3e3002d9ec15fe849011bdeccd08f95b6630df",
+      "title": "重要不等式"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-阿波罗尼斯圆与正交圆.md",
+      "before": "Mathmap/知识点/阿波罗尼斯圆与正交圆--000991.md",
+      "id": "K6c80008aeee1e1",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "58a61f20569ff75fc3bad2f823039c6357bf28270e1f47aa3d57d40e68ef01b8",
+      "registered_sha256": null,
+      "title": "阿波罗尼斯圆与正交圆"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-随机变量平移或伸缩后方差运算.md",
+      "before": "Mathmap/知识点/随机变量平移或伸缩后方差运算--001085.md",
+      "id": "Kfb9745b6b00237",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "e45239529db0867ffa51501be25160ca8485e189c139d46922e0f9df7cf546e2",
+      "registered_sha256": null,
+      "title": "随机变量平移或伸缩后方差运算"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-随机现象.md",
+      "before": "Mathmap/知识点/随机现象--001063.md",
+      "id": "K0049f86180e340",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "a11349bb54e0be6589beee64ebbf6cb3375f16fd1697e3114b0750520cd0db60",
+      "registered_sha256": null,
+      "title": "随机现象"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-随机试验.md",
+      "before": "Mathmap/知识点/随机试验--001062.md",
+      "id": "K15905d1bbb656a",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "d1a07e25713807f118ed05a148fd6464eb0653ea6f28260899a22914ce37040f",
+      "registered_sha256": null,
+      "title": "随机试验"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-集合史.md",
+      "before": "Mathmap/知识点/集合史--001144.md",
+      "id": "K1d15b9ce412a2c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "24bb646cb80b1b29ffef6a0d1801121ef58ffdfba28aa6584cb7a4bdd74d7f20",
+      "registered_sha256": null,
+      "title": "集合史"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-集合的概念.md",
+      "before": "Mathmap/知识点/集合的概念--000091.md",
+      "id": "Kb278718bbd453c",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "1b163c1520d062b245988e9a31f9886a987839a154f7a8df1439f079a63fcfa6",
+      "registered_sha256": "1b163c1520d062b245988e9a31f9886a987839a154f7a8df1439f079a63fcfa6",
+      "title": "集合的概念"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-集合相等与真子集.md",
+      "before": "Mathmap/知识点/集合相等与真子集--000095.md",
+      "id": "K8d2f3b3fe2c530",
+      "kind": "knowledge",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "53ba40176518ad94d25c542ffdeed0a988723b50eeb2586b7035a105347ff915",
+      "registered_sha256": "53ba40176518ad94d25c542ffdeed0a988723b50eeb2586b7035a105347ff915",
+      "title": "集合相等与真子集"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-零向量.md",
+      "before": "Mathmap/知识点/零向量--000972.md",
+      "id": "Ka355becef24d04",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "cecb124ae328bf3f3bd1d14113c34ec9cde33422f0eb18e475a42ffbee009859",
+      "registered_sha256": null,
+      "title": "零向量"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-零向量（空间）.md",
+      "before": "Mathmap/知识点/零向量（空间）--000953.md",
+      "id": "K726f9312ece20b",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "6824b099235fcf49f7fb3ade79a0ebe393b2904ebe20223e207003aa450d3936",
+      "registered_sha256": null,
+      "title": "零向量（空间）"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-零点个数问题.md",
+      "before": "Mathmap/知识点/零点个数问题--001132.md",
+      "id": "K51fc9d79328c3c",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f394b75b523877052b75c86f035660b39bbebd87159640e06fbf42c94495de2c",
+      "registered_sha256": null,
+      "title": "零点个数问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-零点区间问题.md",
+      "before": "Mathmap/知识点/零点区间问题--001134.md",
+      "id": "K45a82a32c10b51",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "67a2c8d497007ae8d6b8697ccbd1d3648a2d4ac49504982f0e6e175dcbad252a",
+      "registered_sha256": null,
+      "title": "零点区间问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-零角.md",
+      "before": "Mathmap/知识点/零角--001129.md",
+      "id": "K37f8b11c410a7f",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "627c9f45425653a892895550624b072c27fbd20c275b098f73004658231e8cb2",
+      "registered_sha256": null,
+      "title": "零角"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-面积问题.md",
+      "before": "Mathmap/知识点/面积问题--000874.md",
+      "id": "Ke57af415ca4fd3",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "f88a5a620a8098c9476f8b634de9481c2e7c5886a4779011bfd298ddd815a82b",
+      "registered_sha256": null,
+      "title": "面积问题"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-面面距离.md",
+      "before": "Mathmap/知识点/面面距离--000930.md",
+      "id": "K67c6f59c5f28ea",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "95a62f3cae1e8b4703677987f6ca6c747616cd8b3f878a20bb68cecffe661186",
+      "registered_sha256": null,
+      "title": "面面距离"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-题型03全概率公式和贝叶斯公式的综合应用.md",
+      "before": "Mathmap/知识点/题型03全概率公式和贝叶斯公式的综合应用--001088.md",
+      "id": "K09ba7158d3b167",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "c5b077e0097dd7752b754835b50034e47127bd8fa8a3428a1215c8afc8568060",
+      "registered_sha256": null,
+      "title": "题型03全概率公式和贝叶斯公式的综合应用"
+    },
+    {
+      "after": "Mathmap/知识点/知识点-高斯法.md",
+      "before": "Mathmap/知识点/高斯法--001098.md",
+      "id": "K1a3473eac565bc",
+      "kind": "knowledge",
+      "owners": [],
+      "page_sha256": "005b5c9d89d1fa9e74f0fd332d91bcbc95814c0c89654ea2886a915c1f2cd7f9",
+      "registered_sha256": null,
+      "title": "高斯法"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-三角函数值的符号.md",
+      "before": "Mathmap/问题袋/三角函数值的符号--Pa6c793ffd35e4f.md",
+      "id": "Pa6c793ffd35e4f",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "67a23c131cfd7d8e827bb20ef4c54b91945765c0e4bc5c0bce05291c3ba5fe76",
+      "registered_sha256": "67a23c131cfd7d8e827bb20ef4c54b91945765c0e4bc5c0bce05291c3ba5fe76",
+      "title": "三角函数值的符号"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-互为反函数的两个函数图象间的关系.md",
+      "before": "Mathmap/问题袋/互为反函数的两个函数图象间的关系--P0c1bc22eb4d0a2.md",
+      "id": "P0c1bc22eb4d0a2",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "3efde3f776f090fb08c500d84511917c8d408123668711cbb0b9e9b49dc58f62",
+      "registered_sha256": "3efde3f776f090fb08c500d84511917c8d408123668711cbb0b9e9b49dc58f62",
+      "title": "互为反函数的两个函数图象间的关系"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-函数 y=x+1_x 的图象与性质.md",
+      "before": "Mathmap/问题袋/函数 y=x+1_x 的图象与性质--P109600daf59bcf.md",
+      "id": "P109600daf59bcf",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "82696a4eaa01281af53fe56605ac7c21760266d73980dad783a87676a46bb51e",
+      "registered_sha256": "82696a4eaa01281af53fe56605ac7c21760266d73980dad783a87676a46bb51e",
+      "title": "函数 y=x+1/x 的图象与性质"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：交集的基本运算性质.md",
+      "before": "Mathmap/问题袋/思考：交集的基本运算性质--P4837c00e1334e4.md",
+      "id": "P4837c00e1334e4",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "031d2494addeb6da7b8694f575ff8de30e8180bae09c4c09a3802f8452cf3854",
+      "registered_sha256": "031d2494addeb6da7b8694f575ff8de30e8180bae09c4c09a3802f8452cf3854",
+      "title": "思考：交集的基本运算性质"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：从函数图象变换角度解释例1的函数作图.md",
+      "before": "Mathmap/问题袋/思考：从函数图象变换角度解释例1的函数作图--Pcc2b3bad2b09fb.md",
+      "id": "Pcc2b3bad2b09fb",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "bcf3b0219450bed4f342e603fc9bf84882e6416bb2b8cd7869adcf3d39d5fb44",
+      "registered_sha256": "bcf3b0219450bed4f342e603fc9bf84882e6416bb2b8cd7869adcf3d39d5fb44",
+      "title": "思考：从函数图象变换角度解释例1的函数作图"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：函数 y=A sin(ωx+φ) 的周期与参数 ω 的关系.md",
+      "before": "Mathmap/问题袋/思考：函数 y=A sin(ωx+φ) 的周期与参数 ω 的关系--P1786739bf3da2e.md",
+      "id": "P1786739bf3da2e",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "8ee3ed1eae3f5597895c530e3b6bd65ab28c39c62d69a5d030a2ccf794f22dd0",
+      "registered_sha256": "8ee3ed1eae3f5597895c530e3b6bd65ab28c39c62d69a5d030a2ccf794f22dd0",
+      "title": "思考：函数 y=A sin(ωx+φ) 的周期与参数 ω 的关系"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：函数单调性定义中的任意性与区间性辨析.md",
+      "before": "Mathmap/问题袋/思考：函数单调性定义中的任意性与区间性辨析--P259e0181f619d9.md",
+      "id": "P259e0181f619d9",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "e39aa4a38c206eee61b8c42492ab8a26b29c61736a47e6edb9ac925ec8aa113b",
+      "registered_sha256": "e39aa4a38c206eee61b8c42492ab8a26b29c61736a47e6edb9ac925ec8aa113b",
+      "title": "思考：函数单调性定义中的任意性与区间性辨析"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：列举法表示无限集与解集的局限.md",
+      "before": "Mathmap/问题袋/思考：列举法表示无限集与解集的局限--P46172aede04469.md",
+      "id": "P46172aede04469",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "57f6575633b5ca873106eb430c65cdd6c36f3f4f6db6ab458c148e07ff5ae503",
+      "registered_sha256": "57f6575633b5ca873106eb430c65cdd6c36f3f4f6db6ab458c148e07ff5ae503",
+      "title": "思考：列举法表示无限集与解集的局限"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：利用奇偶性对称特征简化函数图象与性质研究.md",
+      "before": "Mathmap/问题袋/思考：利用奇偶性对称特征简化函数图象与性质研究--P4b355f79645bb8.md",
+      "id": "P4b355f79645bb8",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "75405c84eace013be7b2183356b9da07a9c223da5b0226f008535b71a74eed14",
+      "registered_sha256": "75405c84eace013be7b2183356b9da07a9c223da5b0226f008535b71a74eed14",
+      "title": "思考：利用奇偶性对称特征简化函数图象与性质研究"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：并集的基本运算性质.md",
+      "before": "Mathmap/问题袋/思考：并集的基本运算性质--Pc0de973baa0ea1.md",
+      "id": "Pc0de973baa0ea1",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "24cb6da0980e2ceb51a2379086f748ec570257e263295bec1ce6cee0104e24f0",
+      "registered_sha256": "24cb6da0980e2ceb51a2379086f748ec570257e263295bec1ce6cee0104e24f0",
+      "title": "思考：并集的基本运算性质"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：比较函数三种表示法的特点与适用性.md",
+      "before": "Mathmap/问题袋/思考：比较函数三种表示法的特点与适用性--P8f49af65ea4caa.md",
+      "id": "P8f49af65ea4caa",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "c479573838b9021567c2b225725e7b68563c46e4197e9da4273e35b609282541",
+      "registered_sha256": "c479573838b9021567c2b225725e7b68563c46e4197e9da4273e35b609282541",
+      "title": "思考：比较函数三种表示法的特点与适用性"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：用函数定义描述反比例函数.md",
+      "before": "Mathmap/问题袋/思考：用函数定义描述反比例函数--Pa788373f8910d4.md",
+      "id": "Pa788373f8910d4",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "0c99ee7c161e9f625f44d798f3f6ac9e65d56fb757a474c0741be1c8f9d4f8da",
+      "registered_sha256": "0c99ee7c161e9f625f44d798f3f6ac9e65d56fb757a474c0741be1c8f9d4f8da",
+      "title": "思考：用函数定义描述反比例函数"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：自然语言、列举法和描述法各自的特点.md",
+      "before": "Mathmap/问题袋/思考：自然语言、列举法和描述法各自的特点--Paef2de438d4cb6.md",
+      "id": "Paef2de438d4cb6",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "0af964216b421528c55f8707f320510ca190e432f2081d21d075876b3ea3c5c0",
+      "registered_sha256": "0af964216b421528c55f8707f320510ca190e432f2081d21d075876b3ea3c5c0",
+      "title": "思考：自然语言、列举法和描述法各自的特点"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：随自变量增大函数值的变化趋势.md",
+      "before": "Mathmap/问题袋/思考：随自变量增大函数值的变化趋势--P4b2d515fe01958.md",
+      "id": "P4b2d515fe01958",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "17a341d16358f2b7c133a00dc3ed1b36a1a8826b3e6f580d7d8679d4d0fd7ce6",
+      "registered_sha256": "17a341d16358f2b7c133a00dc3ed1b36a1a8826b3e6f580d7d8679d4d0fd7ce6",
+      "title": "思考：随自变量增大函数值的变化趋势"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-思考：马尔萨斯人口指数增长模型与实际人口增长率的偏差分析.md",
+      "before": "Mathmap/问题袋/思考：马尔萨斯人口指数增长模型与实际人口增长率的偏差分析--P23c11285d80c9c.md",
+      "id": "P23c11285d80c9c",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "bf5bd9deaffdd4f6187b982649bbe26d826fd2ef934ea575fada417738d94ee8",
+      "registered_sha256": "bf5bd9deaffdd4f6187b982649bbe26d826fd2ef934ea575fada417738d94ee8",
+      "title": "思考：马尔萨斯人口指数增长模型与实际人口增长率的偏差分析"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-探究：构建以二次函数为解析式的实际问题情境.md",
+      "before": "Mathmap/问题袋/探究：构建以二次函数为解析式的实际问题情境--P102e3b40ff868c.md",
+      "id": "P102e3b40ff868c",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "d8a714d9b205faa16b6596e456adf0ec5daf225d1858a7632ac0e0c34e7ecdb6",
+      "registered_sha256": "d8a714d9b205faa16b6596e456adf0ec5daf225d1858a7632ac0e0c34e7ecdb6",
+      "title": "探究：构建以二次函数为解析式的实际问题情境"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-正弦函数、余弦函数的最大值与最小值.md",
+      "before": "Mathmap/问题袋/正弦函数、余弦函数的最大值与最小值--Pb37144beaf1a6b.md",
+      "id": "Pb37144beaf1a6b",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "8bfee44cded0c111780576de53f5668b18a9f8b9919131712d09679f8af3cd9a",
+      "registered_sha256": "8bfee44cded0c111780576de53f5668b18a9f8b9919131712d09679f8af3cd9a",
+      "title": "正弦函数、余弦函数的最大值与最小值"
+    },
+    {
+      "after": "Mathmap/问题袋/问题-茶水冷却与最佳饮用时间的函数建模.md",
+      "before": "Mathmap/问题袋/茶水冷却与最佳饮用时间的函数建模--P29d7c7a4042d6c.md",
+      "id": "P29d7c7a4042d6c",
+      "kind": "problem",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "778c9aa9b5d055a39749dc43ee9a15be466aabae3763de699d969309bafc7b9d",
+      "registered_sha256": "778c9aa9b5d055a39749dc43ee9a15be466aabae3763de699d969309bafc7b9d",
+      "title": "茶水冷却与最佳饮用时间的函数建模"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-n次方根.md",
+      "before": "Mathmap/概念或公式/n次方根--Cc41020c2fa3f32.md",
+      "id": "Cc41020c2fa3f32",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "3eebce7a79ee1c6735084c5f9ee5dc87014f662601f5f3ef405211740536d7e2",
+      "registered_sha256": "3eebce7a79ee1c6735084c5f9ee5dc87014f662601f5f3ef405211740536d7e2",
+      "title": "n次方根"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-两角差的余弦公式.md",
+      "before": "Mathmap/概念或公式/两角差的余弦公式--C20090894e45f03.md",
+      "id": "C20090894e45f03",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "68781ce65e131780cd0f5e9b76d5fc84fb58a090d94fa7427e7ed3fdabfd21bf",
+      "registered_sha256": "68781ce65e131780cd0f5e9b76d5fc84fb58a090d94fa7427e7ed3fdabfd21bf",
+      "title": "两角差的余弦公式"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-二次函数的零点.md",
+      "before": "Mathmap/概念或公式/二次函数的零点--C5362b7ffd90a5a.md",
+      "id": "C5362b7ffd90a5a",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "eaafdc020c0e2df772c1fb4be63eedc654cfbd1c089820d258c0ffdf4331e4e8",
+      "registered_sha256": "eaafdc020c0e2df772c1fb4be63eedc654cfbd1c089820d258c0ffdf4331e4e8",
+      "title": "二次函数的零点"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-余弦曲线.md",
+      "before": "Mathmap/概念或公式/余弦曲线--C60e262bc336477.md",
+      "id": "C60e262bc336477",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "ff454c772d4c6e2f68921331b712cb8bf455943fb47a01bb16a0b51644f42675",
+      "registered_sha256": "ff454c772d4c6e2f68921331b712cb8bf455943fb47a01bb16a0b51644f42675",
+      "title": "余弦曲线"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-充分条件与必要条件.md",
+      "before": "Mathmap/概念或公式/充分条件与必要条件--C79bedbb6ff85f6.md",
+      "id": "C79bedbb6ff85f6",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "b3f131cd35822cba21544b1a6ebf455278bd97002cb8fb3ec28e607baa7aab7e",
+      "registered_sha256": "b3f131cd35822cba21544b1a6ebf455278bd97002cb8fb3ec28e607baa7aab7e",
+      "title": "充分条件与必要条件"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-充要条件.md",
+      "before": "Mathmap/概念或公式/充要条件--C9316abe6acb1ad.md",
+      "id": "C9316abe6acb1ad",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "da2eaee27de75d135feb8c9c84b03a45cc3de4657b5c853733d31dd746bb05b6",
+      "registered_sha256": "da2eaee27de75d135feb8c9c84b03a45cc3de4657b5c853733d31dd746bb05b6",
+      "title": "充要条件"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-全称量词与全称量词命题.md",
+      "before": "Mathmap/概念或公式/全称量词与全称量词命题--C04acb470003069.md",
+      "id": "C04acb470003069",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "0838d7b742ac1c2264250000181b840536f3c7fbb556a9ae2b57c2a5aae18c34",
+      "registered_sha256": "0838d7b742ac1c2264250000181b840536f3c7fbb556a9ae2b57c2a5aae18c34",
+      "title": "全称量词与全称量词命题"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-函数的最大值.md",
+      "before": "Mathmap/概念或公式/函数的最大值--Cfadc56006ac4c0.md",
+      "id": "Cfadc56006ac4c0",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "6380e9b34ad513ce04761f0bf815ea2e2c4167d18009eab7bc336292e474aaaf",
+      "registered_sha256": "6380e9b34ad513ce04761f0bf815ea2e2c4167d18009eab7bc336292e474aaaf",
+      "title": "函数的最大值"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-函数零点存在定理.md",
+      "before": "Mathmap/概念或公式/函数零点存在定理--C87a17c7576774a.md",
+      "id": "C87a17c7576774a",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "72f320a40d058bb6dac77623523e3212a64b89a35490f6cb3b31262a0b7aab3d",
+      "registered_sha256": "72f320a40d058bb6dac77623523e3212a64b89a35490f6cb3b31262a0b7aab3d",
+      "title": "函数零点存在定理"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-分段函数.md",
+      "before": "Mathmap/概念或公式/分段函数--C7f1ac9577a61c1.md",
+      "id": "C7f1ac9577a61c1",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "13bded36f6ac38bf6bb15fa3120b822574ed4da46d632e527799da2eabd4b1c2",
+      "registered_sha256": "13bded36f6ac38bf6bb15fa3120b822574ed4da46d632e527799da2eabd4b1c2",
+      "title": "分段函数"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-列举法.md",
+      "before": "Mathmap/概念或公式/列举法--Cfddff031811208.md",
+      "id": "Cfddff031811208",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f574042fcde501af7023ea8822abf5efe228cf1315738ad3ab0a325f161f436b",
+      "registered_sha256": "f574042fcde501af7023ea8822abf5efe228cf1315738ad3ab0a325f161f436b",
+      "title": "列举法"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-判定定理与充分条件的关系.md",
+      "before": "Mathmap/概念或公式/判定定理与充分条件的关系--Cfc49b38e421771.md",
+      "id": "Cfc49b38e421771",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "dbf5708920006bc37e7aac7bfd07d3f85bf2f75d288524a89ffb2de47c30b249",
+      "registered_sha256": "dbf5708920006bc37e7aac7bfd07d3f85bf2f75d288524a89ffb2de47c30b249",
+      "title": "判定定理与充分条件的关系"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-同一个函数的判定.md",
+      "before": "Mathmap/概念或公式/同一个函数的判定--C74d53707a26643.md",
+      "id": "C74d53707a26643",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "c5cdf8d1f279499f8a198e4ac5fbea732dc178bcd544e652fd4bd7dd81d94440",
+      "registered_sha256": "c5cdf8d1f279499f8a198e4ac5fbea732dc178bcd544e652fd4bd7dd81d94440",
+      "title": "同一个函数的判定"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-同角三角函数的基本关系.md",
+      "before": "Mathmap/概念或公式/同角三角函数的基本关系--Cbfe7089814bb31.md",
+      "id": "Cbfe7089814bb31",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "96eea0692445a3a94ab42bb51996404aa7f8476744bc42c1b6499e3db4053b1e",
+      "registered_sha256": "96eea0692445a3a94ab42bb51996404aa7f8476744bc42c1b6499e3db4053b1e",
+      "title": "同角三角函数的基本关系"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-命题的否定.md",
+      "before": "Mathmap/概念或公式/命题的否定--Cf86c659e5531e6.md",
+      "id": "Cf86c659e5531e6",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "0b2f1d418ccc1017565b9e9e2c44c6858988f65ed3cc00d462f5892add2e90ab",
+      "registered_sha256": "0b2f1d418ccc1017565b9e9e2c44c6858988f65ed3cc00d462f5892add2e90ab",
+      "title": "命题的否定"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-圆的旋转对称性.md",
+      "before": "Mathmap/概念或公式/圆的旋转对称性--Ca615e49d19738c.md",
+      "id": "Ca615e49d19738c",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "ae1b8be1f9926add68357f6043712008f12a4495994394b782b08e8401bea20f",
+      "registered_sha256": "ae1b8be1f9926add68357f6043712008f12a4495994394b782b08e8401bea20f",
+      "title": "圆的旋转对称性"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-基本不等式.md",
+      "before": "Mathmap/概念或公式/基本不等式--C6b0d644f270a2a.md",
+      "id": "C6b0d644f270a2a",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "2419c821938974fb39603ee8328176af32d7120e72f5f932afef527cc8e54d49",
+      "registered_sha256": "2419c821938974fb39603ee8328176af32d7120e72f5f932afef527cc8e54d49",
+      "title": "基本不等式"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-奇函数.md",
+      "before": "Mathmap/概念或公式/奇函数--Cbd224eb80864d5.md",
+      "id": "Cbd224eb80864d5",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "2e267f29f54a5c1f6a1c1122d3184e07601e148583f7f8dde1d22c93f81802c1",
+      "registered_sha256": "2e267f29f54a5c1f6a1c1122d3184e07601e148583f7f8dde1d22c93f81802c1",
+      "title": "奇函数"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-存在量词与存在量词命题.md",
+      "before": "Mathmap/概念或公式/存在量词与存在量词命题--Cdd875731e8ce3e.md",
+      "id": "Cdd875731e8ce3e",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "56934b6f8b5e195a2b8de569ddf4f75ded55a17742239a1a2988900859256996",
+      "registered_sha256": "56934b6f8b5e195a2b8de569ddf4f75ded55a17742239a1a2988900859256996",
+      "title": "存在量词与存在量词命题"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-对数函数.md",
+      "before": "Mathmap/概念或公式/对数函数--Cb2379823c27213.md",
+      "id": "Cb2379823c27213",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "7899b9cbaf38ec713bf1540b1a1b59e30fed49c4b22a67ad1d94af045f566c6d",
+      "registered_sha256": "7899b9cbaf38ec713bf1540b1a1b59e30fed49c4b22a67ad1d94af045f566c6d",
+      "title": "对数函数"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-对数的运算性质.md",
+      "before": "Mathmap/概念或公式/对数的运算性质--C307bf10f7521dc.md",
+      "id": "C307bf10f7521dc",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "a8ac3defaccb1a4c0f80acee81a1f7c4280a13a89ded2d18fb3a8147457990b8",
+      "registered_sha256": "a8ac3defaccb1a4c0f80acee81a1f7c4280a13a89ded2d18fb3a8147457990b8",
+      "title": "对数的运算性质"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-幂函数.md",
+      "before": "Mathmap/概念或公式/幂函数--C6db28b3d092aeb.md",
+      "id": "C6db28b3d092aeb",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "6178f782264b91f4a9fcd2ec42acf2418a624eb9f2c11a854143f9542c1bce50",
+      "registered_sha256": "6178f782264b91f4a9fcd2ec42acf2418a624eb9f2c11a854143f9542c1bce50",
+      "title": "幂函数"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-弧长与圆心角弧度数的关系.md",
+      "before": "Mathmap/概念或公式/弧长与圆心角弧度数的关系--Cd5b8d3ff0fb4d1.md",
+      "id": "Cd5b8d3ff0fb4d1",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "b72ba5fb2c2e97c56be58ceaa2b01598743b0ce0ef889badc9f16cde8b09c8e3",
+      "registered_sha256": "b72ba5fb2c2e97c56be58ceaa2b01598743b0ce0ef889badc9f16cde8b09c8e3",
+      "title": "弧长与圆心角弧度数的关系"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-性质定理与必要条件的关系.md",
+      "before": "Mathmap/概念或公式/性质定理与必要条件的关系--C90c1fe425f90bb.md",
+      "id": "C90c1fe425f90bb",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "e4704d4b488d4a489959d84173aed76b2fafe8d4bc29dfb78b086d5a4f2fbda7",
+      "registered_sha256": "e4704d4b488d4a489959d84173aed76b2fafe8d4bc29dfb78b086d5a4f2fbda7",
+      "title": "性质定理与必要条件的关系"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-描述法.md",
+      "before": "Mathmap/概念或公式/描述法--C437e99244c072f.md",
+      "id": "C437e99244c072f",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "e97f07aab89c22708d256e3794906ca6f0642097188a0a48ae780eaddbad63e0",
+      "registered_sha256": "e97f07aab89c22708d256e3794906ca6f0642097188a0a48ae780eaddbad63e0",
+      "title": "描述法"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-正角与负角.md",
+      "before": "Mathmap/概念或公式/正角与负角--C8cdc025d05e27a.md",
+      "id": "C8cdc025d05e27a",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "80508ac22b7fe817d925e4cacdb07da2d67ca499274f1075b851a01122b6bc48",
+      "registered_sha256": "80508ac22b7fe817d925e4cacdb07da2d67ca499274f1075b851a01122b6bc48",
+      "title": "正角与负角"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-空集.md",
+      "before": "Mathmap/概念或公式/空集--Cd23026d5465e5e.md",
+      "id": "Cd23026d5465e5e",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "660cee94bd4d154406d87f03ae34b4fcac84313a7f9fcd863ca5c4f3b412dc2d",
+      "registered_sha256": "660cee94bd4d154406d87f03ae34b4fcac84313a7f9fcd863ca5c4f3b412dc2d",
+      "title": "空集"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-终边相同的角.md",
+      "before": "Mathmap/概念或公式/终边相同的角--C5335ec391f6fd7.md",
+      "id": "C5335ec391f6fd7",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "47758331bac2a6da7ceca9419e802407eac47af3af2a5ad45cf3a7f0f044e8aa",
+      "registered_sha256": "47758331bac2a6da7ceca9419e802407eac47af3af2a5ad45cf3a7f0f044e8aa",
+      "title": "终边相同的角"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-角度与弧度的换算.md",
+      "before": "Mathmap/概念或公式/角度与弧度的换算--C1349b41cf7f6e0.md",
+      "id": "C1349b41cf7f6e0",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "fb12a7e72547e54bebe031fe7256fa78fa1b461a9f0440db114f4c5a91f08a27",
+      "registered_sha256": "fb12a7e72547e54bebe031fe7256fa78fa1b461a9f0440db114f4c5a91f08a27",
+      "title": "角度与弧度的换算"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-重要不等式.md",
+      "before": "Mathmap/概念或公式/重要不等式--C576f9fa36d0ad8.md",
+      "id": "C576f9fa36d0ad8",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "f5e5601159bdd5551c9feab6338f41429c70da5bcc655b3b43b9320d0d957e9e",
+      "registered_sha256": "f5e5601159bdd5551c9feab6338f41429c70da5bcc655b3b43b9320d0d957e9e",
+      "title": "重要不等式"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-集合.md",
+      "before": "Mathmap/概念或公式/集合--C877fae8ac041d6.md",
+      "id": "C877fae8ac041d6",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "d0df71aada6eea27b044e7e606bcbb65930d4b026484294937c30fd223d93064",
+      "registered_sha256": "d0df71aada6eea27b044e7e606bcbb65930d4b026484294937c30fd223d93064",
+      "title": "集合"
+    },
+    {
+      "after": "Mathmap/概念或公式/概念-集合相等.md",
+      "before": "Mathmap/概念或公式/集合相等--Cbe5968a400cc5b.md",
+      "id": "Cbe5968a400cc5b",
+      "kind": "concept_formula",
+      "owners": [
+        "rja-required-1"
+      ],
+      "page_sha256": "20ea147890d6ac931871985ae803a881a0a6dbb9091da326358a179501798e60",
+      "registered_sha256": "20ea147890d6ac931871985ae803a881a0a6dbb9091da326358a179501798e60",
+      "title": "集合相等"
+    }
+  ],
+  "reason": "Remove legacy identity suffixes; keep IDs and mathematical titles.",
+  "status": "passed"
+}

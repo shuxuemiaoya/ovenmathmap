@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-005",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5e833ae7c86ab6240529",
+      "text": "# 阅读与思考 集合中元素的个数\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "a1a2862a089492d411ee",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9492583d8b96793eb9aa",
+      "mathmap_atom_id": "K247e2de30c10d1",
+      "mathmap_file": "Mathmap/知识点/有限集合中元素的个数与容斥原理--000100.md",
+      "text": "[有限集合中元素的个数与容斥原理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E9%99%90%E9%9B%86%E5%90%88%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AA%E6%95%B0%E4%B8%8E%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86--000100.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

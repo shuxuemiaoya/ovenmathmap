@@ -1,18 +1,129 @@
 {
-	"edges":[
-		{"fromNode":"3d8a754e17a1a24cc53c","fromSide":"top","id":"0a25fe7f6214d61bfe44","label":"引用","toEnd":"arrow","toNode":"afae00bec4200cb57742","toSide":"bottom"},
-		{"fromNode":"2ac91bee300280231432","fromSide":"top","id":"c61d7818485e71cee27f","label":"引用","toEnd":"arrow","toNode":"2701675f3f7b5bf36ffd","toSide":"bottom"},
-		{"fromNode":"cdb7e02b7d6577033974","fromSide":"top","id":"ccaea29d8f4b58489635","label":"引用","toEnd":"arrow","toNode":"0012e4705009136e0e95","toSide":"bottom"}
-	],
-	"mathmap":{"contract":"knowledge-canvas/v1","level":"三层","scope_key":"node-toc-002","source_id":"rja-required-1"},
-	"nodes":[
-		{"height":130,"id":"cef3d4f7d1017c86dfe3","text":"# 1.1 集合的概念\n\n人教A版高中数学·必修第一册","type":"text","width":700,"x":0,"y":-240},
-		{"height":100,"id":"da595f1bb5260af8f594","text":"[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD--321fd570.canvas)","type":"text","width":380,"x":780,"y":-240},
-		{"color":"3","height":120,"id":"afae00bec4200cb57742","mathmap_atom_id":"Cfddff031811208","mathmap_file":"Mathmap/概念或公式/列举法--Cfddff031811208.md","text":"[列举法](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%88%97%E4%B8%BE%E6%B3%95--Cfddff031811208.md)","type":"text","width":360,"x":0,"y":0},
-		{"color":"2","height":120,"id":"3d8a754e17a1a24cc53c","mathmap_atom_id":"K220f7750f094d2","mathmap_file":"Mathmap/知识点/列举法--000092.md","text":"[列举法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%97%E4%B8%BE%E6%B3%95--000092.md)","type":"text","width":360,"x":0,"y":300},
-		{"color":"3","height":120,"id":"2701675f3f7b5bf36ffd","mathmap_atom_id":"C437e99244c072f","mathmap_file":"Mathmap/概念或公式/描述法--C437e99244c072f.md","text":"[描述法](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%8F%8F%E8%BF%B0%E6%B3%95--C437e99244c072f.md)","type":"text","width":360,"x":0,"y":600},
-		{"color":"2","height":120,"id":"2ac91bee300280231432","mathmap_atom_id":"K62969d33a3fd7b","mathmap_file":"Mathmap/知识点/描述法--000093.md","text":"[描述法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8F%8F%E8%BF%B0%E6%B3%95--000093.md)","type":"text","width":360,"x":0,"y":900},
-		{"color":"3","height":120,"id":"0012e4705009136e0e95","mathmap_atom_id":"C877fae8ac041d6","mathmap_file":"Mathmap/概念或公式/集合--C877fae8ac041d6.md","text":"[集合](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E9%9B%86%E5%90%88--C877fae8ac041d6.md)","type":"text","width":360,"x":0,"y":1200},
-		{"color":"2","height":120,"id":"cdb7e02b7d6577033974","mathmap_atom_id":"Kb278718bbd453c","mathmap_file":"Mathmap/知识点/集合的概念--000091.md","text":"[集合的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%9B%86%E5%90%88%E7%9A%84%E6%A6%82%E5%BF%B5--000091.md)","type":"text","width":360,"x":0,"y":1500}
-	]
+  "edges": [
+    {
+      "fromNode": "3d8a754e17a1a24cc53c",
+      "fromSide": "top",
+      "id": "0a25fe7f6214d61bfe44",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "afae00bec4200cb57742",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "2ac91bee300280231432",
+      "fromSide": "top",
+      "id": "c61d7818485e71cee27f",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "2701675f3f7b5bf36ffd",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "cdb7e02b7d6577033974",
+      "fromSide": "top",
+      "id": "ccaea29d8f4b58489635",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "0012e4705009136e0e95",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-002",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "cef3d4f7d1017c86dfe3",
+      "text": "# 1.1 集合的概念\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "da595f1bb5260af8f594",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "afae00bec4200cb57742",
+      "mathmap_atom_id": "Cfddff031811208",
+      "mathmap_file": "Mathmap/概念或公式/概念-列举法.md",
+      "text": "[列举法](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%88%97%E4%B8%BE%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3d8a754e17a1a24cc53c",
+      "mathmap_atom_id": "K220f7750f094d2",
+      "mathmap_file": "Mathmap/知识点/知识点-列举法.md",
+      "text": "[列举法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%88%97%E4%B8%BE%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "2701675f3f7b5bf36ffd",
+      "mathmap_atom_id": "C437e99244c072f",
+      "mathmap_file": "Mathmap/概念或公式/概念-描述法.md",
+      "text": "[描述法](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E6%8F%8F%E8%BF%B0%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2ac91bee300280231432",
+      "mathmap_atom_id": "K62969d33a3fd7b",
+      "mathmap_file": "Mathmap/知识点/知识点-描述法.md",
+      "text": "[描述法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E6%8F%8F%E8%BF%B0%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "0012e4705009136e0e95",
+      "mathmap_atom_id": "C877fae8ac041d6",
+      "mathmap_file": "Mathmap/概念或公式/概念-集合.md",
+      "text": "[集合](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E9%9B%86%E5%90%88.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cdb7e02b7d6577033974",
+      "mathmap_atom_id": "Kb278718bbd453c",
+      "mathmap_file": "Mathmap/知识点/知识点-集合的概念.md",
+      "text": "[集合的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E9%9B%86%E5%90%88%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    }
+  ]
 }

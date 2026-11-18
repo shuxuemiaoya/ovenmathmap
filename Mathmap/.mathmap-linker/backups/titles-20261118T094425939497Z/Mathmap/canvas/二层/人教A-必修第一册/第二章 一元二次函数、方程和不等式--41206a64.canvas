@@ -1,0 +1,225 @@
+{
+  "edges": [
+    {
+      "fromNode": "140d76248f8a14ba0819",
+      "fromSide": "left",
+      "id": "ab58ac272aba494f6722",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "27112946ea51583f395e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "00372917d8dcfcae4fb7",
+      "fromSide": "right",
+      "id": "d6d104b7778729d380c5",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f676b004492abbdc3cd0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f676b004492abbdc3cd0",
+      "fromSide": "bottom",
+      "id": "4fd008408902be55c430",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "65246a98b47abdf97907",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f676b004492abbdc3cd0",
+      "fromSide": "right",
+      "id": "4a5c92527698105105a5",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "140d76248f8a14ba0819",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "13472e45e061a13bf08f",
+      "fromSide": "top",
+      "id": "9b0d515bd225393a9f86",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "c7b20d9e0436a910a964",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "二层",
+    "scope_key": "node-toc-011",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "74c672dffe8426f1b713",
+      "text": "# 第二章 一元二次函数、方程和不等式\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "62a015192b0bcf0653f1",
+      "text": "[返回上层知识图谱](../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "00372917d8dcfcae4fb7",
+      "mathmap_atom_id": "K3bcacf0304a097",
+      "mathmap_file": "Mathmap/知识点/不等关系与实数大小比较的基本事实--000112.md",
+      "text": "[不等关系与实数大小比较的基本事实](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%AE%9E%E6%95%B0%E5%A4%A7%E5%B0%8F%E6%AF%94%E8%BE%83%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E--000112.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "c7b20d9e0436a910a964",
+      "mathmap_atom_id": "C5362b7ffd90a5a",
+      "mathmap_file": "Mathmap/概念或公式/二次函数的零点--C5362b7ffd90a5a.md",
+      "text": "[二次函数的零点](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E9%9B%B6%E7%82%B9--C5362b7ffd90a5a.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "13472e45e061a13bf08f",
+      "mathmap_atom_id": "K5cf6b93e5ce77b",
+      "mathmap_file": "Mathmap/知识点/二次函数的零点与一元二次不等式的解法--000118.md",
+      "text": "[二次函数的零点与一元二次不等式的解法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9A%84%E9%9B%B6%E7%82%B9%E4%B8%8E%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E8%A7%A3%E6%B3%95--000118.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "27112946ea51583f395e",
+      "mathmap_atom_id": "C6b0d644f270a2a",
+      "mathmap_file": "Mathmap/概念或公式/基本不等式--C6b0d644f270a2a.md",
+      "text": "[基本不等式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F--C6b0d644f270a2a.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "65246a98b47abdf97907",
+      "mathmap_atom_id": "C576f9fa36d0ad8",
+      "mathmap_file": "Mathmap/概念或公式/重要不等式--C576f9fa36d0ad8.md",
+      "text": "[重要不等式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E9%87%8D%E8%A6%81%E4%B8%8D%E7%AD%89%E5%BC%8F--C576f9fa36d0ad8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f676b004492abbdc3cd0",
+      "mathmap_atom_id": "K5677a73468245a",
+      "mathmap_file": "Mathmap/知识点/重要不等式--000113.md",
+      "text": "[重要不等式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%87%8D%E8%A6%81%E4%B8%8D%E7%AD%89%E5%BC%8F--000113.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "140d76248f8a14ba0819",
+      "mathmap_atom_id": "K362cac22506aa4",
+      "mathmap_file": "Mathmap/知识点/基本不等式--000116.md",
+      "text": "[基本不等式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F--000116.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "045b33162f9118ec5c61",
+      "mathmap_atom_id": "K670e3482350236",
+      "mathmap_file": "Mathmap/知识点/一元二次不等式的概念--000117.md",
+      "text": "[一元二次不等式的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5--000117.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1420
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "06774fdc5b91be1f6c12",
+      "mathmap_atom_id": "K2ab6bb8b7304b8",
+      "mathmap_file": "Mathmap/知识点/不等式的性质--000115.md",
+      "text": "[不等式的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%80%A7%E8%B4%A8--000115.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 1420
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec79abdbdcf9d76de2f0",
+      "mathmap_atom_id": "K356e0f478d7663",
+      "mathmap_file": "Mathmap/知识点/等式的基本性质--000114.md",
+      "text": "[等式的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--000114.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 1420
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "2f3a46a4c224afe010e9",
+      "text": "[2.1 等式性质与不等式性质](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.1%20%E7%AD%89%E5%BC%8F%E6%80%A7%E8%B4%A8%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E6%80%A7%E8%B4%A8--5cd67262.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 1640
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "dc30341148665c452681",
+      "text": "[2.2 基本不等式](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.2%20%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%AD%89%E5%BC%8F--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 1640
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "23f5a57c287379c4e69d",
+      "text": "[2.3 二次函数与一元二次方程、不等式](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.3%20%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0%E4%B8%8E%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E3%80%81%E4%B8%8D%E7%AD%89%E5%BC%8F--151aa748.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 1640
+    }
+  ]
+}

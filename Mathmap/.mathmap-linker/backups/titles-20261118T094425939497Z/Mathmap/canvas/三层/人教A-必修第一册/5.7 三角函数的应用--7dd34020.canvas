@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-054",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "0ee7fa05f99d901f56ef",
+      "text": "# 5.7 三角函数的应用\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "b6ab13a871bf544cd2cd",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0--e6ce5609.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3b5e56c4b0e139cf8724",
+      "mathmap_atom_id": "K8d08e17f8dac53",
+      "mathmap_file": "Mathmap/知识点/函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型--000180.md",
+      "text": "[函数 y=Asin(ωx+φ) 的物理意义与简谐运动模型](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%20y%3DAsin%28%CF%89x%2B%CF%86%29%20%E7%9A%84%E7%89%A9%E7%90%86%E6%84%8F%E4%B9%89%E4%B8%8E%E7%AE%80%E8%B0%90%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B--000180.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

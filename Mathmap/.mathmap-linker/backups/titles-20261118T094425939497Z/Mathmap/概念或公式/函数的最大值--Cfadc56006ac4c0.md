@@ -1,0 +1,15 @@
+---
+id: "Cfadc56006ac4c0"
+kind: "concept_formula"
+title: "函数的最大值"
+---
+
+# 函数的最大值
+
+## 人教A版高中数学·必修第一册
+
+一般地，设函数 $y = f(x)$ 的定义域为 $D$ ，如果存在实数 $M$ 满足：
+(1) $\forall x \in D$ ，都有 $f(x) \leqslant M$ ;
+(2) $\exists x_0 \in D$ ，使得 $f(x_0) = M$ .
+那么，我们称 M 是函数 $y=f(x)$ 的最大值（maximum value）.
+

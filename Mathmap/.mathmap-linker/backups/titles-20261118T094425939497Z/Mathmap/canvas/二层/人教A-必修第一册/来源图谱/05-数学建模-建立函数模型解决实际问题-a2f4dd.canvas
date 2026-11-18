@@ -1,0 +1,74 @@
+{
+  "edges": [
+    {
+      "color": "#7A7A7A",
+      "fromEnd": "none",
+      "fromNode": "9f231d4df237a963",
+      "fromSide": "bottom",
+      "id": "361412eda58fcf93",
+      "label": "归属",
+      "toEnd": "arrow",
+      "toNode": "c40eec955c8a81f0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 414,
+      "id": "1b1057802f4ba803",
+      "label": "数学建模 建立函数模型解决实际问题",
+      "type": "group",
+      "width": 412,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 94,
+      "id": "c40eec955c8a81f0",
+      "text": "[⌕ 放大 · 章引入](../../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/05-01-%E7%AB%A0%E5%BC%95%E5%85%A5-97cbba.canvas)\n\n1 个展示原子 · 0 题",
+      "type": "text",
+      "width": 300,
+      "x": 56,
+      "y": 264
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "9f231d4df237a963",
+      "text": "[✦ 数学建模：建立函数模型解决实际问题](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%B4%BB%E5%8A%A8%E5%AF%BC%E5%BC%95--G21e18a68c09750.md) · [✦ 数学建模：建立函数模型解决实际问题](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E8%8C%B6%E6%B0%B4%E5%86%B7%E5%8D%B4%E4%B8%8E%E6%9C%80%E4%BD%B3%E9%A5%AE%E7%94%A8%E6%97%B6%E9%97%B4%E7%9A%84%E5%87%BD%E6%95%B0%E5%BB%BA%E6%A8%A1--P29d7c7a4042d6c.md) · [✦ 数学建模：建立函数模型解决实际问题](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%B4%BB%E5%8A%A8%E5%AE%9E%E6%96%BD%E4%B8%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A--Gd98dde6167237a.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "122df8c945365ba2",
+      "text": "# [数学建模 建立函数模型解决实际问题](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%20%E5%BB%BA%E7%AB%8B%E5%87%BD%E6%95%B0%E6%A8%A1%E5%9E%8B%E8%A7%A3%E5%86%B3%E5%AE%9E%E9%99%85%E9%97%AE%E9%A2%98.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "4b3e1361bba5de41",
+      "text": "[← 返回全书](../../../%E4%B8%80%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/overview.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "4e2ce088e46dc485",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}
