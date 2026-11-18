@@ -1,0 +1,36 @@
+---
+id: "gaozhong-bishuati-2027-b1:org-c2e926fe61c705fa:question_type"
+node_type: "organizer"
+view: "question_type"
+system_id: "gaozhong-bishuati-2027-b1"
+source_id: "gaozhong-bishuati-2027-b1"
+source: "2027版 高中必刷题数学必修第一册RJA"
+source_file: "05_第五章_三角函数/专题6_求_omega_的值或取值范围/专题6_求_omega_的值或取值范围.md"
+source_organizer_key: "org-c2e926fe61c705fa"
+parent_source_key: "org-a48746cae70c44e7"
+source_children: ["text-c2e926fe61c705fa", "text-a70fba850ea7f32b", "text-93d367af4f7e877a", "text-2d374eb99d9f3466", "text-1622b44d9691c1ff", "text-b7d7e760f150d0e4", "text-be101e641ec2298b", "text-05085a7ed992ca5f", "text-b3f43171bca4fe52", "text-2ecbe7633c49bf4d", "text-3149e4c26a2d7195", "text-4662f577f87e8da6", "text-82b342ce2d68db57", "text-b7e5eedffd0d34b8", "text-efeb92b876ee4758", "text-95748a14dcf16f54", "text-7d33ab7eaa72135d", "text-b0969230fc91bd0c", "text-8079aefd4e7e953f", "text-c655826609420773", "text-6c8abd347128f952", "text-1b871bb1898edfd4", "text-aba7f506e26ec291"]
+view_label: "按题型分类"
+source_order_preserved: true
+classification_dimension: "question_type"
+member_atom_ids: ["Q070000008244", "Q070000008245", "Q070000008246", "Q070000008247", "Q070000008248", "Q070000008249", "Q070000008250", "Q070000008251", "Q070000008252", "Q070000008253", "Q070000008254"]
+---
+
+# 专题6 求 omega 的值或取值范围
+
+- [1](../../../../%E4%B9%A0%E9%A2%98/Q070000008244.md)
+- [2](../../../../%E4%B9%A0%E9%A2%98/Q070000008245.md)
+- [3](../../../../%E4%B9%A0%E9%A2%98/Q070000008246.md)
+- [4](../../../../%E4%B9%A0%E9%A2%98/Q070000008247.md)
+- [5](../../../../%E4%B9%A0%E9%A2%98/Q070000008248.md)
+- [6](../../../../%E4%B9%A0%E9%A2%98/Q070000008249.md)
+- [7](../../../../%E4%B9%A0%E9%A2%98/Q070000008250.md)
+- [8](../../../../%E4%B9%A0%E9%A2%98/Q070000008251.md)
+- [9](../../../../%E4%B9%A0%E9%A2%98/Q070000008252.md)
+- [10](../../../../%E4%B9%A0%E9%A2%98/Q070000008253.md)
+- [11](../../../../%E4%B9%A0%E9%A2%98/Q070000008254.md)
+
+上级：[必刷题-必修第一册-2027](../%E5%BF%85%E5%88%B7%E9%A2%98-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C-2027.md)
+
+## 同一组织的其他视图
+
+- [知识串联](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E5%BF%85%E5%88%B7%E9%A2%98-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C-2027/05_%E7%AC%AC%E4%BA%94%E7%AB%A0_%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/%E4%B8%93%E9%A2%986_%E6%B1%82_omega_%E7%9A%84%E5%80%BC%E6%88%96%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4/%E4%B8%93%E9%A2%986_%E6%B1%82_omega_%E7%9A%84%E5%80%BC%E6%88%96%E5%8F%96%E5%80%BC%E8%8C%83%E5%9B%B4.md)

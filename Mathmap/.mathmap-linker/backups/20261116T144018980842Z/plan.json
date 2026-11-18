@@ -1,0 +1,3156 @@
+{
+  "applied": false,
+  "atom_contract": "source-independent/v2",
+  "changes": [
+    {
+      "destination": "Mathmap/知识点/椭圆焦点弦的焦长公式.md",
+      "sha256": "682aee869762d58f3bd72df6a699b6141867f477c6fd462f0c4b492df8f180ab"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦点弦的焦长公式.md",
+      "sha256": "97708c1a9a4ccdf42a5ebce71012778dc7e8d263b5a54419876947f507ae08f2"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆的焦准定义与焦半径公式.md",
+      "sha256": "00c0334b3e47393d570ad2204f5896f246b5b3984041c9aedd11e2c79bb4e187"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线的焦准定义与焦半径公式.md",
+      "sha256": "7302ea0e61f59c18ce5c4f43e6e85b1eae54c72978169f316961f6fe5e275f1a"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦半径乘积的转化.md",
+      "sha256": "5a83e49a7b811dfa717f1423f67e15a96340e2e2b92f182008ac6c18ce2cd464"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆的对称点斜率积性质.md",
+      "sha256": "c314e21ff670ba45fafbb1774fdfd1a9fcb3c4b12ed507b92481b39b3f04b41d"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线的对称点斜率积性质.md",
+      "sha256": "c8b6b686f7612a83fea2d22d73d413670625aca5699fde4b2d1b93d754f00bd6"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线中点弦的斜率关系.md",
+      "sha256": "0a5889bfb5dcb0ad4bc3a339fc4ef149607ee287516518e63e1df330b9dd7320"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆顶点弦的斜率比与定点.md",
+      "sha256": "379296720e725c83117f3175c97215fc7b9950403f810f9e8526c3c17f95cae9"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线的焦点弦与焦半径公式.md",
+      "sha256": "3d400b6a35a749d7a4244284c10ee29ebc6efb348e003ea9b1d8b6f05d68f8d9"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线焦点弦与准线的斜率关系.md",
+      "sha256": "89ef24fcaa2c7c7cbf14e1537b65b256e73283bd8713c11988a2ced685e92810"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆焦距和差的最值转化.md",
+      "sha256": "d886c7aa4ce7708dfa0b7454d447d96eb2f591a2bb882c570c1fd461254fe19e"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦距和差的最值转化.md",
+      "sha256": "423291ce1161e59c4e5073fce257dd1dd250c64d13636fac7cb1605d43cf8ab6"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线焦准距离的最值转化.md",
+      "sha256": "d953fee0a2d64b472600362c2c6529d904ddf3f7cbe2c9caf7a9afa6e7f62c65"
+    },
+    {
+      "destination": "Mathmap/知识点/阿波罗尼斯圆与圆锥曲线距离最值.md",
+      "sha256": "7817b5633cef6b19e2e5335387fbb61890688b759b8e64178e22dbe6dc1e658d"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥截面与圆锥曲线的类型.md",
+      "sha256": "6153f0a7493a6be86d9aa7b5973a0af61a58e1f2efdfda08465ec375859e1e99"
+    },
+    {
+      "destination": "Mathmap/知识点/丹德林双球模型与离心率.md",
+      "sha256": "6a065de5e55d855af150fe3bcba1595fcb1a30d6f71983cff9aad9dccd336550"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的焦比定理.md",
+      "sha256": "14ab359466f2a283cc192af9cd678a39b60d6503200ebfe902fbe6e114c72038"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦弦直角结构与离心率.md",
+      "sha256": "a86a908ce5d890175814f60168f213ffa10d2d6ffe5f362a4d4ed71a0abc8143"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦点到渐近线的距离.md",
+      "sha256": "c95805c2df6f6b1903adf24133df67e17a04f772cfc7a992640091bb9afb2d2f"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线渐近线相似三角形与离心率.md",
+      "sha256": "bc5020a2dcca2f31e4ff72bff555a6844d6f20c92ad6bb0c6ad1f0cda55a5307"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线大圆与渐近线交点坐标.md",
+      "sha256": "1d3b5aebe476c565ef34f5caab5881a46b79f39161d5cd5d3226a2a736aeb7a7"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆焦点张角与离心率范围.md",
+      "sha256": "f4111d00cd9eed430e7d2679f85a61afd75cb330482d198fe999cb9bcb580508"
+    },
+    {
+      "destination": "Mathmap/知识点/焦点三角形直角条件与离心率.md",
+      "sha256": "5d3651e54d6cac33cf98fa583ac715af078e52286e88e8e9c6983e61d2549d10"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆中心直角弦的距离定值.md",
+      "sha256": "a50bc3f160d2f2b98b0474e3c6e9f9b4a55bd6767c620d7d4c67c0e425cf2c1d"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线中垂线的截距定理.md",
+      "sha256": "da152cb401e0cde2039610cde004f915550db6f12fc3b9832ba516924aa58083"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆焦点三角形的面积与角度性质.md",
+      "sha256": "846bbc37a899699ccd7d22744537f474b5624048921ed83572a325ced7f998ba"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦点三角形的面积与角度性质.md",
+      "sha256": "a6a1f6a006e5ed99dc61278216b9ecfed682c6f0e019bbe9ffefeb085b0d454b"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆焦点三角形半角与离心率.md",
+      "sha256": "3051315fd516313acd52c9ca41536c81a2e7bff8ba623a8544a9f50cb1dc3500"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦点三角形半角与离心率.md",
+      "sha256": "5894d4f2796ce88a7745bf9c39d0f4e4d48ef2aecf3a416e4a411dd1eba97023"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆与双曲线的共焦点关系.md",
+      "sha256": "a67dccef8fcaa5f5b6c323a1f53c4010de2acb7a0924484e4c9a042a5b816e84"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线光学性质的切线与法线.md",
+      "sha256": "876a91c805635c70152b2e80d52181933f1554350dcfa6bcaa917d43c0450f7c"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆焦点三角形的内心与离心率.md",
+      "sha256": "e2a230bcdc5fa87d1df1e51bef104e24b130ab1500295f5474dda51fdcd12dfe"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆焦点三角形的旁心轨迹.md",
+      "sha256": "bc963d4a04c33d55b4119c70d5e4d5b2cd0be72a122862fc256420158413d45f"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦点三角形的内心轨迹.md",
+      "sha256": "d7771af9eaa3f880689ccedb9fb8c2609e61b73112c02142fba5d2432126c735"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线焦点三角形的旁心与离心率.md",
+      "sha256": "7ae30b8a97b39dd9f7c4fa88faf89be5098a610de8d739a42acb3947a14a8406"
+    },
+    {
+      "destination": "Mathmap/知识点/以圆锥曲线焦半径为直径的圆.md",
+      "sha256": "57500b7ee27896d25f636e6bfd50f98adc062419060fe619299073dbb0ddf54d"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线切线的垂足轨迹与大小圆.md",
+      "sha256": "43064ed1e6747a5e8a0073618c454b75d956d0a128d05a74c92155dbaa9bfae2"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的极点极线.md",
+      "sha256": "cc1652e840f4106e912ec532439beeeaf02e35fc6f78a7c8363edb0c02ee4f89"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线切线与切点弦方程的推导.md",
+      "sha256": "da6017b6f920033a5e6a1371e093ed01efaa3033e7cd992e1ecfe466e2f20942"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线切线与阿基米德三角形.md",
+      "sha256": "296481fc9d820bd4037e25130ab37b4abf4ab9896ab2c8122564b1cf447162d7"
+    },
+    {
+      "destination": "Mathmap/知识点/阿基米德三角形的面积公式.md",
+      "sha256": "530591cb6e67d3f4d35c2caf6828b1cf9d2739cb7d16f60723b48722b1cd08a0"
+    },
+    {
+      "destination": "Mathmap/知识点/阿基米德三角形的面积比与等比构造.md",
+      "sha256": "fd340736cd744f1492c3e20fa39dc9a6f1b3344f2d98c263d0e7a6315783a61c"
+    },
+    {
+      "destination": "Mathmap/知识点/向量旋转与坐标变换.md",
+      "sha256": "edc81ed9c97df9e9e250a2bdea3626ecb644e0963e9b01894094d3b9e73f1963"
+    },
+    {
+      "destination": "Mathmap/知识点/反比例函数的两点对合方程.md",
+      "sha256": "802bbe38a58d08d29212b7e5da151d31f4211350ed3d609dac433403fc011f34"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线的仿射换元与反比例模型.md",
+      "sha256": "14ae72597b96e592a875f0eb97d84711a1835dae8dc8447f355f7d85c5eae80a"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线中点弦的存在条件.md",
+      "sha256": "d2b6928ef6188c45dd5d1a1dc7695779a83438e69bcda41c8fe733a5c89f0ad9"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线切线渐近三角形的性质.md",
+      "sha256": "14fba87721c8b3094dc36ccae4ae0d7964798d9202c4a2eab49e587d933c686b"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆与直线联立的正设与反设.md",
+      "sha256": "9276cfdb4b09a54fbba5780ee033706a47ce298030b8ab8326188acca4d49f6f"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线与直线联立的交点条件.md",
+      "sha256": "c9b76afd2923b80cd22a2e2acc79118130bd9ae9395b1554c84d1bf0dafaa00d"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线过原点向量积的联立计算.md",
+      "sha256": "b00e5217fac1b732828511d13cde771d26fbd6f4d6191d6cbbf3fc496932a704"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线非原点向量积的联立计算.md",
+      "sha256": "0c88e55ae4a2247573bc8d72af27681dce8d5c5f15ffc2db5dd01c8dd293bf29"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆轴点弦的和积互换.md",
+      "sha256": "e4940270795e4751bfbd0020eae052a7ddbd99539fe8b22e01d907bf9660a450"
+    },
+    {
+      "destination": "Mathmap/知识点/非对称韦达表达式的对称化.md",
+      "sha256": "db4601a634d573ca4992c98e03c33c5fd9f3cc12daff4c877c66291ab493ee66"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线的两点联立方程与同构.md",
+      "sha256": "8d3ef5763ca7d4b5fe5ac9c13397f1b2d3c1151ff24ecbb298b678e654fbd449"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线平行弦的同构方程.md",
+      "sha256": "add3a51c22660e079733db056881818e3234bc1c167095e36c986a4d41113e7f"
+    },
+    {
+      "destination": "Mathmap/知识点/坐标同构与斜率同构的选择.md",
+      "sha256": "fdce15da8817cdacee6f741a2f28e2f6e32d08f8eb8a012d99b342c7f025579f"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆双切线与蒙日圆.md",
+      "sha256": "334911271049207ebeb1d0fbaa7c364a258f0cc8e1996608c874001d5e74cbcf"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆内准圆与斜率同构.md",
+      "sha256": "6235daacd01192db8007b1481bc8f228465485f02d826c47ec42f377231f2c22"
+    },
+    {
+      "destination": "Mathmap/知识点/斜率和积定值的同构方程.md",
+      "sha256": "d9ac4fcfb77be7fd68c3590d6cd380a4b3704a9c3053b731f2b584093ef65907"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线交点的坐标同解同构.md",
+      "sha256": "fad7648d034f7be67ab638ea68018eaa30be88ef999714625dddd1d1347a255d"
+    },
+    {
+      "destination": "Mathmap/知识点/定比分点的比值参数同构.md",
+      "sha256": "0fb44770510d28c6ca9bb2d19b49f56a597f7b90f43485824a496f83a0ff8696"
+    },
+    {
+      "destination": "Mathmap/知识点/曲线上定点斜率和积的齐次化.md",
+      "sha256": "1e5095e734bfc7a978cfc215263c33ceac978ee1b78c819fe89460f4bf3f9aa2"
+    },
+    {
+      "destination": "Mathmap/知识点/曲线外定点斜率和积的齐次化.md",
+      "sha256": "898666e0f158a469bf0b8fa1ce1745fcaa8107c31e53c8bf48357551d0dd35de"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆同轴轴点弦与顶点角斜率积.md",
+      "sha256": "33dfa290f4fab8000b0eff0503544dfe9f66d8f0327f211f0bcb37dd9f64239b"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆顶点弦斜率比的定值性质.md",
+      "sha256": "7d785db2cf20af335fe141e6705b8e30872968f64cdb2bd59ae8a94d317df816"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线轴点弦隐藏斜率和积.md",
+      "sha256": "682c4490e0627318fb24013cd239643b229eab4ce8cb64fea069727069e25ae9"
+    },
+    {
+      "destination": "Mathmap/知识点/三角形中线的斜率与倒数和关系.md",
+      "sha256": "a44eb0a1c6629480171d4bbf0f50b757d898a4e51a88be4f8e4e204bacca1a07"
+    },
+    {
+      "destination": "Mathmap/知识点/点差法求圆锥曲线弦中点轨迹.md",
+      "sha256": "0d1900b9d06fb6f5086bae42adb77d4741c9d9150408eea824bd77509a3acc7f"
+    },
+    {
+      "destination": "Mathmap/知识点/定比分点的坐标公式与内外分.md",
+      "sha256": "d62ef7e5c4888448a86f1a9fbf0aff73d8d80cbc4313503d35b277b48998126f"
+    },
+    {
+      "destination": "Mathmap/知识点/调和分点与圆锥曲线的极线关系.md",
+      "sha256": "1f7560d40926fe54075d335cd0ae061486131be36a788509d8cf70c209d8b94c"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线轴点弦的定比点差法.md",
+      "sha256": "8ec998f3fffde2eb06acb494f771dedcfcff57c5aa98b6bc2196eb4f416e0ebd"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线非轴点弦的定比点差法.md",
+      "sha256": "560117f44c7927839bc69e558c32d2a5aa88b18a2c75f5c9f6ae8a3e0deefbfd"
+    },
+    {
+      "destination": "Mathmap/知识点/直线的长度参数方程及其性质.md",
+      "sha256": "00d0840c21ba96bfbc3f437599e12b784373f619a6d8878d0309590e83797158"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线分弦定值的长度参数法.md",
+      "sha256": "c722ce3a6666a140886fc1ca0cd40a219347070bd28ce14c846a942edd99faa0"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆轴点分弦平方和的定值.md",
+      "sha256": "5d364325451597c5c8d5e0158e16acc9c86e2323345ac378f4d65aa247f67192"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的三角参数换元.md",
+      "sha256": "83c231432ee69b7382b698d117fd1c15745260d1b4f09192af63657dbb70d44d"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线切线的三角参数表示.md",
+      "sha256": "ecaaa758ed2d5b16b4c29121ffca8bac1838e0c8d0d0617cc8cd3943c2e45c70"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线顶点弦的万能三角代换.md",
+      "sha256": "15d7fa3a4cc8d1891227d9b812eefec964b58bc22b16a24dd951bdcfec7c89ee"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的复数模与辐角表示.md",
+      "sha256": "100c90818b883a3f0be6af7c66654d73ca2f8ca30d659f8393d6bb817a605c14"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线平行结构的复数换元.md",
+      "sha256": "087f6c7cb773579442520a3ce7a82045ea53c05fd410e55298b95cbf01b68071"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线垂直结构的复数换元.md",
+      "sha256": "54ba57022afbf044fee9312d97878ef253ec6df131f4cfb389d04b0777af2227"
+    },
+    {
+      "destination": "Mathmap/知识点/过两直线交点的直线系方程.md",
+      "sha256": "171b5dc7a50c3d2c52f1f091751b19722a90a0cbf3c283c5dc180ac3a1c7c22e"
+    },
+    {
+      "destination": "Mathmap/知识点/过直线与圆交点的圆系方程.md",
+      "sha256": "629cb701d6e3a1a36f31eb5d6986f9a930135ef8a16b7b14d36af2b14124daa0"
+    },
+    {
+      "destination": "Mathmap/知识点/相交两圆公共弦的方程.md",
+      "sha256": "de2a09b2689ea7d1411615c0d51bc11e594e3122994d2ae2771a82b2575c00e4"
+    },
+    {
+      "destination": "Mathmap/知识点/过两圆交点的圆系方程.md",
+      "sha256": "d02167145152d51fa1f8ea0ae99e3decb17e10c241ff204925d9fe85927c06e1"
+    },
+    {
+      "destination": "Mathmap/知识点/过圆切点的圆系方程.md",
+      "sha256": "9103ed487a203b45bbd6d207bcf7f5f8e624ffcd2efe9c905373f066c384470c"
+    },
+    {
+      "destination": "Mathmap/知识点/二次曲线系与四点共圆.md",
+      "sha256": "42152b2a8d1f4b6d9865ab02c15a1b5f06ae6db943d6a90683c6c068f99d8516"
+    },
+    {
+      "destination": "Mathmap/知识点/二次曲线四点共圆的斜率条件.md",
+      "sha256": "4a99c864435021a29a9bf2a93c2872ee17a1f17711405f49adf5897fd8c4843e"
+    },
+    {
+      "destination": "Mathmap/知识点/退化二次曲线与四点联立曲线系.md",
+      "sha256": "64dd16631a7f20741c4bbe92178faea226b5daa4c3c7179a5a445a8d9ca1113f"
+    },
+    {
+      "destination": "Mathmap/知识点/切线适配曲线系与斜率和积.md",
+      "sha256": "dd850a552ff77f2c748e2d20faf2520b2791a8ce8a1d4493235a8fbfb97ebf6b"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线与渐近线的退化曲线系.md",
+      "sha256": "c6939f0373bca425c97e40a94fa4f38ecf15785ceee4e05086fccd31828a7cfc"
+    },
+    {
+      "destination": "Mathmap/知识点/积化和差与和差化积公式.md",
+      "sha256": "8ac946d3d51ec14b49219bdf4e8dd80d05f0bb9aaa0beb89b0df4567b87fec1d"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线的两点对合方程与对合原理.md",
+      "sha256": "dbeab6d557f1aa637e4b7ee2c9bd27e3c488f8b8649172190bbdc8dddf5f32e8"
+    },
+    {
+      "destination": "Mathmap/知识点/反比例函数两点对合与数列构造.md",
+      "sha256": "0e0a9ab2846c426a409f4c307f84035f7be0dad97c0bab809f7b4ce68110ab46"
+    },
+    {
+      "destination": "Mathmap/知识点/等轴双曲线旋转与数列换元.md",
+      "sha256": "a7f0a8a6f31fa391e25357bb7a8d32fe49f98d4d3fea6fa9d0c68619387d3011"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线的蝴蝶定理.md",
+      "sha256": "f5bd20cbebcc64e9bfd0dc8a45bb9af11cde343951836a4e712972b965d670fa"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线切线与对合不动点.md",
+      "sha256": "6551fca12ec01e715ffe4592b2b64382dd77f8bb9190e82edf981ed4ad4ab654"
+    },
+    {
+      "destination": "Mathmap/知识点/平移抛物线的两点对合方程.md",
+      "sha256": "b22d5f9a6f9ee3010dd7b607c3bca1622d39c06b358bec80dc28e6f806450285"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆与双曲线的两点对合方程.md",
+      "sha256": "b191030b053d32481947087a2e4c6cdc3f9930a1f31eb990a4e092bc89aebda8"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线对合参数的对称关系.md",
+      "sha256": "4d3bab0922ea1221c070b27c594c3e938ff77c4816e59565bfbb8d0613e2d225"
+    },
+    {
+      "destination": "Mathmap/知识点/单比的定义与坐标性质.md",
+      "sha256": "59101b683888bd7f89ef6bde0923599c5d6a7d39f195ee1f982ac0bfd418ab07"
+    },
+    {
+      "destination": "Mathmap/知识点/交比的角元形式与射影不变性.md",
+      "sha256": "8d11e80d7a4b826c5c36eb23ed7e10e79c2b38ee1403a5e7d02cc318ec860fdf"
+    },
+    {
+      "destination": "Mathmap/知识点/轴上极点的调和共轭坐标.md",
+      "sha256": "8df1555c7f2a1522826c079e716b51ae4b4ac99d654f7a5feda46b8f19fed1cf"
+    },
+    {
+      "destination": "Mathmap/知识点/非轴极点的定比点差坐标关系.md",
+      "sha256": "03bcc2089e5c3bd5eefb850ae06d853d9745523cd4b1eaf930dec8de220c29c8"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线极点极线的配极性质.md",
+      "sha256": "5db90957d69b6e1189e9d9943a4b2fd35cc3c18ef0985605399e48b90ba2b38f"
+    },
+    {
+      "destination": "Mathmap/知识点/完全四边形与自极三角形.md",
+      "sha256": "2b3ef376fde5319d16968819f1730955bc1ad3571d5744da8613e6ccb0fa28c4"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的蝴蝶定理.md",
+      "sha256": "700c22c84a0b02646c153d0ab4d2f9f72a2fbadb2ea59e74f9e7ab108e3bd307"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的坎迪定理.md",
+      "sha256": "0c572f4f29b277343da4e4463873461e8656d601eed99e1df742dee6cb0d9c62"
+    },
+    {
+      "destination": "Mathmap/知识点/坎迪定理的平行中点推论.md",
+      "sha256": "8f2fb198d405169a60f6a2838309bbf8f85a72b148b354cd332b5a209e896871"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦弦常数与斜率转化.md",
+      "sha256": "44de0dda3732a56783b351cdc41743bba918d48dce7a1e5bf973199dfd33f19b"
+    },
+    {
+      "destination": "Mathmap/知识点/调和点列与点的对合.md",
+      "sha256": "b7a3e76002d3d3d7ec76d8a31f8ce54b40110729980cde3c871d94528914da72"
+    },
+    {
+      "destination": "Mathmap/知识点/调和线束的平行中点定理.md",
+      "sha256": "24caa7a0e724201789846bc117ae8c41f5b2a1075d949e19bd9c169b3d69ca5e"
+    },
+    {
+      "destination": "Mathmap/知识点/调和线束的斜率公式.md",
+      "sha256": "429765e203621a7b35f18b52c88d8bf46c4b07c512854db99ab58523b90b029b"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆斜率和为零与角平分线.md",
+      "sha256": "2d72fb03be597d2fb6895d88ae8d45a0104340502c10badb8b36bbce29a13592"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦准模型的角平分线.md",
+      "sha256": "1cf2efd645e058b9de9656e2e89aa6a93b54bb53209c32d82ee5527abe8b9658"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线斜率对合的原理与作图.md",
+      "sha256": "74136d84ad3ec953a9fcbd3008c492140056b1052c3bd53da8cbfbb50cb4a60b"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆顶点角与轴点弦的对合方程.md",
+      "sha256": "08b3089a16a549be14f686c59d257ef3b1d62bdf56e117c9d839575b9246d836"
+    },
+    {
+      "destination": "Mathmap/知识点/等轴双曲线内接三角形的垂心.md",
+      "sha256": "f0a2d77e227d6d6a2991165a09a1e12edc194a741d03627e09dbb254965e4c48"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆内接三角形外心的斜率关系.md",
+      "sha256": "139cd60a29df5e429eb4dc6725bc8ecbff847d6119be2f2de73dd0bd4ed471a9"
+    },
+    {
+      "destination": "Mathmap/知识点/三次方程韦达关系与斜率齐次化.md",
+      "sha256": "bdc34cb00e2f78705e61dbd27cf744a3486faa1fda40dcd48eb3a60bfcf4a0cd"
+    },
+    {
+      "destination": "Mathmap/知识点/帕斯卡定理及其逆定理.md",
+      "sha256": "6e4c3d4ca5421105d741447945929eccd9c7254b57e1dd245ce3d5f7de8b7e6d"
+    },
+    {
+      "destination": "Mathmap/知识点/布利安桑定理与退化形式.md",
+      "sha256": "9fcd32ce2c62366e22fd2e123959728bfcbbbbd4bcae0b1e69c9825b59bdd037"
+    },
+    {
+      "destination": "Mathmap/知识点/三角形切点连线与热尔岗点.md",
+      "sha256": "e95d2a9ce87b3343d89f59e04477ea64a9a7080971f85ea4a49efdee86e12baf"
+    },
+    {
+      "destination": "Mathmap/知识点/退化二次曲线的布利安桑点.md",
+      "sha256": "bc5110ba1139e49fd2212951bf742f80cc4d824f768720cb77cb80eae63df525"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线的共轭直径与双曲线渐近线.md",
+      "sha256": "3a90a589c07d1584847dbfb0512a4aad2dd20b95298c39466e345a84fa0fd372"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线双定点斜率调整原理.md",
+      "sha256": "f7b021bb076a4562ac197fa96f4cf58ee6959f1a2d350a8550ba0f50712ee2cf"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆仿射变换与面积伸缩.md",
+      "sha256": "be2ca18fa9d48d9d643a6d633b3a6874027d969fcc26978b9ab69da6d7e5ecb2"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆内切圆切线三角形的面积最值.md",
+      "sha256": "01e0b2f4f71e65873b91b510bf7a66046b063efdd67dca00f5814546e9cdf12a"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆共轭直径三角形的面积定值.md",
+      "sha256": "afd091500ac99a92933d0eb620b55e5cb7b747e817ca9ae8f92519f6d6d0fdc1"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆重心内接三角形的面积定值.md",
+      "sha256": "3e6049f39b30da4a87566d4c8c43ef6dc1d905da939334539397dcce4fefe5d5"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦长与面积和差转化.md",
+      "sha256": "9d52a95bd801cc2bf55b66433cf4cf6b591b1b4e596db4e2352b39a644550c54"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦弦中垂线与面积.md",
+      "sha256": "a5282a5d2f11aa58ec47d8650331b3f2b76fadeee41b8dc2098b1887ce1de88c"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线焦弦常数的面积比转化.md",
+      "sha256": "8d007253fb344a6bd8b7298a7e7257629529bd8a15e129bb830ecbd4dcf2ff55"
+    },
+    {
+      "destination": "Mathmap/知识点/三角形的坐标面积公式.md",
+      "sha256": "70810aa33070b2a84939c4e1fc91c1eaee866df288ddb9d3bbddaa7314706fa0"
+    },
+    {
+      "destination": "Mathmap/知识点/圆锥曲线共轭点的面积等比中项.md",
+      "sha256": "0d6c2913ccef0d27db106ef6c4a3d0169afe70a7129f247d83b29bba68073710"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/一_椭圆第一定义/一_椭圆第一定义.md",
+      "sha256": "f8182b5fa40dc3eaddb5d3507af3c8b4bbd03f6e442e4f66f8bedd770b8b3b0e"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/二_椭圆焦点弦/二_椭圆焦点弦.md",
+      "sha256": "831b58bce94d6494b550caf2a9b5b1ae0f3f974199732f4249d69abf412666b0"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/三_双曲线第一定义/三_双曲线第一定义.md",
+      "sha256": "77563ea3a944781746ada1a8ac6c9cdcc6db5d0c695bc74483ebd2c9f8163324"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/四_双曲线焦长公式/四_双曲线焦长公式.md",
+      "sha256": "dc89379cb0d4103317887a0a82c421a3f1cb8b6fa2f9792d3be7d383077d34aa"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/二_双曲线第二定义关于_比_/二_双曲线第二定义关于_比_.md",
+      "sha256": "b0eeca0c0784c32129dc15b7e635feaf7f1ccb4f685f03d39bc26a75c9104bcf"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/三_第二定义与_PF__1__cdot_PF__2__相关的结论/三_第二定义与_PF__1__cdot_PF__2__相关的结论.md",
+      "sha256": "2d363a3d2170b49a8c03b36c4e81a36c11d3831a23c29586b3bddf011b407c3d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/一_椭圆第三定义关于_积_/一_椭圆第三定义关于_积_.md",
+      "sha256": "6c2ab0c0ef25f4911639217a9956dd62dc91d892ab4860ef05c020c7c20ada6e"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/二_双曲线第三定义之_积_/二_双曲线第三定义之_积_.md",
+      "sha256": "cbb0ebf40bf0296eedcd0803b4a1e2e6f2155cf9f16f11777a1ec48f9efb26b6"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/三_第三定义与中点弦转化/三_第三定义与中点弦转化.md",
+      "sha256": "2afaf0db38816cb98c66c2287b6833c13aac743e383e0e47f68e14c60127aba1"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/四_第三定义转化为斜率比/四_第三定义转化为斜率比.md",
+      "sha256": "01b78f5fac47800bbd72d6f7ba4061e5961bd58bf7ecd35fb515ad51ad2daaa0"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第五节_抛物线的焦准翻译/一_焦点弦与焦半径公式/一_焦点弦与焦半径公式.md",
+      "sha256": "21c6634e580a109f12064977163390cd7bbf36f605fe04a53102f7c6a900f098"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第五节_抛物线的焦准翻译/二_焦准斜率关系与转化/二_焦准斜率关系与转化.md",
+      "sha256": "cabb6c8d019e843ec3b1042f38e9109fd785edf245e126271d418dc087de775f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第六节_长度最值问题之声东击西/三_抛物线最值问题/三_抛物线最值问题.md",
+      "sha256": "6cdcb95e061e199cf84a0c103e09c4d6cb75caf6fa20bb8029d7d5a4997a453b"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第六节_长度最值问题之声东击西/四_阿氏圆反演与圆锥曲线最值问题/四_阿氏圆反演与圆锥曲线最值问题.md",
+      "sha256": "3b8840f0725b8a1072637bbd9b12ea7c7f7f49b7212c6d63d70e008b82ab3932"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第七节_截口曲线与祖暅原理/一_截口曲线形成的圆锥曲线/一_截口曲线形成的圆锥曲线.md",
+      "sha256": "59001c4a00ff36336b6587bb358cb9a66232f42b28186fc624faca5554d383b7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第01章_圆锥曲线四定义/第七节_截口曲线与祖暅原理/二_丹德林双球模型与离心率/二_丹德林双球模型与离心率.md",
+      "sha256": "715d3947f515eee05c21ce44f4554bd498bdf0cd1b23da56396b12004a441460"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第一节_弦长体系下的焦长模型与焦比定理/一_通径相关的离心率/一_通径相关的离心率.md",
+      "sha256": "5bfebaf2b67c085036817b3a58597b5881b28ccacebab1f0a27d40405b6a4061"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第一节_弦长体系下的焦长模型与焦比定理/二_焦点弦的化斜为直/二_焦点弦的化斜为直.md",
+      "sha256": "955a8329e7e0f75e8d132622172dac956f7bdb869be87d920f21fddf6f2aec74"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第一节_弦长体系下的焦长模型与焦比定理/三_焦点弦比值与离心率/三_焦点弦比值与离心率.md",
+      "sha256": "47a6bb73c6eadb5f57eadd361cf0b0d36719038b1784aaba3afdf824e1ef500b"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第一节_弦长体系下的焦长模型与焦比定理/四_焦点弦构造等腰三角形速解策略/四_焦点弦构造等腰三角形速解策略.md",
+      "sha256": "fb7a5eb95a21ef14879180c4196977f3dba123961a8aedbeb3c043dff9000002"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第一节_弦长体系下的焦长模型与焦比定理/五_椭圆与双曲线的焦弦直角体与离心率/五_椭圆与双曲线的焦弦直角体与离心率.md",
+      "sha256": "1099e9086c234be1f07ff64de504aaba00770b5014133794435b990baf5a57c4"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第二节_几何性质下的渐近线模型/一_焦点到渐近线距离构造特征三角形/一_焦点到渐近线距离构造特征三角形.md",
+      "sha256": "6129609cc40765d9dfcf67f4d9001a3627166319d5d148f5c7010973ad5fdf4e"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第二节_几何性质下的渐近线模型/二_渐近线相似三角形比值与离心率/二_渐近线相似三角形比值与离心率.md",
+      "sha256": "83cfff13cc0aa651fb669ae38e5b08f429b8b1f2d36f62b9120b0e12ec7ad012"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第二节_几何性质下的渐近线模型/三_大圆与渐近线交点构造坐标特征三角形/三_大圆与渐近线交点构造坐标特征三角形.md",
+      "sha256": "5f6437d93bf544046f11d0e8f87b1ef902772d63e4264c40c9a5324bcca83ab9"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/一_短轴端点处_angle_F__1_PF__2__张角最大/一_短轴端点处_angle_F__1_PF__2__张角最大.md",
+      "sha256": "f44f595f70e952ef5029c4b938de51daed6e86e75c8b64d7f4ce21315f50b13d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/二_直角_angle_F__1_PF__2__的约束/二_直角_angle_F__1_PF__2__的约束.md",
+      "sha256": "4b012b70d0ee084e045bb9c4a71e9c79722af50c90088c26d0d29855e12ff285"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/三_向量乘积与极化恒等式的约束/三_向量乘积与极化恒等式的约束.md",
+      "sha256": "6a9e4ac3734d59ca2c2e2765aa6b05f19e1e6377d5f6e7a1cb154aaac87d73a2"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/四_弦长与角度范围约束/四_弦长与角度范围约束.md",
+      "sha256": "4c5e4d08b5365c8e5c0805d915b8bf230319c7b11069f7b1cd515d725cdc5ee3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/五_圆心角_angle_AOB_为直角在椭圆内的约束/五_圆心角_angle_AOB_为直角在椭圆内的约束.md",
+      "sha256": "c68d2449699086d5843d3cb64c86a90ebd931d7da6e481bc82da724e66185482"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/六_中垂线定理与离心率限定/六_中垂线定理与离心率限定.md",
+      "sha256": "60339e9a1a6cfd38f7ae7d5a6f9f86240b2b56681e3c3a52b2f972e62476b579"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/一_椭圆焦点三角形的性质/一_椭圆焦点三角形的性质.md",
+      "sha256": "bde8b80c11800e85f51140774f694ab0848cbf5388843df06240b3234e045527"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/二_双曲线焦点三角形性质/二_双曲线焦点三角形性质.md",
+      "sha256": "1a209b72960a74d54bbd6926fa342138ac7accdff57dd77cfab9c450fc10d3a4"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/三_椭圆焦点三角形两底角半角与离心率转化/三_椭圆焦点三角形两底角半角与离心率转化.md",
+      "sha256": "32ce24440dfb7138c649ebf6ea54d3e87fbc4b6e83beb1696d2c1eecf29526a1"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/四_双曲线焦点三角形两底角半角与离心率转化/四_双曲线焦点三角形两底角半角与离心率转化.md",
+      "sha256": "f12fe1f77c53c080c9483ad29ea0f040cd7d07a5144caf80452dc988ff94b189"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/五_椭圆双曲线共焦点问题/五_椭圆双曲线共焦点问题.md",
+      "sha256": "d4f208dc4b18fe431c4c21f29e37dd63d88c1c2d838c6ac820013093b2cd4170"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/二_光学性质切线法线定理/二_光学性质切线法线定理.md",
+      "sha256": "12186618ba77edffa222a60c3e32f86a162b68e0d4bf0c4cb9e18e66c8fbd5fa"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/三_光学性质与中垂线截距定理/三_光学性质与中垂线截距定理.md",
+      "sha256": "4d4daa5a13a8a4990b020bc4ade5833784a61944a17767f2d8ec116d9b2409f0"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第三节_三角形四心性质的应用/一_椭圆焦点三角形内心与离心率/一_椭圆焦点三角形内心与离心率.md",
+      "sha256": "c53fe46242686eb9bea45e89653a7ef7a0031e11280854084d3676dc18e0c228"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第三节_三角形四心性质的应用/二_椭圆焦点三角形旁心轨迹/二_椭圆焦点三角形旁心轨迹.md",
+      "sha256": "99efe32655dac58e325630e41554cba6d8e7e6c1bc94924670b21357e2319004"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第三节_三角形四心性质的应用/三_双曲线焦点三角形内心轨迹与双切圆/三_双曲线焦点三角形内心轨迹与双切圆.md",
+      "sha256": "9acb093fa4751fa37acc0e292e8c2d8dd5b70fe0ec4509281f5a27024f171528"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第三节_三角形四心性质的应用/四_双曲线焦点三角形旁心与离心率/四_双曲线焦点三角形旁心与离心率.md",
+      "sha256": "51398dd200731aa00269bc40cde072d85c7105c3f191848f902dceeb90b27a47"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/一_以圆锥曲线焦半径为直径的圆的性质/一_以圆锥曲线焦半径为直径的圆的性质.md",
+      "sha256": "a16df1217e09ec0542c7121c93e7fb5e398c04f21dc51200f916e0eef985d94c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第03章_几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/二_光学定理与大圆小圆问题/二_光学定理与大圆小圆问题.md",
+      "sha256": "5fe8877e64fcd4d1e32527828d03ab665196758776dd1046dad5e54252560459"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第一节_切线与切点弦/一_切线与切点弦的极点极线方程/一_切线与切点弦的极点极线方程.md",
+      "sha256": "37dc4bd8bcb3d514efa6ea7ce547e31ecc27b62fe2104b4651b7d4b45bf4a15f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第一节_切线与切点弦/二_切线方程和切点弦方程求法的书写过程/二_切线方程和切点弦方程求法的书写过程.md",
+      "sha256": "6db4d0f00ee5bd51842f99ca9524530160fc5c58e42857ac77c10b758897fbf8"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第一节_切线与切点弦/三_抛物线切线方程与阿基米德三角形/三_抛物线切线方程与阿基米德三角形.md",
+      "sha256": "328a4ac974e0215af7cf0ba84f2652c81d7f78c9cfc747da315887ac87fc209f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第一节_切线与切点弦/四_阿基米德三角形的面积问题/四_阿基米德三角形的面积问题.md",
+      "sha256": "6e3ee16a181e992a8feb19446d122227ec2e63f64ea759d6be3dd4adb5ea809c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第一节_切线与切点弦/五_新定义下的阿基米德三角形的面积与等比数列/五_新定义下的阿基米德三角形的面积与等比数列.md",
+      "sha256": "eaf1243491efc4633710621bb05087eae54dba751d13c13a20bcbc594635bb7c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/一_向量旋转公式与图像转化/一_向量旋转公式与图像转化.md",
+      "sha256": "70034e3d72b5327e548663aebc915725fdc4dac44f89a2c2dc856406ff5dc093"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/二_等轴双曲线与反比例函数转化/二_等轴双曲线与反比例函数转化.md",
+      "sha256": "0eaec2a995c610a1780e3a5b778516c4dd6d614c164309ca1a2eb5c737b428e6"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/三_非等轴双曲线的仿射换元/三_非等轴双曲线的仿射换元.md",
+      "sha256": "cd538c9b289123a2d0e8c6bb66ad7c222449cfd2a4e8c96eebe83bb1e933d369"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/四_退化二次曲线中点点差法/四_退化二次曲线中点点差法.md",
+      "sha256": "1311bce3c53e9666a6e969e26d0c1c25ef7b636d92667aaa2e4a3ef8150385c1"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第04章_小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/五_渐近切线三角形面积与向量积问题/五_渐近切线三角形面积与向量积问题.md",
+      "sha256": "ce8242044cfe4fb448e32135906a304f8e1132bd4a55b0ecb8c9760b9796597a"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第05章_常规韦达联立/第一节_正反设直线的方案选择/一_椭圆的正设与反设/一_椭圆的正设与反设.md",
+      "sha256": "e687bec5e8343714839bf5295de39704af5426e901d9c0df77b12628a889d78d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第05章_常规韦达联立/第一节_正反设直线的方案选择/二_双曲线的正设与反设/二_双曲线的正设与反设.md",
+      "sha256": "b949970112017b1ab315efb0a66f2b965f41458cc37fd5b8845fe6131af19627"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第05章_常规韦达联立/第二节_向量乘积中的翻译方法/一_过原点的向量乘积问题/一_过原点的向量乘积问题.md",
+      "sha256": "437040b07b8e5d5a437f7b98092cec12ed463424822ebb616b25130f8057f652"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第05章_常规韦达联立/第二节_向量乘积中的翻译方法/二_圆锥曲线中非原点向量乘积的问题/二_圆锥曲线中非原点向量乘积的问题.md",
+      "sha256": "8bcd863c2ebf1d47ddc3699c358807bb6e83c1136f81b165ccf97a109a39e952"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第05章_常规韦达联立/第三节_运算技巧下的韦达定理拓展/一_轴点弦的和积互换/一_轴点弦的和积互换.md",
+      "sha256": "c91ecc2511415647c74d783bc90518f4328294d0ee209fbc691f5392241076ab"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第05章_常规韦达联立/第三节_运算技巧下的韦达定理拓展/二_非对称韦达定理/二_非对称韦达定理.md",
+      "sha256": "2ee1c7a5b8ca804a94f3299cb216d98ac275f6d4b92cbaa2ec9cc55e5bc14659"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第一节_抛物线两点联立式方程/二_两点联立式下的双切圆/二_两点联立式下的双切圆.md",
+      "sha256": "8245cca8a32a7d18a46670dbe6c836044ca1e5af975377be1960b3fe2181c806"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第一节_抛物线两点联立式方程/三_两点联立式下的彭塞列闭合/三_两点联立式下的彭塞列闭合.md",
+      "sha256": "c5e2a100c5a71716fe1cabe8ae1ca7255027312f70dd7bdae1babb4ef0e7fb9f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第一节_抛物线两点联立式方程/五_两点联立式下的平行弦同构/五_两点联立式下的平行弦同构.md",
+      "sha256": "c34f7c20df2dc741f64cbac03a8ecb114948c61f491cabe1cac031e6e4267b57"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第二节_斜率同构式与坐标同构式的应用/四_双切椭圆的蒙日圆/四_双切椭圆的蒙日圆.md",
+      "sha256": "ddc142653f6b25937768c4f9c30caaaaa760b544669405667a0329d473b86d37"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第二节_斜率同构式与坐标同构式的应用/五_由内准圆引起的斜率同构/五_由内准圆引起的斜率同构.md",
+      "sha256": "679f0f5c9f10018286d164ba119bd0a4a389dd4e23eaab2f4f6b76679c5f7316"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第二节_斜率同构式与坐标同构式的应用/六_斜率和积为定值的同构/六_斜率和积为定值的同构.md",
+      "sha256": "23edba560c430b2452c6d6842f2075a8380f9c5c31e168c5ef64ed036262b390"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第二节_斜率同构式与坐标同构式的应用/七_坐标同解同构方程_外接圆_/七_坐标同解同构方程_外接圆_.md",
+      "sha256": "2c8815c44adf2bb3599722042851a452fa7ef7601a3e2f655b6fb45b3377bb0f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第二节_斜率同构式与坐标同构式的应用/八_双切曲线的斜率同解同构/八_双切曲线的斜率同解同构.md",
+      "sha256": "c96b004bb8d99aa3977b70e4868397397279c2fb9919ac81f16818e9203d9f44"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第06章_联立之同构方程/第三节_比值参数同构/第三节_比值参数同构.md",
+      "sha256": "dbf97480a438c1a91d4e0d38eb8e4a4785c08b9dd0798cee5a5795df9d43568f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/一_曲线上点斜率和积定值问题/一_曲线上点斜率和积定值问题.md",
+      "sha256": "006d57d36c5dc682e85463689b9cab952ce7b049d1fe06b24580240375734488"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/二_点_P_x_0__y_0__在圆锥曲线外的斜率和积为定值问题/二_点_P_x_0__y_0__在圆锥曲线外的斜率和积为定值问题.md",
+      "sha256": "5ac184c41c5dc5660334187a6f243811bc997de9ca45a773474d489bebadb5af"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/一_同轴轴点弦_顶点角隐藏的斜率之积/一_同轴轴点弦_顶点角隐藏的斜率之积.md",
+      "sha256": "beb326422c955b9ed2f4c77c4f9f81edea70245e7567ce49b4ba58551d86c907"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/二_隐藏的斜率之比/二_隐藏的斜率之比.md",
+      "sha256": "e77f41cb3ba2cf17f556c05e0716227ffd2a3a86d32b23ec19f22a631630adf5"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/四_平行于坐标系的中点斜率翻译/四_平行于坐标系的中点斜率翻译.md",
+      "sha256": "d9e3b6fba51759ad05f873377a09ccd21890c77c5fc93e80e26847fef4e4d9e3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/二_点差法与隐藏的中点轨迹问题/二_点差法与隐藏的中点轨迹问题.md",
+      "sha256": "e5d0ec516c19537d2e2adf2e79741345dd4645b073ed357d3df20fd8135203a7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/三_点差法与中垂线问题/三_点差法与中垂线问题.md",
+      "sha256": "8dc160d13203ee618aa82c817a60b55359c0f465a2fea04a32c4fbceb95f92aa"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第四节_定比点差法/二_调和点列与定比点差法/二_调和点列与定比点差法.md",
+      "sha256": "a4c4945c59755ad149f43bf6a9ec969c7697a9b5a239f2e74fa55ae9bfff9384"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第四节_定比点差法/三_定比点差法与轴点弦的三炮齐鸣/三_定比点差法与轴点弦的三炮齐鸣.md",
+      "sha256": "176e62ad84ba9317c50cfef75a4ba2b0a851310256d21afdc52293f7beb6122d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第07章_圆锥曲线常规数据处理方法/第四节_定比点差法/四_非轴点弦三炮齐鸣数据/四_非轴点弦三炮齐鸣数据.md",
+      "sha256": "e0fd2b7a66b8b379438f2a4659e00c7a2a28069dade823af75a13e5f62728616"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第一节_长度参数与直线参数方程/一_直线的参数方程形式与性质/一_直线的参数方程形式与性质.md",
+      "sha256": "3dd52a1710238bce7d91f62cfc8e793e293cd28184c6a4e6bcda1cfdf66845d1"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第一节_长度参数与直线参数方程/三_参数方程破解类圆幂定理/三_参数方程破解类圆幂定理.md",
+      "sha256": "a192c922a054634571bd46e013b91ccf685c78f5669c8cc124005df50858beb3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第一节_长度参数与直线参数方程/四_参数方程解决共线分弦定点定值/四_参数方程解决共线分弦定点定值.md",
+      "sha256": "6c91b2be2868e67c0a2b234f4501016651200b9958bdfcaa20817044d733319b"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第一节_长度参数与直线参数方程/五_对称轴上任意点分弦平方和成定值问题/五_对称轴上任意点分弦平方和成定值问题.md",
+      "sha256": "6bee19b92b19e49006f53f9fe1b0a0d68819c000d61c871353c36ae55d1a545d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/二_单动点三角换元解决二次曲线上的距离问题/二_单动点三角换元解决二次曲线上的距离问题.md",
+      "sha256": "0ae6db7d05274c64b493cf7588383959aec08d96e4bb44ca571c5ef34b85d6ee"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/四_三角换元破解切线单动点/四_三角换元破解切线单动点.md",
+      "sha256": "169b258382cc150380e0cc954cabf105aeb0ff008ac31750e6a576e7032854f7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/五_万能三角代换与顶点弦速解/五_万能三角代换与顶点弦速解.md",
+      "sha256": "0c2128fe923def80cb37558ac47075fb233fa08830299924df2d0238a79136e5"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第三节_复数变换与三角旋转/二_复数变换处理平行问题/二_复数变换处理平行问题.md",
+      "sha256": "0002e6a0cbdb67ace37cd305b398d19d236c45629c8da491f688ae65e62dc96c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第三节_复数变换与三角旋转/三_复数代换下圆锥曲线中的垂直问题/三_复数代换下圆锥曲线中的垂直问题.md",
+      "sha256": "7c2e46bee307bfd24add813ab955b30192e7e8adf0920bd839ff1c05391ee85d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第四节_直线系和圆系方程/一_直线系方程/一_直线系方程.md",
+      "sha256": "19f90beede79e9b2643290dc99fe259b4da7e2faf13b8fdd5060556e34aea6d7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第四节_直线系和圆系方程/二_过直线与圆交点的圆系方程/二_过直线与圆交点的圆系方程.md",
+      "sha256": "4e881f7760d58382e24adf355255dfe70f1bf3a406502c381b55b2e0151f72a3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第四节_直线系和圆系方程/三_相交两圆的公共弦/三_相交两圆的公共弦.md",
+      "sha256": "2b205764b29de78431ac7cf53c1c4c81252b0bf7819b539ced2c4170223d4785"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第四节_直线系和圆系方程/四_过圆与圆交点的圆系方程/四_过圆与圆交点的圆系方程.md",
+      "sha256": "2d46200b5e99466e60b02e21248cb79bc130a5636851079b7e9154cf647fba1f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第四节_直线系和圆系方程/五_过圆和切点的圆系方程/五_过圆和切点的圆系方程.md",
+      "sha256": "8fbd94afba434c7c34a647788f128d9fe1af9cb6fdf0e136acfbd7fe53cdd081"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第五节_二次曲线系与四点共圆/一_四点共圆曲线系原理/一_四点共圆曲线系原理.md",
+      "sha256": "1ba89b09c53930ba61c81faeacf27c4ac137ae3c0b61738ef733929be358449b"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第五节_二次曲线系与四点共圆/三_四点共圆的充要条件与数据/三_四点共圆的充要条件与数据.md",
+      "sha256": "c44f69bffd89a58c1b41cebd6363ffebb26f7c19968f47f60364f38f581d81b7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/四_曲线上三点构造切线的适配曲线系方程速解斜率和积/四_曲线上三点构造切线的适配曲线系方程速解斜率和积.md",
+      "sha256": "a87e2de6d39aa9dcfaf43182a6e241a8cfe0e2f38b84114c06654c43c3d44fb5"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第08章_联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/七_双曲线退化二次曲线系方程/七_双曲线退化二次曲线系方程.md",
+      "sha256": "760b08ed3ed943ba68e8d0a74333d7242eeaadefd63f2a5c8c27cffd05dc8d46"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第09章_圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/二_积化和差与和差化积综合应用/二_积化和差与和差化积综合应用.md",
+      "sha256": "44fb9374e40ef9f40ba4c4771af26d00d68d867acf1bcd5fd742053708524066"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/一_两点对合式构造双曲线中的等比数列/一_两点对合式构造双曲线中的等比数列.md",
+      "sha256": "2fd8cd8410f76adf69e679ed372e68a08c5344c6d81702578a142a922d6434c9"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/二_非等轴双曲线的仿射换元/二_非等轴双曲线的仿射换元.md",
+      "sha256": "6afcc8bcfa6f3674ecb3635a8ca37ba8e0bcf1ef3f9b3b845e67833d3ef264f6"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/一_抛物线蝴蝶定理/一_抛物线蝴蝶定理.md",
+      "sha256": "d54746e85fbc970aff9a0b1f955e6541a1145f83dc5559209c518fe320c934f2"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/二_切线与对合不动点/二_切线与对合不动点.md",
+      "sha256": "3e49c47b906fc2c9c6a838f4d18e6cf9c002a8eb775abe871d487efca781b649"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/三_平移顶点的抛物线两点对合方程/三_平移顶点的抛物线两点对合方程.md",
+      "sha256": "36084693db29df3bda1c633e2646673bcf93155e4364dce7affe351eb830c9b1"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第三节_椭圆双曲线的两点对合式/二_对合方程简化单动点模型/二_对合方程简化单动点模型.md",
+      "sha256": "3f0465e048b5179ec803d81e63c114bdb3d3d87e21b27776a6ac3c56c94f8490"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第10章_万能的两点对合式/第三节_椭圆双曲线的两点对合式/四_两点对合方程简化相切圆问题/四_两点对合方程简化相切圆问题.md",
+      "sha256": "f48188553996b9ed3c82f22c7b6132d7b0045737c74a69bc1c6a946d35e43a03"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第一节_单比与交比/一_单比的概念及性质/一_单比的概念及性质.md",
+      "sha256": "756bc1e9817b25d6ad1be02f71cbe659a689aa90680154f900aeaf3472317e15"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第一节_单比与交比/二_单比与交比/二_单比与交比.md",
+      "sha256": "d902ae52bbabf5aa353ac698f9ccd065dfef29475769cb643e43c9265f9e5ca7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第一节_单比与交比/三_调和点列与定比点差/三_调和点列与定比点差.md",
+      "sha256": "d849cd8c2b769ef6d536e134de1406469480b85c2bbbac8c4c85d979d9570ebf"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第一节_单比与交比/四_定点_极点_在坐标轴上的定比点差/四_定点_极点_在坐标轴上的定比点差.md",
+      "sha256": "f010680ad406a7240b0dca01e8f2669b50c699a301b7ef5f83f78758fb005782"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第一节_单比与交比/五_定点_极点_不在坐标轴上的定比点差/五_定点_极点_不在坐标轴上的定比点差.md",
+      "sha256": "33e14d350399ee9ca8314fca9bf2ff70cc76f358b051a86e91f6e233794a6657"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第二节_极点极线定义与自极三角形/四_完全四边形与自极三角形/四_完全四边形与自极三角形.md",
+      "sha256": "20221d76da51f66dcfbec709ee6a6c677f43b4e0676c52c80e64187f2614c734"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/一_蝴蝶定理/一_蝴蝶定理.md",
+      "sha256": "cc1a95ff10ef5269b49ee3c65d29a4d8ef262dd70bf216bcf0a3463b523e4e9e"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/三_坎迪定理中点推论/三_坎迪定理中点推论.md",
+      "sha256": "a3df3644a643d5cfb3885a44d96095bef9a2480a9c9e26d88147d7db6547e4b3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第11章_从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/四_利用对称和焦弦常数构造斜率关系/四_利用对称和焦弦常数构造斜率关系.md",
+      "sha256": "f9e0b38c9c45af144b69be908cac7003a725a50d7641239bef65c681f23dbf7c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第一节_调和点列与点的对合/第一节_调和点列与点的对合.md",
+      "sha256": "9456d2bad7bb9fe795c9fc3e1bde6eaeddd6310bfd345391c291d781624fe7bd"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/一_调和线束平行中点定理/一_调和线束平行中点定理.md",
+      "sha256": "05d07431cc604a909cb6b5b1d7d97ee7e1bb1f45c16146399f05f332bfdd6d69"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/二_调和线束斜率公式/二_调和线束斜率公式.md",
+      "sha256": "d342009b24f663adaf4484e5151d4fc52b7e7544be67877ded86dc124f2c9d4f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/一_斜率和为0与内外角平分线解读/一_斜率和为0与内外角平分线解读.md",
+      "sha256": "c5e364f77125f91f5c1be3763caf49af4f027db1ff04a97a26df4caa03d6468f"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/二_内外角平分线与焦准模型/二_内外角平分线与焦准模型.md",
+      "sha256": "a88760f19430e5e37e4313fe24115e736a36175aa717bb731b2a100f3fbd3f5e"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/三_内外角平分线隐藏阿氏圆/三_内外角平分线隐藏阿氏圆.md",
+      "sha256": "a990577a454798e0b343696f9bb4008ecc8ddfe7e676fd8dc194c10a11e8bc60"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/一_斜率对合的原理/一_斜率对合的原理.md",
+      "sha256": "0ba197b7436c66614ec6275ab3e9f5b99f7e30417643ca40ac36aca7ba4b7205"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/二_对合中心在无穷远点的特殊值/二_对合中心在无穷远点的特殊值.md",
+      "sha256": "cb722372390ec41eb67412e566ea07f9916794a33ad410e93971575add54e0d7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/三_和型对合_k__1____k__2__的三种模型/三_和型对合_k__1____k__2__的三种模型.md",
+      "sha256": "c4efd784f182d52bd771b9bbfdc8e74d3668964a5c21c367c4c59914e0977943"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/四_倒数和型斜率对合模型/四_倒数和型斜率对合模型.md",
+      "sha256": "c58d2e698ce23f1940d71896e77a0f0540acf09f21af0b44b5cdd54f534801b7"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/五_顶点角_同轴轴点弦的对合方程/五_顶点角_同轴轴点弦的对合方程.md",
+      "sha256": "dfc2e4569c3231c2345b61ec8c74ae8270592ca5c54b28d002f957dbf4361e15"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/六_积型_k__1_k__2__对合的多解问题/六_积型_k__1_k__2__对合的多解问题.md",
+      "sha256": "965cc7632677afcdf56a345f7f693e01ba953f9fc9e34706cf758d21911f27bb"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/七_二次型斜率对合方程模型/七_二次型斜率对合方程模型.md",
+      "sha256": "65a1a47482b2e5f95bfd694324e1975dc90a26e4b6a758e6f9d3a8105723c07a"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/二_等轴双曲线轮换对合与隐藏的垂心/二_等轴双曲线轮换对合与隐藏的垂心.md",
+      "sha256": "9e5b56c1843c439e05414788a25a07e55b70851cddc7458dc90d95fafa3c86f3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/四_三次方程韦达定理与三次齐次化方程/四_三次方程韦达定理与三次齐次化方程.md",
+      "sha256": "c09781d5671591506cf1e9e1d02b598c860c3dcbf8317b3e885f37b456d2b55c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/二_帕斯卡_Pascal_定理及其逆定理/二_帕斯卡_Pascal_定理及其逆定理.md",
+      "sha256": "5a45d88121ad06cffe7b66b335ee2703c13244af2c855eff3fd9a1545e7d2f09"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第12章_调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/二_热尔岗点/二_热尔岗点.md",
+      "sha256": "3b60b7bbcebf47ae0cdaa3e2285480eb982ac0f21a12db23441e41f9c44bfba2"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第13章_新定义下的斜率调整与仿射/第一节_斜率调整法/一_曲线上双定点单动点斜率调整原理/一_曲线上双定点单动点斜率调整原理.md",
+      "sha256": "a891ef2bfe7cbbf855c196de80f699d56ebd07c1f2fdbefa16b56afc152411eb"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第13章_新定义下的斜率调整与仿射/第二节_仿射法与面积转化/一_仿射法与面积变化/一_仿射法与面积变化.md",
+      "sha256": "75aae30c628a8a824cdce61e78315bba8cfed81ea21aa4d50966cfe7a64392e3"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第13章_新定义下的斜率调整与仿射/第二节_仿射法与面积转化/二_切点圆面积最值/二_切点圆面积最值.md",
+      "sha256": "98093c3c1852b4cfd4ad5f2c37719f6d863bbdca08ff9d3871664e452aeda4d5"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第13章_新定义下的斜率调整与仿射/第二节_仿射法与面积转化/三_斜率积仿射直角面积定值/三_斜率积仿射直角面积定值.md",
+      "sha256": "363c85d1cfba48487ec4caa1f9f1beaa3cc3b66d45b35b4462e62c2680f93e64"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第13章_新定义下的斜率调整与仿射/第二节_仿射法与面积转化/四_重心三角形面积定值问题/四_重心三角形面积定值问题.md",
+      "sha256": "a0a56829ced4256f5ec60b51641fd774aaa2ea51eb13058666a2e0ae9ddd56b9"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第一节_过焦点弦的面积问题/一_焦长转化为面积和差/一_焦长转化为面积和差.md",
+      "sha256": "f094f60e569e45d3969e0583f1075a3119993b54890072b9760de77fc32703a5"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第一节_过焦点弦的面积问题/四_焦弦中垂线与隐藏面积问题/四_焦弦中垂线与隐藏面积问题.md",
+      "sha256": "95d6b4faf23c60c6af6f18cb9607fdb5894403f5b52e5932274044a26606d69e"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第一节_过焦点弦的面积问题/五_隐藏的焦弦常数与三角形面积比值转化/五_隐藏的焦弦常数与三角形面积比值转化.md",
+      "sha256": "3ddeee4d4e6f7bb19cb19a7f086ddf9abab58d37061ec5d21049fbc31669e173"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第一节_过焦点弦的面积问题/八_焦半径与定比点差转化面积比值/八_焦半径与定比点差转化面积比值.md",
+      "sha256": "53d2a7beb8b04788f3e54a45e1d2e7e5af5a1280c1678a43f688c1699dc8497c"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第二节_坐标面积公式与面积最值/一_坐标面积公式推导/一_坐标面积公式推导.md",
+      "sha256": "b8cbdbe69d5cfa2fbbfb996094556871120c3d08b5797fca6d4f22247edaa27d"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第三节_面积比值转化问题/六_共轭点面积等比中项模型/六_共轭点面积等比中项模型.md",
+      "sha256": "dbadce28e5381f2e6939cf8730f24ad894c73b1844dc8811d5c46f1f6387d0b6"
+    },
+    {
+      "destination": "Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/下册/第14章_新定义下的面积转化/第三节_面积比值转化问题/七_双圆锥曲线的双动点构造面积比/七_双圆锥曲线的双动点构造面积比.md",
+      "sha256": "1a3499a9f84c9d6a939ec1a5683e7d4de2fd4718dc500ef58870248fc6988edc"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/一_椭圆第一定义.md",
+      "sha256": "b3cf8423400c9ac0078ceffe6687337f6a6374647a3ca1fbb5d183fdc37d69df"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/二_椭圆焦点弦.md",
+      "sha256": "a51c06bfcc2c4d05ec3528ddbf8aeb177650fa3ea593546c2e317caca48151fd"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/三_双曲线第一定义.md",
+      "sha256": "2403b3831b0b62d52ea129272764afeb4715bc4aea91b9c26735527f8b2c4f91"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/四_双曲线焦长公式.md",
+      "sha256": "1413349be6554918b63ffb73c8c22a5cd1b2f6f32159cb2050d8c99719412d55"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/第一节_椭圆双曲的轨迹翻译_第一定义.md",
+      "sha256": "53ac1f47e4bd8fe94f0d45d7907f8ac7e76e2a5e09edaadb747b21fb760fd881"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/二_双曲线第二定义关于_比_.md",
+      "sha256": "29c0e15815463a5f50d001f746bcc38f9b72bca87b71388f02f6c3866824db97"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/三_第二定义与_PF__1__cdot_PF__2__相关的结论.md",
+      "sha256": "bd65f3d38bf3bece45cffe5bd6c34330653de1e73cdc77bb891cf309560a8eb1"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/四_双曲线倍角定理.md",
+      "sha256": "1b46427754c0000b0807bbfe355e1673f6be6e9a212c7577aaf92e7cd78dd997"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/第二节_椭圆双曲的比值模型_第二定义.md",
+      "sha256": "c04234bb0d0c4b3f28a24644912c7e2b2f75c2eed4b17de63522b95ea736ec08"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/一_椭圆第三定义关于_积_.md",
+      "sha256": "af0f8c0271e514b98c35e616a23a4fe31105f9089f9810b3d3a655ae3c3e2914"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/二_双曲线第三定义之_积_.md",
+      "sha256": "281a160c34c4d13de5929a95c2d567e48329923043b1d4ed3528cd6fef7574ce"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/三_第三定义与中点弦转化.md",
+      "sha256": "e2d5b6f8f754269144e94535a935c17c5352f4fdf27e86ba70fb52fec62f871b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/四_第三定义转化为斜率比.md",
+      "sha256": "a0245137616b4ad56840d04487be3742f8eda6becc813381f228684b1d69639e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/第三节_椭圆双曲的斜率转化_第三定义.md",
+      "sha256": "048cc4578cef6addc8599893ad1589dc841899e305a7ad6d109afee8a7b9a2ee"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第四节_圆锥曲线的第四定义.md",
+      "sha256": "d085ee8a9a52d8460d979b8bd78413729eea0ece5d62e573f22f1f7837778585"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/一_焦点弦与焦半径公式.md",
+      "sha256": "438688cad2ec3831b79b538924f04b57c4ca80826ef7927016c1181290f29cc1"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/二_焦准斜率关系与转化.md",
+      "sha256": "c2ee70e90f1273c801ed5cb4e8a52fde5a3aeb93d617edcba082cd987473586e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/第五节_抛物线的焦准翻译.md",
+      "sha256": "cfa70284719b2beddf2fba27dc383bcc5a1dad7999d3f4d6b4620f04c6772a35"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/三_抛物线最值问题.md",
+      "sha256": "3e93036c6da2c380f8c39a0e71f40a834ddba4684e935d554835079f6bb6bbcb"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/四_阿氏圆反演与圆锥曲线最值问题.md",
+      "sha256": "73a4d1633a3c5f6692c5a13e562e1ff5c5ec5ac367f7a4e658bc62d8f44f7230"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/第六节_长度最值问题之声东击西.md",
+      "sha256": "0b75e0ddc9e23b3dda7989c14fabf4c02c0dac3df78401650207c62144c3e69c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/一_截口曲线形成的圆锥曲线.md",
+      "sha256": "abf7ee57463b683c342b6a836408cc7caada4851d7614e9435e134f7e7f0ee92"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/二_丹德林双球模型与离心率.md",
+      "sha256": "190e86249cac4b25e0d458b6ca811eccbec002be77c106cf5e278ea15a14acd3"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/三_祖暅原理.md",
+      "sha256": "9588ba9f2b4ce2261f93ea06805880cee061e7744a798657a0eccd061bad4463"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/第七节_截口曲线与祖暅原理.md",
+      "sha256": "6c307d9f596607410fe2749d87cf43bb939563b4690fff1696b0e12b7c40bd38"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/圆锥曲线四定义.md",
+      "sha256": "45a5a395a79152dc6c305ae3565c5b0c508fb5dde75cd24ebddf93728c64b3b0"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/一_通径相关的离心率.md",
+      "sha256": "3888c577b69db14f6e5308ab43084ce670b2e7c58ac6fbc37042506e662795d3"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/二_焦点弦的化斜为直.md",
+      "sha256": "17cc2bc5bb65d1eb4aa2969e5f95dc483e77320eba87142afbb724e34eab0eab"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/三_焦点弦比值与离心率.md",
+      "sha256": "45cf146874e6ee836beb38fc5fe686a432cf8bc64064df414b53e4b78a61c4ed"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/四_焦点弦构造等腰三角形速解策略.md",
+      "sha256": "37cba29e90d215a668c768eea1050acf6e0844f87d9acfe037b449e952e7477d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/五_椭圆与双曲线的焦弦直角体与离心率.md",
+      "sha256": "781d1f282dceb3f9f4e4ff7df9e6f3210b660767697596cd941388573b92b9d7"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/六_焦点弦的平行四边形对称化构造.md",
+      "sha256": "320075eb3fcf6d1dd2bc1c6c82177d02593ee36b14f60273e3da0aebaa75589c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/第一节_弦长体系下的焦长模型与焦比定理.md",
+      "sha256": "19ee3dd595e464dd519323e9c6fbc32579233931b060ffff5ea69237466f8352"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/一_焦点到渐近线距离构造特征三角形.md",
+      "sha256": "879d2d62b5b3667eccabc76d0850b3907ea170ca3b675e0e73fad46ab80f7a4f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/二_渐近线相似三角形比值与离心率.md",
+      "sha256": "4c438476ab6ac20df377cece4c321ff15145152ea2d4e6e0e8716857773da53a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/三_大圆与渐近线交点构造坐标特征三角形.md",
+      "sha256": "b2dc1e1e4498975674be062b8659cbed313f28803179a5139a35e78a21a91193"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/五_渐近线焦长公式推导方案.md",
+      "sha256": "da17b1c4123d0cf6a034a664b12fa855252dba5ef48965ade34cb3211373ab87"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/第二节_几何性质下的渐近线模型.md",
+      "sha256": "4acf604c62c777164a232dc1c18325ab0eac574e89d73aca2345b07ff947c398"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/一_短轴端点处_angle_F__1_PF__2__张角最大.md",
+      "sha256": "6e6a6dc4af628812c0810f636e88c3ba25e057a478f84c487714fd0c0344396b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/二_直角_angle_F__1_PF__2__的约束.md",
+      "sha256": "368a8634ab4ded38defecd08f5798da0dc360b9928d7bfad11ff1307ac170db4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/三_向量乘积与极化恒等式的约束.md",
+      "sha256": "0d2c366ece2e7762be7adca83f83fb7eea06042c4aef57971da83b664c7a7494"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/四_弦长与角度范围约束.md",
+      "sha256": "39aad674f4f27943919e2f32e96da79d492eb128ee98f3f286cbf5f638b297c2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/五_圆心角_angle_AOB_为直角在椭圆内的约束.md",
+      "sha256": "d159d0717f946dbccd6313a5c493dcad3394132fa4ba7a46ad3cd25748bceb44"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/六_中垂线定理与离心率限定.md",
+      "sha256": "986016c833f4a717c301c98fbd13340a9635e8a084ea29a333b2f5db644c2c2f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/第三节_长度与角度下的离心率范围约束.md",
+      "sha256": "2f80bb232fad379c15dcc81fd77a72153dc1ac1cac2898a484dddf2d69ff282d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/一_椭圆焦点三角形的性质.md",
+      "sha256": "b90e652307037f75362884e5f790030040312ebf1a308461461a5ffd1bec45d6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/二_双曲线焦点三角形性质.md",
+      "sha256": "208a026183a27f00558c2260798edf37275ae659a13726fcd775a76ffa1fd72f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/三_椭圆焦点三角形两底角半角与离心率转化.md",
+      "sha256": "b802482620b9da6e3dba41af9143e3c2396e809c533ce8bed96f272581f3e0e4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/四_双曲线焦点三角形两底角半角与离心率转化.md",
+      "sha256": "6b910f0da48b8c560e69166921a77270bee93e1a354a11cac0a1c4042147ca9a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/五_椭圆双曲线共焦点问题.md",
+      "sha256": "60e0a824c139d3ebbaeb9027db26bb3832e7ad969601a7f8391f17f6aff4a1cc"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形.md",
+      "sha256": "fb6c98fe8b71c8a98a5ee2cf9d220ec01c55fc9645aa9d394a963150b17fc017"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/二_光学性质切线法线定理.md",
+      "sha256": "304733f9aed4a78ebaec628b64e1d78b66302a12a17ddda6bbe5753a0f6aa4eb"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/三_光学性质与中垂线截距定理.md",
+      "sha256": "83a88b5e1234e26fe4be7a71693f2f1d46e67c6fb7b3779f71b0d9419911ffe2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/第二节_几何光学性质下的焦点三角形.md",
+      "sha256": "c05ef6df64a8a20c730c8e1e655247d5f8644aa962da747441d2e0a5e2abac68"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/一_椭圆焦点三角形内心与离心率.md",
+      "sha256": "d2f035d46def2a446208c77eec6da776517519b13d732c28e1edd87135a5596c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/二_椭圆焦点三角形旁心轨迹.md",
+      "sha256": "3517cb8890887745b40d91f08c86e0c00ce97a0a3434f58bc94f6a9437f8f0f1"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/三_双曲线焦点三角形内心轨迹与双切圆.md",
+      "sha256": "2d10daf70ed28615c60fde469f609517f0d9520200b6adb29fe729c4ad33bf7b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/四_双曲线焦点三角形旁心与离心率.md",
+      "sha256": "b4d8f6f2fc0cdc5cadba8611ecdbae63632eaeccdca9be1805dc5b393dbf87a7"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/第三节_三角形四心性质的应用.md",
+      "sha256": "9d149035a7e83ce5c2d7168616c2c69620e8a2ed77f48d7520874c37d9199334"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/一_以圆锥曲线焦半径为直径的圆的性质.md",
+      "sha256": "481007fa9c3b22c0701c0bc3eb1e42305f96027ea20d1a4f67c657ed9d00682f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/二_光学定理与大圆小圆问题.md",
+      "sha256": "c75e14a0f33dcbed6d8c0fe3c44f5e207bf548a092f4cdd652d7bc0eb428da1d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/第四节_焦点三角形与大小圆问题.md",
+      "sha256": "236fe487e83c2af7404c0ba92a0503bb183eac9dd98a9c87f511049bd0842f1d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/一_切线与切点弦的极点极线方程.md",
+      "sha256": "98bbc280ac43358b2e975fa714e8c0eaf65b1703f03ddc1fe06cbc23658e45f9"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/二_切线方程和切点弦方程求法的书写过程.md",
+      "sha256": "1b6e46ccc56653402343dde31b45da5e5a533893d84910804ab24311be46fad2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/三_抛物线切线方程与阿基米德三角形.md",
+      "sha256": "1341d94f03cbecead752f8df981ccdfc568043283bc39115364b91d2aae4647a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/四_阿基米德三角形的面积问题.md",
+      "sha256": "00ead61d69a7d3d49ce4ba3856cc9b6c947ec8feb12a32d9c9c499637d452148"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/五_新定义下的阿基米德三角形的面积与等比数列.md",
+      "sha256": "7ab49a069ab3e6242ffcf3569713eae46be6449c58564e0ce8ac6710641fa65d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/第一节_切线与切点弦.md",
+      "sha256": "caabeb6f288e6fb6bf540aeef504fa02a5a889cd14aadf8282576887a9f2dca6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/一_向量旋转公式与图像转化.md",
+      "sha256": "6174ddc14a61ad16b77544056991ccb30642a8f0eaf61f36934399710842c8de"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/二_等轴双曲线与反比例函数转化.md",
+      "sha256": "e1ffa834b7f9b34e849854e97eb6a45dc27d738def982d15b0e8ddbf7b285d5a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/三_非等轴双曲线的仿射换元.md",
+      "sha256": "8622a8ac2ef74aea6764074aba72692719ad5ceab29fd2b7d2e5efc12a4b97c6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/四_退化二次曲线中点点差法.md",
+      "sha256": "8d632ee3e349ac93a245e51b67b706cbdb77305201848ecc99f25df7efae5a34"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/五_渐近切线三角形面积与向量积问题.md",
+      "sha256": "8a668256b1538e1bbd65785cc79a92a68d43ab2884d2aa25a1a35ac1bf1d4543"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/第二节_坐标旋转与曲线转换.md",
+      "sha256": "1a5b879e7d66d5460ea447017983d628ef1f976406bb7a2a86bc6ba68c5f05bc"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/一_由定义和交点坐标构造的混合型.md",
+      "sha256": "6c6fd7d7a7a2ebb7937e378d59992ceddd82dd17851bb52f25c44c2333aef900"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/二_由斜率关系和共焦点构造的混合型.md",
+      "sha256": "b45c6baadc9bb3338b6c98654fa8656e7895acb6c31c73bb30cf6bbe469371fd"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/三_由斜率关系和中点弦构造的混合型.md",
+      "sha256": "853c41183fcd4b6797d8a6680861badca6d6ece4fc87faf21563627397901864"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/四_由圆锥曲线和三角代入计算的混合型.md",
+      "sha256": "71b66332f81f6b0afc260fa5cdbb5972acd4c756792e392b372f7371d172a0f2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/第三节_圆锥曲线之间的交点.md",
+      "sha256": "24d15d43097c0b2c3e101207221c858b75f19c0958849c4efd9ac2a2a52a42d7"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/一_椭圆的正设与反设.md",
+      "sha256": "bd8d82936552b1d45adf2380f5f9d826a92e52a787e0f618d0fc6594c0b68083"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/二_双曲线的正设与反设.md",
+      "sha256": "1725a10e7b72da1efddd0ee818620184da12cf4ec534f1f9049cfd1f4a71e291"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/第一节_正反设直线的方案选择.md",
+      "sha256": "69ff3131a115d58dede38db108697c8a6cacb4e6e70fa059e39c38c2d642917f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/一_过原点的向量乘积问题.md",
+      "sha256": "8897f2b2056f59675807506c13fd24f518fdd11c8b09205f20e2e1995a1a0b1e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/二_圆锥曲线中非原点向量乘积的问题.md",
+      "sha256": "002e5c3d16cc2006e1e7a141ede93d8450971e0b446b4c47566ac493b01d885c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/第二节_向量乘积中的翻译方法.md",
+      "sha256": "1d470db98adb17524f19f093d24362ea6d61db170a95d7100922a0187a8964f1"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/一_轴点弦的和积互换.md",
+      "sha256": "2f78c37e92a92ead2c1729f12122bde7333d3d28c3736ff93ed7f782b43ef183"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/二_非对称韦达定理.md",
+      "sha256": "e36c9517e2d328ceffeb58b3c1c1544febd78b8b058c047741fbeb8e15546b67"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/第三节_运算技巧下的韦达定理拓展.md",
+      "sha256": "74b5dd482fed2b2c59364dace670368337de6389061793338fa4394fa2fa7f6f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/一_抛物线两点联立式同构与定点定值.md",
+      "sha256": "5a72317bb22c3265b1ab7cac29e9911476f4e4b51adb41feb1955a6896a4ec16"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/二_两点联立式下的双切圆.md",
+      "sha256": "6ebc7fc88dedc6320bf8c39e5562e57926f9b672819c6aae7421a2a5ec83ceef"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/三_两点联立式下的彭塞列闭合.md",
+      "sha256": "dfe9ee5521bd2ae87176654353ac7ae99ad0874a7bfe6c183a47ebab461fe5b2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/五_两点联立式下的平行弦同构.md",
+      "sha256": "c1ab639a16ca67e109083f441da165ca78b06831f341d69fe6c96902dedf82de"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/第一节_抛物线两点联立式方程.md",
+      "sha256": "503dd29d491d356dd188b67cff3bcc1c8a1cd6a9ecbacfd20ad2e0cbb6748a16"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/二_圆锥曲线上的双切圆斜率同构.md",
+      "sha256": "59a8a1b08eb9bc20aaac1937792f2e575c6108865d6467cd9946e6ea4f35d1fe"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/三_双切椭圆双曲线的斜率同构.md",
+      "sha256": "3859b81c83268f94a68a5529d3d7d0f92221dde3a6718a40acd63518ca65b438"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/四_双切椭圆的蒙日圆.md",
+      "sha256": "6d75e7ce8a342209885a076d35c6c5e6eaa0af2ff2f2dbaaed568ebad0b5d9c6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/五_由内准圆引起的斜率同构.md",
+      "sha256": "1b545512b676e39a764bfc263c7819976701cebd6e6f171bd73a9cc461268cdb"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/六_斜率和积为定值的同构.md",
+      "sha256": "5b84fc6d0529d1ef10f978ce0903ec8c91491cea6ce0491ef24ae08f4716e191"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/七_坐标同解同构方程_外接圆_.md",
+      "sha256": "449ab3f20014b0ea2abfac9415dc6a608276aa0ae1f5b1f6373540e5c94df35d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/八_双切曲线的斜率同解同构.md",
+      "sha256": "aca7ec7bbda8b25b2e51fc26130f986896571b84b7a4cf9cd30408d8fe427b8f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/第二节_斜率同构式与坐标同构式的应用.md",
+      "sha256": "3e3330971081a5237e474468540dea4b46191374ce4b6feab943a07d1fdc84a4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第三节_比值参数同构.md",
+      "sha256": "0c9beddcf7f2bb6ffa6e87f102b0e52debb153cf4551f2e4e8e1c084aee013be"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/联立之同构方程.md",
+      "sha256": "471f399b9cbc6f1fadf7e365f7529b86b08858d029137bfb0823d4d7c5c4fd88"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/一_曲线上点斜率和积定值问题.md",
+      "sha256": "600610894d8398c12261bd4a48458ea5cdb6f6c6557698a7420166ca8fcadce0"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/二_点_P_x_0__y_0__在圆锥曲线外的斜率和积为定值问题.md",
+      "sha256": "2e9978afee255aa1af97f56406cf5acebb6c3a3953caa052b373e6585391d778"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/第一节_齐次化处理斜率和积问题.md",
+      "sha256": "ff1cab1bbe5d0a4cf760238f9c18ced4b5d41d5e3132d701e736f62d391daabc"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/一_同轴轴点弦_顶点角隐藏的斜率之积.md",
+      "sha256": "c65196afa59a48da625089c3dc2aaf17974d50787fcbcc2adac179c07f9deb72"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/二_隐藏的斜率之比.md",
+      "sha256": "dc3fc162c7d79e2d8ff2cc54bf4a2f59459de81728673e87d8d6296fcb4f2b32"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/四_平行于坐标系的中点斜率翻译.md",
+      "sha256": "923046e615e1e058a2254ed08afede10cc30974e35a716225d2778b00062272b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/第二节_隐藏的斜率和积问题.md",
+      "sha256": "f81365383a51c328d1f8409f82361f35dcf21c9873593cc739baf98c6c7db03f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/二_点差法与隐藏的中点轨迹问题.md",
+      "sha256": "daca2f7ad82385d1724c2905726a6c4b141e1e8e175fc8ce9f61228bf628d6b9"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/三_点差法与中垂线问题.md",
+      "sha256": "37724c7d87b8d91b9a5f95f868602cfcec851f8959cf54ac3fed82651ec41303"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/第三节_点差法与中垂线问题.md",
+      "sha256": "833aeb007b315bf7e0416f24cfb86f71b7f9026aa6f80a32c6c2068d77a663d1"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/二_调和点列与定比点差法.md",
+      "sha256": "997f1e32e6fe7bcd0fe12ea7c43b31117c7fa076041c39dff541f861bd6e4661"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/三_定比点差法与轴点弦的三炮齐鸣.md",
+      "sha256": "89ad8b4310795b341440c1b8be3d11a8349b74b176bc1b37228bb80862b95b00"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/四_非轴点弦三炮齐鸣数据.md",
+      "sha256": "73e3ab2644a533fedef2495b249c1a9e61294985fdc15695f03ff6bb67d320ea"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/第四节_定比点差法.md",
+      "sha256": "ea5e92fbbed4b1b548edbb270a4abf44c7a982ef1f8123ae1354511fbd382e47"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/一_直线的参数方程形式与性质.md",
+      "sha256": "ea4072128222c72c58128db484b57f96d1d3c9e4a5ef68e88d916bff14a019ff"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/二_直线参数方程与四点共圆.md",
+      "sha256": "ffbf99656b307371942b64a0702a291921b20b29725f325ee12273443d4a5c96"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/三_参数方程破解类圆幂定理.md",
+      "sha256": "30c35f4131e53fc5e4b0ff7b1045115c2b11eac19fde8f81a0ad903366bb43d4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/四_参数方程解决共线分弦定点定值.md",
+      "sha256": "0ef38532f70c03dbb9a58978b13ac72ec2733fc873aa89653b990d07b769f6e2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/五_对称轴上任意点分弦平方和成定值问题.md",
+      "sha256": "abd363e8b261c415fbe04fabb6c711e159c7901f56b5d7c6693336b6dc5abdc1"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/第一节_长度参数与直线参数方程.md",
+      "sha256": "b2ae6d0e1acba0a16ffc73e0dc5cc8048a07a8bf84e48df60aef4705d652622a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/二_单动点三角换元解决二次曲线上的距离问题.md",
+      "sha256": "b56ed94d44b0b64ca64d843f4c03885252e121e519921d2969d29bcfffd82bde"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/三_隐藏的轨迹方程与单动点三角换元.md",
+      "sha256": "73a20240eda6f052473200664f02a15601d6104b5cd946c4e2c2d2fc4445eeca"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/四_三角换元破解切线单动点.md",
+      "sha256": "6ba747f76e911dd69820098f6f502beaa5cba72a70dc973ba645a220a7af957e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/五_万能三角代换与顶点弦速解.md",
+      "sha256": "647f7b74695244394695ff5b4d3b103d5369a47679bccbf9523a5ea15f6d1d96"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/第二节_单动点与圆锥曲线参数方程.md",
+      "sha256": "da5e099221d7df159a92a3b58ffcac5463905a939d7fd2d30a41a76941384a35"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/二_复数变换处理平行问题.md",
+      "sha256": "dbdc6aa4c83fe0be1726804db64e254f34af79b4b9e05b6f6697bdef95097fd6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/三_复数代换下圆锥曲线中的垂直问题.md",
+      "sha256": "5deec71525c135ce16c5455636baa83636eb7263abcb6c5ca7e08ea3dd074659"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/四_复数代换下的切线几何性质挖掘.md",
+      "sha256": "b488f323b89243312ee25843be29b9e38683e843afce37c3ef5988fd3d40cc92"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/五_复数旋转下的等腰直角三角形.md",
+      "sha256": "24162ccee8fe258051af7ecba9b398438db4347d260b5cf5c1494af8b5a9d4fe"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/第三节_复数变换与三角旋转.md",
+      "sha256": "564085a08c7c09e4c6f89ba3a4f04c3b70bf93e9dbff4037769c8b56b703ef0c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/一_直线系方程.md",
+      "sha256": "6024924278d284807f0c96fae5179fb1fb8e99ce8e3df2d214027c2aca6c8db6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/二_过直线与圆交点的圆系方程.md",
+      "sha256": "c325372232bfda77a68b94f3a1dbefd4a6e08050c5e3aea27910c88862c1a153"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/三_相交两圆的公共弦.md",
+      "sha256": "589b1e388a9fa26b903727e09aa3f7bd78a2ed3982532cb1aee1698993e0e144"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/四_过圆与圆交点的圆系方程.md",
+      "sha256": "0c557c22fdfc8eab3ded54549027cbda72256fdd19855d1f13c5967e7a993152"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/五_过圆和切点的圆系方程.md",
+      "sha256": "438461220e70d63e0888761d2d7c65bb7fbd49d035aafadcf693b0a6988df4ab"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/第四节_直线系和圆系方程.md",
+      "sha256": "272f8714eab789ffcd741c10fe038298198f07d3512db310c80646acaf2d8242"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/一_四点共圆曲线系原理.md",
+      "sha256": "3f7b76d03a90ee0dd2d11e6ed2e9e0c7b936ab7eb93ead29c01321f830598f39"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/二_圆幂定理反推四点共圆.md",
+      "sha256": "e743dbc9e89069f76b8469ce59b171b256e79dfa1f91bb3f56f27604d0d3d297"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/三_四点共圆的充要条件与数据.md",
+      "sha256": "2c614e0b4c527a7e994ba5a99f7253177e0b5b03d03de23c800ab8af43ee346e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/四_外接圆与隐藏第四点的四点共圆.md",
+      "sha256": "24d3d5c0693bd84e84037e67fddeae2e0bcfa4cf5ee375807f26e5280d36dbd0"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/第五节_二次曲线系与四点共圆.md",
+      "sha256": "13feebf6ab94532cb6cd33225d0b055f6c1a6651ce6176ceb199726b27f09569"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/二_用曲线系方程破解高考极点极线题型.md",
+      "sha256": "60c106fc9cbc9dd98757fee32aa56186d82f25c29bcc02e556552beab80a3ebe"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/三_用曲线系速解坎迪定理.md",
+      "sha256": "490c66a9bd8bd29f05e585a4f34040d0ad581afba89d2aee395d9c005b10213a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/四_曲线上三点构造切线的适配曲线系方程速解斜率和积.md",
+      "sha256": "44653cdc2a182a7fc40d33fe6409f2f94875c38825e816d34b7643012d02bff4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/五_曲线系挖掘四点形斜率关系与隐藏轨迹.md",
+      "sha256": "5e5cb6f4bfd14ed18edc1cf26c333bc2bafce43d9436167ee359198a950ddf7b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/六_用曲线系破解彭塞列闭合定理.md",
+      "sha256": "afef5a134c23e4f93b394879b14f5b1f6ad5e89ae9adcd2b21ac9aebc01fdc34"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/七_双曲线退化二次曲线系方程.md",
+      "sha256": "988af685ac756fc50fbad820b8d14052b119b0ebafa17a428f82b5be8406c398"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/八_用退化二次曲线系方程破解浙江21高考压轴题.md",
+      "sha256": "375fdd1315ca7a191f17c70665939157825fdd54a005946b721b7e8f7ebc3897"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/第六节_二次曲线方程与四点联立曲线系.md",
+      "sha256": "629ea511507c50a9abf418ad8f7cefb6eaeb7f73a642ebe5de771731842fa4b9"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/一_隐藏圆的空间构造.md",
+      "sha256": "6447245f3f2b2d4d398c7aa628edb232bb05c1d8f92046dc711a9bb07981f71b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/二_椭圆柱的几何综合.md",
+      "sha256": "c54339ac272caee3c6431e7f34499496fd2a64a47a30129a5146d47618e9f381"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/三_折叠问题与圆锥曲线.md",
+      "sha256": "8f1ae6b0e47e2a7519e61fc57723d42aa6f2ecddc5b28a8f4fec614317cc94b9"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/第一节_圆锥曲线与立体几何综合.md",
+      "sha256": "9fee14c00db5f474f647a614bd8e00ab9dcc8b14f164a6da68867fcad8f9b4cc"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/一_联立构造三角的二次方程.md",
+      "sha256": "9ad946f907b7e4090e8c0c1c1c1f810e61556df6c29562cf2de0b0d67308983d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/二_积化和差与和差化积综合应用.md",
+      "sha256": "0a69d0e9ab051a1cd9d5309762cf9d3fd5306c115b05c93c970c35c4c8340eb5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/第二节_圆锥曲线与三角函数的综合.md",
+      "sha256": "9a3f82369e8c2903b7b26eeda67c76f121d225ffaddf3c5646dc8d2f22f913f5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/一_求交点个数.md",
+      "sha256": "280a85a9e0d33094ac4be0c74c2531bc490ccfe9d5203196bebe722f2bc749bd"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/二_对数均值与中值斜率的综合应用.md",
+      "sha256": "49d4b47ba39d03568a87520581e128c499a7335ddd118079d692338339c26665"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/第三节_圆锥曲线与导数的综合.md",
+      "sha256": "fe06f1d9bd31a77535df674b8191e20157b301f37d84cf959075775cf1e2e3df"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/一_交点坐标分类构造数列.md",
+      "sha256": "9168f577aee64a728a297e6ff0164c3952bf1cb9acdaff68e834454f8c37dc1c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/三_斜率关系构造定点与数列递推.md",
+      "sha256": "267de42341e2427ed90296913f366f22bad1e0b1bba3298499b5735aeb0b45e2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/第四节_圆锥曲线与数列综合.md",
+      "sha256": "d391498d9a6772157ed0f884a350f5eff8ddef10966dba41e7d37db80c68ab7f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/一_两点对合式构造双曲线中的等比数列.md",
+      "sha256": "48035d97523b783dbf646645649efa80716445529ade1a41fbbb1c88ae2b6b53"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/二_非等轴双曲线的仿射换元.md",
+      "sha256": "ec97b6b79aad310c3bae414fb0e5b09d8f0aff7f805c5f961867e755b88f3692"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/三_抛物线两点对合式构造等差等比数列.md",
+      "sha256": "3be621dc830c16071837ff4a1938cf4241af5b2a8515d5a7ccc88379b28f3c8f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/第一节_反比例对合方程解决圆锥曲线与数列综合.md",
+      "sha256": "ec5740b131606418f843e0363ae9e0c9bdd2bbe8301442ebf7133becb752b997"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/一_抛物线蝴蝶定理.md",
+      "sha256": "0514e32f8ea8028e82365bafe063b4560df79f39c8fabdd14434522acb05beeb"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/二_切线与对合不动点.md",
+      "sha256": "4aee39ddc17fc50844ba4e9e03bfbc8c8ba6aa7e7e6ff9f60a35ea3cf178c769"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/三_平移顶点的抛物线两点对合方程.md",
+      "sha256": "1d0b2b21d4f49e0df7046e80e3123bcc3150104c93a34830e861239431f6c899"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/第二节_抛物线切线对合与两点对合数列构造综合.md",
+      "sha256": "f61908c42cd4ded14f814eede1d6b91e65c65d6bbcb367ae56987bf67b8ed260"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/二_对合方程简化单动点模型.md",
+      "sha256": "56442f362f4dc2a8b43abc6f7ba57e615c14aa3ab75cb06438795942527220ff"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/三_对合方程简化斜率关系模型.md",
+      "sha256": "579c4a73c64fb5f989a9857336f985d70e26bfb37b445c0587176addd93c98f5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/四_两点对合方程简化相切圆问题.md",
+      "sha256": "f50cce4f10bed68b15a6bebaac8f278e7f69a20058634442451052fa501a69f5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/五_两点对合方程简化轮换对称问题.md",
+      "sha256": "7948fbec547590e9f3aec5abbc360b8bad0b1096bd94e1e218c2c6ad94a387d4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/第三节_椭圆双曲线的两点对合式.md",
+      "sha256": "8e0ddd44f78651fe194177cfe44c141b5faf4bd56c411065509fbc55430540d5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/一_单比的概念及性质.md",
+      "sha256": "eddd36e851b4924f5770a7596766afb5a5dd59323e2e9e42e24e15cdc9d7c644"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/二_单比与交比.md",
+      "sha256": "6da9e4f560b2f3bbda5218d3ecab060c49315405b23b7c4beb843d358f4ec83f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/三_调和点列与定比点差.md",
+      "sha256": "4b99a6e0976375ecaf87b3fe80857aed9683b1e8dd473a11cc8b5e561aa4f7ec"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/四_定点_极点_在坐标轴上的定比点差.md",
+      "sha256": "ac2b2abd538bf1022a37c4ef41b1e40282fc7057bf167ae3d83dc8396c9e5b68"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/五_定点_极点_不在坐标轴上的定比点差.md",
+      "sha256": "7886250dc09a538023f5a277d7aba89cee56e40ca37df6c915147f557c7c3da5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/第一节_单比与交比.md",
+      "sha256": "360e7d41b2def1c18644a23b6c3d28a9811eb2ead3e60e538f6fccc4a8442eff"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/四_完全四边形与自极三角形.md",
+      "sha256": "6dc37daf699665c1a8454305ee5848ee363da351bd505e6d9ac3790bb393ad01"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/第二节_极点极线定义与自极三角形.md",
+      "sha256": "db03856ad7ce18ad61f35557fc26ddcd1609b4b92d18081990d2338752a60d8c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/一_蝴蝶定理.md",
+      "sha256": "ee49edc04a1234282670afb03c261cc2feabb608786ca32ac815699251e628f5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/三_坎迪定理中点推论.md",
+      "sha256": "5336042d6d3afd54c0dd93434227082e1272db0a9454a3f6dd06e477f028d5f2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/四_利用对称和焦弦常数构造斜率关系.md",
+      "sha256": "0d9b73be092e10a50eafc8ffb343fee7e1752cfb759e176e7f29787853b7725c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/第三节_蝴蝶定理与坎迪定理.md",
+      "sha256": "9f868554228ab03ab690dd709d1683921f3af4de1844723af03058475019a453"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第一节_调和点列与点的对合.md",
+      "sha256": "e3582a45b8f68776707c58a536f295a39ff48fdaee66ece729cc7a053ff7325e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/一_调和线束平行中点定理.md",
+      "sha256": "da32747fa4ff538558bcb80a9e011b0df8ea4fa9a740f687f190a98f411d5116"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/二_调和线束斜率公式.md",
+      "sha256": "02ebce7da7e9e5f2556baa66f2c6d37b5725b903b026ffa43aeb48b9e3fe41a5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/第二节_调和线束两大定理的应用.md",
+      "sha256": "a98b37a8cb552bd7fabd256f9e13db3e02aa8a20905b2ee4e60ee5a304a0b437"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/一_斜率和为0与内外角平分线解读.md",
+      "sha256": "1cc48dea3a3e46593da32732006170921ead9b47e87ce014228b812553ea5e22"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/二_内外角平分线与焦准模型.md",
+      "sha256": "803a66471ba24a5429a23c66de86e91fe0f79fa3da97796b792d97afcf3c1fd6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/三_内外角平分线隐藏阿氏圆.md",
+      "sha256": "ffa5ad809b3a5d5223dd8bfab43b3dcabdfcdd3136885c2cb015866a434547d8"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/第三节_角平分线与调和点列.md",
+      "sha256": "738605ceaa5a90900e235d8cb33d5d13e85b48507c83e4b96e47166005468adc"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/一_斜率对合的原理.md",
+      "sha256": "4d8f71f38f5b4ff3100efc6690d99ce92add52a7e1e33edcce41f67a98046ba4"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/二_对合中心在无穷远点的特殊值.md",
+      "sha256": "8fd7f1462a6ec35b0a01077ff848577318902dd4032646e0531c94b7f0cde503"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/三_和型对合_k__1____k__2__的三种模型.md",
+      "sha256": "cb0f9286752d97a70f18e7a91517e2810aa6813dde9c7859df126e76ac52289d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/四_倒数和型斜率对合模型.md",
+      "sha256": "d752dc20f4f5517150b3ce052fca332b636dbabae08cbdca3bc93c9384e8f021"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/五_顶点角_同轴轴点弦的对合方程.md",
+      "sha256": "780bf00f33152c1c0575a2f57f35f5c07180f6e5ba5e9f34a004a105a1fc8631"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/六_积型_k__1_k__2__对合的多解问题.md",
+      "sha256": "916698105b6a1e1909a9603431391496150da4ec05bf4725598883fda61c5a99"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/七_二次型斜率对合方程模型.md",
+      "sha256": "e338920613a6b3e0419fb21f24f9b33dbc1f2998a079e9408078326bf6672dea"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/第四节_斜率对合与斜率翻译.md",
+      "sha256": "bb0582eb611c491c12ab31bcefb7eef0cb46d75ea9f4ce6041e98c8a3845899b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/一_椭圆内接三角形的外心斜率定理.md",
+      "sha256": "369c36295ebd5b133977c623d07bf840398b7a97a1d1b9577b7173e32be40dee"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/二_等轴双曲线轮换对合与隐藏的垂心.md",
+      "sha256": "27ac27f6ba64a0eb5884f2194137310c4e7f8f22a7eaf89233a40638f7876e98"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/四_三次方程韦达定理与三次齐次化方程.md",
+      "sha256": "59b940bf4a17e897baac30020b9061767fecea44bc0358628f6d097724f52003"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/第五节_斜率积的三次对合.md",
+      "sha256": "9f9102945f85a784c94ee2b292415e49cc1d2fbe173cfac463b851e4f3bd688e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/一_笛沙格对合.md",
+      "sha256": "f75db675cba0066eef286573ac3d4d87b964cd6995f36b3571ec6aba2d0417af"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/二_帕斯卡_Pascal_定理及其逆定理.md",
+      "sha256": "f833271747e243027a86ff8eed9fdd38fe8aee11ebd967622b36e20c1bfc52db"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/第六节_从笛沙格定理到帕斯卡定理.md",
+      "sha256": "53afa74fa530017e0311a18aca966eb6260c18cfe8044534bb4ea166529d2c26"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/二_热尔岗点.md",
+      "sha256": "f70bcb0fb0b397ee83ecbfb0bf29988cba8c718c12f3aa9c20942004b0fe669d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/第七节_帕斯卡定理与对偶定理布利安桑定理.md",
+      "sha256": "231016ee95e27d5cd3781242cfb4a0e8bfc2d2a18415a22f689a9af21281852b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/调和点列与调和线束定理与对合关系.md",
+      "sha256": "c80049958d7cc4fc7403ead0616ee1775d39b75d307014b96ac96b5cb3039ed5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/一_曲线上双定点单动点斜率调整原理.md",
+      "sha256": "4d13edaf5df962b9dc636988cc574ba682a32e6fe6eb89a774c5c1ae16b2e940"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/二_斜率调整与斜率表示.md",
+      "sha256": "952352b744ec34bd90f91e1cc151fcc24125dde3090e5629d86a28f9f592a525"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/三_斜率调整与对合的综合.md",
+      "sha256": "2a466371cbe73f49c29afc353ab6295c7858540bdac7690279831b7ce3d56174"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/四_斜率调整背景__斯坦纳定理.md",
+      "sha256": "305e3b4cbb7e8cbef49095cff82749b0fd582e6bed4e2c68f5bf47791994144d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/第一节_斜率调整法.md",
+      "sha256": "26c5be22dd23ec1777f1e45437bd5bd82da4b58ac4e80650515124b6cee6218a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/一_仿射法与面积变化.md",
+      "sha256": "a2d5fe9d8fc4e5f1d60e292cae71bf2a1991cec60c00180747411cabaf1a1ad3"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/二_切点圆面积最值.md",
+      "sha256": "7f53f1b02bc1ac37c2ac1cd34b9524d4773c6db055cd9b9caacb38e398344232"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/三_斜率积仿射直角面积定值.md",
+      "sha256": "d7da831bc7d717e3b206cd7eafdb3100bdf8c7b68222887349d6fc92829074f6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/四_重心三角形面积定值问题.md",
+      "sha256": "c6af875aae56f7e6b5ff4d70c6539de9298034d713807807b59087abc721da15"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/五_直径三角形面积最值问题.md",
+      "sha256": "d90bad269f5a8f92ff3f4165f6967d159ff24215add460eee10a8dd2c66f5e90"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/第二节_仿射法与面积转化.md",
+      "sha256": "be255f50818afaedfc1f78c61696d1413360cf1cbdc312b7b78ed63030622d22"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/一_焦长转化为面积和差.md",
+      "sha256": "1a9b88f99865c71de463451f8f31257f3b7635b73ad8049bd510e56a26434a94"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/二_焦点弦中点连线隐藏定点与面积转化.md",
+      "sha256": "24507f10767ef9cb3e0279f389b6b744bdd24a135efa781ce7fb2f2a471b71e6"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/三_焦点弦用角度转化斜率与面积.md",
+      "sha256": "0bebd39bd0eb19c76c280c0fc4c9c071f4ad03cedfb1d09e740b03b57f697323"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/四_焦弦中垂线与隐藏面积问题.md",
+      "sha256": "bf95cb1e4445971bcf980a01db6ab9268ae5547a79893a69e21e109e2cad3ef7"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/五_隐藏的焦弦常数与三角形面积比值转化.md",
+      "sha256": "141fde41d2a66880ee32519633681949c47dc6ace78a4f238f25847bc3174818"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/六_焦弦的截距与面积转化问题.md",
+      "sha256": "e531b34efadd7a364644d3e38df2b73c044f47c1560e8b06c4080e42631d040c"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/七_焦点准线关联与面积比值转化.md",
+      "sha256": "cf700feeab8c948a37ecf6ae5de861b2d8dadb4fa30081c76b13660dd2e339ea"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/八_焦半径与定比点差转化面积比值.md",
+      "sha256": "6ed5632a62f0a3fabb0923ee359df10bf5d02ab6362889c7ac5e5c083db095fd"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/第一节_过焦点弦的面积问题.md",
+      "sha256": "3f0a63b6bff2943d0868635f6589bd65ef3039c71a40aff735671f186ed19bfa"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/一_坐标面积公式推导.md",
+      "sha256": "5f0b8747e4653ecd81aa0af2c4ffc75879ed6159294b57ab5a2c30b9893362a7"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/二_坐标面积公式与柯西不等式求最值.md",
+      "sha256": "a1c71b8ababb4811ad1f24068b95ac7e0740d5bef0b3061cf4404fb7e16135af"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/第二节_坐标面积公式与面积最值.md",
+      "sha256": "4c1172f58be607fca080082eea6b7310dfca8c54e3e1dfa51cc50d31abf80cf9"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/一_利用极点极线关系将坐标转化面积比.md",
+      "sha256": "aecd09263cbc54faa97f7ab282ac0c35c8d4919ad5dea69b1c1f61dc38ed6a96"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/二_隐藏定点的斜率关系构造面积最值问题.md",
+      "sha256": "5140c5b90c417d7fbb157a3885111efc4b0dd75f9f3dd0b3ef7486d3968fb413"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/三_隐藏调和线束斜率关系与面积转化.md",
+      "sha256": "68635d7198afd0a48e8f93d4bfc29f5b5fed3d89d4f4173d8fdadf4d84ac27d0"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/四_由中点隐藏轨迹方程构造面积最值问题.md",
+      "sha256": "90af8f4d21832b164a294e137f28bdba45ee353e2da204d03b6472990f5561ec"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/五_由单动点三角换元构造面积比.md",
+      "sha256": "113c505a809f2be0b12b84e6632d62f7d5ec48ee9cb91a0f9423db84368ba11f"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/六_共轭点面积等比中项模型.md",
+      "sha256": "6af32bc039a9b442800f63c3dd4fc6c70272f3bf7da8cd86357331a50c4d6c8d"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/七_双圆锥曲线的双动点构造面积比.md",
+      "sha256": "60c9473fe392a4083a83b19958666e95989a6722ba9e71b533137a1003c4b822"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/第三节_面积比值转化问题.md",
+      "sha256": "ac3fe8c42980541b9a55b86fc32e6250a5c8125315bec2c243319e8062839b44"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/sources/mst-conics-2026.json",
+      "sha256": "ce75dfff01a76bfa4f504cf40107a55ac2aec5506f11329ee60e48a7270873ae"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/一_椭圆第二定义关于_比_.md",
+      "sha256": "cde709a4f303ae9a32d1136c011586aba011e1019d76184cc631b55ddfa4d07e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/一_椭圆最值问题.md",
+      "sha256": "b99ec90473b3c740f454b7709d23190d0ddc8cab933656868b33d649467d6bb5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/二_双曲线最值问题.md",
+      "sha256": "4667138b25e27edb99488de2ff9756e2f57d8de21164cf403613eb8ef169854e"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/一_光学性质概念.md",
+      "sha256": "aed2f6360115378105147a0e061a0eb34ffe1f6e7ca5e0edee24abf12b4676dd"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/一_坐标点式同构和斜率同构区别.md",
+      "sha256": "00659c9abae704def6dd7a6c141948371a9f2faa0e3e02ea539302a69598bf18"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/三_高考题中隐藏的斜率和与积关系.md",
+      "sha256": "076c5cc5438afb6e2af9e697597edbd256d50bb96af5b826af75b6a0959e1b40"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/一_点差法与中点弦.md",
+      "sha256": "972050f18f9f5e98b7b34bbc1d03272da7a36b460a971f82038035abcba6a930"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/一_定比分点概念.md",
+      "sha256": "6bf0f63cc2583434e68a21c7126f3235737b43ed5bd1e8da20073c392d9c9cb9"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/一_圆锥曲线参数换元形式.md",
+      "sha256": "77fa62ecd08c7926db1d2452408b0ab66928dbf62a7c2c353b48ff72532de285"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/一_复数的模与辐角表示圆锥曲线方程.md",
+      "sha256": "802cd797dabc5bd9d8c29e225122aec3822d00c98fa15217e77214667af21ddd"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/一_退化二次曲线对称轴不与坐标轴平行的曲线系.md",
+      "sha256": "8cf7cc1365a2745b70a18ed4abe559bbcbe8bac4b379052811bf98044cee553b"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/一_椭圆与双曲线的两点对合式.md",
+      "sha256": "8c553162ea272462bf0191bfdb6e73cd1b64c6f3e1424a63cd66f8511443a7d2"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/一_极点极线的定义.md",
+      "sha256": "7e14c5dddb595bebe775ae347c42c302381840dcf3921bd8e4bb5ed0605be1ed"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/三_极点极线的配极性质.md",
+      "sha256": "aa2772c430d2e6377d77b22126e97a7e712047d178a1f85526b76ecdb9a908f5"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/二_坎迪定理.md",
+      "sha256": "184cd37f663e664950a7c71740ca6f1415c563af15944c23a4f2f2d0ed93b6d7"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/三_等轴双曲线反演与二阶曲线外心.md",
+      "sha256": "b19cddbbd270362f64b1d9ee7acdb6255dd7ff6cca56f5f5779633ea1199e42a"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/一_布利安桑_Brianchon_定理与退化二次曲线联立.md",
+      "sha256": "c62f400153e39c036f400f64522ad2bef43fbc87094b2304eb1c09dfd6e85bc8"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/三_退化二次曲线的布利安桑点.md",
+      "sha256": "57074e8c3049695708ce4df6143d160279ff418e57f07cae4f79d54d6710a6df"
+    },
+    {
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/四_双曲线渐近线和共轭直径.md",
+      "sha256": "c55b125f3b597bf0c51262c073f2e9ce4fbf4f3d4603b08099eda28d7114621f"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆的定义与标准方程.md",
+      "sha256": "d06ece04286421a8a11533f386388a95039b9a68b63d1aa25ba1d8fb8ed5c54f"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "sha256": "b7fbe24dbbb31dd96f6b8c6be3931e51aabd6f2a34ba04d6f72d89c5d0e2113a"
+    },
+    {
+      "destination": "Mathmap/知识点/抛物线的定义与标准方程.md",
+      "sha256": "d1f523c75dc1a2f763df60db4983520801bc1102f525d834e7cc4701c5643346"
+    },
+    {
+      "destination": "Mathmap/知识点/阅读与思考 圆锥曲线的光学性质及其应用.md",
+      "sha256": "665b8dfe10ceb8b64f7e50a3161fe0b37b543c4166b196f60ac888e55e2465a3"
+    },
+    {
+      "destination": "Mathmap/知识点/圆的标准方程及其推导.md",
+      "sha256": "b0069eea05c1cdb6232595d66a5fbd464c0033f7b46a6a8cd810cd96c88532c9"
+    },
+    {
+      "destination": "Mathmap/知识点/导数符号与函数单调性.md",
+      "sha256": "a5f169ee133ddb082d4a5760024c0c22ff55f27665254a6fa6bbb973b0417e6f"
+    },
+    {
+      "destination": "Mathmap/知识点/椭圆的离心率.md",
+      "sha256": "869cc556aa8733a2f96cd5bb8f3eaababb5daef68e1058f30d91c4a55e011a24"
+    },
+    {
+      "destination": "Mathmap/知识点/等比数列的通项公式.md",
+      "sha256": "20a8daac270d643b3ec84a3bec69b43a6d38ebabdcd1319e3a5fe511a3b04656"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线的离心率.md",
+      "sha256": "f78dc96a877ee80e51c8fa332c56a74264436ffb369f8975ebe4208b4fa13739"
+    },
+    {
+      "destination": "Mathmap/知识点/双曲线的渐近线.md",
+      "sha256": "d017fb1f6dfe6b8a3c81bb63c427f38dee58f047203c765b9e8bfa6206c90c17"
+    },
+    {
+      "destination": "Mathmap/知识点/直线的点斜式与斜截式方程.md",
+      "sha256": "b424648b6486f762d93cd8a12e7f64e2f1bacbe3e941bb966dda00afccdfc6ca"
+    },
+    {
+      "destination": "Mathmap/知识点/探究与发现 方向向量与直线的参数方程.md",
+      "sha256": "55680877abacef6cc53785d1c6bc51cb9ae613ba136a22f91ed553565c6db17d"
+    },
+    {
+      "destination": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "sha256": "f258887d4d9ce33f9075f2eecf7730157a253782c4de025163f622a04c7dd0bc"
+    },
+    {
+      "destination": "Mathmap/知识点/空间距离与夹角的向量计算.md",
+      "sha256": "606845e4a8c2164955ef4ce83eed679dee8595b705e240ee2fd7714f77e085ec"
+    },
+    {
+      "destination": "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md",
+      "sha256": "a7509e9c7153d8f160edfe9cf11705650ab9f4b224937c9c5073c0e4ea9f51b9"
+    },
+    {
+      "destination": "Mathmap/知识点/平面向量数量积的坐标表示.md",
+      "sha256": "9a8f0a64de020fc0ad9b5c75604d2ac0f814f7f6ee9a4d46de52d83645e5a2b6"
+    },
+    {
+      "destination": "Mathmap/知识点/复数三角形式的乘除运算与几何意义.md",
+      "sha256": "c8ba32d3fa8de1450c5ebc7a676fd9db0b14001f3471ff8f74e2f167e907beee"
+    },
+    {
+      "destination": "Mathmap/知识点/祖暅原理.md",
+      "sha256": "07aede8fd4529a54b6263e8a979d9d88d7704416a61b56f79cf502ef6b11d8fb"
+    },
+    {
+      "destination": "Mathmap/.mathmap-linker/knowledge-contributions.json",
+      "sha256": "6af397b90ffc2ab45877d62ee64565fe17a541ec399a8d7ca66a2ec3f5393f9b"
+    }
+  ],
+  "conflicts": [],
+  "errors": [],
+  "exercise_integration": {
+    "candidates": 263,
+    "linked_types": 211,
+    "shared_pages": 18
+  },
+  "mode": "dry-run",
+  "relocations": [
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/四_双曲线焦长公式/四_双曲线焦长公式.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/四_双曲线焦长公式.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/五_椭圆双曲线共焦点问题/五_椭圆双曲线共焦点问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/五_椭圆双曲线共焦点问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/四_曲线上三点构造切线的适配曲线系方程速解斜率和积/四_曲线上三点构造切线的适配曲线系方程速解斜率和积.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/四_曲线上三点构造切线的适配曲线系方程速解斜率和积.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/三_坎迪定理中点推论/三_坎迪定理中点推论.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/三_坎迪定理中点推论.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/一_交点坐标分类构造数列/一_交点坐标分类构造数列.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/一_交点坐标分类构造数列.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/三_大圆与渐近线交点构造坐标特征三角形/三_大圆与渐近线交点构造坐标特征三角形.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/三_大圆与渐近线交点构造坐标特征三角形.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/一_定比分点概念/一_定比分点概念.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/一_定比分点概念.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第三节_比值参数同构/第三节_比值参数同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第三节_比值参数同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/一_椭圆内接三角形的外心斜率定理/一_椭圆内接三角形的外心斜率定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/一_椭圆内接三角形的外心斜率定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/二_调和线束斜率公式/二_调和线束斜率公式.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/二_调和线束斜率公式.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/六_斜率和积为定值的同构/六_斜率和积为定值的同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/六_斜率和积为定值的同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/三_极点极线的配极性质/三_极点极线的配极性质.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/三_极点极线的配极性质.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/二_双曲线焦点三角形性质/二_双曲线焦点三角形性质.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/二_双曲线焦点三角形性质.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/三_退化二次曲线的布利安桑点/三_退化二次曲线的布利安桑点.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/三_退化二次曲线的布利安桑点.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/四_由中点隐藏轨迹方程构造面积最值问题/四_由中点隐藏轨迹方程构造面积最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/四_由中点隐藏轨迹方程构造面积最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/一_仿射法与面积变化/一_仿射法与面积变化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/一_仿射法与面积变化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/三_双切椭圆双曲线的斜率同构/三_双切椭圆双曲线的斜率同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/三_双切椭圆双曲线的斜率同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/七_双曲线退化二次曲线系方程/七_双曲线退化二次曲线系方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/七_双曲线退化二次曲线系方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/四_非轴点弦三炮齐鸣数据/四_非轴点弦三炮齐鸣数据.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/四_非轴点弦三炮齐鸣数据.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/一_椭圆焦点三角形内心与离心率/一_椭圆焦点三角形内心与离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/一_椭圆焦点三角形内心与离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/四_退化二次曲线中点点差法/四_退化二次曲线中点点差法.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/四_退化二次曲线中点点差法.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/四_三次方程韦达定理与三次齐次化方程/四_三次方程韦达定理与三次齐次化方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/四_三次方程韦达定理与三次齐次化方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/三_光学性质与中垂线截距定理/三_光学性质与中垂线截距定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/三_光学性质与中垂线截距定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/一_焦点到渐近线距离构造特征三角形/一_焦点到渐近线距离构造特征三角形.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/一_焦点到渐近线距离构造特征三角形.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/三_斜率关系构造定点与数列递推/三_斜率关系构造定点与数列递推.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第四节_圆锥曲线与数列综合/三_斜率关系构造定点与数列递推.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/二_椭圆柱的几何综合/二_椭圆柱的几何综合.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/二_椭圆柱的几何综合.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/四_重心三角形面积定值问题/四_重心三角形面积定值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/四_重心三角形面积定值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/二_两点联立式下的双切圆/二_两点联立式下的双切圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/二_两点联立式下的双切圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/一_椭圆第二定义关于_比_/一_椭圆第二定义关于_比_.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/一_椭圆第二定义关于_比_.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/三_祖暅原理/三_祖暅原理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/三_祖暅原理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/二_圆锥曲线上的双切圆斜率同构/二_圆锥曲线上的双切圆斜率同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/二_圆锥曲线上的双切圆斜率同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/二_过直线与圆交点的圆系方程/二_过直线与圆交点的圆系方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/二_过直线与圆交点的圆系方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/三_斜率积仿射直角面积定值/三_斜率积仿射直角面积定值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/三_斜率积仿射直角面积定值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/一_单比的概念及性质/一_单比的概念及性质.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/一_单比的概念及性质.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/一_焦点弦与焦半径公式/一_焦点弦与焦半径公式.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/一_焦点弦与焦半径公式.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/一_坐标面积公式推导/一_坐标面积公式推导.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/一_坐标面积公式推导.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/二_坎迪定理/二_坎迪定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/二_坎迪定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/五_复数旋转下的等腰直角三角形/五_复数旋转下的等腰直角三角形.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/五_复数旋转下的等腰直角三角形.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/二_双曲线最值问题/二_双曲线最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/二_双曲线最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/二_丹德林双球模型与离心率/二_丹德林双球模型与离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/二_丹德林双球模型与离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/三_平移顶点的抛物线两点对合方程/三_平移顶点的抛物线两点对合方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/三_平移顶点的抛物线两点对合方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第四节_圆锥曲线的第四定义/第四节_圆锥曲线的第四定义.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第四节_圆锥曲线的第四定义.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/五_渐近线焦长公式推导方案/五_渐近线焦长公式推导方案.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/五_渐近线焦长公式推导方案.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第一节_调和点列与点的对合/第一节_调和点列与点的对合.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第一节_调和点列与点的对合.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/三_椭圆焦点三角形两底角半角与离心率转化/三_椭圆焦点三角形两底角半角与离心率转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/三_椭圆焦点三角形两底角半角与离心率转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/四_两点对合方程简化相切圆问题/四_两点对合方程简化相切圆问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/四_两点对合方程简化相切圆问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/二_对合中心在无穷远点的特殊值/二_对合中心在无穷远点的特殊值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/二_对合中心在无穷远点的特殊值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/一_通径相关的离心率/一_通径相关的离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/一_通径相关的离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/二_单比与交比/二_单比与交比.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/二_单比与交比.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/二_非等轴双曲线的仿射换元/二_非等轴双曲线的仿射换元.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/二_非等轴双曲线的仿射换元.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/三_相交两圆的公共弦/三_相交两圆的公共弦.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/三_相交两圆的公共弦.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/一_坐标点式同构和斜率同构区别/一_坐标点式同构和斜率同构区别.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/一_坐标点式同构和斜率同构区别.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/二_斜率调整与斜率表示/二_斜率调整与斜率表示.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/二_斜率调整与斜率表示.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/三_非等轴双曲线的仿射换元/三_非等轴双曲线的仿射换元.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/三_非等轴双曲线的仿射换元.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/五_万能三角代换与顶点弦速解/五_万能三角代换与顶点弦速解.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/五_万能三角代换与顶点弦速解.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/二_光学性质切线法线定理/二_光学性质切线法线定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/二_光学性质切线法线定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/二_内外角平分线与焦准模型/二_内外角平分线与焦准模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/二_内外角平分线与焦准模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/三_复数代换下圆锥曲线中的垂直问题/三_复数代换下圆锥曲线中的垂直问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/三_复数代换下圆锥曲线中的垂直问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/七_双圆锥曲线的双动点构造面积比/七_双圆锥曲线的双动点构造面积比.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/七_双圆锥曲线的双动点构造面积比.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/二_光学定理与大圆小圆问题/二_光学定理与大圆小圆问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/二_光学定理与大圆小圆问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/二_切点圆面积最值/二_切点圆面积最值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/二_切点圆面积最值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/一_调和线束平行中点定理/一_调和线束平行中点定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第二节_调和线束两大定理的应用/一_调和线束平行中点定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/五_圆心角_angle_AOB_为直角在椭圆内的约束/五_圆心角_angle_AOB_为直角在椭圆内的约束.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/五_圆心角_angle_AOB_为直角在椭圆内的约束.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/三_隐藏的轨迹方程与单动点三角换元/三_隐藏的轨迹方程与单动点三角换元.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/三_隐藏的轨迹方程与单动点三角换元.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/一_曲线上点斜率和积定值问题/一_曲线上点斜率和积定值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/一_曲线上点斜率和积定值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/一_四点共圆曲线系原理/一_四点共圆曲线系原理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/一_四点共圆曲线系原理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/一_直线的参数方程形式与性质/一_直线的参数方程形式与性质.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/一_直线的参数方程形式与性质.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/二_圆幂定理反推四点共圆/二_圆幂定理反推四点共圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/二_圆幂定理反推四点共圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/四_焦点弦构造等腰三角形速解策略/四_焦点弦构造等腰三角形速解策略.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/四_焦点弦构造等腰三角形速解策略.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/八_双切曲线的斜率同解同构/八_双切曲线的斜率同解同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/八_双切曲线的斜率同解同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/一_椭圆第三定义关于_积_/一_椭圆第三定义关于_积_.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/一_椭圆第三定义关于_积_.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/三_调和点列与定比点差/三_调和点列与定比点差.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/三_调和点列与定比点差.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/三_抛物线两点对合式构造等差等比数列/三_抛物线两点对合式构造等差等比数列.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/三_抛物线两点对合式构造等差等比数列.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/四_焦弦中垂线与隐藏面积问题/四_焦弦中垂线与隐藏面积问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/四_焦弦中垂线与隐藏面积问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/四_三角换元破解切线单动点/四_三角换元破解切线单动点.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/四_三角换元破解切线单动点.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/一_椭圆的正设与反设/一_椭圆的正设与反设.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/一_椭圆的正设与反设.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/一_抛物线两点联立式同构与定点定值/一_抛物线两点联立式同构与定点定值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/一_抛物线两点联立式同构与定点定值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/一_切线与切点弦的极点极线方程/一_切线与切点弦的极点极线方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/一_切线与切点弦的极点极线方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/一_向量旋转公式与图像转化/一_向量旋转公式与图像转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/一_向量旋转公式与图像转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/二_等轴双曲线轮换对合与隐藏的垂心/二_等轴双曲线轮换对合与隐藏的垂心.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/二_等轴双曲线轮换对合与隐藏的垂心.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/一_隐藏圆的空间构造/一_隐藏圆的空间构造.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/一_隐藏圆的空间构造.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/一_退化二次曲线对称轴不与坐标轴平行的曲线系/一_退化二次曲线对称轴不与坐标轴平行的曲线系.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/一_退化二次曲线对称轴不与坐标轴平行的曲线系.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/四_阿基米德三角形的面积问题/四_阿基米德三角形的面积问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/四_阿基米德三角形的面积问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/四_定点_极点_在坐标轴上的定比点差/四_定点_极点_在坐标轴上的定比点差.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/四_定点_极点_在坐标轴上的定比点差.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/一_曲线上双定点单动点斜率调整原理/一_曲线上双定点单动点斜率调整原理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/一_曲线上双定点单动点斜率调整原理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/三_和型对合_k__1____k__2__的三种模型/三_和型对合_k__1____k__2__的三种模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/三_和型对合_k__1____k__2__的三种模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/二_焦点弦的化斜为直/二_焦点弦的化斜为直.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/二_焦点弦的化斜为直.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/四_过圆与圆交点的圆系方程/四_过圆与圆交点的圆系方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/四_过圆与圆交点的圆系方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/一_椭圆焦点三角形的性质/一_椭圆焦点三角形的性质.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/一_椭圆焦点三角形的性质.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/一_截口曲线形成的圆锥曲线/一_截口曲线形成的圆锥曲线.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第七节_截口曲线与祖暅原理/一_截口曲线形成的圆锥曲线.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/二_切线与对合不动点/二_切线与对合不动点.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/二_切线与对合不动点.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/一_复数的模与辐角表示圆锥曲线方程/一_复数的模与辐角表示圆锥曲线方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/一_复数的模与辐角表示圆锥曲线方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/二_等轴双曲线与反比例函数转化/二_等轴双曲线与反比例函数转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/二_等轴双曲线与反比例函数转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/三_第三定义与中点弦转化/三_第三定义与中点弦转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/三_第三定义与中点弦转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/一_布利安桑_Brianchon_定理与退化二次曲线联立/一_布利安桑_Brianchon_定理与退化二次曲线联立.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/一_布利安桑_Brianchon_定理与退化二次曲线联立.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/三_隐藏调和线束斜率关系与面积转化/三_隐藏调和线束斜率关系与面积转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/三_隐藏调和线束斜率关系与面积转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/一_同轴轴点弦_顶点角隐藏的斜率之积/一_同轴轴点弦_顶点角隐藏的斜率之积.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/一_同轴轴点弦_顶点角隐藏的斜率之积.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/三_对合方程简化斜率关系模型/三_对合方程简化斜率关系模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/三_对合方程简化斜率关系模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/四_倒数和型斜率对合模型/四_倒数和型斜率对合模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/四_倒数和型斜率对合模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/三_向量乘积与极化恒等式的约束/三_向量乘积与极化恒等式的约束.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/三_向量乘积与极化恒等式的约束.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/二_非对称韦达定理/二_非对称韦达定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/二_非对称韦达定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/二_积化和差与和差化积综合应用/二_积化和差与和差化积综合应用.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/二_积化和差与和差化积综合应用.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/五_曲线系挖掘四点形斜率关系与隐藏轨迹/五_曲线系挖掘四点形斜率关系与隐藏轨迹.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/五_曲线系挖掘四点形斜率关系与隐藏轨迹.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/二_圆锥曲线中非原点向量乘积的问题/二_圆锥曲线中非原点向量乘积的问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/二_圆锥曲线中非原点向量乘积的问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/五_两点对合方程简化轮换对称问题/五_两点对合方程简化轮换对称问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/五_两点对合方程简化轮换对称问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/五_椭圆与双曲线的焦弦直角体与离心率/五_椭圆与双曲线的焦弦直角体与离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/五_椭圆与双曲线的焦弦直角体与离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/二_坐标面积公式与柯西不等式求最值/二_坐标面积公式与柯西不等式求最值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第二节_坐标面积公式与面积最值/二_坐标面积公式与柯西不等式求最值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/一_利用极点极线关系将坐标转化面积比/一_利用极点极线关系将坐标转化面积比.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/一_利用极点极线关系将坐标转化面积比.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/三_点差法与中垂线问题/三_点差法与中垂线问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/三_点差法与中垂线问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/三_双曲线第一定义/三_双曲线第一定义.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/三_双曲线第一定义.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/一_轴点弦的和积互换/一_轴点弦的和积互换.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第三节_运算技巧下的韦达定理拓展/一_轴点弦的和积互换.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/一_点差法与中点弦/一_点差法与中点弦.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/一_点差法与中点弦.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/四_复数代换下的切线几何性质挖掘/四_复数代换下的切线几何性质挖掘.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/四_复数代换下的切线几何性质挖掘.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/五_过圆和切点的圆系方程/五_过圆和切点的圆系方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/五_过圆和切点的圆系方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/三_第二定义与_PF__1__cdot_PF__2__相关的结论/三_第二定义与_PF__1__cdot_PF__2__相关的结论.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/三_第二定义与_PF__1__cdot_PF__2__相关的结论.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/一_光学性质概念/一_光学性质概念.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第二节_几何光学性质下的焦点三角形/一_光学性质概念.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/二_调和点列与定比点差法/二_调和点列与定比点差法.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/二_调和点列与定比点差法.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/三_焦点弦用角度转化斜率与面积/三_焦点弦用角度转化斜率与面积.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/三_焦点弦用角度转化斜率与面积.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/三_内外角平分线隐藏阿氏圆/三_内外角平分线隐藏阿氏圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/三_内外角平分线隐藏阿氏圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/四_双曲线焦点三角形两底角半角与离心率转化/四_双曲线焦点三角形两底角半角与离心率转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第一节_角度语言与坐标语言下的焦点三角形/四_双曲线焦点三角形两底角半角与离心率转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/五_直径三角形面积最值问题/五_直径三角形面积最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第二节_仿射法与面积转化/五_直径三角形面积最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/二_椭圆焦点三角形旁心轨迹/二_椭圆焦点三角形旁心轨迹.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/二_椭圆焦点三角形旁心轨迹.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/二_双曲线第二定义关于_比_/二_双曲线第二定义关于_比_.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/二_双曲线第二定义关于_比_.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/三_参数方程破解类圆幂定理/三_参数方程破解类圆幂定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/三_参数方程破解类圆幂定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/二_焦准斜率关系与转化/二_焦准斜率关系与转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第五节_抛物线的焦准翻译/二_焦准斜率关系与转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/五_定点_极点_不在坐标轴上的定比点差/五_定点_极点_不在坐标轴上的定比点差.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第一节_单比与交比/五_定点_极点_不在坐标轴上的定比点差.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/二_隐藏的斜率之比/二_隐藏的斜率之比.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/二_隐藏的斜率之比.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/二_热尔岗点/二_热尔岗点.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/二_热尔岗点.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/一_过原点的向量乘积问题/一_过原点的向量乘积问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第二节_向量乘积中的翻译方法/一_过原点的向量乘积问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/八_焦半径与定比点差转化面积比值/八_焦半径与定比点差转化面积比值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/八_焦半径与定比点差转化面积比值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/四_平行于坐标系的中点斜率翻译/四_平行于坐标系的中点斜率翻译.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/四_平行于坐标系的中点斜率翻译.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/三_由斜率关系和中点弦构造的混合型/三_由斜率关系和中点弦构造的混合型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/三_由斜率关系和中点弦构造的混合型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/二_隐藏定点的斜率关系构造面积最值问题/二_隐藏定点的斜率关系构造面积最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/二_隐藏定点的斜率关系构造面积最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/四_双曲线倍角定理/四_双曲线倍角定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第二节_椭圆双曲的比值模型_第二定义/四_双曲线倍角定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/四_外接圆与隐藏第四点的四点共圆/四_外接圆与隐藏第四点的四点共圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/四_外接圆与隐藏第四点的四点共圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/二_渐近线相似三角形比值与离心率/二_渐近线相似三角形比值与离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第二节_几何性质下的渐近线模型/二_渐近线相似三角形比值与离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/一_以圆锥曲线焦半径为直径的圆的性质/一_以圆锥曲线焦半径为直径的圆的性质.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第四节_焦点三角形与大小圆问题/一_以圆锥曲线焦半径为直径的圆的性质.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/六_用曲线系破解彭塞列闭合定理/六_用曲线系破解彭塞列闭合定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/六_用曲线系破解彭塞列闭合定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/七_二次型斜率对合方程模型/七_二次型斜率对合方程模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/七_二次型斜率对合方程模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/一_抛物线蝴蝶定理/一_抛物线蝴蝶定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第二节_抛物线切线对合与两点对合数列构造综合/一_抛物线蝴蝶定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/六_焦点弦的平行四边形对称化构造/六_焦点弦的平行四边形对称化构造.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/六_焦点弦的平行四边形对称化构造.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/一_由定义和交点坐标构造的混合型/一_由定义和交点坐标构造的混合型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/一_由定义和交点坐标构造的混合型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/三_高考题中隐藏的斜率和与积关系/三_高考题中隐藏的斜率和与积关系.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第二节_隐藏的斜率和积问题/三_高考题中隐藏的斜率和与积关系.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/五_隐藏的焦弦常数与三角形面积比值转化/五_隐藏的焦弦常数与三角形面积比值转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/五_隐藏的焦弦常数与三角形面积比值转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/一_直线系方程/一_直线系方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第四节_直线系和圆系方程/一_直线系方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/一_联立构造三角的二次方程/一_联立构造三角的二次方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第二节_圆锥曲线与三角函数的综合/一_联立构造三角的二次方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/三_等轴双曲线反演与二阶曲线外心/三_等轴双曲线反演与二阶曲线外心.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第五节_斜率积的三次对合/三_等轴双曲线反演与二阶曲线外心.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/五_新定义下的阿基米德三角形的面积与等比数列/五_新定义下的阿基米德三角形的面积与等比数列.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/五_新定义下的阿基米德三角形的面积与等比数列.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/六_中垂线定理与离心率限定/六_中垂线定理与离心率限定.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/六_中垂线定理与离心率限定.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/一_椭圆与双曲线的两点对合式/一_椭圆与双曲线的两点对合式.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/一_椭圆与双曲线的两点对合式.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/七_坐标同解同构方程_外接圆_/七_坐标同解同构方程_外接圆_.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/七_坐标同解同构方程_外接圆_.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/六_焦弦的截距与面积转化问题/六_焦弦的截距与面积转化问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/六_焦弦的截距与面积转化问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/八_用退化二次曲线系方程破解浙江21高考压轴题/八_用退化二次曲线系方程破解浙江21高考压轴题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/八_用退化二次曲线系方程破解浙江21高考压轴题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/二_直角_angle_F__1_PF__2__的约束/二_直角_angle_F__1_PF__2__的约束.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/二_直角_angle_F__1_PF__2__的约束.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/五_由单动点三角换元构造面积比/五_由单动点三角换元构造面积比.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/五_由单动点三角换元构造面积比.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/一_蝴蝶定理/一_蝴蝶定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/一_蝴蝶定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/三_四点共圆的充要条件与数据/三_四点共圆的充要条件与数据.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第五节_二次曲线系与四点共圆/三_四点共圆的充要条件与数据.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/一_极点极线的定义/一_极点极线的定义.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/一_极点极线的定义.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/一_椭圆最值问题/一_椭圆最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/一_椭圆最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/五_由内准圆引起的斜率同构/五_由内准圆引起的斜率同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/五_由内准圆引起的斜率同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/三_斜率调整与对合的综合/三_斜率调整与对合的综合.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/三_斜率调整与对合的综合.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/一_椭圆第一定义/一_椭圆第一定义.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/一_椭圆第一定义.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/四_第三定义转化为斜率比/四_第三定义转化为斜率比.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/四_第三定义转化为斜率比.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/二_对数均值与中值斜率的综合应用/二_对数均值与中值斜率的综合应用.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/二_对数均值与中值斜率的综合应用.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/二_椭圆焦点弦/二_椭圆焦点弦.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第一节_椭圆双曲的轨迹翻译_第一定义/二_椭圆焦点弦.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/三_用曲线系速解坎迪定理/三_用曲线系速解坎迪定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/三_用曲线系速解坎迪定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/一_求交点个数/一_求交点个数.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第三节_圆锥曲线与导数的综合/一_求交点个数.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/一_焦长转化为面积和差/一_焦长转化为面积和差.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/一_焦长转化为面积和差.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/三_双曲线焦点三角形内心轨迹与双切圆/三_双曲线焦点三角形内心轨迹与双切圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/三_双曲线焦点三角形内心轨迹与双切圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/一_圆锥曲线参数换元形式/一_圆锥曲线参数换元形式.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/一_圆锥曲线参数换元形式.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/一_两点对合式构造双曲线中的等比数列/一_两点对合式构造双曲线中的等比数列.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第一节_反比例对合方程解决圆锥曲线与数列综合/一_两点对合式构造双曲线中的等比数列.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/四_斜率调整背景__斯坦纳定理/四_斜率调整背景__斯坦纳定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的斜率调整与仿射/第一节_斜率调整法/四_斜率调整背景__斯坦纳定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/二_单动点三角换元解决二次曲线上的距离问题/二_单动点三角换元解决二次曲线上的距离问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第二节_单动点与圆锥曲线参数方程/二_单动点三角换元解决二次曲线上的距离问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/三_抛物线最值问题/三_抛物线最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/三_抛物线最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/二_由斜率关系和共焦点构造的混合型/二_由斜率关系和共焦点构造的混合型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/二_由斜率关系和共焦点构造的混合型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/一_斜率对合的原理/一_斜率对合的原理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/一_斜率对合的原理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/三_抛物线切线方程与阿基米德三角形/三_抛物线切线方程与阿基米德三角形.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/三_抛物线切线方程与阿基米德三角形.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/一_斜率和为0与内外角平分线解读/一_斜率和为0与内外角平分线解读.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第三节_角平分线与调和点列/一_斜率和为0与内外角平分线解读.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/七_焦点准线关联与面积比值转化/七_焦点准线关联与面积比值转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/七_焦点准线关联与面积比值转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/二_双曲线第三定义之_积_/二_双曲线第三定义之_积_.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第三节_椭圆双曲的斜率转化_第三定义/二_双曲线第三定义之_积_.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/四_参数方程解决共线分弦定点定值/四_参数方程解决共线分弦定点定值.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/四_参数方程解决共线分弦定点定值.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/五_顶点角_同轴轴点弦的对合方程/五_顶点角_同轴轴点弦的对合方程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/五_顶点角_同轴轴点弦的对合方程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/四_完全四边形与自极三角形/四_完全四边形与自极三角形.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第二节_极点极线定义与自极三角形/四_完全四边形与自极三角形.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/六_共轭点面积等比中项模型/六_共轭点面积等比中项模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第三节_面积比值转化问题/六_共轭点面积等比中项模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/四_由圆锥曲线和三角代入计算的混合型/四_由圆锥曲线和三角代入计算的混合型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第三节_圆锥曲线之间的交点/四_由圆锥曲线和三角代入计算的混合型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/二_切线方程和切点弦方程求法的书写过程/二_切线方程和切点弦方程求法的书写过程.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第一节_切线与切点弦/二_切线方程和切点弦方程求法的书写过程.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/六_积型_k__1_k__2__对合的多解问题/六_积型_k__1_k__2__对合的多解问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第四节_斜率对合与斜率翻译/六_积型_k__1_k__2__对合的多解问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/二_直线参数方程与四点共圆/二_直线参数方程与四点共圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/二_直线参数方程与四点共圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/二_双曲线的正设与反设/二_双曲线的正设与反设.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/常规韦达联立/第一节_正反设直线的方案选择/二_双曲线的正设与反设.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/四_双曲线渐近线和共轭直径/四_双曲线渐近线和共轭直径.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第七节_帕斯卡定理与对偶定理布利安桑定理/四_双曲线渐近线和共轭直径.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/五_渐近切线三角形面积与向量积问题/五_渐近切线三角形面积与向量积问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/小题新题型与多选的综合题方法篇/第二节_坐标旋转与曲线转换/五_渐近切线三角形面积与向量积问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/三_焦点弦比值与离心率/三_焦点弦比值与离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第一节_弦长体系下的焦长模型与焦比定理/三_焦点弦比值与离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/四_双曲线焦点三角形旁心与离心率/四_双曲线焦点三角形旁心与离心率.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/几何视角下的焦点三角形/第三节_三角形四心性质的应用/四_双曲线焦点三角形旁心与离心率.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/四_阿氏圆反演与圆锥曲线最值问题/四_阿氏圆反演与圆锥曲线最值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线四定义/第六节_长度最值问题之声东击西/四_阿氏圆反演与圆锥曲线最值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/五_两点联立式下的平行弦同构/五_两点联立式下的平行弦同构.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/五_两点联立式下的平行弦同构.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/三_折叠问题与圆锥曲线/三_折叠问题与圆锥曲线.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线跨界综合/第一节_圆锥曲线与立体几何综合/三_折叠问题与圆锥曲线.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/二_对合方程简化单动点模型/二_对合方程简化单动点模型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/万能的两点对合式/第三节_椭圆双曲线的两点对合式/二_对合方程简化单动点模型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/二_帕斯卡_Pascal_定理及其逆定理/二_帕斯卡_Pascal_定理及其逆定理.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/二_帕斯卡_Pascal_定理及其逆定理.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/三_两点联立式下的彭塞列闭合/三_两点联立式下的彭塞列闭合.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第一节_抛物线两点联立式方程/三_两点联立式下的彭塞列闭合.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/四_双切椭圆的蒙日圆/四_双切椭圆的蒙日圆.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立之同构方程/第二节_斜率同构式与坐标同构式的应用/四_双切椭圆的蒙日圆.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/二_点_P_x_0__y_0__在圆锥曲线外的斜率和积为定值问题/二_点_P_x_0__y_0__在圆锥曲线外的斜率和积为定值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第一节_齐次化处理斜率和积问题/二_点_P_x_0__y_0__在圆锥曲线外的斜率和积为定值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/五_对称轴上任意点分弦平方和成定值问题/五_对称轴上任意点分弦平方和成定值问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第一节_长度参数与直线参数方程/五_对称轴上任意点分弦平方和成定值问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/四_弦长与角度范围约束/四_弦长与角度范围约束.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/四_弦长与角度范围约束.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/一_笛沙格对合/一_笛沙格对合.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/调和点列与调和线束定理与对合关系/第六节_从笛沙格定理到帕斯卡定理/一_笛沙格对合.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/一_短轴端点处_angle_F__1_PF__2__张角最大/一_短轴端点处_angle_F__1_PF__2__张角最大.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/离心率/第三节_长度与角度下的离心率范围约束/一_短轴端点处_angle_F__1_PF__2__张角最大.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/二_焦点弦中点连线隐藏定点与面积转化/二_焦点弦中点连线隐藏定点与面积转化.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/新定义下的面积转化/第一节_过焦点弦的面积问题/二_焦点弦中点连线隐藏定点与面积转化.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/三_定比点差法与轴点弦的三炮齐鸣/三_定比点差法与轴点弦的三炮齐鸣.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第四节_定比点差法/三_定比点差法与轴点弦的三炮齐鸣.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/二_点差法与隐藏的中点轨迹问题/二_点差法与隐藏的中点轨迹问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/圆锥曲线常规数据处理方法/第三节_点差法与中垂线问题/二_点差法与隐藏的中点轨迹问题.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/二_用曲线系方程破解高考极点极线题型/二_用曲线系方程破解高考极点极线题型.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第六节_二次曲线方程与四点联立曲线系/二_用曲线系方程破解高考极点极线题型.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/四_利用对称和焦弦常数构造斜率关系/四_利用对称和焦弦常数构造斜率关系.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/从定比点差到极点极线/第三节_蝴蝶定理与坎迪定理/四_利用对称和焦弦常数构造斜率关系.md"
+    },
+    {
+      "from": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/二_复数变换处理平行问题/二_复数变换处理平行问题.md",
+      "to": "Mathmap/题型/按题型分类/圆锥曲线/联立计算高阶篇/第三节_复数变换与三角旋转/二_复数变换处理平行问题.md"
+    }
+  ],
+  "replayed_knowledge_refinement": false,
+  "source": "2026版高中《mst老唐说题》圆锥曲线专题（数学）",
+  "source_id": "mst-conics-2026",
+  "summary": {
+    "assets": 899,
+    "atoms": {
+      "answer": 604,
+      "guide": 34,
+      "knowledge": 155,
+      "question": 604
+    },
+    "audit_errors": 0,
+    "classified_problems": 0,
+    "conflicts": 0,
+    "create": 211,
+    "definition_aliases": 0,
+    "embedded_motivation_sections": 0,
+    "formula_summary_pages": 0,
+    "motivation_note_embeds": 0,
+    "organization_views": {
+      "按题型分类": 278,
+      "知识串联": 229
+    },
+    "problem_organization_status": "not-in-source",
+    "relocated_chapter_pages": 211,
+    "source_atoms": 1476,
+    "source_files": 2758,
+    "source_heading_markers": 0,
+    "source_markdown": 1476,
+    "thought_classification_pages": 0,
+    "thought_memberships": 0,
+    "unaccounted_markdown": 0,
+    "unchanged": 2247,
+    "update": 353,
+    "verified_source_corrections": 2,
+    "withdrawn_editorial_pages": 0,
+    "withdrawn_formula_summary_pages": 0
+  },
+  "warnings": [],
+  "withdrawals": []
+}

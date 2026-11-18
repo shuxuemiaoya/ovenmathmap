@@ -1,0 +1,935 @@
+{
+  "applied": false,
+  "counts": {
+    "guide": 19,
+    "problem": 17
+  },
+  "mode": "dry-run",
+  "renames": [
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从集合语言到三角函数的数学研究路径.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/本册导引--G7cc15661ad2327.md",
+      "id": "G7cc15661ad2327",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从集合语言到三角函数的数学研究路径"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从方程解集与几何轨迹认识集合和逻辑语言.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/第一章 集合与常用逻辑用语 章引言--G25c2cc7bcc9954.md",
+      "id": "G25c2cc7bcc9954",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从方程解集与几何轨迹认识集合和逻辑语言"
+    },
+    {
+      "after": "Mathmap/问题袋/从偶数与班级学生实例认识集合及元素.md",
+      "before": "Mathmap/问题袋/1.1 集合的概念·引例与思考--Pedf899e879df65.md",
+      "id": "Pedf899e879df65",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从偶数与班级学生实例认识集合及元素"
+    },
+    {
+      "after": "Mathmap/问题袋/类比实数大小关系认识集合的包含关系.md",
+      "before": "Mathmap/问题袋/1.2 集合间的基本关系·引例与观察--P5496ffce68b0f3.md",
+      "id": "P5496ffce68b0f3",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "类比实数大小关系认识集合的包含关系"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/类比实数运算认识集合的并与交.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/1.3 集合的基本运算 节引言--G579f4e24842eae.md",
+      "id": "G579f4e24842eae",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "类比实数运算认识集合的并与交"
+    },
+    {
+      "after": "Mathmap/问题袋/从两组元素的合并认识并集.md",
+      "before": "Mathmap/问题袋/观察：类比实数加法的并集引入--P0dd59efafef3dd.md",
+      "id": "P0dd59efafef3dd",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从两组元素的合并认识并集"
+    },
+    {
+      "after": "Mathmap/问题袋/从两组元素的共有部分认识交集.md",
+      "before": "Mathmap/问题袋/思考：交集的引例与观察--P7a4ce50464d0ad.md",
+      "id": "P7a4ce50464d0ad",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从两组元素的共有部分认识交集"
+    },
+    {
+      "after": "Mathmap/问题袋/由真假命题辨析条件与结论的推出关系.md",
+      "before": "Mathmap/问题袋/思考：命题条件与结论的推出关系--Pe3c5c4d4d9ac47.md",
+      "id": "Pe3c5c4d4d9ac47",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "由真假命题辨析条件与结论的推出关系"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从含变量的陈述句认识全称与存在量词.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/1.5 全称量词与存在量词 节引言--G5e308cefb1cd4f.md",
+      "id": "G5e308cefb1cd4f",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从含变量的陈述句认识全称与存在量词"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从等量与不等量关系贯通二次函数方程和不等式.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/第二章 一元二次函数、方程和不等式 章引言--G1055ac0387a54d.md",
+      "id": "G1055ac0387a54d",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从等量与不等量关系贯通二次函数方程和不等式"
+    },
+    {
+      "after": "Mathmap/问题袋/从赵爽弦图发现相等关系与重要不等式.md",
+      "before": "Mathmap/问题袋/探究：赵爽弦图与重要不等式引入--Pa8711288e4944c.md",
+      "id": "Pa8711288e4944c",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从赵爽弦图发现相等关系与重要不等式"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/类比乘法公式寻找解决不等式的基本工具.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/2.2 基本不等式 节引言--Gcc3f76a52c5213.md",
+      "id": "Gcc3f76a52c5213",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "类比乘法公式寻找解决不等式的基本工具"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从天宫发射与蓄水池水位认识函数模型.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/第三章 函数的概念与性质 章引言--Gb027203eb602ce.md",
+      "id": "Gb027203eb602ce",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从天宫发射与蓄水池水位认识函数模型"
+    },
+    {
+      "after": "Mathmap/问题袋/从正方形周长与边长的对应认识函数.md",
+      "before": "Mathmap/问题袋/3.1 函数的概念及其表示 节引言--P23e045686f2c92.md",
+      "id": "P23e045686f2c92",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从正方形周长与边长的对应认识函数"
+    },
+    {
+      "after": "Mathmap/问题袋/思考：比较初中与高中函数定义的新认识.md",
+      "before": "Mathmap/问题袋/思考：比较函数的两种定义--P1cdc8930c1e6dc.md",
+      "id": "P1cdc8930c1e6dc",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "思考：比较初中与高中函数定义的新认识"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从变量变化规律研究函数的单调性与最值.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/3.2 函数的基本性质 节引言--Gf3203137d039ae.md",
+      "id": "Gf3203137d039ae",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从变量变化规律研究函数的单调性与最值"
+    },
+    {
+      "after": "Mathmap/问题袋/从蔬菜价格与正方形面积认识幂函数.md",
+      "before": "Mathmap/问题袋/思考：实际生活中的幂函数关系模型引入--P2d272bc3cc79de.md",
+      "id": "P2d272bc3cc79de",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从蔬菜价格与正方形面积认识幂函数"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从现实问题建立一次二次与幂函数模型.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/3.4 函数的应用（一） 节引言--G54acb33085bf5d.md",
+      "id": "G54acb33085bf5d",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从现实问题建立一次二次与幂函数模型"
+    },
+    {
+      "after": "Mathmap/问题袋/由良渚遗址碳十四测年走向指数与对数函数.md",
+      "before": "Mathmap/问题袋/第四章 指数函数与对数函数 章引言--P374c3c33737eb6.md",
+      "id": "P374c3c33737eb6",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "由良渚遗址碳十四测年走向指数与对数函数"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从正方形边长与面积理解分数指数幂.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/4.1 指数 节引言--Gbf9d1b44bc40e2.md",
+      "id": "Gbf9d1b44bc40e2",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从正方形边长与面积理解分数指数幂"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从实数指数幂走向指数函数.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/4.2 指数函数 节引言--G48c10aac780d5d.md",
+      "id": "G48c10aac780d5d",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从实数指数幂走向指数函数"
+    },
+    {
+      "after": "Mathmap/问题袋/从景区游客增长倍数反求时间引出对数.md",
+      "before": "Mathmap/问题袋/4.3 对数 节引言--Pf0acb51107a67d.md",
+      "id": "Pf0acb51107a67d",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从景区游客增长倍数反求时间引出对数"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从指数运算类比推求对数运算性质.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/4.3.2 对数的运算 节引言--G3b287d46ec9992.md",
+      "id": "G3b287d46ec9992",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从指数运算类比推求对数运算性质"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从指数增长与衰减反观对数函数.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/4.4 对数函数 节引言--G9398f13aac0bcf.md",
+      "id": "G9398f13aac0bcf",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从指数增长与衰减反观对数函数"
+    },
+    {
+      "after": "Mathmap/问题袋/比较指数与对数函数图象探索反函数关系.md",
+      "before": "Mathmap/问题袋/互为反函数的两个函数图象间的关系 探究引言--Pe1d642f48b5ead.md",
+      "id": "Pe1d642f48b5ead",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "比较指数与对数函数图象探索反函数关系"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/由函数模型走向二分法与实际问题建模.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/4.5 函数的应用（二） 节引言--G6b7fab75a9a0b3.md",
+      "id": "G6b7fab75a9a0b3",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "由函数模型走向二分法与实际问题建模"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从实际变化规律选择合适的函数模型.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/4.5.3 函数模型的应用 节引言--G3c2300f73f29cb.md",
+      "id": "G3c2300f73f29cb",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从实际变化规律选择合适的函数模型"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从昼夜与潮汐的周期变化走向三角函数.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/第五章 三角函数 章引言--Gab1283bbdd50bc.md",
+      "id": "Gab1283bbdd50bc",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从昼夜与潮汐的周期变化走向三角函数"
+    },
+    {
+      "after": "Mathmap/问题袋/从圆周运动的位置变化走向任意角与弧度制.md",
+      "before": "Mathmap/问题袋/5.1 任意角和弧度制 节引言--P8256a08ec49d57.md",
+      "id": "P8256a08ec49d57",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "从圆周运动的位置变化走向任意角与弧度制"
+    },
+    {
+      "after": "Mathmap/问题袋/由单位圆上的点定义任意角三角函数.md",
+      "before": "Mathmap/问题袋/5.2 三角函数的概念 节引言--Pa6627064705d1a.md",
+      "id": "Pa6627064705d1a",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "由单位圆上的点定义任意角三角函数"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从单位圆旋转探究三角函数图象与周期性.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/5.4 三角函数的图象与性质 节引言--Ga3c4640109d322.md",
+      "id": "Ga3c4640109d322",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从单位圆旋转探究三角函数图象与周期性"
+    },
+    {
+      "after": "Mathmap/问题袋/思考：求含负系数的正弦型函数单调递增区间.md",
+      "before": "Mathmap/问题袋/思考：含负系数的正弦型函数的单调递增区间--Pfa199ce5ad101a.md",
+      "id": "Pfa199ce5ad101a",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "思考：求含负系数的正弦型函数单调递增区间"
+    },
+    {
+      "after": "Mathmap/问题袋/由诱导公式推广到任意角的三角恒等变换.md",
+      "before": "Mathmap/问题袋/5.5 三角恒等变换 节引言--P1a79fa00780c9c.md",
+      "id": "P1a79fa00780c9c",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "由诱导公式推广到任意角的三角恒等变换"
+    },
+    {
+      "after": "Mathmap/问题袋/思考：用多种方法证明诱导与和差角恒等式.md",
+      "before": "Mathmap/问题袋/思考：正弦与余弦的互余角恒等关系--P8c9183bf4406ca.md",
+      "id": "P8c9183bf4406ca",
+      "kind": "problem",
+      "source_id": "rja-required-1",
+      "title": "思考：用多种方法证明诱导与和差角恒等式"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/利用和差角与二倍角公式进行三角恒等变换.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/5.5.2 简单的三角恒等变换 节引言--Gda16c45a6df60b.md",
+      "id": "Gda16c45a6df60b",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "利用和差角与二倍角公式进行三角恒等变换"
+    },
+    {
+      "after": "Mathmap/知识串联/人教A-必修第一册/教材说明/从匀速圆周运动建立正弦型函数模型.md",
+      "before": "Mathmap/知识串联/人教A-必修第一册/教材说明/5.6 函数 y=Asin(ωx+φ) 节引言--Geec5d18134dcfa.md",
+      "id": "Geec5d18134dcfa",
+      "kind": "guide",
+      "source_id": "rja-required-1",
+      "title": "从匀速圆周运动建立正弦型函数模型"
+    }
+  ],
+  "writes": [
+    {
+      "after_sha256": "d0dff1bfc5946f060866488241952ed0a01b43748a531f509ba1b84216ca4acf",
+      "before_sha256": "c9d06a117ac26b0a981646caa1f41da3f08d55f15d8f7370b4edd3a36c31a49b",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/01-01-章引入-55b0cf.canvas"
+    },
+    {
+      "after_sha256": "0cf10b5ec70e440d8ce5678fae8290131ae8b507e0d04a30c301c2d1178ecaf5",
+      "before_sha256": "9aa8be055b85151b39916ce5e3519b2038f6a347222f7f3daff9767757ffd5b5",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/01-02-1.1-集合的概念-f18845.canvas"
+    },
+    {
+      "after_sha256": "04da4910a498bfcf8f01b006f040252f05fa4e9b6cbba1ef4a9ff6ed0c4bc1eb",
+      "before_sha256": "0dd020ed8b766134fda7cc66ad3dab93208cac898ed831c8291664d110ccf2b9",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/01-03-1.2-集合间的基本关系-798c6c.canvas"
+    },
+    {
+      "after_sha256": "606ab48edb5cfdef68fa81f0c5fa9e7653b75539c74515171147123a1149b704",
+      "before_sha256": "bd183812f8d84a4553d11f54acecef10146af72a190df0bf6c3fb34b9d855a78",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/01-04-1.3-集合的基本运算-43a38d.canvas"
+    },
+    {
+      "after_sha256": "6cc28e848d68570ea785c5681f096f0346eea7712214e05b1fd40a3f85f6f36a",
+      "before_sha256": "9b7b7b0153387b2601f352bec586916f130d6b009c48dd6ebb4c7980503755af",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/01-06-1.4-充分条件与必要条件-91847a.canvas"
+    },
+    {
+      "after_sha256": "6eab4a9a0abfecb281805f8522f40d8fe2c4ec78f21d0c8b51b5333f1b04812c",
+      "before_sha256": "fbec998a8373a0cba82a538610477303ba61f9fd068c7990528bf3998f2e090c",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/01-08-1.5-全称量词与存在量词-f97971.canvas"
+    },
+    {
+      "after_sha256": "c3a48c9f724591b6216b87afaac48c3b21ea0d9e5f5982cb99c41570ea0887fc",
+      "before_sha256": "c1fc5c41f982793e68b2092a46923b3e18f7ba45b79d38656c74ebb280ece56f",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/02-01-章引入-edf1c8.canvas"
+    },
+    {
+      "after_sha256": "b74f7a6a780ee510e2ea542e739d7501298d94d7a39367dd0751cfc36c7b5926",
+      "before_sha256": "59a0be0b3932da650899971f1f04d09065401fecc9f8bed8fd7b7bdda9c01bf9",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/02-02-2.1-等式性质与不等式性质-bb4664.canvas"
+    },
+    {
+      "after_sha256": "bf0bb955cb5acaa7621cf8e02327b73eba1191c89a926ec9ae6298ed7825987d",
+      "before_sha256": "595722bb2dc590a0c99be51af9260383ac1374d9bedde2c487ff5101d6e59a94",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/02-03-2.2-基本不等式-60f712.canvas"
+    },
+    {
+      "after_sha256": "f292dbe20ee5e57afbe7b9849f2333434359fcbed99b6e631339b417c3460898",
+      "before_sha256": "1f5b56441685b29ffab73173910cc519da7e9b163cfc803389771c5bd76c6151",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/03-01-章引入-337081.canvas"
+    },
+    {
+      "after_sha256": "b5ef1ba9282f2830c80edef0cfa258ea198f2d17c9f1bef7700442f8c9cbea75",
+      "before_sha256": "affd36a8baa9687790fa5eca9a0cb3971aa5a4ef067d56d3b68c4c7db284006e",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/03-02-3.1-函数的概念及其表示-41d1f8.canvas"
+    },
+    {
+      "after_sha256": "4deae60396e9009287626aa104d6b2f9f5636d18b76f6a2c67f61461595f4a45",
+      "before_sha256": "9968cc7921c05c4a21b7de599a5473ccc131a022dea380b79a2c045ed3e17daf",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/03-04-3.2-函数的基本性质-001606.canvas"
+    },
+    {
+      "after_sha256": "2dd4a55d8015ab13c8c055de19001707c167865cdc5807c2f3ca99195e5dd8e9",
+      "before_sha256": "54255e54b1cd112dee27bca018d973bde26c4afbef2b069b007be8c6185e4604",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/03-06-3.3-幂函数-3f5957.canvas"
+    },
+    {
+      "after_sha256": "eaf3e33fcd4bb61e7095646f4dc699078454f6c9fc9745c12fbfa5647c07d56d",
+      "before_sha256": "83c2cf80c4ce3290b8e32c1f3b2bdbee1eebcd9612055531f506444e4be6f851",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/03-08-3.4-函数的应用(一)-030e3f.canvas"
+    },
+    {
+      "after_sha256": "7a83382e89644b0670af8c65240dcebf4d845d5e3a6e9fedf24ee23776f2f802",
+      "before_sha256": "a5b431a6e4a667bb8f6af342da751f3a3679760872c33e33340319a5938ef958",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/04-01-章引入-eb468b.canvas"
+    },
+    {
+      "after_sha256": "22144d896e97d1bfb3e7fb730540c377cb59453b2bf44016b0645edce3b7d8a7",
+      "before_sha256": "cd1c97e93a23da9a53ef05fac52e3c57f8f8c5b2c2b8cbc52727965e522c9144",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/04-02-4.1-指数-c72ff3.canvas"
+    },
+    {
+      "after_sha256": "b7db0a43cb232dc8214372b430617e25467accb81e2071f0ef357a6ce053d5b3",
+      "before_sha256": "fea109f9f51622b38ab664783f6f9b314766a80bc5cb7bef0cc3874317e24aa1",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/04-03-4.2-指数函数-146403.canvas"
+    },
+    {
+      "after_sha256": "879781a4595c1af4134df65242bc7475bbba204f0dd6c546a8df5ed6813ac543",
+      "before_sha256": "faa12b550053cc25921c9ecd5ca3d3f49689bc4ae7a962f0f9559dc6ef596a77",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/04-05-4.3-对数-aba2fb.canvas"
+    },
+    {
+      "after_sha256": "a8a1814d00c7b9cdc048b1f19fff7779b9d1849119957383ec8857eaa32b5cfa",
+      "before_sha256": "6133941de91da6749627309d233dbae553d1b2837415a454134a7f0c025de351",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/04-07-4.4-对数函数-d38e6a.canvas"
+    },
+    {
+      "after_sha256": "ada8020eaf2eb30f25684f81c08d2e59cd3936afce7f4e401adb97816ba490d4",
+      "before_sha256": "375bf33bb0ae002c11bf13c222f64d5b56f5df476099069020dcb8326a791eb3",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/04-08-4.5-函数的应用(二)-87e5ee.canvas"
+    },
+    {
+      "after_sha256": "18876c7b102c99419d28ef3c9d0fd423fc928544f87252d839588c9aaba16208",
+      "before_sha256": "238e5476cd36b2f93e4162ce77b5ed3355541ed79abe8b8c199ebb237f2947ef",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/06-01-章引入-94faad.canvas"
+    },
+    {
+      "after_sha256": "596075d108abcccadc3d0d6bc7298bcc2342078869dc686476e919857e3a9e21",
+      "before_sha256": "c66ea20f1f22473b9c3a102ad457d9cabce185921ae800b0b68e4b75ffe3da50",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/06-02-5.1-任意角和弧度制-b53717.canvas"
+    },
+    {
+      "after_sha256": "2ec412a5318f7a2430ee49802b4468714238194b33b8709304cc58092ec52d2c",
+      "before_sha256": "4b621dfe183bf6fbfc9738b472ad8204fb76b0404c9880729faf79fbd2246165",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/06-03-5.2-三角函数的概念-4c2022.canvas"
+    },
+    {
+      "after_sha256": "203d49670eba8f240508da364039474938bfef5ecb8fde2cdc801ff3a690661e",
+      "before_sha256": "5cad1cc878fc38fcba589e207d2015d703950a86b30836fbb618e088b294aa70",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/06-06-5.4-三角函数的图象与性质-a6a5bc.canvas"
+    },
+    {
+      "after_sha256": "631d05357654d37bd1642f970f3f006593f710b18ef692cb64a211e0c35612e8",
+      "before_sha256": "6615d6ed604c66b90b15abb272da273ee20b092dcbc6b7124da2a8cf746336b8",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/06-07-5.5-三角恒等变换-7a706e.canvas"
+    },
+    {
+      "after_sha256": "e1148d627d6f71455dbf0229bfcc6657e80309236035bf9835c3e7699ae654d6",
+      "before_sha256": "a67fe67772372cb764fe5d4309844a90970d4717aade0fd3d56a404d3f5129f4",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/来源图谱/06-08-5.6-函数-y-=-A-sin(ωx-+-φ)-cbdeb9.canvas"
+    },
+    {
+      "after_sha256": "511f88aec1b91e311ac3ca0a9488a88753d2fab40deae07ceb2cc43286a8fec2",
+      "before_sha256": "e9dd949f4bbfed72cf4672c58daccff9367c20279e08ac37796203c02ebb477b",
+      "path": "Mathmap/canvas/二层/人教A-必修第一册/来源图谱/01-第一章-集合与常用逻辑用语-75a20e.canvas"
+    },
+    {
+      "after_sha256": "e05d339a4d5cfdc673c0614c8f58b26e591c6c1f3455b6d4589aacf0357859a8",
+      "before_sha256": "4fe4aba6f6109190c95fb8b07b529bbb668b8fa5d01036dde60662cda34a4564",
+      "path": "Mathmap/canvas/二层/人教A-必修第一册/来源图谱/02-第二章-一元二次函数、方程和不等式-9775d4.canvas"
+    },
+    {
+      "after_sha256": "30fd4f8b181f3ab6771ca435b62b72794f2880a407c5081be0b9d35eded023bb",
+      "before_sha256": "92aed78329beb8e539dcee1fe94790764b3392eb5879626dd6ac6fde21c9a7bf",
+      "path": "Mathmap/canvas/二层/人教A-必修第一册/来源图谱/03-第三章-函数的概念与性质-8c58a6.canvas"
+    },
+    {
+      "after_sha256": "9e7bee0a37ae879ce97970f3cb91dfd8e1c289bf69eec4b370ab81451235bbcd",
+      "before_sha256": "33eecd6bc1854cc915ba1a4315881ea8e679918477dc3c7d8c7e8d5cc28d5de5",
+      "path": "Mathmap/canvas/二层/人教A-必修第一册/来源图谱/04-第四章-指数函数与对数函数-3702e5.canvas"
+    },
+    {
+      "after_sha256": "0b5a4bc373469445de16a5aa59e638a31371ebac3434428b8ad45ff46a31aaec",
+      "before_sha256": "65395b73d949724256377f53c14e3089cab9b0165610e4762227d9b3c126a493",
+      "path": "Mathmap/canvas/二层/人教A-必修第一册/来源图谱/06-第五章-三角函数-c80f27.canvas"
+    },
+    {
+      "after_sha256": "5b485d32dac89cb721327f80dd99b14ef57ed68e448062fafaa04bcece285761",
+      "before_sha256": "3df07f95056f81bc282a0082e0617050537e98c0c611c7ff6b70438173cff355",
+      "path": "Mathmap/知识串联/人教A-必修第一册/人教A-必修第一册.md"
+    },
+    {
+      "after_sha256": "129ad90daa44fa414c12e82816731ad1330e5440ce88c1ab64b8d7c84115621a",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/类比实数运算认识集合的并与交.md"
+    },
+    {
+      "after_sha256": "72496eef3180bb948370cf0851dc7285019059f2a806650a175cae3a602a9306",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从含变量的陈述句认识全称与存在量词.md"
+    },
+    {
+      "after_sha256": "73c6bbc9579d2d648f6cc23586733e2fabcd522c3af04c249a0073bd6bc34f2b",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/类比乘法公式寻找解决不等式的基本工具.md"
+    },
+    {
+      "after_sha256": "ba5ee4a7ee7077aca8cb6fbb04dbd02dcf7eb1de512f2ec3fa9f59c7f8cdb6da",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从变量变化规律研究函数的单调性与最值.md"
+    },
+    {
+      "after_sha256": "3f7a677b48cbb06fbf7ebc4ad6d4ef82ee64ee1b11ad50649972336baf00687e",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从现实问题建立一次二次与幂函数模型.md"
+    },
+    {
+      "after_sha256": "8f32f53a951412e32ba6848daabebe79d9177e843cac5c07e6dba3092a15fdbb",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从正方形边长与面积理解分数指数幂.md"
+    },
+    {
+      "after_sha256": "4a3b0e9c56205e8c7722b06fbe40871c6568e56ee9ff869f7128de1fd9d7da89",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从实数指数幂走向指数函数.md"
+    },
+    {
+      "after_sha256": "f1504a3a0decdae09679469b34e64adb8d19aee7e45aee3ee385b2a3a7130fba",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从指数运算类比推求对数运算性质.md"
+    },
+    {
+      "after_sha256": "30c41d6f75436b6cc06d5362970f99b0b15b7839373eb538c0a3eb01688cad4c",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从指数增长与衰减反观对数函数.md"
+    },
+    {
+      "after_sha256": "443ea18ce33cf705209c7b6587118e4681e2ecb58b57061109baf691df29b2d8",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/由函数模型走向二分法与实际问题建模.md"
+    },
+    {
+      "after_sha256": "23181f41577a203f150c70b84af209147d40dd8d155c3130efdd2c1f9541014a",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从实际变化规律选择合适的函数模型.md"
+    },
+    {
+      "after_sha256": "94e9ac79f5cb3a1b61309ada4e171c2809e60bea05866d4bfc85b90cb16ea80b",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从单位圆旋转探究三角函数图象与周期性.md"
+    },
+    {
+      "after_sha256": "e0fb9fbdf3e61078dac327043b32151b513793d0348c25e3b388e50a3d14318e",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/利用和差角与二倍角公式进行三角恒等变换.md"
+    },
+    {
+      "after_sha256": "fcc8c3e99cf68bf1bf29313a926fd9489087907097316c8d208cb8adb2808d17",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从匀速圆周运动建立正弦型函数模型.md"
+    },
+    {
+      "after_sha256": "7a281d59b8ba0a5d94bc46135ac701532a83c731a7de61449bef611993aa51b2",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从集合语言到三角函数的数学研究路径.md"
+    },
+    {
+      "after_sha256": "2160a437f263e382ffb81648e2fd6c712c3c3050489b7223e738412f857c879a",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从方程解集与几何轨迹认识集合和逻辑语言.md"
+    },
+    {
+      "after_sha256": "11e419ed48eb1b5869a356f2974f38b3ace6a44f2cec7fb5b87d0756cbadd7d0",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从天宫发射与蓄水池水位认识函数模型.md"
+    },
+    {
+      "after_sha256": "734cf823836a19e3604c5e2f7ed681ec8d1297fa069e2b1b3e71433b354e427c",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从等量与不等量关系贯通二次函数方程和不等式.md"
+    },
+    {
+      "after_sha256": "691098bec5dc4c186381c592818de96ac3d9785b47620cc03839b385ee2f5d38",
+      "before_sha256": null,
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材说明/从昼夜与潮汐的周期变化走向三角函数.md"
+    },
+    {
+      "after_sha256": "c5e961efcddb61e584050dbb12faa27f4e62dba478f670c392d39b2af23f85d6",
+      "before_sha256": "a47a06b7fe420694c38cdb85c87b57722c2cf80236fd3fa841d8a059bbeefc3f",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第一章 集合与常用逻辑用语/1.1 集合的概念/1.1 集合的概念.md"
+    },
+    {
+      "after_sha256": "69d65e4ca2ad74f6428c014137126d860ccad14064ae3c6571fe499d5f45e071",
+      "before_sha256": "e61160322fd84d54d200718c03c44ed85657a17bf8b176be4041b2b514715d77",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第一章 集合与常用逻辑用语/1.2 集合间的基本关系/1.2 集合间的基本关系.md"
+    },
+    {
+      "after_sha256": "3fbce19bfafa69119d5d4a4ac1e25d7c7c0e704027844973fa743c8cfc7fe431",
+      "before_sha256": "3e8e7ed09ca92a70b0814acfa4981e01ec290edec899a05e48002948716088b2",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第一章 集合与常用逻辑用语/1.3 集合的基本运算/交集.md"
+    },
+    {
+      "after_sha256": "a780ded23f5d119dac68aa97b01351cd2463637743ce879c42f5a81b2016de76",
+      "before_sha256": "4beb5d6dc7779e380be6a900eb7f31b3c58ac7467383522d8fb0db7418b4281d",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第一章 集合与常用逻辑用语/1.3 集合的基本运算/并集.md"
+    },
+    {
+      "after_sha256": "bfb8845de7bdaf722db13a841a7dee598b7eb4c58b31477368fd7a8cf4472513",
+      "before_sha256": "5679445ae11cfd3231b33c9c45ac167854594646dfa300dfb3d038ecca5bd9c2",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第一章 集合与常用逻辑用语/1.4 充分条件与必要条件/1.4.1 充分条件与必要条件.md"
+    },
+    {
+      "after_sha256": "c39161918236b316fb351313d97f3e9bc6f2976d0fd385b299d5e72c032d3adc",
+      "before_sha256": "c90fc60443f0b580eed42518efc03fdc1a991eaea17b6b727310a1badedc2d0c",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第三章 函数的概念与性质/3.1 函数的概念及其表示/3.1 函数的概念及其表示.md"
+    },
+    {
+      "after_sha256": "44ae43b4d2d4ce367812afa3c77ed60f4757764dc29e7f7f204511126a6125f2",
+      "before_sha256": "2fb22114b489e372fcca55374c6cdcdb4aad07c5badd80d31d7db18545780b72",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第三章 函数的概念与性质/3.1 函数的概念及其表示/3.1.1 函数的概念.md"
+    },
+    {
+      "after_sha256": "299e7e31e4b3142a3d1c72b773372a0e998cbd74b67da049d0fd5d7865a5c8e1",
+      "before_sha256": "fa48a69de474269ca1c239def6522c6da3293f74c05157e61eb1725949c396ea",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第三章 函数的概念与性质/3.3 幂函数/3.3 幂函数.md"
+    },
+    {
+      "after_sha256": "8cc26cb2d2fa072e18ccac327f92d9f8eefd2943c02eeeafd4e6b158cdc0b017",
+      "before_sha256": "d10a2f72593a3f906d7615ca389ad900d0192a15feb7e15b3e6f55b10627bf49",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第二章 一元二次函数、方程和不等式/2.1 等式性质与不等式性质/实数大小比较与重要不等式.md"
+    },
+    {
+      "after_sha256": "576c55570edb792f4ddde9fead68d6861c0a046f0e0479e2da1dc40764d83398",
+      "before_sha256": "e6ae89d889f7e1740ccc67644b46c9a2cb81f4f1d87fe4046a9df1965e50bb12",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第五章 三角函数/5.1 任意角和弧度制/5.1 任意角和弧度制.md"
+    },
+    {
+      "after_sha256": "11b5149a65ea0a11d9457aebec3403f7f6eed6fe5fe941ab99a4a3cbb4f5251e",
+      "before_sha256": "37910f4b94e8333a2523649326b80bbc1a342e1fbf2d805f64662952527fea12",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第五章 三角函数/5.2 三角函数的概念/5.2 三角函数的概念.md"
+    },
+    {
+      "after_sha256": "e23b7ef40e6cba9e98e94ae7c2c4b037cfb8061be349723469ff52613c052f4d",
+      "before_sha256": "b8282bb282ec92f3e3bd8d41b8ef3ecf4c9ad30657d43a5c395b1ff2a1d8a074",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第五章 三角函数/5.4 三角函数的图象与性质/5.4.2 正弦函数、余弦函数的性质/正弦函数、余弦函数的单调性与最值.md"
+    },
+    {
+      "after_sha256": "3bb145870eae19749c2a19c5cd9d7ad62aac181b0666cbd3abf0cc6923bcc1e7",
+      "before_sha256": "117b155526feb0d646324ed225c8711ba0fe54bab72081ce3515155fbace7480",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第五章 三角函数/5.5 三角恒等变换/5.5 三角恒等变换.md"
+    },
+    {
+      "after_sha256": "9d375d5890d146f39b7ccf93d3e15504ff6812e994ffccb0665c4af65deb068a",
+      "before_sha256": "b421723d9b3b4eaa082b67627dc69fc87dfcba5e185860f343ef55857935d968",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第五章 三角函数/5.5 三角恒等变换/5.5.1 两角和与差的正弦、余弦和正切公式/两角和与差的正弦、余弦、正切公式.md"
+    },
+    {
+      "after_sha256": "c783d610f981e410401596be1e805cbe7b0745e09e644017b7366ead32b07176",
+      "before_sha256": "c0c3f3e4a921d44aedf158b90224a2678b733bbd45373a5681628cd2f72183f6",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第四章 指数函数与对数函数/4.3 对数/4.3 对数.md"
+    },
+    {
+      "after_sha256": "2dc6114fdc993ac9cbb26881040fb7f208d0e8d1651877eca8a8352a82b7693f",
+      "before_sha256": "1864a09ce3b11b75490a256d42a17b4ef70081e278214e2a2b9d89d0b4947bb7",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第四章 指数函数与对数函数/4.4 对数函数/探究与发现 互为反函数的两个函数图象间的关系.md"
+    },
+    {
+      "after_sha256": "9361a81aceb80e021c93de1e49a829fb9d02f793b855eb8ba134422fc68dfbf1",
+      "before_sha256": "37a135c6122bad3e04cb40dc72c6a87d3f326d5efeaa564ee68639bd0d6ad817",
+      "path": "Mathmap/知识串联/人教A-必修第一册/教材问题顺序/第四章 指数函数与对数函数/第四章 指数函数与对数函数.md"
+    },
+    {
+      "after_sha256": "9469fa19bc5618bbf28779a72c8b8b5dc39b40622d216e57bf344493d3b68281",
+      "before_sha256": "f7f59fad78cd56a6a0e4502be7856e85adb6e040a2438a94de78bd9df71bde6a",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第一章 集合与常用逻辑用语/1.3 集合的基本运算/1.3 集合的基本运算.md"
+    },
+    {
+      "after_sha256": "154e79c898e964c8a221a8f230f3c6eb1e01416f49f9271095126078936a6060",
+      "before_sha256": "a64d246be763877b763e0d377f5ff318964e133590f4a9a630707bda3527149e",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第一章 集合与常用逻辑用语/1.5 全称量词与存在量词/1.5 全称量词与存在量词.md"
+    },
+    {
+      "after_sha256": "a49a16f5ed80ba178d04fed2f6075b9ce7a17c593bd113e286e17c37c4073dac",
+      "before_sha256": "f66113e288a9d41faae641e673be789085ffe59a50efedf7ab22ff8935cf48e3",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第一章 集合与常用逻辑用语/第一章 集合与常用逻辑用语.md"
+    },
+    {
+      "after_sha256": "07cbc8915e8cae21ca1a50f74724f0992899e955ab24f837e6f4fcb305abe1ec",
+      "before_sha256": "a5361234f88a6bcbcb9df02e01f973f514a96efe91258c50315129da3e14ab63",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第三章 函数的概念与性质/3.2 函数的基本性质/3.2 函数的基本性质.md"
+    },
+    {
+      "after_sha256": "7eea1b9bf7fab09cde38e37e316bd0dcec497471c42cecf8a359fbce506acba4",
+      "before_sha256": "6543ab07b5fd74b46fde4dcbccfc6105c30749d2ba3b3b6bd9bb13ee8c7ad5cb",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第三章 函数的概念与性质/3.4 函数的应用(一)/3.4 函数的应用(一).md"
+    },
+    {
+      "after_sha256": "0a622b2b092958a0780f14186a40f4dbc078eab8507cffb5d4e6d07bd79458bc",
+      "before_sha256": "384b8fd8b9111749e5cd49e9906001d8183b86256320ab5d9ca263fda0f93a36",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第三章 函数的概念与性质/第三章 函数的概念与性质.md"
+    },
+    {
+      "after_sha256": "40d89a8f2a86a74c7583fcdd7e2a0360d5b60d6ee32f97e6c7edbbe1433af516",
+      "before_sha256": "f53fc34156e56cbee2c05d03a40b1e10e6933946ecf178df45b88b1922e502b6",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第二章 一元二次函数、方程和不等式/2.2 基本不等式/2.2 基本不等式.md"
+    },
+    {
+      "after_sha256": "1b852527fca94f424ce8ee6558888d9e25d6f63b75bde254235567155b75a099",
+      "before_sha256": "6a1a2e3dbd32a9c12a75f4ad97a223615efb9f5154c2decaef2d791265933732",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第二章 一元二次函数、方程和不等式/第二章 一元二次函数、方程和不等式.md"
+    },
+    {
+      "after_sha256": "730d6e76692b275419d3592b865b1abda51618eb28709809d52bb50160206063",
+      "before_sha256": "5e35a829adc728ed170c5c5ec9c89e5aeeacb037e48941606689aea32b5da0fc",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/5.4 三角函数的图象与性质/5.4 三角函数的图象与性质.md"
+    },
+    {
+      "after_sha256": "da88e52581f0ec195adad73cb7e757effe058419e41f3b5f89267a36c9471878",
+      "before_sha256": "b246b6aabecf6aa620859eccd5919401d60f31d4a36aedd6b8f6d48663eeb2a3",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/5.5 三角恒等变换/5.5.2 简单的三角恒等变换.md"
+    },
+    {
+      "after_sha256": "f843f7124c4ce3de87e7e1b7cc3a03fc52b05eecab36a1078a6ea74aa8c4e295",
+      "before_sha256": "a073f62209aa02b5c8dee5a9f585f689d58f147e324da8b9bc64228087ebf158",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/5.6 函数 y = A sin(ωx + φ)/5.6 函数 y = A sin(ωx + φ).md"
+    },
+    {
+      "after_sha256": "4b6678b2d5a9b50ae2dc866528964fe27405605f266b48eabcc796a02bbcfac7",
+      "before_sha256": "1c2a05887687170f4346d81d77eee2959c177c6e07ee721b7d56c788524895c4",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/第五章 三角函数.md"
+    },
+    {
+      "after_sha256": "a36f9833e97af020fe7ef762556b6679ac892022f11d7ff0cc12cbb0868dd6d4",
+      "before_sha256": "87b3728e016f10060bb728c30da3e1798a622e37b547b025ea2b0872544509a0",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/4.1 指数/4.1 指数.md"
+    },
+    {
+      "after_sha256": "969c29d9056cd22d9ab09ee999d921ca0f7b6c571ed7d0542a1ceef0dbd57d2e",
+      "before_sha256": "7fca8ae9f4a465a747ac1fad365355068be6d9af3eec4521ac017f19d8339f32",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/4.2 指数函数/4.2 指数函数.md"
+    },
+    {
+      "after_sha256": "4fab057c73d1f7f081fdd201b38a46b3c71835780560846f927aada92d6dcb87",
+      "before_sha256": "71f61b09cdd576be2037abdae670df4fd759ae0658cc25186981819d53548328",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/4.3 对数/4.3.2 对数的运算.md"
+    },
+    {
+      "after_sha256": "66c06198e9965bb1f8df74c57ca4f2ed1f90d10a11420ba1624011a40848ad6e",
+      "before_sha256": "6efda024c3a33488c0d7b595f5b7df2b9025c717ca39946721ee187b775b294a",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/4.4 对数函数/4.4 对数函数.md"
+    },
+    {
+      "after_sha256": "f69bc2ad2a917d4c717d0fbd01c87929ff81fad206e4ab299e76d2b75df6006a",
+      "before_sha256": "a25ac01b187a1a115a6f6c6185777011dec4763add84eb8fb0b7df7e6937858a",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/4.5 函数的应用(二)/4.5 函数的应用(二).md"
+    },
+    {
+      "after_sha256": "f5f12c7932399dc27e58187f4d7c49b2f467ebdbe8a5f1027a275e46f1e3af5d",
+      "before_sha256": "e5eb983ba3ea989c9f537dd7083b411098d3a89956f696c88d766b3f2624d11c",
+      "path": "Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/4.5 函数的应用(二)/4.5.3 函数模型的应用.md"
+    },
+    {
+      "after_sha256": "0db4218501767b42e9cd0e103656437298d6063d52183b029522f9f68520de1f",
+      "before_sha256": "8cd3191fec4360f66c81a630eacee04be470a1d2fcc6eba8bddf05c089598614",
+      "path": "Mathmap/知识点/不等关系与实数大小比较的基本事实--000112.md"
+    },
+    {
+      "after_sha256": "9dafa756488d5eaf8e6e846f20004a7d68888ea2af37c71c160c97932c05310e",
+      "before_sha256": "0e6506108943395fddd70d622b8f9cb292d7a30cda2fddec0deaa4b511b65528",
+      "path": "Mathmap/知识点/两角和与差的正切公式--000174.md"
+    },
+    {
+      "after_sha256": "0363828a5c4d719ea585b6576ec5f0030246063ac142427189bc48049ef61f16",
+      "before_sha256": "72463355b335772aa01eb28b63e01fb22dcce6ef7d171e0d6ce5a9eb6bdaf7eb",
+      "path": "Mathmap/知识点/两角和的余弦公式与两角和、差的正弦公式--000173.md"
+    },
+    {
+      "after_sha256": "d92a7314c27a49dbc23845eb2f0c3041348263a9a9e7621175eb194c413b3094",
+      "before_sha256": "d9072a371b5859d91873c4e1f7e0b4de100acea2af72596295f38e74976827c0",
+      "path": "Mathmap/知识点/交集--000098.md"
+    },
+    {
+      "after_sha256": "e3d232dcc58d1e606a5d0f2a56b95aade8f0360a18c66c8047a8ea06c172bc34",
+      "before_sha256": "035d8d76f589a5d98d37abc5027c623e6ed82df745e16f4b0713d658c1bfad6c",
+      "path": "Mathmap/知识点/任意角的三角函数定义与定义域--000156.md"
+    },
+    {
+      "after_sha256": "6ffaf1b40e6207e0dfb34eddcda0e81bb5786d5cbe29fb49be1ab15740194e08",
+      "before_sha256": "703606128726eea47b0000a7040c41d77ab3412e351c404a2107421f26bfaa2c",
+      "path": "Mathmap/知识点/充分条件与必要条件--000102.md"
+    },
+    {
+      "after_sha256": "d465a4d1cff3452f6701d72a3befa7aea3608aa3068fb7e40f860cf55325b523",
+      "before_sha256": "ceb32d4de7b2e54d7ecb884ad347f3735496c6ce413aa28c3f03c9c904c040da",
+      "path": "Mathmap/知识点/函数的构成要素与同一个函数的判定--000121.md"
+    },
+    {
+      "after_sha256": "5b2a3c9f0a9c443dba38475c95371a3a771f1f14aaa733dda408d060ddbb55ac",
+      "before_sha256": "93ede32f7e92a69a9d09ef9a3f63309342701496a6dfbec48756f7420bc92b0f",
+      "path": "Mathmap/知识点/函数的概念--000119.md"
+    },
+    {
+      "after_sha256": "53ad6de57c0db6b09cf869d751bab9a646958ec70d51f9f537e007bc9b7f9cf5",
+      "before_sha256": "4b1e1f9d79270f2364a1931b1a9a50c061e8505ca52cb4606dcb3675766b9677",
+      "path": "Mathmap/知识点/判定定理与充分条件的关系--000103.md"
+    },
+    {
+      "after_sha256": "22535d51e06fc93879249a7e11029a56cceac2fb0e995fdfb2ebe983b1ed3f70",
+      "before_sha256": "2326499df3ac5dfde097d4b13950601dbce8464a9b1d0218c17843027853e4ba",
+      "path": "Mathmap/知识点/区间的概念--000120.md"
+    },
+    {
+      "after_sha256": "af417637c6060a0e71c9e590f9cabb6f3cc92a7d91a042ee14022cc9d5a35c1c",
+      "before_sha256": "e4545debedc5457aa003a00e86933c61bd0f0d035b0010b2ff2567bc5439ab40",
+      "path": "Mathmap/知识点/子集与Venn图--000094.md"
+    },
+    {
+      "after_sha256": "7c2f4eeb62897242859938901bf517ba05ec85811abe7229e8788271d62e57ef",
+      "before_sha256": "a98b61c58082a37d0c2dac1e74567b914eed9c61824aa8d38a5dc2063a4bc8df",
+      "path": "Mathmap/知识点/幂函数的图象与性质--000131.md"
+    },
+    {
+      "after_sha256": "e5a1a4a6ad816b881218ae5034c32f30d5d4a6c7b9f200c54ecdf81ba8c917c0",
+      "before_sha256": "fd28b914a2416b844e8576ac465527747c36d7763b11feff64cc9661d9eafe71",
+      "path": "Mathmap/知识点/幂函数的概念--000130.md"
+    },
+    {
+      "after_sha256": "4eb87ec793814928a048bc3057217ed1044a2445ae0bf633db7321483b718785",
+      "before_sha256": "b0e0debad7faf62e02d7ac199530d43c663a51be559cf942382523a159b7a15b",
+      "path": "Mathmap/知识点/并集--000097.md"
+    },
+    {
+      "after_sha256": "d2ceb5ad895268779496cb2d6eae4069fef448e06a466a2f132c0a5f1d097ea1",
+      "before_sha256": "79e4a501ab22dc0def115b56f15c1ea12c18c9aabf413e8655fbbabbdce87529",
+      "path": "Mathmap/知识点/性质定理与必要条件的关系--000104.md"
+    },
+    {
+      "after_sha256": "7d1c5afbfcfc26c384bfe1cf11869423415292773c2559a2976cfc97218a688b",
+      "before_sha256": "af0ebac10fd201df3b9b41b628054004e332eefc3a79a9ed1b6b3dd2bf764574",
+      "path": "Mathmap/知识点/正弦函数、余弦函数的单调性--000168.md"
+    },
+    {
+      "after_sha256": "1247fbc6749c93394fe76e6a38ffdc8d9ade16d0f14a045a8a89f7ed10c50021",
+      "before_sha256": "8182ff314357eac1ca71246376c1f75a1fe88b1764311b58fcb335554c4a2d62",
+      "path": "Mathmap/知识点/空集与子集的性质--000096.md"
+    },
+    {
+      "after_sha256": "434664aff6c6b3e685652b219c18f7fe486f4a5ad65bc90370384c3c01190a8f",
+      "before_sha256": "40457f29a89f5435da348dddc8a2f925f3bc8dfe9456a79a0a9735ed2c2b2812",
+      "path": "Mathmap/知识点/重要不等式--000113.md"
+    },
+    {
+      "after_sha256": "da125d0cfb75d2aa803e06800c1ba51125c96fdf7fc7f3deaa948ed582802415",
+      "before_sha256": "849c5c962f071da575cac3863a48b61838a714253c9f7ca5c25be2360fe5c718",
+      "path": "Mathmap/知识点/集合的概念--000091.md"
+    },
+    {
+      "after_sha256": "ab03f8bc63da055347cd7611625a3bd029689d744ba903bb0067d690ade02229",
+      "before_sha256": "d78ea80d284a8ef45a5eeaf7c1a0b6c97b7aa25295ecfc52a38e3c1c27eafece",
+      "path": "Mathmap/知识点/集合相等与真子集--000095.md"
+    },
+    {
+      "after_sha256": "9a0647fedbea9b80d2706c0bc6678d96bf3cf87cdc4d8a703a6f0029dd51e631",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从偶数与班级学生实例认识集合及元素.md"
+    },
+    {
+      "after_sha256": "10a331c9b86edcf8decb3175d5dede741e31e701e99da99b098dccbfbd2988ea",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/类比实数大小关系认识集合的包含关系.md"
+    },
+    {
+      "after_sha256": "353cfa57c34260d542f939bfa449d241bc37179847d791cf8bcbf73141c19152",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从正方形周长与边长的对应认识函数.md"
+    },
+    {
+      "after_sha256": "a25922342be265d3ac774aa95aec86b252fab318ce6c23dd78ebb4eac8944c3d",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从景区游客增长倍数反求时间引出对数.md"
+    },
+    {
+      "after_sha256": "1752c43eb3326a293c28cbf2ed8029e7e2826372dd164f93d1ff564848ed9fca",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从圆周运动的位置变化走向任意角与弧度制.md"
+    },
+    {
+      "after_sha256": "785ea753aa9f66b5a95f7fdd2fff359c2baad548c89b4ac6a89903b45ddc3e23",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/由单位圆上的点定义任意角三角函数.md"
+    },
+    {
+      "after_sha256": "60e1246c561a3662aabdd574491d2bb79563fea3214c512e9ba237724e7cc037",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/由诱导公式推广到任意角的三角恒等变换.md"
+    },
+    {
+      "after_sha256": "3ddd1d6470c37d123203642361bd528f2f3b055540eb776892f9ec93d75bf28f",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/比较指数与对数函数图象探索反函数关系.md"
+    },
+    {
+      "after_sha256": "0fb59cd4804900bf6fee14ff6414e45341eb312001dedcdc41ecf13e9c56ffc1",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从两组元素的共有部分认识交集.md"
+    },
+    {
+      "after_sha256": "8e4b98ce96bfe424cb6b1938001ccf75327757e3c8d676b2a87966d021cb4c44",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/思考：求含负系数的正弦型函数单调递增区间.md"
+    },
+    {
+      "after_sha256": "ac305b2e1bd4203a9103d7eb84a99b861cf79d23e1462690126f8acdf335b6f2",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/由真假命题辨析条件与结论的推出关系.md"
+    },
+    {
+      "after_sha256": "e9fe31fe2d6101d1f3212773eee2624307a20471ba06b6fba06803464c005f39",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从蔬菜价格与正方形面积认识幂函数.md"
+    },
+    {
+      "after_sha256": "56ce3d12779cb532116b894cf19f0e479152a2532f38a92520203fd3cf96cde6",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/思考：用多种方法证明诱导与和差角恒等式.md"
+    },
+    {
+      "after_sha256": "93f9a5f2f0ba5ae39717802b4ad7c1f66aeb3aea087a458d633644e95a959228",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/思考：比较初中与高中函数定义的新认识.md"
+    },
+    {
+      "after_sha256": "366909665e8aa15cbcbd327139254e6b7d045b5543c1603f000ab2cd2275038d",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从赵爽弦图发现相等关系与重要不等式.md"
+    },
+    {
+      "after_sha256": "5d97fc38b830f432080e5a2a92d3dd331c39b8e84f79f7eb3830a7dbbe23b79d",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/由良渚遗址碳十四测年走向指数与对数函数.md"
+    },
+    {
+      "after_sha256": "74dfb63d3819d0bbbfbdbb925e8d405e3c0e6ae5ad506dc89701b196639c151d",
+      "before_sha256": null,
+      "path": "Mathmap/问题袋/从两组元素的合并认识并集.md"
+    },
+    {
+      "after_sha256": "003a5c88b896b833d4277cb50a55d9c1f6979d1390f4c004c611aba9a734c045",
+      "before_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "path": "Mathmap/.mathmap-linker/sources/rja-required-1.json"
+    },
+    {
+      "after_sha256": "62d530c5a0c51c3afd5bd309dd4f00d3e95b25763ad46ab4eb6d6b28543b749d",
+      "before_sha256": "d3dac29671da7ff29c2b50cd2189e21c93348ae26ed4d789603da4574495b20a",
+      "path": "Mathmap/.mathmap-linker/canvas-registry.json"
+    },
+    {
+      "after_sha256": "9538e1541d78fe4082c724d79e2a469e5139fad1c9833afcbfd8704f6b283cc5",
+      "before_sha256": "6f64842a43f0995aae7821bf55b7cf1f170db66ab289b57459469d9989e9094b",
+      "path": "Mathmap/.mathmap-linker/source-canvas-registry.json"
+    },
+    {
+      "after_sha256": "c8a8395288cb089979a92990a3dbbac7c665237d44a1dbb23f0c918a20c9864b",
+      "before_sha256": "6e2cb87dd7fd284a93f6c209ef669d91b2f7fe68f6cf2765b6de767f5fa4e47c",
+      "path": "Mathmap/.mathmap-linker/import-registry.json"
+    }
+  ]
+}

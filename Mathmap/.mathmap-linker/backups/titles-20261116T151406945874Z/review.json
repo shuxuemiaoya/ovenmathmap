@@ -1,0 +1,409 @@
+{
+  "graph_sha256": {
+    "rja-required-1": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb"
+  },
+  "kind": "source-title-update-review",
+  "names": [
+    {
+      "id": "G7cc15661ad2327",
+      "node_key": "atom-ceee7162e4455dbb",
+      "page_sha256": "5a1548f741bcefbeddc8dfb902fec8b94429dfd636566e565cb3655cc24d4cd1",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "57801ee80249c3284547e695858924a719c1a6858bee0753241539ec6aeb0393",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从集合语言到三角函数的数学研究路径"
+    },
+    {
+      "id": "G25c2cc7bcc9954",
+      "node_key": "atom-ef2d21ad88709d30",
+      "page_sha256": "469a6af2965b681a383b86e6476eaba62e842957a98c113c998a6366ab6e8efd",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "e1d5b3582f1cc882a4ab5f2af523c5c706d321d30fc7373844bc276daf806581",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从方程解集与几何轨迹认识集合和逻辑语言"
+    },
+    {
+      "id": "Pedf899e879df65",
+      "node_key": "atom-ce6af4efcb1a7043",
+      "page_sha256": "4aff7dccc7398c0e7ad3c38b0fd6e623960855f468081f96e608104b2a9e0857",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "12dad379db4ac18b7340da786b8c140e5cbe6fc2ad3d9edeeaa6076dbf43b38a",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从偶数与班级学生实例认识集合及元素"
+    },
+    {
+      "id": "P5496ffce68b0f3",
+      "node_key": "atom-3df49b4163615ce6",
+      "page_sha256": "fba1db354d885fe95ec1b72e6d2be6ff93da9ea61b172244819de991a36dedc3",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "4bdfe0944c8b29decad4e89e624c3ed80df22fc4b38559af81c1076d4792a0ce",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "类比实数大小关系认识集合的包含关系"
+    },
+    {
+      "id": "G579f4e24842eae",
+      "node_key": "atom-a079025318c36546",
+      "page_sha256": "e3def31d1c3d1cd81dba872e330feadebc25ee772a7ad8c45ebf7937ac43fd84",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "8a2b303b23eeafe50ae7402655f6fd4aa68ed65c4be8b5c7766b24e8bc6afe79",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "类比实数运算认识集合的并与交"
+    },
+    {
+      "id": "P0dd59efafef3dd",
+      "node_key": "atom-838c19977810d52b",
+      "page_sha256": "61ddd12127e5804be25eb88594e38f23ee7a50a19a2b25e1fb3ef8b03176e55c",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "b35e6306ed157f5368f084e6262cd8ba402a54082f15c8a05bee0274b46ff19f",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从两组元素的合并认识并集"
+    },
+    {
+      "id": "P7a4ce50464d0ad",
+      "node_key": "atom-b19c4d34feb25ef5",
+      "page_sha256": "d8d4bc79bcfe2eb73c8bdc910696db79177c048c1f98fc5d5dff978ae0fdfb72",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "77f800d19c9040a16a4f6dda74282cac4b2e8feb9385fc9a1f1bf22160442f5b",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从两组元素的共有部分认识交集"
+    },
+    {
+      "id": "Pe3c5c4d4d9ac47",
+      "node_key": "atom-d3a1bb7b05b0c889",
+      "page_sha256": "04718032d649271fab9efe876d507ce794f7c9cd122cd7f59f8c2cc539c7b5e4",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "69af819431b09418fe5bdbe826508963cfec052ea4ff969f722972ab4d4ce3dc",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "由真假命题辨析条件与结论的推出关系"
+    },
+    {
+      "id": "G5e308cefb1cd4f",
+      "node_key": "atom-50b0099465196d90",
+      "page_sha256": "2f0e9913f4d01d81a853f6d757ffbf1ad081e3a000ceb95611b36b8333812940",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "cbd01a0c72feb0a0deabe1153994bb36cc45faeea3a1a39ce50a64a94dec6ef3",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从含变量的陈述句认识全称与存在量词"
+    },
+    {
+      "id": "G1055ac0387a54d",
+      "node_key": "atom-b1110c90817601dd",
+      "page_sha256": "5a07cb783f96c2abb0ecb8943d547ce9aa6b94969989541d5c33b40eb5cc270b",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "913293f02e0afaa060f3f32a52a259523680e2de5f438dff68c6ba5959f5b98a",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从等量与不等量关系贯通二次函数方程和不等式"
+    },
+    {
+      "id": "Pa8711288e4944c",
+      "node_key": "atom-fedb96297156252a",
+      "page_sha256": "e6480d0b647ef43511fe4b378761b5a3a5bb2ab056f2f96ea63287bb8c846668",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "860ea2f2aedaa5fef30f61f379607f7373124376c8451fdd9e8ed7c92c3217ec",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从赵爽弦图发现相等关系与重要不等式"
+    },
+    {
+      "id": "Gcc3f76a52c5213",
+      "node_key": "atom-96842511c2d43972",
+      "page_sha256": "f4f4896877740062e3d97548f962f6cb73d69ce56b7c03982be73fd690609e79",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "55c9b3874bff5d0c97b6cebd08c5675dd4e553e498f18ce2f7891fc4a5422af9",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "类比乘法公式寻找解决不等式的基本工具"
+    },
+    {
+      "id": "Gb027203eb602ce",
+      "node_key": "atom-1d66220ad7c4ce5d",
+      "page_sha256": "39ba0e731d5012be51b1044f7e6c626d22dce7cb4541cfb631bc7d3c022be812",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "d411708714f0ef9086874e0659755aa9068281d6ff375ce11bc41e49c85c847d",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从天宫发射与蓄水池水位认识函数模型"
+    },
+    {
+      "id": "P23e045686f2c92",
+      "node_key": "atom-bc4fe9c7577e811e",
+      "page_sha256": "7e1f593f35863417a6b14ba4cd9a0c385a74b28a137f98e1ed482939c1008653",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "cbd6bec8f50e847f74d1f35ebc24ae9af6d3b05ef6835486d89599184e676283",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从正方形周长与边长的对应认识函数"
+    },
+    {
+      "id": "P1cdc8930c1e6dc",
+      "node_key": "atom-bbf1d3117b807c84",
+      "page_sha256": "e9e54c30a404f7e949c2616bb86c45b51d5239211417321df6756760c2f0dc5c",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "7a4622e66d47f77bf3cd25c2d2f73686d5ec3a60a1f500967a14e58d4ca643b3",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "思考：比较初中与高中函数定义的新认识"
+    },
+    {
+      "id": "Gf3203137d039ae",
+      "node_key": "atom-c97ad73a0d6d6411",
+      "page_sha256": "818fd70b5ea8fc151e59c506a08a6e7bc0c48be694113dac77eb0542fa8acae2",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "bf2852b8ac3614fe8d5c9c9196356a916a16f4f688742ba351bdfbf8e2ef287f",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从变量变化规律研究函数的单调性与最值"
+    },
+    {
+      "id": "P2d272bc3cc79de",
+      "node_key": "atom-72140afac4b83f9a",
+      "page_sha256": "56cb72a31157af0ec70b016ee119cfde8b3038469728d932ba11615940455cc4",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "9e7fce65fa99b174ddca8e70a24b7733746e59edcaafa6b9d6ba637c47ecd9d5",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从蔬菜价格与正方形面积认识幂函数"
+    },
+    {
+      "id": "G54acb33085bf5d",
+      "node_key": "atom-9100ef420f7486f0",
+      "page_sha256": "93e7fbb44079de603b389054b01658823d979d1b0cc9825f358139c0bcaedd80",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "22d5887ccba1923bfc6a55a98dfe1fa4a9dcbe7245b308660748e3d50befe2fc",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从现实问题建立一次二次与幂函数模型"
+    },
+    {
+      "id": "P374c3c33737eb6",
+      "node_key": "atom-26f8fc2305bc72ef",
+      "page_sha256": "f11c4fba2db51458cfa09e9ccfb37b8e4c36e3022d42302a1ed5a3cf1386b4d1",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "6426ee0bad188b9e78708ec3fb5d20cea09e8ef2619357b7242930eb18e761a8",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "由良渚遗址碳十四测年走向指数与对数函数"
+    },
+    {
+      "id": "Gbf9d1b44bc40e2",
+      "node_key": "atom-6b17d01fb0fa960b",
+      "page_sha256": "a68b85e3f304dc2a70360ebda8752bf294dfe27d7291f88b4968aaa5d2c4f77f",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "419a85a2cc0e0e89cf23bb9d0cba285effe9c29da6eae03515984c0137e05246",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从正方形边长与面积理解分数指数幂"
+    },
+    {
+      "id": "G48c10aac780d5d",
+      "node_key": "atom-4cce50b3eb69a78e",
+      "page_sha256": "0720593f52f45c951c44722cf81906c7f82ef94f11aea15e7e2d10c0239ae05e",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "e8a4274906bec3e8b0f6b2547de4fedd1eab8f0e4b3b19ad878761c78d69d371",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从实数指数幂走向指数函数"
+    },
+    {
+      "id": "Pf0acb51107a67d",
+      "node_key": "atom-540c3272c4ef0d55",
+      "page_sha256": "21506a51e5da7baf4e13da4455d9caca49263e95bed52f0ee12e73b56fb70274",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "ae68848f5d8920205aaad04ca44f772687aa247e1ddcba5cbffec4cd8cdf7bae",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从景区游客增长倍数反求时间引出对数"
+    },
+    {
+      "id": "G3b287d46ec9992",
+      "node_key": "atom-2ad4ba5a73640446",
+      "page_sha256": "871c667fa978fdcb99cd952f2dfe06ea95ae51fdfab41882c0be2bf8790ffd34",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "dcf42803bbb50710d7e88d3a94a67ba684302a01f7227722be2a33699695a6d5",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从指数运算类比推求对数运算性质"
+    },
+    {
+      "id": "G9398f13aac0bcf",
+      "node_key": "atom-1dc38b90f7d69afe",
+      "page_sha256": "f8f214833e59c88e0eaaa199ebd00b2ae797723927059e2ef67614783edb38c3",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "10d77dd2a4d7d0bf838aa547236f8fa0f41911dce742dc8c26c8d7af11c25fef",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从指数增长与衰减反观对数函数"
+    },
+    {
+      "id": "Pe1d642f48b5ead",
+      "node_key": "atom-31804bcf6658ebe5",
+      "page_sha256": "0273d0508cd6bc75089abcca75525578e5d44223b4ebff5b02357321488d12a5",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "e2921cf6920bff62357bc37f6bd9dd44db6cb57e407d82200efddfb85c88a2b8",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "比较指数与对数函数图象探索反函数关系"
+    },
+    {
+      "id": "G6b7fab75a9a0b3",
+      "node_key": "atom-c27e550358ec1639",
+      "page_sha256": "d18b42b5e43b180873117b4ed68f8ff6103b21dcee0c48e55fedf9cd9f27824d",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "b9d5fd0ae4df5297da1b85057c76ec881b5ed13d1851d32a46457951c997c423",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "由函数模型走向二分法与实际问题建模"
+    },
+    {
+      "id": "G3c2300f73f29cb",
+      "node_key": "atom-8287d166e6615922",
+      "page_sha256": "fe9e0ffb9ceefe5e3dceec285951cad054a7ed04caae347a9a2bf6de76528983",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "5a5f1a0ee749e4b9c16ea634d2989526c122ab572ae04cdab4ce0f9fd3c4f1e8",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从实际变化规律选择合适的函数模型"
+    },
+    {
+      "id": "Gab1283bbdd50bc",
+      "node_key": "atom-29d7a28f9b4ced75",
+      "page_sha256": "43ea520c9ecf553c8566f9e313904a9c92a30227ade93bf8eed46fa126cd7a93",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "986db0d6759c82f55cc218ce41441a60cabc74dca09659d2f228d1447e502f60",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从昼夜与潮汐的周期变化走向三角函数"
+    },
+    {
+      "id": "P8256a08ec49d57",
+      "node_key": "atom-59378b776e484fc6",
+      "page_sha256": "dfeb189e8e89c4f3075774ee7acd893b90fd095437791ef5a9508d98864c614e",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "940fdbc5d77043c1484e265d9cfae0970dbcc1d7bb39ab6000cf39a94b6b5432",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从圆周运动的位置变化走向任意角与弧度制"
+    },
+    {
+      "id": "Pa6627064705d1a",
+      "node_key": "atom-7d38d5df39f069d6",
+      "page_sha256": "dfd47512bd7bdd959bb69982182170263d11b178d308148ca8d9be91b26345bc",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "0a0908cccef38501c3e9370691ae27060a735ce56e9b808a68e6587b3ae4754d",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "由单位圆上的点定义任意角三角函数"
+    },
+    {
+      "id": "Ga3c4640109d322",
+      "node_key": "atom-5eae5dde20533b9b",
+      "page_sha256": "8c108d8b9264a7462d40044b3d5188996ce1619bb7a8f2ac50bbcf5923aecf07",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "47ccaa764f150bc9e326acc638171878a056d43a1c1b6c671d2ca2c3e97e90bd",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从单位圆旋转探究三角函数图象与周期性"
+    },
+    {
+      "id": "Pfa199ce5ad101a",
+      "node_key": "atom-85abbeea418ed6a2",
+      "page_sha256": "1fd90136aef6d4f35f53fc6bf319c0ae744d72979d24c158cbd27b2921a28271",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "6a62d90ec28e9a1d222938bde8a833e0ca2480a69890d79b71b61e929585995d",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "思考：求含负系数的正弦型函数单调递增区间"
+    },
+    {
+      "id": "P1a79fa00780c9c",
+      "node_key": "atom-882f444b30f733d9",
+      "page_sha256": "44c4af7ccb17df81882ab3b1f734bded2fd80094f9fa5e54216c332060210a3e",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "97f9049866f2317c6c99696d05700a652eb3976c9705a1be5654b1091b99f44f",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "由诱导公式推广到任意角的三角恒等变换"
+    },
+    {
+      "id": "P8c9183bf4406ca",
+      "node_key": "atom-8ef0481f2124e4e0",
+      "page_sha256": "249c02a1b214bc40558ce69a804776a622150262f8f8da9bc8d73f169a86aaa2",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "1c770b70d13f3852036c49a78c8640c9c64ac269301186eea0a9f9e580d01e9e",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "思考：用多种方法证明诱导与和差角恒等式"
+    },
+    {
+      "id": "Gda16c45a6df60b",
+      "node_key": "atom-c6f69a09e43a757e",
+      "page_sha256": "fb46b960193f8ed1230191855bf0f42230c4aa6ea1f7335c10ee97582728bf61",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "2ad8a8d496a7f63357f7f5700d0706ffec50c298dae4d2973c3c35d483f495d2",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "利用和差角与二倍角公式进行三角恒等变换"
+    },
+    {
+      "id": "Geec5d18134dcfa",
+      "node_key": "atom-ebac5430a4475c7e",
+      "page_sha256": "18726d3193ed807b8651df195b47b70b9d242652a7cdf6f8666dcffc40c6fa69",
+      "reason": "逐项对照原文情境与已入库表述，以稳定节点身份同步来源当前内容名；保留原数学身份、正文和类别。",
+      "record_sha256": "2db4949ec6eb71a109e26eea79f135ca91f5a13f4cf573b403f8206be142a46a",
+      "source_file_sha256": "eff75b3b52a0e9bf6142611972baeec1e21ff447709186323e9ad23776225f74",
+      "source_graph_sha256": "251a86b56277449aa2035a176ab7caf3c82c3ec983e252c58da8d4a24196e8bb",
+      "source_id": "rja-required-1",
+      "title": "从匀速圆周运动建立正弦型函数模型"
+    }
+  ],
+  "sources": {
+    "rja-required-1": "高中/课本/【人教版】高中必修 第一册数学电子课本"
+  },
+  "status": "passed",
+  "version": 1
+}
