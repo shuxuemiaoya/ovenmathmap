@@ -1,0 +1,77 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-043",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "91f8317e9b91819ea99f",
+      "text": "# 2 二元一次方程组的解法\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "7bed505d27a0f2f7e090",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84--7d6c67fc.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "aa0f42fde4fbdff0d241",
+      "mathmap_atom_id": "Kf3839fd057fad1",
+      "mathmap_file": "Mathmap/知识点/代入消元法的一般步骤与概念.md",
+      "text": "[代入消元法的一般步骤与概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%A3%E5%85%A5%E6%B6%88%E5%85%83%E6%B3%95%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4%E4%B8%8E%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "291033242392d3c139eb",
+      "mathmap_atom_id": "K227b8b97bc31fe",
+      "mathmap_file": "Mathmap/知识点/代入消元法的原理与消元转化思想.md",
+      "text": "[代入消元法的原理与消元转化思想](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%A3%E5%85%A5%E6%B6%88%E5%85%83%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E6%B6%88%E5%85%83%E8%BD%AC%E5%8C%96%E6%80%9D%E6%83%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6caed3913a7d4712d754",
+      "mathmap_atom_id": "Kb51cad4e60daa0",
+      "mathmap_file": "Mathmap/知识点/加减消元法的原理与一般实施方法.md",
+      "text": "[加减消元法的原理与一般实施方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8A%A0%E5%87%8F%E6%B6%88%E5%85%83%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E4%B8%80%E8%88%AC%E5%AE%9E%E6%96%BD%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1f28b9dcf71de98a2640",
+      "mathmap_atom_id": "K2465f0cb4f815a",
+      "mathmap_file": "Mathmap/知识点/加减消元法解二元一次方程组的通用操作归纳.md",
+      "text": "[加减消元法解二元一次方程组的通用操作归纳](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8A%A0%E5%87%8F%E6%B6%88%E5%85%83%E6%B3%95%E8%A7%A3%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E9%80%9A%E7%94%A8%E6%93%8D%E4%BD%9C%E5%BD%92%E7%BA%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

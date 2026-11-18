@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-05209",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "ee6fa8a8a559659f4db0",
+      "text": "# 8.4.1 平面\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "0dd7240742d36a6a093a",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/8.4%20%E7%A9%BA%E9%97%B4%E7%82%B9%E3%80%81%E7%9B%B4%E7%BA%BF%E3%80%81%E5%B9%B3%E9%9D%A2%E4%B9%8B%E9%97%B4%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB--3a11925d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b4a061774bb1ce59c266",
+      "mathmap_atom_id": "K2e9072e9e34dea",
+      "mathmap_file": "Mathmap/知识点/平面的表示与基本性质.md",
+      "text": "[平面的表示与基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E7%9A%84%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

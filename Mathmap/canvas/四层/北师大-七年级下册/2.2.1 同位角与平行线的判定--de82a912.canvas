@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "386db78da0ca895408e1",
+      "fromSide": "right",
+      "id": "4aeb982c72408affb8b8",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fe3784ad38c164917ced",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fe3784ad38c164917ced",
+      "fromSide": "right",
+      "id": "eaf774a700cd3757d94c",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b59f2e7d0c7259f79773",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-2-1",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "b8dd800ed2d95733a7da",
+      "text": "# 2.2.1 同位角与平行线的判定\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "2d3cda0431f37884a9b2",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E6%8E%A2%E7%B4%A2%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%E7%9A%84%E6%9D%A1%E4%BB%B6--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "386db78da0ca895408e1",
+      "mathmap_atom_id": "K2fe076c73373b5",
+      "mathmap_file": "Mathmap/知识点/同位角概念与平行线判定一（同位角相等，两直线平行）.md",
+      "text": "[同位角概念与平行线判定一（同位角相等，两直线平行）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E4%BD%8D%E8%A7%92%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%88%A4%E5%AE%9A%E4%B8%80%EF%BC%88%E5%90%8C%E4%BD%8D%E8%A7%92%E7%9B%B8%E7%AD%89%EF%BC%8C%E4%B8%A4%E7%9B%B4%E7%BA%BF%E5%B9%B3%E8%A1%8C%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fe3784ad38c164917ced",
+      "mathmap_atom_id": "Kd391738adc81c9",
+      "mathmap_file": "Mathmap/知识点/平行线基本事实：过直线外一点作平行线的唯一性.md",
+      "text": "[平行线基本事实：过直线外一点作平行线的唯一性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%EF%BC%9A%E8%BF%87%E7%9B%B4%E7%BA%BF%E5%A4%96%E4%B8%80%E7%82%B9%E4%BD%9C%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E5%94%AF%E4%B8%80%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b59f2e7d0c7259f79773",
+      "mathmap_atom_id": "Kdb8438d53252ab",
+      "mathmap_file": "Mathmap/知识点/平行线的传递性.md",
+      "text": "[平行线的传递性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E7%BA%BF%E7%9A%84%E4%BC%A0%E9%80%92%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    }
+  ]
+}

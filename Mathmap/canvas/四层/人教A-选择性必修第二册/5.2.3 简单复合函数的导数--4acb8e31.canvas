@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-03562",
+    "source_id": "rja-selective-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d42e331c207a2aa1d62f",
+      "text": "# 5.2.3 简单复合函数的导数\n\n高中选择性必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "0c48e5d37565749673d8",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/5.2%20%E5%AF%BC%E6%95%B0%E7%9A%84%E8%BF%90%E7%AE%97--5cd67262.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e7cef3b89477e2a59bb6",
+      "mathmap_atom_id": "K3bac05b7baa461",
+      "mathmap_file": "Mathmap/知识点/复合函数与链式求导法则.md",
+      "text": "[复合函数与链式求导法则](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E5%90%88%E5%87%BD%E6%95%B0%E4%B8%8E%E9%93%BE%E5%BC%8F%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-6-2-2",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "759b46a70c4ff33067fe",
+      "text": "# 6.2.2 样本的代表性与常见抽样方法\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f8a11dfb00051f49bf7e",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E6%95%B0%E6%8D%AE%E7%9A%84%E6%94%B6%E9%9B%86--604ccf9f.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "149f54c45b9cecbfd354",
+      "mathmap_atom_id": "K60927e9eff2345",
+      "mathmap_file": "Mathmap/知识点/抽样调查的优缺点及样本代表性与广泛性要求.md",
+      "text": "[抽样调查的优缺点及样本代表性与广泛性要求](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%BD%E6%A0%B7%E8%B0%83%E6%9F%A5%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9%E5%8F%8A%E6%A0%B7%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%80%A7%E4%B8%8E%E5%B9%BF%E6%B3%9B%E6%80%A7%E8%A6%81%E6%B1%82.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "744aaf4a3661cd5b8a1f",
+      "mathmap_atom_id": "Kffbcfe644d611e",
+      "mathmap_file": "Mathmap/知识点/知识拓展：大样本与样本代表性的关系（《文学文摘》案例）.md",
+      "text": "[知识拓展：大样本与样本代表性的关系（《文学文摘》案例）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E6%8B%93%E5%B1%95%EF%BC%9A%E5%A4%A7%E6%A0%B7%E6%9C%AC%E4%B8%8E%E6%A0%B7%E6%9C%AC%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%88%E3%80%8A%E6%96%87%E5%AD%A6%E6%96%87%E6%91%98%E3%80%8B%E6%A1%88%E4%BE%8B%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

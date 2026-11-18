@@ -1,0 +1,195 @@
+{
+  "edges": [
+    {
+      "fromNode": "af683881d006ea8c3357",
+      "fromSide": "top",
+      "id": "d5aa4d34a37ad1e07f27",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "3926ef58c05b0b158f8e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "af683881d006ea8c3357",
+      "fromSide": "right",
+      "id": "29446465080370c1e069",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "a5f0e9943bd7a9fb38aa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "afa17ab8e7e666f4b6cd",
+      "fromSide": "top",
+      "id": "2a3477282e2945103c7b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "3fa53f5e3addb54bc932",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4248d4d7d1ea3bca634d",
+      "fromSide": "top",
+      "id": "4d2f499729311e4196b2",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "3f3c65dc74b9a7a43188",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "764496d3f545ec952279",
+      "fromSide": "top",
+      "id": "02578168e7018b5e1479",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "d9df31579a7411b58bc4",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-006",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "76b718199a504998e35a",
+      "text": "# 1.4 充分条件与必要条件\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1b6d44facaaec23f6514",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%80%BB%E8%BE%91%E7%94%A8%E8%AF%AD--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "d9df31579a7411b58bc4",
+      "mathmap_atom_id": "C79bedbb6ff85f6",
+      "mathmap_file": "Mathmap/概念或公式/概念-充分条件与必要条件.md",
+      "text": "[充分条件与必要条件](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "764496d3f545ec952279",
+      "mathmap_atom_id": "Ke33fb36f61afbe",
+      "mathmap_file": "Mathmap/知识点/知识点-充分条件与必要条件.md",
+      "text": "[充分条件与必要条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "3926ef58c05b0b158f8e",
+      "mathmap_atom_id": "C9316abe6acb1ad",
+      "mathmap_file": "Mathmap/概念或公式/概念-充要条件.md",
+      "text": "[充要条件](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "af683881d006ea8c3357",
+      "mathmap_atom_id": "K647939fa14b2b3",
+      "mathmap_file": "Mathmap/知识点/知识点-充要条件.md",
+      "text": "[充要条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "3fa53f5e3addb54bc932",
+      "mathmap_atom_id": "Cfc49b38e421771",
+      "mathmap_file": "Mathmap/概念或公式/概念-判定定理与充分条件的关系.md",
+      "text": "[判定定理与充分条件的关系](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%E4%B8%8E%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "afa17ab8e7e666f4b6cd",
+      "mathmap_atom_id": "K8857b67e1d55ee",
+      "mathmap_file": "Mathmap/知识点/知识点-判定定理与充分条件的关系.md",
+      "text": "[判定定理与充分条件的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86%E4%B8%8E%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1500
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "3f3c65dc74b9a7a43188",
+      "mathmap_atom_id": "C90c1fe425f90bb",
+      "mathmap_file": "Mathmap/概念或公式/概念-性质定理与必要条件的关系.md",
+      "text": "[性质定理与必要条件的关系](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4248d4d7d1ea3bca634d",
+      "mathmap_atom_id": "K951e5cd15d81ae",
+      "mathmap_file": "Mathmap/知识点/知识点-性质定理与必要条件的关系.md",
+      "text": "[性质定理与必要条件的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2100
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a5f0e9943bd7a9fb38aa",
+      "mathmap_atom_id": "K5c55b18bf847b6",
+      "mathmap_file": "Mathmap/知识点/知识点-数学定义与充要条件的关系.md",
+      "text": "[数学定义与充要条件的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E6%95%B0%E5%AD%A6%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "08723048cb6ed01484ae",
+      "mathmap_atom_id": "K61150b24c7e796",
+      "mathmap_file": "Mathmap/知识点/知识点-命题、条件与结论.md",
+      "text": "[命题、条件与结论](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%91%BD%E9%A2%98%E3%80%81%E6%9D%A1%E4%BB%B6%E4%B8%8E%E7%BB%93%E8%AE%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 2320
+    }
+  ]
+}

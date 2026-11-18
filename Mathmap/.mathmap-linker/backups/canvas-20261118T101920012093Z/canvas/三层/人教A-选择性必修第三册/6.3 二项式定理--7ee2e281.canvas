@@ -1,0 +1,89 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-006",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "76b718199a504998e35a",
+      "text": "# 6.3 二项式定理\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1b6d44facaaec23f6514",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19a1648120be80861706",
+      "mathmap_atom_id": "Kf1954f8ac415d5",
+      "mathmap_file": "Mathmap/知识点/二项式定理及其计数推导.md",
+      "text": "[二项式定理及其计数推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AE%A1%E6%95%B0%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5ff4fb20279869ac7767",
+      "mathmap_atom_id": "Kab962976077c08",
+      "mathmap_file": "Mathmap/知识点/二项式系数与杨辉三角.md",
+      "text": "[二项式系数与杨辉三角](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E4%B8%8E%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3bb5c33ad0558fc074ec",
+      "mathmap_atom_id": "K8cf46cb6482251",
+      "mathmap_file": "Mathmap/知识点/二项式系数的增减性与最大值.md",
+      "text": "[二项式系数的增减性与最大值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E5%A2%9E%E5%87%8F%E6%80%A7%E4%B8%8E%E6%9C%80%E5%A4%A7%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "16095b30582449d4fb72",
+      "mathmap_atom_id": "Kc49fb4d5f8c42e",
+      "mathmap_file": "Mathmap/知识点/二项式系数的对称性.md",
+      "text": "[二项式系数的对称性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a499fc4dce86d105b232",
+      "mathmap_atom_id": "K2707421b75f889",
+      "mathmap_file": "Mathmap/知识点/各二项式系数的和.md",
+      "text": "[各二项式系数的和](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%84%E4%BA%8C%E9%A1%B9%E5%BC%8F%E7%B3%BB%E6%95%B0%E7%9A%84%E5%92%8C.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    }
+  ]
+}

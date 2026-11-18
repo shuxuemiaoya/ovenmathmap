@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "af683881d006ea8c3357",
+      "fromSide": "top",
+      "id": "d5aa4d34a37ad1e07f27",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "3926ef58c05b0b158f8e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "af683881d006ea8c3357",
+      "fromSide": "right",
+      "id": "29446465080370c1e069",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "a5f0e9943bd7a9fb38aa",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-01069",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "2eaa71e3b68475c56486",
+      "text": "# 1.4.2 充要条件\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "de145fdc06b9b417e487",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/1.4%20%E5%85%85%E5%88%86%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%BF%85%E8%A6%81%E6%9D%A1%E4%BB%B6--7ee2e281.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "3926ef58c05b0b158f8e",
+      "mathmap_atom_id": "C9316abe6acb1ad",
+      "mathmap_file": "Mathmap/概念或公式/概念-充要条件.md",
+      "text": "[充要条件](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "af683881d006ea8c3357",
+      "mathmap_atom_id": "K647939fa14b2b3",
+      "mathmap_file": "Mathmap/知识点/知识点-充要条件.md",
+      "text": "[充要条件](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a5f0e9943bd7a9fb38aa",
+      "mathmap_atom_id": "K5c55b18bf847b6",
+      "mathmap_file": "Mathmap/知识点/知识点-数学定义与充要条件的关系.md",
+      "text": "[数学定义与充要条件的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E6%95%B0%E5%AD%A6%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%85%85%E8%A6%81%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

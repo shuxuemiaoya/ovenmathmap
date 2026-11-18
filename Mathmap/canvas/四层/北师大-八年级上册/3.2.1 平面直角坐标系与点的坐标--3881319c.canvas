@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-3-2-1",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "08904e1161b5d2f9b5af",
+      "text": "# 3.2.1 平面直角坐标系与点的坐标\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "91e43fb49b2572fc2bd0",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB--ac85d812.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "64afc9413b30974f35dd",
+      "mathmap_atom_id": "K3a060ca5e30777",
+      "mathmap_file": "Mathmap/知识点/平面内的点与有序实数对的一一对应关系.md",
+      "text": "[平面内的点与有序实数对的一一对应关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E5%86%85%E7%9A%84%E7%82%B9%E4%B8%8E%E6%9C%89%E5%BA%8F%E5%AE%9E%E6%95%B0%E5%AF%B9%E7%9A%84%E4%B8%80%E4%B8%80%E5%AF%B9%E5%BA%94%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e91ecd6c1898ca9225c1",
+      "mathmap_atom_id": "K6e05a0eafbd478",
+      "mathmap_file": "Mathmap/知识点/平面直角坐标系的概念、象限划分与点的坐标有序实数对.md",
+      "text": "[平面直角坐标系的概念、象限划分与点的坐标有序实数对](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E9%9D%A2%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E8%B1%A1%E9%99%90%E5%88%92%E5%88%86%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87%E6%9C%89%E5%BA%8F%E5%AE%9E%E6%95%B0%E5%AF%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

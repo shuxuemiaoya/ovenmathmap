@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-2-4",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "b7d8bcdb34b0dea43b2a",
+      "text": "# 2.2.4 无理数的估算与用计算器开方\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f88fc02f46401709aada",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E5%B9%B3%E6%96%B9%E6%A0%B9%E4%B8%8E%E7%AB%8B%E6%96%B9%E6%A0%B9--151aa748.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b2554617b97ebf9a1c83",
+      "mathmap_atom_id": "K6f66433c731234",
+      "mathmap_file": "Mathmap/知识点/用科学计算器进行开方运算引入.md",
+      "text": "[用科学计算器进行开方运算引入](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%99%A8%E8%BF%9B%E8%A1%8C%E5%BC%80%E6%96%B9%E8%BF%90%E7%AE%97%E5%BC%95%E5%85%A5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

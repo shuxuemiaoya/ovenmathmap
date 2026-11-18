@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-09106",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "982b71baef51991b8433",
+      "text": "# 10.1.3 古典概型\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "cba1bf9f31e7685087b5",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/10.1%20%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A6%82%E7%8E%87--e6ce5609.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "81eb4fca0cc6d6f3cef4",
+      "mathmap_atom_id": "K8aeb8fced54352",
+      "mathmap_file": "Mathmap/知识点/古典概型与概率计算.md",
+      "text": "[古典概型与概率计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%A4%E5%85%B8%E6%A6%82%E5%9E%8B%E4%B8%8E%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9abaa73749f20b89fd9f",
+      "mathmap_atom_id": "Kd66f2c7b5816f4",
+      "mathmap_file": "Mathmap/知识点/抽样方法对样本空间与代表性的影响.md",
+      "text": "[抽样方法对样本空间与代表性的影响](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8A%BD%E6%A0%B7%E6%96%B9%E6%B3%95%E5%AF%B9%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E4%B8%8E%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%BD%B1%E5%93%8D.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

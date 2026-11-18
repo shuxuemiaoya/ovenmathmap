@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-6-3-1",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "e082e3b33e1c7ff55263",
+      "text": "# 6.3.1 扇形统计图的绘制与读取\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "52034d3d33cb8bf08cb0",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E6%95%B0%E6%8D%AE%E7%9A%84%E8%A1%A8%E7%A4%BA--5f3b36e4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2aad1a6a224f995b97d6",
+      "mathmap_atom_id": "K1517187800e09c",
+      "mathmap_file": "Mathmap/知识点/扇形统计图中部分百分比与扇形圆心角的关系.md",
+      "text": "[扇形统计图中部分百分比与扇形圆心角的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%89%87%E5%BD%A2%E7%BB%9F%E8%AE%A1%E5%9B%BE%E4%B8%AD%E9%83%A8%E5%88%86%E7%99%BE%E5%88%86%E6%AF%94%E4%B8%8E%E6%89%87%E5%BD%A2%E5%9C%86%E5%BF%83%E8%A7%92%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ce6d178fd281d99cd2de",
+      "mathmap_atom_id": "Kb0e3099a52ae74",
+      "mathmap_file": "Mathmap/知识点/操作·思考：绘制扇形统计图的步骤、圆心角公式与特点.md",
+      "text": "[操作·思考：绘制扇形统计图的步骤、圆心角公式与特点](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%93%8D%E4%BD%9C%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E7%BB%98%E5%88%B6%E6%89%87%E5%BD%A2%E7%BB%9F%E8%AE%A1%E5%9B%BE%E7%9A%84%E6%AD%A5%E9%AA%A4%E3%80%81%E5%9C%86%E5%BF%83%E8%A7%92%E5%85%AC%E5%BC%8F%E4%B8%8E%E7%89%B9%E7%82%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-08468",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d9d8b1a7b8b113a138ad",
+      "text": "# 5.4.3 正切函数的性质与图象\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "ddc7ab38b6a02e2f8e92",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/5.4%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E8%B1%A1%E4%B8%8E%E6%80%A7%E8%B4%A8--fbbb975e.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "59283302d88a67b1044b",
+      "mathmap_atom_id": "K9b706c1b4d817d",
+      "mathmap_file": "Mathmap/知识点/知识点-正切函数的周期性与奇偶性.md",
+      "text": "[正切函数的周期性与奇偶性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E4%B8%8E%E5%A5%87%E5%81%B6%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bf0e8723e6773c4ec16d",
+      "mathmap_atom_id": "K46764629db6286",
+      "mathmap_file": "Mathmap/知识点/知识点-正切函数的图象与单调性、值域.md",
+      "text": "[正切函数的图象与单调性、值域](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E6%AD%A3%E5%88%87%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E8%B1%A1%E4%B8%8E%E5%8D%95%E8%B0%83%E6%80%A7%E3%80%81%E5%80%BC%E5%9F%9F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

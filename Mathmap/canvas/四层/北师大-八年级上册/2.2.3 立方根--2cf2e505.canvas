@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-2-3",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "0ae96d17e7abe9e2795c",
+      "text": "# 2.2.3 立方根\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "a9808e739569513428cb",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E5%B9%B3%E6%96%B9%E6%A0%B9%E4%B8%8E%E7%AB%8B%E6%96%B9%E6%A0%B9--151aa748.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9b8e10ca19f717f1ff1a",
+      "mathmap_atom_id": "K8e72d2ea7f52eb",
+      "mathmap_file": "Mathmap/知识点/立方根的性质、符号表示与开立方运算.md",
+      "text": "[立方根的性质、符号表示与开立方运算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AB%8B%E6%96%B9%E6%A0%B9%E7%9A%84%E6%80%A7%E8%B4%A8%E3%80%81%E7%AC%A6%E5%8F%B7%E8%A1%A8%E7%A4%BA%E4%B8%8E%E5%BC%80%E7%AB%8B%E6%96%B9%E8%BF%90%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fea56dd56a941ae87b47",
+      "mathmap_atom_id": "Ke95804d3000232",
+      "mathmap_file": "Mathmap/知识点/立方根的概念.md",
+      "text": "[立方根的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AB%8B%E6%96%B9%E6%A0%B9%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

@@ -1,12 +1,83 @@
 {
-	"edges":[
-		{"fromNode":"e5769fcc476d57758c6e","fromSide":"right","id":"b729f8022810662e69ac","label":"先修","toEnd":"arrow","toNode":"e4034d5d77ceb0e99377","toSide":"left"}
-	],
-	"mathmap":{"contract":"knowledge-canvas/v1","level":"三层","scope_key":"node-toc-012","source_id":"rja-required-2"},
-	"nodes":[
-		{"height":130,"id":"e64d6faa8429bf9da85d","text":"# 7.1 复数的概念\n\n高中必修 第二册·人教A版数学","type":"text","width":700,"x":0,"y":-240},
-		{"height":100,"id":"fd192a0da331c83a9e9a","text":"[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0--41206a64.canvas)","type":"text","width":380,"x":780,"y":-240},
-		{"color":"2","height":120,"id":"e5769fcc476d57758c6e","mathmap_atom_id":"K3722fe0f8d3d78","mathmap_file":"Mathmap/知识点/复数的概念与数系扩充.md","text":"[复数的概念与数系扩充](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)","type":"text","width":360,"x":0,"y":0},
-		{"color":"2","height":120,"id":"e4034d5d77ceb0e99377","mathmap_atom_id":"K5a4e937970e0f5","mathmap_file":"Mathmap/知识点/复数的几何意义.md","text":"[复数的几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)","type":"text","width":360,"x":600,"y":0}
-	]
+  "edges": [
+    {
+      "fromNode": "e5769fcc476d57758c6e",
+      "fromSide": "right",
+      "id": "b729f8022810662e69ac",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "e4034d5d77ceb0e99377",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-012",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "e64d6faa8429bf9da85d",
+      "text": "# 7.1 复数的概念\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fd192a0da331c83a9e9a",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E5%A4%8D%E6%95%B0--41206a64.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e5769fcc476d57758c6e",
+      "mathmap_atom_id": "K3722fe0f8d3d78",
+      "mathmap_file": "Mathmap/知识点/复数的概念与数系扩充.md",
+      "text": "[复数的概念与数系扩充](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E7%B3%BB%E6%89%A9%E5%85%85.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e4034d5d77ceb0e99377",
+      "mathmap_atom_id": "K5a4e937970e0f5",
+      "mathmap_file": "Mathmap/知识点/复数的几何意义.md",
+      "text": "[复数的几何意义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "ab431a8318b30df0212b",
+      "text": "[7.1.1 数系的扩充和复数的概念](../../%E5%9B%9B%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/7.1.1%20%E6%95%B0%E7%B3%BB%E7%9A%84%E6%89%A9%E5%85%85%E5%92%8C%E5%A4%8D%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5--5d07f68a.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "06b9cf8cab3ddf917c6f",
+      "text": "[7.1.2 复数的几何意义](../../%E5%9B%9B%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/7.1.2%20%E5%A4%8D%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89--b597a346.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 220
+    }
+  ]
 }

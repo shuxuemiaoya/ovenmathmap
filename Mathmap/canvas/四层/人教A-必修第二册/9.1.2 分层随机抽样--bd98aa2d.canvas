@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-07478",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "02c3a223908c1890fcd9",
+      "text": "# 9.1.2 分层随机抽样\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "49466642450f7b0a5eeb",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/9.1%20%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7--5ecb5636.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1baa7e3127e28351ac44",
+      "mathmap_atom_id": "K6b602de5d0fec5",
+      "mathmap_file": "Mathmap/知识点/分层随机抽样与总体均值估计.md",
+      "text": "[分层随机抽样与总体均值估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%B1%82%E9%9A%8F%E6%9C%BA%E6%8A%BD%E6%A0%B7%E4%B8%8E%E6%80%BB%E4%BD%93%E5%9D%87%E5%80%BC%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

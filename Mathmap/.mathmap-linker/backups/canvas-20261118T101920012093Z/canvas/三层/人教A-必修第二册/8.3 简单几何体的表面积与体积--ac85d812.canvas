@@ -1,0 +1,77 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-023",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "af950144488038c5c8b4",
+      "text": "# 8.3 简单几何体的表面积与体积\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "80889698387d465524ce",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95%E5%88%9D%E6%AD%A5--fc518d23.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d0bbf5b01e95e2531cf7",
+      "mathmap_atom_id": "Ke60c14555e13c7",
+      "mathmap_file": "Mathmap/知识点/圆柱、圆锥、圆台的表面积和体积.md",
+      "text": "[圆柱、圆锥、圆台的表面积和体积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E6%9F%B1%E3%80%81%E5%9C%86%E9%94%A5%E3%80%81%E5%9C%86%E5%8F%B0%E7%9A%84%E8%A1%A8%E9%9D%A2%E7%A7%AF%E5%92%8C%E4%BD%93%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "51f969638c840eed086f",
+      "mathmap_atom_id": "Kd8df90445c6bbe",
+      "mathmap_file": "Mathmap/知识点/棱柱、棱锥、棱台的体积.md",
+      "text": "[棱柱、棱锥、棱台的体积](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A3%B1%E6%9F%B1%E3%80%81%E6%A3%B1%E9%94%A5%E3%80%81%E6%A3%B1%E5%8F%B0%E7%9A%84%E4%BD%93%E7%A7%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "f5fbfb0202646bdd2d5b",
+      "mathmap_atom_id": "C29916ae179134c",
+      "mathmap_file": "Mathmap/概念或公式/棱柱棱锥棱台的体积公式.md",
+      "text": "[棱柱棱锥棱台的体积公式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A3%B1%E6%9F%B1%E6%A3%B1%E9%94%A5%E6%A3%B1%E5%8F%B0%E7%9A%84%E4%BD%93%E7%A7%AF%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9dbae5344e18e488aa5b",
+      "mathmap_atom_id": "K42974f23e13b99",
+      "mathmap_file": "Mathmap/知识点/球的表面积与体积公式.md",
+      "text": "[球的表面积与体积公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%90%83%E7%9A%84%E8%A1%A8%E9%9D%A2%E7%A7%AF%E4%B8%8E%E4%BD%93%E7%A7%AF%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

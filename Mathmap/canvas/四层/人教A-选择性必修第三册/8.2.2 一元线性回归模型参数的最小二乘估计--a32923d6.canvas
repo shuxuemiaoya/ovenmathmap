@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "c645a5d642cd88c0a420",
+      "fromSide": "right",
+      "id": "9d8bde6df99a290db97c",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "56227ab29617f8e4263b",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-04437",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "41f38e04fc236280fcb2",
+      "text": "# 8.2.2 一元线性回归模型参数的最小二乘估计\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "85ad4f47dad32743ce1f",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/8.2%20%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8--ac85d812.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c645a5d642cd88c0a420",
+      "mathmap_atom_id": "K95806c54120229",
+      "mathmap_file": "Mathmap/知识点/一元线性回归参数的最小二乘估计.md",
+      "text": "[一元线性回归参数的最小二乘估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%8F%82%E6%95%B0%E7%9A%84%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "56227ab29617f8e4263b",
+      "mathmap_atom_id": "K226b248acc4ed4",
+      "mathmap_file": "Mathmap/知识点/回归预测与残差分析.md",
+      "text": "[回归预测与残差分析](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%9E%E5%BD%92%E9%A2%84%E6%B5%8B%E4%B8%8E%E6%AE%8B%E5%B7%AE%E5%88%86%E6%9E%90.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

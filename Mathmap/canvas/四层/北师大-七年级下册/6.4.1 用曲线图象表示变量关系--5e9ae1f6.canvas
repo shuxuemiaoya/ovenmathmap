@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-6-4-1",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "1e57a621b119b995353b",
+      "text": "# 6.4.1 用曲线图象表示变量关系\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f64ad1efbc3ea1360f86",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/4%20%E7%94%A8%E5%9B%BE%E8%B1%A1%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB--39386e91.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "78a0e255d1f48114adf3",
+      "mathmap_atom_id": "K1ebf0a0c116a7d",
+      "mathmap_file": "Mathmap/知识点/用图象直观表示变量之间的关系（图象法概述）.md",
+      "text": "[用图象直观表示变量之间的关系（图象法概述）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%9B%BE%E8%B1%A1%E7%9B%B4%E8%A7%82%E8%A1%A8%E7%A4%BA%E5%8F%98%E9%87%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB%EF%BC%88%E5%9B%BE%E8%B1%A1%E6%B3%95%E6%A6%82%E8%BF%B0%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

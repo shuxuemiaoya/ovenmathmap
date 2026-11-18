@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-02234",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8a39e5bb4c22fa047b68",
+      "text": "# 7.1.2 全概率公式\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "3f7643b8db463a3f21bb",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F--41206a64.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b982d3d3d38af610ede6",
+      "mathmap_atom_id": "Ka7a395cd48ec73",
+      "mathmap_file": "Mathmap/知识点/先验概率与后验概率的解释.md",
+      "text": "[先验概率与后验概率的解释](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%88%E9%AA%8C%E6%A6%82%E7%8E%87%E4%B8%8E%E5%90%8E%E9%AA%8C%E6%A6%82%E7%8E%87%E7%9A%84%E8%A7%A3%E9%87%8A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fdf38da58753a6243f9b",
+      "mathmap_atom_id": "K49c022480993a7",
+      "mathmap_file": "Mathmap/知识点/全概率公式及其应用.md",
+      "text": "[全概率公式及其应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "node-toc-015",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8862c879873bb09320e8",
+      "text": "# 习题 2.2\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "caaffc2ac4b9c972221f",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E5%B9%B3%E6%96%B9%E6%A0%B9%E4%B8%8E%E7%AB%8B%E6%96%B9%E6%A0%B9--151aa748.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "26b62fd684af96f65ece",
+      "mathmap_atom_id": "K1c77f92ac841dc",
+      "mathmap_file": "Mathmap/知识点/第一宇宙速度计算公式与二次根式应用.md",
+      "text": "[第一宇宙速度计算公式与二次根式应用](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AC%AC%E4%B8%80%E5%AE%87%E5%AE%99%E9%80%9F%E5%BA%A6%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%BA%8C%E6%AC%A1%E6%A0%B9%E5%BC%8F%E5%BA%94%E7%94%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

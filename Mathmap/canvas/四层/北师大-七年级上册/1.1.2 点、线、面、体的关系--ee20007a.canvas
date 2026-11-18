@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "9b60fc1d911a3d101fb8",
+      "fromSide": "right",
+      "id": "57b5dbd4ea010cf3fd22",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "900ea045be9a0be37bf0",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-1-1-2",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c75808c0b5ee1e1ec9c1",
+      "text": "# 1.1.2 点、线、面、体的关系\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "06534d64a5a9126e5394",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E7%AB%8B%E4%BD%93%E5%9B%BE%E5%BD%A2--dbe96e90.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9b60fc1d911a3d101fb8",
+      "mathmap_atom_id": "K7550f5d92086de",
+      "mathmap_file": "Mathmap/知识点/图形的构成要素：点、线、面及其相交关系.md",
+      "text": "[图形的构成要素：点、线、面及其相交关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%9E%84%E6%88%90%E8%A6%81%E7%B4%A0%EF%BC%9A%E7%82%B9%E3%80%81%E7%BA%BF%E3%80%81%E9%9D%A2%E5%8F%8A%E5%85%B6%E7%9B%B8%E4%BA%A4%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "900ea045be9a0be37bf0",
+      "mathmap_atom_id": "Kb451292508e03f",
+      "mathmap_file": "Mathmap/知识点/点动成线、线动成面、面动成体.md",
+      "text": "[点动成线、线动成面、面动成体](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E5%8A%A8%E6%88%90%E7%BA%BF%E3%80%81%E7%BA%BF%E5%8A%A8%E6%88%90%E9%9D%A2%E3%80%81%E9%9D%A2%E5%8A%A8%E6%88%90%E4%BD%93.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

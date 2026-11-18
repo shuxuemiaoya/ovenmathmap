@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-08350",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "0b6478f566391fadf0f4",
+      "text": "# 9.2.4 总体离散程度的估计\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "810df6fa1619abfab00b",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E9%98%85%E8%AF%BB%E4%B8%8E%E6%80%9D%E8%80%83%20%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9C%A8%E5%86%9B%E4%BA%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%20%E2%80%94%E2%80%94%E4%BA%8C%E6%88%98%E6%97%B6%E5%BE%B7%E5%9B%BD%E5%9D%A6%E5%85%8B%E6%80%BB%E9%87%8F%E7%9A%84%E4%BC%B0%E8%AE%A1%E9%97%AE%E9%A2%98--19b25135.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0d39e9eec85089733a2b",
+      "mathmap_atom_id": "Kca839fe1f898f4",
+      "mathmap_file": "Mathmap/知识点/总体离散程度的估计.md",
+      "text": "[总体离散程度的估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%80%BB%E4%BD%93%E7%A6%BB%E6%95%A3%E7%A8%8B%E5%BA%A6%E7%9A%84%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

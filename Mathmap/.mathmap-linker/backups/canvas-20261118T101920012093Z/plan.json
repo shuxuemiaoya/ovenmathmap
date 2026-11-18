@@ -1,0 +1,2413 @@
+{
+  "applied": false,
+  "changes": [
+    {
+      "before_sha256": "4efd62309bf929665e962dea44e629d91623542f429ba5846a616b94f732b87f",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/1 生活中的立体图形--dbe96e90.canvas",
+      "sha256": "08a9bf613ff75e31c99e44d69df3d8f9e90243f407741bd600e090f08b78bbe0"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/1.1.1 常见几何体与棱柱的特征--e10768c1.canvas",
+      "sha256": "d29cd903689ff78d4a05a64fea8cebebc8a3d7002efbaf6e0e87eedf025ccfb7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/1.1.2 点、线、面、体的关系--ee20007a.canvas",
+      "sha256": "3e5571ff5fb8404f26d67e50ce9443658450e2bbba032fa175782c1feb2b801b"
+    },
+    {
+      "before_sha256": "499752e3d922adf286bc547c6c49dbb997e6bbe8bd4a6aacac78a8e501bd5277",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/2 从立体图形到平面图形--fdc878d1.canvas",
+      "sha256": "f0254065b402ed52991e72e7bc77c160e9aa01d86f0f6ddf3975e9db78e94f98"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/1.2.1 正方体与常见几何体的展开与折叠--330df920.canvas",
+      "sha256": "c9c48398b78d8aa43a878aa5dd5f05052904d6d384d45fac36b57d1bc6a8e291"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/1.2.2 截一个几何体--eaaf76ed.canvas",
+      "sha256": "3fbc5d2c253419c1b314e115488b78970a1b54758e326a17d2ffa4b9e6c71bfd"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/1.2.3 从三个方向看物体的形状--7f0f40a6.canvas",
+      "sha256": "3fc4b4c66e2947e15d8c5aa517b2b356cd7e82cb6740dbba2264f94de851c4df"
+    },
+    {
+      "before_sha256": "27e3acf41fa02be09887882b69b16282c86064be1fdafc90a56716d321a12c23",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/1 认识有理数--4635d5d5.canvas",
+      "sha256": "f66113b958a62e943dbb1c8d0f9c79a2ed19dd0aea1e1ac17f581c2319eaf38a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.1.1 正数、负数与有理数的分类--91b6a299.canvas",
+      "sha256": "fb7a2473321e7e5f858cf8a05654258ab831315d2af4ec91c2c5cdc58a0c606c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.1.2 相反数、绝对值与有理数大小比较--9bc088d5.canvas",
+      "sha256": "2ca0d711e4d561dc4496c7fc1fad332f82eda25e42e3c05d1edb3e72c93cf919"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.1.3 数轴与数形结合表示有理数--ef68fe6b.canvas",
+      "sha256": "96950c2ba0e8a4a423e34e5ce4c0034349a81ce44cf3b9aa9ba33df094783a0f"
+    },
+    {
+      "before_sha256": "4fab09c517dcca79d6ddb072810eb8d16bb8218764baf24d42330d5d03a9f088",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/2 有理数的加减运算--41206a64.canvas",
+      "sha256": "70622e936735accde39c15a9b2415fe8831983ee84ac515211a6743dd08958c9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.2.1 有理数的加法法则--de82a912.canvas",
+      "sha256": "acde5dca72bfb307c071384a433ab6fa0233f0e9e17ae0c920d660410f4d3b89"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.2.2 有理数加法的运算律--11d94c1a.canvas",
+      "sha256": "8c2a9ea9cf2ab5bc0613fb1601805d9bbca93fc850d16b737b0faeb115107b7b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.2.3 有理数的减法法则--2cf2e505.canvas",
+      "sha256": "558306172d526b97bc8192d1447d7a166dd225efbd03ff82bdb1dea281125ef5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.2.4 有理数的加减混合运算--d95a7a8b.canvas",
+      "sha256": "8860cf50a3b3daa593ab02a2ce6ef5bcdc1734d633718f5e796174aa95e5be26"
+    },
+    {
+      "before_sha256": "ee725cd4b0910a920126e5bfa5ad4b5bb1ca88109a32ed74ef4672563d110095",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/3 有理数的乘除运算--8e1bab2b.canvas",
+      "sha256": "74b5e393948544f127828e86cc6b6b893e0056847afebdd537c4445a67e22534"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.3.1 有理数的乘法法则与倒数--68bfa461.canvas",
+      "sha256": "e3a8f399ae021af544b7334fc78f8f52708cda3fa07d78beb72d1a4f7772406f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.3.2 多个有理数相乘与乘法运算律--a8e964bd.canvas",
+      "sha256": "3a14d9757f4fdc69a4c9d6402656c1060f0ae6020f88a16818f1ec003c69e4b2"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.3.3 有理数的除法法则--042f2eb9.canvas",
+      "sha256": "e9b46e5bbe24dcef8fce32636f751949e88a9ee10acaf77e8657087d4d986066"
+    },
+    {
+      "before_sha256": "5451a93d82d11306e4770db03b32c1ae5d87172660edb36c9aefe576b48c958c",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/4 有理数的乘方--88c4c5f0.canvas",
+      "sha256": "1b93b3f54728b7131b29c155067c2f0b5c9679f0fe123074fd4ed4cf14da79de"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.4.1 有理数的乘方与幂的运算--de33019e.canvas",
+      "sha256": "af00ad88b302f425e24832f24ad6bab8a838a762ac7ce7ed90125c8577a751c9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.4.2 科学记数法--ad61308d.canvas",
+      "sha256": "8eb58f62d3cfc8ab96ba472a20189c9e4b24662380766792ba5d992becbf75eb"
+    },
+    {
+      "before_sha256": "8b92d31e6e26a22682011f22df190653ba4e608c9b22cdec410ead7277e61d70",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/5 有理数的混合运算--99368e80.canvas",
+      "sha256": "591099f73a9165fd86b835956b03ead63ff9f92234d11db300013bdd4a83ea61"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.5.1 有理数混合运算顺序与“24点”应用--46851351.canvas",
+      "sha256": "be0b78d2d743e6b207387cad19d3f6db127c5df61732ac46d8d15398847ea948"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/2.5.2 用计算器进行有理数运算--244d3497.canvas",
+      "sha256": "ac1ee40c0692a188b7c80c0df0539be9641e6b604596d53d45160d1d194c596d"
+    },
+    {
+      "before_sha256": "317b6ae031fd6ac3981960ed140c3665745f5dce503e64693d71a59aa5dd9fb5",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/1 代数式--6da8d542.canvas",
+      "sha256": "823019cfe958ad2c55b45fcb4a606937960171958992477ef76e55a32327f251"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/3.1.1 用字母表示数与代数式的概念--939063e8.canvas",
+      "sha256": "4e42b48c1aade8c3784bea6337c95b8023b0deea921116e5a06eba3019683221"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/3.1.2 列代数式与求代数式的值--6af64114.canvas",
+      "sha256": "d77db6c9a5c0ac78f01f66b94b5275f19770687836987971dd29e2d93a554783"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/3.1.3 整式、单项式与多项式--bf64a7a5.canvas",
+      "sha256": "7f42c9324979f28d08e742be485f294cb7826a4d4fd3f4d21dffb84f18ceabb8"
+    },
+    {
+      "before_sha256": "942b39acce0442c1190ea7841b19b8e2819565bbb0d241e8ad4e71675e1c626a",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/2 整式的加减--164d4c5d.canvas",
+      "sha256": "3eb2d1628993e9c05d08fd42ac8b5a0bae9c76481ef283840213ac8e8c1fe5e8"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/3.2.1 同类项与合并同类项--3881319c.canvas",
+      "sha256": "c5cd222a9f9d3bb4fb0a7a2c2e81f7c451770f17bd5445f197117b546ca4b23d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/3.2.2 去括号法则--fc169332.canvas",
+      "sha256": "d6578483780c43257fcc6768f0f5b6df7a8110a148760707b50f398ce40e0493"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/3.2.3 整式的加减运算--2426952c.canvas",
+      "sha256": "034c55eaec649e418722031a5cde0e9ddd3dd65f533980c1b8ca1c99bbd35103"
+    },
+    {
+      "before_sha256": "1c9c50a04c86c6537a2b5ea6ac2bf335cbb8f1c73d65b30b5da4dfc2b6fbcf15",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/1 线段、射线、直线--0bf45746.canvas",
+      "sha256": "55b4426a05ee046aaafaa8445770f8b1888c8af8f91d7b3c922a62f2b979ea34"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/4.1.1 线段、射线、直线的概念与“两点确定一条直线”--5733fe7b.canvas",
+      "sha256": "bb1cd4d31620ba2ea178b668905bd200f5d99d895336af9f7537614b3b081075"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/4.1.2 比较线段的长短、线段中点与尺规作图--73d3c3b0.canvas",
+      "sha256": "a095c6a5aaacaee00e23097ed7bf4e967a783e48740a828d17cd9ea38acbe71d"
+    },
+    {
+      "before_sha256": "3cab8501986cc772aa468b32464c7851b0c045b8cb24085f92fd13df27db3849",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/2 角--d49d1dc1.canvas",
+      "sha256": "d0c164e41969a1020415962f0f03a67e5c23112e7d317017c6fac8a6146be58a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/4.2.1 角的概念、表示与度量单位换算--16dcadf4.canvas",
+      "sha256": "96b1694cbf5930347184b8322f93419a935c09f596174e888006b9c91601d713"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/4.2.2 角的比较与角平分线--b7116fb1.canvas",
+      "sha256": "3b9293e58f9d60b302531eea06a235afb0c33492e4bdd6989bf0fd5015e20db0"
+    },
+    {
+      "before_sha256": "6ca1480ce6a62b83b4f3adb4a301fcf9dc91e6d6818323d7b5e85408eb877177",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/3 多边形和圆的初步认识--984a5067.canvas",
+      "sha256": "93f8548d2e18f41c3100385cd50c8819a097901bc4bf91e2f010d22b3d494df9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/4.3.1 多边形、对角线与正多边形--be7c6d76.canvas",
+      "sha256": "e2b9bccc1bed5d72a499cf844ef539053ec7ffe10a309163d01d9ab14c1876e1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/4.3.2 圆、弧、扇形与圆心角--3df9e02b.canvas",
+      "sha256": "916d3b63b3e217dfd9c6ed88a87bd071900d7a85a4273d8210a45e276d9704b2"
+    },
+    {
+      "before_sha256": "7e6d980bdbb9765fee6dd6d1bd261b845a1fc2919d28b8c24b982db9da26334b",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/2 一元一次方程的解法--e6ce5609.canvas",
+      "sha256": "9462afe2e56478643c9903af19270c29c822dc838f48767f845c1f4b4bd8db5f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.2.1 等式的基本性质与简单方程求解--b5777254.canvas",
+      "sha256": "597ff61f1676ce7be6d5faeb94edcd467b25bf8ad5a9c960b3c850e28e195813"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.2.2 用移项法解一元一次方程--6975484b.canvas",
+      "sha256": "efd4c25d2ab3e75f56b675400a78ece5301aec20a3b533476d291a8fa34a78de"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.2.3 用去括号法解一元一次方程--0ec14d87.canvas",
+      "sha256": "20a2ba7267760bacbea4cc0df93433bb64942ea38d0b4af377b7336246e0c794"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.2.4 用去分母法解一元一次方程及一般步骤--a5abbea5.canvas",
+      "sha256": "26157874e465daf6406c338f0b4706a3ea492b5d8a34f066b1c8e9b7398b9daa"
+    },
+    {
+      "before_sha256": "8067a0d76353fcbd8ba3cef86b2e55e1308ccfc2f1ffc213c227fd63950b641c",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/3 一元一次方程的应用--a1ddf92c.canvas",
+      "sha256": "9f7fa8288f8b0bb770824d23d595fa8d326c35d08e4bb3cdc87f99d094239b74"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.3.1 几何等周长与等积变形问题--17023268.canvas",
+      "sha256": "3fd048c3c330a4970fa678535bdbb3ab702f550d733b1a31dc8ca1e4e4a76e6e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.3.2 “盈不足”问题与表格建模--636c6a0d.canvas",
+      "sha256": "ededa6766c0c620a0fd8aee9170a5ca3b72fb6ae998428375e986524770d18ca"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/5.3.3 行程追及相遇问题与列方程解应用题一般步骤--e5bb9529.canvas",
+      "sha256": "a4323c1d0bea3b7aaaa9635c52fa0320703d808301c51883c58f4af82214bc5b"
+    },
+    {
+      "before_sha256": "1712068885a0bd3e9491305847cadd32bf19530e63f3efc72af18fcfd1358a7c",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/2 数据的收集--604ccf9f.canvas",
+      "sha256": "8dbdac122882868672a13b56062c46266c143fb632ce1c0143e7e0eded5aa714"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/6.2.1 数据的收集方式、普查与抽样调查--ede9e3ba.canvas",
+      "sha256": "1d575c8b00d9914d3b45f0748c9fe92e0fe01d000f9690d06ee9e12806928bb5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/6.2.2 样本的代表性与常见抽样方法--0290da07.canvas",
+      "sha256": "e870a53803a0d64fda6720438bf494750846150990a1738b4e86d6e1b4c75b18"
+    },
+    {
+      "before_sha256": "ce925bc105cd0cf38e38cf57a9f26dff2eb85939730a77fc5b201b8db2c3ce90",
+      "path": "Mathmap/canvas/三层/北师大-七年级上册/3 数据的表示--5f3b36e4.canvas",
+      "sha256": "4f5ec637b3fc89c1e5d396a9c2f3b8f4f7dbec8fa0783ebc4710aaf69f600c36"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/6.3.1 扇形统计图的绘制与读取--adf9099c.canvas",
+      "sha256": "0c6a415dcd48cf93feb16dd1eccd0c4683adc41adbea1cb161a0f51fb163339b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/6.3.2 频数直方图--ff3c58b3.canvas",
+      "sha256": "f48a6b1d9f438f2cfde449e02da2f657c1bfdc1695bd9f13fed9f320c81150e7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级上册/6.3.3 统计图的比较与合理选择--26899d2d.canvas",
+      "sha256": "0c75e68310cfe442485c696c09c5b837ccc392a65a45a386d36cbd123e1d9ea7"
+    },
+    {
+      "before_sha256": "4c9b066145b5960d115f6330533eea0cb55d49e12d21a0a77c6ad6f821b0c1eb",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/1 幂的乘除--dbe96e90.canvas",
+      "sha256": "82193067f45b8051fbb569d1644137cd34fb2da2215b62f8ce96f66b66b3b775"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.1.1 同底数幂的乘法--e10768c1.canvas",
+      "sha256": "99a3c945eabf19906ed86af311e983c20567d08893e39d7e8511f9f1c9ed1e48"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.1.2 幂的乘方--ee20007a.canvas",
+      "sha256": "d42d316cacd5a6b30484449fda945b63d4f6c2563ab7d06dbe8138ef32ae3ce4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.1.3 积的乘方--01b834d1.canvas",
+      "sha256": "277e933313647cd7e691fc535c55d13254f8f9d3d290b68a69c280b51067386d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.1.4 同底数幂的除法与科学记数法--83f6fcb4.canvas",
+      "sha256": "19c3974c3fc11234c5b979efc9627b91b0af536d2480da403f5fbf5072cda3e4"
+    },
+    {
+      "before_sha256": "e327f7bfcc34b180452b5761441403d27c6bff6e3aa95b60513ba06e43b52973",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/2 整式的乘法--fdc878d1.canvas",
+      "sha256": "c870f668e1589896f53924a117045a65914826c664fa9967033881de6d535e6a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.2.1 单项式乘单项式--330df920.canvas",
+      "sha256": "8aba9d10faa1f1e378d66d41f413f2c6ed2f1761855c41b7231e698944cbaad6"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.2.2 单项式乘多项式与多项式乘多项式--eaaf76ed.canvas",
+      "sha256": "b841db69e03427b584f71a0fb10bd2afc70ba2bd25acf3bb6aabbb16a12a624a"
+    },
+    {
+      "before_sha256": "5248ab3473342b5c987cbcc3da54cf1834e6e2478934d3f847685097f0727ba6",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/3 乘法公式--7ee2e281.canvas",
+      "sha256": "5596522d0eb6047ffbc77c46e52599de00b5d8bfb89cfb26861e23ee2af4f7ae"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.3.1 平方差公式--4543c1c4.canvas",
+      "sha256": "c6082897aca3c4a2bf582cd68fd1aae3905109df76bc9431b6deb602722d1bed"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/1.3.2 完全平方公式--dc979d0c.canvas",
+      "sha256": "14fe078f67819802f7a5ff157a04b65d4859033cfa7b28c5c56bf9db238ec4dd"
+    },
+    {
+      "before_sha256": "6a3beb8cd7c7d12969253a7e3a432ffdae8f81dc401993aaef0054a37f44f37b",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/1 两条直线的位置关系--8e1bab2b.canvas",
+      "sha256": "f5e6646c7ae30cfe7ea58d326c9d0090f25b7f792c42a93452b3210eed3f86da"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/2.1.1 对顶角、余角与补角--91b6a299.canvas",
+      "sha256": "90072a029e5f96c6c640c836066d2df605b7e273229d918ee5a7eccd09035103"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/2.1.2 垂直与垂线段--9bc088d5.canvas",
+      "sha256": "187a74d3d4b42e099a187d822c60b8886dfeaed4a85d9286d7048e9f6ee03a6a"
+    },
+    {
+      "before_sha256": "5bd1f762f9330d58e38023396e815a3f2c271d6c54c7c9f1ff712886c1404ded",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/2 探索直线平行的条件--88c4c5f0.canvas",
+      "sha256": "077329f1e14be8094f1005d3a65314aa0503669b625be86c6531ac37fee9c377"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/2.2.1 同位角与平行线的判定--de82a912.canvas",
+      "sha256": "963fb6868eceb7914f7b8868a755ee0b9e8e96549fa59c264461089dc8af1649"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/2.2.2 内错角、同旁内角与平行线的判定--11d94c1a.canvas",
+      "sha256": "aba06b5814b9e6fa137267378fac7ae6e2f05ea9ec49c6eeeb30b8db77220e3a"
+    },
+    {
+      "before_sha256": "289f537b2fd613eae6b2490d90d6f0bd5e9b7e81aa5423df6d7adebeb87e8f86",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/3 等可能事件的概率--dcb67386.canvas",
+      "sha256": "e190c0dd412d64496616f4797fd84ca493cb931fd856c86423f00c54d050a2fe"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/3.3.1 等可能事件的概率公式--24b63453.canvas",
+      "sha256": "3f70b71aa0cd46bc6fea8307267c8473396946e9e97612f7b0f643286d7c6ebd"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/3.3.2 游戏的公平性与概率设计--eb5cbbbb.canvas",
+      "sha256": "0d8bb85270fc4458ae28b7b61a8c66ae043d7f330d7d50c93229bda9656c4f65"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/3.3.3 几何区域中的等可能事件概率--1f424694.canvas",
+      "sha256": "5285d372881cd633d56d893aa8042939684d13a02322fc784f218f008d6e6bd9"
+    },
+    {
+      "before_sha256": "eeb5f6751bdd4fcfa2e1fec83433543a27f82b7d0aa624ffc37a3087164d2ef0",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/1 认识三角形--89e48b7b.canvas",
+      "sha256": "bc4f97778dc79ee46f2d1d1a9a45861f63679fe3a765a57d44b1c9eea1ad80a7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/4.1.1 三角形的概念、内角和与分类--5733fe7b.canvas",
+      "sha256": "b1b486ef95231080e4a6ca4f5ace9ae724d1bcca79a7ce916dba2aee24c1a6dc"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/4.1.2 等腰三角形、等边三角形与三边关系--73d3c3b0.canvas",
+      "sha256": "9d45baff2aa009ca7f37512d93c24215c515a383233693494609bcbc2e5f80a2"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/4.1.3 三角形的高、中线与角平分线--2d4a1ae2.canvas",
+      "sha256": "c251ebfc457a931d28ff33396aea3c91624cdc27e2c56af4243e1e0eae76d060"
+    },
+    {
+      "before_sha256": "af684c8faa47a85a96c845207a1c07d187a6cdef17e40d15bbf7a620ecc25b28",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/3 探索三角形全等的条件--ee4decf2.canvas",
+      "sha256": "23f701086d21d54a6fea07264a22aea4c85e29be54a0be657a735b5cddbdd2c3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/4.3.1 三角形全等的条件：边边边（SSS）--be7c6d76.canvas",
+      "sha256": "e279121e41077f4040f940d5e97b47d80c1d711acabbd98c2ed2a97326ea018d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/4.3.2 三角形全等的条件：角边角与角角边（ASA-AAS）--3df9e02b.canvas",
+      "sha256": "a7d42c07d338e58644714f2446d8026abc035852411da1151ede5cac04fb172d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/4.3.3 三角形全等的条件：边角边（SAS）与综合应用--59728183.canvas",
+      "sha256": "0c55504374bcdfa97aa2eb00a15536cf26efa71ddc9dc486a738a18a78786867"
+    },
+    {
+      "before_sha256": "a8fd1cd2224cbc06c64194b2e5ac5e64e657e504ff7e694743776d1c84cc52be",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/2 简单的轴对称图形--a1ddf92c.canvas",
+      "sha256": "c7859e79d1fa1cf3b7a33fe00334ca7252a3d62a52bf92f10ca6a5f86986df6e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/5.2.1 等腰三角形与等边三角形的性质--b5777254.canvas",
+      "sha256": "5a338135b8e3538cae8cb5bd24b23a011d67df763b18f0170b876019cc9debb3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/5.2.2 线段的垂直平分线--6975484b.canvas",
+      "sha256": "ff1a7c661ce249be340e222882d7dce2c38063d7fc919a5edc1a7082ab789aa5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/5.2.3 角的平分线--0ec14d87.canvas",
+      "sha256": "bd16e2e77fb09e55453f7b4e6adc59b334f9a5e43ffba7f4fd4b3529647a4de0"
+    },
+    {
+      "before_sha256": "2ecfec9b7b8a9263e2af68fa111ab562b79039812270604aa6f76810be4ca36e",
+      "path": "Mathmap/canvas/三层/北师大-七年级下册/4 用图象表示变量之间的关系--39386e91.canvas",
+      "sha256": "d8d436ad4043a2f7466671f1aa05abd912dba385d94ca9608f88a03ed5c618c3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/6.4.1 用曲线图象表示变量关系--5e9ae1f6.canvas",
+      "sha256": "b40db680683b4b7f2507bf35f4bf50eb7b7c117f265e44e55e33e947784c8935"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-七年级下册/6.4.2 用分段折线图象表示速度与时间关系--a1a8b344.canvas",
+      "sha256": "9c5c5cf989f5d34a2f0f9d43262d3d5c6fe7349482cceccf50fe4e5f905b563b"
+    },
+    {
+      "before_sha256": "0ae518e59fffcc7b516f49a2df6a6b796144cc575379a20f183f82217b5e183d",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/1 探索勾股定理--dbe96e90.canvas",
+      "sha256": "10c8d214eca5e07c2772256acab63c4868b99aae4dc005810c1abc9bea6c8f4e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/1.1.1 勾股定理的探索与发现--e10768c1.canvas",
+      "sha256": "55ede04278d1fafab1f8623722d80ea7465b98b1bd56f1280a8e96dc3cc1cd67"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/1.1.2 勾股定理的验证与应用--ee20007a.canvas",
+      "sha256": "d3abd75094a9d0cce366acbec4a592859e66cf890c9493c08d4a734d554716fb"
+    },
+    {
+      "before_sha256": "1c29fdd7e3e57bd4639134490539d10038c0be060fc2af650555bbca28e79dfd",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/1 认识实数--5cd67262.canvas",
+      "sha256": "af3212c82e450156da18577c70e50a87583a22c29982e3f8ee0d6c595fcb2191"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.1.1 无理数的发现与感受--91b6a299.canvas",
+      "sha256": "a9f8e750fef0cc802a38c585259a9db6832015ffae5aa8b145b1ed46c6215467"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.1.2 无理数与实数的概念及运算--9bc088d5.canvas",
+      "sha256": "81f3ffd4319e170777285e9cbff670d4781d604064725918bed6512cb3565705"
+    },
+    {
+      "before_sha256": "3c7cb19ccfc19afb96a50b9948a4f03b3e136d399bf02c29d14869b4b4a6ea7d",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/2 平方根与立方根--151aa748.canvas",
+      "sha256": "dcf85c4af6c0e210b2b00e411a3ea46f15a5581e0d95a50599dfd0e554d9ba26"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.2.1 算术平方根--de82a912.canvas",
+      "sha256": "5d1221720d9f015d4ffa29931b744af83bb093abc0fa586b2e7f0dba5bd410ef"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.2.2 平方根--11d94c1a.canvas",
+      "sha256": "c86bfd605c74557bd8dfc87b684c5411c939a83df33d35b77ff37e391296cbd3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.2.3 立方根--2cf2e505.canvas",
+      "sha256": "fa0e80525b75a0efa270a662a987beb7394f9ccfb3891a880d3fd1b1f474eb11"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.2.4 无理数的估算与用计算器开方--d95a7a8b.canvas",
+      "sha256": "2a0aec7885bd2687aa4dca1896f8944956b7440eaa0ed4787d776827bbd5f141"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/习题 2.2--88c4c5f0.canvas",
+      "sha256": "01b9233ed8da3a4a1cb135566a77eab4f7f9802f9b9160c172de9e9993356dc1"
+    },
+    {
+      "before_sha256": "f15a3f499c879c334ac296595b065f0972389848ab02d78853820f0100760787",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/3 二次根式--5cfefcf7.canvas",
+      "sha256": "09af48f2b0b618e341753cb36ea5b577cede26263189fbad83e5f71b63dd5aa3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.3.1 二次根式的概念与乘除运算--68bfa461.canvas",
+      "sha256": "30c8fbb05fb03357bc228753009151455d04589148c0e38311bb9920fb3972ca"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/2.3.2 最简二次根式与二次根式加减混合运算--a8e964bd.canvas",
+      "sha256": "c952e5786ec95c5b9a8b44bded2c126c401dbbc59b021a8cff5a466a544b98e3"
+    },
+    {
+      "before_sha256": "df036c8faae3861dfaa864ad13c3695009c83b90b8370b0edc47177f6ad3e32a",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/2 平面直角坐标系--ac85d812.canvas",
+      "sha256": "4f74e797b221419969137675995c00bf57fa71b06490e4e5602cdf09bd93875f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/3.2.1 平面直角坐标系与点的坐标--3881319c.canvas",
+      "sha256": "5c698c372c22c2f9b67122b54ffe1d0b38d123c312819bd125f3fc1a49fc8761"
+    },
+    {
+      "before_sha256": "9722930e9be3efe8b6c231672e06aaf6459faf3a921e1680cf1ed9193c61b98c",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/2 认识一次函数--0bf45746.canvas",
+      "sha256": "f8218a6cf36949f958cb3a5d768b0552ba84dbee7c577138a59c28d60fe66ab7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/4.2.1 变化率与均匀变化--16dcadf4.canvas",
+      "sha256": "2ac5396ac68237a970c7b0e99e4fd305756b6c7d463e8c1a36c8afd8989af0b4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/4.2.2 一次函数与正比例函数的概念--b7116fb1.canvas",
+      "sha256": "4e5c465f41f1a656152fc592da1f60463e9442b736eda94eed5e6688f3e06e0d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/4.2.3 一次函数与分段计费模型--ef7b70c6.canvas",
+      "sha256": "ce481f573c090817265146f6605a09c719bf19ba66f8f94f7ce587cd3441fcb2"
+    },
+    {
+      "before_sha256": "0f9ca7a7510efb4b80af0a4a75bf780b193839089433b9a8c754775795c4ec76",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/3 一次函数的图象--d49d1dc1.canvas",
+      "sha256": "7e687a1053be5773713d8e326be9ddc21741331f8630ec5d4395f7c64e2998dc"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/4.3.1 函数图象的概念与正比例函数的图象和性质--be7c6d76.canvas",
+      "sha256": "25ad2312ad072969010bc3e03117f6fe4f42bf6799608c07baf70922b988a398"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/4.3.2 一次函数的图象与性质--3df9e02b.canvas",
+      "sha256": "a32e54a7aabb78d5336f0bb9f55dd73bbf0e0736f2878c289c7d65356256506a"
+    },
+    {
+      "before_sha256": "fe3d987a2f483c2706f43bb18018915304c2eee0b3de7c021390fcb95312a251",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/4 一次函数的应用--984a5067.canvas",
+      "sha256": "363b6b4442fd9a3931eb438f838b46ebd01277d427e98ccb3ab0907f953e4f89"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/4.4.2 单个一次函数图象的应用与一元一次方程--7dffcaf6.canvas",
+      "sha256": "c8a4fd933d2b74aa66ca99c1b6e6763535a05970e0fc2877b779b61998b52ca2"
+    },
+    {
+      "before_sha256": "cc3f34199eb901002b099d8455ec092fd74faffc9226dbaf98a3b56421c594db",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/2 二元一次方程组的解法--e6ce5609.canvas",
+      "sha256": "8e6dcd07d6a30974427dbb6157c6e8db79d27fbfb633b8c5d4151e2be63f319a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/5.2.1 代入消元法--b5777254.canvas",
+      "sha256": "f6135ba72a636ffa1af7288e7ad3ba14e8414a709dbe1ec54e7bd0a1d334d241"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/5.2.2 加减消元法--6975484b.canvas",
+      "sha256": "f3ae0992b6e2392f07d581eef92d9015cbc4609bd506afe4bdcd439582d6b350"
+    },
+    {
+      "before_sha256": "3105243f25b3acad2f7dbe1987d29163242778d9261dab938ebbb8ba02330e65",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/3 二元一次方程组的应用--a1ddf92c.canvas",
+      "sha256": "71ff099f80330dd6906bf90eaa9c3319649428eed1853f77129f0f7ddb29d579"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/5.3.1 古代算题与和差倍分问题--17023268.canvas",
+      "sha256": "85ccca64f279440452e08b748c2772c94152eeb1a295062d19cdf9a0a29b10c5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/5.3.2 列表分析与配比问题--636c6a0d.canvas",
+      "sha256": "73c5692bcd72cb55fdab2a56b1e0df09c499c6682b071f389a822f3c30f502b2"
+    },
+    {
+      "before_sha256": "c397b0aa3071558931efc979672f68489da75f8f9b1ea9e811f320a54513ca0b",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/4 二元一次方程与一次函数--d00e1959.canvas",
+      "sha256": "c16c05cea02bef0704ff5fddc822d9ab8830099994234308385aba9f2d060a63"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/5.4.1 二元一次方程(组)与一次函数的关系--e5d49899.canvas",
+      "sha256": "66e8a2a8cdde9bf43e2fe49251a29a983105497fffdbb552977be6de84da84c0"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/5.4.2 待定系数法确定一次函数表达式--3ea8d8ff.canvas",
+      "sha256": "98c9c5efc93e073900aefc500c87985e91359944c5c959ce2c36b33b9a537205"
+    },
+    {
+      "before_sha256": "1c471d522341c41ec2b1cbf5e81dbbe3384ac27e11ada5a1fe76594aa4451575",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/1 平均数与方差--5f3b36e4.canvas",
+      "sha256": "a3a99ad1703df79db9ed15884191d4757251533ed08d44266d1503b4a48ad2a8"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.1.1 众数与算术平均数--f2b85746.canvas",
+      "sha256": "a1b89eacae67d5e31bbff4869d5717e1785f110195624d72fb8ecc9545b27021"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.1.2 加权平均数--171b1b1a.canvas",
+      "sha256": "14f5163e537467a507a0ce6abd9eab84a56912e6757a7baae35682108202662b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.1.3 离差平方和、方差与标准差--57f47431.canvas",
+      "sha256": "87b882dbd28c2a1a1259a9dcd6f8da02e3f112a68b433638455ee571d646f9c7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.1.4 组内离差平方和与数据分组--eda60b85.canvas",
+      "sha256": "7494b45567715c7c8b9338e0208d29c6662517e7e354726362e21b9da7852079"
+    },
+    {
+      "before_sha256": "817966218034afd8e4e1b916fe12c0587d197609a250e179b2eea35658228ea9",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/2 中位数与箱线图--39386e91.canvas",
+      "sha256": "21a314f95013918aadd60b72b16fe88d38665729190c524dd980f200d25d79ed"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.2.1 中位数与百分位数--ede9e3ba.canvas",
+      "sha256": "9a017d836775f3dd3386670ea47e655aaf48c77eee49af8955ad0c9977098d0c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.2.2 四分位数--0290da07.canvas",
+      "sha256": "71003ef509bb64e8a30b38a52205e724093047c477acea9ecf4bc10cdc9529e8"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/6.2.3 箱线图及其应用--4ec76857.canvas",
+      "sha256": "f72b9b5793d6fac03dc07eea04e52c3dc6ea4c555cb92213471e3defcfd5371f"
+    },
+    {
+      "before_sha256": "bdb40a1c17ddf952a7983824ef63600d147ff03f7cffb2a5f9ebf157a774a53a",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/2 认识证明--3e685831.canvas",
+      "sha256": "8670bc46e8ea18902e43844b0aa8d78176f76fd698650344b023b4d2c7e7759d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/7.2.1 定义、命题与真假命题--9e15e878.canvas",
+      "sha256": "c73290e59e3b7a405b51573cf70c5b22a66b43ff38973fc8c3d3e6df6a004be4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/7.2.2 基本事实、定理与证明--809b098d.canvas",
+      "sha256": "20c11c047c2cdb524deb904432ae1ef1966a9eb2241864a136d64594cd22551a"
+    },
+    {
+      "before_sha256": "b018b93c391b7ab133e5fbe3291c38372af503a778ad8ba765d6983960c3bdc4",
+      "path": "Mathmap/canvas/三层/北师大-八年级上册/3 平行线的证明--87bb6a43.canvas",
+      "sha256": "0706db8967da401cfad9f34b45b5f721c062fe429d00144c9b0c4f9d8a8852b3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/7.3.1 平行线的判定定理--8ccdcb4d.canvas",
+      "sha256": "faf4d6f03d76efbfb8f236dc12e2ac57abaa501f03d9e4038e1bdc52530d5db5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级上册/7.3.2 平行线的性质定理与平行传递性--ddc20577.canvas",
+      "sha256": "a76ed43ccd3f68d6faf112997fe2445c7fca390be3509f00fe7660b17e65024a"
+    },
+    {
+      "before_sha256": "7c72b56275f126816c95294535b1b174e24058555e1f3caa121507257d4ec672",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/1 三角形内角和定理--dbe96e90.canvas",
+      "sha256": "ce867e05960996617934561654f4efbeac48fb33e1a16a43e0b2893107dbf71d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/三角形内角和定理与全等判定定理AAS--e10768c1.canvas",
+      "sha256": "e1513374c9b666391400c99e3287e0c4b292af6bd2ae188f713056cd24da994a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/三角形的外角及性质推论--ee20007a.canvas",
+      "sha256": "917a953fc7bf27bd4df26a065ebef34a4e4afffac947d8f39abdf549ee823d10"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/多边形的内角和--01b834d1.canvas",
+      "sha256": "419776951d571e7201163643378b68fa7082672bf878f4c0d02893f1773eddc2"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/多边形的外角和--83f6fcb4.canvas",
+      "sha256": "625f07b1d059ced649f862b07aaaac080b157533e7f7105e7150ac7c3c3cde33"
+    },
+    {
+      "before_sha256": "a9c40e9df9ba54879d901264aff649e66d38399b740fab99b42a5e263271a8a1",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/2 等腰三角形--fdc878d1.canvas",
+      "sha256": "3caaf2165a48bd071cc0ea421640961f7cb4dd0b08f61829e9e1f0c6f199bbcd"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/等腰三角形与等边三角形的性质--330df920.canvas",
+      "sha256": "3facb26fad106917e05d6a0395e88f3e3cae08fa50f92cfd6059f8cabf865b49"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/等腰三角形的判定与反证法--eaaf76ed.canvas",
+      "sha256": "de58bfc3aab4df696e333eda425682bda8f62cabcae3902b150e20486fce144a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/等边三角形的判定与含30°角的直角三角形--7f0f40a6.canvas",
+      "sha256": "941d6c5a8763c5598ff27d9eac868a68ab534c187796a39a8fb8d5629ba51ce9"
+    },
+    {
+      "before_sha256": "9d3de64e5e02670683ea369947db908f31d83b8b610e54ee6159b07e8c303070",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/3 直角三角形--7ee2e281.canvas",
+      "sha256": "40a693e5af3ce1860fa109b79dbe56862ed5cef1045a432b481627957f9ce731"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/直角三角形的性质、判定与互逆命题--4543c1c4.canvas",
+      "sha256": "3b8eb191010410644d16be5fc084b7afca6d2d1906d91351b9169824b307cdcd"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/直角三角形全等的判定（HL）--dc979d0c.canvas",
+      "sha256": "14065ab4ca07ac7fa828db1f37118d722da8fc365a62c24e4bef560d121d3500"
+    },
+    {
+      "before_sha256": "ae30ff44ec00bbcc0ed122b1910e3a082aa4287fa55992d2af01ebc5eea6dc4c",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/4 线段的垂直平分线--46b500ec.canvas",
+      "sha256": "52ea23ce980fc0dfa9a4f4dd39b2bdf6745e65e9d247a73b0870da808d970b8a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/线段垂直平分线的性质与判定--d28aef59.canvas",
+      "sha256": "33be30b3f4f7a0bbc5887af8e3891dafe99c19fcea28c935f0beb76d694d3fc0"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/尺规作等腰三角形与三角形三边的垂直平分线--11811458.canvas",
+      "sha256": "7154c09185805446575a084dc808902079117e780da0d2a65f2e6b51d73d3954"
+    },
+    {
+      "before_sha256": "350cdd37230b034b558484efb6288b45f0d3a70d69ed0d45668edac3c0373640",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/5 角平分线--e51a80d4.canvas",
+      "sha256": "09ec44fd2f76a6acfe7885f52f9f2d3c078805787c0f8bcb479e7174a1951fa8"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/角平分线的性质与判定--5e94ca24.canvas",
+      "sha256": "f23d59e20034c80b411724be1bef963f40aeba9e159ceacbae34ee5657003da6"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/三角形的三条角平分线及其综合应用--449737f2.canvas",
+      "sha256": "15927a132f1d0a2bf1d7e6ee0bfb0c378a4e5701ac08836b052bd70942abd463"
+    },
+    {
+      "before_sha256": "69c02fc95b46eee512e31f826ca08743ef47a4397e2092133bcb3476a40c187d",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/1 不等式及其基本性质--5cfefcf7.canvas",
+      "sha256": "8b88681cad54cee682484e3e87e314722f70c4909da739e7d85d6a0881086cac"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/不等式的概念--91b6a299.canvas",
+      "sha256": "7601480e0c2b3b289fcc688788a7061fe7a510f20c7363c48fd57d885f370995"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/不等式的解与解集--9bc088d5.canvas",
+      "sha256": "5c3b2ec6fbfae750feeb54d5900a55cc789b09d34c18f0c0277953d8a2c65fee"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/不等式的基本性质--ef68fe6b.canvas",
+      "sha256": "323cc08d9d70e1c135d558c5bd7a446e263cdf6d9299812d2a3a3acfcbc00edc"
+    },
+    {
+      "before_sha256": "39a4ddd223daa9e7028fe017b8b6103093caacffe0078f96290c5ea1758abd1b",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/2 一元一次不等式--b2c19dbf.canvas",
+      "sha256": "1ab0715528b4745ac5982a62c881a75132ba39024df26731a047f36d29e9f59e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/一元一次不等式的概念与解法--de82a912.canvas",
+      "sha256": "ca7b75942ae4399131d35f346d8491cf43007d213648dd0f487ff2f3f3606d0e"
+    },
+    {
+      "before_sha256": "9b62aa5ca9041133ec6373b5f693d4358c784e43da4c654b9441a0ac0f48112a",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/3 一元一次不等式与一次函数--bd80c67d.canvas",
+      "sha256": "3e6b3db38b1db14561f8b8fba912f4645d39104579b967ee33ae2e0dae03eb9a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/一元一次不等式与一次函数的决策应用--a8e964bd.canvas",
+      "sha256": "7f49d72f66ff3aee3ec2951df08c0eac66b6d5eb686c5a226274c4fd6316fccd"
+    },
+    {
+      "before_sha256": "0a084132aca5e091aadb033b49b0a5899052f91eadddb80df45230eb134a281e",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/1 图形的平移--b80b85c5.canvas",
+      "sha256": "1d7b5ff5b2578f8f0b351a287188a077ab3ccce5385618f98ca3e7572be66deb"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平移的概念、性质与作图--939063e8.canvas",
+      "sha256": "8c32133348eaa11689d1005c0fad28a943c2def4545634b49ac7129efefc22f0"
+    },
+    {
+      "before_sha256": "70327332137f29c525862b482f579f24e17dace7292900f4e1730d6fc58f11ca",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/2 图形的旋转--22c28ade.canvas",
+      "sha256": "9da437ed70a750a779ab2a6fd575b6709c2cfd1563bc0f48f266edd14dd98dd9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/旋转的概念与性质--3881319c.canvas",
+      "sha256": "746262eb3d70afe252784dd3230dee32123653bc0832c17ed52313b643edb144"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/中心对称、中心对称图形与旋转对称--2426952c.canvas",
+      "sha256": "6f99fd87d7d391c739b060b23b2975d33686fd5022ab397dfc2733ab147fe48a"
+    },
+    {
+      "before_sha256": "63b954d24236d7f5f6234a45ed855d31d837dc021e63666268999186ec93634c",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/2 提公因式法--ea6b5e3a.canvas",
+      "sha256": "e8310763073332ae6234f971337628573e4dca687013b07d128477be6e37b0b1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/提公因式法（单项式公因式）--16dcadf4.canvas",
+      "sha256": "e7ca66872464c889b623ae79b7c2175060fc442157022fcde9de98f2b1ef6b4d"
+    },
+    {
+      "before_sha256": "c455c2c8a9c86760243318e35de27b8289ce3a825bcb3f1e352e3ea973c1089c",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/3 公式法--a2bc2f26.canvas",
+      "sha256": "358432942295c6be8e91efb91367af873788d9efd796b7a67ca158ec2c7e4b39"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平方差公式法因式分解--be7c6d76.canvas",
+      "sha256": "c99c9ecb69039dbb3b4b36c39d4d26572eacb8e13204bd8a454983fa093571a7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/完全平方公式法因式分解--3df9e02b.canvas",
+      "sha256": "cd854b089feb98e3e8fee2389087a57179cd78244f529c6cc922957bcd97a8b8"
+    },
+    {
+      "before_sha256": "fa37cfaac14e061e1d8c8b6d5a346486fae6710eecaaeaa89717b96eff6e2fbb",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/1 分式及其基本性质--766f3008.canvas",
+      "sha256": "3a66d8d268f0e827c3beac8ac2a60d83df05e0139bcf87d709f01155352f7bd8"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/分式的概念与有意义的条件--bcae93fe.canvas",
+      "sha256": "c6fef0138add205505f59d6f6ef2f7863985d1aded13e369f7599423348bdb01"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/分式的基本性质、约分与最简分式--d20b9c08.canvas",
+      "sha256": "379020aeb1c9e637b45b731635fbf9ea16fd2acd09f57e40bfbda12e55e5da3a"
+    },
+    {
+      "before_sha256": "59ee01bf55ded1c87ab50c8d17513f7774f00c35bc0e74f03629be095eaffab1",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/2 分式的运算--fbbb975e.canvas",
+      "sha256": "cb8669f891096178f05a69444b835c976459cdece25140ce802f33e6e3346bd5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/分式的乘除法--b5777254.canvas",
+      "sha256": "c7f4f5750be4ed0a3cd20428fea9d16200307ba6ed0b190d1b5dd7c97cec0da0"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/同分母分式的加减法--6975484b.canvas",
+      "sha256": "8917a14a9efd67404b45d2cc5400a563aa0ab8043ae83897aea71d33da92023e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/分式的通分与异分母分式的加减法--0ec14d87.canvas",
+      "sha256": "fc41bdb0e1c434a31ac4047986a82ad6c1088e27564e86b59372c0be51616894"
+    },
+    {
+      "before_sha256": "84be91932652e6bceeb20ff7234a3b6c9309f795b6f5d19cd05e4fa02413e953",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/3 分式方程--2c75c47c.canvas",
+      "sha256": "1cd05ef6bfa4980e9e94a6246049172e822fdc7d85423912c9d96f8c7a561255"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/分式方程的概念--17023268.canvas",
+      "sha256": "c1c255fdbb1d3de1a33ec9f2d2bee106415daaa188177eb66d666bd7f6707114"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/分式方程的解法与增根检验--636c6a0d.canvas",
+      "sha256": "ea8e6fda5a80d1792b396daa9993f7443c8ee438a89735498ffa621861f93fde"
+    },
+    {
+      "before_sha256": "442d1b9826f3c825564252fccff911ea128ecea6637e8aea5872fbf34ae266b6",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/1 平行四边形的性质--5f3b36e4.canvas",
+      "sha256": "a9ce4d5cd49fda2542ee03fe082ee25f529ebd5f966d2f4bc556a0f312560f8e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平行四边形的定义与边角性质--f2b85746.canvas",
+      "sha256": "959630c0616f68eb1335622a6ecb5af61a955b9c01af085ccb05e0d7c89bb0e1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平行四边形的对角线性质--171b1b1a.canvas",
+      "sha256": "392ecbe01f8933fb74f15d0593fd0b86cd60826090c18c79a9c99c61d017ea7e"
+    },
+    {
+      "before_sha256": "9f8bce94f9b0c30ac9c9769b82a7ebb22bbf2d96a32fdd3a37586e7a720aa27e",
+      "path": "Mathmap/canvas/三层/北师大-八年级下册/2 平行四边形的判定--39386e91.canvas",
+      "sha256": "9bb2725328e1831e79f413f87e3f78d65459fa6ce32d91df94c064e033baf0fe"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平行四边形的边判定定理--ede9e3ba.canvas",
+      "sha256": "8b9284b78f8f0682958d626fc1291012a04b585b1bb379ade3c70c5299b3d3a4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平行四边形的对角线判定定理--0290da07.canvas",
+      "sha256": "57cf40ca6e28c559a792484b62233cdfdc0cda34745191aa1e28fdb84ad42769"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/北师大-八年级下册/平行线间的距离与判定综合应用--4ec76857.canvas",
+      "sha256": "e9859183c362251d6ec46e019779ec3b178d2908be7b9642a0fc3421ccf6eb75"
+    },
+    {
+      "before_sha256": "5671790b089d434350476f1e7577bb584fc95b7fa918fe1850723d57f7106217",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/1.1 集合的概念--dbe96e90.canvas",
+      "sha256": "b2ba5c396434dd41cc6f6713025a9687b8158924c1c2c5483b3bfac4ee32cb03"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/集合的表示方法--30d50911.canvas",
+      "sha256": "a9d7d3fe467bc3eeeae6e5830c42ce3e57531c073e66d17362bf6ab35fca83c3"
+    },
+    {
+      "before_sha256": "74db2b768728e751a6408104acd2f535389a0a95b0b51e4474fb7fbd24ff70dc",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/1.3 集合的基本运算--fdc878d1.canvas",
+      "sha256": "54afeb008a24a963346048d209ea072dc270d4d5a1a9bcb67243d6b94bfb5326"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/并集--cc8fa4d5.canvas",
+      "sha256": "d1a097ec823f7abd1ab19f145e64c5edf341604d20bdc0f514de33a705e080e9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/交集--f3aecd09.canvas",
+      "sha256": "93627b30e3eee46d3d95f3d0e1b17572aea3b57a81fb13f40498d608539f69d9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/补集--fcbc42f4.canvas",
+      "sha256": "57f1dd7a7e2ead372b140e6861191281e00e318e7f532512021bddbd72a4bbfb"
+    },
+    {
+      "before_sha256": "3ef0335f302c2ef92c08ddfc1a7b7ce8a2f3fb845dfca0dd6827ba207fec8f01",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/1.4 充分条件与必要条件--7ee2e281.canvas",
+      "sha256": "b794151868226e202a86a0762e296189744a65cff8c46f5a8db431b3bb672cf7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/1.4.1 充分条件与必要条件--f66f6ff1.canvas",
+      "sha256": "e6122b6bb11f1e371773afad10ddcd258d2f1dca140de6f91a9cfc4397cea1a7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/1.4.2 充要条件--ec40a7b6.canvas",
+      "sha256": "c09f2dcbcacc5905be7009205ab7ba0ef7236209fb93d9ab054c50bcce7444c0"
+    },
+    {
+      "before_sha256": "b52cde3df2acbc54e725530c7d3678045715942acc3744c17f6dcb36c11ab3f7",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/1.5 全称量词与存在量词--46b500ec.canvas",
+      "sha256": "6b04ec6a64abbe703302cf5f6e5c8b12292f480f12e438d20a9ae1c362f2be6a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/1.5.1 全称量词与存在量词--4cf78f03.canvas",
+      "sha256": "1cb77d01af133d8200160332e97f7462861c73a6cf6b8a519bcf31eb5e740189"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/1.5.2 全称量词命题和存在量词命题的否定--f20e7543.canvas",
+      "sha256": "804b4aa3576e28db16f6cfc35a0821453e120ba95eb2bec5422c55ee62411622"
+    },
+    {
+      "before_sha256": "038e0afaefdd87b8d096cbe9b7afb77bf262a7e584621d8887a9a82901da5630",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/2.1 等式性质与不等式性质--5cd67262.canvas",
+      "sha256": "689848cfe7f4397ab027b8fccb2fd6e078de1dceea6600bb130325a364980752"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/实数大小比较与重要不等式--5103d043.canvas",
+      "sha256": "af5e2eacd522c941097498480642e7675ffc528bd454bdbdd44bff0ec3169e1b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/等式性质与不等式性质--a6c8f71f.canvas",
+      "sha256": "650a6971b184a605fa2a9961d52b9e8d0fa3bbc5be68217408de58acf22b6107"
+    },
+    {
+      "before_sha256": "82d443fe405d3627aee2e6d3d9d3a3ff8108d657d1fee14f3090aca3de5b1f7c",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/3.1 函数的概念及其表示--b2c19dbf.canvas",
+      "sha256": "e786180f188822f471d67b0c7af4f3407e605346ea0606dac955cbf054132cdb"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/3.1.1 函数的概念--bd0994eb.canvas",
+      "sha256": "a7dcc2832a4c01dbfd9ef8224aff331e32c4b543d2ddbeeff5aa1952617f1a91"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/3.1.2 函数的表示法--082fd16e.canvas",
+      "sha256": "8344e8842802844d948f853cfa824560dcf0340fb81ab2d7711b4342faea7e24"
+    },
+    {
+      "before_sha256": "9a6c0abea43de22a9d7a89bb4867c5a5df3c79854d2811993f4d7e5e9430042e",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/3.2 函数的基本性质--bd80c67d.canvas",
+      "sha256": "3b70cc93d675739b8d606b86fa1ad025821f6f6f764156737cb428839b8237c3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/3.2.1 单调性与最大（小）值--c8c0d0e1.canvas",
+      "sha256": "e03e8762a0e4f4213b9faa20ffa27a660288619f647787241b3948795d16b0fe"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/函数的单调性--9b5057b2.canvas",
+      "sha256": "ead5a1889e7afd4e8c39ebf38d887fe88cad2b65db887c8e5e1a4b6cac05abd2"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/函数的最大（小）值--fef7e3cb.canvas",
+      "sha256": "08f04b2a10423782d323b294b9740e0083f08209d73df47962639d93b3835091"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/3.2.2 奇偶性--04f57d32.canvas",
+      "sha256": "6a241c8825b159044d731fb77a975b35396a500103be3cb7c85fb90bf487bdbc"
+    },
+    {
+      "before_sha256": "18afa88c967a6ed02a9c07c8dc3e0b1cb54c5c6a5f11458842f9f3e94963202d",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/4.1 指数--22c28ade.canvas",
+      "sha256": "d0707fa045e4faf2ebfdfbd82f790a583b5a66d4fbc092b75a9db8e3e00d6b28"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.1.1 $n$ 次方根与分数指数幂--c1961bbc.canvas",
+      "sha256": "81d40a8faac783095a3505a3bd046ab5f119b7b3cb28508449d70b3c4405b2ba"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.1.2 无理数指数幂及其运算性质--d515b3bc.canvas",
+      "sha256": "03cf0a21bcdf94814482314aeaf64fbb90ce22b214fabb601cbeb24047348561"
+    },
+    {
+      "before_sha256": "ce4abdd0febc0599bf4a53f3145c6144ba82d353bbfa236726d016dc89c58f90",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/4.2 指数函数--88652822.canvas",
+      "sha256": "17b36eb34fef95f51cb5309e9d6befca6b4e871ed8cd0d43617eb250aedf7e5f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.2.1 指数函数的概念--26c10978.canvas",
+      "sha256": "0838dbd8fcb7cebdcfe47b377fdacc23937787d52701bf711dcac3182b50f15b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/阅读与思考 放射性物质的衰减--89e48b7b.canvas",
+      "sha256": "955ce5f64b33dcfe85426d10db6f41b2cd63d43cf29970af7dcd0e7e6273f7d1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.2.2 指数函数的图象和性质--7ed4854c.canvas",
+      "sha256": "f4c18001345000aecf8edc704961ebd94ff1293bee3ca9ff51dba290d8f71dfb"
+    },
+    {
+      "before_sha256": "bd953ad752f7c6dd250f21636ae1b7b2fa24d2fcba66eb076561e43e5f5d65e4",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/4.3 对数--5ecb5636.canvas",
+      "sha256": "d7ba845ed16ac6b26532515c3eb83efc80e2ce5e4d391648350a00ef03858a78"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.3.1 对数的概念--3749a3e1.canvas",
+      "sha256": "a4a392c6e64dd5be54a7a3287575ac4957e3cc478b6055fe3766bb79ed461683"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.3.2 对数的运算--b6b8afd0.canvas",
+      "sha256": "cd49bf6bf0e9042e714349ae4723b18873b73161107d88b18cb42ad81312434d"
+    },
+    {
+      "before_sha256": "162523eafc29e0b5e486e87465bd259c050c445b6d862802739ab94e36d7bcc2",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/4.4 对数函数--ee4decf2.canvas",
+      "sha256": "2311eb725932c4be9e08f8a60422c9e3e372ce6006715c19c57df3e2ea248911"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.4.1 对数函数的概念--97280f94.canvas",
+      "sha256": "f7a9ed316fc97ad66b693b16778b388d2d483f28934d530f23769dfd385cd3a4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.4.2 对数函数的图象和性质--554292f7.canvas",
+      "sha256": "df41c8d2c32a79e53a20c65c79a16596dc250a6640d4e5750f5eb6f67864fd4c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.4.3 不同函数增长的差异--f6c9a288.canvas",
+      "sha256": "af395e6e261a0d061cce532dd1e12e92cf59aee8ec59ca1248ba18473ceb36e4"
+    },
+    {
+      "before_sha256": "50e7f3ac505b411e893650ae7884474d31f37750daa80c568d048f9bbab4436c",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/4.5 函数的应用（二）--19b25135.canvas",
+      "sha256": "faf3b3d26369c732fea92d33befbfa22787af9f74869c62502199a415048f132"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.5.1 函数的零点与方程的解--45fbbc74.canvas",
+      "sha256": "1238a7c4d35acf32c1aa63cc8d0f2113d770eed5209b62e38c92970a78b481f5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.5.2 用二分法求方程的近似解--1d3a2fb1.canvas",
+      "sha256": "22835d5fca6191628c7e058e620e34e79e64c45b68d45e89faa4ac600f3ebe3d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/阅读与思考 中外历史上的方程求解--6d75bd32.canvas",
+      "sha256": "7c37601c008f775d46f71f03dbd4a5fa525ddae93ceb1060c6ffb310309a8c7a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/4.5.3 函数模型的应用--d2725546.canvas",
+      "sha256": "3071d0270194ff0dd4247063de5eef595a41738c8b5b38df22e536a2baece59f"
+    },
+    {
+      "before_sha256": "8773bc68e51f571c2dd3e7127c3c19e6848d5c8fbcf851ece07daf63beb19891",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/5.1 任意角和弧度制--aaa8b56a.canvas",
+      "sha256": "91e4c1414a2cf0c12f6f1ae81eb2e28a436791e639814e43ac22c272099757cf"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.1.1 任意角--9398d991.canvas",
+      "sha256": "a8d90ac27319371c170bdcc5dd06202a4e491cd89fd955223b0813dffb83eaba"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.1.2 弧度制--91d98b3c.canvas",
+      "sha256": "bf17fd9a8e8634c34d020f0736d31db78a78336b75156365e5afe0f4b683336d"
+    },
+    {
+      "before_sha256": "949c300509395d6efb8b91eac689a46b6c185b3808ded8ee4c5d1941727f2257",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/5.2 三角函数的概念--a1ddf92c.canvas",
+      "sha256": "d806716e04e4397c81147703059bee3d313740bdca1332d156f826edf86378f9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.2.1 三角函数的概念--906848a9.canvas",
+      "sha256": "594b276ee4d402cb99343a1d4a0065b9d2e0613b5987e6ac12501d0228ddf233"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.2.2 同角三角函数的基本关系--8173298d.canvas",
+      "sha256": "24414f946308dde03ef14e3a03b0fab6082cc3129c0b20a58f048e117c00062c"
+    },
+    {
+      "before_sha256": "b5af6de8a5c2e88270d1c68130c5efb0470493a2944d3237dfb31e5a1811c278",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/5.4 三角函数的图象与性质--fbbb975e.canvas",
+      "sha256": "5de47d83f30c88d6388f328e184e9c8fa023e3ea4065217e547b4723ada871f7"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.4.1 正弦函数、余弦函数的图象--0b4141c5.canvas",
+      "sha256": "74242aa01a6798020f71ea5256d2c271cc8134402fcb14aa51c9b6b27a7995ca"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.4.2 正弦函数、余弦函数的性质--17ec4937.canvas",
+      "sha256": "d6a5f79617c4a1338f91a9452925afc21080657759aa5de66e0417e91499be61"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/正弦函数、余弦函数的周期性与奇偶性--123e167b.canvas",
+      "sha256": "83c8df8d92291dcfa531672fd4500f51428547a22ad013abd3a7c380dfb39e96"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/探究与发现 函数 y = A sin(ωx + φ) 及 函数 y = A cos(ωx + φ) 的周期--11a7dc4a.canvas",
+      "sha256": "031e8112ef134e825b3a232fd2c6b174a7f80d22677199aec53f80e5baf14985"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/正弦函数、余弦函数的单调性与最值--c70ff786.canvas",
+      "sha256": "b86b5a1d5338cde0d0da7e40825964ed71571c5c2fc24288c080c442f96b90a0"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/探究与发现 利用单位圆的性质研究正弦函数、余弦函数的性质--2c75c47c.canvas",
+      "sha256": "b30a7da34f443ee489c47a865455b2f484f58c0d12fcc912702dc374f47520b9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.4.3 正切函数的性质与图象--b82bc94e.canvas",
+      "sha256": "27169b7b779d229e924c62345a71f4b715dee07f5322fec01611fbcc5167c402"
+    },
+    {
+      "before_sha256": "9cd7b7d2388752dcb6999337eda0728d0c1493da5665fef787be0fb29b6f0fbb",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/5.5 三角恒等变换--02b18c60.canvas",
+      "sha256": "7c1b6c304bbbb8053e0d3bfaed3613c488f05b152de75e4012fee2b6244e866f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.5.1 两角和与差的正弦、余弦和正切公式--df163c8b.canvas",
+      "sha256": "64eeed742b58ac3940c3a6db9dfa74c5c616897170572fe422523820789943df"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/两角差的余弦公式--5f63c732.canvas",
+      "sha256": "9ed4fae5c6a777a7536ba2667d0b9556b0775f39e16b5dfbf3cdfb11dba97b35"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/两角和与差的正弦、余弦、正切公式--6c3a19da.canvas",
+      "sha256": "7270c97cb951e48608c7e38248942bdc59dfd775cea76abd53c9150e75ee2593"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/五层/人教A-必修第一册/二倍角的正弦、余弦、正切公式--364edca7.canvas",
+      "sha256": "ab4ca6feb682636bd3307a6d3edc7668487203b99f3040dc65eed5f929229c57"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/信息技术应用 利用信息技术制作三角函数表--85df4c72.canvas",
+      "sha256": "4a968cae1835308a6a91e86c441757015a2feda73b11fd9335d28937a5701116"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.5.2 简单的三角恒等变换--78fe1c39.canvas",
+      "sha256": "871073c0f4aea6445259519ffc9ea728c77ee9fb449fdb68a62383bdb6c1df8f"
+    },
+    {
+      "before_sha256": "adb29e91f9e6b21e6aaac474460b73a3b5b5f02e01843f164eed81eda128ca09",
+      "path": "Mathmap/canvas/三层/人教A-必修第一册/5.6 函数 y = A sin(ωx + φ)--604ccf9f.canvas",
+      "sha256": "7215108b4805cc7e135a0fb8dee77493de31d16521763730b88c022ac77cfc3a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.6.1 匀速圆周运动的数学模型--b8e5acf8.canvas",
+      "sha256": "a2b44d82fb2fbab4114e228feba766bc72ed67bc5eab0ba3c8f945d94d0e5ff9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第一册/5.6.2 函数 $y=A-sin(-omega x+-varphi)$ 的图象--dc241ddd.canvas",
+      "sha256": "3b663613a34f1589f58276fe4eb6bcab89751c9d4c02080c83c47ada68d776da"
+    },
+    {
+      "before_sha256": "7e14094b3980791c297a242a63d8aa7fd3b616f5ccecd823afe101b8aaec2912",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/6.1 平面向量的概念--dbe96e90.canvas",
+      "sha256": "30b632fe9f601b60eb3cf71d0d8fa6f85c7c422da8f60662fa0301e8f655783a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.1.1 向量的实际背景与概念--3ab986eb.canvas",
+      "sha256": "16e9ffd5bc35c0562bba9026010682c7e7b4da3ae8924b046e840030c7ef4dac"
+    },
+    {
+      "before_sha256": "cc62003a1e9987b9ab6c7d85bc9ce6fb581814894479c0f32e13b408f4f9231a",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/6.2 平面向量的运算--fdc878d1.canvas",
+      "sha256": "9ca5590700fe14eecd58ebbed6d7398e1e06ea399610bc66f4fb2e6918e4355e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.2.1 向量的加法运算--f6e4ab1c.canvas",
+      "sha256": "5cf3849b3ff55ce163799da57d3bcbe99c4019c1f484782bf0db3b976d98ee84"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.2.2 向量的减法运算--745921f7.canvas",
+      "sha256": "52da01159135a970d8cc26245a95814fc80507030a19214da026a20011ec6996"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.2.3 向量的数乘运算--7c0f6a43.canvas",
+      "sha256": "920a312fff8b78b3fd8937da7e62ba468436b052f6ae784b5e720d513b316ff6"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.2.4 向量的数量积--f0584c4c.canvas",
+      "sha256": "bc174eb0a7887899cbc1ba0960aa2e7e4c8f4cc749da81f2866f8ea13d14feee"
+    },
+    {
+      "before_sha256": "b9576b4dd771dcaf4331c61fcabd2dab0e9967bb313268ae70130629bf594cb0",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/6.3 平面向量基本定理及坐标表示--2b06ced0.canvas",
+      "sha256": "7e543d6d6362a168f384f4dcf07db9facd08b460248ba71c07675b5b2de1ce48"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.3.1 平面向量基本定理--4f806025.canvas",
+      "sha256": "e6c13f3a088d77f3a47f4c4e95170d3fdd6e011397e4cc46b38feadc411c928d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.3.2 平面向量的正交分解及坐标表示--a9b6d389.canvas",
+      "sha256": "a5ae245233148cc974a45c3251a093802ecbc8e706ca68fd34922eaf2100097f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.3.3 平面向量加、减运算的坐标表示--0ee69172.canvas",
+      "sha256": "2561a3021c1c4983c8ba3f0408364a2fb850d5b659f16b07cab6b05e09c63aac"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.3.4 平面向量数乘运算的坐标表示--2b81d388.canvas",
+      "sha256": "3d35c687f751cb1e3ecc9736eb1bdb67023f4b7cebf851668ccd730b65a72a6a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.3.5 平面向量数量积的坐标表示--0c48238e.canvas",
+      "sha256": "f267c6632f1415e4beb7bf04a8f5dfb845b6c76068f61a839dc804b98ce0fc33"
+    },
+    {
+      "before_sha256": "8f2f27dc12f11259e359bfdbe911e1910e7796f005e639ecbc3da0e675ca55ad",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/6.4 平面向量的应用--7ee2e281.canvas",
+      "sha256": "0e8ad0ffe52ea7d92ef0946e9326a4b109fa6e44b767aa38d8b62281d7d22d12"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/6.4.3 余弦定理、正弦定理--a7fc8e31.canvas",
+      "sha256": "aa2ff0a2daa51a6a2a4c1f67607f7cf301d4d525a08ffb9631064c2faf44c5c2"
+    },
+    {
+      "before_sha256": "de8cb299d4ec123c3910614b43b0e0810e5650c928b8466b82f058360e9d5248",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/7.1 复数的概念--5cd67262.canvas",
+      "sha256": "1256b3a4715b2b164ac3503c995df06de01230b22fd4589da4d5d5bf5d68044e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/7.1.1 数系的扩充和复数的概念--5d07f68a.canvas",
+      "sha256": "daf4da6fb2dc6a22651e15b4248ab549fb9e77a40e2089037cc4ff6c7b12240e"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/7.1.2 复数的几何意义--b597a346.canvas",
+      "sha256": "c407562bfdc6222746efe8ddfea80b343afd551dcee0fa8240ade53e8c7c12df"
+    },
+    {
+      "before_sha256": "713005a208e86e075473ae8e9259bca8cb50d0495024ff0009eb1cd9ab871089",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/7.2 复数的四则运算--8e1bab2b.canvas",
+      "sha256": "ea1bf61a2381bf50c57ff3abc7ee52dfbc1b841cef0d3b3b78caef3842e67a77"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/7.2.1 复数的加、减运算及其几何意义--3a173f7c.canvas",
+      "sha256": "582382fcbc63f3364c521bd6636dc5985fda4c421f3176bbe19ab17e1335bb17"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/7.2.2 复数的乘、除运算--beb409b1.canvas",
+      "sha256": "d9d2ac8b92681eb7f9b49d618f3167f663e85a940c08a3748b218f78ced6fc5c"
+    },
+    {
+      "before_sha256": "392b6de7ac1d81f764a7dc39671deca1a1a299c1b27d588f4644cd7f915e35af",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/7.3- 复数的三角表示--88c4c5f0.canvas",
+      "sha256": "257bf724676ab1392088b94e343ca5d9645ad34f36ca3ee42a5ec374f143bd94"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/7.3.1 复数的三角表示式--0064e1ba.canvas",
+      "sha256": "7d1894f5ec63ffe0097a008192e06d0d8d17461a526776a19fd5151ede57a4de"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/7.3.2 复数乘、除运算的三角表示及其几何意义--5d722cf9.canvas",
+      "sha256": "801e7a7d0bdbb0361936c3081eefd74204948248219f9fc86cd27b1a4becf6b1"
+    },
+    {
+      "before_sha256": "663516a147b5c0ded2d4078aef759c2ec56b1b038db45d150d801e4ffe39af5b",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/8.3 简单几何体的表面积与体积--ac85d812.canvas",
+      "sha256": "31917a51e59386490ae8b17544a6a3f6dc61089085321ad0b3e7b548bf5c9efe"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.3.1 棱柱、棱锥、棱台的表面积和体积--a50bb533.canvas",
+      "sha256": "ab9951d2fdba9f13dee8dff9512935bbce8ebe7e454c2f3d5bdf9698c246d345"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.3.2 圆柱、圆锥、圆台、球的表面积和体积--172cf50e.canvas",
+      "sha256": "bd4fa9611089c52265cdbbc91a8263a35ea1d3599ad2d03351f138d5faeb77cb"
+    },
+    {
+      "before_sha256": "7a9f473d41712f597313c29f3c097febfabe94b58d882524b8f38ea3abe2874c",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/8.4 空间点、直线、平面之间的位置关系--3a11925d.canvas",
+      "sha256": "110c5d0874c30bef97132914a77df04db27d7150c7464a98839fbd61b7636c03"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.4.1 平面--afbff020.canvas",
+      "sha256": "3bcb3b100d9e779362ff2f7309ce995f0be18c3dd51e67f59873c0917b516581"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.4.2 空间点、直线、平面之间的位置关系--5f06d5ef.canvas",
+      "sha256": "1cec1a1b29168965b98b40597edc7bebb33df99b21e0cbdb322fbf4ecde1dd37"
+    },
+    {
+      "before_sha256": "f33a7b00ff52efcab70850e4ed9df34b25ddf17fc3c1884cef92c06967086634",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/8.5 空间直线、平面的平行--dcb67386.canvas",
+      "sha256": "2857103423267661f859e5fd6e438de5e4ee9e58af099cc4c4722f69dc9dd0e0"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.5.1 直线与直线平行--f6c9a288.canvas",
+      "sha256": "d4b057e9ca2ff44f3fb5647ca94d3652c3467ed8a0704faf162e5e96a6ec55a6"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.5.2 直线与平面平行--42f661de.canvas",
+      "sha256": "1b73267e8e1a961914019e75ad8255552914e159966fbbc06f0c908ab25f949b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.5.3 平面与平面平行--99660bc6.canvas",
+      "sha256": "b12ae7d1f964b34005cd54a2c98f724d22debe5a1dd9c71a2d5eac0d658b0243"
+    },
+    {
+      "before_sha256": "8cfd695226947c0c4d6692afe2235845bd3872319db903f95930d3d7c9753f47",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/8.6 空间直线、平面的垂直--b80b85c5.canvas",
+      "sha256": "2f5d3811ffb0f062b23ced42148d78c58c14123744f0773f4910228d0071deba"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.6.1 直线与直线垂直--a9b89ed4.canvas",
+      "sha256": "c20cd2d7b5db0bfa0d6960e0af5395bdde7020c0bdeb7e274537c28a62ee9bf1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.6.2 直线与平面垂直--77f4651d.canvas",
+      "sha256": "2ecd27477937ef9e04ade5852dbef8afe8977a7c4e05237454e8120f269ef2ab"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/8.6.3 平面与平面垂直--dc2ef5b9.canvas",
+      "sha256": "7ddafe0bdf8d8c83e5c9d67c3d9e609292e7f01a67f7139d694e7f90ed83b4f6"
+    },
+    {
+      "before_sha256": "f2470e02311850bb2e761f8b1752acba5e3a5f097b821cd5d758147cb45bafe0",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/9.1 随机抽样--5ecb5636.canvas",
+      "sha256": "194b21b06c4668d3fd06418d34c00f8da518c85c4d941d1055c6a328805f1a17"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/9.1.1 简单随机抽样--c06c506c.canvas",
+      "sha256": "34a54857efcf8221b284b7649daf3314384929eb58a190948bb659a71844dbb3"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/9.1.2 分层随机抽样--bd98aa2d.canvas",
+      "sha256": "d461316b0949be471f13c21b2dbf41a6ca7e1077afb3cc6f3a245a5d64b3307a"
+    },
+    {
+      "before_sha256": "ad8e4999be8197a2455319eef4fa684ac98ab5fb63e048150231266b085534c9",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/阅读与思考 如何得到敏感性问题的诚实反应--d49d1dc1.canvas",
+      "sha256": "c7214998aae367cf74fe9b2344577e7695de9fedb216294ea9f81dc4b019cf54"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/9.1.3 获取数据的途径--9baf8923.canvas",
+      "sha256": "58897c8e0c5cffc5c479105bc760d7ecfedc062f74bc06bc35a6a9368616968c"
+    },
+    {
+      "before_sha256": "083bd95bd81db8a3c85933bc2c9972ae357683d241e27a709d517e89ae8c5057",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/9.2 用样本估计总体--984a5067.canvas",
+      "sha256": "9ad373b0bb8d7935f972511cd6172a2ec669587ac2117536d77b2b9164566782"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/9.2.1 总体取值规律的估计--7171c32e.canvas",
+      "sha256": "7af59414440da8cdd40b66ad50058fe3d959e1ae1001b0eae3d6603adeb2bd2c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/9.2.3 总体集中趋势的估计--e9aeb61b.canvas",
+      "sha256": "93c957e72549e0f7246494dc2f2b7ab1895894f79531cdb6ab4eed5e6ef0a468"
+    },
+    {
+      "before_sha256": "01130db153283cee5708c64f9bd631a6c5d0e1d0b6b2320c816e22bb627b0f32",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/阅读与思考 统计学在军事中的应用 ——二战时德国坦克总量的估计问题--19b25135.canvas",
+      "sha256": "9cf395ff5b2816ed173e8fbd1734ff8c08dbf7bc3271d52c03dfb154822c0788"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/9.2.4 总体离散程度的估计--f602f1e7.canvas",
+      "sha256": "c87fd2b71ce52a71a2c3ed3d5a67655744077e5d71233d1ffd58f93fe8ffb67b"
+    },
+    {
+      "before_sha256": "7874cc9c657ae362aa782150c3c422ab2ba87e77fd9198a26156485de9b119b5",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/10.1 随机事件与概率--e6ce5609.canvas",
+      "sha256": "e2956a64252ccee542bc48419e8487e6ec14b9bede0e92725513c78f0886cd3f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/10.1.1 有限样本空间与随机事件--8b0ef139.canvas",
+      "sha256": "d1fb01eb43bafa94f89bc9e3d79531d26885b3ad610feb8a64e90a7752871bcd"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/10.1.2 事件的关系和运算--d868660f.canvas",
+      "sha256": "adcfc672780eb0f435ea58e0f142b1d742aacb871219c767c481d4dd9ed1ae81"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/10.1.3 古典概型--561b12e0.canvas",
+      "sha256": "77e1a72e8041e2f0c410f867a0f20209084da830876ae4100493dffac8556f24"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/10.1.4 概率的基本性质--2cd37041.canvas",
+      "sha256": "851b42a72e7c32e97c76699cfa7af2d16e1aa3ba816873ff01e88c9ae7a5ca4c"
+    },
+    {
+      "before_sha256": "f629035c8d22995648110e8c1d22d5858a444cf7f87616acb7cdca1fceb95a45",
+      "path": "Mathmap/canvas/三层/人教A-必修第二册/10.3 频率与概率--a1ddf92c.canvas",
+      "sha256": "32671304a4ca0e8720552f18f0e6bac7363d54a4a1b5bf32e59f53ab6d880789"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/10.3.1 频率的稳定性--e843cfd1.canvas",
+      "sha256": "6f5404701dcc7d0c69fdc5626d054a32084bdc2820a12a5cf7e1064c5b073620"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-必修第二册/10.3.2 随机模拟--8c9f6c1b.canvas",
+      "sha256": "866b2d37b3320386872d674e74cfc6fa384dbad62b0c220433cecb86c84c86d4"
+    },
+    {
+      "before_sha256": "85f64572ffd0e29cbbd4192b30f8ba7294cd8f593c2694c3f35d88b35d91b21b",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/1.1 空间向量及其运算--dbe96e90.canvas",
+      "sha256": "8b722eb81e676c5be996e0f51f5d5ebd951f16b58f5e8fd45c627334871a4d8d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/1.1.1 空间向量及其线性运算--9b963436.canvas",
+      "sha256": "c6cb6a1d6d35ce8256589cadc59d6085371a608a807770f87d7f0611325dec12"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/1.1.2 空间向量的数量积运算--7342b7fe.canvas",
+      "sha256": "4a1fdc8bae14dd641adbda2b1c756adbfa969e18ff33d171cce0655850b4ca8e"
+    },
+    {
+      "before_sha256": "40246c89f40d81615bbde08051d7e5125429fd5d8b9e52e6302b3baf2091d229",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/1.3 空间向量及其运算的坐标表示--fdc878d1.canvas",
+      "sha256": "4316504d8cee1e29836dfffa0ba49fe6af95467c17f5812e2d76301f3fbb8caf"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/1.3.1 空间直角坐标系--6914a256.canvas",
+      "sha256": "871abc3bb088a6942585c084e0aa4c9acd88fd9d567d44a486b411c700217718"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/1.3.2 空间向量运算的坐标表示--34025812.canvas",
+      "sha256": "3e48a9a1102145881b623957fda9ae0be499336f54e7248186d11f05cfde2d6f"
+    },
+    {
+      "before_sha256": "48c6255e3f336911aaa39a97b362a2f231aefa69e1414f47a952eb63fd0e846e",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/1.4 空间向量的应用--7ee2e281.canvas",
+      "sha256": "a703607fcf7091d479198b433aeff792aa2e387d3830dbe36ba5694921a0b605"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/1.4.1 用空间向量研究直线、平面的位置关系--5216deae.canvas",
+      "sha256": "a4bb79dacf1c42e67755591d0c73b77e2760946fc7d1a04d1e263bc04af1b630"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/1.4.2 用空间向量研究距离、夹角问题--f8e5b6ed.canvas",
+      "sha256": "4178340cb42a34c18050c31a1225f58221d990ce9602080608eb0630f89df7ef"
+    },
+    {
+      "before_sha256": "55c3977f3f3a199ce3a378e548bc6fce20c24d61e39f4520b5213dc0c9d2e0c8",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/2.1 直线的倾斜角与斜率--e51a80d4.canvas",
+      "sha256": "0fc6b9df97e8921970600f8b5e02789c30bd5059dc795d3ba456631c176179d8"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.1.1 倾斜角与斜率--a8c61db0.canvas",
+      "sha256": "2d8b27a0aa20638d4a773d274349d5e35119166c1d58ad38bb3246a42b6e34ba"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.1.2 两条直线平行和垂直的判定--a6d11596.canvas",
+      "sha256": "48ed8aeb7504f9a40e9f0a4ff2476c061b0b59b64c3677cabbbf769379922fbb"
+    },
+    {
+      "before_sha256": "fecc665aeb0a36b9cae8d74f814c9fb6669cbb77d48284ccbf47c07e19fea8e1",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/2.2 直线的方程--41206a64.canvas",
+      "sha256": "f5045fec52724be2ed550999109821ff9e598d579118378bfc14b01181b32832"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.2.1 直线的点斜式方程--03105472.canvas",
+      "sha256": "18932d790d380a48d89e69667a9cb8fe2ae7f44f6030252cee96ffbeac7498c4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.2.2 直线的两点式方程--f2a41c63.canvas",
+      "sha256": "37d648ef70bf08545ecef747a836e34a1cb608d71624b22207315a2cec420660"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.2.3 直线的一般式方程--70c37cdd.canvas",
+      "sha256": "e14620fb9c44b71ebe1bd702567da625cecedc4ad98668afb8e852149a36eb21"
+    },
+    {
+      "before_sha256": "5e0733cc9bd72c135f8d951dd64fe5de4b8381c17165945ed92a151e6ba174e2",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/2.3 直线的交点坐标与距离公式--8e1bab2b.canvas",
+      "sha256": "65d51e9d875f33809e73ec3d96c676790a1edafdd33bfb9b3bd9228549ad9c1c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.3.1 两条直线的交点坐标--7b5dca96.canvas",
+      "sha256": "7ac5b5356adb468c2232ec2c7381de934100cceb986c5fa3d38936e6cbde209b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.3.2 两点间的距离公式--77889061.canvas",
+      "sha256": "482e55be46be82d7bc89da6f38badbacd8c61111866b9c0e38b07ddb8b88205a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.3.3 点到直线的距离公式--bcaa17e5.canvas",
+      "sha256": "810ab55a9c57ce6db1f2ada8fd339bc3b394de6ab49838120c7626ab6af065a9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.3.4 两条平行直线间的距离--238f29c5.canvas",
+      "sha256": "7581b383650cc45b2e7a60aa209571df402093841475cd4ebd03f5a6a2471f62"
+    },
+    {
+      "before_sha256": "3fc9f06c2b7ef00f45bdeecf8638b54a12bfd1be36774d3c7e1f7e8d870baedb",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/2.4 圆的方程--88c4c5f0.canvas",
+      "sha256": "47aeee5ea9055b0c4eb004f5ca7e01a2320be19be12733e671c4d9f9f7fbf80d"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.4.1 圆的标准方程--90f7312c.canvas",
+      "sha256": "e3a98903a93c30331375173feed3d5b5423a67c2747fcf5e3dcade3cb115706a"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/2.4.2 圆的一般方程--e24d0c9b.canvas",
+      "sha256": "756428c8c3fe60c1144f8c981fcbc4f70d8f1e9fab1f7aa7a860d790d255f257"
+    },
+    {
+      "before_sha256": "565ec37a1983fd851af43935e697674698fec195f1059edae11fcefafd0b4e1a",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/3.1 椭圆--f18eef6d.canvas",
+      "sha256": "b2b7be54b6abfa40a5f19ae1ec3475ec53306d26b90f50d6bd17552bee38cb61"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/3.1.1 椭圆及其标准方程--0eeb3b79.canvas",
+      "sha256": "2caa83c4e3a76075c90bdd1d85d410824f20afed76d9343bdfac20ec80555ec9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/3.1.2 椭圆的简单几何性质--685e02fb.canvas",
+      "sha256": "b05b11d70d85508e8546b2d17519571dce049207aa5a7515fe535b6ffd30d09e"
+    },
+    {
+      "before_sha256": "c0c63d0cfbef127d24fc793a12ac906e9ad1c16b4e343e881724416841095b26",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/3.2 双曲线--ac85d812.canvas",
+      "sha256": "585b22124446ca763eab380f11fd02a8dd67bd9b4d4248be550e38edc62d5138"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/3.2.1 双曲线及其标准方程--0abb829c.canvas",
+      "sha256": "4d6138a76063bfe13d86a70b5ef4412c7ef784de30ba10039c284b54f0439847"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/3.2.2 双曲线的简单几何性质--41f7dc05.canvas",
+      "sha256": "dd7010c2bf570431df89cb2508649b15c70fac8e5f178757e5165a618dee816c"
+    },
+    {
+      "before_sha256": "6726434908a9718dd58c70ae2b24da86f17f3ea264f687ef5af38dfd68f2919b",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/3.3 抛物线--3a11925d.canvas",
+      "sha256": "ba77c5cc7f5a2cc2d9cf5ff86897e3f1d9a7e1041ff2818a07bd0b6e522194ed"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/3.3.1 抛物线及其标准方程--cd05b27f.canvas",
+      "sha256": "2019129b1ad4cc588749eadff41500b72ceba2df6e147e6fcb77717b99b4decc"
+    },
+    {
+      "before_sha256": "78f398f541a738f29c4505c9fae92e718299341feb5194f8ad1930616f4c5b19",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第一册/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线--dcb67386.canvas",
+      "sha256": "865ca2c187fd7cad379ed0f282b5dbb6ceb58d4c8013fd640bfdc70f27a6addf"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第一册/3.3.2 抛物线的简单几何性质--72a557be.canvas",
+      "sha256": "049f61077b81b3b2020a0e9b4ab1ac0648f01098b0c30800faee0744bf57e0e2"
+    },
+    {
+      "before_sha256": "58595ede3d0e229f79f144ecbcb8b9572c5c988c4582cd446699b513375edfb8",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第二册/4.2 等差数列--fdc878d1.canvas",
+      "sha256": "73b1eda5a013758f24815bc7e6c6e223dbe11e4f3e918bf1fe1f00cef82a7840"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/4.2.1 等差数列的概念--6424a9ad.canvas",
+      "sha256": "1aa85ded1ef1759e1032044e8425a0f0e7e8406f7f133f5ce730e6d1267e1d38"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/4.2.2 等差数列的前 $n$ 项和公式--34025812.canvas",
+      "sha256": "677e459ead4c987fecaf4fab53555a44e7c9bc8148c61ab06beb3344048511c6"
+    },
+    {
+      "before_sha256": "7e2ecbd5a1a6cfb2f9e5c1de35dbfc2d29dc2a647011e27632bb874123837d75",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第二册/4.3 等比数列--2b06ced0.canvas",
+      "sha256": "4c80ffc87dcb258ae95f60f2c09d8b556c01ad480642cf9cccaa28e3e1014fd6"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/4.3.1 等比数列的概念--9ccc5fe4.canvas",
+      "sha256": "5e91ed638ad9d18a9cf7bd2d859482ee6cc2f1bc2fa9b29a4a3dda5bc75ecb85"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/4.3.2 等比数列的前 $n$ 项和公式--ae935bb6.canvas",
+      "sha256": "70b44f866812baa5f38d52d02f5fac9bbe6cc48f425fcc8824c99cf9297fecbc"
+    },
+    {
+      "before_sha256": "f16a8bf6d4426571f1e58bf7d6f0ffffaaa118097a3756c6d340eba24943a743",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第二册/5.1 导数的概念及其意义--41206a64.canvas",
+      "sha256": "ec675756f117867f7f627cf53aaeadffc0ff6a97cfa81a8848ee50d0383b4147"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.1.1 变化率问题--890bce1f.canvas",
+      "sha256": "5b1490a9bcc637031abc05a9596632a0e772f072338d5de0012f03df790a1e70"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.1.2 导数的概念及其几何意义--c8602c78.canvas",
+      "sha256": "35fb7368fcf5aa28e40b8d48f6e238a7da794a97b73c02697abd40e3d8489600"
+    },
+    {
+      "before_sha256": "7b92d4bb16e022c72692ca34947f47bdbe8fb2b4eb5e8b80b99f8823d9e3a65e",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第二册/5.2 导数的运算--5cd67262.canvas",
+      "sha256": "0456562924080ae14719ec748ab0589fabfa0581ae8011bd19243a597bf46b00"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.2.1 基本初等函数的导数--70b2b174.canvas",
+      "sha256": "0de28a7a8c75ea1d3979d448c672a76fd35656bd1f63d8d267fd6e8584bdf1f5"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.2.2 导数的四则运算法则--ab781baf.canvas",
+      "sha256": "fda39b807411a5dacd6dff7f0e56e0b41f9c4c59c20f2b6c1a724249d99713ab"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.2.3 简单复合函数的导数--4acb8e31.canvas",
+      "sha256": "3e3062a8e3526684d0ba5fafd36cd72396d2170bda904528ab8beea397849f01"
+    },
+    {
+      "before_sha256": "c9c5e02ef041b9c8f4aa448433114174cf6c6a47adaed915ae2a3cfda9ff17d7",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第二册/5.3 导数在研究函数中的应用--151aa748.canvas",
+      "sha256": "61b446e0fb796e4d81a3321c76668e82dc98b87ec4aa149573591b541de353e1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.3.1 函数的单调性--b95386c9.canvas",
+      "sha256": "8c09ba16ab161400b0c723762e2212ddacbd2c20a541edcc0fcdc0841f039c34"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第二册/5.3.2 函数的极值与最大（小）值--7534f20c.canvas",
+      "sha256": "22d3a47af9a879cadbcd1333c548d1b21ee747617492d6266bf85cb32e227331"
+    },
+    {
+      "before_sha256": "3caea92b789a82b8db4ca4613dcb4b16658f039107420e773bdd8cb8921888ba",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/6.2 排列与组合--fdc878d1.canvas",
+      "sha256": "b1137869afc7b114ac90087d340a03b894dd7f65f25b50a296ceb2c8b0103b5c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/6.2.1 排列--a545cfa5.canvas",
+      "sha256": "fc52036d804d79bda02727d1d36a126a5b778574079fc5fc5e23b42e28c5a6c6"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/6.2.2 排列数--2be650bb.canvas",
+      "sha256": "09bb02440a8b14090c1417212457d23ef6017506d233d5e6bc87c883b19dbea9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/6.2.3 组合--43a76bd8.canvas",
+      "sha256": "420ce4c691b36da2bf9a6b434c95e154bee4d0b2163db77027a40ee734c4d9fa"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/6.2.4 组合数--a2efd5e2.canvas",
+      "sha256": "39868a3521d55dfad4d4c71adf903fc69fedb3212e9e64d4eedc80f21d9fe149"
+    },
+    {
+      "before_sha256": "494d25112d9c0d4598060a0f2fc23fea6f5e1cffcdeec03f330df556d522710a",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/6.3 二项式定理--7ee2e281.canvas",
+      "sha256": "3355297adbbef0771d2b551937235306307aa52119d515a7a70277ce726ddd67"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/6.3.1 二项式定理--c511c3e6.canvas",
+      "sha256": "24672e49f16ead054f598c66e11547ac15c676ca91f7a6bafa1130f63dad0cb9"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/6.3.2 二项式系数的性质--4068c246.canvas",
+      "sha256": "988db8df798b8d2f2979ceefa7c283892787b19f9936ee6c8e8f7f93ff4e029a"
+    },
+    {
+      "before_sha256": "e04fc17d4b0e281a975ba0e3a4cc5bf1756d1212f68affc1245719454ae14be3",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/7.1 条件概率与全概率公式--41206a64.canvas",
+      "sha256": "4ff29c354dfecf307f2d6447ddaf0a66df0fdfc38c5c0c85284242c0090aa40b"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/7.1.1 条件概率--8455f3ba.canvas",
+      "sha256": "0400541d147d779f9bb6c22c9889d3646a92f9b76343655e568556870ea22537"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/7.1.2 全概率公式--a5d5eec5.canvas",
+      "sha256": "5e4b9f2edb96c81262a80ba866c1cdeddd4764766d96e02f6569670c6bcc9f9e"
+    },
+    {
+      "before_sha256": "aae5d200da4f1969f899fefffd6683626b2eb101c29cc57047759ac74c6ff294",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/7.3 离散型随机变量的数字特征--151aa748.canvas",
+      "sha256": "823a47e7285f8d8b5ce50a82faa439f376a1622b36a0546a9b242077f1728c18"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/7.3.1 离散型随机变量的均值--2891342f.canvas",
+      "sha256": "6bbc243682d275a149a7b7268e099257f9e51fe9a721ec1024044320f542f5de"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/7.3.2 离散型随机变量的方差--cbc5dd0d.canvas",
+      "sha256": "4bc1882a3f9d5affc0893ced5824437f9e126d5b806a74b8a9cb85b51a9f1f3a"
+    },
+    {
+      "before_sha256": "c58330304826cfb9568a74a9799aad00d4a4ef51efa501c9b7c537948a2ce08e",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/7.4 二项分布与超几何分布--88c4c5f0.canvas",
+      "sha256": "046b329c1df8c89f5c2d490d9856324e2815b535dec22d05a3426adbe4e67fc1"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/7.4.1 二项分布--96997368.canvas",
+      "sha256": "55d291ac1c4542655450288b46c346d009c83aa8d0b134fa532dba4815a1b5f4"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/7.4.2 超几何分布--978a9231.canvas",
+      "sha256": "92570523805c30e29c1c954aa5a049c102f78ba3b532ba6bd0d00eec21e3b569"
+    },
+    {
+      "before_sha256": "ad6f51dbda1ecc0a4aae5d09cc5bf2fd968b467359f28d945b88af3f4d79b6b1",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/8.1 成对数据的统计相关性--6da8d542.canvas",
+      "sha256": "30c9dd7c08883fc34c8b62ce3e2f54cf084f61f844f7270d95e225da2fc47e0f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/8.1.1 变量的相关关系--b4801e57.canvas",
+      "sha256": "033c65833b492a9b80a0deeec84f4dd133f3064194761a03cdd598d36ed1af3f"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/8.1.2 样本相关系数--16fdc7dd.canvas",
+      "sha256": "403a3089ce674a392c84ed2c854ba6a8a9d20b1ad49b3c577a5546861ada6eef"
+    },
+    {
+      "before_sha256": "4817a6091f1be54cf2b0580a9efe291fcdc7edb4ecf9cc0f283fed1f61316f04",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/8.2 一元线性回归模型及其应用--ac85d812.canvas",
+      "sha256": "6b0ddc8c259606e5f670df4fb64f29d6d281816154682b942ab7aceef0f31aed"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/8.2.1 一元线性回归模型--76cc7dc3.canvas",
+      "sha256": "ad3cc6041d3f313b8b4a9eebe942cdc9a9de8d8f5d334986dec5e49ebe301bdb"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/8.2.2 一元线性回归模型参数的最小二乘估计--a32923d6.canvas",
+      "sha256": "110eb2387d9a629e6cf9f9e9de268d25349df40f215e323fc97b22dfe588f97e"
+    },
+    {
+      "before_sha256": "6e0b7f98fb971a0535e14822f7078d7ea126d2ce83fde98346808a301ef1ebbb",
+      "path": "Mathmap/canvas/三层/人教A-选择性必修第三册/8.3 列联表与独立性检验--3a11925d.canvas",
+      "sha256": "eb36ebff693dc60125865ab7dcb6f9e889de8a0acf498e7218e0cf57bb893a3c"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/8.3.1 分类变量与列联表--172cf50e.canvas",
+      "sha256": "d0b19ffa7ad8ab428db5c0edaffc6eca6386f05dec534443d53f517d89e24baf"
+    },
+    {
+      "before_sha256": null,
+      "path": "Mathmap/canvas/四层/人教A-选择性必修第三册/8.3.2 独立性检验--5694072b.canvas",
+      "sha256": "46e6ba5624a538a194ed13dfb44aeced39718db5077a5d023fe10bb274df17f9"
+    },
+    {
+      "before_sha256": "ae9e0e04c5e8c14d1cf1506851c9c5d7a5ff3b0ec2e70e2eca93138e9608c0a9",
+      "path": "Mathmap/canvas/索引.md",
+      "sha256": "c74aedf36fdef67e474d8feb24f84e199ac7ff88b436297f882068dced05584f"
+    },
+    {
+      "before_sha256": "8d39dfb213c0bdc3cb765964435d3475263281ad5f8896bbe069adc747af8ba7",
+      "path": "Mathmap/.mathmap-linker/canvas-registry.json",
+      "sha256": "099fe9908b76976423261c84b715494c5436fb89b1f2f7226670fbb01772c1db"
+    },
+    {
+      "before_sha256": "e73bd35ece2c2701c15494b5bcf39225cc5fd3e703d01a9dc0861c597158daab",
+      "path": "Mathmap/canvas/一层/mst老唐说题-圆锥曲线-2026.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "71806fb2d7d738328d1dcb9debec3def5d52abd5fd5d4e0d4f0d9b0680e84d0a",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 切线与切点弦--7d9c3551.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "c60ec095431d2cf889324008fd02454978c4e8027ac1effa3c382e446e78e486",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 单比与交比--77562aee.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "b426e71620e55e2c74991c6323191d00fd887df69b01a30cf0cf5256960cb77d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 反比例对合方程解决圆锥曲线与数列综合--ff239cf4.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "a3446d38286ff7d8ec55afa33c4344b48475dda14d81de098cfc3620bc61c62d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 弦长体系下的焦长模型与焦比定理--3df2dc90.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "220508db8ddf37c13b70bd8ead171cf3eea13d387f335a309d803f504c7f9d94",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 抛物线两点联立式方程--d3294027.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "18b03d23eaa81b050fe42d61b44b4f53958e71b2ee1a7cfdb03f85a81ddaf84a",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 斜率调整法--c83f5361.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "5e25664f4e7313c33d83c5743d9aeaf7fb13cea6e2dd1093ea805d869faa656a",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 椭圆双曲的轨迹翻译（第一定义）--7ea932fa.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "96d3ec1740b19e285de2bf4958dac1501874310c7304c7615aa83f6b6c66ac1f",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 正反设直线的方案选择--be1cabf5.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "df935f1984a9db88ce73977206271d7b38418560d49aeeb85f4b1388881eca9d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 角度语言与坐标语言下的焦点三角形--649025c6.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "ec8d90abcff12c0a4d64aa7dc52eb9dddfd4b4b15c2f95df97310a3ad96dc1d3",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 调和点列与点的对合--66cd8506.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "2fe20480c73d4cf7d13cf83a376be508f59af981cf9b451f1b67a3858f1608bc",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 过焦点弦的面积问题--32287a84.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "e618f02dbb54de3a295cf4b8aa062766d86c872fda9de64c65a180e8c1c75c2f",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 长度参数与直线参数方程--d093e019.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "6e4e5c110ffa7ee21959f7502312c23641a27b20a8a67caa96f07569a64af69a",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 齐次化处理斜率和积问题--daf608ae.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "3d018637e674519d025dba74017651c35b66e256c805e2fea5467fb4c53f9d87",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第七节 帕斯卡定理与对偶定理布利安桑定理--9da6f178.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "2f58ba4203f194bb41fd79f20bcc2fb494c8217a7084205cfa8205f835753a25",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第七节 截口曲线与祖暅原理--c26344c1.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "693015b7019a586f147b65c82ab96cf82c991d8e4906af9d791b692ea2b045d5",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 三角形四心性质的应用--caa6ff2f.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "100b73768c9cd66889d6b9791900d8e906549cf7bc969bd77b9b0c01edfe6ee2",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 复数变换与三角旋转--c370c206.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "289bf0d7f61247613df5d9b6202afa7d0c17dd0e13d697d338926c968e1fc85d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 椭圆双曲的斜率转化（第三定义）--6bd990ad.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "09fde65f5e367d57c6e461f9eab781f1aa693b1da3ac129107df5deff0b42255",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 椭圆双曲线的两点对合式--aa60302f.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "5d7fb9545f3ae1317ecf48963a253ad53f6f3b1ee6b35b4d6a31137de285787d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 比值参数同构--247b094e.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "6799ac427d36cdc0057ecded135d0072e3a14af57796359e9e51be5972a8da48",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 点差法与中垂线问题--9e29fd54.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "1484d798fd83e8e18baa4dfa2ba303d37a87e35aa4b5b5fe392aa9bc85ef89cb",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 蝴蝶定理与坎迪定理--1069419d.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "8da0c1c73e5cb624863425fcfe305c489b611511200e3a41053bc77a4ff2f0c6",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 角平分线与调和点列--60b94a14.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "3db685db75e294ff7b9c7a2c67b50cf5758fc4ac4646af975d60cbc72d21718f",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 运算技巧下的韦达定理拓展--304d07d2.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "dc9c00cdd74714498627c540d555df98e60bb03c39e57b4ad1f6098f1dfddc5b",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 长度与角度下的离心率范围约束--d5230db4.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "835a87bd4e83c1b7a7d2dfbfa3d25b0156239eff334471a5faaa2d9d3d8b00e3",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 面积比值转化问题--eee933c3.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "99cedb654ba6704808e68fc207e71eac6da31e53856e9e172cd47ef951cda850",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 仿射法与面积转化--a7ea9dba.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "5006eaded95f13063e4a3188e227171b3c37df3d6a6255786ca12d0d4e813aee",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 几何光学性质下的焦点三角形--a2261c86.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "a43ea73f708b7b61f0325eb4f104cf31de00fec2fb87a70b98cd4119386276ad",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 几何性质下的渐近线模型--4e96552c.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "2b6f6efa71bf1eceae1d1d451e73944497c837a5ecb1edbc515a7b63c9e189cd",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 单动点与圆锥曲线参数方程--e0c542f2.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "9fcab5fb57a6f11f0e9e754c98ab91102ee234a456353ff1db098c525445642c",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 向量乘积中的翻译方法--f6eb5312.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "ec97ca43d57f72e2f82cbcfdbafa999a377bb5b33bc8b933c329f3dc402f0883",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 圆锥曲线与三角函数的综合--e11b43d9.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "6f5915bfb7b9e344d8c1eea51237e3292988329a6d8c236157bd0b8455c93c6e",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 坐标旋转与曲线转换--f11722cf.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "1c9eaab77913fa0ca0626a91683b23a592be352ac70a77aacb00a3895236e04d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 坐标面积公式与面积最值--494b0b7e.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "9bed724d6ad4cf2aa242a84207dad7f9fcd904d173f57283e8cda04a64581e5f",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 抛物线切线对合与两点对合数列构造综合--40b476cf.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "59126594d3a0f51817807306bde2f3e6ca986bfa5b6de5965ed4009cc44190ee",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 斜率同构式与坐标同构式的应用--fbd9864c.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "10170b8cfea60b62b197e37210e85ca174f0ce03b538601ad235e3c384dacdb9",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 极点极线定义与自极三角形--c383baca.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "ab9a65c52a2bec2d1df43ccc2f788a31816be1458bf99a2a1692be132409ae0d",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 椭圆双曲的比值模型（第二定义）--e0ae1777.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "f5d9f07dd4c3c6fc55ca9c4762aa99f7c47d2251180b14526c030301eab60719",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 调和线束两大定理的应用--19c9b75c.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "752a5fb9d0c8ad8ee435cdb3a06144dc002257bba1c46a5b003cf269b31d362a",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 隐藏的斜率和积问题--268483e7.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "be26988c493d6b71d604826eb3c9198544ebfcac333747309561a8d8dc6e3746",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第五节 二次曲线系与四点共圆--e215e34a.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "0087842fadf145fc8b7484e18b69666b73d8845d34009de341aaab0e4632a111",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第五节 抛物线的焦准翻译--e037b66a.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "3c02c2bc4c45bf676399b80cd791454d9a5a7f9956ed622e3fddbd50f0d2e031",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第五节 斜率积的三次对合--af666f3c.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "d00490ed70d68097096dd1e24bc9e2e7cc894893dd1f85c8b835f99914171c9e",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第六节 二次曲线方程与四点联立曲线系--35a1f01f.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "521a46445c3b5060a288d271077640aca093f6083c7eafcefeceb73239e8f532",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第六节 从笛沙格定理到帕斯卡定理--ca67eb31.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "d515dfd4f02bb92002b9dd82d85d4c025dc8976f2ff9ea7d1c12468363963144",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第六节 长度最值问题之声东击西--3fb5753a.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "9e5bef4aee57f08af58e86997e0c91423d72709ee15d62b709dcdc8e7f2e1344",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 定比点差法--8c58db70.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "0d50650041878f1f370fae7a396a5039e3426f634a2b75f80577b6be69902b96",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 斜率对合与斜率翻译--5b3a3f1a.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "bed6e78a45ff05a10112684b0c0aa4adc9100ca6c7e73f915dbc5db1b902554a",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 焦点三角形与大小圆问题--09eef0f3.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "0b5f19480306914012a150734be70fa8088b1d80da051f70e41f959d3b448485",
+      "path": "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 直线系和圆系方程--2d0c4232.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "f8bc2622d002c45208372dfb24fd1361f263c08e0afda69d43ccc95db21ba6a5",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第01章 圆锥曲线四定义--c462cef4.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "92a0c8be55ca93bd36b8507df711aee6dfa1015e8febcbcfface237641f4211a",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第02章 离心率--0340863b.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "9dcae986268cd23a0a16545433a74fa4af4773884006f310dea14b37772c1119",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第03章 几何视角下的焦点三角形--2d9a4d21.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "27fc9c3740071cdbf9fc79e5042670debde537dd37648b2627f6f9e05e476b74",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第04章 小题新题型与多选的综合题方法篇--0d5d588e.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "4a6dcd0641c62566c25b360dc03b1238cb5e86f53d38e1ddaf7c1eae560601c2",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第05章 常规韦达联立--155b143a.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "c01d16e4675098486caba63cd1f06a73c9fcec8e68b3a3ae2eb945dc7ad8f685",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第06章 联立之同构方程--db4287a6.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "77ee38b1c20bfad828b98b2470921db7814c204b3d0d3b39bd7ad7c5cec3ddc5",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第07章 圆锥曲线常规数据处理方法--3bf30ed4.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "b925914148797244114fbbd2a53c7e54192a23385d530054df629b25ca942a1e",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第08章 联立计算高阶篇--8f1ad052.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "53928ec552caaf47ab4e3ef5a3313267b38533d1e09f6c10f72db7f474ec7d05",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第09章 圆锥曲线跨界综合--1e08c9be.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "44aac0671d7e82fb34d1c3025ddcd161f9a940e0d9dfa05b25419aa2fa5ac157",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第10章 万能的两点对合式--f0c839cb.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "b3e295dd8b45f63cbe1c66f179adf0c59eba660db5c3b37cff87372aa56e494d",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第11章 从定比点差到极点极线--051a3b58.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "0b78808d2288ca4788c19e9ce3e3d11479222c4fe0b3ffa21e7f180a90a08ff0",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第12章 调和点列与调和线束定理与对合关系--6110d119.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "19ed012ec73121700dbfc327a19c2ca10830732a773374d4691f205a3c93bf63",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第13章 新定义下的斜率调整与仿射--f4b28e59.canvas",
+      "sha256": null
+    },
+    {
+      "before_sha256": "03e09c5828c0807f18e145169012ba16670e56f4183b810ab933e2364ac18231",
+      "path": "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第14章 新定义下的面积转化--2bae5c4b.canvas",
+      "sha256": null
+    }
+  ],
+  "levels": {
+    "一层": 9,
+    "三层": 199,
+    "二层": 45,
+    "五层": 8,
+    "四层": 272
+  },
+  "mode": "dry-run",
+  "retired": [
+    "Mathmap/canvas/一层/mst老唐说题-圆锥曲线-2026.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 切线与切点弦--7d9c3551.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 单比与交比--77562aee.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 反比例对合方程解决圆锥曲线与数列综合--ff239cf4.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 弦长体系下的焦长模型与焦比定理--3df2dc90.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 抛物线两点联立式方程--d3294027.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 斜率调整法--c83f5361.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 椭圆双曲的轨迹翻译（第一定义）--7ea932fa.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 正反设直线的方案选择--be1cabf5.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 角度语言与坐标语言下的焦点三角形--649025c6.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 调和点列与点的对合--66cd8506.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 过焦点弦的面积问题--32287a84.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 长度参数与直线参数方程--d093e019.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第一节 齐次化处理斜率和积问题--daf608ae.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第七节 帕斯卡定理与对偶定理布利安桑定理--9da6f178.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第七节 截口曲线与祖暅原理--c26344c1.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 三角形四心性质的应用--caa6ff2f.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 复数变换与三角旋转--c370c206.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 椭圆双曲的斜率转化（第三定义）--6bd990ad.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 椭圆双曲线的两点对合式--aa60302f.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 比值参数同构--247b094e.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 点差法与中垂线问题--9e29fd54.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 蝴蝶定理与坎迪定理--1069419d.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 角平分线与调和点列--60b94a14.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 运算技巧下的韦达定理拓展--304d07d2.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 长度与角度下的离心率范围约束--d5230db4.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第三节 面积比值转化问题--eee933c3.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 仿射法与面积转化--a7ea9dba.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 几何光学性质下的焦点三角形--a2261c86.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 几何性质下的渐近线模型--4e96552c.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 单动点与圆锥曲线参数方程--e0c542f2.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 向量乘积中的翻译方法--f6eb5312.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 圆锥曲线与三角函数的综合--e11b43d9.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 坐标旋转与曲线转换--f11722cf.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 坐标面积公式与面积最值--494b0b7e.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 抛物线切线对合与两点对合数列构造综合--40b476cf.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 斜率同构式与坐标同构式的应用--fbd9864c.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 极点极线定义与自极三角形--c383baca.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 椭圆双曲的比值模型（第二定义）--e0ae1777.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 调和线束两大定理的应用--19c9b75c.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第二节 隐藏的斜率和积问题--268483e7.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第五节 二次曲线系与四点共圆--e215e34a.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第五节 抛物线的焦准翻译--e037b66a.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第五节 斜率积的三次对合--af666f3c.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第六节 二次曲线方程与四点联立曲线系--35a1f01f.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第六节 从笛沙格定理到帕斯卡定理--ca67eb31.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第六节 长度最值问题之声东击西--3fb5753a.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 定比点差法--8c58db70.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 斜率对合与斜率翻译--5b3a3f1a.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 焦点三角形与大小圆问题--09eef0f3.canvas",
+    "Mathmap/canvas/三层/mst老唐说题-圆锥曲线-2026/第四节 直线系和圆系方程--2d0c4232.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第01章 圆锥曲线四定义--c462cef4.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第02章 离心率--0340863b.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第03章 几何视角下的焦点三角形--2d9a4d21.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第04章 小题新题型与多选的综合题方法篇--0d5d588e.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第05章 常规韦达联立--155b143a.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第06章 联立之同构方程--db4287a6.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第07章 圆锥曲线常规数据处理方法--3bf30ed4.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第08章 联立计算高阶篇--8f1ad052.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第09章 圆锥曲线跨界综合--1e08c9be.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第10章 万能的两点对合式--f0c839cb.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第11章 从定比点差到极点极线--051a3b58.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第12章 调和点列与调和线束定理与对合关系--6110d119.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第13章 新定义下的斜率调整与仿射--f4b28e59.canvas",
+    "Mathmap/canvas/二层/mst老唐说题-圆锥曲线-2026/第14章 新定义下的面积转化--2bae5c4b.canvas"
+  ],
+  "source_ids": [
+    "bsd-7a",
+    "bsd-7b",
+    "bsd-8a",
+    "bsd-8b",
+    "gaozhong-bishuati-2026-b1",
+    "gaozhong-bishuati-2026-x1",
+    "gaozhong-bishuati-2026-x2",
+    "gaozhong-bishuati-2027-b1",
+    "gaozhong-bishuati-2027-x1",
+    "mst-conics-2026",
+    "rja-required-1",
+    "rja-required-2",
+    "rja-selective-1",
+    "rja-selective-2",
+    "rja-selective-3"
+  ],
+  "unchanged": 137
+}

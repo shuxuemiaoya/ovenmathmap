@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-6-1-2",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "870c7292d92cc7b4f049",
+      "text": "# 平行四边形的对角线性质\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "bc4b7ca72dc5837d507f",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E6%80%A7%E8%B4%A8--5f3b36e4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cbc77d20a2bddb3f13a8",
+      "mathmap_atom_id": "Ka2594efea4dd06",
+      "mathmap_file": "Mathmap/知识点/平行四边形的对角线互相平分定理及证明.md",
+      "text": "[平行四边形的对角线互相平分定理及证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B9%B3%E8%A1%8C%E5%9B%9B%E8%BE%B9%E5%BD%A2%E7%9A%84%E5%AF%B9%E8%A7%92%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%B9%B3%E5%88%86%E5%AE%9A%E7%90%86%E5%8F%8A%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "738f9d96c40055beaa2c",
+      "mathmap_atom_id": "K196775b50160b9",
+      "mathmap_file": "Mathmap/知识点/梯形与等腰梯形的概念.md",
+      "text": "[梯形与等腰梯形的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A2%AF%E5%BD%A2%E4%B8%8E%E7%AD%89%E8%85%B0%E6%A2%AF%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4ba7a1a4c0281f5d7644",
+      "mathmap_atom_id": "Kede5fd8260dc60",
+      "mathmap_file": "Mathmap/知识点/等腰梯形的对称性与底角性质.md",
+      "text": "[等腰梯形的对称性与底角性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E8%85%B0%E6%A2%AF%E5%BD%A2%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%BA%95%E8%A7%92%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

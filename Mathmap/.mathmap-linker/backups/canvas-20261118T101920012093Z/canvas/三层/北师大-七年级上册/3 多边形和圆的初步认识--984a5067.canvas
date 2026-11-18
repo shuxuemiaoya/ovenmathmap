@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-036",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "727bdbc21274f21a1ae2",
+      "text": "# 3 多边形和圆的初步认识\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "ba00c97e4faa4e4bc042",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9F%BA%E6%9C%AC%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%BD%A2--89e48b7b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "54892277012c80349c35",
+      "mathmap_atom_id": "Kdd0f3797ac5806",
+      "mathmap_file": "Mathmap/知识点/圆、圆心、半径、圆弧、扇形与圆心角的概念.md",
+      "text": "[圆、圆心、半径、圆弧、扇形与圆心角的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E3%80%81%E5%9C%86%E5%BF%83%E3%80%81%E5%8D%8A%E5%BE%84%E3%80%81%E5%9C%86%E5%BC%A7%E3%80%81%E6%89%87%E5%BD%A2%E4%B8%8E%E5%9C%86%E5%BF%83%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "776b4adfc4339cc9c605",
+      "mathmap_atom_id": "K68be1294e8b45c",
+      "mathmap_file": "Mathmap/知识点/多边形及其顶点、边、内角与对角线的概念.md",
+      "text": "[多边形及其顶点、边、内角与对角线的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%8F%8A%E5%85%B6%E9%A1%B6%E7%82%B9%E3%80%81%E8%BE%B9%E3%80%81%E5%86%85%E8%A7%92%E4%B8%8E%E5%AF%B9%E8%A7%92%E7%BA%BF%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5c7c22d161b8e4d9dd3e",
+      "mathmap_atom_id": "Kdf0dd90af18904",
+      "mathmap_file": "Mathmap/知识点/正多边形的概念.md",
+      "text": "[正多边形的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

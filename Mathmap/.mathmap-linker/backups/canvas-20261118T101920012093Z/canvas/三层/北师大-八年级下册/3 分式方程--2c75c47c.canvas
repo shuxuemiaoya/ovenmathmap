@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-050",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "df8c7c212c087c34cf3b",
+      "text": "# 3 分式方程\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "a89ead14b93cc9e6edbd",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%88%86%E5%BC%8F%E4%B8%8E%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B--a1ddf92c.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f8b509d93b3106cd5cdf",
+      "mathmap_atom_id": "K88e9510c7a9fa3",
+      "mathmap_file": "Mathmap/知识点/分式方程的增根概念、产生原因与检验方法.md",
+      "text": "[分式方程的增根概念、产生原因与检验方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E5%A2%9E%E6%A0%B9%E6%A6%82%E5%BF%B5%E3%80%81%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E4%B8%8E%E6%A3%80%E9%AA%8C%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "28937852d1c134e5de0d",
+      "mathmap_atom_id": "K9d026b5433b2c2",
+      "mathmap_file": "Mathmap/知识点/分式方程的概念.md",
+      "text": "[分式方程的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%86%E5%BC%8F%E6%96%B9%E7%A8%8B%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

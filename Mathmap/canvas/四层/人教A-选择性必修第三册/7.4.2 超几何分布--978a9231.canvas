@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "8e6c3ac66df29e8f98a2",
+      "fromSide": "right",
+      "id": "e6b58f161ca3ff23cc8f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f6b8f3af7cba5bc7b373",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-03448",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "1eb39ae005a2334ea14a",
+      "text": "# 7.4.2 超几何分布\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "bb7d08924fe46abeab2f",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.4%20%E4%BA%8C%E9%A1%B9%E5%88%86%E5%B8%83%E4%B8%8E%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83--88c4c5f0.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8e6c3ac66df29e8f98a2",
+      "mathmap_atom_id": "K6625e83491b163",
+      "mathmap_file": "Mathmap/知识点/超几何分布的概念与分布列.md",
+      "text": "[超几何分布的概念与分布列](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%86%E5%B8%83%E5%88%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f6b8f3af7cba5bc7b373",
+      "mathmap_atom_id": "K65cdd80644635e",
+      "mathmap_file": "Mathmap/知识点/超几何分布的均值.md",
+      "text": "[超几何分布的均值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%B6%85%E5%87%A0%E4%BD%95%E5%88%86%E5%B8%83%E7%9A%84%E5%9D%87%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

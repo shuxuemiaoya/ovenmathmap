@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-6-2-2",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "759b46a70c4ff33067fe",
+      "text": "# 6.2.2 四分位数\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f8a11dfb00051f49bf7e",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E4%B8%AD%E4%BD%8D%E6%95%B0%E4%B8%8E%E7%AE%B1%E7%BA%BF%E5%9B%BE--39386e91.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "feaffcaa6d47e7371a1e",
+      "mathmap_atom_id": "K848427aaf9eee0",
+      "mathmap_file": "Mathmap/知识点/四分位数（下四分位数 m_25、中位数 m_50、上四分位数 m_75）的概念.md",
+      "text": "[四分位数（下四分位数 m_25、中位数 m_50、上四分位数 m_75）的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0%EF%BC%88%E4%B8%8B%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0%20m_25%E3%80%81%E4%B8%AD%E4%BD%8D%E6%95%B0%20m_50%E3%80%81%E4%B8%8A%E5%9B%9B%E5%88%86%E4%BD%8D%E6%95%B0%20m_75%EF%BC%89%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

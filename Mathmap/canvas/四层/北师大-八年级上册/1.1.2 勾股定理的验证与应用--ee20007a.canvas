@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-1-1-2",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c75808c0b5ee1e1ec9c1",
+      "text": "# 1.1.2 勾股定理的验证与应用\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "06534d64a5a9126e5394",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E6%8E%A2%E7%B4%A2%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86--dbe96e90.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec10580c2af2c8bd384a",
+      "mathmap_atom_id": "Kb26f139f892883",
+      "mathmap_file": "Mathmap/知识点/勾股定理的拼图验证与赵爽弦图.md",
+      "text": "[勾股定理的拼图验证与赵爽弦图](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E6%8B%BC%E5%9B%BE%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%B5%B5%E7%88%BD%E5%BC%A6%E5%9B%BE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0c6933223c6951353e34",
+      "mathmap_atom_id": "K297c0d0541e50e",
+      "mathmap_file": "Mathmap/知识点/阅读·思考：勾股定理的无字证明.md",
+      "text": "[阅读·思考：勾股定理的无字证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%80%9D%E8%80%83%EF%BC%9A%E5%8B%BE%E8%82%A1%E5%AE%9A%E7%90%86%E7%9A%84%E6%97%A0%E5%AD%97%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

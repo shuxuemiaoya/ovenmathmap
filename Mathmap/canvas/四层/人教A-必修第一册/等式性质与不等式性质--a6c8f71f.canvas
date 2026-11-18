@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-1-equality-and-inequality-properties",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "5808daed758545757d03",
+      "text": "# 等式性质与不等式性质\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "23be4a4a23ce054f1c7d",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.1%20%E7%AD%89%E5%BC%8F%E6%80%A7%E8%B4%A8%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E6%80%A7%E8%B4%A8--5cd67262.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "06774fdc5b91be1f6c12",
+      "mathmap_atom_id": "K2ab6bb8b7304b8",
+      "mathmap_file": "Mathmap/知识点/知识点-不等式的性质.md",
+      "text": "[不等式的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%B8%8D%E7%AD%89%E5%BC%8F%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec79abdbdcf9d76de2f0",
+      "mathmap_atom_id": "K356e0f478d7663",
+      "mathmap_file": "Mathmap/知识点/知识点-等式的基本性质.md",
+      "text": "[等式的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E7%AD%89%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

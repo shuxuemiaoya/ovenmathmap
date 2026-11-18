@@ -1,0 +1,77 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-004",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "acde307104e832aed6f5",
+      "text": "# 2 从立体图形到平面图形\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1efed0dc1a99db9266b5",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E4%B8%B0%E5%AF%8C%E7%9A%84%E5%9B%BE%E5%BD%A2%E4%B8%96%E7%95%8C--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "913bc6fb1863ee5a3881",
+      "mathmap_atom_id": "K5c2e9040e6c543",
+      "mathmap_file": "Mathmap/知识点/从正面、左面和上面三个方向看物体的形状图.md",
+      "text": "[从正面、左面和上面三个方向看物体的形状图](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%8E%E6%AD%A3%E9%9D%A2%E3%80%81%E5%B7%A6%E9%9D%A2%E5%92%8C%E4%B8%8A%E9%9D%A2%E4%B8%89%E4%B8%AA%E6%96%B9%E5%90%91%E7%9C%8B%E7%89%A9%E4%BD%93%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%9B%BE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8115aae614fbb16ac6b3",
+      "mathmap_atom_id": "K42093367525098",
+      "mathmap_file": "Mathmap/知识点/圆柱与圆锥的侧面展开图特征.md",
+      "text": "[圆柱与圆锥的侧面展开图特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E6%9F%B1%E4%B8%8E%E5%9C%86%E9%94%A5%E7%9A%84%E4%BE%A7%E9%9D%A2%E5%B1%95%E5%BC%80%E5%9B%BE%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7da9fc13f2d5a1236ef3",
+      "mathmap_atom_id": "K38708930df2535",
+      "mathmap_file": "Mathmap/知识点/截面的概念.md",
+      "text": "[截面的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%88%AA%E9%9D%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2c56ac00e04a480e88c4",
+      "mathmap_atom_id": "K48726033aa269f",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：生活中的截面（树木年轮、CT与3D打印）.md",
+      "text": "[阅读·欣赏：生活中的截面（树木年轮、CT与3D打印）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E6%88%AA%E9%9D%A2%EF%BC%88%E6%A0%91%E6%9C%A8%E5%B9%B4%E8%BD%AE%E3%80%81CT%E4%B8%8E3D%E6%89%93%E5%8D%B0%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

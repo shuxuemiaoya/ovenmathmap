@@ -1,0 +1,415 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bce640a48326da83",
+      "fromSide": "right",
+      "id": "c8ac1eeb4a1d3c8b",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "6f47280578ff3dbc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a51be35adad24bbe",
+      "fromSide": "right",
+      "id": "d68f036bc4c05e0e",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "18a68e565e6f0010",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "6f47280578ff3dbc",
+      "fromSide": "right",
+      "id": "302dde55541e8d15",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a51be35adad24bbe",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "6f47280578ff3dbc",
+      "fromSide": "right",
+      "id": "93b1d0c8f50f48fe",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a51be35adad24bbe",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5f59adb8896b2c0c",
+      "fromSide": "right",
+      "id": "d9cb5ba4c8b7023d",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "ca7c3152197bcbb5",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "5f59adb8896b2c0c",
+      "fromSide": "right",
+      "id": "0fa8808842d31449",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "bce640a48326da83",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "ca7c3152197bcbb5",
+      "fromSide": "right",
+      "id": "560e054dfb1cb5ff",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "bce640a48326da83",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "546b10c34b4a7327",
+      "fromSide": "right",
+      "id": "ebb47aec33094d86",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "5f59adb8896b2c0c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "18a68e565e6f0010",
+      "fromSide": "right",
+      "id": "67d0f7da3654bb1a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "bd20bcd71346b38b",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bce640a48326da83",
+      "fromSide": "right",
+      "id": "461f61325a749e73",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "6f47280578ff3dbc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bce640a48326da83",
+      "fromSide": "right",
+      "id": "6c274fe16a78cc99",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "3efce4b8fff759ef",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "e4944391a0105488",
+      "fromSide": "right",
+      "id": "3619b301089549b8",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "bce640a48326da83",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "a51be35adad24bbe",
+      "fromSide": "right",
+      "id": "efde61498e0c7643",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "18a68e565e6f0010",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "5f59adb8896b2c0c",
+      "fromSide": "bottom",
+      "id": "da0a2be524c7f10d",
+      "label": "归属 · 4题",
+      "toEnd": "arrow",
+      "toNode": "e76fe60a1e5b6c3d",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "6f47280578ff3dbc",
+      "fromSide": "bottom",
+      "id": "563228ab20e69d2d",
+      "label": "归属 · 3题",
+      "toEnd": "arrow",
+      "toNode": "3214fd90bb53e346",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "a51be35adad24bbe",
+      "fromSide": "bottom",
+      "id": "1761100530865acf",
+      "label": "归属 · 3题",
+      "toEnd": "arrow",
+      "toNode": "268c123b5f6b4eb8",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "18a68e565e6f0010",
+      "fromSide": "bottom",
+      "id": "ed80ed8cd18b3389",
+      "label": "归属 · 13题",
+      "toEnd": "arrow",
+      "toNode": "4464be52de2704b0",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 656,
+      "id": "ef61c68e8e0ec22e",
+      "label": "3.2 函数的基本性质",
+      "type": "group",
+      "width": 5212,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "e4944391a0105488",
+      "text": "[✦ 情景引入 · 从变量变化规律研究函数的单调性与最值](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E8%AF%B4%E6%98%8E/%E4%BB%8E%E5%8F%98%E9%87%8F%E5%8F%98%E5%8C%96%E8%A7%84%E5%BE%8B%E7%A0%94%E7%A9%B6%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7%E4%B8%8E%E6%9C%80%E5%80%BC.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "height": 524,
+      "id": "0e052b8c96805114",
+      "label": "3.2.1 单调性与最大（小）值",
+      "type": "group",
+      "width": 2736,
+      "x": 496,
+      "y": 76
+    },
+    {
+      "height": 392,
+      "id": "8f27cb7bca355cdc",
+      "label": "函数的单调性",
+      "type": "group",
+      "width": 2072,
+      "x": 552,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "546b10c34b4a7327",
+      "text": "[✦ 情景引入 · 从图象增减走向函数单调性的符号刻画](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%8E%9F%E5%AD%90%E5%B1%82/%E6%83%85%E6%99%AF%E5%BC%95%E5%85%A5/%E4%BB%8E%E5%9B%BE%E8%B1%A1%E5%A2%9E%E5%87%8F%E8%B5%B0%E5%90%91%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7%E7%9A%84%E7%AC%A6%E5%8F%B7%E5%88%BB%E7%94%BB--0017-S.md)",
+      "type": "text",
+      "width": 280,
+      "x": 608,
+      "y": 228
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "e76fe60a1e5b6c3d",
+      "text": "[练习入口 · 函数的单调性](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8/3.2.1%20%E5%8D%95%E8%B0%83%E6%80%A7%E4%B8%8E%E6%9C%80%E5%A4%A7%28%E5%B0%8F%29%E5%80%BC/%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7.md)\n\n共 4 题",
+      "type": "text",
+      "width": 260,
+      "x": 608,
+      "y": 416
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "5f59adb8896b2c0c",
+      "text": "[✦ 二次函数 f(x)=x² 的单调性与符号语言刻画](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%8E%9F%E5%AD%90%E5%B1%82/%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E6%AC%A1%E5%87%BD%E6%95%B0%20f%28x%29%3Dx2%20%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7%E4%B8%8E%E7%AC%A6%E5%8F%B7%E8%AF%AD%E8%A8%80%E5%88%BB%E7%94%BB--000036.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1028,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "ca7c3152197bcbb5",
+      "text": "[✦ 问题 · 思考：函数 f(x)=|x| 与 f(x)=-x² 的单调性](../../../../../%E9%AB%98%E4%B8%AD/%E8%AF%BE%E6%9C%AC/%E3%80%90%E4%BA%BA%E6%95%99%E7%89%88%E3%80%91%E9%AB%98%E4%B8%AD%E5%BF%85%E4%BF%AE%20%E7%AC%AC%E4%B8%80%E5%86%8C%E6%95%B0%E5%AD%A6%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC/%E5%8E%9F%E5%AD%90%E5%B1%82/%E9%97%AE%E9%A2%98/%E6%80%9D%E8%80%83-%E5%87%BD%E6%95%B0%20f%28x%29%3D-x-%20%E4%B8%8E%20f%28x%29%3D-x2%20%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1448,
+      "y": 228
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "bce640a48326da83",
+      "text": "[✦ 函数的单调性](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1868,
+      "y": 228
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "3efce4b8fff759ef",
+      "text": "[✦ 问题 · 思考：函数单调性定义中的任意性与区间性辨析](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E9%97%AE%E9%A2%98-%E6%80%9D%E8%80%83%EF%BC%9A%E5%87%BD%E6%95%B0%E5%8D%95%E8%B0%83%E6%80%A7%E5%AE%9A%E4%B9%89%E4%B8%AD%E7%9A%84%E4%BB%BB%E6%84%8F%E6%80%A7%E4%B8%8E%E5%8C%BA%E9%97%B4%E6%80%A7%E8%BE%A8%E6%9E%90.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2288,
+      "y": 228
+    },
+    {
+      "height": 392,
+      "id": "b8e264a9adee8681",
+      "label": "函数的最大（小）值",
+      "type": "group",
+      "width": 392,
+      "x": 2784,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "6f47280578ff3dbc",
+      "text": "[✦ 函数的最大（小）值](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%EF%BC%88%E5%B0%8F%EF%BC%89%E5%80%BC.md)",
+      "type": "text",
+      "width": 280,
+      "x": 2840,
+      "y": 228
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "3214fd90bb53e346",
+      "text": "[练习入口 · 函数的最大（小）值](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8/3.2.1%20%E5%8D%95%E8%B0%83%E6%80%A7%E4%B8%8E%E6%9C%80%E5%A4%A7%28%E5%B0%8F%29%E5%80%BC/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%28%E5%B0%8F%29%E5%80%BC.md)\n\n共 3 题",
+      "type": "text",
+      "width": 260,
+      "x": 2840,
+      "y": 416
+    },
+    {
+      "height": 392,
+      "id": "70ac58b5757eda17",
+      "label": "3.2.2 奇偶性",
+      "type": "group",
+      "width": 1232,
+      "x": 3392,
+      "y": 76
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "268c123b5f6b4eb8",
+      "text": "[练习入口 · 3.2.2 奇偶性](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8/3.2.2%20%E5%A5%87%E5%81%B6%E6%80%A7.md)\n\n共 3 题",
+      "type": "text",
+      "width": 260,
+      "x": 3448,
+      "y": 340
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a51be35adad24bbe",
+      "text": "[✦ 偶函数](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%81%B6%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3448,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "18a68e565e6f0010",
+      "text": "[✦ 奇函数](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%A5%87%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 280,
+      "x": 3868,
+      "y": 152
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "bd20bcd71346b38b",
+      "text": "[✦ 问题 · 思考：利用奇偶性对称特征简化函数图象与性质研究](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E9%97%AE%E9%A2%98-%E6%80%9D%E8%80%83%EF%BC%9A%E5%88%A9%E7%94%A8%E5%A5%87%E5%81%B6%E6%80%A7%E5%AF%B9%E7%A7%B0%E7%89%B9%E5%BE%81%E7%AE%80%E5%8C%96%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E4%B8%8E%E6%80%A7%E8%B4%A8%E7%A0%94%E7%A9%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 4288,
+      "y": 152
+    },
+    {
+      "height": 204,
+      "id": "ea2a4e5052171d2e",
+      "label": "习题3.2",
+      "type": "group",
+      "width": 372,
+      "x": 4784,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "4464be52de2704b0",
+      "text": "[练习入口 · 习题3.2](Mathmap/题型/按章节分类/人教A-必修第一册/第三章%20函数的概念与性质/3.2%20函数的基本性质/习题3.2.md)\n\n共 13 题",
+      "type": "text",
+      "width": 260,
+      "x": 4840,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "32c428bd84758f96",
+      "text": "# [3.2 函数的基本性质](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "37e47e620b0ae4f1",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/03-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8-8c58a6.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "ece02fe11cec0565",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

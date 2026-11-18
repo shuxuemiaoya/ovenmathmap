@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-09513",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "126b34a342ebd65e95af",
+      "text": "# 5.6.2 函数 $y=A\\sin(\\omega x+\\varphi)$ 的图象\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "0a51086e03b0f8bc310a",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/5.6%20%E5%87%BD%E6%95%B0%20y%20%3D%20A%20sin%28%CF%89x%20%2B%20%CF%86%29--604ccf9f.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9d99ade85f60c317c730",
+      "mathmap_atom_id": "K8a9577ec777e00",
+      "mathmap_file": "Mathmap/知识点/知识点-参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换.md",
+      "text": "[参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%8F%82%E6%95%B0%20%CF%86%E3%80%81%CF%89%E3%80%81A%20%E5%AF%B9%E5%87%BD%E6%95%B0%20y%3DAsin%28%CF%89x%2B%CF%86%29%20%E5%9B%BE%E8%B1%A1%E7%9A%84%E5%BD%B1%E5%93%8D%E4%B8%8E%E5%9B%BE%E8%B1%A1%E5%8F%98%E6%8D%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

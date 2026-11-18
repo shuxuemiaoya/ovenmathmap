@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-03983",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "e599faf6634cd6868908",
+      "text": "# 8.1.1 变量的相关关系\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "71d7823d8368260667de",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/8.1%20%E6%88%90%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E7%BB%9F%E8%AE%A1%E7%9B%B8%E5%85%B3%E6%80%A7--6da8d542.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fd7beb2025f2c08e7332",
+      "mathmap_atom_id": "Kb73a7b8accb20b",
+      "mathmap_file": "Mathmap/知识点/变量的相关关系.md",
+      "text": "[变量的相关关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%98%E9%87%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a710e57b2897b27d3994",
+      "mathmap_atom_id": "K954f4c6e5baf04",
+      "mathmap_file": "Mathmap/知识点/正相关与负相关的散点图特征.md",
+      "text": "[正相关与负相关的散点图特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AD%A3%E7%9B%B8%E5%85%B3%E4%B8%8E%E8%B4%9F%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%A3%E7%82%B9%E5%9B%BE%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "acab7dd83944605ded46",
+      "mathmap_atom_id": "K0d68f80ca2d63b",
+      "mathmap_file": "Mathmap/知识点/线性相关与非线性相关.md",
+      "text": "[线性相关与非线性相关](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E4%B8%8E%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-05452",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "bfada0d353b8c48fd7f7",
+      "text": "# 4.4.2 对数函数的图象和性质\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "b2e4b191b3623833ad8b",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/4.4%20%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0--ee4decf2.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "872d1cf69fc96b407321",
+      "mathmap_atom_id": "K6620ef8f39bdf5",
+      "mathmap_file": "Mathmap/知识点/知识点-反函数的概念.md",
+      "text": "[反函数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%8F%8D%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e5dfe17a992922ee6775",
+      "mathmap_atom_id": "K60a500bbefc913",
+      "mathmap_file": "Mathmap/知识点/知识点-对数函数的图象和性质.md",
+      "text": "[对数函数的图象和性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0%E7%9A%84%E5%9B%BE%E8%B1%A1%E5%92%8C%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

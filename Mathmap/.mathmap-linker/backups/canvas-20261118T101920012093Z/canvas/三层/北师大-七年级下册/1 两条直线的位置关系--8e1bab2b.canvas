@@ -1,0 +1,138 @@
+{
+  "edges": [
+    {
+      "fromNode": "efbd514c974b16a2508f",
+      "fromSide": "right",
+      "id": "e02a5ba578173b93ac08",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "ce1af7e17541265539bc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5c5ae85303a8fcff563",
+      "fromSide": "right",
+      "id": "a1690501bea1b93bcc05",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "1dfa30c053d493a2da3f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0493a624dc5b81dceab3",
+      "fromSide": "right",
+      "id": "c49148a9608084a2a388",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "d5c5ae85303a8fcff563",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "eb65c6779da72ae35297",
+      "fromSide": "right",
+      "id": "25e9ae386dbb230acf4a",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0493a624dc5b81dceab3",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-013",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "a991e265b68ca79a9030",
+      "text": "# 1 两条直线的位置关系\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "7f3f6792d1e834fbdfe1",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%9B%B8%E4%BA%A4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF--5cd67262.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "efbd514c974b16a2508f",
+      "mathmap_atom_id": "K62a22cdef5f1bb",
+      "mathmap_file": "Mathmap/知识点/两条直线互相垂直、垂线与垂足的概念.md",
+      "text": "[两条直线互相垂直、垂线与垂足的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%9E%82%E7%9B%B4%E3%80%81%E5%9E%82%E7%BA%BF%E4%B8%8E%E5%9E%82%E8%B6%B3%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "eb65c6779da72ae35297",
+      "mathmap_atom_id": "Kb76b18acc0ee27",
+      "mathmap_file": "Mathmap/知识点/同一平面内两条直线的位置关系：相交线与平行线.md",
+      "text": "[同一平面内两条直线的位置关系：相交线与平行线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E4%B8%80%E5%B9%B3%E9%9D%A2%E5%86%85%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%EF%BC%9A%E7%9B%B8%E4%BA%A4%E7%BA%BF%E4%B8%8E%E5%B9%B3%E8%A1%8C%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ce1af7e17541265539bc",
+      "mathmap_atom_id": "Kfda3e576fb1d36",
+      "mathmap_file": "Mathmap/知识点/垂线的唯一性、垂线段最短与点到直线的距离.md",
+      "text": "[垂线的唯一性、垂线段最短与点到直线的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9E%82%E7%BA%BF%E7%9A%84%E5%94%AF%E4%B8%80%E6%80%A7%E3%80%81%E5%9E%82%E7%BA%BF%E6%AE%B5%E6%9C%80%E7%9F%AD%E4%B8%8E%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0493a624dc5b81dceab3",
+      "mathmap_atom_id": "K8311b85ce61482",
+      "mathmap_file": "Mathmap/知识点/对顶角的概念与性质.md",
+      "text": "[对顶角的概念与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%B9%E9%A1%B6%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d5c5ae85303a8fcff563",
+      "mathmap_atom_id": "K78175fbf99ba71",
+      "mathmap_file": "Mathmap/知识点/补角与余角的概念.md",
+      "text": "[补角与余角的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A1%A5%E8%A7%92%E4%B8%8E%E4%BD%99%E8%A7%92%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1dfa30c053d493a2da3f",
+      "mathmap_atom_id": "Kd3b22cce750316",
+      "mathmap_file": "Mathmap/知识点/同角（或等角）的补角与余角相等性质.md",
+      "text": "[同角（或等角）的补角与余角相等性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%90%8C%E8%A7%92%EF%BC%88%E6%88%96%E7%AD%89%E8%A7%92%EF%BC%89%E7%9A%84%E8%A1%A5%E8%A7%92%E4%B8%8E%E4%BD%99%E8%A7%92%E7%9B%B8%E7%AD%89%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    }
+  ]
+}

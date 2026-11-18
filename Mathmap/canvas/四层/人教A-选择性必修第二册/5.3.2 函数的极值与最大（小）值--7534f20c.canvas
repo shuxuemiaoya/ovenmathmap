@@ -1,0 +1,75 @@
+{
+  "edges": [
+    {
+      "fromNode": "0331c7ff20d5ff472c1c",
+      "fromSide": "right",
+      "id": "7624ef092723e911cb4f",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "6d59d44d00d2ad32b44c",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-04024",
+    "source_id": "rja-selective-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "6ea3e49014713d8c554d",
+      "text": "# 5.3.2 函数的极值与最大（小）值\n\n高中选择性必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "fc86da493b09c1d3d92d",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/5.3%20%E5%AF%BC%E6%95%B0%E5%9C%A8%E7%A0%94%E7%A9%B6%E5%87%BD%E6%95%B0%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8--151aa748.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0331c7ff20d5ff472c1c",
+      "mathmap_atom_id": "K91152e5802173d",
+      "mathmap_file": "Mathmap/知识点/函数极值的概念与导数判定.md",
+      "text": "[函数极值的概念与导数判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0%E6%9E%81%E5%80%BC%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%AF%BC%E6%95%B0%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6d59d44d00d2ad32b44c",
+      "mathmap_atom_id": "Kd53c5f8868afe0",
+      "mathmap_file": "Mathmap/知识点/闭区间上函数的最大值与最小值.md",
+      "text": "[闭区间上函数的最大值与最小值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%97%AD%E5%8C%BA%E9%97%B4%E4%B8%8A%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC%E4%B8%8E%E6%9C%80%E5%B0%8F%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1a2c3eec63c4b480129f",
+      "mathmap_atom_id": "K59a5e7f0627fff",
+      "mathmap_file": "Mathmap/知识点/导数为零与极值的关系及极值判定.md",
+      "text": "[导数为零与极值的关系及极值判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AF%BC%E6%95%B0%E4%B8%BA%E9%9B%B6%E4%B8%8E%E6%9E%81%E5%80%BC%E7%9A%84%E5%85%B3%E7%B3%BB%E5%8F%8A%E6%9E%81%E5%80%BC%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    }
+  ]
+}

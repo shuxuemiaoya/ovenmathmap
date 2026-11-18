@@ -1,0 +1,93 @@
+{
+  "edges": [
+    {
+      "fromNode": "f4aa101c18140320a957",
+      "fromSide": "right",
+      "id": "d129d1c5e1bf3abfce52",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8b6c1a2851c356ba8811",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bb4754f02fe0c45cfdb8",
+      "fromSide": "right",
+      "id": "1df8355388bcdb966943",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f4aa101c18140320a957",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bb4754f02fe0c45cfdb8",
+      "fromSide": "bottom",
+      "id": "8b94dafabba53488aca4",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8b6c1a2851c356ba8811",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-4-3-2",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "a5d96ffbe8ad0680c998",
+      "text": "# 4.3.2 三角形全等的条件：角边角与角角边（ASA/AAS）\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "e94803f328cf41612431",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E6%8E%A2%E7%B4%A2%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E7%9A%84%E6%9D%A1%E4%BB%B6--ee4decf2.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "bb4754f02fe0c45cfdb8",
+      "mathmap_atom_id": "Kf621319b70b64a",
+      "mathmap_file": "Mathmap/知识点/全等三角形判定条件二：“角边角”（ASA）.md",
+      "text": "[全等三角形判定条件二：“角边角”（ASA）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E4%BA%8C%EF%BC%9A%E2%80%9C%E8%A7%92%E8%BE%B9%E8%A7%92%E2%80%9D%EF%BC%88ASA%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f4aa101c18140320a957",
+      "mathmap_atom_id": "K6651c384e836b7",
+      "mathmap_file": "Mathmap/知识点/尺规作图：已知三角形的两角及其夹边作三角形.md",
+      "text": "[尺规作图：已知三角形的两角及其夹边作三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B0%BA%E8%A7%84%E4%BD%9C%E5%9B%BE%EF%BC%9A%E5%B7%B2%E7%9F%A5%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E4%B8%A4%E8%A7%92%E5%8F%8A%E5%85%B6%E5%A4%B9%E8%BE%B9%E4%BD%9C%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8b6c1a2851c356ba8811",
+      "mathmap_atom_id": "K8ed1df7cda0b2f",
+      "mathmap_file": "Mathmap/知识点/全等三角形判定条件三：“角角边”（AAS）.md",
+      "text": "[全等三角形判定条件三：“角角边”（AAS）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%85%A8%E7%AD%89%E4%B8%89%E8%A7%92%E5%BD%A2%E5%88%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6%E4%B8%89%EF%BC%9A%E2%80%9C%E8%A7%92%E8%A7%92%E8%BE%B9%E2%80%9D%EF%BC%88AAS%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    }
+  ]
+}

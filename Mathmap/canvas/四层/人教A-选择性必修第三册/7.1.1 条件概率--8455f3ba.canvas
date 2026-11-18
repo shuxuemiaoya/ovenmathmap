@@ -1,0 +1,87 @@
+{
+  "edges": [
+    {
+      "fromNode": "476804ea0948ccd1dc26",
+      "fromSide": "right",
+      "id": "05610ce5efd6d9f3d8d8",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "19196839b16976f7884d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-02006",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "79e0ece1885e501cab98",
+      "text": "# 7.1.1 条件概率\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "139a1647e138bcc35652",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/7.1%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E5%85%A8%E6%A6%82%E7%8E%87%E5%85%AC%E5%BC%8F--41206a64.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "476804ea0948ccd1dc26",
+      "mathmap_atom_id": "K82dd4fa670583f",
+      "mathmap_file": "Mathmap/知识点/条件概率的概念与计算.md",
+      "text": "[条件概率的概念与计算](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%A1%E7%AE%97.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19196839b16976f7884d",
+      "mathmap_atom_id": "K90c5fe2342b64e",
+      "mathmap_file": "Mathmap/知识点/概率的乘法公式.md",
+      "text": "[概率的乘法公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%A6%82%E7%8E%87%E7%9A%84%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "90df165add5184bd6ca7",
+      "mathmap_atom_id": "Ke7a67573ea7850",
+      "mathmap_file": "Mathmap/知识点/条件概率的样本空间解释与性质.md",
+      "text": "[条件概率的样本空间解释与性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E7%9A%84%E6%A0%B7%E6%9C%AC%E7%A9%BA%E9%97%B4%E8%A7%A3%E9%87%8A%E4%B8%8E%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "279882ba916b765513da",
+      "mathmap_atom_id": "Kcfc33ae47c72fc",
+      "mathmap_file": "Mathmap/知识点/独立事件与条件概率.md",
+      "text": "[独立事件与条件概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%8B%AC%E7%AB%8B%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    }
+  ]
+}

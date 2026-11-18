@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "2f2d890e79080e272b52",
+      "fromSide": "right",
+      "id": "b514fd1d549e38da583e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "0871692e811e886233b3",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-004",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "acde307104e832aed6f5",
+      "text": "# 1.3 空间向量及其运算的坐标表示\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1efed0dc1a99db9266b5",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E4%B8%8E%E7%AB%8B%E4%BD%93%E5%87%A0%E4%BD%95--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2f2d890e79080e272b52",
+      "mathmap_atom_id": "K68b2da16e4f5f7",
+      "mathmap_file": "Mathmap/知识点/空间直角坐标系与点的坐标.md",
+      "text": "[空间直角坐标系与点的坐标](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E7%9B%B4%E8%A7%92%E5%9D%90%E6%A0%87%E7%B3%BB%E4%B8%8E%E7%82%B9%E7%9A%84%E5%9D%90%E6%A0%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "0871692e811e886233b3",
+      "mathmap_atom_id": "K0c30ac1f5fd9f9",
+      "mathmap_file": "Mathmap/知识点/空间向量运算的坐标表示.md",
+      "text": "[空间向量运算的坐标表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A9%BA%E9%97%B4%E5%90%91%E9%87%8F%E8%BF%90%E7%AE%97%E7%9A%84%E5%9D%90%E6%A0%87%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-03384",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "355fec2d231ddbac40f5",
+      "text": "# 2.3.3 点到直线的距离公式\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f6ad23a928ae6b79d954",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.3%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87%E4%B8%8E%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "97fd5eaa017967dfc656",
+      "mathmap_atom_id": "K2d8b62110ae6b2",
+      "mathmap_file": "Mathmap/知识点/点到直线距离公式的代数推导.md",
+      "text": "[点到直线距离公式的代数推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E4%BB%A3%E6%95%B0%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e1e1046387a83f5b1be0",
+      "mathmap_atom_id": "Kaec6c226cf4c86",
+      "mathmap_file": "Mathmap/知识点/点到直线距离公式的向量推导.md",
+      "text": "[点到直线距离公式的向量推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E8%B7%9D%E7%A6%BB%E5%85%AC%E5%BC%8F%E7%9A%84%E5%90%91%E9%87%8F%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

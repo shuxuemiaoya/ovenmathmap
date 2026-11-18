@@ -26,4 +26,4 @@ organizer_role: "source-problem-order"
 ## 同一章节的其他视图
 
 - [知识串联](../%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C.md)
-- [题型](Mathmap/题型/按章节分类/人教A-必修第一册/人教A-必修第一册.md)
+- [题型](../../../%E9%A2%98%E5%9E%8B/%E6%8C%89%E7%AB%A0%E8%8A%82%E5%88%86%E7%B1%BB/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C.md)

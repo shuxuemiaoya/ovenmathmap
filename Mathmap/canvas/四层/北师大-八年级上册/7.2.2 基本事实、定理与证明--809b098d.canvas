@@ -1,0 +1,65 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-7-2-2",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "cb04dc406bf0c23d2452",
+      "text": "# 7.2.2 基本事实、定理与证明\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "add0a02720ca620f0cd4",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E8%AE%A4%E8%AF%86%E8%AF%81%E6%98%8E--3e685831.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "06b6ab0c63a1ef36909c",
+      "mathmap_atom_id": "K99486216062411",
+      "mathmap_file": "Mathmap/知识点/定理“对顶角相等”的正式确立.md",
+      "text": "[定理“对顶角相等”的正式确立](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AE%9A%E7%90%86%E2%80%9C%E5%AF%B9%E9%A1%B6%E8%A7%92%E7%9B%B8%E7%AD%89%E2%80%9D%E7%9A%84%E6%AD%A3%E5%BC%8F%E7%A1%AE%E7%AB%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "222c41bde23f44647bb6",
+      "mathmap_atom_id": "K56b30322ec2fed",
+      "mathmap_file": "Mathmap/知识点/欧几里得《原本》与原名、公理、证明、定理及教科书基本事实.md",
+      "text": "[欧几里得《原本》与原名、公理、证明、定理及教科书基本事实](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E4%B8%8E%E5%8E%9F%E5%90%8D%E3%80%81%E5%85%AC%E7%90%86%E3%80%81%E8%AF%81%E6%98%8E%E3%80%81%E5%AE%9A%E7%90%86%E5%8F%8A%E6%95%99%E7%A7%91%E4%B9%A6%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "1c756f6e5db5042ccca9",
+      "mathmap_atom_id": "K801768024a5c00",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：《原本》及其公理化方法的深远影响.md",
+      "text": "[阅读·欣赏：《原本》及其公理化方法的深远影响](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E3%80%8A%E5%8E%9F%E6%9C%AC%E3%80%8B%E5%8F%8A%E5%85%B6%E5%85%AC%E7%90%86%E5%8C%96%E6%96%B9%E6%B3%95%E7%9A%84%E6%B7%B1%E8%BF%9C%E5%BD%B1%E5%93%8D.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    }
+  ]
+}

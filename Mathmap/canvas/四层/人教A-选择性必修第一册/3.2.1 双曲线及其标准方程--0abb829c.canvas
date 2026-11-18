@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-05364",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f4dffbcc747a3684ec82",
+      "text": "# 3.2.1 双曲线及其标准方程\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "500b4c2f864fed0388e4",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.2%20%E5%8F%8C%E6%9B%B2%E7%BA%BF--ac85d812.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9cd98bc676ef40b94398",
+      "mathmap_atom_id": "Ka05d4b1113897e",
+      "mathmap_file": "Mathmap/知识点/双曲线的定义与标准方程.md",
+      "text": "[双曲线的定义与标准方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8F%8C%E6%9B%B2%E7%BA%BF%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

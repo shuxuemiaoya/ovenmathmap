@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-3-2",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f6ffb81e494441ffb12c",
+      "text": "# 一元一次不等式与一次函数的决策应用\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1eb211152e5a690d4f02",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0--bd80c67d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "edd7e3aaf110d38d9ee5",
+      "mathmap_atom_id": "Kdc42ef0da41291",
+      "mathmap_file": "Mathmap/知识点/一次函数、一元一次不等式与一元一次方程的内在联系.md",
+      "text": "[一次函数、一元一次不等式与一元一次方程的内在联系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E3%80%81%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%AD%89%E5%BC%8F%E4%B8%8E%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%86%85%E5%9C%A8%E8%81%94%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

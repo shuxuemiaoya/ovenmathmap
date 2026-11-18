@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-1-3-2",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "6e972d30022a03587629",
+      "text": "# 直角三角形全等的判定（HL）\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "0656c5f18e3ca03459aa",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2--7ee2e281.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ed92d1d886eb51c36626",
+      "mathmap_atom_id": "Ke230fe7ff9a17e",
+      "mathmap_file": "Mathmap/知识点/已知斜边和一条直角边用尺规作直角三角形.md",
+      "text": "[已知斜边和一条直角边用尺规作直角三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%B7%B2%E7%9F%A5%E6%96%9C%E8%BE%B9%E5%92%8C%E4%B8%80%E6%9D%A1%E7%9B%B4%E8%A7%92%E8%BE%B9%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "40084c17ead566a9fd0b",
+      "mathmap_atom_id": "K7946c6177a35ba",
+      "mathmap_file": "Mathmap/知识点/直角三角形全等判定定理HL及其证明.md",
+      "text": "[直角三角形全等判定定理HL及其证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E5%85%A8%E7%AD%89%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86HL%E5%8F%8A%E5%85%B6%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

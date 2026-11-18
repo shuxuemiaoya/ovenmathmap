@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-3-3-2",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8fc2d7f606e356806380",
+      "text": "# 3.3.2 游戏的公平性与概率设计\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "978154a7fc56517958d0",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E7%AD%89%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%A6%82%E7%8E%87--dcb67386.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "88f395491a19ecf6f2e1",
+      "mathmap_atom_id": "K0e94821bda9d38",
+      "mathmap_file": "Mathmap/知识点/等可能结果识别与双人游戏公平性判断（摸球模型）.md",
+      "text": "[等可能结果识别与双人游戏公平性判断（摸球模型）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%8F%AF%E8%83%BD%E7%BB%93%E6%9E%9C%E8%AF%86%E5%88%AB%E4%B8%8E%E5%8F%8C%E4%BA%BA%E6%B8%B8%E6%88%8F%E5%85%AC%E5%B9%B3%E6%80%A7%E5%88%A4%E6%96%AD%EF%BC%88%E6%91%B8%E7%90%83%E6%A8%A1%E5%9E%8B%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

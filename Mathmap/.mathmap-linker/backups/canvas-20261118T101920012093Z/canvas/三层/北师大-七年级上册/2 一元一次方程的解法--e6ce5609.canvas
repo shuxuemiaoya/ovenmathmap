@@ -1,0 +1,111 @@
+{
+  "edges": [
+    {
+      "fromNode": "6e5fb244e792a2096c13",
+      "fromSide": "right",
+      "id": "741c75d45f802b3ef495",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f962b004a06016545f25",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-043",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "91f8317e9b91819ea99f",
+      "text": "# 2 一元一次方程的解法\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "7bed505d27a0f2f7e090",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B--7d6c67fc.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6e5fb244e792a2096c13",
+      "mathmap_atom_id": "K9749c53c9d6bd0",
+      "mathmap_file": "Mathmap/知识点/等式的对称性与传递性基本事实.md",
+      "text": "[等式的对称性与传递性基本事实](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%BC%8F%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E4%BC%A0%E9%80%92%E6%80%A7%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f962b004a06016545f25",
+      "mathmap_atom_id": "K1a829cb426f2c0",
+      "mathmap_file": "Mathmap/知识点/等式的基本性质.md",
+      "text": "[等式的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "50f268b9af8335ad83f4",
+      "mathmap_atom_id": "K9c86c31ab641d6",
+      "mathmap_file": "Mathmap/知识点/去括号法解一元一次方程的基本步骤示例.md",
+      "text": "[去括号法解一元一次方程的基本步骤示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%8E%BB%E6%8B%AC%E5%8F%B7%E6%B3%95%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%AD%A5%E9%AA%A4%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a820055fa1584a90c67c",
+      "mathmap_atom_id": "Kdd55bad6278aec",
+      "mathmap_file": "Mathmap/知识点/应用等式基本性质解一元一次方程的综合示例.md",
+      "text": "[应用等式基本性质解一元一次方程的综合示例](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%BA%94%E7%94%A8%E7%AD%89%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E7%BB%BC%E5%90%88%E7%A4%BA%E4%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "9f680559561a30df8714",
+      "mathmap_atom_id": "K7970f8552b6de7",
+      "mathmap_file": "Mathmap/知识点/移项的概念与移项法解一元一次方程.md",
+      "text": "[移项的概念与移项法解一元一次方程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%A7%BB%E9%A1%B9%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%A7%BB%E9%A1%B9%E6%B3%95%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "776220b9cf123d0b2cca",
+      "mathmap_atom_id": "Kf5278a1a48fb8e",
+      "mathmap_file": "Mathmap/知识点/解一元一次方程的一般步骤与转化思想.md",
+      "text": "[解一元一次方程的一般步骤与转化思想](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E8%A7%A3%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4%E4%B8%8E%E8%BD%AC%E5%8C%96%E6%80%9D%E6%83%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    }
+  ]
+}

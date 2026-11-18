@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-3-1-2",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "a2608ecd01151e314393",
+      "text": "# 3.1.2 列代数式与求代数式的值\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "7842831e9cb7084da25c",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E4%BB%A3%E6%95%B0%E5%BC%8F--6da8d542.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "154828f59851905e8e4c",
+      "mathmap_atom_id": "K49e050fe7630d2",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：“代数”的由来.md",
+      "text": "[阅读·欣赏：“代数”的由来](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E2%80%9C%E4%BB%A3%E6%95%B0%E2%80%9D%E7%9A%84%E7%94%B1%E6%9D%A5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

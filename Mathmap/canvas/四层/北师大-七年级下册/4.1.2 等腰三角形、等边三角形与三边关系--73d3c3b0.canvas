@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "dd33ebee6e085ad01b81",
+      "fromSide": "right",
+      "id": "fc6e1adf90f15f7186fb",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "492dfe96d9fe75b98759",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "492dfe96d9fe75b98759",
+      "fromSide": "right",
+      "id": "0d034cd12dd21d51e283",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "d9ef1578bd3da4ca1abc",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-4-1-2",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "7274429a097c0f848eba",
+      "text": "# 4.1.2 等腰三角形、等边三角形与三边关系\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "ab5f25c16d17e416e010",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E8%AE%A4%E8%AF%86%E4%B8%89%E8%A7%92%E5%BD%A2--89e48b7b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "dd33ebee6e085ad01b81",
+      "mathmap_atom_id": "K02e2c67056883a",
+      "mathmap_file": "Mathmap/知识点/三角形按边长分类：等腰三角形与等边三角形.md",
+      "text": "[三角形按边长分类：等腰三角形与等边三角形](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E6%8C%89%E8%BE%B9%E9%95%BF%E5%88%86%E7%B1%BB%EF%BC%9A%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B8%8E%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "492dfe96d9fe75b98759",
+      "mathmap_atom_id": "K1dfd173f896f29",
+      "mathmap_file": "Mathmap/知识点/三角形任意两边之和大于第三边.md",
+      "text": "[三角形任意两边之和大于第三边](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E4%BB%BB%E6%84%8F%E4%B8%A4%E8%BE%B9%E4%B9%8B%E5%92%8C%E5%A4%A7%E4%BA%8E%E7%AC%AC%E4%B8%89%E8%BE%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d9ef1578bd3da4ca1abc",
+      "mathmap_atom_id": "Ka1d476eee414a2",
+      "mathmap_file": "Mathmap/知识点/三角形任意两边之差小于第三边.md",
+      "text": "[三角形任意两边之差小于第三边](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%89%E8%A7%92%E5%BD%A2%E4%BB%BB%E6%84%8F%E4%B8%A4%E8%BE%B9%E4%B9%8B%E5%B7%AE%E5%B0%8F%E4%BA%8E%E7%AC%AC%E4%B8%89%E8%BE%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-3-2",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f6ffb81e494441ffb12c",
+      "text": "# 2.3.2 多个有理数相乘与乘法运算律\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1eb211152e5a690d4f02",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E6%9C%89%E7%90%86%E6%95%B0%E7%9A%84%E4%B9%98%E9%99%A4%E8%BF%90%E7%AE%97--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f6df348826a083a167c1",
+      "mathmap_atom_id": "Kdf7450f87d7346",
+      "mathmap_file": "Mathmap/知识点/有理数乘法的交换律、结合律与乘法对加法的分配律.md",
+      "text": "[有理数乘法的交换律、结合律与乘法对加法的分配律](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%9C%89%E7%90%86%E6%95%B0%E4%B9%98%E6%B3%95%E7%9A%84%E4%BA%A4%E6%8D%A2%E5%BE%8B%E3%80%81%E7%BB%93%E5%90%88%E5%BE%8B%E4%B8%8E%E4%B9%98%E6%B3%95%E5%AF%B9%E5%8A%A0%E6%B3%95%E7%9A%84%E5%88%86%E9%85%8D%E5%BE%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

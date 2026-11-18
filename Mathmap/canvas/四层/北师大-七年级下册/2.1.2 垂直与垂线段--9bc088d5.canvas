@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "efbd514c974b16a2508f",
+      "fromSide": "right",
+      "id": "e02a5ba578173b93ac08",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "ce1af7e17541265539bc",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-1-2",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "92a88b4f916f4c4b09c0",
+      "text": "# 2.1.2 垂直与垂线段\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "695d14a1a486d649b132",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/1%20%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB--8e1bab2b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "efbd514c974b16a2508f",
+      "mathmap_atom_id": "K62a22cdef5f1bb",
+      "mathmap_file": "Mathmap/知识点/两条直线互相垂直、垂线与垂足的概念.md",
+      "text": "[两条直线互相垂直、垂线与垂足的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%A4%E6%9D%A1%E7%9B%B4%E7%BA%BF%E4%BA%92%E7%9B%B8%E5%9E%82%E7%9B%B4%E3%80%81%E5%9E%82%E7%BA%BF%E4%B8%8E%E5%9E%82%E8%B6%B3%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ce1af7e17541265539bc",
+      "mathmap_atom_id": "Kfda3e576fb1d36",
+      "mathmap_file": "Mathmap/知识点/垂线的唯一性、垂线段最短与点到直线的距离.md",
+      "text": "[垂线的唯一性、垂线段最短与点到直线的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9E%82%E7%BA%BF%E7%9A%84%E5%94%AF%E4%B8%80%E6%80%A7%E3%80%81%E5%9E%82%E7%BA%BF%E6%AE%B5%E6%9C%80%E7%9F%AD%E4%B8%8E%E7%82%B9%E5%88%B0%E7%9B%B4%E7%BA%BF%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

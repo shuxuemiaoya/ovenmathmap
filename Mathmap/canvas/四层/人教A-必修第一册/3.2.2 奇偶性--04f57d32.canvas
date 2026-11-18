@@ -1,0 +1,75 @@
+{
+  "edges": [
+    {
+      "fromNode": "876efc3c131d984cbc7f",
+      "fromSide": "top",
+      "id": "8c76c960583aa6a78cb3",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "941b5b81ca77ede7fdd6",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-03603",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "1ef8e3a9548e8d2c5bf0",
+      "text": "# 3.2.2 奇偶性\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f57dc663fcb12b68d9db",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--bd80c67d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "941b5b81ca77ede7fdd6",
+      "mathmap_atom_id": "Cbd224eb80864d5",
+      "mathmap_file": "Mathmap/概念或公式/概念-奇函数.md",
+      "text": "[奇函数](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%A5%87%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "876efc3c131d984cbc7f",
+      "mathmap_atom_id": "Ka914ddfb245aa3",
+      "mathmap_file": "Mathmap/知识点/知识点-奇函数.md",
+      "text": "[奇函数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%A5%87%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ebf66f297da9f90d88da",
+      "mathmap_atom_id": "K6071218d64e89f",
+      "mathmap_file": "Mathmap/知识点/知识点-偶函数.md",
+      "text": "[偶函数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%81%B6%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "edges": [
+    {
+      "fromNode": "b11ac94fa4b8836ac07e",
+      "fromSide": "right",
+      "id": "5ad8e7626da9b82a1c49",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "3ffc8a890353ec445c71",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "95a44cd1758b61c33599",
+      "fromSide": "right",
+      "id": "994989e4f93ff805e657",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "b11ac94fa4b8836ac07e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "95a44cd1758b61c33599",
+      "fromSide": "top",
+      "id": "190860404dff447fd6e7",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "3ffc8a890353ec445c71",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3f154939149f8a09b48c",
+      "fromSide": "top",
+      "id": "f292ca4458f5d93de1c7",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "082df83257c7d4566e4f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3f154939149f8a09b48c",
+      "fromSide": "bottom",
+      "id": "00c2b4b23348bf74d7fb",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "cb74f7e0fea502952d49",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3f154939149f8a09b48c",
+      "fromSide": "right",
+      "id": "5cea40abc6e2eefab3d4",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "95a44cd1758b61c33599",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-08692",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "7a258ad90a578ab5b4e8",
+      "text": "# 5.5.1 两角和与差的正弦、余弦和正切公式\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f02f158a5bb60e496799",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/5.5%20%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%8F%98%E6%8D%A2--02b18c60.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "082df83257c7d4566e4f",
+      "mathmap_atom_id": "C20090894e45f03",
+      "mathmap_file": "Mathmap/概念或公式/概念-两角差的余弦公式.md",
+      "text": "[两角差的余弦公式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E4%B8%A4%E8%A7%92%E5%B7%AE%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3f154939149f8a09b48c",
+      "mathmap_atom_id": "Kddc920cb6bb66e",
+      "mathmap_file": "Mathmap/知识点/知识点-两角差的余弦公式.md",
+      "text": "[两角差的余弦公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%B8%A4%E8%A7%92%E5%B7%AE%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "cb74f7e0fea502952d49",
+      "mathmap_atom_id": "Ca615e49d19738c",
+      "mathmap_file": "Mathmap/概念或公式/概念-圆的旋转对称性.md",
+      "text": "[圆的旋转对称性](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%9C%86%E7%9A%84%E6%97%8B%E8%BD%AC%E5%AF%B9%E7%A7%B0%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "95a44cd1758b61c33599",
+      "mathmap_atom_id": "K616d4cf9db76a0",
+      "mathmap_file": "Mathmap/知识点/知识点-两角和的余弦公式与两角和、差的正弦公式.md",
+      "text": "[两角和的余弦公式与两角和、差的正弦公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%B8%A4%E8%A7%92%E5%92%8C%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F%E4%B8%8E%E4%B8%A4%E8%A7%92%E5%92%8C%E3%80%81%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b11ac94fa4b8836ac07e",
+      "mathmap_atom_id": "K4c48d21675129e",
+      "mathmap_file": "Mathmap/知识点/知识点-两角和与差的正切公式.md",
+      "text": "[两角和与差的正切公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3ffc8a890353ec445c71",
+      "mathmap_atom_id": "Kfc57de31d49ca1",
+      "mathmap_file": "Mathmap/知识点/知识点-二倍角的正弦、余弦、正切公式.md",
+      "text": "[二倍角的正弦、余弦、正切公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%BA%8C%E5%80%8D%E8%A7%92%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E3%80%81%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1800,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "d72280555d100e8a9dda",
+      "text": "[两角差的余弦公式](../../%E4%BA%94%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E4%B8%A4%E8%A7%92%E5%B7%AE%E7%9A%84%E4%BD%99%E5%BC%A6%E5%85%AC%E5%BC%8F--5f63c732.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 820
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "0e0031ba966f03e478b2",
+      "text": "[两角和与差的正弦、余弦、正切公式](../../%E4%BA%94%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E4%B8%A4%E8%A7%92%E5%92%8C%E4%B8%8E%E5%B7%AE%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E3%80%81%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F--6c3a19da.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 820
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "aeb43f9db8b8c62456b4",
+      "text": "[二倍角的正弦、余弦、正切公式](../../%E4%BA%94%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E4%BA%8C%E5%80%8D%E8%A7%92%E7%9A%84%E6%AD%A3%E5%BC%A6%E3%80%81%E4%BD%99%E5%BC%A6%E3%80%81%E6%AD%A3%E5%88%87%E5%85%AC%E5%BC%8F--364edca7.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 1000,
+      "y": 820
+    }
+  ]
+}

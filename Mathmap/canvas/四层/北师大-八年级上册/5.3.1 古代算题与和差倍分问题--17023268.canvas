@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-5-3-1",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "7440310c1cb04bce1d8f",
+      "text": "# 5.3.1 古代算题与和差倍分问题\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "cb0bef9810264b37c8a4",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E5%BA%94%E7%94%A8--a1ddf92c.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "5bb9eda50bde383060a0",
+      "mathmap_atom_id": "K3730f7c31ffb51",
+      "mathmap_file": "Mathmap/知识点/用二元一次方程组求解“雉兔同笼”及建模基本过程.md",
+      "text": "[用二元一次方程组求解“雉兔同笼”及建模基本过程](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E6%B1%82%E8%A7%A3%E2%80%9C%E9%9B%89%E5%85%94%E5%90%8C%E7%AC%BC%E2%80%9D%E5%8F%8A%E5%BB%BA%E6%A8%A1%E5%9F%BA%E6%9C%AC%E8%BF%87%E7%A8%8B.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

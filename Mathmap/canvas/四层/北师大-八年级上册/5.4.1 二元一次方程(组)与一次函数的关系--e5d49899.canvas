@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-5-4-1",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "8013241d14d861814a55",
+      "text": "# 5.4.1 二元一次方程(组)与一次函数的关系\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "6d399c7cb3a49fff6ef1",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/4%20%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0--d00e1959.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d8e2800188b5d3d4cb14",
+      "mathmap_atom_id": "K35d905c97b151a",
+      "mathmap_file": "Mathmap/知识点/二元一次方程与对应一次函数图象的等价关系.md",
+      "text": "[二元一次方程与对应一次函数图象的等价关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E4%B8%8E%E5%AF%B9%E5%BA%94%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E5%9B%BE%E8%B1%A1%E7%9A%84%E7%AD%89%E4%BB%B7%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07948ee2056eb151aacc",
+      "mathmap_atom_id": "K175c4a021eb53a",
+      "mathmap_file": "Mathmap/知识点/二元一次方程组的解与两条一次函数直线交点坐标的关系.md",
+      "text": "[二元一次方程组的解与两条一次函数直线交点坐标的关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%BB%84%E7%9A%84%E8%A7%A3%E4%B8%8E%E4%B8%A4%E6%9D%A1%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E7%9B%B4%E7%BA%BF%E4%BA%A4%E7%82%B9%E5%9D%90%E6%A0%87%E7%9A%84%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

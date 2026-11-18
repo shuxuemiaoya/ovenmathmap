@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-02260",
+    "source_id": "rja-selective-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "52f5c99e65d7dfb5c725",
+      "text": "# 2.1.1 倾斜角与斜率\n\n高中选择性必修 第一册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "9e6309f0e08ea466d14c",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.1%20%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87--e51a80d4.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "35b3aca23af5c057d0fc",
+      "mathmap_atom_id": "K8b32d5014e36ea",
+      "mathmap_file": "Mathmap/知识点/直线的倾斜角与斜率.md",
+      "text": "[直线的倾斜角与斜率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%80%BE%E6%96%9C%E8%A7%92%E4%B8%8E%E6%96%9C%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

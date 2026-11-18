@@ -1,0 +1,281 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "24e0a0fcd95bede4",
+      "fromSide": "right",
+      "id": "11a7ceef8c9dde68",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "bdc91f5647b55559",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bdc91f5647b55559",
+      "fromSide": "right",
+      "id": "da66eb45dbb0f385",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "1039777ca531a6bc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "1039777ca531a6bc",
+      "fromSide": "right",
+      "id": "e5260141ef59b9bf",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a3644431490fc81b",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "bdc91f5647b55559",
+      "fromSide": "right",
+      "id": "d188c9dc9d4ba0a3",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "1039777ca531a6bc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "95cc37b58a580cc9",
+      "fromSide": "right",
+      "id": "c1e5ce715486220a",
+      "label": "主线 · 引发",
+      "toEnd": "arrow",
+      "toNode": "24e0a0fcd95bede4",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "24e0a0fcd95bede4",
+      "fromSide": "right",
+      "id": "545f25b04b30dbb2",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "bdc91f5647b55559",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromEnd": "none",
+      "fromNode": "1039777ca531a6bc",
+      "fromSide": "right",
+      "id": "1a9fa8009f87b201",
+      "label": "主线 · 发展",
+      "toEnd": "arrow",
+      "toNode": "a3644431490fc81b",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromEnd": "none",
+      "fromNode": "a3644431490fc81b",
+      "fromSide": "bottom",
+      "id": "6a4071d95180e565",
+      "label": "例证",
+      "toEnd": "arrow",
+      "toNode": "920047cbe8ec647f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "24e0a0fcd95bede4",
+      "fromSide": "bottom",
+      "id": "de1e70ee80cd0e46",
+      "label": "归属 · 5题",
+      "toEnd": "arrow",
+      "toNode": "0104e8f8ab303855",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "1039777ca531a6bc",
+      "fromSide": "bottom",
+      "id": "dcf3d49ff653b5b9",
+      "label": "归属 · 6题",
+      "toEnd": "arrow",
+      "toNode": "0103398a7c862aaf",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromEnd": "none",
+      "fromNode": "a3644431490fc81b",
+      "fromSide": "bottom",
+      "id": "22cbca8eb778df4e",
+      "label": "归属 · 12题",
+      "toEnd": "arrow",
+      "toNode": "b72c9e2191d7f40c",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 524,
+      "id": "e600360289c03d1d",
+      "label": "5.1 任意角和弧度制",
+      "type": "group",
+      "width": 2868,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 78,
+      "id": "95cc37b58a580cc9",
+      "text": "[✦ 情景引入 · 从圆周运动的位置变化走向任意角与弧度制](../../../../%E9%97%AE%E9%A2%98%E8%A2%8B/%E4%BB%8E%E5%9C%86%E5%91%A8%E8%BF%90%E5%8A%A8%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%8F%98%E5%8C%96%E8%B5%B0%E5%90%91%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E5%BC%A7%E5%BA%A6%E5%88%B6.md)",
+      "type": "text",
+      "width": 280,
+      "x": 56,
+      "y": 76
+    },
+    {
+      "height": 392,
+      "id": "b43193589aa0ecdf",
+      "label": "5.1.1 任意角",
+      "type": "group",
+      "width": 812,
+      "x": 496,
+      "y": 76
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "0104e8f8ab303855",
+      "text": "[练习入口 · 5.1.1 任意角](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.1%20%E4%BB%BB%E6%84%8F%E8%A7%92%E5%92%8C%E5%BC%A7%E5%BA%A6%E5%88%B6/5.1.1%20%E4%BB%BB%E6%84%8F%E8%A7%92.md)\n\n共 5 题",
+      "type": "text",
+      "width": 260,
+      "x": 552,
+      "y": 340
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "24e0a0fcd95bede4",
+      "text": "[✦ 任意角与象限角](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%BB%BB%E6%84%8F%E8%A7%92%E4%B8%8E%E8%B1%A1%E9%99%90%E8%A7%92.md)",
+      "type": "text",
+      "width": 280,
+      "x": 552,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "bdc91f5647b55559",
+      "text": "[✦ 终边相同的角](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E7%BB%88%E8%BE%B9%E7%9B%B8%E5%90%8C%E7%9A%84%E8%A7%92.md)",
+      "type": "text",
+      "width": 280,
+      "x": 972,
+      "y": 152
+    },
+    {
+      "height": 392,
+      "id": "946da7ab564636b5",
+      "label": "5.1.2 弧度制",
+      "type": "group",
+      "width": 812,
+      "x": 1468,
+      "y": 76
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "0103398a7c862aaf",
+      "text": "[练习入口 · 5.1.2 弧度制](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.1%20%E4%BB%BB%E6%84%8F%E8%A7%92%E5%92%8C%E5%BC%A7%E5%BA%A6%E5%88%B6/5.1.2%20%E5%BC%A7%E5%BA%A6%E5%88%B6.md)\n\n共 6 题",
+      "type": "text",
+      "width": 260,
+      "x": 1524,
+      "y": 340
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "1039777ca531a6bc",
+      "text": "[✦ 弧度制的概念](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%BC%A7%E5%BA%A6%E5%88%B6%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1524,
+      "y": 152
+    },
+    {
+      "color": "2",
+      "height": 78,
+      "id": "a3644431490fc81b",
+      "text": "[✦ 角度与弧度的换算](../../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E8%A7%92%E5%BA%A6%E4%B8%8E%E5%BC%A7%E5%BA%A6%E7%9A%84%E6%8D%A2%E7%AE%97.md)",
+      "type": "text",
+      "width": 280,
+      "x": 1944,
+      "y": 152
+    },
+    {
+      "color": "4",
+      "height": 66,
+      "id": "920047cbe8ec647f",
+      "text": "[· 方法例题 · 例 6 利用弧度制证明扇形的弧长与面积公式](../../../../%E4%B9%A0%E9%A2%98/Q070000008730.md)",
+      "type": "text",
+      "width": 250,
+      "x": 1884,
+      "y": 340
+    },
+    {
+      "height": 204,
+      "id": "7034476f9b9819dc",
+      "label": "习题5.1",
+      "type": "group",
+      "width": 372,
+      "x": 2440,
+      "y": 264
+    },
+    {
+      "color": "6",
+      "height": 72,
+      "id": "b72c9e2191d7f40c",
+      "text": "[练习入口 · 习题5.1](Mathmap/题型/按章节分类/人教A-必修第一册/第五章%20三角函数/5.1%20任意角和弧度制/习题5.1.md)\n\n共 12 题",
+      "type": "text",
+      "width": 260,
+      "x": 2496,
+      "y": 340
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "74137610a60568e7",
+      "text": "# [5.1 任意角和弧度制](../../../../%E7%9F%A5%E8%AF%86%E4%B8%B2%E8%81%94/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%95%99%E6%9D%90%E9%97%AE%E9%A2%98%E9%A1%BA%E5%BA%8F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/5.1%20%E4%BB%BB%E6%84%8F%E8%A7%92%E5%92%8C%E5%BC%A7%E5%BA%A6%E5%88%B6/5.1%20%E4%BB%BB%E6%84%8F%E8%A7%92%E5%92%8C%E5%BC%A7%E5%BA%A6%E5%88%B6.md)\n\n知识分簇 · 沿连线阅读",
+      "type": "text",
+      "width": 390,
+      "x": 0,
+      "y": -180
+    },
+    {
+      "height": 66,
+      "id": "47f0bddb80816699",
+      "text": "[← 返回章节](../../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E6%9D%A5%E6%BA%90%E5%9B%BE%E8%B0%B1/06-%E7%AC%AC%E4%BA%94%E7%AB%A0-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0-c80f27.canvas)",
+      "type": "text",
+      "width": 230,
+      "x": 490,
+      "y": -180
+    },
+    {
+      "height": 86,
+      "id": "253937bb5b41b7b6",
+      "text": "✦ 知识主线　→ 发展／推导\n↓ 应用／并列　分组框＝组织层",
+      "type": "text",
+      "width": 400,
+      "x": 820,
+      "y": -180
+    }
+  ]
+}

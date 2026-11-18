@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-3-1-1",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f589bc43651325a08de1",
+      "text": "# 3.1.1 用字母表示数与代数式的概念\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "7d4df76bf5ca0c74b159",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/1%20%E4%BB%A3%E6%95%B0%E5%BC%8F--6da8d542.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a8304c9d711c8805dbac",
+      "mathmap_atom_id": "Keba3f9c83ca787",
+      "mathmap_file": "Mathmap/知识点/代数式的概念与求代数式的值.md",
+      "text": "[代数式的概念与求代数式的值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BB%A3%E6%95%B0%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%B1%82%E4%BB%A3%E6%95%B0%E5%BC%8F%E7%9A%84%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

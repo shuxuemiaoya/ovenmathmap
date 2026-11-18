@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-4-2-3",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "7c4f1e9dbf02e710679b",
+      "text": "# 4.2.3 一次函数与分段计费模型\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "35b0f6eaec511088723f",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E8%AE%A4%E8%AF%86%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0--0bf45746.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "907281ce4fbe6cbdbd32",
+      "mathmap_atom_id": "Kb9fcdd5d43a413",
+      "mathmap_file": "Mathmap/知识点/阅读·欣赏：漏刻计时中的一次函数思想.md",
+      "text": "[阅读·欣赏：漏刻计时中的一次函数思想](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%98%85%E8%AF%BB%C2%B7%E6%AC%A3%E8%B5%8F%EF%BC%9A%E6%BC%8F%E5%88%BB%E8%AE%A1%E6%97%B6%E4%B8%AD%E7%9A%84%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E6%80%9D%E6%83%B3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-1-4-1",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "f65534ec1088c83461c7",
+      "text": "# 线段垂直平分线的性质与判定\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "f0c106514e506e9ba73a",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/4%20%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF--46b500ec.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "c61526fa56c169b0608c",
+      "mathmap_atom_id": "Kdb0a75a1f17800",
+      "mathmap_file": "Mathmap/知识点/线段垂直平分线的判定定理.md",
+      "text": "[线段垂直平分线的判定定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E5%88%A4%E5%AE%9A%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "64ea735f2c433701bb82",
+      "mathmap_atom_id": "K67f02e94fa58b6",
+      "mathmap_file": "Mathmap/知识点/线段垂直平分线的性质定理及证明.md",
+      "text": "[线段垂直平分线的性质定理及证明](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8%E5%AE%9A%E7%90%86%E5%8F%8A%E8%AF%81%E6%98%8E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

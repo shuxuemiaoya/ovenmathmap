@@ -1,0 +1,95 @@
+{
+  "edges": [
+    {
+      "fromNode": "73a88d0ba9d7adca53f1",
+      "fromSide": "top",
+      "id": "433e316b031629560156",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "f4d3ba94f9bacc4cb42f",
+      "toSide": "bottom"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-03349",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "2fc6f86b16befc71ee23",
+      "text": "# 3.2.1 单调性与最大（小）值\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "462050da092e8f1c1f66",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8--bd80c67d.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "f4d3ba94f9bacc4cb42f",
+      "mathmap_atom_id": "Cfadc56006ac4c0",
+      "mathmap_file": "Mathmap/概念或公式/概念-函数的最大值.md",
+      "text": "[函数的最大值](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "73a88d0ba9d7adca53f1",
+      "mathmap_atom_id": "K600f7fd47a27ac",
+      "mathmap_file": "Mathmap/知识点/知识点-函数的最大（小）值.md",
+      "text": "[函数的最大（小）值](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%EF%BC%88%E5%B0%8F%EF%BC%89%E5%80%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4ee78c71f870baa32634",
+      "mathmap_atom_id": "K2fee6535132d55",
+      "mathmap_file": "Mathmap/知识点/知识点-函数的单调性.md",
+      "text": "[函数的单调性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "481db131ed4f81d77f14",
+      "text": "[函数的单调性](../../%E4%BA%94%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E5%87%BD%E6%95%B0%E7%9A%84%E5%8D%95%E8%B0%83%E6%80%A7--9b5057b2.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 0,
+      "y": 740
+    },
+    {
+      "color": "1",
+      "height": 130,
+      "id": "104380b6b6a4fdb27e1d",
+      "text": "[函数的最大（小）值](../../%E4%BA%94%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%EF%BC%88%E5%B0%8F%EF%BC%89%E5%80%BC--fef7e3cb.canvas)",
+      "type": "text",
+      "width": 420,
+      "x": 500,
+      "y": 740
+    }
+  ]
+}

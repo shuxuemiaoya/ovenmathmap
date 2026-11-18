@@ -1,0 +1,147 @@
+{
+  "edges": [
+    {
+      "fromNode": "b708a1fab3b5a1176137",
+      "fromSide": "right",
+      "id": "5bef7aac37fa101d817e",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "774ac33169cd10b879ed",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-032",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "6ca27da1c5ca42798bcb",
+      "text": "# 1 线段、射线、直线\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8d4dc211d4ac4ca1e3d5",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%9F%BA%E6%9C%AC%E5%B9%B3%E9%9D%A2%E5%9B%BE%E5%BD%A2--89e48b7b.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "b708a1fab3b5a1176137",
+      "mathmap_atom_id": "Kb187a44608271e",
+      "mathmap_file": "Mathmap/知识点/点与直线的位置关系（点在直线上与点在直线外）.md",
+      "text": "[点与直线的位置关系（点在直线上与点在直线外）](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%82%B9%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E4%BD%8D%E7%BD%AE%E5%85%B3%E7%B3%BB%EF%BC%88%E7%82%B9%E5%9C%A8%E7%9B%B4%E7%BA%BF%E4%B8%8A%E4%B8%8E%E7%82%B9%E5%9C%A8%E7%9B%B4%E7%BA%BF%E5%A4%96%EF%BC%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "774ac33169cd10b879ed",
+      "mathmap_atom_id": "Kff5df2ed562912",
+      "mathmap_file": "Mathmap/知识点/直线的基本事实：两点确定一条直线.md",
+      "text": "[直线的基本事实：两点确定一条直线](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%EF%BC%9A%E4%B8%A4%E7%82%B9%E7%A1%AE%E5%AE%9A%E4%B8%80%E6%9D%A1%E7%9B%B4%E7%BA%BF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "a4c13504e74816ff36b0",
+      "mathmap_atom_id": "Ke7e47979a22c0d",
+      "mathmap_file": "Mathmap/知识点/数学活动：用线段构成的美丽图案绘制步骤.md",
+      "text": "[数学活动：用线段构成的美丽图案绘制步骤](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%95%B0%E5%AD%A6%E6%B4%BB%E5%8A%A8%EF%BC%9A%E7%94%A8%E7%BA%BF%E6%AE%B5%E6%9E%84%E6%88%90%E7%9A%84%E7%BE%8E%E4%B8%BD%E5%9B%BE%E6%A1%88%E7%BB%98%E5%88%B6%E6%AD%A5%E9%AA%A4.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "271d474048940453fa23",
+      "mathmap_atom_id": "K9832bd27ec97db",
+      "mathmap_file": "Mathmap/知识点/比较两条线段长短的度量法与叠合法.md",
+      "text": "[比较两条线段长短的度量法与叠合法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%AF%94%E8%BE%83%E4%B8%A4%E6%9D%A1%E7%BA%BF%E6%AE%B5%E9%95%BF%E7%9F%AD%E7%9A%84%E5%BA%A6%E9%87%8F%E6%B3%95%E4%B8%8E%E5%8F%A0%E5%90%88%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "14817342c676ff3a7ace",
+      "mathmap_atom_id": "K201edd18607107",
+      "mathmap_file": "Mathmap/知识点/用尺规作一条线段等于已知线段的作法.md",
+      "text": "[用尺规作一条线段等于已知线段的作法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%94%A8%E5%B0%BA%E8%A7%84%E4%BD%9C%E4%B8%80%E6%9D%A1%E7%BA%BF%E6%AE%B5%E7%AD%89%E4%BA%8E%E5%B7%B2%E7%9F%A5%E7%BA%BF%E6%AE%B5%E7%9A%84%E4%BD%9C%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ec6de2fbabb25b3ce840",
+      "mathmap_atom_id": "K7c1753a6c67d71",
+      "mathmap_file": "Mathmap/知识点/线段、射线、直线的字母表示方法.md",
+      "text": "[线段、射线、直线的字母表示方法](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E3%80%81%E5%B0%84%E7%BA%BF%E3%80%81%E7%9B%B4%E7%BA%BF%E7%9A%84%E5%AD%97%E6%AF%8D%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f37b44e39bf77aef4732",
+      "mathmap_atom_id": "K2014998d6bc95a",
+      "mathmap_file": "Mathmap/知识点/线段、射线与直线的概念及端点特征.md",
+      "text": "[线段、射线与直线的概念及端点特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E3%80%81%E5%B0%84%E7%BA%BF%E4%B8%8E%E7%9B%B4%E7%BA%BF%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E7%AB%AF%E7%82%B9%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3cafb3d39cdc04316057",
+      "mathmap_atom_id": "K5866309287df52",
+      "mathmap_file": "Mathmap/知识点/线段的中点概念与数量关系.md",
+      "text": "[线段的中点概念与数量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E7%9A%84%E4%B8%AD%E7%82%B9%E6%A6%82%E5%BF%B5%E4%B8%8E%E6%95%B0%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fb8a286ff974adf2fa7d",
+      "mathmap_atom_id": "Ka5d7af9cf130c0",
+      "mathmap_file": "Mathmap/知识点/线段的基本事实（两点之间线段最短）与两点之间的距离.md",
+      "text": "[线段的基本事实（两点之间线段最短）与两点之间的距离](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E%EF%BC%88%E4%B8%A4%E7%82%B9%E4%B9%8B%E9%97%B4%E7%BA%BF%E6%AE%B5%E6%9C%80%E7%9F%AD%EF%BC%89%E4%B8%8E%E4%B8%A4%E7%82%B9%E4%B9%8B%E9%97%B4%E7%9A%84%E8%B7%9D%E7%A6%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 660
+    }
+  ]
+}

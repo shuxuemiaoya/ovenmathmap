@@ -1,0 +1,129 @@
+{
+  "edges": [
+    {
+      "fromNode": "8522e93b245e8fa33a3c",
+      "fromSide": "right",
+      "id": "562a5ec1ddf834e22750",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "4f3305c46d2db6112688",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8841616a2a99f0500736",
+      "fromSide": "right",
+      "id": "46592560fa00439a2041",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "8522e93b245e8fa33a3c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "34451c3972d15a55cbcb",
+      "fromSide": "right",
+      "id": "7b6401fbaae04be3b8b7",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "4f3305c46d2db6112688",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-004",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "acde307104e832aed6f5",
+      "text": "# 6.2 排列与组合\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1efed0dc1a99db9266b5",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%AE%A1%E6%95%B0%E5%8E%9F%E7%90%86--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8841616a2a99f0500736",
+      "mathmap_atom_id": "Ka8c0a8b37992ed",
+      "mathmap_file": "Mathmap/知识点/排列的概念与实际背景.md",
+      "text": "[排列的概念与实际背景](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%AE%9E%E9%99%85%E8%83%8C%E6%99%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "34451c3972d15a55cbcb",
+      "mathmap_atom_id": "Kaf18e42471b457",
+      "mathmap_file": "Mathmap/知识点/组合的概念.md",
+      "text": "[组合的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%84%E5%90%88%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8522e93b245e8fa33a3c",
+      "mathmap_atom_id": "K67044f56d2edb4",
+      "mathmap_file": "Mathmap/知识点/排列数公式及其推导.md",
+      "text": "[排列数公式及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "4f3305c46d2db6112688",
+      "mathmap_atom_id": "K2135f0978b4739",
+      "mathmap_file": "Mathmap/知识点/组合数公式及其推导.md",
+      "text": "[组合数公式及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%84%E5%90%88%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d47a77e8b40157650dc9",
+      "mathmap_atom_id": "Kd9bf45fd477593",
+      "mathmap_file": "Mathmap/知识点/排列与组合的联系和区别.md",
+      "text": "[排列与组合的联系和区别](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88%E7%9A%84%E8%81%94%E7%B3%BB%E5%92%8C%E5%8C%BA%E5%88%AB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2d3a9ebf8abaf5fb611f",
+      "mathmap_atom_id": "Kd6c147209ab1eb",
+      "mathmap_file": "Mathmap/知识点/排列数公式的阶乘表示.md",
+      "text": "[排列数公式的阶乘表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F%E7%9A%84%E9%98%B6%E4%B9%98%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    }
+  ]
+}

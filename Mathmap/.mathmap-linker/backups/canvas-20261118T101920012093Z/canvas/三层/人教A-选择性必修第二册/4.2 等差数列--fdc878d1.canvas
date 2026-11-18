@@ -1,0 +1,144 @@
+{
+  "edges": [
+    {
+      "fromNode": "f6dd9adebfedcb168686",
+      "fromSide": "right",
+      "id": "b630f8bbf0874100a407",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "717a58000e835c2d6de7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "717a58000e835c2d6de7",
+      "fromSide": "right",
+      "id": "e062846df3c1861c1857",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "04bb9f86886fe93a7a58",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-004",
+    "source_id": "rja-selective-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "acde307104e832aed6f5",
+      "text": "# 4.2 等差数列\n\n高中选择性必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "1efed0dc1a99db9266b5",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%95%B0%E5%88%97--321fd570.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f6dd9adebfedcb168686",
+      "mathmap_atom_id": "Ke8f0bbfbeb2b64",
+      "mathmap_file": "Mathmap/知识点/等差数列与公差.md",
+      "text": "[等差数列与公差](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E4%B8%8E%E5%85%AC%E5%B7%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "717a58000e835c2d6de7",
+      "mathmap_atom_id": "Kffcfd8222bd68e",
+      "mathmap_file": "Mathmap/知识点/等差数列的通项公式.md",
+      "text": "[等差数列的通项公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E7%9A%84%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "04bb9f86886fe93a7a58",
+      "mathmap_atom_id": "Kca2b023a1532d2",
+      "mathmap_file": "Mathmap/知识点/倒序相加法与等差数列前 n 项和公式.md",
+      "text": "[倒序相加法与等差数列前 n 项和公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%80%92%E5%BA%8F%E7%9B%B8%E5%8A%A0%E6%B3%95%E4%B8%8E%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E5%89%8D%20n%20%E9%A1%B9%E5%92%8C%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 1200,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "f9deac2cd51eae63febd",
+      "mathmap_atom_id": "Cf6620e5621ad8a",
+      "mathmap_file": "Mathmap/概念或公式/等差中项.md",
+      "text": "[等差中项](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E7%AD%89%E5%B7%AE%E4%B8%AD%E9%A1%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "d58c46b7e36e8620cc35",
+      "mathmap_atom_id": "Kcbbd92ba09e53d",
+      "mathmap_file": "Mathmap/知识点/等差中项.md",
+      "text": "[等差中项](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%B7%AE%E4%B8%AD%E9%A1%B9.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "168aab72246287ed34b2",
+      "mathmap_atom_id": "K0c462b6c3fe835",
+      "mathmap_file": "Mathmap/知识点/等差数列与一次函数.md",
+      "text": "[等差数列与一次函数](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E4%B8%8E%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "3ce8680a82fe1334ba40",
+      "mathmap_atom_id": "C8e2b950b6f41e5",
+      "mathmap_file": "Mathmap/概念或公式/等差数列与公差.md",
+      "text": "[等差数列与公差](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E4%B8%8E%E5%85%AC%E5%B7%AE.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 440
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "72d6545411b7eab51563",
+      "mathmap_atom_id": "K5d1cbd21bf37a5",
+      "mathmap_file": "Mathmap/知识点/高斯求和与等差数列的对称性.md",
+      "text": "[高斯求和与等差数列的对称性](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E9%AB%98%E6%96%AF%E6%B1%82%E5%92%8C%E4%B8%8E%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 440
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "edges": [
+    {
+      "fromNode": "47abcda9d8be9a7fc582",
+      "fromSide": "bottom",
+      "id": "b0b8c3eb934d50824641",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "2658fa488c15ffa1d2a5",
+      "toSide": "top"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-02746",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "6aee95ee152b2e0268cb",
+      "text": "# 3.1.1 函数的概念\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "4675f0b36a9396586ce9",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/3.1%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E8%A1%A8%E7%A4%BA--b2c19dbf.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "47abcda9d8be9a7fc582",
+      "mathmap_atom_id": "K6b8a85f0160867",
+      "mathmap_file": "Mathmap/知识点/知识点-函数的构成要素与同一个函数的判定.md",
+      "text": "[函数的构成要素与同一个函数的判定](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E6%9E%84%E6%88%90%E8%A6%81%E7%B4%A0%E4%B8%8E%E5%90%8C%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E7%9A%84%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "2658fa488c15ffa1d2a5",
+      "mathmap_atom_id": "C74d53707a26643",
+      "mathmap_file": "Mathmap/概念或公式/概念-同一个函数的判定.md",
+      "text": "[同一个函数的判定](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%90%8C%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0%E7%9A%84%E5%88%A4%E5%AE%9A.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e2c31401fdf1055dbb1d",
+      "mathmap_atom_id": "Kbaa6ea82229fa5",
+      "mathmap_file": "Mathmap/知识点/知识点-函数的概念.md",
+      "text": "[函数的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 520
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19f6dd2a554e4c667db2",
+      "mathmap_atom_id": "K3d562e260dbef0",
+      "mathmap_file": "Mathmap/知识点/知识点-区间的概念.md",
+      "text": "[区间的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%8C%BA%E9%97%B4%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 520
+    }
+  ]
+}

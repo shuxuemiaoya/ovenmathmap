@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-08191",
+    "source_id": "rja-required-2"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "92b0f9f328f8cfe72db1",
+      "text": "# 9.2.3 总体集中趋势的估计\n\n高中必修 第二册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "adb7d40d4e8e22a2e429",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%BA%8C%E5%86%8C/9.2%20%E7%94%A8%E6%A0%B7%E6%9C%AC%E4%BC%B0%E8%AE%A1%E6%80%BB%E4%BD%93--984a5067.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e536190b6b8aef0b61c9",
+      "mathmap_atom_id": "K8a0cc8bcb7d781",
+      "mathmap_file": "Mathmap/知识点/总体集中趋势的估计.md",
+      "text": "[总体集中趋势的估计](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%80%BB%E4%BD%93%E9%9B%86%E4%B8%AD%E8%B6%8B%E5%8A%BF%E7%9A%84%E4%BC%B0%E8%AE%A1.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

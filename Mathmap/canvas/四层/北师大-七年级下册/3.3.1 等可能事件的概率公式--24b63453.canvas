@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "e3e086460de4f1a67029",
+      "fromSide": "right",
+      "id": "32b4525c7a99926df8dd",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "fdac12bd7efa3b4ac553",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-3-3-1",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "0dcbf3f44efcae8e5e0a",
+      "text": "# 3.3.1 等可能事件的概率公式\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8bd4db3d7be32aa2a81c",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E7%AD%89%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%A6%82%E7%8E%87--dcb67386.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "e3e086460de4f1a67029",
+      "mathmap_atom_id": "K3c2738121792f0",
+      "mathmap_file": "Mathmap/知识点/等可能试验结果的概念与判断.md",
+      "text": "[等可能试验结果的概念与判断](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%8F%AF%E8%83%BD%E8%AF%95%E9%AA%8C%E7%BB%93%E6%9E%9C%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%88%A4%E6%96%AD.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fdac12bd7efa3b4ac553",
+      "mathmap_atom_id": "K53f59b3d9320ea",
+      "mathmap_file": "Mathmap/知识点/等可能事件的概率计算公式.md",
+      "text": "[等可能事件的概率计算公式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%AD%89%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%A6%82%E7%8E%87%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

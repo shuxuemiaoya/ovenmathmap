@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-3-3-3",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "1ec92d0bc2685f70eefa",
+      "text": "# 3.3.3 几何区域中的等可能事件概率\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8c1e9a351b8c3b2bf94d",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/3%20%E7%AD%89%E5%8F%AF%E8%83%BD%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%A6%82%E7%8E%87--dcb67386.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "073fa8b1c1a3da3940c5",
+      "mathmap_atom_id": "Kdc2b5208f7d037",
+      "mathmap_file": "Mathmap/知识点/利用等分扇形思想求解几何转盘概率.md",
+      "text": "[利用等分扇形思想求解几何转盘概率](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%88%A9%E7%94%A8%E7%AD%89%E5%88%86%E6%89%87%E5%BD%A2%E6%80%9D%E6%83%B3%E6%B1%82%E8%A7%A3%E5%87%A0%E4%BD%95%E8%BD%AC%E7%9B%98%E6%A6%82%E7%8E%87.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

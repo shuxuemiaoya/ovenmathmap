@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-5-3-2",
+    "source_id": "bsd-7a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c9661fbebdf14f094fa7",
+      "text": "# 5.3.2 “盈不足”问题与表格建模\n\n北师大版初中数学·七年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "3ba52a9be5d4bc6e5103",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/3%20%E4%B8%80%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E5%BA%94%E7%94%A8--a1ddf92c.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "3189e2c2ba3447600183",
+      "mathmap_atom_id": "K057b589a15c6d3",
+      "mathmap_file": "Mathmap/知识点/《九章算术》“盈不足”问题与表格分析等量关系.md",
+      "text": "[《九章算术》“盈不足”问题与表格分析等量关系](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E3%80%8A%E4%B9%9D%E7%AB%A0%E7%AE%97%E6%9C%AF%E3%80%8B%E2%80%9C%E7%9B%88%E4%B8%8D%E8%B6%B3%E2%80%9D%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A1%A8%E6%A0%BC%E5%88%86%E6%9E%90%E7%AD%89%E9%87%8F%E5%85%B3%E7%B3%BB.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "三层",
+    "scope_key": "node-toc-029",
+    "source_id": "bsd-8b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d2959a6a485f53ab9ab0",
+      "text": "# 2 图形的旋转\n\n北师大版初中数学·八年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "bb24c4a0b70e996b7fd6",
+      "text": "[返回上层知识图谱](../../%E4%BA%8C%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%9B%BE%E5%BD%A2%E7%9A%84%E5%B9%B3%E7%A7%BB%E4%B8%8E%E6%97%8B%E8%BD%AC--dcb67386.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "ae1440e6539376a5e2f2",
+      "mathmap_atom_id": "Kcad9eb82f066f3",
+      "mathmap_file": "Mathmap/知识点/中心对称图形的概念.md",
+      "text": "[中心对称图形的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "76362357cd92ad2496cf",
+      "mathmap_atom_id": "Kc5fccedca575c0",
+      "mathmap_file": "Mathmap/知识点/成中心对称的基本性质.md",
+      "text": "[成中心对称的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%88%90%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f1896681f5a66cda79b7",
+      "mathmap_atom_id": "Kf38e59d1d9c128",
+      "mathmap_file": "Mathmap/知识点/成中心对称的概念.md",
+      "text": "[成中心对称的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%88%90%E4%B8%AD%E5%BF%83%E5%AF%B9%E7%A7%B0%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07521baf85135d31edc0",
+      "mathmap_atom_id": "K4b10382c950006",
+      "mathmap_file": "Mathmap/知识点/旋转对称图形的概念.md",
+      "text": "[旋转对称图形的概念](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%97%8B%E8%BD%AC%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2%E7%9A%84%E6%A6%82%E5%BF%B5.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f6d48e24efef53017362",
+      "mathmap_atom_id": "K9736927c1360f0",
+      "mathmap_file": "Mathmap/知识点/旋转的基本性质.md",
+      "text": "[旋转的基本性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%97%8B%E8%BD%AC%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 220
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "7b34f28bfc7426c43b0d",
+      "mathmap_atom_id": "Ked3e885ccbb72f",
+      "mathmap_file": "Mathmap/知识点/旋转的概念及对应元素.md",
+      "text": "[旋转的概念及对应元素](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%97%8B%E8%BD%AC%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%AF%B9%E5%BA%94%E5%85%83%E7%B4%A0.md)",
+      "type": "text",
+      "width": 360,
+      "x": 960,
+      "y": 220
+    }
+  ]
+}

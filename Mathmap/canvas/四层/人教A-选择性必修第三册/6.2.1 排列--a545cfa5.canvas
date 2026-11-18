@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-00652",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "583f592866600c5e6ad7",
+      "text": "# 6.2.1 排列\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "ee19bed55db61d453ca4",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/6.2%20%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88--fdc878d1.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8841616a2a99f0500736",
+      "mathmap_atom_id": "Ka8c0a8b37992ed",
+      "mathmap_file": "Mathmap/知识点/排列的概念与实际背景.md",
+      "text": "[排列的概念与实际背景](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%AE%9E%E9%99%85%E8%83%8C%E6%99%AF.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

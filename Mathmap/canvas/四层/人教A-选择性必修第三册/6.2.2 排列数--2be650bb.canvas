@@ -1,0 +1,53 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-00820",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "6702fd5043a3c88783ee",
+      "text": "# 6.2.2 排列数\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "8fdfd3075bdfba689c89",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/6.2%20%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88--fdc878d1.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8522e93b245e8fa33a3c",
+      "mathmap_atom_id": "K67044f56d2edb4",
+      "mathmap_file": "Mathmap/知识点/排列数公式及其推导.md",
+      "text": "[排列数公式及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "2d3a9ebf8abaf5fb611f",
+      "mathmap_atom_id": "Kd6c147209ab1eb",
+      "mathmap_file": "Mathmap/知识点/排列数公式的阶乘表示.md",
+      "text": "[排列数公式的阶乘表示](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8E%92%E5%88%97%E6%95%B0%E5%85%AC%E5%BC%8F%E7%9A%84%E9%98%B6%E4%B9%98%E8%A1%A8%E7%A4%BA.md)",
+      "type": "text",
+      "width": 360,
+      "x": 480,
+      "y": 0
+    }
+  ]
+}

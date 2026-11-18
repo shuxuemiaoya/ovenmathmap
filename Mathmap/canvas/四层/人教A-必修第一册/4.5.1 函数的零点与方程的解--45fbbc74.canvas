@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "6a2f3a80d4598ad7e6ba",
+      "fromSide": "left",
+      "id": "11b35496528df672248b",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "5809a4420cb59f7297a1",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8614d0da484e87dbaece",
+      "fromSide": "right",
+      "id": "f7125488bd1836472128",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "6a2f3a80d4598ad7e6ba",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-05778",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "ebaa97ba7650a5217192",
+      "text": "# 4.5.1 函数的零点与方程的解\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "4ad7f1d0064c37536e49",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/4.5%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%88%E4%BA%8C%EF%BC%89--19b25135.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8614d0da484e87dbaece",
+      "mathmap_atom_id": "Kf59f99ed105c84",
+      "mathmap_file": "Mathmap/知识点/知识点-函数的零点与方程的解.md",
+      "text": "[函数的零点与方程的解](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E7%9A%84%E9%9B%B6%E7%82%B9%E4%B8%8E%E6%96%B9%E7%A8%8B%E7%9A%84%E8%A7%A3.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "5809a4420cb59f7297a1",
+      "mathmap_atom_id": "C87a17c7576774a",
+      "mathmap_file": "Mathmap/概念或公式/概念-函数零点存在定理.md",
+      "text": "[函数零点存在定理](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E5%87%BD%E6%95%B0%E9%9B%B6%E7%82%B9%E5%AD%98%E5%9C%A8%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "6a2f3a80d4598ad7e6ba",
+      "mathmap_atom_id": "K7ee885d548d05c",
+      "mathmap_file": "Mathmap/知识点/知识点-函数零点存在定理.md",
+      "text": "[函数零点存在定理](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E5%87%BD%E6%95%B0%E9%9B%B6%E7%82%B9%E5%AD%98%E5%9C%A8%E5%AE%9A%E7%90%86.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

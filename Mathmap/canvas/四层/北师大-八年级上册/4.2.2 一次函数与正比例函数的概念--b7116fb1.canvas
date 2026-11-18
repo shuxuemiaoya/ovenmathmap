@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-4-2-2",
+    "source_id": "bsd-8a"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "c33fdda7d4b631efb07e",
+      "text": "# 4.2.2 一次函数与正比例函数的概念\n\n北师大版初中数学·八年级上册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "35dd97be3c1f3652d10a",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/2%20%E8%AE%A4%E8%AF%86%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0--0bf45746.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "8060f218808d94ca5fa8",
+      "mathmap_atom_id": "Kab08954b0b8862",
+      "mathmap_file": "Mathmap/知识点/一次函数与正比例函数的概念及均匀变化特征.md",
+      "text": "[一次函数与正比例函数的概念及均匀变化特征](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%B8%80%E6%AC%A1%E5%87%BD%E6%95%B0%E4%B8%8E%E6%AD%A3%E6%AF%94%E4%BE%8B%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%9D%87%E5%8C%80%E5%8F%98%E5%8C%96%E7%89%B9%E5%BE%81.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}

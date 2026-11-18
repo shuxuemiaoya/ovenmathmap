@@ -1,0 +1,63 @@
+{
+  "edges": [
+    {
+      "fromNode": "31c2ba45995a1d4b0cd2",
+      "fromSide": "right",
+      "id": "3c806f7bf72cce5d56aa",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "371625a31b7498e1a00d",
+      "toSide": "left"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-5-2-2",
+    "source_id": "bsd-7b"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "d10b6cb19ded5d0a6ddb",
+      "text": "# 5.2.2 线段的垂直平分线\n\n北师大版初中数学·七年级下册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "e8e2a9653315ba3f5a50",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E5%8C%97%E5%B8%88%E5%A4%A7-%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/2%20%E7%AE%80%E5%8D%95%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0%E5%9B%BE%E5%BD%A2--a1ddf92c.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "31c2ba45995a1d4b0cd2",
+      "mathmap_atom_id": "Kf12b0d4416e29a",
+      "mathmap_file": "Mathmap/知识点/线段的轴对称性与垂直平分线（中垂线）的定义.md",
+      "text": "[线段的轴对称性与垂直平分线（中垂线）的定义](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E7%9A%84%E8%BD%B4%E5%AF%B9%E7%A7%B0%E6%80%A7%E4%B8%8E%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%EF%BC%88%E4%B8%AD%E5%9E%82%E7%BA%BF%EF%BC%89%E7%9A%84%E5%AE%9A%E4%B9%89.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "371625a31b7498e1a00d",
+      "mathmap_atom_id": "K370ff5e8e40803",
+      "mathmap_file": "Mathmap/知识点/线段垂直平分线的性质.md",
+      "text": "[线段垂直平分线的性质](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BA%BF%E6%AE%B5%E5%9E%82%E7%9B%B4%E5%B9%B3%E5%88%86%E7%BA%BF%E7%9A%84%E6%80%A7%E8%B4%A8.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

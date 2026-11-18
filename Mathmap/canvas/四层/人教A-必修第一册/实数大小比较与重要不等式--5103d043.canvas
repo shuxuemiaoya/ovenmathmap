@@ -1,0 +1,84 @@
+{
+  "edges": [
+    {
+      "fromNode": "00372917d8dcfcae4fb7",
+      "fromSide": "right",
+      "id": "d6d104b7778729d380c5",
+      "label": "先修",
+      "toEnd": "arrow",
+      "toNode": "f676b004492abbdc3cd0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f676b004492abbdc3cd0",
+      "fromSide": "left",
+      "id": "4fd008408902be55c430",
+      "label": "引用",
+      "toEnd": "arrow",
+      "toNode": "65246a98b47abdf97907",
+      "toSide": "right"
+    }
+  ],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "topic-2-1-comparison-and-inequality",
+    "source_id": "rja-required-1"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "0392226218ee65b0b689",
+      "text": "# 实数大小比较与重要不等式\n\n人教A版高中数学·必修第一册",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "93d377d2dc49c9b543b1",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.1%20%E7%AD%89%E5%BC%8F%E6%80%A7%E8%B4%A8%E4%B8%8E%E4%B8%8D%E7%AD%89%E5%BC%8F%E6%80%A7%E8%B4%A8--5cd67262.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "00372917d8dcfcae4fb7",
+      "mathmap_atom_id": "K3bcacf0304a097",
+      "mathmap_file": "Mathmap/知识点/知识点-不等关系与实数大小比较的基本事实.md",
+      "text": "[不等关系与实数大小比较的基本事实](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E4%B8%8D%E7%AD%89%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%AE%9E%E6%95%B0%E5%A4%A7%E5%B0%8F%E6%AF%94%E8%BE%83%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BA%8B%E5%AE%9E.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "65246a98b47abdf97907",
+      "mathmap_atom_id": "C576f9fa36d0ad8",
+      "mathmap_file": "Mathmap/概念或公式/概念-重要不等式.md",
+      "text": "[重要不等式](../../../%E6%A6%82%E5%BF%B5%E6%88%96%E5%85%AC%E5%BC%8F/%E6%A6%82%E5%BF%B5-%E9%87%8D%E8%A6%81%E4%B8%8D%E7%AD%89%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f676b004492abbdc3cd0",
+      "mathmap_atom_id": "K5677a73468245a",
+      "mathmap_file": "Mathmap/知识点/知识点-重要不等式.md",
+      "text": "[重要不等式](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%9F%A5%E8%AF%86%E7%82%B9-%E9%87%8D%E8%A6%81%E4%B8%8D%E7%AD%89%E5%BC%8F.md)",
+      "type": "text",
+      "width": 360,
+      "x": 600,
+      "y": 0
+    }
+  ]
+}

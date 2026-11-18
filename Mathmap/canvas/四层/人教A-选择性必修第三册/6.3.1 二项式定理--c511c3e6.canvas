@@ -1,0 +1,41 @@
+{
+  "edges": [],
+  "mathmap": {
+    "contract": "knowledge-canvas/v1",
+    "level": "四层",
+    "scope_key": "semantic-01385",
+    "source_id": "rja-selective-3"
+  },
+  "nodes": [
+    {
+      "height": 130,
+      "id": "2898769f016a63001cf2",
+      "text": "# 6.3.1 二项式定理\n\n高中选择性必修 第三册·人教A版数学",
+      "type": "text",
+      "width": 700,
+      "x": 0,
+      "y": -240
+    },
+    {
+      "height": 100,
+      "id": "c4609d4580cc7a6a442e",
+      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%89%E5%86%8C/6.3%20%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86--7ee2e281.canvas)",
+      "type": "text",
+      "width": 380,
+      "x": 780,
+      "y": -240
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "19a1648120be80861706",
+      "mathmap_atom_id": "Kf1954f8ac415d5",
+      "mathmap_file": "Mathmap/知识点/二项式定理及其计数推导.md",
+      "text": "[二项式定理及其计数推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%AE%9A%E7%90%86%E5%8F%8A%E5%85%B6%E8%AE%A1%E6%95%B0%E6%8E%A8%E5%AF%BC.md)",
+      "type": "text",
+      "width": 360,
+      "x": 0,
+      "y": 0
+    }
+  ]
+}
