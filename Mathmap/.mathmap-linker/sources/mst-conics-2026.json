@@ -143749,6 +143749,11 @@
       "Mathmap/习题/Q070000003686.md"
     ]
   },
+  "source_notes_migration": {
+    "moved_files": 35,
+    "review_sha256": "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c",
+    "version": 1
+  },
   "source_structure": {
     "nodes": [
       {
@@ -169104,12 +169109,184 @@
     "base_review_sha256": "90e7392006307de2627851d710e54f79feb8338551df069c8519f6d05907229d",
     "origin_inventory_sha256": "4b485d60dbc5f94b90e6c901135b4599f991cf3cd58f707f34d418fd5967ace0",
     "redirects": {
-      "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md": "Mathmap/知识点/知识点-三角恒等变换的基本思路与特点.md"
+      "Mathmap/知识点/三角恒等变换的基本思路与特点--000177.md": "Mathmap/知识点/知识点-三角恒等变换的基本思路与特点.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/来源与整理说明.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/来源与整理说明.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/一、通径相关的离心率·来源说明--G9f0bb781392f14.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/一、通径相关的离心率·来源说明--G9f0bb781392f14.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/七、双圆锥曲线的双动点构造面积比·来源说明--G1ab44ea2f0b490.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/七、双圆锥曲线的双动点构造面积比·来源说明--G1ab44ea2f0b490.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明--Gbfa98effd89d6e.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明--Gbfa98effd89d6e.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/三、两点联立式下的彭塞列闭合·来源说明--Gf95e39a8cdb002.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、两点联立式下的彭塞列闭合·来源说明--Gf95e39a8cdb002.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/三、向量乘积与极化恒等式的约束·来源说明--Gae6bcb26ba6351.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、向量乘积与极化恒等式的约束·来源说明--Gae6bcb26ba6351.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/三、焦点弦比值与离心率·来源说明--G52a189a4660f24.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、焦点弦比值与离心率·来源说明--G52a189a4660f24.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/二、两点联立式下的双切圆·来源说明--Gbb784a735e6d97.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、两点联立式下的双切圆·来源说明--Gbb784a735e6d97.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/二、对合中心在无穷远点的特殊值·来源说明--G93ba885aa7301d.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、对合中心在无穷远点的特殊值·来源说明--G93ba885aa7301d.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/二、焦点弦的化斜为直·来源说明--Gb36d4181322aa7.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、焦点弦的化斜为直·来源说明--Gb36d4181322aa7.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/八、双切曲线的斜率同解同构·来源说明--Gcd6bc9cec07887.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/八、双切曲线的斜率同解同构·来源说明--Gcd6bc9cec07887.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/八、焦半径与定比点差转化面积比值·来源说明--Gb5695611d3d2a7.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/八、焦半径与定比点差转化面积比值·来源说明--Gb5695611d3d2a7.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明--G8c09a4737ed124.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明--G8c09a4737ed124.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/四、两点对合方程简化相切圆问题·来源说明--Gd1a5fab7c49bbd.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、两点对合方程简化相切圆问题·来源说明--Gd1a5fab7c49bbd.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/四、弦长与角度范围约束·来源说明--G2b3844b9fa64d1.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、弦长与角度范围约束·来源说明--G2b3844b9fa64d1.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/四、焦点弦构造等腰三角形速解策略·来源说明--Gfd5511cedb3ab7.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、焦点弦构造等腰三角形速解策略·来源说明--Gfd5511cedb3ab7.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_上册·来源说明--G4f5f527bd592f0.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_上册·来源说明--G4f5f527bd592f0.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_下册·来源说明--Gd80035e642d011.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_下册·来源说明--Gd80035e642d011.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第01章_圆锥曲线四定义·来源说明--G27f5af1a487c3b.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第01章_圆锥曲线四定义·来源说明--G27f5af1a487c3b.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第02章_离心率·来源说明--G92a70c24f50b0b.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第02章_离心率·来源说明--G92a70c24f50b0b.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第05章_常规韦达联立·来源说明--G6b205b35292b21.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第05章_常规韦达联立·来源说明--G6b205b35292b21.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第06章_联立之同构方程·来源说明--G6ef511125eacf4.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第06章_联立之同构方程·来源说明--G6ef511125eacf4.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第08章_联立计算高阶篇·来源说明--G14a568f0c9cf4b.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第08章_联立计算高阶篇·来源说明--G14a568f0c9cf4b.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第09章_圆锥曲线跨界综合·来源说明--Gffda7ca91b260a.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第09章_圆锥曲线跨界综合·来源说明--Gffda7ca91b260a.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第14章_新定义下的面积转化·来源说明--G167d38de8bb8f2.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第14章_新定义下的面积转化·来源说明--G167d38de8bb8f2.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第一节 正反设直线的方案选择·来源说明--G4af4defb308e50.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第一节 正反设直线的方案选择·来源说明--G4af4defb308e50.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线与导数的综合·来源说明--G08a4174aa6c9aa.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线与导数的综合·来源说明--G08a4174aa6c9aa.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线之间的交点·来源说明--Gc4209fcc6dfc0c.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线之间的交点·来源说明--Gc4209fcc6dfc0c.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 椭圆双曲线的两点对合式·来源说明--G2a7337356c1b96.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 椭圆双曲线的两点对合式·来源说明--G2a7337356c1b96.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 面积比值转化问题·来源说明--G85713522a717d8.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 面积比值转化问题·来源说明--G85713522a717d8.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第二节 仿射法与面积转化·来源说明--G17a5624341708e.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 仿射法与面积转化·来源说明--G17a5624341708e.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第二节 单动点与圆锥曲线参数方程·来源说明--G5be79d3187790f.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 单动点与圆锥曲线参数方程·来源说明--G5be79d3187790f.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第二节 圆锥曲线与三角函数的综合·来源说明--G5d8dac99b01816.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 圆锥曲线与三角函数的综合·来源说明--G5d8dac99b01816.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第六节 从笛沙格定理到帕斯卡定理·来源说明--G6533bd6f06ab58.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第六节 从笛沙格定理到帕斯卡定理·来源说明--G6533bd6f06ab58.md",
+      "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第四节 圆锥曲线与数列综合·来源说明--G47c56663c6697b.md": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第四节 圆锥曲线与数列综合·来源说明--G47c56663c6697b.md"
     },
     "reviews": [
-      "4a1ae9c6aacd3c18b90f56db4f74087628772efaa412bfaf6a63851114797359"
+      "4a1ae9c6aacd3c18b90f56db4f74087628772efaa412bfaf6a63851114797359",
+      "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c"
     ],
     "units": {
+      "G08a4174aa6c9aa": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线与导数的综合·来源说明--G08a4174aa6c9aa.md",
+        "title": "第三节 圆锥曲线与导数的综合·来源说明"
+      },
+      "G14a568f0c9cf4b": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第08章_联立计算高阶篇·来源说明--G14a568f0c9cf4b.md",
+        "title": "第08章_联立计算高阶篇·来源说明"
+      },
+      "G167d38de8bb8f2": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第14章_新定义下的面积转化·来源说明--G167d38de8bb8f2.md",
+        "title": "第14章_新定义下的面积转化·来源说明"
+      },
+      "G17a5624341708e": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 仿射法与面积转化·来源说明--G17a5624341708e.md",
+        "title": "第二节 仿射法与面积转化·来源说明"
+      },
+      "G1ab44ea2f0b490": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/七、双圆锥曲线的双动点构造面积比·来源说明--G1ab44ea2f0b490.md",
+        "title": "七、双圆锥曲线的双动点构造面积比·来源说明"
+      },
+      "G27f5af1a487c3b": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第01章_圆锥曲线四定义·来源说明--G27f5af1a487c3b.md",
+        "title": "第01章_圆锥曲线四定义·来源说明"
+      },
+      "G2a7337356c1b96": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 椭圆双曲线的两点对合式·来源说明--G2a7337356c1b96.md",
+        "title": "第三节 椭圆双曲线的两点对合式·来源说明"
+      },
+      "G2b3844b9fa64d1": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、弦长与角度范围约束·来源说明--G2b3844b9fa64d1.md",
+        "title": "四、弦长与角度范围约束·来源说明"
+      },
+      "G47c56663c6697b": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第四节 圆锥曲线与数列综合·来源说明--G47c56663c6697b.md",
+        "title": "第四节 圆锥曲线与数列综合·来源说明"
+      },
+      "G4af4defb308e50": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第一节 正反设直线的方案选择·来源说明--G4af4defb308e50.md",
+        "title": "第一节 正反设直线的方案选择·来源说明"
+      },
+      "G4f5f527bd592f0": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_上册·来源说明--G4f5f527bd592f0.md",
+        "title": "圆锥曲线专题_上册·来源说明"
+      },
+      "G52a189a4660f24": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、焦点弦比值与离心率·来源说明--G52a189a4660f24.md",
+        "title": "三、焦点弦比值与离心率·来源说明"
+      },
+      "G5be79d3187790f": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 单动点与圆锥曲线参数方程·来源说明--G5be79d3187790f.md",
+        "title": "第二节 单动点与圆锥曲线参数方程·来源说明"
+      },
+      "G5d8dac99b01816": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 圆锥曲线与三角函数的综合·来源说明--G5d8dac99b01816.md",
+        "title": "第二节 圆锥曲线与三角函数的综合·来源说明"
+      },
+      "G6533bd6f06ab58": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第六节 从笛沙格定理到帕斯卡定理·来源说明--G6533bd6f06ab58.md",
+        "title": "第六节 从笛沙格定理到帕斯卡定理·来源说明"
+      },
+      "G6b205b35292b21": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第05章_常规韦达联立·来源说明--G6b205b35292b21.md",
+        "title": "第05章_常规韦达联立·来源说明"
+      },
+      "G6ef511125eacf4": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第06章_联立之同构方程·来源说明--G6ef511125eacf4.md",
+        "title": "第06章_联立之同构方程·来源说明"
+      },
+      "G85713522a717d8": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 面积比值转化问题·来源说明--G85713522a717d8.md",
+        "title": "第三节 面积比值转化问题·来源说明"
+      },
+      "G8c09a4737ed124": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明--G8c09a4737ed124.md",
+        "title": "六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明"
+      },
+      "G92a70c24f50b0b": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第02章_离心率·来源说明--G92a70c24f50b0b.md",
+        "title": "第02章_离心率·来源说明"
+      },
+      "G93ba885aa7301d": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、对合中心在无穷远点的特殊值·来源说明--G93ba885aa7301d.md",
+        "title": "二、对合中心在无穷远点的特殊值·来源说明"
+      },
+      "G9f0bb781392f14": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/一、通径相关的离心率·来源说明--G9f0bb781392f14.md",
+        "title": "一、通径相关的离心率·来源说明"
+      },
+      "Gae6bcb26ba6351": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、向量乘积与极化恒等式的约束·来源说明--Gae6bcb26ba6351.md",
+        "title": "三、向量乘积与极化恒等式的约束·来源说明"
+      },
+      "Gb36d4181322aa7": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、焦点弦的化斜为直·来源说明--Gb36d4181322aa7.md",
+        "title": "二、焦点弦的化斜为直·来源说明"
+      },
+      "Gb5695611d3d2a7": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/八、焦半径与定比点差转化面积比值·来源说明--Gb5695611d3d2a7.md",
+        "title": "八、焦半径与定比点差转化面积比值·来源说明"
+      },
+      "Gbb784a735e6d97": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、两点联立式下的双切圆·来源说明--Gbb784a735e6d97.md",
+        "title": "二、两点联立式下的双切圆·来源说明"
+      },
+      "Gbfa98effd89d6e": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明--Gbfa98effd89d6e.md",
+        "title": "七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明"
+      },
+      "Gc4209fcc6dfc0c": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线之间的交点·来源说明--Gc4209fcc6dfc0c.md",
+        "title": "第三节 圆锥曲线之间的交点·来源说明"
+      },
+      "Gcd6bc9cec07887": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/八、双切曲线的斜率同解同构·来源说明--Gcd6bc9cec07887.md",
+        "title": "八、双切曲线的斜率同解同构·来源说明"
+      },
+      "Gd1a5fab7c49bbd": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、两点对合方程简化相切圆问题·来源说明--Gd1a5fab7c49bbd.md",
+        "title": "四、两点对合方程简化相切圆问题·来源说明"
+      },
+      "Gd80035e642d011": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_下册·来源说明--Gd80035e642d011.md",
+        "title": "圆锥曲线专题_下册·来源说明"
+      },
+      "Gf95e39a8cdb002": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、两点联立式下的彭塞列闭合·来源说明--Gf95e39a8cdb002.md",
+        "title": "三、两点联立式下的彭塞列闭合·来源说明"
+      },
+      "Gfd5511cedb3ab7": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、焦点弦构造等腰三角形速解策略·来源说明--Gfd5511cedb3ab7.md",
+        "title": "四、焦点弦构造等腰三角形速解策略·来源说明"
+      },
+      "Gffda7ca91b260a": {
+        "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第09章_圆锥曲线跨界综合·来源说明--Gffda7ca91b260a.md",
+        "title": "第09章_圆锥曲线跨界综合·来源说明"
+      },
       "Kff2296bfa3045c": {
         "destination": "Mathmap/知识点/知识点-三角恒等变换的基本思路与特点.md",
         "title": "三角恒等变换的基本思路与特点"
@@ -184713,7 +184890,7 @@
       "title": "例16解析"
     },
     "mst-conics-2026:guide:text-076427b058ac1420": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第02章_离心率·来源说明--G92a70c24f50b0b.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第02章_离心率·来源说明--G92a70c24f50b0b.md",
       "group": "mst-conics-2026:guide:text-076427b058ac1420",
       "id": "G92a70c24f50b0b",
       "kind": "guide",
@@ -184737,7 +184914,7 @@
       "title": "第02章_离心率·来源说明"
     },
     "mst-conics-2026:guide:text-15ca61b05c518184": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第一节 正反设直线的方案选择·来源说明--G4af4defb308e50.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第一节 正反设直线的方案选择·来源说明--G4af4defb308e50.md",
       "group": "mst-conics-2026:guide:text-15ca61b05c518184",
       "id": "G4af4defb308e50",
       "kind": "guide",
@@ -184761,7 +184938,7 @@
       "title": "第一节 正反设直线的方案选择·来源说明"
     },
     "mst-conics-2026:guide:text-29177bcdee484d06": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第四节 圆锥曲线与数列综合·来源说明--G47c56663c6697b.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第四节 圆锥曲线与数列综合·来源说明--G47c56663c6697b.md",
       "group": "mst-conics-2026:guide:text-29177bcdee484d06",
       "id": "G47c56663c6697b",
       "kind": "guide",
@@ -184785,7 +184962,7 @@
       "title": "第四节 圆锥曲线与数列综合·来源说明"
     },
     "mst-conics-2026:guide:text-2a8df5cd0ae0d221": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第二节 单动点与圆锥曲线参数方程·来源说明--G5be79d3187790f.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 单动点与圆锥曲线参数方程·来源说明--G5be79d3187790f.md",
       "group": "mst-conics-2026:guide:text-2a8df5cd0ae0d221",
       "id": "G5be79d3187790f",
       "kind": "guide",
@@ -184809,7 +184986,7 @@
       "title": "第二节 单动点与圆锥曲线参数方程·来源说明"
     },
     "mst-conics-2026:guide:text-2fbcec6e96149ea3": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/二、两点联立式下的双切圆·来源说明--Gbb784a735e6d97.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、两点联立式下的双切圆·来源说明--Gbb784a735e6d97.md",
       "group": "mst-conics-2026:guide:text-2fbcec6e96149ea3",
       "id": "Gbb784a735e6d97",
       "kind": "guide",
@@ -184833,7 +185010,7 @@
       "title": "二、两点联立式下的双切圆·来源说明"
     },
     "mst-conics-2026:guide:text-30cc4818a226c84b": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_下册·来源说明--Gd80035e642d011.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_下册·来源说明--Gd80035e642d011.md",
       "group": "mst-conics-2026:guide:text-30cc4818a226c84b",
       "id": "Gd80035e642d011",
       "kind": "guide",
@@ -184865,7 +185042,7 @@
       "title": "圆锥曲线专题_下册·来源说明"
     },
     "mst-conics-2026:guide:text-3f5a67f4d64c0224": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/四、两点对合方程简化相切圆问题·来源说明--Gd1a5fab7c49bbd.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、两点对合方程简化相切圆问题·来源说明--Gd1a5fab7c49bbd.md",
       "group": "mst-conics-2026:guide:text-3f5a67f4d64c0224",
       "id": "Gd1a5fab7c49bbd",
       "kind": "guide",
@@ -184889,7 +185066,7 @@
       "title": "四、两点对合方程简化相切圆问题·来源说明"
     },
     "mst-conics-2026:guide:text-3f709cc10f82b6a7": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/二、对合中心在无穷远点的特殊值·来源说明--G93ba885aa7301d.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、对合中心在无穷远点的特殊值·来源说明--G93ba885aa7301d.md",
       "group": "mst-conics-2026:guide:text-3f709cc10f82b6a7",
       "id": "G93ba885aa7301d",
       "kind": "guide",
@@ -184913,7 +185090,7 @@
       "title": "二、对合中心在无穷远点的特殊值·来源说明"
     },
     "mst-conics-2026:guide:text-3f7c267a5a44c311": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/一、通径相关的离心率·来源说明--G9f0bb781392f14.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/一、通径相关的离心率·来源说明--G9f0bb781392f14.md",
       "group": "mst-conics-2026:guide:text-3f7c267a5a44c311",
       "id": "G9f0bb781392f14",
       "kind": "guide",
@@ -184937,7 +185114,7 @@
       "title": "一、通径相关的离心率·来源说明"
     },
     "mst-conics-2026:guide:text-4ba478d11d38804b": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/七、双圆锥曲线的双动点构造面积比·来源说明--G1ab44ea2f0b490.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/七、双圆锥曲线的双动点构造面积比·来源说明--G1ab44ea2f0b490.md",
       "group": "mst-conics-2026:guide:text-4ba478d11d38804b",
       "id": "G1ab44ea2f0b490",
       "kind": "guide",
@@ -184961,7 +185138,7 @@
       "title": "七、双圆锥曲线的双动点构造面积比·来源说明"
     },
     "mst-conics-2026:guide:text-4bec0aaaaa6e53be": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第06章_联立之同构方程·来源说明--G6ef511125eacf4.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第06章_联立之同构方程·来源说明--G6ef511125eacf4.md",
       "group": "mst-conics-2026:guide:text-4bec0aaaaa6e53be",
       "id": "G6ef511125eacf4",
       "kind": "guide",
@@ -184985,7 +185162,7 @@
       "title": "第06章_联立之同构方程·来源说明"
     },
     "mst-conics-2026:guide:text-5b968b9af47049c0": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/四、焦点弦构造等腰三角形速解策略·来源说明--Gfd5511cedb3ab7.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、焦点弦构造等腰三角形速解策略·来源说明--Gfd5511cedb3ab7.md",
       "group": "mst-conics-2026:guide:text-5b968b9af47049c0",
       "id": "Gfd5511cedb3ab7",
       "kind": "guide",
@@ -185009,7 +185186,7 @@
       "title": "四、焦点弦构造等腰三角形速解策略·来源说明"
     },
     "mst-conics-2026:guide:text-5d011e74881233fb": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/八、双切曲线的斜率同解同构·来源说明--Gcd6bc9cec07887.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/八、双切曲线的斜率同解同构·来源说明--Gcd6bc9cec07887.md",
       "group": "mst-conics-2026:guide:text-5d011e74881233fb",
       "id": "Gcd6bc9cec07887",
       "kind": "guide",
@@ -185033,7 +185210,7 @@
       "title": "八、双切曲线的斜率同解同构·来源说明"
     },
     "mst-conics-2026:guide:text-6851e402089b77af": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 椭圆双曲线的两点对合式·来源说明--G2a7337356c1b96.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 椭圆双曲线的两点对合式·来源说明--G2a7337356c1b96.md",
       "group": "mst-conics-2026:guide:text-6851e402089b77af",
       "id": "G2a7337356c1b96",
       "kind": "guide",
@@ -185057,7 +185234,7 @@
       "title": "第三节 椭圆双曲线的两点对合式·来源说明"
     },
     "mst-conics-2026:guide:text-6c2dc652869e2337": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线之间的交点·来源说明--Gc4209fcc6dfc0c.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线之间的交点·来源说明--Gc4209fcc6dfc0c.md",
       "group": "mst-conics-2026:guide:text-6c2dc652869e2337",
       "id": "Gc4209fcc6dfc0c",
       "kind": "guide",
@@ -185081,7 +185258,7 @@
       "title": "第三节 圆锥曲线之间的交点·来源说明"
     },
     "mst-conics-2026:guide:text-6dede84de9c35658": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第二节 仿射法与面积转化·来源说明--G17a5624341708e.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 仿射法与面积转化·来源说明--G17a5624341708e.md",
       "group": "mst-conics-2026:guide:text-6dede84de9c35658",
       "id": "G17a5624341708e",
       "kind": "guide",
@@ -185105,7 +185282,7 @@
       "title": "第二节 仿射法与面积转化·来源说明"
     },
     "mst-conics-2026:guide:text-6f64ba3fc8d6ada3": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/二、焦点弦的化斜为直·来源说明--Gb36d4181322aa7.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/二、焦点弦的化斜为直·来源说明--Gb36d4181322aa7.md",
       "group": "mst-conics-2026:guide:text-6f64ba3fc8d6ada3",
       "id": "Gb36d4181322aa7",
       "kind": "guide",
@@ -185129,7 +185306,7 @@
       "title": "二、焦点弦的化斜为直·来源说明"
     },
     "mst-conics-2026:guide:text-8127677a2434eb0a": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/三、向量乘积与极化恒等式的约束·来源说明--Gae6bcb26ba6351.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、向量乘积与极化恒等式的约束·来源说明--Gae6bcb26ba6351.md",
       "group": "mst-conics-2026:guide:text-8127677a2434eb0a",
       "id": "Gae6bcb26ba6351",
       "kind": "guide",
@@ -185153,7 +185330,7 @@
       "title": "三、向量乘积与极化恒等式的约束·来源说明"
     },
     "mst-conics-2026:guide:text-8b05b8bff8ee7a78": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第六节 从笛沙格定理到帕斯卡定理·来源说明--G6533bd6f06ab58.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第六节 从笛沙格定理到帕斯卡定理·来源说明--G6533bd6f06ab58.md",
       "group": "mst-conics-2026:guide:text-8b05b8bff8ee7a78",
       "id": "G6533bd6f06ab58",
       "kind": "guide",
@@ -185177,7 +185354,7 @@
       "title": "第六节 从笛沙格定理到帕斯卡定理·来源说明"
     },
     "mst-conics-2026:guide:text-92ce945bf85de2c0": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 面积比值转化问题·来源说明--G85713522a717d8.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 面积比值转化问题·来源说明--G85713522a717d8.md",
       "group": "mst-conics-2026:guide:text-92ce945bf85de2c0",
       "id": "G85713522a717d8",
       "kind": "guide",
@@ -185201,7 +185378,7 @@
       "title": "第三节 面积比值转化问题·来源说明"
     },
     "mst-conics-2026:guide:text-a4be2fe0812c183b": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/八、焦半径与定比点差转化面积比值·来源说明--Gb5695611d3d2a7.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/八、焦半径与定比点差转化面积比值·来源说明--Gb5695611d3d2a7.md",
       "group": "mst-conics-2026:guide:text-a4be2fe0812c183b",
       "id": "Gb5695611d3d2a7",
       "kind": "guide",
@@ -185225,7 +185402,7 @@
       "title": "八、焦半径与定比点差转化面积比值·来源说明"
     },
     "mst-conics-2026:guide:text-a60e19ce263cb8df": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第二节 圆锥曲线与三角函数的综合·来源说明--G5d8dac99b01816.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第二节 圆锥曲线与三角函数的综合·来源说明--G5d8dac99b01816.md",
       "group": "mst-conics-2026:guide:text-a60e19ce263cb8df",
       "id": "G5d8dac99b01816",
       "kind": "guide",
@@ -185249,7 +185426,7 @@
       "title": "第二节 圆锥曲线与三角函数的综合·来源说明"
     },
     "mst-conics-2026:guide:text-af2b29323fc6b22c": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明--Gbfa98effd89d6e.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明--Gbfa98effd89d6e.md",
       "group": "mst-conics-2026:guide:text-af2b29323fc6b22c",
       "id": "Gbfa98effd89d6e",
       "kind": "guide",
@@ -185273,7 +185450,7 @@
       "title": "七、对合方程 $ak_{1}k_{2} + b(k_{1} + k_{2}) + c = 0$·来源说明"
     },
     "mst-conics-2026:guide:text-af92d9350084f640": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第09章_圆锥曲线跨界综合·来源说明--Gffda7ca91b260a.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第09章_圆锥曲线跨界综合·来源说明--Gffda7ca91b260a.md",
       "group": "mst-conics-2026:guide:text-af92d9350084f640",
       "id": "Gffda7ca91b260a",
       "kind": "guide",
@@ -185297,7 +185474,7 @@
       "title": "第09章_圆锥曲线跨界综合·来源说明"
     },
     "mst-conics-2026:guide:text-c1cf3c820982503b": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第14章_新定义下的面积转化·来源说明--G167d38de8bb8f2.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第14章_新定义下的面积转化·来源说明--G167d38de8bb8f2.md",
       "group": "mst-conics-2026:guide:text-c1cf3c820982503b",
       "id": "G167d38de8bb8f2",
       "kind": "guide",
@@ -185321,7 +185498,7 @@
       "title": "第14章_新定义下的面积转化·来源说明"
     },
     "mst-conics-2026:guide:text-e35b68f4a7f49873": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第01章_圆锥曲线四定义·来源说明--G27f5af1a487c3b.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第01章_圆锥曲线四定义·来源说明--G27f5af1a487c3b.md",
       "group": "mst-conics-2026:guide:text-e35b68f4a7f49873",
       "id": "G27f5af1a487c3b",
       "kind": "guide",
@@ -185345,7 +185522,7 @@
       "title": "第01章_圆锥曲线四定义·来源说明"
     },
     "mst-conics-2026:guide:text-e77893de73f347c2": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线与导数的综合·来源说明--G08a4174aa6c9aa.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第三节 圆锥曲线与导数的综合·来源说明--G08a4174aa6c9aa.md",
       "group": "mst-conics-2026:guide:text-e77893de73f347c2",
       "id": "G08a4174aa6c9aa",
       "kind": "guide",
@@ -185369,7 +185546,7 @@
       "title": "第三节 圆锥曲线与导数的综合·来源说明"
     },
     "mst-conics-2026:guide:text-e81ba260918e2b09": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明--G8c09a4737ed124.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明--G8c09a4737ed124.md",
       "group": "mst-conics-2026:guide:text-e81ba260918e2b09",
       "id": "G8c09a4737ed124",
       "kind": "guide",
@@ -185393,7 +185570,7 @@
       "title": "六、积型 $k_{1}k_{2}$ 对合的多解问题·来源说明"
     },
     "mst-conics-2026:guide:text-eb4d2bc22622c841": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/三、焦点弦比值与离心率·来源说明--G52a189a4660f24.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、焦点弦比值与离心率·来源说明--G52a189a4660f24.md",
       "group": "mst-conics-2026:guide:text-eb4d2bc22622c841",
       "id": "G52a189a4660f24",
       "kind": "guide",
@@ -185417,7 +185594,7 @@
       "title": "三、焦点弦比值与离心率·来源说明"
     },
     "mst-conics-2026:guide:text-ef9cbd0a9ed527e6": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_上册·来源说明--G4f5f527bd592f0.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/圆锥曲线专题_上册·来源说明--G4f5f527bd592f0.md",
       "group": "mst-conics-2026:guide:text-ef9cbd0a9ed527e6",
       "id": "G4f5f527bd592f0",
       "kind": "guide",
@@ -185441,7 +185618,7 @@
       "title": "圆锥曲线专题_上册·来源说明"
     },
     "mst-conics-2026:guide:text-f39e2fb49019baef": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/三、两点联立式下的彭塞列闭合·来源说明--Gf95e39a8cdb002.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/三、两点联立式下的彭塞列闭合·来源说明--Gf95e39a8cdb002.md",
       "group": "mst-conics-2026:guide:text-f39e2fb49019baef",
       "id": "Gf95e39a8cdb002",
       "kind": "guide",
@@ -185465,7 +185642,7 @@
       "title": "三、两点联立式下的彭塞列闭合·来源说明"
     },
     "mst-conics-2026:guide:text-f41a34c7b89ac97a": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第08章_联立计算高阶篇·来源说明--G14a568f0c9cf4b.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第08章_联立计算高阶篇·来源说明--G14a568f0c9cf4b.md",
       "group": "mst-conics-2026:guide:text-f41a34c7b89ac97a",
       "id": "G14a568f0c9cf4b",
       "kind": "guide",
@@ -185489,7 +185666,7 @@
       "title": "第08章_联立计算高阶篇·来源说明"
     },
     "mst-conics-2026:guide:text-f5b59b5759d5dc19": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/第05章_常规韦达联立·来源说明--G6b205b35292b21.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/第05章_常规韦达联立·来源说明--G6b205b35292b21.md",
       "group": "mst-conics-2026:guide:text-f5b59b5759d5dc19",
       "id": "G6b205b35292b21",
       "kind": "guide",
@@ -185513,7 +185690,7 @@
       "title": "第05章_常规韦达联立·来源说明"
     },
     "mst-conics-2026:guide:text-f5eca05c6e12743b": {
-      "destination": "Mathmap/题型/mst老唐说题-圆锥曲线-2026/说明/四、弦长与角度范围约束·来源说明--G2b3844b9fa64d1.md",
+      "destination": "Mathmap/题型/按题型分类/圆锥曲线/来源说明/mst老唐说题-圆锥曲线-2026/说明/四、弦长与角度范围约束·来源说明--G2b3844b9fa64d1.md",
       "group": "mst-conics-2026:guide:text-f5eca05c6e12743b",
       "id": "G2b3844b9fa64d1",
       "kind": "guide",

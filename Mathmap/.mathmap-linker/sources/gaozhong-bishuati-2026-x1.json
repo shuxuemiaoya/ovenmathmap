@@ -127296,6 +127296,11 @@
       "Mathmap/习题/解析/A070000001502.md"
     ]
   },
+  "source_notes_migration": {
+    "moved_files": 28,
+    "review_sha256": "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c",
+    "version": 1
+  },
   "source_structure": {
     "nodes": [
       {
@@ -154269,6 +154274,154 @@
       }
     ]
   },
+  "title_updates": {
+    "base_review_sha256": "1f485944a8db070b26d9fbc1e069c133af0f1e7cc429f07c70fb7df93d4819b7",
+    "origin_inventory_sha256": "2a880f5adca2cf891860057300c932694a20b8debaa3787722f0eb224cd393d9",
+    "redirects": {
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/来源与整理说明.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/来源与整理说明.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/1.1.1 空间向量及其线性运算·来源说明--G367a18a5a2debd.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.1.1 空间向量及其线性运算·来源说明--G367a18a5a2debd.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明--G3ef3570e602cab.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明--G3ef3570e602cab.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/1.4.1 用空间向量研究直线、平面的位置关系·来源说明--G0bf9990a909be6.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.4.1 用空间向量研究直线、平面的位置关系·来源说明--G0bf9990a909be6.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明--G64ba75806bb1fc.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明--G64ba75806bb1fc.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.2.1 直线的点斜式方程·来源说明--Gbfc32f9003b8d5.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.2.1 直线的点斜式方程·来源说明--Gbfc32f9003b8d5.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.3.1 两条直线的交点坐标·来源说明--G88318a0b0cb3a9.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.3.1 两条直线的交点坐标·来源说明--G88318a0b0cb3a9.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明--Gb6632328e28aaa.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明--Gb6632328e28aaa.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.4.1 圆的标准方程·来源说明--G167acf305459eb.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.4.1 圆的标准方程·来源说明--G167acf305459eb.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.5.1 直线与圆的位置关系·来源说明--G1babe78c69aa41.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.5.1 直线与圆的位置关系·来源说明--G1babe78c69aa41.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/3.1.1 椭圆及其标准方程·来源说明--G5d84d0bcc5839e.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.1.1 椭圆及其标准方程·来源说明--G5d84d0bcc5839e.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/3.2.1 双曲线及其标准方程·来源说明--G300bbb72e67ebf.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.2.1 双曲线及其标准方程·来源说明--G300bbb72e67ebf.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/3.3.1 抛物线及其标准方程·来源说明--Gcbef0d0948a7b3.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.3.1 抛物线及其标准方程·来源说明--Gcbef0d0948a7b3.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/index·来源说明--Gd31a267c5ff5c0.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/index·来源说明--Gd31a267c5ff5c0.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/专练 1 新定义、新情境专练_b1·来源说明--G674b8d0e473398.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/专练 1 新定义、新情境专练_b1·来源说明--G674b8d0e473398.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--G2543f2d53442c4.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--G2543f2d53442c4.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Gbb3ab7d5f6e3ed.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Gbb3ab7d5f6e3ed.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Ge653dc900216c0.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Ge653dc900216c0.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--G7c35bb33e2efb9.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--G7c35bb33e2efb9.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--Ge672aad3c50a00.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--Ge672aad3c50a00.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b7·来源说明--Gf98c1ad879d650.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b7·来源说明--Gf98c1ad879d650.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷难关 b1·来源说明--G1dba85c0c58542.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷难关 b1·来源说明--G1dba85c0c58542.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/基础 b1·来源说明--G224ead30b3239a.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/基础 b1·来源说明--G224ead30b3239a.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/模块综合测试·来源说明--G857c0beacf2467.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/模块综合测试·来源说明--G857c0beacf2467.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/课时1 双曲线的简单几何性质·来源说明--G384d365e7193db.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 双曲线的简单几何性质·来源说明--G384d365e7193db.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/课时1 椭圆的简单几何性质·来源说明--G30a37cf173efb4.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 椭圆的简单几何性质·来源说明--G30a37cf173efb4.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/课时1 用空间向量研究距离问题·来源说明--G7fa51925db2b27.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 用空间向量研究距离问题·来源说明--G7fa51925db2b27.md",
+      "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/题型 2 与距离之和(差)有关的最值问题 b3·来源说明--Gc3313ea7b8c0cf.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/题型 2 与距离之和(差)有关的最值问题 b3·来源说明--Gc3313ea7b8c0cf.md"
+    },
+    "reviews": [
+      "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c"
+    ],
+    "units": {
+      "G0bf9990a909be6": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.4.1 用空间向量研究直线、平面的位置关系·来源说明--G0bf9990a909be6.md",
+        "title": "1.4.1 用空间向量研究直线、平面的位置关系·来源说明"
+      },
+      "G167acf305459eb": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.4.1 圆的标准方程·来源说明--G167acf305459eb.md",
+        "title": "2.4.1 圆的标准方程·来源说明"
+      },
+      "G1babe78c69aa41": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.5.1 直线与圆的位置关系·来源说明--G1babe78c69aa41.md",
+        "title": "2.5.1 直线与圆的位置关系·来源说明"
+      },
+      "G1dba85c0c58542": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷难关 b1·来源说明--G1dba85c0c58542.md",
+        "title": "刷难关 b1·来源说明"
+      },
+      "G224ead30b3239a": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/基础 b1·来源说明--G224ead30b3239a.md",
+        "title": "基础 b1·来源说明"
+      },
+      "G2543f2d53442c4": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--G2543f2d53442c4.md",
+        "title": "刷提升 b5·来源说明"
+      },
+      "G300bbb72e67ebf": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.2.1 双曲线及其标准方程·来源说明--G300bbb72e67ebf.md",
+        "title": "3.2.1 双曲线及其标准方程·来源说明"
+      },
+      "G30a37cf173efb4": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 椭圆的简单几何性质·来源说明--G30a37cf173efb4.md",
+        "title": "课时1 椭圆的简单几何性质·来源说明"
+      },
+      "G367a18a5a2debd": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.1.1 空间向量及其线性运算·来源说明--G367a18a5a2debd.md",
+        "title": "1.1.1 空间向量及其线性运算·来源说明"
+      },
+      "G384d365e7193db": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 双曲线的简单几何性质·来源说明--G384d365e7193db.md",
+        "title": "课时1 双曲线的简单几何性质·来源说明"
+      },
+      "G3ef3570e602cab": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明--G3ef3570e602cab.md",
+        "title": "1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明"
+      },
+      "G5d84d0bcc5839e": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.1.1 椭圆及其标准方程·来源说明--G5d84d0bcc5839e.md",
+        "title": "3.1.1 椭圆及其标准方程·来源说明"
+      },
+      "G64ba75806bb1fc": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明--G64ba75806bb1fc.md",
+        "title": "2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明"
+      },
+      "G674b8d0e473398": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/专练 1 新定义、新情境专练_b1·来源说明--G674b8d0e473398.md",
+        "title": "专练 1 新定义、新情境专练_b1·来源说明"
+      },
+      "G7c35bb33e2efb9": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--G7c35bb33e2efb9.md",
+        "title": "刷提升 b6·来源说明"
+      },
+      "G7fa51925db2b27": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 用空间向量研究距离问题·来源说明--G7fa51925db2b27.md",
+        "title": "课时1 用空间向量研究距离问题·来源说明"
+      },
+      "G857c0beacf2467": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/模块综合测试·来源说明--G857c0beacf2467.md",
+        "title": "模块综合测试·来源说明"
+      },
+      "G88318a0b0cb3a9": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.3.1 两条直线的交点坐标·来源说明--G88318a0b0cb3a9.md",
+        "title": "2.3.1 两条直线的交点坐标·来源说明"
+      },
+      "Gb6632328e28aaa": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明--Gb6632328e28aaa.md",
+        "title": "2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明"
+      },
+      "Gbb3ab7d5f6e3ed": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Gbb3ab7d5f6e3ed.md",
+        "title": "刷提升 b5·来源说明"
+      },
+      "Gbfc32f9003b8d5": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.2.1 直线的点斜式方程·来源说明--Gbfc32f9003b8d5.md",
+        "title": "2.2.1 直线的点斜式方程·来源说明"
+      },
+      "Gc3313ea7b8c0cf": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/题型 2 与距离之和(差)有关的最值问题 b3·来源说明--Gc3313ea7b8c0cf.md",
+        "title": "题型 2 与距离之和(差)有关的最值问题 b3·来源说明"
+      },
+      "Gcbef0d0948a7b3": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.3.1 抛物线及其标准方程·来源说明--Gcbef0d0948a7b3.md",
+        "title": "3.3.1 抛物线及其标准方程·来源说明"
+      },
+      "Gd31a267c5ff5c0": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/index·来源说明--Gd31a267c5ff5c0.md",
+        "title": "index·来源说明"
+      },
+      "Ge653dc900216c0": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Ge653dc900216c0.md",
+        "title": "刷提升 b5·来源说明"
+      },
+      "Ge672aad3c50a00": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--Ge672aad3c50a00.md",
+        "title": "刷提升 b6·来源说明"
+      },
+      "Gf98c1ad879d650": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b7·来源说明--Gf98c1ad879d650.md",
+        "title": "刷提升 b7·来源说明"
+      }
+    },
+    "version": 1
+  },
   "unified_type_migration": {
     "public_root": "Mathmap/题型/按题型分类/高中题型索引.md",
     "source_view_count": 274,
@@ -169926,7 +170079,7 @@
       "title": "解析"
     },
     "gaozhong-bishuati-2026-x1:guide:text-1225d779920eea8d": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/3.3.1 抛物线及其标准方程·来源说明--Gcbef0d0948a7b3.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.3.1 抛物线及其标准方程·来源说明--Gcbef0d0948a7b3.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-1225d779920eea8d",
       "id": "Gcbef0d0948a7b3",
       "kind": "guide",
@@ -169950,7 +170103,7 @@
       "title": "3.3.1 抛物线及其标准方程·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-1b004f5dd7f99cc7": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/题型 2 与距离之和(差)有关的最值问题 b3·来源说明--Gc3313ea7b8c0cf.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/题型 2 与距离之和(差)有关的最值问题 b3·来源说明--Gc3313ea7b8c0cf.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-1b004f5dd7f99cc7",
       "id": "Gc3313ea7b8c0cf",
       "kind": "guide",
@@ -169974,7 +170127,7 @@
       "title": "题型 2 与距离之和(差)有关的最值问题 b3·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-1e4a67065230c29b": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.5.1 直线与圆的位置关系·来源说明--G1babe78c69aa41.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.5.1 直线与圆的位置关系·来源说明--G1babe78c69aa41.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-1e4a67065230c29b",
       "id": "G1babe78c69aa41",
       "kind": "guide",
@@ -169998,7 +170151,7 @@
       "title": "2.5.1 直线与圆的位置关系·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-27fe0feeb7fbb459": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--G2543f2d53442c4.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--G2543f2d53442c4.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-27fe0feeb7fbb459",
       "id": "G2543f2d53442c4",
       "kind": "guide",
@@ -170022,7 +170175,7 @@
       "title": "刷提升 b5·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-338b307d6112b6dc": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.4.1 圆的标准方程·来源说明--G167acf305459eb.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.4.1 圆的标准方程·来源说明--G167acf305459eb.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-338b307d6112b6dc",
       "id": "G167acf305459eb",
       "kind": "guide",
@@ -170046,7 +170199,7 @@
       "title": "2.4.1 圆的标准方程·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-369a6a6249111fdc": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷难关 b1·来源说明--G1dba85c0c58542.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷难关 b1·来源说明--G1dba85c0c58542.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-369a6a6249111fdc",
       "id": "G1dba85c0c58542",
       "kind": "guide",
@@ -170070,7 +170223,7 @@
       "title": "刷难关 b1·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-3a847ce89d9bab8f": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明--G64ba75806bb1fc.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明--G64ba75806bb1fc.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-3a847ce89d9bab8f",
       "id": "G64ba75806bb1fc",
       "kind": "guide",
@@ -170094,7 +170247,7 @@
       "title": "2.1.1 倾斜角与斜率 2.1.2 两条直线平行和垂直的判定·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-3ca40a1f7cefead6": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/课时1 双曲线的简单几何性质·来源说明--G384d365e7193db.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 双曲线的简单几何性质·来源说明--G384d365e7193db.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-3ca40a1f7cefead6",
       "id": "G384d365e7193db",
       "kind": "guide",
@@ -170118,7 +170271,7 @@
       "title": "课时1 双曲线的简单几何性质·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-5ae69ea35daf8662": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/专练 1 新定义、新情境专练_b1·来源说明--G674b8d0e473398.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/专练 1 新定义、新情境专练_b1·来源说明--G674b8d0e473398.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-5ae69ea35daf8662",
       "id": "G674b8d0e473398",
       "kind": "guide",
@@ -170142,7 +170295,7 @@
       "title": "专练 1 新定义、新情境专练_b1·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-60d818db3f06f6eb": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--Ge672aad3c50a00.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--Ge672aad3c50a00.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-60d818db3f06f6eb",
       "id": "Ge672aad3c50a00",
       "kind": "guide",
@@ -170166,7 +170319,7 @@
       "title": "刷提升 b6·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-68e619e3f0ce78c2": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/基础 b1·来源说明--G224ead30b3239a.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/基础 b1·来源说明--G224ead30b3239a.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-68e619e3f0ce78c2",
       "id": "G224ead30b3239a",
       "kind": "guide",
@@ -170190,7 +170343,7 @@
       "title": "基础 b1·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-6a0b2dfb4a49222f": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--G7c35bb33e2efb9.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b6·来源说明--G7c35bb33e2efb9.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-6a0b2dfb4a49222f",
       "id": "G7c35bb33e2efb9",
       "kind": "guide",
@@ -170214,7 +170367,7 @@
       "title": "刷提升 b6·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-6ba734059f05d7bc": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b7·来源说明--Gf98c1ad879d650.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b7·来源说明--Gf98c1ad879d650.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-6ba734059f05d7bc",
       "id": "Gf98c1ad879d650",
       "kind": "guide",
@@ -170238,7 +170391,7 @@
       "title": "刷提升 b7·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-7adeb8043d5760a0": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明--Gb6632328e28aaa.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明--Gb6632328e28aaa.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-7adeb8043d5760a0",
       "id": "Gb6632328e28aaa",
       "kind": "guide",
@@ -170262,7 +170415,7 @@
       "title": "2.3.3 点到直线的距离公式 2.3.4 两条平行直线间的距离·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-84eef726b67914db": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/课时1 用空间向量研究距离问题·来源说明--G7fa51925db2b27.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 用空间向量研究距离问题·来源说明--G7fa51925db2b27.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-84eef726b67914db",
       "id": "G7fa51925db2b27",
       "kind": "guide",
@@ -170286,7 +170439,7 @@
       "title": "课时1 用空间向量研究距离问题·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-870182b4dbeb39c0": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/课时1 椭圆的简单几何性质·来源说明--G30a37cf173efb4.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/课时1 椭圆的简单几何性质·来源说明--G30a37cf173efb4.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-870182b4dbeb39c0",
       "id": "G30a37cf173efb4",
       "kind": "guide",
@@ -170310,7 +170463,7 @@
       "title": "课时1 椭圆的简单几何性质·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-8bba410d4c3a0bef": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/3.1.1 椭圆及其标准方程·来源说明--G5d84d0bcc5839e.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.1.1 椭圆及其标准方程·来源说明--G5d84d0bcc5839e.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-8bba410d4c3a0bef",
       "id": "G5d84d0bcc5839e",
       "kind": "guide",
@@ -170334,7 +170487,7 @@
       "title": "3.1.1 椭圆及其标准方程·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-8d1bcefd656f6397": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Gbb3ab7d5f6e3ed.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Gbb3ab7d5f6e3ed.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-8d1bcefd656f6397",
       "id": "Gbb3ab7d5f6e3ed",
       "kind": "guide",
@@ -170358,7 +170511,7 @@
       "title": "刷提升 b5·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-8e8874ab57673210": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/1.1.1 空间向量及其线性运算·来源说明--G367a18a5a2debd.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.1.1 空间向量及其线性运算·来源说明--G367a18a5a2debd.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-8e8874ab57673210",
       "id": "G367a18a5a2debd",
       "kind": "guide",
@@ -170382,7 +170535,7 @@
       "title": "1.1.1 空间向量及其线性运算·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-8efb0215ec6dcc5f": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/1.4.1 用空间向量研究直线、平面的位置关系·来源说明--G0bf9990a909be6.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.4.1 用空间向量研究直线、平面的位置关系·来源说明--G0bf9990a909be6.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-8efb0215ec6dcc5f",
       "id": "G0bf9990a909be6",
       "kind": "guide",
@@ -170406,7 +170559,7 @@
       "title": "1.4.1 用空间向量研究直线、平面的位置关系·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-96a3ccdab91fadd4": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Ge653dc900216c0.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/刷提升 b5·来源说明--Ge653dc900216c0.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-96a3ccdab91fadd4",
       "id": "Ge653dc900216c0",
       "kind": "guide",
@@ -170430,7 +170583,7 @@
       "title": "刷提升 b5·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-a48746cae70c44e7": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/index·来源说明--Gd31a267c5ff5c0.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/index·来源说明--Gd31a267c5ff5c0.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-a48746cae70c44e7",
       "id": "Gd31a267c5ff5c0",
       "kind": "guide",
@@ -170638,7 +170791,7 @@
       "title": "index·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-b52979a9fbe71c82": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/模块综合测试·来源说明--G857c0beacf2467.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/模块综合测试·来源说明--G857c0beacf2467.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-b52979a9fbe71c82",
       "id": "G857c0beacf2467",
       "kind": "guide",
@@ -170662,7 +170815,7 @@
       "title": "模块综合测试·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-db237c45e866cd47": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/3.2.1 双曲线及其标准方程·来源说明--G300bbb72e67ebf.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/3.2.1 双曲线及其标准方程·来源说明--G300bbb72e67ebf.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-db237c45e866cd47",
       "id": "G300bbb72e67ebf",
       "kind": "guide",
@@ -170686,7 +170839,7 @@
       "title": "3.2.1 双曲线及其标准方程·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-dc5e1d21151dcb86": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.3.1 两条直线的交点坐标·来源说明--G88318a0b0cb3a9.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.3.1 两条直线的交点坐标·来源说明--G88318a0b0cb3a9.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-dc5e1d21151dcb86",
       "id": "G88318a0b0cb3a9",
       "kind": "guide",
@@ -170710,7 +170863,7 @@
       "title": "2.3.1 两条直线的交点坐标·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-e29efbe7d5086e06": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明--G3ef3570e602cab.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明--G3ef3570e602cab.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-e29efbe7d5086e06",
       "id": "G3ef3570e602cab",
       "kind": "guide",
@@ -170734,7 +170887,7 @@
       "title": "1.3.1 空间直角坐标系 1.3.2 空间向量运算的坐标表示·来源说明"
     },
     "gaozhong-bishuati-2026-x1:guide:text-f4020677c43294d0": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第一册-2026/说明/2.2.1 直线的点斜式方程·来源说明--Gbfc32f9003b8d5.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2026/说明/2.2.1 直线的点斜式方程·来源说明--Gbfc32f9003b8d5.md",
       "group": "gaozhong-bishuati-2026-x1:guide:text-f4020677c43294d0",
       "id": "Gbfc32f9003b8d5",
       "kind": "guide",

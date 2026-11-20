@@ -94481,6 +94481,11 @@
       "Mathmap/习题/解析/A070000002041.md"
     ]
   },
+  "source_notes_migration": {
+    "moved_files": 7,
+    "review_sha256": "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c",
+    "version": 1
+  },
   "source_structure": {
     "nodes": [
       {
@@ -112623,6 +112628,49 @@
       }
     ]
   },
+  "title_updates": {
+    "base_review_sha256": "bc1ebbcffb625e9ee7cdbff43d32eafc45c06bceeabd7d5d4945d583304dad12",
+    "origin_inventory_sha256": "371a906d5aa222638b5ffb28774b1e62faf1114509e88aa789e47560b05190c8",
+    "redirects": {
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/来源与整理说明.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/来源与整理说明.md",
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/4_2_2_等差数列的前_n_项和公式·来源说明--G5a8b61fea25b22.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/4_2_2_等差数列的前_n_项和公式·来源说明--G5a8b61fea25b22.md",
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/5 2 2 导数的四则运算法则·来源说明--Gda0585726c4117.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/5 2 2 导数的四则运算法则·来源说明--Gda0585726c4117.md",
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/index·来源说明--Ge722a873304856.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/index·来源说明--Ge722a873304856.md",
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/专题 6 利用导数证明不等式·来源说明--G1c197da141b2e3.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/专题 6 利用导数证明不等式·来源说明--G1c197da141b2e3.md",
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/第 5 3 节综合训练·来源说明--G4c141ca82d12c3.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/第 5 3 节综合训练·来源说明--G4c141ca82d12c3.md",
+      "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/课时 1 函数的极值·来源说明--Gc56560d38d33f2.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/课时 1 函数的极值·来源说明--Gc56560d38d33f2.md"
+    },
+    "reviews": [
+      "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c"
+    ],
+    "units": {
+      "G1c197da141b2e3": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/专题 6 利用导数证明不等式·来源说明--G1c197da141b2e3.md",
+        "title": "专题 6 利用导数证明不等式·来源说明"
+      },
+      "G4c141ca82d12c3": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/第 5 3 节综合训练·来源说明--G4c141ca82d12c3.md",
+        "title": "第 5 3 节综合训练·来源说明"
+      },
+      "G5a8b61fea25b22": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/4_2_2_等差数列的前_n_项和公式·来源说明--G5a8b61fea25b22.md",
+        "title": "4_2_2_等差数列的前_n_项和公式·来源说明"
+      },
+      "Gc56560d38d33f2": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/课时 1 函数的极值·来源说明--Gc56560d38d33f2.md",
+        "title": "课时 1 函数的极值·来源说明"
+      },
+      "Gda0585726c4117": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/5 2 2 导数的四则运算法则·来源说明--Gda0585726c4117.md",
+        "title": "5 2 2 导数的四则运算法则·来源说明"
+      },
+      "Ge722a873304856": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/index·来源说明--Ge722a873304856.md",
+        "title": "index·来源说明"
+      }
+    },
+    "version": 1
+  },
   "unified_type_migration": {
     "public_root": "Mathmap/题型/按题型分类/高中题型索引.md",
     "source_view_count": 33,
@@ -128780,7 +128828,7 @@
       "title": "解析"
     },
     "gaozhong-bishuati-2026-x2:guide:text-27a69ff8b6af190e": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/专题 6 利用导数证明不等式·来源说明--G1c197da141b2e3.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/专题 6 利用导数证明不等式·来源说明--G1c197da141b2e3.md",
       "group": "gaozhong-bishuati-2026-x2:guide:text-27a69ff8b6af190e",
       "id": "G1c197da141b2e3",
       "kind": "guide",
@@ -128804,7 +128852,7 @@
       "title": "专题 6 利用导数证明不等式·来源说明"
     },
     "gaozhong-bishuati-2026-x2:guide:text-353483d5958129e2": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/课时 1 函数的极值·来源说明--Gc56560d38d33f2.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/课时 1 函数的极值·来源说明--Gc56560d38d33f2.md",
       "group": "gaozhong-bishuati-2026-x2:guide:text-353483d5958129e2",
       "id": "Gc56560d38d33f2",
       "kind": "guide",
@@ -128828,7 +128876,7 @@
       "title": "课时 1 函数的极值·来源说明"
     },
     "gaozhong-bishuati-2026-x2:guide:text-9e243c3ea02a7324": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/4_2_2_等差数列的前_n_项和公式·来源说明--G5a8b61fea25b22.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/4_2_2_等差数列的前_n_项和公式·来源说明--G5a8b61fea25b22.md",
       "group": "gaozhong-bishuati-2026-x2:guide:text-9e243c3ea02a7324",
       "id": "G5a8b61fea25b22",
       "kind": "guide",
@@ -128852,7 +128900,7 @@
       "title": "4_2_2_等差数列的前_n_项和公式·来源说明"
     },
     "gaozhong-bishuati-2026-x2:guide:text-a48746cae70c44e7": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/index·来源说明--Ge722a873304856.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/index·来源说明--Ge722a873304856.md",
       "group": "gaozhong-bishuati-2026-x2:guide:text-a48746cae70c44e7",
       "id": "Ge722a873304856",
       "kind": "guide",
@@ -128980,7 +129028,7 @@
       "title": "index·来源说明"
     },
     "gaozhong-bishuati-2026-x2:guide:text-aadef6662c89e502": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/第 5 3 节综合训练·来源说明--G4c141ca82d12c3.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/第 5 3 节综合训练·来源说明--G4c141ca82d12c3.md",
       "group": "gaozhong-bishuati-2026-x2:guide:text-aadef6662c89e502",
       "id": "G4c141ca82d12c3",
       "kind": "guide",
@@ -129004,7 +129052,7 @@
       "title": "第 5 3 节综合训练·来源说明"
     },
     "gaozhong-bishuati-2026-x2:guide:text-ee4d82fa61da6b9b": {
-      "destination": "Mathmap/题型/必刷题-选择性必修第二册-2026/说明/5 2 2 导数的四则运算法则·来源说明--Gda0585726c4117.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/5 2 2 导数的四则运算法则·来源说明--Gda0585726c4117.md",
       "group": "gaozhong-bishuati-2026-x2:guide:text-ee4d82fa61da6b9b",
       "id": "Gda0585726c4117",
       "kind": "guide",

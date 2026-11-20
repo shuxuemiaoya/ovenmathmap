@@ -175963,6 +175963,11 @@
       "Mathmap/习题/Q070000005699.md"
     ]
   },
+  "source_notes_migration": {
+    "moved_files": 39,
+    "review_sha256": "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c",
+    "version": 1
+  },
   "source_structure": {
     "nodes": [
       {
@@ -212290,6 +212295,209 @@
       }
     ]
   },
+  "title_updates": {
+    "base_review_sha256": "28e3010afeaacb010adb4e70dcc40ea3317b0253cfe0a9c67427acdfe959a99b",
+    "origin_inventory_sha256": "e2b5f99743ef4efe4f6990f87979e9554190e38bb09d632e4c1763075149ba23",
+    "redirects": {
+      "Mathmap/题型/必刷题-必修第一册-2026/来源与整理说明.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/来源与整理说明.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明--Gea441566307c9c.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明--Gea441566307c9c.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/1.5.1 全称量词与存在量词·来源说明--Gc4dd50fa22441c.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/1.5.1 全称量词与存在量词·来源说明--Gc4dd50fa22441c.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/3.1.1 函数的概念·来源说明--Ge1604f1ba8d54b.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/3.1.1 函数的概念·来源说明--Ge1604f1ba8d54b.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/4.1 指数·来源说明--G06c9e2e4ca251a.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.1 指数·来源说明--G06c9e2e4ca251a.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/4.3.1 对数的概念 4.3.2 对数的运算·来源说明--Ga781fbead81944.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.3.1 对数的概念 4.3.2 对数的运算·来源说明--Ga781fbead81944.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明--Gbcf1cc58b32eec.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明--Gbcf1cc58b32eec.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/4.5.1 函数的零点与方程的解·来源说明--G647dc9b1f676f1.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.5.1 函数的零点与方程的解·来源说明--G647dc9b1f676f1.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/5.1.1 任意角·来源说明--G99a5880a1ba7c5.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.1.1 任意角·来源说明--G99a5880a1ba7c5.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/5.2.1 三角函数的概念·来源说明--G36842627ed9661.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.2.1 三角函数的概念·来源说明--G36842627ed9661.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/5.4.1 正弦函数 余弦函数的图象·来源说明--G323167a3e2fb01.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.4.1 正弦函数 余弦函数的图象·来源说明--G323167a3e2fb01.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/index·来源说明--Ge250681560a86e.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/index·来源说明--Ge250681560a86e.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--G478a590e72f351.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--G478a590e72f351.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gbadab44a5d5e28.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gbadab44a5d5e28.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gd5bf819f65e5ea.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gd5bf819f65e5ea.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Ge20270d09363ab.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Ge20270d09363ab.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b5·来源说明--G53bc69c6882315.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b5·来源说明--G53bc69c6882315.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b12·来源说明--Gba078b1c102ee4.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b12·来源说明--Gba078b1c102ee4.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--G0000a03a28fe26.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--G0000a03a28fe26.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--Gfcae65ce0914fc.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--Gfcae65ce0914fc.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b5·来源说明--Gfb82c9d839633e.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b5·来源说明--Gfb82c9d839633e.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--G50a5197f16d874.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--G50a5197f16d874.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--Gdd515ff801b79f.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--Gdd515ff801b79f.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--G8769e5c00a0105.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--G8769e5c00a0105.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--Gbe30992e22c95c.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--Gbe30992e22c95c.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷易错 b5·来源说明--Gadfa41cc93e9d0.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷易错 b5·来源说明--Gadfa41cc93e9d0.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷易错 b6·来源说明--G939aa8b9256348.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷易错 b6·来源说明--G939aa8b9256348.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷真题 b1·来源说明--G07c15873a48f12.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷真题 b1·来源说明--G07c15873a48f12.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/刷综合 b1·来源说明--Gd61239d740f600.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷综合 b1·来源说明--Gd61239d740f600.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/基础 b1·来源说明--G9d7be5c6f2aa6b.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/基础 b1·来源说明--G9d7be5c6f2aa6b.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明--G8f0b5c7ce5cf41.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明--G8f0b5c7ce5cf41.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/课时1 函数的单调性·来源说明--Ga03fa55a7ff06b.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/课时1 函数的单调性·来源说明--Ga03fa55a7ff06b.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 1 定义域 b6·来源说明--G6fea3fe4a9110e.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 1 定义域 b6·来源说明--G6fea3fe4a9110e.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 2 函数解析式的求法 b3·来源说明--G85149ce7ec2a3d.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 2 函数解析式的求法 b3·来源说明--G85149ce7ec2a3d.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 2 定义域、值域 b4·来源说明--Gbc36f6fddeef4a.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 2 定义域、值域 b4·来源说明--Gbc36f6fddeef4a.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 3 幂函数和对勾函数的应用 b4·来源说明--G73905f423cc885.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 3 幂函数和对勾函数的应用 b4·来源说明--G73905f423cc885.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 3 用图 b4·来源说明--G3e083b9d8bc7d8.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 3 用图 b4·来源说明--G3e083b9d8bc7d8.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明--G42a1938c917df1.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明--G42a1938c917df1.md",
+      "Mathmap/题型/必刷题-必修第一册-2026/说明/题型1 画图 b2·来源说明--Ge3de3afb640a77.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型1 画图 b2·来源说明--Ge3de3afb640a77.md"
+    },
+    "reviews": [
+      "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c"
+    ],
+    "units": {
+      "G0000a03a28fe26": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--G0000a03a28fe26.md",
+        "title": "刷提升 b1·来源说明"
+      },
+      "G06c9e2e4ca251a": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.1 指数·来源说明--G06c9e2e4ca251a.md",
+        "title": "4.1 指数·来源说明"
+      },
+      "G07c15873a48f12": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷真题 b1·来源说明--G07c15873a48f12.md",
+        "title": "刷真题 b1·来源说明"
+      },
+      "G323167a3e2fb01": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.4.1 正弦函数 余弦函数的图象·来源说明--G323167a3e2fb01.md",
+        "title": "5.4.1 正弦函数 余弦函数的图象·来源说明"
+      },
+      "G36842627ed9661": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.2.1 三角函数的概念·来源说明--G36842627ed9661.md",
+        "title": "5.2.1 三角函数的概念·来源说明"
+      },
+      "G3e083b9d8bc7d8": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 3 用图 b4·来源说明--G3e083b9d8bc7d8.md",
+        "title": "题型 3 用图 b4·来源说明"
+      },
+      "G42a1938c917df1": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明--G42a1938c917df1.md",
+        "title": "题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明"
+      },
+      "G478a590e72f351": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--G478a590e72f351.md",
+        "title": "刷基础 b1·来源说明"
+      },
+      "G50a5197f16d874": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--G50a5197f16d874.md",
+        "title": "刷提升 b6·来源说明"
+      },
+      "G53bc69c6882315": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b5·来源说明--G53bc69c6882315.md",
+        "title": "刷基础 b5·来源说明"
+      },
+      "G647dc9b1f676f1": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.5.1 函数的零点与方程的解·来源说明--G647dc9b1f676f1.md",
+        "title": "4.5.1 函数的零点与方程的解·来源说明"
+      },
+      "G6fea3fe4a9110e": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 1 定义域 b6·来源说明--G6fea3fe4a9110e.md",
+        "title": "题型 1 定义域 b6·来源说明"
+      },
+      "G73905f423cc885": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 3 幂函数和对勾函数的应用 b4·来源说明--G73905f423cc885.md",
+        "title": "题型 3 幂函数和对勾函数的应用 b4·来源说明"
+      },
+      "G85149ce7ec2a3d": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 2 函数解析式的求法 b3·来源说明--G85149ce7ec2a3d.md",
+        "title": "题型 2 函数解析式的求法 b3·来源说明"
+      },
+      "G8769e5c00a0105": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--G8769e5c00a0105.md",
+        "title": "刷提升 b9·来源说明"
+      },
+      "G8f0b5c7ce5cf41": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明--G8f0b5c7ce5cf41.md",
+        "title": "易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明"
+      },
+      "G939aa8b9256348": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷易错 b6·来源说明--G939aa8b9256348.md",
+        "title": "刷易错 b6·来源说明"
+      },
+      "G99a5880a1ba7c5": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.1.1 任意角·来源说明--G99a5880a1ba7c5.md",
+        "title": "5.1.1 任意角·来源说明"
+      },
+      "G9d7be5c6f2aa6b": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/基础 b1·来源说明--G9d7be5c6f2aa6b.md",
+        "title": "基础 b1·来源说明"
+      },
+      "Ga03fa55a7ff06b": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/课时1 函数的单调性·来源说明--Ga03fa55a7ff06b.md",
+        "title": "课时1 函数的单调性·来源说明"
+      },
+      "Ga781fbead81944": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.3.1 对数的概念 4.3.2 对数的运算·来源说明--Ga781fbead81944.md",
+        "title": "4.3.1 对数的概念 4.3.2 对数的运算·来源说明"
+      },
+      "Gadfa41cc93e9d0": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷易错 b5·来源说明--Gadfa41cc93e9d0.md",
+        "title": "刷易错 b5·来源说明"
+      },
+      "Gba078b1c102ee4": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b12·来源说明--Gba078b1c102ee4.md",
+        "title": "刷提升 b12·来源说明"
+      },
+      "Gbadab44a5d5e28": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gbadab44a5d5e28.md",
+        "title": "刷基础 b1·来源说明"
+      },
+      "Gbc36f6fddeef4a": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 2 定义域、值域 b4·来源说明--Gbc36f6fddeef4a.md",
+        "title": "题型 2 定义域、值域 b4·来源说明"
+      },
+      "Gbcf1cc58b32eec": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明--Gbcf1cc58b32eec.md",
+        "title": "4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明"
+      },
+      "Gbe30992e22c95c": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--Gbe30992e22c95c.md",
+        "title": "刷提升 b9·来源说明"
+      },
+      "Gc4dd50fa22441c": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/1.5.1 全称量词与存在量词·来源说明--Gc4dd50fa22441c.md",
+        "title": "1.5.1 全称量词与存在量词·来源说明"
+      },
+      "Gd5bf819f65e5ea": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gd5bf819f65e5ea.md",
+        "title": "刷基础 b1·来源说明"
+      },
+      "Gd61239d740f600": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷综合 b1·来源说明--Gd61239d740f600.md",
+        "title": "刷综合 b1·来源说明"
+      },
+      "Gdd515ff801b79f": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--Gdd515ff801b79f.md",
+        "title": "刷提升 b6·来源说明"
+      },
+      "Ge1604f1ba8d54b": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/3.1.1 函数的概念·来源说明--Ge1604f1ba8d54b.md",
+        "title": "3.1.1 函数的概念·来源说明"
+      },
+      "Ge20270d09363ab": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Ge20270d09363ab.md",
+        "title": "刷基础 b1·来源说明"
+      },
+      "Ge250681560a86e": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/index·来源说明--Ge250681560a86e.md",
+        "title": "index·来源说明"
+      },
+      "Ge3de3afb640a77": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型1 画图 b2·来源说明--Ge3de3afb640a77.md",
+        "title": "题型1 画图 b2·来源说明"
+      },
+      "Gea441566307c9c": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明--Gea441566307c9c.md",
+        "title": "1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明"
+      },
+      "Gfb82c9d839633e": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b5·来源说明--Gfb82c9d839633e.md",
+        "title": "刷提升 b5·来源说明"
+      },
+      "Gfcae65ce0914fc": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--Gfcae65ce0914fc.md",
+        "title": "刷提升 b1·来源说明"
+      }
+    },
+    "version": 1
+  },
   "unified_type_migration": {
     "public_root": "Mathmap/题型/按题型分类/高中题型索引.md",
     "source_view_count": 465,
@@ -221022,7 +221230,7 @@
       "title": "解析"
     },
     "gaozhong-bishuati-2026-b1:guide:text-0658dd6f1f4c6a28": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--G478a590e72f351.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--G478a590e72f351.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-0658dd6f1f4c6a28",
       "id": "G478a590e72f351",
       "kind": "guide",
@@ -221046,7 +221254,7 @@
       "title": "刷基础 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-068e6571a87cf6c0": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/5.4.1 正弦函数 余弦函数的图象·来源说明--G323167a3e2fb01.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.4.1 正弦函数 余弦函数的图象·来源说明--G323167a3e2fb01.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-068e6571a87cf6c0",
       "id": "G323167a3e2fb01",
       "kind": "guide",
@@ -221070,7 +221278,7 @@
       "title": "5.4.1 正弦函数 余弦函数的图象·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-07cff89931229926": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/5.1.1 任意角·来源说明--G99a5880a1ba7c5.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.1.1 任意角·来源说明--G99a5880a1ba7c5.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-07cff89931229926",
       "id": "G99a5880a1ba7c5",
       "kind": "guide",
@@ -221094,7 +221302,7 @@
       "title": "5.1.1 任意角·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-07d4c50701e5fe0f": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--G8769e5c00a0105.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--G8769e5c00a0105.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-07d4c50701e5fe0f",
       "id": "G8769e5c00a0105",
       "kind": "guide",
@@ -221118,7 +221326,7 @@
       "title": "刷提升 b9·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-104eef0f1107cfce": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/4.5.1 函数的零点与方程的解·来源说明--G647dc9b1f676f1.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.5.1 函数的零点与方程的解·来源说明--G647dc9b1f676f1.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-104eef0f1107cfce",
       "id": "G647dc9b1f676f1",
       "kind": "guide",
@@ -221142,7 +221350,7 @@
       "title": "4.5.1 函数的零点与方程的解·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-11283f2423214883": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 2 定义域、值域 b4·来源说明--Gbc36f6fddeef4a.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 2 定义域、值域 b4·来源说明--Gbc36f6fddeef4a.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-11283f2423214883",
       "id": "Gbc36f6fddeef4a",
       "kind": "guide",
@@ -221166,7 +221374,7 @@
       "title": "题型 2 定义域、值域 b4·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-1704830476436008": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 3 用图 b4·来源说明--G3e083b9d8bc7d8.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 3 用图 b4·来源说明--G3e083b9d8bc7d8.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-1704830476436008",
       "id": "G3e083b9d8bc7d8",
       "kind": "guide",
@@ -221190,7 +221398,7 @@
       "title": "题型 3 用图 b4·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-1fef7e1721bb56db": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--Gbe30992e22c95c.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b9·来源说明--Gbe30992e22c95c.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-1fef7e1721bb56db",
       "id": "Gbe30992e22c95c",
       "kind": "guide",
@@ -221214,7 +221422,7 @@
       "title": "刷提升 b9·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-21164b34dd28db34": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b12·来源说明--Gba078b1c102ee4.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b12·来源说明--Gba078b1c102ee4.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-21164b34dd28db34",
       "id": "Gba078b1c102ee4",
       "kind": "guide",
@@ -221238,7 +221446,7 @@
       "title": "刷提升 b12·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-21475a1f9a902e6e": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gbadab44a5d5e28.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gbadab44a5d5e28.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-21475a1f9a902e6e",
       "id": "Gbadab44a5d5e28",
       "kind": "guide",
@@ -221262,7 +221470,7 @@
       "title": "刷基础 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-2fcf109f9b62761c": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷易错 b6·来源说明--G939aa8b9256348.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷易错 b6·来源说明--G939aa8b9256348.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-2fcf109f9b62761c",
       "id": "G939aa8b9256348",
       "kind": "guide",
@@ -221286,7 +221494,7 @@
       "title": "刷易错 b6·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-3b30050f125f6968": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--G0000a03a28fe26.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--G0000a03a28fe26.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-3b30050f125f6968",
       "id": "G0000a03a28fe26",
       "kind": "guide",
@@ -221310,7 +221518,7 @@
       "title": "刷提升 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-57bcee82791d5811": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷综合 b1·来源说明--Gd61239d740f600.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷综合 b1·来源说明--Gd61239d740f600.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-57bcee82791d5811",
       "id": "Gd61239d740f600",
       "kind": "guide",
@@ -221334,7 +221542,7 @@
       "title": "刷综合 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-5a01158956698d02": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/课时1 函数的单调性·来源说明--Ga03fa55a7ff06b.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/课时1 函数的单调性·来源说明--Ga03fa55a7ff06b.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-5a01158956698d02",
       "id": "Ga03fa55a7ff06b",
       "kind": "guide",
@@ -221358,7 +221566,7 @@
       "title": "课时1 函数的单调性·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-601f32dcd230012b": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gd5bf819f65e5ea.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Gd5bf819f65e5ea.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-601f32dcd230012b",
       "id": "Gd5bf819f65e5ea",
       "kind": "guide",
@@ -221382,7 +221590,7 @@
       "title": "刷基础 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-6343f1cea62210df": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Ge20270d09363ab.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b1·来源说明--Ge20270d09363ab.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-6343f1cea62210df",
       "id": "Ge20270d09363ab",
       "kind": "guide",
@@ -221406,7 +221614,7 @@
       "title": "刷基础 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-68788436d3290a08": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 3 幂函数和对勾函数的应用 b4·来源说明--G73905f423cc885.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 3 幂函数和对勾函数的应用 b4·来源说明--G73905f423cc885.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-68788436d3290a08",
       "id": "G73905f423cc885",
       "kind": "guide",
@@ -221430,7 +221638,7 @@
       "title": "题型 3 幂函数和对勾函数的应用 b4·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-6fb11d9315b7bdcd": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明--Gbcf1cc58b32eec.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明--Gbcf1cc58b32eec.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-6fb11d9315b7bdcd",
       "id": "Gbcf1cc58b32eec",
       "kind": "guide",
@@ -221454,7 +221662,7 @@
       "title": "4.4.1 对数函数的概念 4.4.2 对数函数的图象和性质·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-7e3cf2634dd62eb9": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷真题 b1·来源说明--G07c15873a48f12.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷真题 b1·来源说明--G07c15873a48f12.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-7e3cf2634dd62eb9",
       "id": "G07c15873a48f12",
       "kind": "guide",
@@ -221478,7 +221686,7 @@
       "title": "刷真题 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-7ee946a485916a2d": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/基础 b1·来源说明--G9d7be5c6f2aa6b.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/基础 b1·来源说明--G9d7be5c6f2aa6b.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-7ee946a485916a2d",
       "id": "G9d7be5c6f2aa6b",
       "kind": "guide",
@@ -221502,7 +221710,7 @@
       "title": "基础 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-80e510248ffa04c3": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 2 函数解析式的求法 b3·来源说明--G85149ce7ec2a3d.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 2 函数解析式的求法 b3·来源说明--G85149ce7ec2a3d.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-80e510248ffa04c3",
       "id": "G85149ce7ec2a3d",
       "kind": "guide",
@@ -221526,7 +221734,7 @@
       "title": "题型 2 函数解析式的求法 b3·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-820d3f449383eec7": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/5.2.1 三角函数的概念·来源说明--G36842627ed9661.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/5.2.1 三角函数的概念·来源说明--G36842627ed9661.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-820d3f449383eec7",
       "id": "G36842627ed9661",
       "kind": "guide",
@@ -221550,7 +221758,7 @@
       "title": "5.2.1 三角函数的概念·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-8ef318460259b8eb": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--Gdd515ff801b79f.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--Gdd515ff801b79f.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-8ef318460259b8eb",
       "id": "Gdd515ff801b79f",
       "kind": "guide",
@@ -221574,7 +221782,7 @@
       "title": "刷提升 b6·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-8f40179eb2aee5fb": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--Gfcae65ce0914fc.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b1·来源说明--Gfcae65ce0914fc.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-8f40179eb2aee5fb",
       "id": "Gfcae65ce0914fc",
       "kind": "guide",
@@ -221598,7 +221806,7 @@
       "title": "刷提升 b1·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-9e7325a489cc776c": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--G50a5197f16d874.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b6·来源说明--G50a5197f16d874.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-9e7325a489cc776c",
       "id": "G50a5197f16d874",
       "kind": "guide",
@@ -221622,7 +221830,7 @@
       "title": "刷提升 b6·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-a48746cae70c44e7": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/index·来源说明--Ge250681560a86e.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/index·来源说明--Ge250681560a86e.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-a48746cae70c44e7",
       "id": "Ge250681560a86e",
       "kind": "guide",
@@ -221862,7 +222070,7 @@
       "title": "index·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-ab3edb2af452e9b5": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型1 画图 b2·来源说明--Ge3de3afb640a77.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型1 画图 b2·来源说明--Ge3de3afb640a77.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-ab3edb2af452e9b5",
       "id": "Ge3de3afb640a77",
       "kind": "guide",
@@ -221886,7 +222094,7 @@
       "title": "题型1 画图 b2·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-b03ca92ff8e0ee84": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明--Gea441566307c9c.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明--Gea441566307c9c.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-b03ca92ff8e0ee84",
       "id": "Gea441566307c9c",
       "kind": "guide",
@@ -221910,7 +222118,7 @@
       "title": "1.4.1 充分条件与必要条件 1.4.2 充要条件·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-b3fc04a9f8984c68": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明--G8f0b5c7ce5cf41.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明--G8f0b5c7ce5cf41.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-b3fc04a9f8984c68",
       "id": "G8f0b5c7ce5cf41",
       "kind": "guide",
@@ -221934,7 +222142,7 @@
       "title": "易错点3 认为分式不等式与二次不等式等价致错 b11·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-cad99899d43dc699": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明--G42a1938c917df1.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明--G42a1938c917df1.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-cad99899d43dc699",
       "id": "G42a1938c917df1",
       "kind": "guide",
@@ -221958,7 +222166,7 @@
       "title": "题型1 “五点法”作函数 正弦型函数 的图象 b2·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-cfc469a2151f862a": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷易错 b5·来源说明--Gadfa41cc93e9d0.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷易错 b5·来源说明--Gadfa41cc93e9d0.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-cfc469a2151f862a",
       "id": "Gadfa41cc93e9d0",
       "kind": "guide",
@@ -221982,7 +222190,7 @@
       "title": "刷易错 b5·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-d07a2717194434f9": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/4.3.1 对数的概念 4.3.2 对数的运算·来源说明--Ga781fbead81944.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.3.1 对数的概念 4.3.2 对数的运算·来源说明--Ga781fbead81944.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-d07a2717194434f9",
       "id": "Ga781fbead81944",
       "kind": "guide",
@@ -222006,7 +222214,7 @@
       "title": "4.3.1 对数的概念 4.3.2 对数的运算·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-d097a5422fb25359": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/题型 1 定义域 b6·来源说明--G6fea3fe4a9110e.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/题型 1 定义域 b6·来源说明--G6fea3fe4a9110e.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-d097a5422fb25359",
       "id": "G6fea3fe4a9110e",
       "kind": "guide",
@@ -222030,7 +222238,7 @@
       "title": "题型 1 定义域 b6·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-d109ef58532bdea7": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/1.5.1 全称量词与存在量词·来源说明--Gc4dd50fa22441c.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/1.5.1 全称量词与存在量词·来源说明--Gc4dd50fa22441c.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-d109ef58532bdea7",
       "id": "Gc4dd50fa22441c",
       "kind": "guide",
@@ -222054,7 +222262,7 @@
       "title": "1.5.1 全称量词与存在量词·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-d9da33fdc895002a": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/4.1 指数·来源说明--G06c9e2e4ca251a.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/4.1 指数·来源说明--G06c9e2e4ca251a.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-d9da33fdc895002a",
       "id": "G06c9e2e4ca251a",
       "kind": "guide",
@@ -222086,7 +222294,7 @@
       "title": "4.1 指数·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-f37d9ff09520cdbe": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/3.1.1 函数的概念·来源说明--Ge1604f1ba8d54b.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/3.1.1 函数的概念·来源说明--Ge1604f1ba8d54b.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-f37d9ff09520cdbe",
       "id": "Ge1604f1ba8d54b",
       "kind": "guide",
@@ -222110,7 +222318,7 @@
       "title": "3.1.1 函数的概念·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-fbe50157bc99f0cc": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷基础 b5·来源说明--G53bc69c6882315.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷基础 b5·来源说明--G53bc69c6882315.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-fbe50157bc99f0cc",
       "id": "G53bc69c6882315",
       "kind": "guide",
@@ -222134,7 +222342,7 @@
       "title": "刷基础 b5·来源说明"
     },
     "gaozhong-bishuati-2026-b1:guide:text-fd23f4b2d4dd1796": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2026/说明/刷提升 b5·来源说明--Gfb82c9d839633e.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2026/说明/刷提升 b5·来源说明--Gfb82c9d839633e.md",
       "group": "gaozhong-bishuati-2026-b1:guide:text-fd23f4b2d4dd1796",
       "id": "Gfb82c9d839633e",
       "kind": "guide",

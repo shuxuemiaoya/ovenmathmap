@@ -176122,6 +176122,11 @@
       "Mathmap/习题/解析/A070000003661.md"
     ]
   },
+  "source_notes_migration": {
+    "moved_files": 29,
+    "review_sha256": "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c",
+    "version": 1
+  },
   "source_structure": {
     "nodes": [
       {
@@ -209739,6 +209744,159 @@
       }
     ]
   },
+  "title_updates": {
+    "base_review_sha256": "ed189ea7301cf824700bd0e14f4f47c31da43256213b047b4edf52b7c1b9beb4",
+    "origin_inventory_sha256": "a1920442122e6dac5c601a2c7460f071337a034ddcb0ee444bb16199a7c7240b",
+    "redirects": {
+      "Mathmap/题型/必刷题-必修第一册-2027/来源与整理说明.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/来源与整理说明.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/1 3 集合的基本运算·来源说明--G79843d8ddf7c03.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 3 集合的基本运算·来源说明--G79843d8ddf7c03.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明--Gb14ec0b892aed7.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明--Gb14ec0b892aed7.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/1_4_充分条件与必要条件·来源说明--G27568cf0aaeb1f.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_4_充分条件与必要条件·来源说明--G27568cf0aaeb1f.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/1_5_全称量词与存在量词·来源说明--Gdba36b1d6b01ff.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_5_全称量词与存在量词·来源说明--Gdba36b1d6b01ff.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/2 1 等式性质与不等式性质·来源说明--Gd285526ed3f197.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 1 等式性质与不等式性质·来源说明--Gd285526ed3f197.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/2 2 基本不等式·来源说明--G8b862dabb45825.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 2 基本不等式·来源说明--G8b862dabb45825.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/3 1 1 函数的概念·来源说明--G098b87bbf20d72.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 1 1 函数的概念·来源说明--G098b87bbf20d72.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/3 4 函数的应用 一 ·来源说明--Gf29a5d481a3309.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 4 函数的应用 一 ·来源说明--Gf29a5d481a3309.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/3_2_1_单调性与最大_小_值·来源说明--G9e161d026e0fdd.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3_2_1_单调性与最大_小_值·来源说明--G9e161d026e0fdd.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明--G7566d1b4b39af5.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明--G7566d1b4b39af5.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4 2 2 指数函数的图象和性质·来源说明--Gfef83f2d3863ce.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 2 2 指数函数的图象和性质·来源说明--Gfef83f2d3863ce.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4 3 对数·来源说明--G94ec412bd610a0.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 3 对数·来源说明--G94ec412bd610a0.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明--G0527a5557e98c2.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明--G0527a5557e98c2.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4 5 1 函数的零点与方程的解·来源说明--G5d256f6865f43a.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 1 函数的零点与方程的解·来源说明--G5d256f6865f43a.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4 5 2 用二分法求方程的近似解·来源说明--Gcdaaec70b8a272.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 2 用二分法求方程的近似解·来源说明--Gcdaaec70b8a272.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/4_5_函数的应用_二_·来源说明--G000d2dae7c1007.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4_5_函数的应用_二_·来源说明--G000d2dae7c1007.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/5 1 1 任意角·来源说明--G13462374d8470e.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 1 1 任意角·来源说明--G13462374d8470e.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/5 3 诱导公式·来源说明--G54bdf470c2b795.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 3 诱导公式·来源说明--G54bdf470c2b795.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/5 4 1 正弦函数 余弦函数的图象·来源说明--Gada8707800e678.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 4 1 正弦函数 余弦函数的图象·来源说明--Gada8707800e678.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明--G213827f65f5daf.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明--G213827f65f5daf.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/index·来源说明--Gba62184cbd0322.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/index·来源说明--Gba62184cbd0322.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G4f91b3dcd3938a.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G4f91b3dcd3938a.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/专练2 开放题专练·来源说明--G06c042d7cfe48f.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练2 开放题专练·来源说明--G06c042d7cfe48f.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/专题 2 利用基本不等式求最值·来源说明--G2d8c69a4ef497a.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 2 利用基本不等式求最值·来源说明--G2d8c69a4ef497a.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/专题 3 函数的性质及应用·来源说明--G25ef524ea2ea5c.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 3 函数的性质及应用·来源说明--G25ef524ea2ea5c.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/专题6 求 omega 的值或取值范围·来源说明--Gf4bfc82e5978c2.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题6 求 omega 的值或取值范围·来源说明--Gf4bfc82e5978c2.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/第三章素养检测·来源说明--Geff4cd6b65e92d.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/第三章素养检测·来源说明--Geff4cd6b65e92d.md",
+      "Mathmap/题型/必刷题-必修第一册-2027/说明/课时1 正弦函数 余弦函数的性质 1 ·来源说明--Gac0cc993919c91.md": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/课时1 正弦函数 余弦函数的性质 1 ·来源说明--Gac0cc993919c91.md"
+    },
+    "reviews": [
+      "864f367b63757e3caacc0735855916adac854890f530836888fb80772c7e0f5c"
+    ],
+    "units": {
+      "G000d2dae7c1007": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4_5_函数的应用_二_·来源说明--G000d2dae7c1007.md",
+        "title": "4_5_函数的应用_二_·来源说明"
+      },
+      "G0527a5557e98c2": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明--G0527a5557e98c2.md",
+        "title": "4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明"
+      },
+      "G06c042d7cfe48f": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练2 开放题专练·来源说明--G06c042d7cfe48f.md",
+        "title": "专练2 开放题专练·来源说明"
+      },
+      "G098b87bbf20d72": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 1 1 函数的概念·来源说明--G098b87bbf20d72.md",
+        "title": "3 1 1 函数的概念·来源说明"
+      },
+      "G13462374d8470e": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 1 1 任意角·来源说明--G13462374d8470e.md",
+        "title": "5 1 1 任意角·来源说明"
+      },
+      "G213827f65f5daf": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明--G213827f65f5daf.md",
+        "title": "5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明"
+      },
+      "G25ef524ea2ea5c": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 3 函数的性质及应用·来源说明--G25ef524ea2ea5c.md",
+        "title": "专题 3 函数的性质及应用·来源说明"
+      },
+      "G27568cf0aaeb1f": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_4_充分条件与必要条件·来源说明--G27568cf0aaeb1f.md",
+        "title": "1_4_充分条件与必要条件·来源说明"
+      },
+      "G2d8c69a4ef497a": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 2 利用基本不等式求最值·来源说明--G2d8c69a4ef497a.md",
+        "title": "专题 2 利用基本不等式求最值·来源说明"
+      },
+      "G4f91b3dcd3938a": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G4f91b3dcd3938a.md",
+        "title": "专练1 新定义 新情境专练·来源说明"
+      },
+      "G54bdf470c2b795": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 3 诱导公式·来源说明--G54bdf470c2b795.md",
+        "title": "5 3 诱导公式·来源说明"
+      },
+      "G5d256f6865f43a": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 1 函数的零点与方程的解·来源说明--G5d256f6865f43a.md",
+        "title": "4 5 1 函数的零点与方程的解·来源说明"
+      },
+      "G7566d1b4b39af5": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明--G7566d1b4b39af5.md",
+        "title": "4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明"
+      },
+      "G79843d8ddf7c03": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 3 集合的基本运算·来源说明--G79843d8ddf7c03.md",
+        "title": "1 3 集合的基本运算·来源说明"
+      },
+      "G8b862dabb45825": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 2 基本不等式·来源说明--G8b862dabb45825.md",
+        "title": "2 2 基本不等式·来源说明"
+      },
+      "G94ec412bd610a0": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 3 对数·来源说明--G94ec412bd610a0.md",
+        "title": "4 3 对数·来源说明"
+      },
+      "G9e161d026e0fdd": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3_2_1_单调性与最大_小_值·来源说明--G9e161d026e0fdd.md",
+        "title": "3_2_1_单调性与最大_小_值·来源说明"
+      },
+      "Gac0cc993919c91": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/课时1 正弦函数 余弦函数的性质 1 ·来源说明--Gac0cc993919c91.md",
+        "title": "课时1 正弦函数 余弦函数的性质 1 ·来源说明"
+      },
+      "Gada8707800e678": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 4 1 正弦函数 余弦函数的图象·来源说明--Gada8707800e678.md",
+        "title": "5 4 1 正弦函数 余弦函数的图象·来源说明"
+      },
+      "Gb14ec0b892aed7": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明--Gb14ec0b892aed7.md",
+        "title": "1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明"
+      },
+      "Gba62184cbd0322": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/index·来源说明--Gba62184cbd0322.md",
+        "title": "index·来源说明"
+      },
+      "Gcdaaec70b8a272": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 2 用二分法求方程的近似解·来源说明--Gcdaaec70b8a272.md",
+        "title": "4 5 2 用二分法求方程的近似解·来源说明"
+      },
+      "Gd285526ed3f197": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 1 等式性质与不等式性质·来源说明--Gd285526ed3f197.md",
+        "title": "2 1 等式性质与不等式性质·来源说明"
+      },
+      "Gdba36b1d6b01ff": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_5_全称量词与存在量词·来源说明--Gdba36b1d6b01ff.md",
+        "title": "1_5_全称量词与存在量词·来源说明"
+      },
+      "Geff4cd6b65e92d": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/第三章素养检测·来源说明--Geff4cd6b65e92d.md",
+        "title": "第三章素养检测·来源说明"
+      },
+      "Gf29a5d481a3309": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 4 函数的应用 一 ·来源说明--Gf29a5d481a3309.md",
+        "title": "3 4 函数的应用 一 ·来源说明"
+      },
+      "Gf4bfc82e5978c2": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题6 求 omega 的值或取值范围·来源说明--Gf4bfc82e5978c2.md",
+        "title": "专题6 求 omega 的值或取值范围·来源说明"
+      },
+      "Gfef83f2d3863ce": {
+        "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 2 2 指数函数的图象和性质·来源说明--Gfef83f2d3863ce.md",
+        "title": "4 2 2 指数函数的图象和性质·来源说明"
+      }
+    },
+    "version": 1
+  },
   "unified_type_migration": {
     "public_root": "Mathmap/题型/按题型分类/高中题型索引.md",
     "source_view_count": 71,
@@ -239646,7 +239804,7 @@
       "title": "解析"
     },
     "gaozhong-bishuati-2027-b1:guide:text-00d4d649df52e913": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4 5 1 函数的零点与方程的解·来源说明--G5d256f6865f43a.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 1 函数的零点与方程的解·来源说明--G5d256f6865f43a.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-00d4d649df52e913",
       "id": "G5d256f6865f43a",
       "kind": "guide",
@@ -239670,7 +239828,7 @@
       "title": "4 5 1 函数的零点与方程的解·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-018ef7683a1599aa": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明--Gb14ec0b892aed7.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明--Gb14ec0b892aed7.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-018ef7683a1599aa",
       "id": "Gb14ec0b892aed7",
       "kind": "guide",
@@ -239694,7 +239852,7 @@
       "title": "1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-028ba9fe3abbd609": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/专练2 开放题专练·来源说明--G06c042d7cfe48f.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练2 开放题专练·来源说明--G06c042d7cfe48f.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-028ba9fe3abbd609",
       "id": "G06c042d7cfe48f",
       "kind": "guide",
@@ -239718,7 +239876,7 @@
       "title": "专练2 开放题专练·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-089f88a999947128": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/专题 3 函数的性质及应用·来源说明--G25ef524ea2ea5c.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 3 函数的性质及应用·来源说明--G25ef524ea2ea5c.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-089f88a999947128",
       "id": "G25ef524ea2ea5c",
       "kind": "guide",
@@ -239750,7 +239908,7 @@
       "title": "专题 3 函数的性质及应用·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-12e2e31b94467d91": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/2 1 等式性质与不等式性质·来源说明--Gd285526ed3f197.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 1 等式性质与不等式性质·来源说明--Gd285526ed3f197.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-12e2e31b94467d91",
       "id": "Gd285526ed3f197",
       "kind": "guide",
@@ -239774,7 +239932,7 @@
       "title": "2 1 等式性质与不等式性质·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-2cdba3b73aeb3257": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/3_2_1_单调性与最大_小_值·来源说明--G9e161d026e0fdd.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3_2_1_单调性与最大_小_值·来源说明--G9e161d026e0fdd.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-2cdba3b73aeb3257",
       "id": "G9e161d026e0fdd",
       "kind": "guide",
@@ -239798,7 +239956,7 @@
       "title": "3_2_1_单调性与最大_小_值·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-2ddca251061ca61d": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明--G0527a5557e98c2.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明--G0527a5557e98c2.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-2ddca251061ca61d",
       "id": "G0527a5557e98c2",
       "kind": "guide",
@@ -239822,7 +239980,7 @@
       "title": "4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-2e45ac7758ecfa17": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/2 2 基本不等式·来源说明--G8b862dabb45825.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 2 基本不等式·来源说明--G8b862dabb45825.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-2e45ac7758ecfa17",
       "id": "G8b862dabb45825",
       "kind": "guide",
@@ -239846,7 +240004,7 @@
       "title": "2 2 基本不等式·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-304d2359d268c4d1": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/5 1 1 任意角·来源说明--G13462374d8470e.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 1 1 任意角·来源说明--G13462374d8470e.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-304d2359d268c4d1",
       "id": "G13462374d8470e",
       "kind": "guide",
@@ -239870,7 +240028,7 @@
       "title": "5 1 1 任意角·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-4f758f3d528ae43a": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明--G7566d1b4b39af5.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明--G7566d1b4b39af5.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-4f758f3d528ae43a",
       "id": "G7566d1b4b39af5",
       "kind": "guide",
@@ -239910,7 +240068,7 @@
       "title": "4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-52bb698bd232335c": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/1_4_充分条件与必要条件·来源说明--G27568cf0aaeb1f.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_4_充分条件与必要条件·来源说明--G27568cf0aaeb1f.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-52bb698bd232335c",
       "id": "G27568cf0aaeb1f",
       "kind": "guide",
@@ -239934,7 +240092,7 @@
       "title": "1_4_充分条件与必要条件·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-6a97379bb9f63cf8": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4_5_函数的应用_二_·来源说明--G000d2dae7c1007.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4_5_函数的应用_二_·来源说明--G000d2dae7c1007.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-6a97379bb9f63cf8",
       "id": "G000d2dae7c1007",
       "kind": "guide",
@@ -239958,7 +240116,7 @@
       "title": "4_5_函数的应用_二_·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-7890219c5362b7ae": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/3 4 函数的应用 一 ·来源说明--Gf29a5d481a3309.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 4 函数的应用 一 ·来源说明--Gf29a5d481a3309.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-7890219c5362b7ae",
       "id": "Gf29a5d481a3309",
       "kind": "guide",
@@ -239982,7 +240140,7 @@
       "title": "3 4 函数的应用 一 ·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-7b048c94dd5ebecf": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/5 3 诱导公式·来源说明--G54bdf470c2b795.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 3 诱导公式·来源说明--G54bdf470c2b795.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-7b048c94dd5ebecf",
       "id": "G54bdf470c2b795",
       "kind": "guide",
@@ -240006,7 +240164,7 @@
       "title": "5 3 诱导公式·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-85df18181e76d7d2": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/课时1 正弦函数 余弦函数的性质 1 ·来源说明--Gac0cc993919c91.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/课时1 正弦函数 余弦函数的性质 1 ·来源说明--Gac0cc993919c91.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-85df18181e76d7d2",
       "id": "Gac0cc993919c91",
       "kind": "guide",
@@ -240030,7 +240188,7 @@
       "title": "课时1 正弦函数 余弦函数的性质 1 ·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-a35fcac349d43908": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明--G213827f65f5daf.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明--G213827f65f5daf.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-a35fcac349d43908",
       "id": "G213827f65f5daf",
       "kind": "guide",
@@ -240054,7 +240212,7 @@
       "title": "5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-a48746cae70c44e7": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/index·来源说明--Gba62184cbd0322.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/index·来源说明--Gba62184cbd0322.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-a48746cae70c44e7",
       "id": "Gba62184cbd0322",
       "kind": "guide",
@@ -240238,7 +240396,7 @@
       "title": "index·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-a68e6c9a81c18bb5": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4 3 对数·来源说明--G94ec412bd610a0.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 3 对数·来源说明--G94ec412bd610a0.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-a68e6c9a81c18bb5",
       "id": "G94ec412bd610a0",
       "kind": "guide",
@@ -240262,7 +240420,7 @@
       "title": "4 3 对数·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-b1b6871f736a56c6": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4 2 2 指数函数的图象和性质·来源说明--Gfef83f2d3863ce.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 2 2 指数函数的图象和性质·来源说明--Gfef83f2d3863ce.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-b1b6871f736a56c6",
       "id": "Gfef83f2d3863ce",
       "kind": "guide",
@@ -240286,7 +240444,7 @@
       "title": "4 2 2 指数函数的图象和性质·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-c14def391b4f2e9b": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/5 4 1 正弦函数 余弦函数的图象·来源说明--Gada8707800e678.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 4 1 正弦函数 余弦函数的图象·来源说明--Gada8707800e678.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-c14def391b4f2e9b",
       "id": "Gada8707800e678",
       "kind": "guide",
@@ -240318,7 +240476,7 @@
       "title": "5 4 1 正弦函数 余弦函数的图象·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-c2e926fe61c705fa": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/专题6 求 omega 的值或取值范围·来源说明--Gf4bfc82e5978c2.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题6 求 omega 的值或取值范围·来源说明--Gf4bfc82e5978c2.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-c2e926fe61c705fa",
       "id": "Gf4bfc82e5978c2",
       "kind": "guide",
@@ -240342,7 +240500,7 @@
       "title": "专题6 求 omega 的值或取值范围·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-c49b39b60f0f49f6": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/专题 2 利用基本不等式求最值·来源说明--G2d8c69a4ef497a.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 2 利用基本不等式求最值·来源说明--G2d8c69a4ef497a.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-c49b39b60f0f49f6",
       "id": "G2d8c69a4ef497a",
       "kind": "guide",
@@ -240366,7 +240524,7 @@
       "title": "专题 2 利用基本不等式求最值·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-d2e8b9cdd52af5ae": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/1_5_全称量词与存在量词·来源说明--Gdba36b1d6b01ff.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_5_全称量词与存在量词·来源说明--Gdba36b1d6b01ff.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-d2e8b9cdd52af5ae",
       "id": "Gdba36b1d6b01ff",
       "kind": "guide",
@@ -240390,7 +240548,7 @@
       "title": "1_5_全称量词与存在量词·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-e6c6f9a0f9e036d4": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/3 1 1 函数的概念·来源说明--G098b87bbf20d72.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 1 1 函数的概念·来源说明--G098b87bbf20d72.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-e6c6f9a0f9e036d4",
       "id": "G098b87bbf20d72",
       "kind": "guide",
@@ -240414,7 +240572,7 @@
       "title": "3 1 1 函数的概念·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-e92bad26caece656": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G4f91b3dcd3938a.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G4f91b3dcd3938a.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-e92bad26caece656",
       "id": "G4f91b3dcd3938a",
       "kind": "guide",
@@ -240438,7 +240596,7 @@
       "title": "专练1 新定义 新情境专练·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-f11826b539ac66ca": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/1 3 集合的基本运算·来源说明--G79843d8ddf7c03.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 3 集合的基本运算·来源说明--G79843d8ddf7c03.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-f11826b539ac66ca",
       "id": "G79843d8ddf7c03",
       "kind": "guide",
@@ -240462,7 +240620,7 @@
       "title": "1 3 集合的基本运算·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-fe06e9c9e622b835": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/4 5 2 用二分法求方程的近似解·来源说明--Gcdaaec70b8a272.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 2 用二分法求方程的近似解·来源说明--Gcdaaec70b8a272.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-fe06e9c9e622b835",
       "id": "Gcdaaec70b8a272",
       "kind": "guide",
@@ -240486,7 +240644,7 @@
       "title": "4 5 2 用二分法求方程的近似解·来源说明"
     },
     "gaozhong-bishuati-2027-b1:guide:text-fe5a21c061c283fd": {
-      "destination": "Mathmap/题型/必刷题-必修第一册-2027/说明/第三章素养检测·来源说明--Geff4cd6b65e92d.md",
+      "destination": "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/第三章素养检测·来源说明--Geff4cd6b65e92d.md",
       "group": "gaozhong-bishuati-2027-b1:guide:text-fe5a21c061c283fd",
       "id": "Geff4cd6b65e92d",
       "kind": "guide",

@@ -5,3 +5,5 @@
 # 本地视频大文件排除 (防止 120GB 撑爆 Git)
 **/videos/*.mp4
 **/videos/*.tmp
+/Mathmap/.mathmap-linker
+/Mathmap/.mathmap-linker
