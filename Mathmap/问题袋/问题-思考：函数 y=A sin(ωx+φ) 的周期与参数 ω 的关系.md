@@ -6,9 +6,8 @@ source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
 source_files: ["原子层/思考题/0013-T.md"]
 source_node_keys: ["atom-ab3a7a3c3f36c961"]
+来源: ["人教A版高中数学·必修第一册"]
 ---
-
-# 思考：函数 y=A sin(ωx+φ) 的周期与参数 ω 的关系
 
 思考
 
