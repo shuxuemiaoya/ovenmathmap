@@ -1731,7 +1731,6 @@
 		{"id":"2b2bd2c3cac99ece","text":"如果  $a > b$  ,  $c > d$  ,那么  $a + c > b + d$","type":"text","x":-5460,"y":-10287,"width":372,"height":60},
 		{"id":"e7538cfe9079afdf","text":"$a > b \\implies \\begin{cases} ac > bc, & c > 0 \\\\ ac < bc, & c < 0 \\end{cases}$","type":"text","x":-5460,"y":-10415,"width":372,"height":102},
 		{"id":"9e186f0c6b6c6441","text":"[[Mathmap/知识串联/人教A-必修第一册/第二章 一元二次函数、方程和不等式/第二章 一元二次函数、方程和不等式|第二章 一元二次函数、方程和不等式]]","type":"text","x":-5960,"y":-11200,"width":50,"height":605,"color":"1"},
-		{"id":"998b67ebda4d5ff6","x":-593,"y":15607,"width":250,"height":60,"type":"text","text":""},
 		{"id":"9a0dad7499b39106","text":"$(a + b)^{2}-(a - b)^{2}=4a\\cdot b$","type":"text","x":-1309,"y":3946,"width":383,"height":65},
 		{"id":"e0b68a3efea30f92","text":"[[Mathmap/知识点/知识点-施密特正交|施密特正交]]","type":"text","x":-1301,"y":3660,"width":197,"height":50,"color":"2"},
 		{"id":"bae0b35a997b3aca","text":"[[Mathmap/知识串联/mst老唐说题-圆锥曲线-2026/上册/第02章_离心率/第三节_长度与角度下的离心率范围约束/三_向量乘积与极化恒等式的约束/三_向量乘积与极化恒等式的约束|极化恒等式]]","type":"text","x":-1012,"y":3470,"width":250,"height":60,"color":"2"},
@@ -2100,6 +2099,7 @@
 		{"id":"a61456d38a64a24b","text":"$\\scriptstyle{p + q = s + t}$,$a_{p} + a_{q} =$ $a_{s} + a_{t}$","type":"text","x":1181,"y":18136,"width":387,"height":60},
 		{"id":"0606a5aab9265304","text":"几何解释","type":"text","x":1250,"y":18256,"width":250,"height":60},
 		{"id":"48efc2c801315d07","text":"公差d","type":"text","x":1422,"y":17980,"width":125,"height":60},
-		{"id":"999cf2701fe6e55b","text":"$a_{n} = \\left\\{ \\begin{array}{ll} S_{1} & n = 1 \\\\ S_{n} - S_{n - 1} & n \\geqslant 2 \\end{array} \\right.$","type":"text","x":1787,"y":17559,"width":350,"height":95}
+		{"id":"999cf2701fe6e55b","text":"$a_{n} = \\left\\{ \\begin{array}{ll} S_{1} & n = 1 \\\\ S_{n} - S_{n - 1} & n \\geqslant 2 \\end{array} \\right.$","type":"text","x":1787,"y":17559,"width":350,"height":95},
+		{"id":"998b67ebda4d5ff6","x":-593,"y":15607,"width":250,"height":60,"type":"text","text":"[[Mathmap/知识点/方程相减的含义|方程相减的含义]]"}
 	]
 }
