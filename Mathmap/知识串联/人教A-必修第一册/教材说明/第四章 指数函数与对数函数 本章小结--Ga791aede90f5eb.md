@@ -6,8 +6,8 @@ source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
 source_files: ["原子层/知识点/第四章 指数函数与对数函数 本章小结--000068.md", "原子层/概念/第四章 指数函数与对数函数体系.md"]
 source_node_keys: ["atom-3bf921e0e58e2eec", "atom-derived-79deaed986bee2b2"]
+所属组织: ["[[Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/第四章 指数函数与对数函数 小结.md]]"]
 ---
-
 # 第四章 指数函数与对数函数 本章小结
 
 ![](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/attachments/da/da07efaf73625d1d3f977221f31b12639003473854c1a67514f8bd4e4e0fdc06.jpg)
@@ -38,7 +38,3 @@ source_node_keys: ["atom-3bf921e0e58e2eec", "atom-derived-79deaed986bee2b2"]
 8. 你能结合实例说明应用函数模型解决问题的基本过程吗？
 
 9. 函数图象是研究函数性质的重要载体，信息技术是研究函数图象与性质的有力工具，你能结合实例谈谈这方面的体会吗？
-
-## 所属组织
-
-- [第四章 指数函数与对数函数 小结](../%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0%20%E5%B0%8F%E7%BB%93.md)

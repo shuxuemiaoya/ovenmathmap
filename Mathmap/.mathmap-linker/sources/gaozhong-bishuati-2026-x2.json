@@ -36565,6 +36565,163 @@
     "reused_knowledge": 0,
     "types": 0
   },
+  "organization_presentation": {
+    "pages": {
+      "Mathmap/题型/按题型分类/导数/5.2.2 导数的四则运算法则.md": {
+        "before_sha256": "ea322b8f2bee9b8effe98ff6bd1ac945957ad979380cac139ce3a384e89ffa73",
+        "sha256": "c953c0062863dee1094b35bc6acc17fc63d17408d6cd20ac2ccd9312043aabce"
+      },
+      "Mathmap/题型/按题型分类/导数/5.3.1 函数的单调性.md": {
+        "before_sha256": "4b285e55359d8de983472717c5720a18610ea054985cb720f7c6ad893c5ab484",
+        "sha256": "0bd92c6c5d3d9f66900dd7c8a4d4428c6decd1ab47fb58538bf4392b52a7cb55"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 10 导数中的隐零点问题.md": {
+        "before_sha256": "6fb6cf966e9cf60858e083ca5c49482b78f2fc8800618af292dafc0973a368fe",
+        "sha256": "801da03fc63fc75cd3613836488df61093d24e82880eb4985b0c68f7d59b6dcd"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 11 构造法在导数中的应用.md": {
+        "before_sha256": "24a164fcc65a6386d6f8eaedea07a68eabed62ef5e11b79972912658892ddd72",
+        "sha256": "0deb12d3227df4b0cbd008828d0778c91b92c2f9fbc7d8b638ac099cf161383a"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 12 导数中的指对同构问题.md": {
+        "before_sha256": "a9b09c0c7a1c49b912cdc66a8b4c320145f870e580d183ae21a60012379c100a",
+        "sha256": "f6949585483f4ab921f61cf28ecb5fe9589643c2360fb2b79502e122add2c31b"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 13 导数中的双变量问题.md": {
+        "before_sha256": "06236f505f9362a98290c8a201b8bfced05a6d9ef751ded7d993803e98907191",
+        "sha256": "1f7c37de6d8ce5cf0b1434beed56583037730162cb304b35571c2d0deea9f31a"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 14 极值点偏移问题.md": {
+        "before_sha256": "9163bf4c498b75c3aed590b363348efd94fcb6dcd97ddb1528c3c3735ee89b86",
+        "sha256": "6c02ae4ab4d002cc6ac78103ed1baa91432a9d4559ddd0594ed75ed2824d29e3"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 5 含参函数单调性的分类讨论.md": {
+        "before_sha256": "d31381aa776eb243d3b33ce9c207b8fe480971da074e59db77a4af3af99b449c",
+        "sha256": "57a69d2e452fe548884c3733ec1badb3947a54fbd026b0aac616b16596f1abe6"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 6 利用导数证明不等式.md": {
+        "before_sha256": "3004f76dd449523064e66131153a0c9f6961cae2d6df038a38fb3c3b1ff0765b",
+        "sha256": "656fb73a8772eb6cb8d832e572da01050e86c4ef9d71bc85b3577cbbd336f2ef"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 7 导数与零点的综合.md": {
+        "before_sha256": "604bba6a39702a2e9b9a87d876705cfe72b40c04d54bd96df3ec8169f05028ed",
+        "sha256": "ea9074b70b126d3c670c65e3a9dccb0849ea1b652b0eb16f4e47f79bce49ef48"
+      },
+      "Mathmap/题型/按题型分类/导数/专题 8 曲线的公切线问题.md": {
+        "before_sha256": "a8e45e7ec365ac5259148f377b6aebd459b0098167d19683417f69fc2af51203",
+        "sha256": "8fa9558c6c9adfc3d1c0d16e595b6d8efddc625a14e3baeae2ada7be730349a4"
+      },
+      "Mathmap/题型/按题型分类/导数/第 5.1 节综合训练.md": {
+        "before_sha256": "996d314e8395542d8bbdfcea860cda7dc7b0fd1c3551b90e015b835b2aea35a4",
+        "sha256": "f98642762599d995b38a55e125c60c74e179b07154bd15b3926795b96681c533"
+      },
+      "Mathmap/题型/按题型分类/导数/第 5.2 节综合训练.md": {
+        "before_sha256": "1acd0f58b8d8bf438c6ff438649a23856cbc80317b5fb5d71915168d647cb4f7",
+        "sha256": "4317db63a8c13fb24559f74ffa213ff0d41eba9c662b41bd68873d08884fc57f"
+      },
+      "Mathmap/题型/按题型分类/导数/第 5.3 节综合训练.md": {
+        "before_sha256": "ed8a1322e5c3c715a2012ac5a8d045d093e70b1f5455d77321d0af0c07efaeab",
+        "sha256": "4b0ec101ab4750df54f6cb76be0ad5b13dfaf1846129f1f44136fc349cbc747f"
+      },
+      "Mathmap/题型/按题型分类/导数/第五章素养检测.md": {
+        "before_sha256": "61f50dea27de056b3caeded7d4662224395ed20dd95bff2f6b661f65b815ccb5",
+        "sha256": "b4873dcc258d24f35dbd28ac080b87a49d0e11559a14dc05c9dd6b8ba72dae63"
+      },
+      "Mathmap/题型/按题型分类/导数/第五章高考强化.md": {
+        "before_sha256": "546f5f8adeec29b2dd299d28cfa6145c07f9815883cc1a33f1d181b7ab2b8acc",
+        "sha256": "58ba01ee287ba641ff50be887bfa3e4f8ac721b94ab5eee9fdbc726f248d7ac8"
+      },
+      "Mathmap/题型/按题型分类/导数/课时 1 函数的极值.md": {
+        "before_sha256": "f7e34b0050a069a651e5ef681b716073dc9d8fcd4d3bf2cef7c11e83c75c791f",
+        "sha256": "78fc49a052a44687632f2186938f468c542d4f7fff856ea9b72ba44a928f1773"
+      },
+      "Mathmap/题型/按题型分类/导数/课时 1 导数的概念.md": {
+        "before_sha256": "d3aa9175dfe17750214d20e260362982c79ca64b1b0cc73ebe8715612823524b",
+        "sha256": "db061ef81504d48ec3b8a396c2a76f616be0fd26b2e584dd7cbb492059706b34"
+      },
+      "Mathmap/题型/按题型分类/导数/课时 2 函数的最大 小 值.md": {
+        "before_sha256": "0c2ddfc008ad1797de109dd9b76d959f50753990ffd89425d3d5f026a48cc5b9",
+        "sha256": "084cb310a5ab7b7d2ed4cb6406d9d2de6d0ea48bd2919061a51dfe5ad40d2bf1"
+      },
+      "Mathmap/题型/按题型分类/导数/课时 2 导数的几何意义.md": {
+        "before_sha256": "46e50419304407e9c5b2b73b59a8f3d2faedd8f5417005c25cb11d96693e7ea6",
+        "sha256": "0d19c7c9c1b4cda55b2b73b6604cf8fbe9e023de7bfd3c9b5aaa426d92248dcf"
+      },
+      "Mathmap/题型/按题型分类/数列/4.1 数列的概念.md": {
+        "before_sha256": "0a105f55279644c3bf1a97058f412a3656279d4d8d0afe2621a2b163a7dfe5e2",
+        "sha256": "94f9840df611f9818088881cde1566589bdfa51c575c818ed4dbca6b5669bec6"
+      },
+      "Mathmap/题型/按题型分类/数列/4.2.1 等差数列的概念.md": {
+        "before_sha256": "c9e184396003fdf7c114ca110126e412ad5814e041107e192965b1b182e09ca7",
+        "sha256": "365abcad60afb6911b60490697a11b640894d8ae29cdac02597b3af8f13ec716"
+      },
+      "Mathmap/题型/按题型分类/数列/4.3.1 等比数列的概念.md": {
+        "before_sha256": "463d22eead14fce568b80d0c2c0168b0b5a4de815a3c5f1148c93b4c5bb56607",
+        "sha256": "952ffef867422a4dcd83677ca59a70e8eeae45a963fcb7d38523b99bb7fa8bf3"
+      },
+      "Mathmap/题型/按题型分类/数列/专题 1 通项公式的求法.md": {
+        "before_sha256": "21d4a64270e094e0ae2b3bdd82830ff9b6ed00135256ad601e978e4a899c0edd",
+        "sha256": "24f923d83ce5edb09f1c16cfab5025b6e64f1d0498b8815fa88dd6c3e06d561c"
+      },
+      "Mathmap/题型/按题型分类/数列/专题 2 数列求和.md": {
+        "before_sha256": "a8d0a37c111c503e3f67f9be13f31df7e8a689a63fbb6653b0bf9fc048075a6e",
+        "sha256": "852f6c0eadffbefbc01effbdd0cf412501942ae1884de40a0b611c0b86511e62"
+      },
+      "Mathmap/题型/按题型分类/数列/专题 4 数列放缩求和.md": {
+        "before_sha256": "b877ebf161c0b3722479ee491d5ca1c7f41d1c0dd006b191d5c942627ff85bd3",
+        "sha256": "f13ee5a2eb669445b7a7cc98eca6481b4058259d72e95b438c80da50b6c8fa0b"
+      },
+      "Mathmap/题型/按题型分类/数列/第四章素养检测.md": {
+        "before_sha256": "edb9711cf26dcf5b305fc05c91224d12c01bf3c00e26e97b9aa5f558a44da311",
+        "sha256": "5e24dfad01045b9e736da291019d988b2c40b2399551324f40ac0975b53d5c96"
+      },
+      "Mathmap/题型/按题型分类/数列/第四章高考强化.md": {
+        "before_sha256": "a980ad6c70ced002d25132fd5f9210cc74175b6a363e52a57850ed9b5a942bee",
+        "sha256": "eb8ea41d760306b9dfcd2cffbc99b75edda79cd4d6f2542b2e961f67aaaa0919"
+      },
+      "Mathmap/题型/按题型分类/数列/课时 1 等差数列的前 n 项和 1.md": {
+        "before_sha256": "dbf4277a8efa1793a38757f441ae85a2c73048b2aa97c41e9b5ae1b3fd64ef62",
+        "sha256": "70fb6556303ca9ac67dc7b5e495ce89f10a559f814711a26442ad1099262392a"
+      },
+      "Mathmap/题型/按题型分类/数列/课时 1 等比数列的前 n 项和 1.md": {
+        "before_sha256": "ea2a4972c76da267081d60b7e42c8cd2cdd03074df5d2ae5290a0bf6fa2c3595",
+        "sha256": "0d7281c7f8a7d730e95bb4388e00a5a51a93b8f194674ca23dfa293109dcb86b"
+      },
+      "Mathmap/题型/按题型分类/数列/课时 2 等差数列的前 n 项和 2.md": {
+        "before_sha256": "da4a94db078f943fe9dd5866d54d26ecd647f5520fa7ab7519b56c19dc7efd68",
+        "sha256": "e883d1180fd8b713c52b35338078f83f5ed85271fb7f2711c096da2f9697fb76"
+      },
+      "Mathmap/题型/按题型分类/数列/课时 2 等比数列的前 n 项和 2.md": {
+        "before_sha256": "408efc037b8cd194cc3bf91247288167400a1ae5b2e310dad3fc026d0a172a40",
+        "sha256": "c829c150b70ce625ed203120a97cea28d93f7b19d5896cbb8658aeba0d50b602"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/4_2_2_等差数列的前_n_项和公式·来源说明--G5a8b61fea25b22.md": {
+        "before_sha256": "eceed851766b5e19f2a1ca85c82b07117fc9381ed63f4e83fa2d3db05701f5d7",
+        "sha256": "4a61a033e4d68f32646ea5d63899b2b14aa400d71bddb8714a29e3dca26efa49"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/5 2 2 导数的四则运算法则·来源说明--Gda0585726c4117.md": {
+        "before_sha256": "31303d09cc4f646b1746aff0c74d170a46d76db4501ed708d5acd0117e9d7275",
+        "sha256": "0356ad0b435289749dadc45cdaa9e915c2095451f787568c15e8fd87a07a70fd"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/index·来源说明--Ge722a873304856.md": {
+        "before_sha256": "9d715f7ff413a1406c21a85d25d98865da97709a4b6bd9546698dbe5be3b1e48",
+        "sha256": "4c0240c04788f6ccdc8dfdf021a8d2d0a4671c8e149bb39fc62662d8a3197fa0"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/专题 6 利用导数证明不等式·来源说明--G1c197da141b2e3.md": {
+        "before_sha256": "73418b44a84aa5077276ac5f5d369c165a2bb9e2fb825b5799202d1d48687e0b",
+        "sha256": "c0345626fc7e3ec7d56d75710238be33cccd613775845c746891a277426df66b"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/第 5 3 节综合训练·来源说明--G4c141ca82d12c3.md": {
+        "before_sha256": "80e2bc04f336e614ad780591059bf94ac6683c0aa5ca29009070a6c342b3f581",
+        "sha256": "b3784ac54f8a2c573868920bbf17ba56da794561d1fc318efc807217747b1b82"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第二册-2026/说明/课时 1 函数的极值·来源说明--Gc56560d38d33f2.md": {
+        "before_sha256": "2213023172f068bfbbb5efd7b17f0f82f51e0a4ba566fe0a1aec3b4369cf1b31",
+        "sha256": "accc8f7f4a63dd7165ced35a46f4c80898202f67c5a5005d3ba0f88df284cb00"
+      }
+    },
+    "version": 1
+  },
   "organization_targets": {
     "org-07832ad8aa01351e": [
       "Mathmap/题型/按题型分类/数列/专题 4 数列放缩求和.md"

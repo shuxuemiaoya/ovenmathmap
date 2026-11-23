@@ -6,8 +6,8 @@ source_id: "gaozhong-bishuati-2026-x1"
 source: "2026版 必刷题 数学选择性必修第一册RJA"
 source_files: ["index.md"]
 source_node_keys: ["text-a48746cae70c44e7"]
+所属组织: ["[[Mathmap/题型/按题型分类/高中题型索引.md]]"]
 ---
-
 # index·来源说明
 
 
@@ -549,7 +549,3 @@ GAOZHONG BISHUATI SHUXUE XUANZEXINGBIXIU DIYICE RJA
 天才解题可不是靠乱猜的！24个『规律方法』帮你找规律，有捷径才能事半功倍。
 ·名师点拨
 老师点一点，玄机自然显。15个『名师点拨』，老师的独家秘笈都属于你！
-
-## 所属组织
-
-- [index](../../../../%E9%AB%98%E4%B8%AD%E9%A2%98%E5%9E%8B%E7%B4%A2%E5%BC%95.md)

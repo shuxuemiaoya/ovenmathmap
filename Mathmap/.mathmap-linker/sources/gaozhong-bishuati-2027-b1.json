@@ -68838,6 +68838,403 @@
     "reused_knowledge": 0,
     "types": 0
   },
+  "organization_presentation": {
+    "pages": {
+      "Mathmap/题型/按题型分类/一元二次函数 方程和不等式/2.1 等式性质与不等式性质.md": {
+        "before_sha256": "adfaa760959f892ad34a1097ff82cd736de44dc7dff60e3bc9d5f49cbd1b8a80",
+        "sha256": "3f9f71371a4974b7546d5db4b52e4732713a1eb92f43cb37d2728cdd866e2816"
+      },
+      "Mathmap/题型/按题型分类/一元二次函数 方程和不等式/2.2 基本不等式.md": {
+        "before_sha256": "6805f6951126c3c034cea5231aa0ce2b3202d7f0560ef7c067a69ede0794f403",
+        "sha256": "c280eb7d4e66356a90dd759d77716f9739e8a8eaaacaf424e9b40ed70dd3e5d4"
+      },
+      "Mathmap/题型/按题型分类/一元二次函数 方程和不等式/2.3 二次函数与一元二次方程 不等式.md": {
+        "before_sha256": "4e999ebe3db2a899900f7247a59fc730ace1e8f4c9f237326c3c928dc115aaef",
+        "sha256": "a65169bb84e4b3e02f5fce25102c12acfa1c29abd213e7e4107c7c683e50cd7c"
+      },
+      "Mathmap/题型/按题型分类/一元二次函数 方程和不等式/专题 2 利用基本不等式求最值.md": {
+        "before_sha256": "60cc4cd75782001b366ecdeb7db4fff099af277a312c18eb4b9a83f02311a671",
+        "sha256": "e5352eaa3e661d2a8ff5a523815e072a0d91ffa7c5d80e775bdb4b4c531f1fe0"
+      },
+      "Mathmap/题型/按题型分类/一元二次函数 方程和不等式/第二章素养检测.md": {
+        "before_sha256": "68d8d9d90a45964817649aecdd9173d01321a48f4ec34befd29615a20d32a308",
+        "sha256": "c9f13afa47d86de31a6bccaa84c2a23602e1d2f05d7c94be5c71107bf6cd5ef1"
+      },
+      "Mathmap/题型/按题型分类/一元二次函数 方程和不等式/第二章高考强化.md": {
+        "before_sha256": "743eb3daa088725d76378d31ffdd6783e9487f01eceaaecc364c49222bce93d9",
+        "sha256": "57e6bd409652adb591114bd3c30f5668c6a2fe5bed0bac24947b872ced8178a4"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.1.1 任意角.md": {
+        "before_sha256": "87c1ad761c20c45fa3ba36a2b30b9ef37a439635d216ead772ff9ef3af129370",
+        "sha256": "795303b49b51dfdf02368b901b57362bc9111b5eb9eb293fb371f082a04413bb"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.1.2 弧度制.md": {
+        "before_sha256": "8793672bd2dcb191f0ace9f592a2582da0b717e9f4ec6d91ff2d7cc0e3ae0e6a",
+        "sha256": "7c8f24b259178f88af9da2ae8e5a5844ab984bab16885d6814c186131b2e5d99"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.2.1 三角函数的概念.md": {
+        "before_sha256": "ea02ca12b9423341e934d0d79069b3313d3d37b4117a7e3b05d8fddb88b6c18f",
+        "sha256": "9ddef39a8987af752879cee05e3e755a3f0822493ba9a9da89ff822b662fa3e6"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.2.2 同角三角函数的基本关系.md": {
+        "before_sha256": "9be3636994d45ac2fd49f0107dd2adb10ef0ffd3487d97abce4c4619afe76e31",
+        "sha256": "f645ae3f85272e21da0ba20bab7da83f7ab8efe418e8b417e8cd0df1b03e3318"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.3 诱导公式.md": {
+        "before_sha256": "f71914bd457d5ecc7b85262a1bdb4abe6e5a94c1d1a28f7e78fdf8342b589906",
+        "sha256": "b8ba50f72447a1869c2ca856a6e0414ef96a63941c23027787e63044eb8f569c"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.4.1 正弦函数 余弦函数的图象.md": {
+        "before_sha256": "a29e14c5eb0121cc0dd77e72c01e7f83a768c23ca37495d69c207e7fd0b5fd1e",
+        "sha256": "85dc70b80574e86ad18e00ebd002278d6551c1f3857b759e756dd680a554c25e"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.4.3 正切函数的性质与图象.md": {
+        "before_sha256": "3e845c34aa7dcfd55a914e4b8790a9b52418132161167f9daceebf857b09162d",
+        "sha256": "60c024f121db9e3e048f5f6fb4f560560214e434b2a23b3fbfa418b88ea2e6ba"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.5.1 两角和与差的正弦 余弦和正切公式.md": {
+        "before_sha256": "6a63823ae35b827b80e8103810e92656822d60e128afa29b0ca4bc78dc0bc92c",
+        "sha256": "f26dd5042c300b9b6b940810710cec9c8dc8dfead9caa8fea658631af9571e53"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.5.2 简单的三角恒等变换.md": {
+        "before_sha256": "e3ac9009fc257bb05f2af5854bf46063422d31697485a6e19c40a1be6b2d0352",
+        "sha256": "fc749d99e791120a124a99c5809958c618c7530a927165237a3889f4db39337d"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.6.1 匀速圆周运动的数学模型及5.6.2 函数 y A sin.md": {
+        "before_sha256": "12da3817882bd472ea1a59263fc55ef09dc0eb19ae571536765581542dfcacec",
+        "sha256": "f285823faf2b379007edbbc6767787daf923074add93a0507c8278efb169a4cf"
+      },
+      "Mathmap/题型/按题型分类/三角函数/5.7 三角函数的应用.md": {
+        "before_sha256": "cd3c3e5be2e0aa5584c9f1c5e4476973c4558943f653389999775d1326471ef5",
+        "sha256": "03aa74c5c74bf8fbf7399b22089c3611e378a6d320799db43bc4d92ebc349a87"
+      },
+      "Mathmap/题型/按题型分类/三角函数/专题5 三角恒等变换.md": {
+        "before_sha256": "b729e2206bb0885f86f828bceaef808f3a112e34ba019a0216df822d7fe4b175",
+        "sha256": "183b1452217a25fac59ef666ef9ab6e34f4717fe01d3bcc3065acf8893da8f76"
+      },
+      "Mathmap/题型/按题型分类/三角函数/专题6 求 omega 的值或取值范围.md": {
+        "before_sha256": "003356c01b3f769ab8c014af7895e177ecaac2056efdfa7f566f43b8aea4ef0e",
+        "sha256": "f23ab3d184142684b74972665fc334a630b07cdd2365fe7767e0710ef843e329"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第5.1节综合训练.md": {
+        "before_sha256": "9c2ac452c7728a8bd72617bc658c4d190f63a050ccf251746b3d563f1ef0a605",
+        "sha256": "9296a321ac303e97d10804b6edaded9edbc32e2a0cc62e8a3f13aa56dcfaa250"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第5.2节综合训练.md": {
+        "before_sha256": "154aa29f043f52d9b9878e700011bb85d36122db3c8481118f1e31de0c9d6a6b",
+        "sha256": "c4f6a2a15e9d0ac8b9d28e3583dc1d8691be965d90c85ff246d1c1df97d062ed"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第5.4节综合训练.md": {
+        "before_sha256": "e309a83f1646a28dcc0d1c181af8b06b330cbe9bf8d350136808963bb7ccc7db",
+        "sha256": "93d08fb475f43699b8fb48d22769b9297baab1e0ea3b037b0babe7e9a5f53283"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第5.5节综合训练.md": {
+        "before_sha256": "66b6b6c94599d9920ce59b539444f6e1864a7ea70dda2ba306b1d44e719e9784",
+        "sha256": "b8f1f3f84034805450f56b3ec107eecb45c09c1a13fe9f148a2139d67fff3825"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第5.6节综合训练.md": {
+        "before_sha256": "d4848d79515163a1d31628393b566a1e1ec24b5f0bff945cbe4d6ce2ffcde2cc",
+        "sha256": "cf2211fcb0f86bd4abe698436406d4a469f4e5fbac5f4265b0a65d49180732ef"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第五章素养检测.md": {
+        "before_sha256": "7c841b4c3130c90b1983a9545425760f990927c158e530fd766baaa3705a8b15",
+        "sha256": "19f846248eb38a171712e8d8eb20bf61ba0ba8f464e7eb53abd7becaf1589720"
+      },
+      "Mathmap/题型/按题型分类/三角函数/第五章高考强化.md": {
+        "before_sha256": "8bac5eb0915a0a45c0b0b33ea71bd7f882c9a9aaddc335c923c5205b99d6f51b",
+        "sha256": "27ed965ec6b62d737f73be5b81a498eeb6ebfb2908c59201d327832767cf7e75"
+      },
+      "Mathmap/题型/按题型分类/三角函数/课时1 正弦函数 余弦函数的性质 1.md": {
+        "before_sha256": "a2bfaf9b5cb4fc2d09c554e4854accd610059846f633890dfc13aabe42e7e577",
+        "sha256": "7cd87a073ddd1ebd728ec08c9ae2effc570e96d10473485a4fdfce140a586cc9"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/3.1 函数的概念及其表示.md": {
+        "before_sha256": "9b96feae78ee79ecbe7cf15801a09a6c9c3e3255c144f095f0a94a5e50b709bc",
+        "sha256": "f5ca92b1b9c5d747060a3d4be4791546140c331c1dd871575fafcc721492a7d6"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/3.1.1 函数的概念.md": {
+        "before_sha256": "ebbb739c85561fb17647fa3daa5fd629c8a4da9f9be4714c330fba2ebb164f6c",
+        "sha256": "617b3426846d7fd4e41be0963853c344d5d94e344d1c80d701305cf447938caf"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/3.1.2 函数的表示法.md": {
+        "before_sha256": "b8f88a0673b4de5f6fe8e17dadbd22bcac243b29af425a30b20b30f6ae0a440a",
+        "sha256": "bea4ebd838b6ae4ef12cb0743a87307bb80847a966d5715b5483977110e1bf62"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/3.2.2 奇偶性.md": {
+        "before_sha256": "b61c781d5b621bf776e00d7d033da167d839e69f056478be63dba50eb3f8b43a",
+        "sha256": "4c49344bdf9ada9fc2b20ffc1444b5d411a84852064648938573db135cafbd4d"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/3.3 幂函数.md": {
+        "before_sha256": "c4c16fd7542f90c59b09c268dac45262ea8764007a24b437d9d4b3d3de5c00e0",
+        "sha256": "4fd069d714b2c19aec522ae077051ca63a9bdf3dd35e1a5dbd3fd774379c84be"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/3.4 函数的应用 一.md": {
+        "before_sha256": "18b0e04bbacdc93f37b5cbf50c5b262ba9e2e8b39e47944aa16cddea79e3fac4",
+        "sha256": "a49ae58a67e9f2c5f5a210f8958679c93d8741620538611c13be702a5efe0c21"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/专题 3 函数的性质及应用.md": {
+        "before_sha256": "fd53aa7088133bfde894539e8cbe5b3d8fa63abb869b705b3cd8bd8388b04c29",
+        "sha256": "ee3b73f93ec578dbc83d918142cdfa7bd808659a5f46b61e5c72b35c569bb888"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/第 3.1 节综合训练.md": {
+        "before_sha256": "a7173c82cb0daf29927d9a701ca3e882a323566a0c794a2b1bb231471622c8cd",
+        "sha256": "f940db8a7374518b042cfd86d717d495556f9c80cd7b35fb2225e1cf61ed0bac"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/第 3.2 节综合训练.md": {
+        "before_sha256": "004635424cfa893f4be8516793e90d951872b5348879b50fa5b141ce2d314e57",
+        "sha256": "32ed4430711c3247aa26a0dc3512598923357a346ce4acf4bd8819c630da4e6b"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/第三章素养检测.md": {
+        "before_sha256": "63c87407eb518ea967c33499e43b03e0b610fdcf21d9abbea34e229b32c4dc36",
+        "sha256": "75c9aa4d9b2cbd5c5ad01d077d52ade68a19ea5c3ebc933876236fa50a7e07ba"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/第三章高考强化.md": {
+        "before_sha256": "a8c5d830dba8667e1e6bc3499c0df149252a1f636180955572f6ff555a702c4b",
+        "sha256": "d3366cdb2585f41e05a87860611f13c55bf353d6735fa1880542accf017ec8f0"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/课时 1 函数的单调性.md": {
+        "before_sha256": "c56f5c88fb5dd4ce86bbd110b3680757db47341edc9c8b6d6824dd094dfcac9a",
+        "sha256": "b266ddddbc8ef2a76c70d5510051d72884e393075ad1f12d19e154dac5803799"
+      },
+      "Mathmap/题型/按题型分类/函数的概念与性质/课时 2 函数的最大 小 值.md": {
+        "before_sha256": "5a586bf2d282906da20a8b5e9ddb108f938f2be7c6929309e16173a49dddf154",
+        "sha256": "65be996a9271282c2e63add115a872f8477191f94ea16e64fcaba53b80b85822"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.1.1 n次方根与分数指数幂及4.1.2 无理数指数幂及其运算.md": {
+        "before_sha256": "56950ecaffc96ab72b36bb3fffb970af8ee51aec0b31d330cf9699be9dd838da",
+        "sha256": "3a24231474d99b4860428086a927ecfb35fc462169506a87f5ff3b7cc9c6c3a6"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.2.1 指数函数的概念.md": {
+        "before_sha256": "22a820d854382b16b7017e2a2fbbd2a5dbc9b1a5ec9a1ac8274885a42d57703f",
+        "sha256": "e89d5e2a7629636cac6fad122ed189c17f2921fe2229f90f43bddedb7462ea10"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.2.2 指数函数的图象和性质.md": {
+        "before_sha256": "d10141d42a87c882cbd2e3e8d66c414d42880caf46ee99aaeba17eb221fc28e7",
+        "sha256": "fe8b394a1c536d605ee6169810b0293cee8c73d7fc74060b7330462537b0ac7a"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.3 对数.md": {
+        "before_sha256": "49e99bbd68012449356e148728c4ec5bba615b6b15a90a983772caa6f0d7f9e4",
+        "sha256": "d8f8b73c24638a1f210b7d29e8ba46b24f27fc0aabc3c1aa08b97faf77de88d0"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.4.1 对数函数的概念及4.4.2 对数函数的图象和性质.md": {
+        "before_sha256": "6ba8ba52548342257d568a4f78c9b13d44b492c7a86e5c700f5b3ca0a476eb5e",
+        "sha256": "65a3940f883970ea812f448e1218831ee1d5b1e438bde8c33d1dfd06c7a4734f"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.4.3 不同函数增长的差异.md": {
+        "before_sha256": "1df8897037ac83f4b560324c89d12faa111962ce35c37d8812d2c8406f114619",
+        "sha256": "60b3e8feb7048cd9814598aea19918e92412177fe6f9bebb8a68655cc1cae318"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.5.1 函数的零点与方程的解.md": {
+        "before_sha256": "1c3ef2a4f25a6fb3cd0e8f59a216cff04efa4c474d793c3f214d372dd97b7f49",
+        "sha256": "f45d7992c6d6b5570a4a2ae467ca88be906c2b05ac09fb28cb8081a17899f68e"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.5.2 用二分法求方程的近似解.md": {
+        "before_sha256": "216653ac8023fe6e85f0671fe6f7c7490b0a836bfb3cbaf859cf35e4ee61d919",
+        "sha256": "0936e078c67035a461421c133bc7093733197361ecfe62873c2a9bb856ed8fc8"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/4.5.3 函数模型的应用.md": {
+        "before_sha256": "66ca1f37b457c98d2eb62da056efc9ed7e8649f0d1d0fb798d9de179a2a41621",
+        "sha256": "0fee77e168aa78742df71cbbbbec743f5a5a6655aae0de07dd2b579e56382761"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/专题4 指数函数 对数函数.md": {
+        "before_sha256": "256c32256bec863684e111f5d1446be6ec80380dab445839393af784aa1c0fd5",
+        "sha256": "8c1c3fc958c39ed2f367f921907e470528ce4e797096ea3478386c24628a3ae1"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/第4.1 4.2节综合训练.md": {
+        "before_sha256": "d68d3506b1af93dacead66ac81b0221253f846955a1be2eed9507f9bb22ba5a3",
+        "sha256": "93f7b352d43859cb2d8203ca4f981b64d72a014df0bfca408ac53137982fd7b8"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/第4.3 4.4节综合训练.md": {
+        "before_sha256": "ae81cf41a0667bdca737318e9b8e13f2288de0c6286353696b84b3f99acbb4c2",
+        "sha256": "4660541a4ac6dc953040d854e4f9abab484e8e30d2716ee0a4833e801967e19e"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/第4.5节综合训练.md": {
+        "before_sha256": "e7a50c3ff9ea1f633c2bd8d8c62db69f14c1884455514a300e43a37c29b6bc01",
+        "sha256": "3035fa85f772792fd9f59aefa884db6eea51c80194457e1b17fd48c63ad9264c"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/第四章素养检测.md": {
+        "before_sha256": "081e06bcc86a23666a5fb8fa96a3d466e45bac2ab42fea1aaea96bee255c83c2",
+        "sha256": "7854d76d929d97fff5842439106e6166e50832927aa87985a5d5943cbd485f21"
+      },
+      "Mathmap/题型/按题型分类/指数函数与对数函数/第四章高考强化.md": {
+        "before_sha256": "a116b7abfae05ece5925921b31f66391f5ee66048fb7baec6a4b60ce0b02929c",
+        "sha256": "6ef77b8bc955962a647ddc8bdc297da60a59069f0f751e833f61ea78f6aa879d"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 3 集合的基本运算·来源说明--G79843d8ddf7c03.md": {
+        "before_sha256": "0597cfeb9c7bdcc4d3e56b9dd1acda33e9b2452d0441ef8f5b4b2d51590271e1",
+        "sha256": "618f045a59f55468f39bb67fc2a437987ad8d09db185113b3dbc7bef93f9cbed"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1 4 1 充分条件与必要条件 ① 1 4 2 充要条件·来源说明--Gb14ec0b892aed7.md": {
+        "before_sha256": "e709609221ef8f60df0006bc8a485cd352cf965245a894a04a9670392c3440bf",
+        "sha256": "54c0735f4fdfc58c6e0ffce5090706dd376aeac1ebbb6f344b24082e02155a6a"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_4_充分条件与必要条件·来源说明--G27568cf0aaeb1f.md": {
+        "before_sha256": "e2eadd03581cd6d86d51f4c196bf6a8755303e2bc368a089e73940a7953ff1b6",
+        "sha256": "f2a797d6a8dd7827579513442a94391389496c02ce3d8f431cca18b77b4b10a2"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/1_5_全称量词与存在量词·来源说明--Gdba36b1d6b01ff.md": {
+        "before_sha256": "5f64f5ce4c81d8f28dc09fdf0ce360bc4b0f7e1d010f090c460788b43f9ded1d",
+        "sha256": "220195e74eb17922ca01da675321096a62f794ec98733fd8b4c9ecbdb6fdde8d"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 1 等式性质与不等式性质·来源说明--Gd285526ed3f197.md": {
+        "before_sha256": "79483ab9ab7b827056ee240be899ea32176343e2e9908fa96ebc6d1ce79b1184",
+        "sha256": "7f745a51a69098187c83bbafd4290f93d9e421e1f5006ee38eaa54af7bb859c1"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/2 2 基本不等式·来源说明--G8b862dabb45825.md": {
+        "before_sha256": "ed292c8e890a2fe55c8f627a61554ba007ac71b0a8eb8199490ab4be5280d10d",
+        "sha256": "298d4f0f31b597d82f749fd13569951ecb5f2fafffe73633100872180e9d33eb"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 1 1 函数的概念·来源说明--G098b87bbf20d72.md": {
+        "before_sha256": "e99d059a607f5f4e2a4d4f8c961009a2ef0eb0a3e1041d5e62559bd8135454d7",
+        "sha256": "4add29b26c606a47cd76e6a17d09d61a8b983846ca90dde94f64ded86c56f143"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3 4 函数的应用 一 ·来源说明--Gf29a5d481a3309.md": {
+        "before_sha256": "43c296ee0c708420511ac4fbaaffcecf01340d126eec3a63112f4acbc0caab12",
+        "sha256": "255a25483d0503da67b0a536b998c5dfca7fd5df0cb4fdddb003ac9b3b0ab773"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/3_2_1_单调性与最大_小_值·来源说明--G9e161d026e0fdd.md": {
+        "before_sha256": "e48dadce1e06a6b5a63c3d76bd6c70d8e04d1ed29cc1bd362268175c3e56c25b",
+        "sha256": "3b8d7d06356d96cc6fc7d9d516a1dde2b122893789d7f1d8be248446fccc5ff0"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 1 1 n次方根与分数指数幂及4 1 2 无理数指数幂及其运算·来源说明--G7566d1b4b39af5.md": {
+        "before_sha256": "b36fa3a6b46bbcc8e6d9d1ebc24d9f94410a6260cf9d5ae777bb6a80be8a3a76",
+        "sha256": "b572d90a7634a9daa46d628e56282c002b75b485d64df4f43a1897e25e66dcf4"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 2 2 指数函数的图象和性质·来源说明--Gfef83f2d3863ce.md": {
+        "before_sha256": "e88e797df5fa1d29d695f750170b1461e757f0b9fa9a35f475e2482eec66691f",
+        "sha256": "711b1901a64c7de665ae41053317368fe105c2dd89155a69c65d6f257771ea4a"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 3 对数·来源说明--G94ec412bd610a0.md": {
+        "before_sha256": "97706f92b3bfc3d39d2baeccea6d359fe792d31919d3062ed4fcb889c4430e15",
+        "sha256": "059f0d99dfa5802d6d1b6e94fe9cfa23a6f07574bb1ca19f29da30612607c068"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 4 1 对数函数的概念及4 4 2 对数函数的图象和性质·来源说明--G0527a5557e98c2.md": {
+        "before_sha256": "9169e319388454dd85d97010c115ae69a0bf1569cca7cb758be1b8b5a05ad20a",
+        "sha256": "48d307c340c87284b3b31871f1f25af18b5e957d891bac567fd8c833dc5ec3fe"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 1 函数的零点与方程的解·来源说明--G5d256f6865f43a.md": {
+        "before_sha256": "002d4ea1281d5913f354505364544b22b656284cdead6d5f81d0fddec1fbc21a",
+        "sha256": "d91de452d8014cec459ef4a38cbae05a266bdc66b3aabb2a855f221e98e4a4ec"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4 5 2 用二分法求方程的近似解·来源说明--Gcdaaec70b8a272.md": {
+        "before_sha256": "e62d43c5bd8b1d9e225de57b3d90bde1b822775308ce15976d0033d6958bcd5d",
+        "sha256": "524da49ba79fbf505df461639313148c517493b6b989c7851765bd3839e7c2dd"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/4_5_函数的应用_二_·来源说明--G000d2dae7c1007.md": {
+        "before_sha256": "7f3ae356c54c5d4e05fde732f59bc45db0e015179f781b9ace305da854ba78ed",
+        "sha256": "436af3c271add1cf253ccda2570b97f81b9b26f6ed034cf5b52f6a4e421c7c5f"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 1 1 任意角·来源说明--G13462374d8470e.md": {
+        "before_sha256": "0d7c3d4697e2efc04b6b69889da5e435fc81330366a4872bae711a04048988ff",
+        "sha256": "30defba4092ca9aa247586dbe8ebcb35bd76401a257e4e8a134d4b71fe0a986d"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 3 诱导公式·来源说明--G54bdf470c2b795.md": {
+        "before_sha256": "b716abb17ac7b402947bc83a7c29a77cf495b6a3c4b0bcf07383914b6a19c6f5",
+        "sha256": "3e520d7f567701fcec465e68d6d727f2338af8d8306225fb7efe1ce2c8913aa1"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 4 1 正弦函数 余弦函数的图象·来源说明--Gada8707800e678.md": {
+        "before_sha256": "d6548fe9edc25417d349ac0fd09ce9f744c6e1d53da5aa95d8f78091a6fa1617",
+        "sha256": "942c5ec54f05e0c1f73e9c80a09bfaeacc79f187b6d9afd3e0f9082310db0c99"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/5 6 1 匀速圆周运动的数学模型及5 6 2 函数 y   A ·来源说明--G213827f65f5daf.md": {
+        "before_sha256": "a3039f351a99833bceab4fbee455c8c3ca0b3b569925d3d50bd8a1a7d2f3a2ae",
+        "sha256": "7e1d2fe21e3023e5c155f67bb9a1a01f16b9c74c59837d88cfe15ee192f49f34"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/index·来源说明--Gba62184cbd0322.md": {
+        "before_sha256": "30125529607415f87053c24f6956d88af8f0780c19da1335d4e269c0c24b706b",
+        "sha256": "662f3d562583cf880d0102994717c837f4a1d0e63c54dd4cc162276ceb05c4f9"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G4f91b3dcd3938a.md": {
+        "before_sha256": "58d201dab3d8cb285137c55a8417451911d3eeae701bef5bc8b7141bfbaccf45",
+        "sha256": "78548aa3399b2a74663985afc9775e2cc3e58a2f0908e4ef737dfef62180aaae"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专练2 开放题专练·来源说明--G06c042d7cfe48f.md": {
+        "before_sha256": "edccf93654f7d72295de17d6338b65da0b087ab88a28e510cf1eb68173633555",
+        "sha256": "63c4664534f701e0ac9611bb8cc30ccfcbdc0f85c55bbbd035d3ac8b4894bdc5"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 2 利用基本不等式求最值·来源说明--G2d8c69a4ef497a.md": {
+        "before_sha256": "3836a288c0e26603299e9996bcc8dc184cb8a521e0649015ff860692af192238",
+        "sha256": "bfd8b0d5a03de8f6a83b644f20f028085199eb3584a2b6439144357bde6c6353"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题 3 函数的性质及应用·来源说明--G25ef524ea2ea5c.md": {
+        "before_sha256": "aa9810ec8c00c2c271ddd91db59ce15ffc783be78270b6caa814e943a2976b2a",
+        "sha256": "7c754d5472d867bf084491fcdcb993c9811ab46e7250eadeed8bf3b47be3e9ca"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/专题6 求 omega 的值或取值范围·来源说明--Gf4bfc82e5978c2.md": {
+        "before_sha256": "3b71b1d192fcdc9915fe9a8998dc610c7fec8e16321c9628627acf725c597355",
+        "sha256": "08b303d3899df85fc57e7e25e57eb2dbe5084351f97f4a6bf3b9dc076441934b"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/第三章素养检测·来源说明--Geff4cd6b65e92d.md": {
+        "before_sha256": "692daeeb760266aa07576ba5d88d78115d4de996ec707218e27fc28efd7cbad8",
+        "sha256": "5dd4cb83d2c1ada72117d30f3223887b61ce9dade122607a8ef5865b5a044036"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-必修第一册-2027/说明/课时1 正弦函数 余弦函数的性质 1 ·来源说明--Gac0cc993919c91.md": {
+        "before_sha256": "a8a4cd55d893b46e0a98236ed8bf2c285731dfce994300833618d4f09618f5fc",
+        "sha256": "636012cf79ba1e8a20d172c84eaa6634d82513971912ef072ee8efb7721b0853"
+      },
+      "Mathmap/题型/按题型分类/综合训练/集合函数与三角/专练1 新定义 新情境专练.md": {
+        "before_sha256": "f36d261f7f7e3cef6dde83fcb9a23d24f1c565fa36692f029736cd7ada4762a6",
+        "sha256": "2214fab4e2f0a410129a3db3f3e7d847d8557c37da10a38dde46499b98e5107f"
+      },
+      "Mathmap/题型/按题型分类/综合训练/集合函数与三角/专练2 开放题专练.md": {
+        "before_sha256": "bb88d0e176dab1fe9a4db1574fb74b263b1399d56f216b667b43ce639682e4dc",
+        "sha256": "9df0f0c638c8becb79210987f26b93691814a77269c2faf36cbcd77484a30d8f"
+      },
+      "Mathmap/题型/按题型分类/综合训练/集合函数与三角/模块综合测试.md": {
+        "before_sha256": "6ec1529ec04198f42dae571998b932a9b6969e2bad4cc2aea2979f57a5cc0cc1",
+        "sha256": "cb1ddff7619eeae19334912051b1cfd68076d6fd21b2e61d89c9d766348a7c3e"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/1.1 集合的概念.md": {
+        "before_sha256": "e07aead0d1e4e380764f82843d1e304c2e6e4c5bd17ab49a4588a68b3d73bf69",
+        "sha256": "e51b33f876c433059cbb117e9675396485206d9db00f85e3c17de79c214f034c"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/1.2 集合间的基本关系.md": {
+        "before_sha256": "26a8ccbbd21973b3e265a449ec3160bc8933f811ae32c786eddb517b82027704",
+        "sha256": "9841271508292b3288e1338bf390d0cb182a7dbc615061eaa754e8206346b5b1"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/1.3 集合的基本运算.md": {
+        "before_sha256": "9a6802d5aac554106f7485c77cf56366107d78512c9477ce4364e8bd619c3021",
+        "sha256": "a6258ec0cb55653163e68adb1aeb64b5852bc074e45e558a23fa9687188d0b67"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/1.4.1 充分条件与必要条件 ① 1.4.2 充要条件.md": {
+        "before_sha256": "1eaf6a87d2ec5dce16b94116ea35a575a0cafd1f16463144c6be7874334ec62d",
+        "sha256": "b08d628c5e9e78f3bd8016cbe74c871ab8c5be8da5a0db940a4932077db87ca1"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/1.5.1 全称量词与存在量词.md": {
+        "before_sha256": "cf35643c342948c4ad18ad6d6d78581cc9d4a98a0a7911cc31416443527f4202",
+        "sha256": "cda0b84d97e6a9286031f0139cf0fc091b9f6330ab2bbddd7d446eefbc7811ed"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/1.5.2 全称量词命题和存在量词命题的否定.md": {
+        "before_sha256": "bf55d9fccf0dc42e60f93b1ab7b110beecc6a31e9d6afaedeb47c09413e7efaa",
+        "sha256": "ca096b73df35ce272c0effb2646e5b9023a86bcd40e24c58f52581c34eb5741a"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/专题 1 集合的综合问题.md": {
+        "before_sha256": "32e882ab51b59eb163464f818a34b1a24cf7b0fe1c130f21d6cdeeac71aa3f7e",
+        "sha256": "efec134ad13cabdb86e1855bada6cd26768d3fbbd86aea1a1f0b9ca7f0f134ff"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/第 1.1.1.3 节综合训练.md": {
+        "before_sha256": "fdabe401c2fa44a122879c77debde3b75cc652154d78149675f92baf80c714a2",
+        "sha256": "679199cf4f3cb1b174ed168a0519682e5e057eed3cfe6414ffc260c97edb94f4"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/第 1.4 节综合训练.md": {
+        "before_sha256": "4616f6c604dbf95606a99fa0bd21d23abe1106efbb7b54160fafaef73ffc7711",
+        "sha256": "4693a32647d046d32dd1ace28bd52173b6c46042d382fd8da6fa9dc37aa9a86a"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/第 1.5 节综合训练.md": {
+        "before_sha256": "45b0c6755898a5e12265067fab7904a7b0e8b643481ed8b65ec6260922fb7a2c",
+        "sha256": "c485476bc9a1e935a0637b9267e0d54ad381e515545760bb74cb6a0ec4283a93"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/第一章素养检测.md": {
+        "before_sha256": "debd641922e77bb8ca6b3c72c1f50a90a878e955ba8655310000f08b69dd90fd",
+        "sha256": "da0e4c1abb0cd43d9593c4da1330cec596771cb34d5f304cde77f5cc84cf3e06"
+      },
+      "Mathmap/题型/按题型分类/集合与常用逻辑用语/第一章高考强化.md": {
+        "before_sha256": "341d3fc978dd877bc175b28dcb729f5ad911242e5badc3bef4387cdd57795048",
+        "sha256": "2bbefd184046df8fc79d31cea36e418ee90f23758740bf589a8aad844df73c6c"
+      }
+    },
+    "version": 1
+  },
   "organization_targets": {
     "org-00d4d649df52e913": [
       "Mathmap/题型/按题型分类/指数函数与对数函数/4.5.1 函数的零点与方程的解.md"

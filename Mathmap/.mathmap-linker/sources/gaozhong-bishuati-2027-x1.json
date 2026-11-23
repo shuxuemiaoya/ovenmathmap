@@ -43308,6 +43308,315 @@
     "reused_knowledge": 0,
     "types": 0
   },
+  "organization_presentation": {
+    "pages": {
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/3.1.1 椭圆及其标准方程.md": {
+        "before_sha256": "e208703f1997f28119d9b452d28de4fd642e6ba153baaa1b8b859e448c768db0",
+        "sha256": "ea67a39c4342a66d42378009e3f77714ec66134717901928d9c848c185ffd7f9"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/3.2.1 双曲线及其标准方程.md": {
+        "before_sha256": "f4c78fd133b39a1a2f2ed96c60d54c66f1568b325aa6e6bfbd1d10e2fecc92ea",
+        "sha256": "81f175dc016e047dbc2b7d300b519a63df837db721eca87a8c826de4a4cac9cc"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/3.3.1 抛物线及其标准方程.md": {
+        "before_sha256": "f5c5d7bc10cdc9fb98beba3a9ed02ebdf07266f50b12dd48f74f5361adad7fa7",
+        "sha256": "e31d62059a2cfc37d7e59a24f3c22520dbd576f6d29642842bbe24e89b570c01"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/3.3.2 抛物线的简单几何性质.md": {
+        "before_sha256": "b2c270ab5099ea82cff754ee71f6823bbf4099fc0db010da5ad2efcec9b03838",
+        "sha256": "94100efec12999ad1ccd5da80a7f075cab674b02f7a76c9dd576afad5778a510"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/专题5 求离心率的值或取值范围.md": {
+        "before_sha256": "429ebdb0b095b284e492d3290ee0c3a77151b21181aa8a35bb0a136b63588604",
+        "sha256": "c788ddd4ff3ec8561c0d624f4e086482b7bd8d767cf15cb28c0e87bb07d43f20"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/专题6 圆锥曲线中的中点弦 对称问题.md": {
+        "before_sha256": "3de41a340c7ec66c2af7dcdf50a4211e2f4e2925162fc478e2d04619d3570b1b",
+        "sha256": "32419eac77d228b831ae316670753a2fabaf6c4ce56da51fa85efeea1e7180b9"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/专题7 圆锥曲线中的范围 最值问题.md": {
+        "before_sha256": "fc514dc0989a90e645ac8dc7f6c332076c9e6979c2778ab74147c34b6bedcb0b",
+        "sha256": "d1806f6610d0507c57c69a6acb3398a6a78406917806db9757e2abf8f1ddc635"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/专题8 圆锥曲线中的定点 定值问题.md": {
+        "before_sha256": "55ae7f759201320b1265a743165a1b04b6a6839f50ffdc3228bcc10aee2562e1",
+        "sha256": "a88b10f6e6a9ce23edcd634c46ab09666fa77f70bcc639d8ecfc4b63bab5073f"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/专题9 圆锥曲线中的存在 探索性问题.md": {
+        "before_sha256": "3b89cee8177e58cefb9b87286d97be3221d190c6c3476f2dc2e93991b74202a8",
+        "sha256": "50a526264ced834fb9c157c4e1256f072d626845535efd752ff87814028db21b"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/第3.1节综合训练.md": {
+        "before_sha256": "2bee02303003fe8a118a875c87b8ade02b7b06df7ec73e3ddd544cf56c4c5b3b",
+        "sha256": "b420354c3822e001be3c862aa9a336edb30581601643236fa8d57bbe307f3bf5"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/第3.2节综合训练.md": {
+        "before_sha256": "d0885055902ad18f5e7466b820c3a58af12d206f2ecf7df51d309df4dfc35890",
+        "sha256": "c4588e993860a6277d53ba157cf7a8734f9d42d8c30b1166c3d50d7e3ce121d1"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/第3.3节综合训练.md": {
+        "before_sha256": "d217d343ec1ade80c6d2c2c313443de2ad011a50c699132349d6a0726b2c2f3c",
+        "sha256": "54be39e8589677d5bc2cdeb70cf4217d6bba038128f6e66ca4ae9c783a24f091"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/第三章素养检测.md": {
+        "before_sha256": "c6bdae117afea51ba6fb9757ee1833e9bea2b313ec6061d92328ec6d80f9b7db",
+        "sha256": "ac22f04a2ae8460e23c61f41313f08814bc4c7e9fb44e00e5153044ae2fc6633"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/第三章高考强化.md": {
+        "before_sha256": "88bfdf15e980665ea7b604fe8b0a1aa39f935ad8baa93249fbd2991dc9954f8b",
+        "sha256": "2ed0f220909877e0ba7ea505183a93bdeb3e7fed351d49b59c819780494a0df4"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/课时1 双曲线的简单几何性质.md": {
+        "before_sha256": "30de7db5cf6565186f2debd9baf8d5009475f6bffcde4a28263dc39cf144840c",
+        "sha256": "00201460db8aa83ae4d0a6329dfa0de6872019d318857e33f62452c30696984d"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/课时1 椭圆的简单几何性质.md": {
+        "before_sha256": "e066e683f5e86017face32faa61a71e006321950ef8d773b656e955f59a5b9f6",
+        "sha256": "56c857cf390c35ec58d304fcb4bee3d764d71c0eaf5a5d16038997c766df5eec"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/课时2 直线与双曲线的位置关系.md": {
+        "before_sha256": "8ee2f242b3207a627412d7d00eb7b5f2c527a3257b92b86e9dceac905cefd9a3",
+        "sha256": "4bd4477a7661a18ba0c2876703281ac0060c87c77641ead9894b5366ff5177ea"
+      },
+      "Mathmap/题型/按题型分类/圆锥曲线/方程/课时2 直线与椭圆的位置关系.md": {
+        "before_sha256": "b3db65b90b36bd49593a4095b4bb1ab736894ace0f24a856139c07aa55d68814",
+        "sha256": "097e747acdcafaf71117168a3ef1764b8a85b66c7bf58bc71f81640328bd1cd1"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.1.1 倾斜角与斜率及两条直线平行和垂直的判定.md": {
+        "before_sha256": "4c22c8dd311b8779163dc677b8bf2d9e435524909721187ccfda08502ea6caa5",
+        "sha256": "0406fe688c3f75287c2b147a604e1998c4ef1153963792ef75cf1eb57abd2d04"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.2.1 直线的点斜式方程.md": {
+        "before_sha256": "3c092ece00080d48b056a16b78c64176546d31cdb8a0d0d1adb591baf5a9d331",
+        "sha256": "25adff658c1c07edf3f0992be6e95912cd0ecaf053dfe0fc191863e0b4915f7f"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.2.2 直线的两点式方程.md": {
+        "before_sha256": "fe951ecede66d38fb0548cbe3a858d1e3585bffae947fc5acbea9ef40d463332",
+        "sha256": "7bd5355079149ea6f83d232cd93af94e147a4fc4fedc40616944e68ded60a5a3"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.2.3 直线的一般式方程.md": {
+        "before_sha256": "0d0c01a2873fc61c1ae53e40830723fa4462dbb4fb4927adeeccc48a64d6c0a8",
+        "sha256": "97e77ce244eda9329b2926a2c3d34fe48448a65fe241a6c986048c23102b427a"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.3.1 两条直线的交点坐标.md": {
+        "before_sha256": "2eb4c3f54b36f78e7a6e2ded1078c1a1f47f7b291b87f1569eb7472a0deb4f3f",
+        "sha256": "691615485885bc974e6e27fb387e6d68873044103961237231e3985e8bc341a7"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.3.2 两点间的距离公式.md": {
+        "before_sha256": "8e6ea9d38e424fda13641817a6f144d9c4c0b45ca70f213d08c502d1a459f210",
+        "sha256": "1db169f5cd75f3b35b295ad6da0c79525069c95f23181d54bade2d0234499d2f"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.3.3 点到直线的距离公式 ③ 2.3.4 两条平行直线间的距.md": {
+        "before_sha256": "97c0f97cebaf862e9e8326f78481f5471423ce4fd2affecce99efbc4b621ef5d",
+        "sha256": "f3953360e5adc2462a6f97a9cc8f1bea3ec36d2c8400e5eeac32b9a0411e8651"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.4.1 圆的标准方程.md": {
+        "before_sha256": "7a31cb6334ba3780fe862357f9ac3a67a949831733165ac1c9e6e690a90fbbab",
+        "sha256": "a82aea287b066fbc6b5da8bcaa5fa0b2e2883e00ff3159dd716ef2c02fa57996"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.4.2 圆的一般方程.md": {
+        "before_sha256": "5441e5ab3cfcf9c4449b3a11eab710d3ec678fb0ebd40b5a7ff67c50bd8950d8",
+        "sha256": "803fbdb262c65709af0b13662abcaa973a62cf06da90e838a6a7095a3f7f2bf6"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.5.1 直线与圆的位置关系.md": {
+        "before_sha256": "7ee1295bd1c3be10d2b0667c71520a402169170c8da5f9cc9910c447cdc65bd4",
+        "sha256": "75f9b6ab0df0a73a2ac09ccac8af47bba30e605332d435b90a5ff65592870c98"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/2.5.2 圆与圆的位置关系.md": {
+        "before_sha256": "7dcae72709aa8745a224d631e7cbff05545eef9a15e0b31b5e6aad3e2f3d13bd",
+        "sha256": "0891886905249994c522f49f6d7d18c7fae9ab7db1094be77dca40550cd951b8"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/专题2 与直线有关的对称问题.md": {
+        "before_sha256": "9602603ce151e856cef482818b91efec6ecde96a3c202f86f0430cf02495b967",
+        "sha256": "75fa3721b936da67a57c74e2cabd11d6dd27f76b15f0bf5b9574dcb48d7590f5"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/专题3 与直线有关的最值问题.md": {
+        "before_sha256": "694d29585640d37b3ca1807b05a7c7cf491b9f7791cac2c233357116b44cdaa7",
+        "sha256": "14038a667b7120d69abbf24ca548870620f838955a7465d574786edca2a25a4e"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/专题4 与圆有关的轨迹问题.md": {
+        "before_sha256": "9955c701ee9bd62d8282e530927b35aaea6dc16f86fa07f71c6dd8ce7dd680dc",
+        "sha256": "c95d89406eca8875034de6e85d8d3f90d3515de55b927526e44eb96d90e2d00a"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第2.1节综合训练.md": {
+        "before_sha256": "8ab5a77e3b1117a3eb31fb3ca11474f05dd68dd74f4579e6f52e7737ca9962f4",
+        "sha256": "b5fe617417396a3a727082eaa40bc2e352351e609fe430ac227d430edad92535"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第2.2节综合训练.md": {
+        "before_sha256": "a0ae0b2d9a41060677a96da978d55a0fe5e4c829f256d7a2bc01c18d7596355d",
+        "sha256": "946ab5c6c1b9967d661bcd9147df9aed5e4e2f8c8856aa4282237a7e14da7bfd"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第2.3节综合训练.md": {
+        "before_sha256": "9ddeb661d535fd1d103e00fbd359a63f9bab7e30e5a4970a76ecaa65d7c901ea",
+        "sha256": "a9b3bf1ab3691487b3714f57b95b2ece2385e8222435d098e7fc6b172f0d394f"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第2.4节综合训练.md": {
+        "before_sha256": "9bb14ef383456c9b9467563f271a4d12943e00978e335e4a9a88fa38caf85adc",
+        "sha256": "cc31c9e3e25639569e902ce70bd30a28182c409d5b447d013c8d610ef5b2e3db"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第2.5节综合训练.md": {
+        "before_sha256": "a85bb397d242906e316df5c4edb8a64ec2eac1808ab5a68f9dfb06bc1c412a34",
+        "sha256": "1cc11062a6a1ba55c25ceadebc01a91368db4f773e29ea57914b5864db09c0d9"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第二章素养检测.md": {
+        "before_sha256": "edfe7525c130c8ce20a5db6691d519c977f164c5bb43c375ada7a8f54623e0fe",
+        "sha256": "3d1de074f28ad6cf7e155a46784fb163d99a2963e12ea3cf14e4791527fb0e4f"
+      },
+      "Mathmap/题型/按题型分类/直线和圆的方程/第二章高考强化.md": {
+        "before_sha256": "29007bc771c34c467333ec3c8e9ec70bb37a229f58b9081a3ffd19f8ffc61338",
+        "sha256": "e5ab9f55e8422c370634f1095b7359914967cdcbbecb63eaf37c2cf0bc1e4f6a"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/1.1.1 空间向量及其线性运算.md": {
+        "before_sha256": "87eeb3ddbc163370b54268db2d03b733dd964ec828a352b15a3401e1b9a9a386",
+        "sha256": "93bbfc2bd2396f7a5085bf6691db7dc62010f993131a75b62f937b6bd76d4a03"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/1.1.2 空间向量的数量积运算.md": {
+        "before_sha256": "6360cc7b876679ac44aa686b04e896fd0c7d0b658351e49ed5a2ec6f08acea20",
+        "sha256": "a72de9df80797ffe169ed0b05b4e988a44cb6c1daf6725f85f50b98c298d718b"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/1.2 空间向量基本定理.md": {
+        "before_sha256": "3576db1dfc359c4b54b154fc3347794ec92796908bb25fbb14c5a4d153a8b563",
+        "sha256": "1920c39a4de4cf522f4ea3f8134fc30853e2aecf728e7520e132d63ead7d15af"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/1.3.1 空间直角坐标系与空间向量运算的坐标表示.md": {
+        "before_sha256": "6683b8f649ca7e4534d528f610b1a4e183e41767d3c8c0ecf5dc0cbe845351c1",
+        "sha256": "f9812372a713f16e3b361226ca7320fe4e2df10009771a8f1269ca0d8c23626a"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/专题1 空间中的动点问题.md": {
+        "before_sha256": "be75f04e206790820b3cc03f7e2dfefeee155e9673f4b72e51ffaa2713887b7d",
+        "sha256": "ef1851f52620c431e42d95245513ca30272029240b700929a220a20b6e50390c"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/第1.1.1.3节综合训练.md": {
+        "before_sha256": "fde7c9331e30d32e76e890012f0561bb16c41342a001fe398a664f48eeb129e4",
+        "sha256": "94d48ac165ef33f54d361f4de122c03fe6e7df258ba605c16dd08aa0c6fd5961"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/第1.4节综合训练.md": {
+        "before_sha256": "5949f2c5720963fe00411ad297be8b68a6498069d6e47bdac347f4ea4bee5493",
+        "sha256": "b9d9db29df9804cf8b62d750c7478c1ab7ea2be202f65f2104815c5ef7afd3a3"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/第一章素养检测.md": {
+        "before_sha256": "7a8eba0f28e3331446f9f0815a9af6a385db1b8d5114d6b6e9b178d65c36f686",
+        "sha256": "f33877189cf837dc95a522d3100c583f02d601da0ba7a124c514fdd9c9cd937e"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/第一章高考强化.md": {
+        "before_sha256": "dc8c2b0480828254e0b359870254dc9fe6ae0e0cad2e7a411e95df5ce612c08b",
+        "sha256": "ceb1463067f81ea90953d96e897ac4aaea23bf9f7b1b05ca506f2b580dcd917b"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/课时1 用空间向量研究距离问题.md": {
+        "before_sha256": "fb26cfbf384283d1089dc9d8e1f847ea1d631bb96082cca2b827d59df2fc66b4",
+        "sha256": "e347f3d27f6308aef212da22eba0c84e3491b9a011277073e11bc812c0d2a386"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/课时1 空间中点 直线和平面的向量表示.md": {
+        "before_sha256": "2f3743abc262767cf14bceaa1c4ff2f87fee6965efd56c28b7d630e403a1baee",
+        "sha256": "137f913a53ef787d89dc2b7d956f3d0043eda4f970790910be02260d73db39d0"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/课时2 用空间向量研究夹角问题.md": {
+        "before_sha256": "19c0449d99a8fb076d383626e774d02c6da520918f9ad8d5ad91e482389c8a42",
+        "sha256": "215ca33e2231c452f0b73d0b1e0b6b7c3dfaed56331c9442bbf8a16decfac1f0"
+      },
+      "Mathmap/题型/按题型分类/空间向量与立体几何/课时2 空间线面位置关系的判定.md": {
+        "before_sha256": "70d615ade8d1a6fd4a10bff42caf04d2249e0106463b422ba215f5b189a7c597",
+        "sha256": "1366332e462721d45a143222d58f78f35bbadbca95714b51994486e09d64520c"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/1 1 1 空间向量及其线性运算·来源说明--G5c328a6571a3c9.md": {
+        "before_sha256": "9275d1ffbe79bee1d075c5dc26effa0807f5fe2cf8b16b14795c7e16e392ff27",
+        "sha256": "ff864ca36355864b2a39069e616d6edb9c4d9685a4d7ed4f61cb8fa03e984a25"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/1 3 1 空间直角坐标系与空间向量运算的坐标表示·来源说明--Gb0617bfa5521c8.md": {
+        "before_sha256": "feac58f08e7c4763cea3d23216468a60ae1d03650a26b7e97494d3331d31a8bd",
+        "sha256": "eec8a15ba8123adae6f7a6f1f2612ef1bb3599e890d29aeaff8c562e82898d1c"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/1_4_1_用空间向量研究直线_平面的位置关系·来源说明--G035e106a654ed1.md": {
+        "before_sha256": "0dc01d11732857c351289af02e293a889c2460b185e769c8a62763d7249ecb76",
+        "sha256": "9a1711d9fd035aa25b8f2e58a3671e340797eacb453c89868e2654c625c36352"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/1_4_2_用空间向量研究距离_夹角问题·来源说明--Gb4ce7907112119.md": {
+        "before_sha256": "21accc750ca82d41f462cfbe7236156645ee3efc61db4ba12e1651a4191cdd6e",
+        "sha256": "0f5d19e82332948ae73b6eb311534c8d679f1c787d0f5c3e56dde5ada3a73588"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/2 1 1 倾斜角与斜率及两条直线平行和垂直的判定·来源说明--G0a575f303efa70.md": {
+        "before_sha256": "90db9fffb78eb8503db05dd5617bc9268fbd67cb038a837607d0dda7528c7f6d",
+        "sha256": "c823566bebf0704ff094b8fe04dca1879ba0270694d9423ec95eb98b32cc5bd3"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/2_2_直线的方程·来源说明--Ga569a29f2e21e0.md": {
+        "before_sha256": "3c95c0752b3026d14b9a318bc9ef525a1b17bd718ae4a18933c0372b86701d06",
+        "sha256": "5ff0416f97c90212b6665ef1dbbcdc709818963a902e606a9370bba1724fa7ed"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/2_3_直线的交点坐标与距离公式·来源说明--Gb8aa0ad0d08edf.md": {
+        "before_sha256": "4070a39707195f5434bd185cc926db7427eadc17f00a4c780b7d135d691d7c73",
+        "sha256": "2dedd013ff72c6cd9dab1fb6d4ca14389b192948d4050c58a0e4b5aa77b5fe7e"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/2_4_圆的方程·来源说明--G17dbd4e10fa155.md": {
+        "before_sha256": "538979e6b02d0d248b5b7ef62771567a04f543c373f6e899a92c26027771daae",
+        "sha256": "1953f37543f575aea13e12e5b24525f8f24e2f2839b4a9f7dca3d8016d0f46d7"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/2_5_直线与圆_圆与圆的位置关系·来源说明--G726296a82183df.md": {
+        "before_sha256": "a456d1c6e9934fbfd722fe94e150bd67ddc91e6a2ef12b4bda3a41d190c649c3",
+        "sha256": "a06509a574c7e4f95acc2d43ff1f44982b6b417f701b070e8ff1939df4d2d286"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/3 1 1 椭圆及其标准方程·来源说明--G13b8b791e72d7f.md": {
+        "before_sha256": "49a4a591feec584ea14e53989dae64e61050cded698268a6300464e3f2bb4feb",
+        "sha256": "3679bdb3e13de7f79d43697ede5d7c3c42efb4f3eaba4dc6502c6309310fadc4"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/3 2 1 双曲线及其标准方程·来源说明--Ge3ce0fe3f61e50.md": {
+        "before_sha256": "e2083d1da83bb4388225667d5f1fad16327d9293338d765250db3dc7fd9513f3",
+        "sha256": "8640725771456d998525287dd07861a34f3f2d9e568998861757d2b695d9add3"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/3_1_2_椭圆的简单几何性质·来源说明--G7b607a3b797e2a.md": {
+        "before_sha256": "ca490679d22e452608cd08d6f7571656a0c88596772006f3b61b895e527dec66",
+        "sha256": "1a87ca67e2e2016e5e96fa9b39484fc5f499fb516b047b0865d257b8cfb345e4"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/3_2_2_双曲线的简单几何性质·来源说明--Gb21988f9fa23e0.md": {
+        "before_sha256": "cc26e16ff7fd85aab3ecf2f32ccbddbd4a62b9f11c8183c5f96f1df96ad613b5",
+        "sha256": "5ab8ff3d4c53a35c08a8fe1e26d6bdbb5fb2b7e6c4dd0415e119333b71ff6d66"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/3_3_抛物线·来源说明--G01133e99c99d16.md": {
+        "before_sha256": "f4dcda5d8636b8f625a9682227932e768a6707266c7c1db7882197ee125b249d",
+        "sha256": "ba4cd132e5ae1d55d32d3c91e2dd772d44103fad79cb55952ecabcd9299d9fab"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/index·来源说明--G35cf1ff8ec0593.md": {
+        "before_sha256": "de2e1298668f7efdf2d31a83d3c873097e7d57a2a3d642c401397abb6db93bb4",
+        "sha256": "0183c767dca324aa517df615a9e29de5ec562958eb6bad74843ce46617d9fe79"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/专练1 新定义 新情境专练·来源说明--G72f35a4d5f5a7a.md": {
+        "before_sha256": "01b10feab8aea7b143e1d4ac5c05bdf67d8b599db7abff28b79938f67ef1e987",
+        "sha256": "a24cd6236e01ce2a7d7987c5ead9ccbd503b42747281b50745f23f5f089afd51"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/专题6 圆锥曲线中的中点弦 对称问题·来源说明--Ga0a63826d0bd23.md": {
+        "before_sha256": "f0005afddd3b75764ad0ca8ec65d2f202439906a1a889def2049c79fe5c9b92c",
+        "sha256": "9e2eee7e909b38ccbd51fcf686f34adabbc0998cd9619cb1146be003c92408fe"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/第三章素养检测·来源说明--Ge7153fbd941d7f.md": {
+        "before_sha256": "10f90c5bd515673dade2462cde3dcc9e4ecbce043a879417f90f90e146ead0d3",
+        "sha256": "3c876fd8ed784ce0a2378d84ba3c8611f4c303dd65e73a5a8ebc7cd474e106ce"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/课时1 用空间向量研究距离问题·来源说明--G8b0c838891d658.md": {
+        "before_sha256": "4e4e3dbd2723ba0dea16d371d1284f2992ba26a30ca3a628d38ef08899bd1047",
+        "sha256": "c7aae4771e72ff76c39b40ee22e115d21500add5006abb8a0ed357b63c133322"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/课时2 用空间向量研究夹角问题·来源说明--Gf2fdaf3cf12d95.md": {
+        "before_sha256": "20746d9b4af535cf9034ea60c8e9743cc30ba1ad675c0997bc252fc81dd96ba9",
+        "sha256": "198c4992a38d3528d2066de365b115860f0dc45c4a540b1c27caa74d2d5fe146"
+      },
+      "Mathmap/题型/按题型分类/综合训练/来源说明/必刷题-选择性必修第一册-2027/说明/课时2 直线与双曲线的位置关系·来源说明--G6c5da7b8f35160.md": {
+        "before_sha256": "1e7fc1657f15be0124fa8110aed25006a430066a81638c74b01c5f27eb8463b2",
+        "sha256": "aac555050ade3d2a78f434ed2661f562ba53e4d6455d8d65c843accfb1985b7c"
+      },
+      "Mathmap/题型/按题型分类/综合训练/空间向量与解析几何/专练1 新定义 新情境专练.md": {
+        "before_sha256": "76c0f8f4fcac5582e526a256ec6d317ac351159568fcb885b58322adb130b5db",
+        "sha256": "86300d595848e39a564db1221737e6bb51917f748ff427c6ed850b8db7bcd95a"
+      },
+      "Mathmap/题型/按题型分类/综合训练/空间向量与解析几何/专练2 开放题专练.md": {
+        "before_sha256": "e5ede6bfc16e842c8bec9bd3be0572609efcd6737a0f8fcd6962e41c74f00b21",
+        "sha256": "0838770b240cfddc884f720c80cd80ba4bd0ddd5c2f1e199aadea90bb98265af"
+      },
+      "Mathmap/题型/按题型分类/综合训练/空间向量与解析几何/模块综合测试.md": {
+        "before_sha256": "28e400f2f1258ecd74bddda86e6bdd443876fef484ef9ebaf7c981bce45b5656",
+        "sha256": "8550c7c15fafca1aad742bcf94212012577d53c24cfe585fc4e07f442cbf8993"
+      }
+    },
+    "version": 1
+  },
   "organization_targets": {
     "org-034f34073fe9b14b": [
       "Mathmap/题型/按题型分类/直线和圆的方程/2.4.2 圆的一般方程.md"
