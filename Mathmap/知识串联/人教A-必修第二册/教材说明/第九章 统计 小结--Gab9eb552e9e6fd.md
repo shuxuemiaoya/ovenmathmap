@@ -6,7 +6,7 @@ source_id: "rja-required-2"
 source: "高中必修 第二册·人教A版数学"
 source_files: ["原子层/知识点/0081-K.md"]
 source_node_keys: ["atom-dfd1c6b84d1f47f7"]
-所属组织: ["[[Mathmap/知识串联/人教A-必修第二册/第九章 统计/第九章 统计 小结.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第二册.md#第九章 统计 小结]]"]
 ---
 # 第九章 统计 小结
 

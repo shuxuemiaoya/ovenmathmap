@@ -2824,6 +2824,2161 @@
     }
   },
   "atom_contract": "source-independent/v2",
+  "book_organization": {
+    "retired": {
+      "Mathmap/知识串联/人教A-选择性必修第一册/人教A-选择性必修第一册.md": {
+        "anchor": "全书入口",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "d48feed0cc835c7c99a5a492c3a17a5d4a3b8d119f34d76e512612cab63efbfd",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第一章 空间向量与立体几何 · 概念索引.md": {
+        "anchor": "索引 · 第一章 空间向量与立体几何 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "be0adb7b8f85d762e103eb9b03e768460ab62fc8e5b226fea574b745d5807652",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第三章 圆锥曲线的方程 · 概念索引.md": {
+        "anchor": "索引 · 第三章 圆锥曲线的方程 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "bdf0efa5791212c3dd881613ebbb74d3abdcb4c22cf8e8159bcc11541a1894f0",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第二章 直线和圆的方程 · 概念索引.md": {
+        "anchor": "索引 · 第二章 直线和圆的方程 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "c3aa796c6acdb3abf2073ab9a86536b5ce4aa7498b10c9ce72a20813ce8920c0",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/人教A-选择性必修第一册.md": {
+        "anchor": "全书入口",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "5e967b39affc3ad0a763382dcd9ccc8695f84b29962e89ff945bed988147e351",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md": {
+        "anchor": "3.1 椭圆",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "71479b917a98f269e3170e10be27bd46b38e1a048cb90672a2a7ee7a0bef3c14",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md": {
+        "anchor": "3.1.1 椭圆及其标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "13e4d425f2761b41d29580c5ebf99c4c7beb58847f4862eeed91b5bff08c2e3f",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md": {
+        "anchor": "3.2 双曲线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "248e051df5e22106265e7b92c04a8ab5d7510ca620bb45a4185703ba22a4149b",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md": {
+        "anchor": "3.2.1 双曲线及其标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "2e0f8d1a79163472c0bd6aa9f14af25aeaab53eae5834d94dcea67956fec903c",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md": {
+        "anchor": "3.2.2 双曲线的简单几何性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "3eb1fc73f878219dffb5b0370d76765ffb93e3783167ee0b69c6bcdbdfe06b27",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md": {
+        "anchor": "3.3 抛物线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "1c73c6c4859858c15612d3e0aa92e03aeb3eb247750ffd027001b97f733a942c",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md": {
+        "anchor": "3.3.1 抛物线及其标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "bd10b691da77f648f20cde199e6a86ccdda19e7db36275714b31fdb82138fc59",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md": {
+        "anchor": "信息技术应用 用信息技术探究点的轨迹: 椭圆",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "440056fd08d041d917691b7b059416dd452e76baa2a7a5954524aca37e4d267e",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md": {
+        "anchor": "3.3.2 抛物线的简单几何性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "55c11b91d3572e8e6a8d348b82036fb3472fa85758303b516c54dabd22d9d4c0",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md": {
+        "anchor": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "5ded71d56c8b2615725bf95c926dce42a82512bf0452c2a93bcaa7a838ad721a",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md": {
+        "anchor": "第三章 圆锥曲线的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "6196539e2202552a921f0665f451b1953e9909fc7029eb33c40ad258df78ab33",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md": {
+        "anchor": "2.2 直线的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "4061f31d221013bcc2d383135848abbe16aedb96936313b92b4c134e62406e03",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md": {
+        "anchor": "2.2.1 直线的点斜式方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "a818878ef682e6923ab2e2a10e07cbc338e473e501b05c947ccf644e4ea0d9df",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md": {
+        "anchor": "2.2.3 直线的一般式方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "32b3801e384e00f9d12143987230262a6adb1fa7378c33184d413945abe91c50",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md": {
+        "anchor": "2.3 直线的交点坐标与距离公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "2ad1374fdbc749ecc90ca7e3639aafbea4438ba2921d0f674b7760e581c7cd16",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md": {
+        "anchor": "2.3.1 两条直线的交点坐标",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "7a1f37b6a2b1d363de81aa0c2dc007bdf55a7b4a692d5f7b616198014a3b3462",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md": {
+        "anchor": "2.3.2 两点间的距离公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "9f984f2e54ea1f9a0b7d5c918fa60f5ee051703c0d81650c6da2815497a54f32",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md": {
+        "anchor": "2.3.3 点到直线的距离公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "762ad390f04eac338d158b70b297c2c97861de02b4c472c966a690045ccf3fb7",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md": {
+        "anchor": "2.3.4 两条平行直线间的距离",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "d34a3ca50b2f3e43186c7131d758663173c2d878f6aa1fc0ab07daa99ff2b6cf",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md": {
+        "anchor": "2.4 圆的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "85f3f6d8cd77ea1689b89ff0d89dc764d12885bb2ce67a5b61de95fe8b7303b0",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md": {
+        "anchor": "2.4.1 圆的标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "88e6627b28d3037fe19cc8a98023b095e2efd97e6ef844fc21c4b013b84f38eb",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md": {
+        "anchor": "2.4.2 圆的一般方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "dd8a7c3fe63e7e99fa002a9db44a11490a208002452d67d58b755f66b82681aa",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md": {
+        "anchor": "2.5 直线与圆、圆与圆的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "18365bb9ad5473c8b9b5c4d24b1370ebae7748a1494e526a13cca5571eabe754",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md": {
+        "anchor": "2.5.1 直线与圆的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "7b177de931bd5a727841911188319deb9e9b7fd018a40513c0d322a0caa77ba6",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md": {
+        "anchor": "2.5.2 圆与圆的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "545dccae4fdd5117e41f84094a4e825c179b4f1a2c7a90f22a05bac23bc21374",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/第二章 直线和圆的方程.md": {
+        "anchor": "第二章 直线和圆的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "1a7f3d26eeb8a28806914efa87e07f8a0fa241a99dee6f72165d73034345e8a9",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1 空间向量及其运算.md": {
+        "anchor": "1.1 空间向量及其运算",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "742e0bf5693ec5fee4daf50838eb38ca19910911d8c73fc0ac9c6763fb29c985",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.1 空间向量及其线性运算.md": {
+        "anchor": "1.1.1 空间向量及其线性运算",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "98419beead1d258fe953794e6d7a3e5d44602a2116710fbb01a734ad66c2fb59",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.2 空间向量的数量积运算.md": {
+        "anchor": "1.1.2 空间向量的数量积运算",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "c9883189e1e1f8bbb90605329568f919e19334ed228d8c8aa1178a6f1bda0a90",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/1.2 空间向量基本定理.md": {
+        "anchor": "1.2 空间向量基本定理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "0ee2fb2c7dbf8c0c712fd58789e026ea066a058bddf6a3fe9608bac64bf74345",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3 空间向量及其运算的坐标表示.md": {
+        "anchor": "1.3 空间向量及其运算的坐标表示",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "090e15ccba29ef80403d75e44cac87bd6e3ca36f3d5c793cf5d84312cc8712c7",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.1 空间直角坐标系.md": {
+        "anchor": "1.3.1 空间直角坐标系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "5cddddc5689a37b6c23576ff29f5684e0068a77d80482b45204fff36574f9251",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.2 空间向量运算的坐标表示.md": {
+        "anchor": "1.3.2 空间向量运算的坐标表示",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "050972928918f583cc88bb9b77ffdbeecc0c2c5dfa2fd1ee761c1e2ac69e668e",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4 空间向量的应用.md": {
+        "anchor": "1.4 空间向量的应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "be5eda5bcd7cb1e7308a90f291614c8e4e1294797ea9c54628c14a94635bebf5",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.1 用空间向量研究直线、平面的位置关系.md": {
+        "anchor": "1.4.1 用空间向量研究直线、平面的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "216c3368fd4cf4a6897caefedfc2e33e79c533e3978b9b99d1d3aa68cea22643",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.2 用空间向量研究距离、夹角问题.md": {
+        "anchor": "1.4.2 用空间向量研究距离、夹角问题",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "875c66b2456f05fd6354a058e589748c82e5deb6925a0eba450b398ed20f78a8",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 小结.md": {
+        "anchor": "第一章 空间向量与立体几何 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "aefc7ec01c79987c9c53ee4f25eab130b1ac654ad37d6cd0fa56eca9a73b3b43",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何.md": {
+        "anchor": "第一章 空间向量与立体几何",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "7cc6cbfbec9feaa84b9b0f2cf83e3a07ed146c006fe4a7492f23fb67730ec602",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用.md": {
+        "anchor": "阅读与思考 向量概念的推广与应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "2cfc0092a5c2c70941552589d9666108f24148800018ccebac679274a9ff0ea8",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md": {
+        "anchor": "3.1 椭圆",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "b433a4d10990ee4def092a5a13080ec6d5183637c039c445317e3204dffa60d1",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md": {
+        "anchor": "3.1.1 椭圆及其标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "b718bc3f27f0c4b1aba1cc01b664ea0980e45a0a6763b16ae3baed63508c0ec0",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md": {
+        "anchor": "3.1.2 椭圆的简单几何性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "1964f66a50b7039f99ba9083c544c624908a0fce4056d0ee096b209bec306eb5",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md": {
+        "anchor": "3.2 双曲线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "e0e8f495e30e4788d6fb1c935505964436c9dc29db7f9319fbc29bdc35483d97",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md": {
+        "anchor": "3.2.1 双曲线及其标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "20cf1cdbfd4e7e81d78c93707e9fb6549f9aa63cc3b5ca44d1fda7e97e6601ca",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md": {
+        "anchor": "3.2.2 双曲线的简单几何性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "bb39cf56fc384c9aa7e56eba4f9ddb8b1206cae5a197ad33d715fda16790be04",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md": {
+        "anchor": "3.3 抛物线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "535cbf061dbf48d7e21454aeee1f922193fffbc0974e01587c38218989afa64a",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md": {
+        "anchor": "3.3.1 抛物线及其标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "ec1edb8f8b34c07cf3ca7d1b79780e2e1cdc3124c05d42eb5aefe8ec670da625",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md": {
+        "anchor": "信息技术应用 用信息技术探究点的轨迹: 椭圆",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "df43417285917d30cb9f33db297462455fd66aa2d76b3f9b45fd76bec09ef7c4",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么 $y = －pm －frac{b}{a} x$ 是双曲线 $－frac{x^2}{a^2} - －frac{y^2}{b^2} = 1$ 的渐近线.md": {
+        "anchor": "探究与发现 为什么 $y = \\pm \\frac{b}{a} x$ 是双曲线 $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ 的渐近线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "6dd7772bcedfe01d6ca4df7d69f5e4f0e1f4410fc94ffc7e8eb85e2d0fe47922",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md": {
+        "anchor": "3.3.2 抛物线的简单几何性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "54561c13d5dd29085dc3e568ad75c724575f49d0d2924d773e03cf0a959b90c1",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md": {
+        "anchor": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "285c3046a0ebd71a278a7cd09bf9c3b23be4b8108c1477b308a5089afa2a3d56",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/文献阅读与数学写作 － 解析几何的形成与发展.md": {
+        "anchor": "文献阅读与数学写作 * 解析几何的形成与发展",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "e08df80d8cb324b59087d426e04e8834bed635925b84957408375e668e538db2",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 小结.md": {
+        "anchor": "第三章 圆锥曲线的方程 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "3814687d1fe77a44673368f74da3a8a69b5817f5cdc226b854b5a1751b9c52fd",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md": {
+        "anchor": "第三章 圆锥曲线的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "54fb6847d5d19591934f70258a03c745217dff87aa3d9ac4a9dbd3ebf48f47ad",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用.md": {
+        "anchor": "阅读与思考 圆锥曲线的光学性质及其应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "7966cd8857a7098472f71eddf30ca68bf2dad1848dacac1efa1ee706f08a57c0",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1 直线的倾斜角与斜率.md": {
+        "anchor": "2.1 直线的倾斜角与斜率",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "14c2f9ebadf9d1a0a3bc15bb03e82d64af4cdff02a596cd503d1e7cf450b0767",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.1 倾斜角与斜率.md": {
+        "anchor": "2.1.1 倾斜角与斜率",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "88fdaae36b32e3a3c02feb17ae0b8c56a9aa09b2b6b71fff1423d315543e60c8",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.2 两条直线平行和垂直的判定.md": {
+        "anchor": "2.1.2 两条直线平行和垂直的判定",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "4b1f51c3a4c6d5eedeadec45385f8af2c17cef1bbafc44a9f6c56f16745b0aa9",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md": {
+        "anchor": "2.2 直线的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "2e6cb5c042a071978b826770b1a27463899357a79777c523cb0b62c482c76927",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md": {
+        "anchor": "2.2.1 直线的点斜式方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "c2fe38f699be15800af552a4ce09e14bc883dfeb490f3c881c53c987e366a2ca",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.2 直线的两点式方程.md": {
+        "anchor": "2.2.2 直线的两点式方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "c7117d3f5a281b45fdd635c8f463453b7af85ebaa27f67aeaf4f0b2d0e89cc6e",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md": {
+        "anchor": "2.2.3 直线的一般式方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "d683c8a5710c1adc1e54328eed5e14a5549c523a09845086049c86351e62c4d5",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md": {
+        "anchor": "2.3 直线的交点坐标与距离公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "c2a800e8332415e7e911089b8e9ec258bc63c42df2c977b14d52e0932bd9f867",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md": {
+        "anchor": "2.3.1 两条直线的交点坐标",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "04870fde41c7cfa335ba166c4aeb35da88b1685938d70371e57555b5d8da37fd",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md": {
+        "anchor": "2.3.2 两点间的距离公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "539ec18128534e22a5c8d7f768fee1a480d4c436fa811e273c2bf013f3043a71",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md": {
+        "anchor": "2.3.3 点到直线的距离公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "a26f44dadf6a5b38dc2b7e10d4db302e8282e5156022ff912bf8b548a3a778ce",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md": {
+        "anchor": "2.3.4 两条平行直线间的距离",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "ba57b60142f291b5d135effb8c69fd140f9304becd12571aa92f919777cbc600",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md": {
+        "anchor": "2.4 圆的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "3c8b35966b52dd1ccad3401dc0c9d6f5d2e09717b98c891612def03c5fe43224",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md": {
+        "anchor": "2.4.1 圆的标准方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "fd02a438b63d999eb704aecc36106dedaf1163e6241ca6e35225f719fa7c0285",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md": {
+        "anchor": "2.4.2 圆的一般方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "76b258ea7a60a646d35a932ec40c1eeeb998667c464e5f6b0018a19ec21079a4",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md": {
+        "anchor": "2.5 直线与圆、圆与圆的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "1fd336e16a699887edb72302b847ce3e8cbfe638f43c505b85e4f330b8af830d",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md": {
+        "anchor": "2.5.1 直线与圆的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "26e12fb519cb850db1e4790a58e215ba14e900cbf4947a9b25c7b1ef0f776dd7",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md": {
+        "anchor": "2.5.2 圆与圆的位置关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "f789f46385633122b394b6a6b2399333d54b1e8fa681ef8b40cb21fde249b0a9",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程.md": {
+        "anchor": "探究与发现 方向向量与直线的参数方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "3fb3790bd0fd4d5794a7eb31b0060a3b4943f5de9a8235e18a76d542e64cc6a2",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 小结.md": {
+        "anchor": "第二章 直线和圆的方程 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "53b9e76eb66267c72efb825d2cda9da09b1179f7b654d4efa0b11056d2fbd5f3",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程.md": {
+        "anchor": "第二章 直线和圆的方程",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "d745e37645c17555f87d74b31b369e2280dae18773652c00f3c19cf548d8bfdb",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化.md": {
+        "anchor": "阅读与思考 坐标法与数学机械化",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "49531906f7b637567d508db532c29f4e505dced90bf295cebf0085e0dd4de8b8",
+        "source_id": "rja-selective-1"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何.md": {
+        "anchor": "阅读与思考 笛卡儿与解析几何",
+        "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "sha256": "04155aef92754e3e6f7f5d614f8e0665c566ba48346dbfffecec4bdc63e04acd",
+        "source_id": "rja-selective-1"
+      }
+    },
+    "review": "Pure source navigation and declared source indexes are merged into the full book tree; substantive lessons and atoms retain their boundaries.",
+    "source_graph_sha256": "510d41299520c9a30a7dd9047bcb276fe6f682f7531fb396f0a8d0d0bb1ee976",
+    "structure": {
+      "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
+      "indexes": [
+        {
+          "heading": "索引 · 第一章 空间向量与立体几何 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/概念或公式/n维向量与向量空间.md",
+              "id": "Cd53d5e51e5b605",
+              "label": "n维向量与向量空间"
+            }
+          ]
+        },
+        {
+          "heading": "索引 · 第二章 直线和圆的方程 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/探究与发现 方向向量与直线的参数方程.md",
+              "id": "Ka082493822490b",
+              "label": "探究与发现 方向向量与直线的参数方程"
+            },
+            {
+              "destination": "Mathmap/概念或公式/两条平行直线间的距离.md",
+              "id": "C64ca1ee751df80",
+              "label": "两条平行直线间的距离"
+            },
+            {
+              "destination": "Mathmap/知识点/阅读与思考 笛卡儿与解析几何.md",
+              "id": "K07259624b9ef37",
+              "label": "阅读与思考 笛卡儿与解析几何"
+            }
+          ]
+        },
+        {
+          "heading": "索引 · 第三章 圆锥曲线的方程 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/双曲线的对称性.md",
+              "id": "K03bb8c73f1ebb9",
+              "label": "双曲线的对称性"
+            },
+            {
+              "destination": "Mathmap/知识点/双曲线的顶点与实虚轴.md",
+              "id": "K46690f161784f9",
+              "label": "双曲线的顶点与实虚轴"
+            },
+            {
+              "destination": "Mathmap/概念或公式/双曲线的离心率.md",
+              "id": "Cb1f5297a568347",
+              "label": "双曲线的离心率"
+            },
+            {
+              "destination": "Mathmap/知识点/抛物线的对称性.md",
+              "id": "K51a6a160c7f83d",
+              "label": "抛物线的对称性"
+            },
+            {
+              "destination": "Mathmap/知识点/抛物线的顶点.md",
+              "id": "K8898f79694e57e",
+              "label": "抛物线的顶点"
+            },
+            {
+              "destination": "Mathmap/概念或公式/抛物线的离心率.md",
+              "id": "C0c4cebf6564e17",
+              "label": "抛物线的离心率"
+            },
+            {
+              "destination": "Mathmap/知识点/阅读与思考 圆锥曲线的光学性质及其应用.md",
+              "id": "K9d1542d43df92c",
+              "label": "阅读与思考 圆锥曲线的光学性质及其应用"
+            }
+          ]
+        }
+      ],
+      "label": "高中选择性必修 第一册·人教A版数学",
+      "nodes": {
+        "book-root": {
+          "children": [
+            "node-toc-001",
+            "node-toc-009",
+            "node-toc-020"
+          ],
+          "heading": "全书入口",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从空间向量到解析几何的坐标研究路径--G7c2bc8ce9cb367.md",
+              "id": "G7c2bc8ce9cb367",
+              "label": "从空间向量到解析几何的坐标研究路径"
+            }
+          ],
+          "title": "普通高中教科书 数学 选择性必修 第一册"
+        },
+        "node-toc-001": {
+          "children": [
+            "node-toc-002",
+            "node-toc-003",
+            "node-toc-004",
+            "node-toc-005",
+            "node-toc-006",
+            "node-toc-007",
+            "node-toc-008"
+          ],
+          "heading": "第一章 空间向量与立体几何",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由平面向量方法推广到空间向量与立体几何--Gd5b584e84dfd21.md",
+              "id": "Gd5b584e84dfd21",
+              "label": "由平面向量方法推广到空间向量与立体几何"
+            }
+          ],
+          "title": "第一章 空间向量与立体几何"
+        },
+        "node-toc-002": {
+          "children": [
+            "semantic-00135",
+            "semantic-00306",
+            "semantic-00452"
+          ],
+          "heading": "1.1 空间向量及其运算",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从滑翔伞受力走向空间向量及其运算--G53f8c06300ade7.md",
+              "id": "G53f8c06300ade7",
+              "label": "从滑翔伞受力走向空间向量及其运算"
+            }
+          ],
+          "title": "1.1 空间向量及其运算"
+        },
+        "node-toc-003": {
+          "children": [
+            "semantic-00684"
+          ],
+          "heading": "1.2 空间向量基本定理",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由平面基底猜想空间向量基本定理--G52b0044f27f866.md",
+              "id": "G52b0044f27f866",
+              "label": "由平面基底猜想空间向量基本定理"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/空间向量基本定理及其证明.md",
+              "id": "rja-selective-1:node-toc-003:unit:K68464f7c7f8092",
+              "label": "空间向量基本定理及其证明"
+            }
+          ],
+          "title": "1.2 空间向量基本定理"
+        },
+        "node-toc-004": {
+          "children": [
+            "semantic-00738",
+            "semantic-00858",
+            "semantic-01059"
+          ],
+          "heading": "1.3 空间向量及其运算的坐标表示",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从空间基底走向向量的坐标运算--G06b759d6ea526f.md",
+              "id": "G06b759d6ea526f",
+              "label": "从空间基底走向向量的坐标运算"
+            }
+          ],
+          "title": "1.3 空间向量及其运算的坐标表示"
+        },
+        "node-toc-005": {
+          "children": [],
+          "heading": "阅读与思考 向量概念的推广与应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用（学习单元）.md",
+              "id": "rja-selective-1:node-toc-005:unit:K41338d3b6879aa",
+              "label": "阅读与思考 向量概念的推广与应用"
+            }
+          ],
+          "title": "阅读与思考 向量概念的推广与应用"
+        },
+        "node-toc-006": {
+          "children": [
+            "semantic-01181",
+            "semantic-01535",
+            "semantic-01950"
+          ],
+          "heading": "1.4 空间向量的应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/空间向量的应用--G49137e095cd7a8.md",
+              "id": "G49137e095cd7a8",
+              "label": "空间向量的应用"
+            }
+          ],
+          "title": "1.4 空间向量的应用"
+        },
+        "node-toc-007": {
+          "children": [],
+          "heading": "第一章 空间向量与立体几何 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第一章 空间向量与立体几何 小结--G2340557d79b398.md",
+              "id": "G2340557d79b398",
+              "label": "第一章 空间向量与立体几何 小结"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 小结.md",
+              "id": "rja-selective-1:node-toc-007:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第一章 空间向量与立体几何 小结"
+        },
+        "node-toc-008": {
+          "children": [],
+          "heading": "第一章 空间向量与立体几何 复习参考题 1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 复习参考题 1.md",
+              "id": "rja-selective-1:node-toc-008:question",
+              "label": "第一章 空间向量与立体几何 复习参考题 1"
+            }
+          ],
+          "title": "第一章 空间向量与立体几何 复习参考题 1"
+        },
+        "node-toc-009": {
+          "children": [
+            "node-toc-010",
+            "node-toc-011",
+            "node-toc-012",
+            "node-toc-013",
+            "node-toc-014",
+            "node-toc-015",
+            "node-toc-016",
+            "node-toc-017",
+            "node-toc-018",
+            "node-toc-019"
+          ],
+          "heading": "第二章 直线和圆的方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从综合几何到坐标法研究直线和圆--G0cdfa89da6d505.md",
+              "id": "G0cdfa89da6d505",
+              "label": "从综合几何到坐标法研究直线和圆"
+            }
+          ],
+          "title": "第二章 直线和圆的方程"
+        },
+        "node-toc-010": {
+          "children": [
+            "semantic-02260",
+            "semantic-02436",
+            "semantic-02556"
+          ],
+          "heading": "2.1 直线的倾斜角与斜率",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/直线的倾斜角与斜率.md",
+              "id": "rja-selective-1:node-toc-010:unit:K8b32d5014e36ea",
+              "label": "直线的倾斜角与斜率"
+            }
+          ],
+          "title": "2.1 直线的倾斜角与斜率"
+        },
+        "node-toc-011": {
+          "children": [
+            "semantic-02608",
+            "semantic-02764",
+            "semantic-02877",
+            "semantic-03018"
+          ],
+          "heading": "2.2 直线的方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从点与方向建立直线方程--G8c1ecc1c629023.md",
+              "id": "G8c1ecc1c629023",
+              "label": "从点与方向建立直线方程"
+            }
+          ],
+          "title": "2.2 直线的方程"
+        },
+        "node-toc-012": {
+          "children": [],
+          "heading": "探究与发现 方向向量与直线的参数方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程（学习单元）.md",
+              "id": "rja-selective-1:node-toc-012:unit:Ka082493822490b",
+              "label": "探究与发现 方向向量与直线的参数方程"
+            }
+          ],
+          "title": "探究与发现 方向向量与直线的参数方程"
+        },
+        "node-toc-013": {
+          "children": [
+            "semantic-03146",
+            "semantic-03258",
+            "semantic-03384",
+            "semantic-03541",
+            "semantic-03607"
+          ],
+          "heading": "2.3 直线的交点坐标与距离公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线的交点坐标与距离公式--Gc49f81cb6335be.md",
+              "id": "Gc49f81cb6335be",
+              "label": "直线的交点坐标与距离公式"
+            }
+          ],
+          "title": "2.3 直线的交点坐标与距离公式"
+        },
+        "node-toc-014": {
+          "children": [],
+          "heading": "阅读与思考 笛卡儿与解析几何",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何（学习单元）.md",
+              "id": "rja-selective-1:node-toc-014:unit:K07259624b9ef37",
+              "label": "阅读与思考 笛卡儿与解析几何"
+            }
+          ],
+          "title": "阅读与思考 笛卡儿与解析几何"
+        },
+        "node-toc-015": {
+          "children": [
+            "semantic-03711",
+            "semantic-03918",
+            "semantic-04059"
+          ],
+          "heading": "2.4 圆的方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/类比直线方程建立圆的方程--G5ad8ed978cf430.md",
+              "id": "G5ad8ed978cf430",
+              "label": "类比直线方程建立圆的方程"
+            }
+          ],
+          "title": "2.4 圆的方程"
+        },
+        "node-toc-016": {
+          "children": [],
+          "heading": "阅读与思考 坐标法与数学机械化",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化（学习单元）.md",
+              "id": "rja-selective-1:node-toc-016:unit:Kbb367792be4ab9",
+              "label": "阅读与思考 坐标法与数学机械化"
+            }
+          ],
+          "title": "阅读与思考 坐标法与数学机械化"
+        },
+        "node-toc-017": {
+          "children": [
+            "semantic-04137",
+            "semantic-04397",
+            "semantic-04531"
+          ],
+          "heading": "2.5 直线与圆、圆与圆的位置关系",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线与圆、圆与圆的位置关系--Gf7574a3d05d0b6.md",
+              "id": "Gf7574a3d05d0b6",
+              "label": "直线与圆、圆与圆的位置关系"
+            }
+          ],
+          "title": "2.5 直线与圆、圆与圆的位置关系"
+        },
+        "node-toc-018": {
+          "children": [],
+          "heading": "第二章 直线和圆的方程 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第二章 直线和圆的方程 小结--Geeeec900204536.md",
+              "id": "Geeeec900204536",
+              "label": "第二章 直线和圆的方程 小结"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 小结.md",
+              "id": "rja-selective-1:node-toc-018:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第二章 直线和圆的方程 小结"
+        },
+        "node-toc-019": {
+          "children": [],
+          "heading": "第二章 直线和圆的方程 复习参考题 2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 复习参考题 2.md",
+              "id": "rja-selective-1:node-toc-019:question",
+              "label": "第二章 直线和圆的方程 复习参考题 2"
+            }
+          ],
+          "title": "第二章 直线和圆的方程 复习参考题 2"
+        },
+        "node-toc-020": {
+          "children": [
+            "node-toc-021",
+            "node-toc-022",
+            "node-toc-023",
+            "node-toc-024",
+            "node-toc-025",
+            "node-toc-026",
+            "node-toc-027",
+            "node-toc-028",
+            "node-toc-029",
+            "node-toc-030"
+          ],
+          "heading": "第三章 圆锥曲线的方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从圆锥截线走向椭圆双曲线与抛物线方程--Gca8379b6d49ad2.md",
+              "id": "Gca8379b6d49ad2",
+              "label": "从圆锥截线走向椭圆双曲线与抛物线方程"
+            }
+          ],
+          "title": "第三章 圆锥曲线的方程"
+        },
+        "node-toc-021": {
+          "children": [
+            "semantic-04740",
+            "semantic-04981",
+            "semantic-05246"
+          ],
+          "heading": "3.1 椭圆",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从椭圆的几何特征建立标准方程--G72a617922fd2c7.md",
+              "id": "G72a617922fd2c7",
+              "label": "从椭圆的几何特征建立标准方程"
+            }
+          ],
+          "title": "3.1 椭圆"
+        },
+        "node-toc-022": {
+          "children": [],
+          "heading": "信息技术应用 用信息技术探究点的轨迹: 椭圆",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由焦点到准线距离比描画椭圆轨迹--Gbc66c1404a12e5.md",
+              "id": "Gbc66c1404a12e5",
+              "label": "由焦点到准线距离比描画椭圆轨迹"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-从椭圆标准方程推导焦点准线距离比.md",
+              "id": "Pe55d51e9390c42",
+              "label": "思考-从椭圆标准方程推导焦点准线距离比"
+            }
+          ],
+          "title": "信息技术应用 用信息技术探究点的轨迹: 椭圆"
+        },
+        "node-toc-023": {
+          "children": [
+            "semantic-05364",
+            "semantic-05528",
+            "semantic-05786"
+          ],
+          "heading": "3.2 双曲线",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从冷却塔和声音定位认识双曲线--Ga55689bf13a32c.md",
+              "id": "Ga55689bf13a32c",
+              "label": "从冷却塔和声音定位认识双曲线"
+            }
+          ],
+          "title": "3.2 双曲线"
+        },
+        "node-toc-024": {
+          "children": [],
+          "heading": "探究与发现 为什么 $y = \\pm \\frac{b}{a} x$ 是双曲线 $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ 的渐近线",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/双曲线渐近线方程的证明.md",
+              "id": "rja-selective-1:node-toc-024:unit:Kbaedeb3b898b6f",
+              "label": "双曲线渐近线方程的证明"
+            }
+          ],
+          "title": "探究与发现 为什么 $y = \\pm \\frac{b}{a} x$ 是双曲线 $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ 的渐近线"
+        },
+        "node-toc-025": {
+          "children": [
+            "semantic-05872"
+          ],
+          "heading": "3.3 抛物线",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/抛物线--Gd5c88d95c217dd.md",
+              "id": "Gd5c88d95c217dd",
+              "label": "抛物线"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线.md",
+              "id": "rja-selective-1:node-toc-025:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "3.3 抛物线"
+        },
+        "node-toc-026": {
+          "children": [
+            "semantic-05994",
+            "semantic-06242"
+          ],
+          "heading": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从焦点准线定义证明二次函数图象是抛物线--Ga0dae6b87124e9.md",
+              "id": "Ga0dae6b87124e9",
+              "label": "从焦点准线定义证明二次函数图象是抛物线"
+            }
+          ],
+          "title": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线"
+        },
+        "node-toc-027": {
+          "children": [],
+          "heading": "阅读与思考 圆锥曲线的光学性质及其应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用（学习单元）.md",
+              "id": "rja-selective-1:node-toc-027:unit:K9d1542d43df92c",
+              "label": "阅读与思考 圆锥曲线的光学性质及其应用"
+            }
+          ],
+          "title": "阅读与思考 圆锥曲线的光学性质及其应用"
+        },
+        "node-toc-028": {
+          "children": [],
+          "heading": "文献阅读与数学写作 * 解析几何的形成与发展",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从解析几何的创立理解坐标与变量方法--G5302a52ac26c62.md",
+              "id": "G5302a52ac26c62",
+              "label": "从解析几何的创立理解坐标与变量方法"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/一、主题--G7e7d7a7ba84d57.md",
+              "id": "G7e7d7a7ba84d57",
+              "label": "一、主题"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/二、实施建议--Gea2a47d06a1620.md",
+              "id": "Gea2a47d06a1620",
+              "label": "二、实施建议"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/三、参考选题--Ga5f99b944f3473.md",
+              "id": "Ga5f99b944f3473",
+              "label": "三、参考选题"
+            }
+          ],
+          "title": "文献阅读与数学写作 * 解析几何的形成与发展"
+        },
+        "node-toc-029": {
+          "children": [],
+          "heading": "第三章 圆锥曲线的方程 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第三章 圆锥曲线的方程 小结--G39badab8520674.md",
+              "id": "G39badab8520674",
+              "label": "第三章 圆锥曲线的方程 小结"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 小结.md",
+              "id": "rja-selective-1:node-toc-029:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第三章 圆锥曲线的方程 小结"
+        },
+        "node-toc-030": {
+          "children": [],
+          "heading": "第三章 圆锥曲线的方程 复习参考题 3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 复习参考题 3.md",
+              "id": "rja-selective-1:node-toc-030:question",
+              "label": "第三章 圆锥曲线的方程 复习参考题 3"
+            }
+          ],
+          "title": "第三章 圆锥曲线的方程 复习参考题 3"
+        },
+        "semantic-00135": {
+          "children": [],
+          "heading": "1.1.1 空间向量及其线性运算",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/空间向量的概念与线性运算.md",
+              "id": "rja-selective-1:semantic-00135:unit:K33418901b92cdd",
+              "label": "空间向量的概念与线性运算"
+            }
+          ],
+          "title": "1.1.1 空间向量及其线性运算"
+        },
+        "semantic-00306": {
+          "children": [],
+          "heading": "1.1.2 空间向量的数量积运算",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/空间向量的数量积运算.md",
+              "id": "rja-selective-1:semantic-00306:unit:K7dfe97bbf125df",
+              "label": "空间向量的数量积运算"
+            }
+          ],
+          "title": "1.1.2 空间向量的数量积运算"
+        },
+        "semantic-00452": {
+          "children": [],
+          "heading": "习题1.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/习题1.1.md",
+              "id": "rja-selective-1:semantic-00452:question",
+              "label": "习题1.1"
+            }
+          ],
+          "title": "习题1.1"
+        },
+        "semantic-00684": {
+          "children": [],
+          "heading": "习题1.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/习题1.2.md",
+              "id": "rja-selective-1:semantic-00684:question",
+              "label": "习题1.2"
+            }
+          ],
+          "title": "习题1.2"
+        },
+        "semantic-00738": {
+          "children": [],
+          "heading": "1.3.1 空间直角坐标系",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/空间直角坐标系与点的坐标.md",
+              "id": "rja-selective-1:semantic-00738:unit:K68b2da16e4f5f7",
+              "label": "空间直角坐标系与点的坐标"
+            }
+          ],
+          "title": "1.3.1 空间直角坐标系"
+        },
+        "semantic-00858": {
+          "children": [],
+          "heading": "1.3.2 空间向量运算的坐标表示",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/空间向量运算的坐标表示.md",
+              "id": "rja-selective-1:semantic-00858:unit:K0c30ac1f5fd9f9",
+              "label": "空间向量运算的坐标表示"
+            }
+          ],
+          "title": "1.3.2 空间向量运算的坐标表示"
+        },
+        "semantic-01059": {
+          "children": [],
+          "heading": "习题 1.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/习题 1.3.md",
+              "id": "rja-selective-1:semantic-01059:question",
+              "label": "习题 1.3"
+            }
+          ],
+          "title": "习题 1.3"
+        },
+        "semantic-01181": {
+          "children": [],
+          "heading": "1.4.1 用空间向量研究直线、平面的位置关系",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/空间直线与平面平行垂直的向量判定.md",
+              "id": "rja-selective-1:semantic-01181:unit:K904efdcf559297",
+              "label": "空间直线与平面平行垂直的向量判定"
+            }
+          ],
+          "title": "1.4.1 用空间向量研究直线、平面的位置关系"
+        },
+        "semantic-01535": {
+          "children": [],
+          "heading": "1.4.2 用空间向量研究距离、夹角问题",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/空间距离与夹角的向量计算.md",
+              "id": "rja-selective-1:semantic-01535:unit:Kc95d5434066a27",
+              "label": "空间距离与夹角的向量计算"
+            }
+          ],
+          "title": "1.4.2 用空间向量研究距离、夹角问题"
+        },
+        "semantic-01950": {
+          "children": [],
+          "heading": "习题1.4",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/习题1.4.md",
+              "id": "rja-selective-1:semantic-01950:question",
+              "label": "习题1.4"
+            }
+          ],
+          "title": "习题1.4"
+        },
+        "semantic-02260": {
+          "children": [],
+          "heading": "2.1.1 倾斜角与斜率",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/直线的倾斜角与斜率.md",
+              "id": "rja-selective-1:node-toc-010:unit:K8b32d5014e36ea",
+              "label": "直线的倾斜角与斜率"
+            }
+          ],
+          "title": "2.1.1 倾斜角与斜率"
+        },
+        "semantic-02436": {
+          "children": [],
+          "heading": "2.1.2 两条直线平行和垂直的判定",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从直线斜率判定两条直线平行与垂直--G6cbbf2d9bcdfb4.md",
+              "id": "G6cbbf2d9bcdfb4",
+              "label": "从直线斜率判定两条直线平行与垂直"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/两条直线平行与垂直的斜率判定.md",
+              "id": "rja-selective-1:semantic-02436:unit:Kf880b20b11f723",
+              "label": "两条直线平行与垂直的斜率判定"
+            }
+          ],
+          "title": "2.1.2 两条直线平行和垂直的判定"
+        },
+        "semantic-02556": {
+          "children": [],
+          "heading": "习题2.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/习题2.1.md",
+              "id": "rja-selective-1:semantic-02556:question",
+              "label": "习题2.1"
+            }
+          ],
+          "title": "习题2.1"
+        },
+        "semantic-02608": {
+          "children": [],
+          "heading": "2.2.1 直线的点斜式方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的点斜式与斜截式方程.md",
+              "id": "rja-selective-1:semantic-02608:unit:K5e3a20f35fccf0",
+              "label": "直线的点斜式与斜截式方程"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-用一次函数解释斜截式方程.md",
+              "id": "Pf519a4f8ef9ab2",
+              "label": "思考-用一次函数解释斜截式方程"
+            }
+          ],
+          "title": "2.2.1 直线的点斜式方程"
+        },
+        "semantic-02764": {
+          "children": [],
+          "heading": "2.2.2 直线的两点式方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的两点式与截距式方程.md",
+              "id": "rja-selective-1:semantic-02764:unit:K0dddadef318bed",
+              "label": "直线的两点式与截距式方程"
+            }
+          ],
+          "title": "2.2.2 直线的两点式方程"
+        },
+        "semantic-02877": {
+          "children": [],
+          "heading": "2.2.3 直线的一般式方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的一般式方程.md",
+              "id": "rja-selective-1:semantic-02877:unit:K1db7fb83e5e418",
+              "label": "直线的一般式方程"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-直线一般式系数与坐标轴位置关系.md",
+              "id": "P250da90b905fe3",
+              "label": "探究-直线一般式系数与坐标轴位置关系"
+            }
+          ],
+          "title": "2.2.3 直线的一般式方程"
+        },
+        "semantic-03018": {
+          "children": [],
+          "heading": "习题2.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/习题2.2.md",
+              "id": "rja-selective-1:semantic-03018:question",
+              "label": "习题2.2"
+            }
+          ],
+          "title": "习题2.2"
+        },
+        "semantic-03146": {
+          "children": [],
+          "heading": "2.3.1 两条直线的交点坐标",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/两条直线的交点坐标.md",
+              "id": "rja-selective-1:semantic-03146:unit:K266ef899282d66",
+              "label": "两条直线的交点坐标"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-斜率法与方程组法判断直线位置关系.md",
+              "id": "P517662cfa3801f",
+              "label": "思考-斜率法与方程组法判断直线位置关系"
+            }
+          ],
+          "title": "2.3.1 两条直线的交点坐标"
+        },
+        "semantic-03258": {
+          "children": [],
+          "heading": "2.3.2 两点间的距离公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/平面两点间的距离公式及其推导.md",
+              "id": "rja-selective-1:semantic-03258:unit:K63e9ae204c4548",
+              "label": "平面两点间的距离公式及其推导"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-用坐标构造直角三角形求距离.md",
+              "id": "P924253a0b0ab38",
+              "label": "思考-用坐标构造直角三角形求距离"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-坐标法与向量法证明几何命题.md",
+              "id": "P91decf52b077f0",
+              "label": "思考-坐标法与向量法证明几何命题"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-选择坐标系对几何证明的影响.md",
+              "id": "Pe9b7485df8a9e3",
+              "label": "思考-选择坐标系对几何证明的影响"
+            }
+          ],
+          "title": "2.3.2 两点间的距离公式"
+        },
+        "semantic-03384": {
+          "children": [],
+          "heading": "2.3.3 点到直线的距离公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/点到直线距离公式的代数推导.md",
+              "id": "rja-selective-1:semantic-03384:unit:K2d8b62110ae6b2",
+              "label": "点到直线距离公式的代数推导"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/点到直线距离公式的向量推导.md",
+              "id": "rja-selective-1:semantic-03384:unit:Kaec6c226cf4c86",
+              "label": "点到直线距离公式的向量推导"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-点到直线距离公式两种推导的比较.md",
+              "id": "P38a9e116d9ce5f",
+              "label": "思考-点到直线距离公式两种推导的比较"
+            }
+          ],
+          "title": "2.3.3 点到直线的距离公式"
+        },
+        "semantic-03541": {
+          "children": [],
+          "heading": "2.3.4 两条平行直线间的距离",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/两条平行直线间的距离.md",
+              "id": "rja-selective-1:semantic-03541:unit:K3339667d4367b7",
+              "label": "两条平行直线间的距离"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-两条平行直线间的距离.md",
+              "id": "P66e32ec59bd782",
+              "label": "思考-两条平行直线间的距离"
+            }
+          ],
+          "title": "2.3.4 两条平行直线间的距离"
+        },
+        "semantic-03607": {
+          "children": [],
+          "heading": "习题2.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/习题2.3.md",
+              "id": "rja-selective-1:semantic-03607:question",
+              "label": "习题2.3"
+            }
+          ],
+          "title": "习题2.3"
+        },
+        "semantic-03711": {
+          "children": [],
+          "heading": "2.4.1 圆的标准方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/圆的标准方程及其推导.md",
+              "id": "rja-selective-1:semantic-03711:unit:K645a18fb0cc63d",
+              "label": "圆的标准方程及其推导"
+            },
+            {
+              "destination": "Mathmap/问题袋/如何确定一个圆.md",
+              "id": "P28ead87b247cce",
+              "label": "如何确定一个圆"
+            },
+            {
+              "destination": "Mathmap/问题袋/圆心在坐标原点的圆的标准方程.md",
+              "id": "P1b90e47d1924ca",
+              "label": "圆心在坐标原点的圆的标准方程"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-点在圆内外的代数条件.md",
+              "id": "P43c9aa60ed66ab",
+              "label": "探究-点在圆内外的代数条件"
+            }
+          ],
+          "title": "2.4.1 圆的标准方程"
+        },
+        "semantic-03918": {
+          "children": [],
+          "heading": "2.4.2 圆的一般方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/圆的一般方程与成立条件.md",
+              "id": "rja-selective-1:semantic-03918:unit:Kacaa8f5ad0c14d",
+              "label": "圆的一般方程与成立条件"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-圆的标准方程与一般方程的特点.md",
+              "id": "P8dc30aafe276a8",
+              "label": "思考-圆的标准方程与一般方程的特点"
+            }
+          ],
+          "title": "2.4.2 圆的一般方程"
+        },
+        "semantic-04059": {
+          "children": [],
+          "heading": "习题2.4",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/习题2.4.md",
+              "id": "rja-selective-1:semantic-04059:question",
+              "label": "习题2.4"
+            }
+          ],
+          "title": "习题2.4"
+        },
+        "semantic-04137": {
+          "children": [],
+          "heading": "2.5.1 直线与圆的位置关系",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线与圆的位置关系--Gc393902795cf8e.md",
+              "id": "Gc393902795cf8e",
+              "label": "直线与圆的位置关系"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-用方程判断直线与圆的位置关系.md",
+              "id": "Pcc2a8709ca001a",
+              "label": "思考-用方程判断直线与圆的位置关系"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-直线与圆位置关系两种解法的比较.md",
+              "id": "Ped960c66f5c934",
+              "label": "思考-直线与圆位置关系两种解法的比较"
+            }
+          ],
+          "title": "2.5.1 直线与圆的位置关系"
+        },
+        "semantic-04397": {
+          "children": [],
+          "heading": "2.5.2 圆与圆的位置关系",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/圆与圆的位置关系--G9fb4fb3374e724.md",
+              "id": "G9fb4fb3374e724",
+              "label": "圆与圆的位置关系"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-用方程判断圆与圆的位置关系.md",
+              "id": "P0715622db854fd",
+              "label": "思考-用方程判断圆与圆的位置关系"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-两圆方程消元后判别式为零的含义.md",
+              "id": "P827ecbbdfa7f66",
+              "label": "思考-两圆方程消元后判别式为零的含义"
+            }
+          ],
+          "title": "2.5.2 圆与圆的位置关系"
+        },
+        "semantic-04531": {
+          "children": [],
+          "heading": "习题2.5",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/习题2.5.md",
+              "id": "rja-selective-1:semantic-04531:question",
+              "label": "习题2.5"
+            }
+          ],
+          "title": "习题2.5"
+        },
+        "semantic-04740": {
+          "children": [],
+          "heading": "3.1.1 椭圆及其标准方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的定义与标准方程.md",
+              "id": "rja-selective-1:semantic-04740:unit:Kb34926afc59081",
+              "label": "椭圆的定义与标准方程"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-通过拉伸圆得到椭圆.md",
+              "id": "P78854026810c6f",
+              "label": "思考-通过拉伸圆得到椭圆"
+            }
+          ],
+          "title": "3.1.1 椭圆及其标准方程"
+        },
+        "semantic-04981": {
+          "children": [],
+          "heading": "3.1.2 椭圆的简单几何性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从椭圆标准方程研究范围对称性与顶点--G78ba2698e304dd.md",
+              "id": "G78ba2698e304dd",
+              "label": "从椭圆标准方程研究范围对称性与顶点"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的范围对称性与顶点.md",
+              "id": "rja-selective-1:semantic-04981:unit:K1ae7ac12e85690",
+              "label": "椭圆的范围对称性与顶点"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/利用方程研究曲线范围--G928a0cc46d7b89.md",
+              "id": "G928a0cc46d7b89",
+              "label": "利用方程研究曲线范围"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/利用特殊点确定曲线位置--G443d9b5a916ad8.md",
+              "id": "G443d9b5a916ad8",
+              "label": "利用特殊点确定曲线位置"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的离心率.md",
+              "id": "rja-selective-1:semantic-04981:unit:K4f9ef16ec4a9b8",
+              "label": "椭圆的离心率"
+            }
+          ],
+          "title": "3.1.2 椭圆的简单几何性质"
+        },
+        "semantic-05246": {
+          "children": [],
+          "heading": "习题3.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/习题3.1.md",
+              "id": "rja-selective-1:semantic-05246:question",
+              "label": "习题3.1"
+            }
+          ],
+          "title": "习题3.1"
+        },
+        "semantic-05364": {
+          "children": [],
+          "heading": "3.2.1 双曲线及其标准方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/双曲线及其标准方程--Gbe067b1c72ebd1.md",
+              "id": "Gbe067b1c72ebd1",
+              "label": "双曲线及其标准方程"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的定义与标准方程.md",
+              "id": "rja-selective-1:semantic-05364:unit:Ka05d4b1113897e",
+              "label": "双曲线的定义与标准方程"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-动点连线斜率乘积与双曲线轨迹.md",
+              "id": "P56436c5f93d13d",
+              "label": "探究-动点连线斜率乘积与双曲线轨迹"
+            }
+          ],
+          "title": "3.2.1 双曲线及其标准方程"
+        },
+        "semantic-05528": {
+          "children": [],
+          "heading": "3.2.2 双曲线的简单几何性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的范围.md",
+              "id": "rja-selective-1:semantic-05528:unit:K6199c33a93b13e",
+              "label": "双曲线的范围"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的对称性.md",
+              "id": "rja-selective-1:semantic-05528:unit:K03bb8c73f1ebb9",
+              "label": "双曲线的对称性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的顶点与实虚轴.md",
+              "id": "rja-selective-1:semantic-05528:unit:K46690f161784f9",
+              "label": "双曲线的顶点与实虚轴"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的渐近线.md",
+              "id": "rja-selective-1:semantic-05528:unit:Kb7cbbb3109ef57",
+              "label": "双曲线的渐近线"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的离心率.md",
+              "id": "rja-selective-1:semantic-05528:unit:K315ee6fa99179e",
+              "label": "双曲线的离心率"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-双曲线几何性质的研究内容.md",
+              "id": "Pb38a6eea18dc98",
+              "label": "思考-双曲线几何性质的研究内容"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-双曲线离心率与渐近线斜率.md",
+              "id": "P7b24e423002720",
+              "label": "思考-双曲线离心率与渐近线斜率"
+            }
+          ],
+          "title": "3.2.2 双曲线的简单几何性质"
+        },
+        "semantic-05786": {
+          "children": [],
+          "heading": "习题3.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/习题3.2.md",
+              "id": "rja-selective-1:semantic-05786:question",
+              "label": "习题3.2"
+            }
+          ],
+          "title": "习题3.2"
+        },
+        "semantic-05872": {
+          "children": [],
+          "heading": "3.3.1 抛物线及其标准方程",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的定义与标准方程.md",
+              "id": "rja-selective-1:semantic-05872:unit:K6a74d0f16b2ed0",
+              "label": "抛物线的定义与标准方程"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的范围.md",
+              "id": "rja-selective-1:semantic-05872:unit:Kad94972027692c",
+              "label": "抛物线的范围"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的对称性.md",
+              "id": "rja-selective-1:semantic-05872:unit:K51a6a160c7f83d",
+              "label": "抛物线的对称性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的顶点.md",
+              "id": "rja-selective-1:semantic-05872:unit:K8898f79694e57e",
+              "label": "抛物线的顶点"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-二次函数图像的焦点与准线.md",
+              "id": "Pa3881c1bcd4867",
+              "label": "思考-二次函数图像的焦点与准线"
+            }
+          ],
+          "title": "3.3.1 抛物线及其标准方程"
+        },
+        "semantic-05994": {
+          "children": [],
+          "heading": "3.3.2 抛物线的简单几何性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的范围.md",
+              "id": "rja-selective-1:semantic-05872:unit:Kad94972027692c",
+              "label": "抛物线的范围"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的对称性.md",
+              "id": "rja-selective-1:semantic-05872:unit:K51a6a160c7f83d",
+              "label": "抛物线的对称性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的顶点.md",
+              "id": "rja-selective-1:semantic-05872:unit:K8898f79694e57e",
+              "label": "抛物线的顶点"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/抛物线的离心率.md",
+              "id": "rja-selective-1:semantic-05994:unit:K30f408945ee143",
+              "label": "抛物线的离心率"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-抛物线几何性质的研究内容.md",
+              "id": "P7d746cc91581ca",
+              "label": "思考-抛物线几何性质的研究内容"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-由对称轴及过点条件确定抛物线.md",
+              "id": "P583e776b7e8431",
+              "label": "思考-由对称轴及过点条件确定抛物线"
+            }
+          ],
+          "title": "3.3.2 抛物线的简单几何性质"
+        },
+        "semantic-06242": {
+          "children": [],
+          "heading": "习题3.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/习题3.3.md",
+              "id": "rja-selective-1:semantic-06242:question",
+              "label": "习题3.3"
+            }
+          ],
+          "title": "习题3.3"
+        }
+      },
+      "redirects": {
+        "Mathmap/知识串联/人教A-选择性必修第一册/人教A-选择性必修第一册.md": {
+          "anchor": "全书入口",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第一章 空间向量与立体几何 · 概念索引.md": {
+          "anchor": "索引 · 第一章 空间向量与立体几何 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第三章 圆锥曲线的方程 · 概念索引.md": {
+          "anchor": "索引 · 第三章 圆锥曲线的方程 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第二章 直线和圆的方程 · 概念索引.md": {
+          "anchor": "索引 · 第二章 直线和圆的方程 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/人教A-选择性必修第一册.md": {
+          "anchor": "全书入口",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md": {
+          "anchor": "3.1 椭圆",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md": {
+          "anchor": "3.1.1 椭圆及其标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md": {
+          "anchor": "3.2 双曲线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md": {
+          "anchor": "3.2.1 双曲线及其标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md": {
+          "anchor": "3.2.2 双曲线的简单几何性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md": {
+          "anchor": "3.3 抛物线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md": {
+          "anchor": "3.3.1 抛物线及其标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md": {
+          "anchor": "信息技术应用 用信息技术探究点的轨迹: 椭圆",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md": {
+          "anchor": "3.3.2 抛物线的简单几何性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md": {
+          "anchor": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md": {
+          "anchor": "第三章 圆锥曲线的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md": {
+          "anchor": "2.2 直线的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md": {
+          "anchor": "2.2.1 直线的点斜式方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md": {
+          "anchor": "2.2.3 直线的一般式方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md": {
+          "anchor": "2.3 直线的交点坐标与距离公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md": {
+          "anchor": "2.3.1 两条直线的交点坐标",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md": {
+          "anchor": "2.3.2 两点间的距离公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md": {
+          "anchor": "2.3.3 点到直线的距离公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md": {
+          "anchor": "2.3.4 两条平行直线间的距离",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md": {
+          "anchor": "2.4 圆的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md": {
+          "anchor": "2.4.1 圆的标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md": {
+          "anchor": "2.4.2 圆的一般方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md": {
+          "anchor": "2.5 直线与圆、圆与圆的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md": {
+          "anchor": "2.5.1 直线与圆的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md": {
+          "anchor": "2.5.2 圆与圆的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/第二章 直线和圆的方程.md": {
+          "anchor": "第二章 直线和圆的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1 空间向量及其运算.md": {
+          "anchor": "1.1 空间向量及其运算",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.1 空间向量及其线性运算.md": {
+          "anchor": "1.1.1 空间向量及其线性运算",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.2 空间向量的数量积运算.md": {
+          "anchor": "1.1.2 空间向量的数量积运算",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/1.2 空间向量基本定理.md": {
+          "anchor": "1.2 空间向量基本定理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3 空间向量及其运算的坐标表示.md": {
+          "anchor": "1.3 空间向量及其运算的坐标表示",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.1 空间直角坐标系.md": {
+          "anchor": "1.3.1 空间直角坐标系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.2 空间向量运算的坐标表示.md": {
+          "anchor": "1.3.2 空间向量运算的坐标表示",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4 空间向量的应用.md": {
+          "anchor": "1.4 空间向量的应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.1 用空间向量研究直线、平面的位置关系.md": {
+          "anchor": "1.4.1 用空间向量研究直线、平面的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.2 用空间向量研究距离、夹角问题.md": {
+          "anchor": "1.4.2 用空间向量研究距离、夹角问题",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 小结.md": {
+          "anchor": "第一章 空间向量与立体几何 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何.md": {
+          "anchor": "第一章 空间向量与立体几何",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用.md": {
+          "anchor": "阅读与思考 向量概念的推广与应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md": {
+          "anchor": "3.1 椭圆",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md": {
+          "anchor": "3.1.1 椭圆及其标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md": {
+          "anchor": "3.1.2 椭圆的简单几何性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md": {
+          "anchor": "3.2 双曲线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md": {
+          "anchor": "3.2.1 双曲线及其标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md": {
+          "anchor": "3.2.2 双曲线的简单几何性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md": {
+          "anchor": "3.3 抛物线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md": {
+          "anchor": "3.3.1 抛物线及其标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md": {
+          "anchor": "信息技术应用 用信息技术探究点的轨迹: 椭圆",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么 $y = －pm －frac{b}{a} x$ 是双曲线 $－frac{x^2}{a^2} - －frac{y^2}{b^2} = 1$ 的渐近线.md": {
+          "anchor": "探究与发现 为什么 $y = \\pm \\frac{b}{a} x$ 是双曲线 $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ 的渐近线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md": {
+          "anchor": "3.3.2 抛物线的简单几何性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md": {
+          "anchor": "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/文献阅读与数学写作 － 解析几何的形成与发展.md": {
+          "anchor": "文献阅读与数学写作 * 解析几何的形成与发展",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 小结.md": {
+          "anchor": "第三章 圆锥曲线的方程 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md": {
+          "anchor": "第三章 圆锥曲线的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用.md": {
+          "anchor": "阅读与思考 圆锥曲线的光学性质及其应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1 直线的倾斜角与斜率.md": {
+          "anchor": "2.1 直线的倾斜角与斜率",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.1 倾斜角与斜率.md": {
+          "anchor": "2.1.1 倾斜角与斜率",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.2 两条直线平行和垂直的判定.md": {
+          "anchor": "2.1.2 两条直线平行和垂直的判定",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md": {
+          "anchor": "2.2 直线的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md": {
+          "anchor": "2.2.1 直线的点斜式方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.2 直线的两点式方程.md": {
+          "anchor": "2.2.2 直线的两点式方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md": {
+          "anchor": "2.2.3 直线的一般式方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md": {
+          "anchor": "2.3 直线的交点坐标与距离公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md": {
+          "anchor": "2.3.1 两条直线的交点坐标",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md": {
+          "anchor": "2.3.2 两点间的距离公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md": {
+          "anchor": "2.3.3 点到直线的距离公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md": {
+          "anchor": "2.3.4 两条平行直线间的距离",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md": {
+          "anchor": "2.4 圆的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md": {
+          "anchor": "2.4.1 圆的标准方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md": {
+          "anchor": "2.4.2 圆的一般方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md": {
+          "anchor": "2.5 直线与圆、圆与圆的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md": {
+          "anchor": "2.5.1 直线与圆的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md": {
+          "anchor": "2.5.2 圆与圆的位置关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程.md": {
+          "anchor": "探究与发现 方向向量与直线的参数方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 小结.md": {
+          "anchor": "第二章 直线和圆的方程 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程.md": {
+          "anchor": "第二章 直线和圆的方程",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化.md": {
+          "anchor": "阅读与思考 坐标法与数学机械化",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何.md": {
+          "anchor": "阅读与思考 笛卡儿与解析几何",
+          "destination": "Mathmap/组织层/人教A-选择性必修第一册.md"
+        }
+      },
+      "root": "book-root",
+      "root_node": {
+        "children": [
+          "atom-ba53ed449f626caf",
+          "node-toc-001",
+          "node-toc-009",
+          "node-toc-020"
+        ],
+        "filename": "组织层/普通高中教科书 数学 选择性必修 第一册/普通高中教科书 数学 选择性必修 第一册.md",
+        "heading_ranges": [],
+        "key": "book-root",
+        "layer": "organizer",
+        "organizer_level": 1,
+        "parent_key": null,
+        "title": "普通高中教科书 数学 选择性必修 第一册"
+      },
+      "source_guide": "Mathmap/知识串联/人教A-选择性必修第一册/来源与整理说明.md",
+      "source_id": "rja-selective-1",
+      "version": 1
+    },
+    "version": 1
+  },
+  "book_reference_updates": {
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/一、主题--G7e7d7a7ba84d57.md": "424911fd883659a7430aef8d02445ac50fc6caacc2f77b5ce74b9af4eaa9cdae",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/三、参考选题--Ga5f99b944f3473.md": "6f37d50d2d242fb19d392fad84f9527511c619bb1dc290302da18c692391796b",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/二、实施建议--Gea2a47d06a1620.md": "ba32dddad6e4060f90babfdc985fcdd49c14657913421581357e9f259364278d",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从冷却塔和声音定位认识双曲线--Ga55689bf13a32c.md": "8d39a44c38b1daba0cdc2a3d17152648b21c7d6ed80802ed0ead4d63278e2779",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从圆锥截线走向椭圆双曲线与抛物线方程--Gca8379b6d49ad2.md": "9d5512f0c7c659e92de88a3613b711825c9e2d7fa98dfbdf486320e9df4742ae",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从椭圆标准方程研究范围对称性与顶点--G78ba2698e304dd.md": "6447ddbbba57c02c874d2602cb5a1757e5caba4c8dc02004720ad56435be4e68",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从椭圆的几何特征建立标准方程--G72a617922fd2c7.md": "fe20aca88dfe4e02d306c178747895ca7976b5e4a49d7aa98164972e0e33eef7",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从滑翔伞受力走向空间向量及其运算--G53f8c06300ade7.md": "3833e04fdd27dbef9582add39b9f534bfaf2c8c09542b4385eddd62907b7ede6",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从点与方向建立直线方程--G8c1ecc1c629023.md": "219bc7a18d3f36bd95b5dd9b6a28419675bb080cd948a8bbafbf91f15038f132",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从焦点准线定义证明二次函数图象是抛物线--Ga0dae6b87124e9.md": "c1a5879add29a881bf992e16a4787294a983b3f347f8969d8e3ff641b57c5468",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从直线斜率判定两条直线平行与垂直--G6cbbf2d9bcdfb4.md": "05d7a56a083d4a0a13191a92861a5ff97b8c9d39fec8e3252c5f06e22ea05f6a",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从空间向量到解析几何的坐标研究路径--G7c2bc8ce9cb367.md": "bb789d129796768dc3f543c318c223b598aa3dc4574ee31c0559d94c8eb63ddc",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从空间基底走向向量的坐标运算--G06b759d6ea526f.md": "179a739485044017204dd0480e94c3cee9f3bff77b6682de1a70f4e4f3d89cf7",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从综合几何到坐标法研究直线和圆--G0cdfa89da6d505.md": "db766b6a79ab22525bec5a7c67b36294f35a2321e7dd003488d3ab673df6cd56",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从解析几何的创立理解坐标与变量方法--G5302a52ac26c62.md": "37f25452db8825fa1c94e0e2e7b98ab4c9fe462fb6784619217c1f1b54fd5853",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/利用方程研究曲线范围--G928a0cc46d7b89.md": "63ce405d9ce9787fe6711f281092b721ddd42b3f1f39eed7fcb3de6dd5f585d4",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/利用特殊点确定曲线位置--G443d9b5a916ad8.md": "80bb40a5d87e405d8697612cc029efc40491aac2f3eaa7dc4ee0870c15846646",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/双曲线及其标准方程--Gbe067b1c72ebd1.md": "f1ee3f1e0221ced54bee82a7909d45df66238e71399646f7a6ca058d496490ba",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/圆与圆的位置关系--G9fb4fb3374e724.md": "cbb1da55dee8678a2d3b217849a23fe82b57a6668a052e64cadac10a8702dc1c",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/抛物线--Gd5c88d95c217dd.md": "b767a8a7c91cee0408d370faec1d13c0b43fc834cb42b373703152dd2e73ac60",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由平面向量方法推广到空间向量与立体几何--Gd5b584e84dfd21.md": "466429778811d6b1c737b67cd9cc7aa44afd3be66840e38111b73835d311f584",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由平面基底猜想空间向量基本定理--G52b0044f27f866.md": "9e6e978c70ae521f1ab01bb8e76c9d4faea90487c28721e6c062876f2219febe",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由焦点到准线距离比描画椭圆轨迹--Gbc66c1404a12e5.md": "f03688ffdf29ba216052e96989be374e271ccfa12ba58730db7e51d5f849400b",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线与圆、圆与圆的位置关系--Gf7574a3d05d0b6.md": "1ca62b13666f66afe827d2e95a2b68314f61bd05aa1cac0e765a0284c5fdeb69",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线与圆的位置关系--Gc393902795cf8e.md": "bf4e83d1d5702f7e0940f8107a09f15ac420eaed6e20639e630745ebc192d50a",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线的交点坐标与距离公式--Gc49f81cb6335be.md": "7be4eb9e9a468c96565127e54f407b1d09d07d168edac9fad7cb2daa904c0168",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/空间向量的应用--G49137e095cd7a8.md": "1b2d3ee4c8e8fe1d42330c7f4152c9583923720f91a0d6ac7829212b1a8c57c6",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第一章 空间向量与立体几何 小结--G2340557d79b398.md": "1ba2e7b05e395daf49fc5c8d4602c395d7021ac125cd611e78062280f950e5eb",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第三章 圆锥曲线的方程 小结--G39badab8520674.md": "7db453eec914bd948f056de332fdb036a57ebcc60c096a14bb2a0477b1df32e3",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第二章 直线和圆的方程 小结--Geeeec900204536.md": "68259b06736fa96c470d770fb417c398e10d000f90d0d0e3d6e1d67350857b59",
+    "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/类比直线方程建立圆的方程--G5ad8ed978cf430.md": "aa7e3b30244e89b3bf5c4905b0fe98ab7af49befa616c421c4494f90d590dc5c",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/空间向量的数量积运算.md": "9493cfb05b6dedbfaa6cfc4bf44174dac4c947be0276d28c3bcf287baa3f4300",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/空间向量的概念与线性运算.md": "f9b119439fa7a235ed3468d6d9619cf2646e62bdf64b0ad711f10275ec49504f",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/空间向量基本定理及其证明.md": "cf695d7ee01530ec2e910f4c442cad903b25f59de311fc3c0033ed89377e2a11",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/空间向量运算的坐标表示.md": "87123e9d1695217ec442b782a5ca5da904934d3bd785891c9dd4df3746f44de2",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/空间直角坐标系与点的坐标.md": "037b12cbfa2eaebb653c4a907a886f451c1390d091089d8498e6af40f0826153",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/空间直线与平面平行垂直的向量判定.md": "715ce40d4d12c70650e861803470091f53e0d26b0eb00040e99bb8e346bfbe49",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/空间距离与夹角的向量计算.md": "683c813cc0ee3096adf914c6fb2a285db7366a92ca3ce5037f0b46168b474ad7",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用（学习单元）.md": "7ceface9ef1a2ec2bbe0ead04542b3b1e28dd055686134de218a3fd2c0ce3786",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的定义与标准方程.md": "3be9a6c38a1ef299be612a41b1d74b0badb30e5c345977ae5cac0a5e6713e2ee",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的离心率.md": "7df60d7ca63fadacd3b85428dc118b7e21e67f0502874ae570bdbdeb949e3d04",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的范围对称性与顶点.md": "a260773b4a31fc1f22c54ad30145a39d0c0cd93d75de8522aac238a92d83ab36",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的定义与标准方程.md": "eb8be909fabe97a75946dd1e4e3977a5d21659c5798033411b44f75ed8ef9f0e",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的对称性.md": "4cee3a76aa9daebcce5e5d4b03e2bdbbd56a6db4b10e04989c8eb405e215ca7a",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的渐近线.md": "85709ba9df3ef71cb7707ad323983401f5c8bd5552257152e90e666a210f8d57",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的离心率.md": "d29c2f94ae72dc71f55e0b12f3f4df6f9ffb5d1d024a91c286dbcd8c22f90017",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的范围.md": "a6784fa3687b47befb2e075795c50ec92db3d8e4d2df814b87744f5829d36b13",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的顶点与实虚轴.md": "194f12aee5c403128907a46367f04cf9bd6cb30efcd42eb04d53bfe25d1314b7",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的定义与标准方程.md": "f23d6c0d1d0c86b28c2423debc16bdfe18d618d5bec628fb9faefbdfb5a8aa9b",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的对称性.md": "3829ed452c781f27989191751f72d31dbe668166baf74b9dc9fa94ba1ab8b7eb",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的范围.md": "e604c2cb48da3d7b249542af87ec559cfc9774e43d03e58e350f052eab063b8b",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的顶点.md": "1a02b9dcc8bed233672bd9ed7801050c138173d72800b2e478026b351c547fdf",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/双曲线渐近线方程的证明.md": "e4155b5cb402d4a122fe8ae939e05ee2cee1892e1b0e5ce848e395ad6ac49edc",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/抛物线的离心率.md": "4d35a8a2468fa73f8f200cdeb7cc714f122b9b55aa14e85468e60fef35bc9879",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用（学习单元）.md": "e530d61172570a07b7de6389e27c66779bdc8f712358690561adb9f8d64aa6c7",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/两条直线平行与垂直的斜率判定.md": "311f46fb30e0fb757c3edc7f5add45d3562e0e7d0be9672dfad56c5b47e5c3d4",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/直线的倾斜角与斜率.md": "415e59db7833d0b90452b57efa852f8a910865aa7edddd8bb38afdd4620d89d6",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的一般式方程.md": "ea276960ee0bb4704e70503d4f782454fe1b4acd5272158cc7c173eaff3e7611",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的两点式与截距式方程.md": "3121c89d2457a00fc411c4941d4db072a5cfd1a2d681dd180b7d18f746079afd",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的点斜式与斜截式方程.md": "02e9fdee4b47e20ae5618d55e18c59e2e5b89251152d2cd0f5bd3e62497f1f02",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/两条平行直线间的距离.md": "54d3946796c09b751f6cc0d33a68e71a34aa067e25b6288ba8180f6911c941cc",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/两条直线的交点坐标.md": "065ab926e3557fb8772d0782ab66bb4f443e65d8c13e3df592007bc72e817bb8",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/平面两点间的距离公式及其推导.md": "e3475c7351efd768a761375e74f87e98ed07428dde85f56676c8b9e3ddf51762",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/点到直线距离公式的代数推导.md": "61eb44d224eb9524a7c4cc655772535bc1db5b8e3b58bf5a806663de0c096598",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/点到直线距离公式的向量推导.md": "3a4c32a61e1c6142548e28748d041ad80c47e50f147811cdff35f70394513023",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/圆的一般方程与成立条件.md": "f489d3494cade348990646031427979f097632c00689901d766eeeb75ceccf5e",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/圆的标准方程及其推导.md": "2387154d7abd2428d25b00f85854877d163fb93bf0068045a1c09255b31d26f9",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程（学习单元）.md": "1eb3b75fa5f3ba2165f5cfe467bc6a499eb3229c40774b9cbf1f3ba1ce14b0f8",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化（学习单元）.md": "995221a723272aa0923c39dc6b209d8240e92f1dee2c854e1287640212998480",
+    "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何（学习单元）.md": "611b411c353bf1808422aca71fe9e2c76832c8cb180a064e91bc8300a3d86a0b",
+    "Mathmap/索引.md": "0293f96261a7b89afbb97d16fd76deb81067ee94e3bbc154b6922e070a671302",
+    "Mathmap/组织层/人教A-选择性必修第一册.md": "5c0af4676cf3adc7c23a7fd65fac79b6d7dc55887e7d32cb88c5481b81aad7d4"
+  },
   "concept_presentation": "source-variants-in-body/v1",
   "coverage": {
     "原子层/习题/0001-E.md": {
@@ -10245,40 +12400,54 @@
       ]
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/普通高中教科书 数学 选择性必修 第一册.md": {
+      "book_anchors": [
+        "全书入口"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/人教A-选择性必修第一册.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第一册/人教A-选择性必修第一册.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/人教A-选择性必修第一册.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第一册/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/派生索引/01-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第一章 空间向量与立体几何 · 概念索引.md",
+      "book_anchor": "索引 · 第一章 空间向量与立体几何 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/派生索引/02-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第二章 直线和圆的方程 · 概念索引.md",
+      "book_anchor": "索引 · 第二章 直线和圆的方程 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/派生索引/03-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第一册/定义索引/第三章 圆锥曲线的方程 · 概念索引.md",
+      "book_anchor": "索引 · 第三章 圆锥曲线的方程 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第一册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1 空间向量及其运算.md": {
+      "book_anchors": [
+        "1.1 空间向量及其运算"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1 空间向量及其运算.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.1 空间向量及其线性运算.md": {
+      "book_anchors": [
+        "1.1.1 空间向量及其线性运算"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.1 空间向量及其线性运算.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.2 空间向量的数量积运算.md": {
+      "book_anchors": [
+        "1.1.2 空间向量的数量积运算"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/1.1.2 空间向量的数量积运算.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10289,8 +12458,11 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/1.2 空间向量基本定理.md": {
+      "book_anchors": [
+        "1.2 空间向量基本定理"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/1.2 空间向量基本定理.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10301,20 +12473,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3 空间向量及其运算的坐标表示.md": {
+      "book_anchors": [
+        "1.3 空间向量及其运算的坐标表示"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3 空间向量及其运算的坐标表示.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.1 空间直角坐标系.md": {
+      "book_anchors": [
+        "1.3.1 空间直角坐标系"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.1 空间直角坐标系.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.2 空间向量运算的坐标表示.md": {
+      "book_anchors": [
+        "1.3.2 空间向量运算的坐标表示"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.2 空间向量运算的坐标表示.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10325,20 +12506,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4 空间向量的应用.md": {
+      "book_anchors": [
+        "1.4 空间向量的应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4 空间向量的应用.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.1 用空间向量研究直线、平面的位置关系.md": {
+      "book_anchors": [
+        "1.4.1 用空间向量研究直线、平面的位置关系"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.1 用空间向量研究直线、平面的位置关系.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.2 用空间向量研究距离、夹角问题.md": {
+      "book_anchors": [
+        "1.4.2 用空间向量研究距离、夹角问题"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/1.4.2 用空间向量研究距离、夹角问题.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10355,42 +12545,58 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 小结.md": {
+      "book_anchors": [
+        "第一章 空间向量与立体几何 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何.md": {
+      "book_anchors": [
+        "第一章 空间向量与立体几何"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何.md",
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第一章 空间向量与立体几何/第一章 空间向量与立体几何.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用.md": {
+      "book_anchors": [
+        "阅读与思考 向量概念的推广与应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md": {
+      "book_anchors": [
+        "3.1 椭圆"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.1 椭圆/3.1 椭圆.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md": {
+      "book_anchors": [
+        "3.1.1 椭圆及其标准方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md": {
+      "book_anchors": [
+        "3.1.2 椭圆的简单几何性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10401,23 +12607,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md": {
+      "book_anchors": [
+        "3.2 双曲线"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2 双曲线.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md": {
+      "book_anchors": [
+        "3.2.1 双曲线及其标准方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2.1 双曲线及其标准方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md": {
+      "book_anchors": [
+        "3.2.2 双曲线的简单几何性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10428,36 +12640,47 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md": {
+      "book_anchors": [
+        "3.3 抛物线"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.3 抛物线/3.3 抛物线.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md": {
+      "book_anchors": [
+        "3.3.1 抛物线及其标准方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md": {
+      "book_anchors": [
+        "信息技术应用 用信息技术探究点的轨迹: 椭圆"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/信息技术应用 用信息技术探究点的轨迹－ 椭圆.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/探究与发现 为什么 $y = －pm －frac{b}{a} x$ 是双曲线 $－frac{x^2}{a^2} - －frac{y^2}{b^2} = 1$ 的渐近线.md": {
+      "book_anchors": [
+        "探究与发现 为什么 $y = \\pm \\frac{b}{a} x$ 是双曲线 $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ 的渐近线"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么 $y = －pm －frac{b}{a} x$ 是双曲线 $－frac{x^2}{a^2} - －frac{y^2}{b^2} = 1$ 的渐近线.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md": {
+      "book_anchors": [
+        "3.3.2 抛物线的简单几何性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10468,15 +12691,20 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md": {
+      "book_anchors": [
+        "探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/文献阅读与数学写作 － 解析几何的形成与发展.md": {
+      "book_anchors": [
+        "文献阅读与数学写作 * 解析几何的形成与发展"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/文献阅读与数学写作 － 解析几何的形成与发展.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10487,41 +12715,58 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 小结.md": {
+      "book_anchors": [
+        "第三章 圆锥曲线的方程 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md": {
+      "book_anchors": [
+        "第三章 圆锥曲线的方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第三章 圆锥曲线的方程/第三章 圆锥曲线的方程.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用.md": {
+      "book_anchors": [
+        "阅读与思考 圆锥曲线的光学性质及其应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1 直线的倾斜角与斜率.md": {
+      "book_anchors": [
+        "2.1 直线的倾斜角与斜率"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1 直线的倾斜角与斜率.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.1 倾斜角与斜率.md": {
+      "book_anchors": [
+        "2.1.1 倾斜角与斜率"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.1 倾斜角与斜率.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.2 两条直线平行和垂直的判定.md": {
+      "book_anchors": [
+        "2.1.2 两条直线平行和垂直的判定"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.2 两条直线平行和垂直的判定.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10532,29 +12777,38 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md": {
+      "book_anchors": [
+        "2.2 直线的方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2 直线的方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md": {
+      "book_anchors": [
+        "2.2.1 直线的点斜式方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2.1 直线的点斜式方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.2 直线的两点式方程.md": {
+      "book_anchors": [
+        "2.2.2 直线的两点式方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.2 直线的两点式方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md": {
+      "book_anchors": [
+        "2.2.3 直线的一般式方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.2 直线的方程/2.2.3 直线的一般式方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10565,37 +12819,47 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md": {
+      "book_anchors": [
+        "2.3 直线的交点坐标与距离公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3 直线的交点坐标与距离公式.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md": {
+      "book_anchors": [
+        "2.3.1 两条直线的交点坐标"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md": {
+      "book_anchors": [
+        "2.3.2 两点间的距离公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.2 两点间的距离公式.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md": {
+      "book_anchors": [
+        "2.3.3 点到直线的距离公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md": {
+      "book_anchors": [
+        "2.3.4 两条平行直线间的距离"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.4 两条平行直线间的距离.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10606,23 +12870,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md": {
+      "book_anchors": [
+        "2.4 圆的方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4 圆的方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md": {
+      "book_anchors": [
+        "2.4.1 圆的标准方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4.1 圆的标准方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md": {
+      "book_anchors": [
+        "2.4.2 圆的一般方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10633,23 +12903,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md": {
+      "book_anchors": [
+        "2.5 直线与圆、圆与圆的位置关系"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5 直线与圆、圆与圆的位置关系.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md": {
+      "book_anchors": [
+        "2.5.1 直线与圆的位置关系"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.1 直线与圆的位置关系.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md": {
+      "book_anchors": [
+        "2.5.2 圆与圆的位置关系"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/2.5 直线与圆、圆与圆的位置关系/2.5.2 圆与圆的位置关系.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10660,8 +12936,11 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程.md": {
+      "book_anchors": [
+        "探究与发现 方向向量与直线的参数方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -10672,29 +12951,40 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 小结.md": {
+      "book_anchors": [
+        "第二章 直线和圆的方程 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/第二章 直线和圆的方程.md": {
+      "book_anchors": [
+        "第二章 直线和圆的方程"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程.md",
-        "Mathmap/知识串联/人教A-选择性必修第一册/教材问题顺序/第二章 直线和圆的方程/第二章 直线和圆的方程.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第一册/第二章 直线和圆的方程/第二章 直线和圆的方程.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化.md": {
+      "book_anchors": [
+        "阅读与思考 坐标法与数学机械化"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何.md": {
+      "book_anchors": [
+        "阅读与思考 笛卡儿与解析几何"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何.md"
+        "Mathmap/组织层/人教A-选择性必修第一册.md"
       ],
       "disposition": "organization-projection"
     }
@@ -16300,7 +18590,7 @@
         ],
         "reason": "保留“空间向量的数量积运算”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ae50007fae6d83f840aabf495ca2546d1629b9abcc446dc8311c6cbe903ccdbc",
+        "sha256": "9493cfb05b6dedbfaa6cfc4bf44174dac4c947be0276d28c3bcf287baa3f4300",
         "source_components": [
           {
             "id": "K7dfe97bbf125df",
@@ -16480,7 +18770,7 @@
         "prerequisites": [],
         "reason": "保留“空间向量的概念与线性运算”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c3f67a6f9aac9bfe46d142d3853b597f6c0c1323269d86632e15dd841c8b810b",
+        "sha256": "f9b119439fa7a235ed3468d6d9619cf2646e62bdf64b0ad711f10275ec49504f",
         "source_components": [
           {
             "id": "K33418901b92cdd",
@@ -16669,7 +18959,7 @@
         ],
         "reason": "保留“空间向量基本定理及其证明”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d55744cc66854dbb71ba5832145356a649628eda2cb2129a984b6b75cad8cc14",
+        "sha256": "cf695d7ee01530ec2e910f4c442cad903b25f59de311fc3c0033ed89377e2a11",
         "source_components": [
           {
             "id": "K68464f7c7f8092",
@@ -17034,7 +19324,7 @@
         ],
         "reason": "保留“空间向量运算的坐标表示”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "89ca3f9a0ac56622b90ee4d255e9d4914354af014cdb35a6c2d312f5320ec3d8",
+        "sha256": "87123e9d1695217ec442b782a5ca5da904934d3bd785891c9dd4df3746f44de2",
         "source_components": [
           {
             "id": "K0c30ac1f5fd9f9",
@@ -17229,7 +19519,7 @@
         ],
         "reason": "保留“空间直角坐标系与点的坐标”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d2c45cb501649fbfa882dee1f62f62c59cc1e1856e8c2e7bf7d7c9451d49623e",
+        "sha256": "037b12cbfa2eaebb653c4a907a886f451c1390d091089d8498e6af40f0826153",
         "source_components": [
           {
             "id": "K68b2da16e4f5f7",
@@ -17387,7 +19677,7 @@
         "prerequisites": [],
         "reason": "保留“空间直线与平面平行垂直的向量判定”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "30a0e0452347c2db4bf11259175523b84212bd2e0c40d31a6b2a1ac730824012",
+        "sha256": "715ce40d4d12c70650e861803470091f53e0d26b0eb00040e99bb8e346bfbe49",
         "source_components": [
           {
             "id": "K904efdcf559297",
@@ -17661,7 +19951,7 @@
         ],
         "reason": "保留“空间距离与夹角的向量计算”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "77edaa2f3c871e84b87bcdd8818d941668266daf7cec72a6476d36ef999f2c70",
+        "sha256": "683c813cc0ee3096adf914c6fb2a285db7366a92ca3ce5037f0b46168b474ad7",
         "source_components": [
           {
             "id": "Kc95d5434066a27",
@@ -17948,7 +20238,7 @@
         "prerequisites": [],
         "reason": "保留“椭圆的定义与标准方程”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "e6946663657b0949215e4a1c1e397d94724d5ddfc5ee950d7956e46a723dcdbd",
+        "sha256": "3be9a6c38a1ef299be612a41b1d74b0badb30e5c345977ae5cac0a5e6713e2ee",
         "source_components": [
           {
             "id": "Kb34926afc59081",
@@ -18160,7 +20450,7 @@
         ],
         "reason": "保留“椭圆的离心率”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "71b32c0faf5552d1aa92a40a15f17225a15dd751ed7ecca96fdd3b3c2ca9eff5",
+        "sha256": "7df60d7ca63fadacd3b85428dc118b7e21e67f0502874ae570bdbdeb949e3d04",
         "source_components": [
           {
             "id": "K4f9ef16ec4a9b8",
@@ -18367,7 +20657,7 @@
         ],
         "reason": "保留“椭圆的范围对称性与顶点”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "937bfb613fac152042bf8c3a125bb7d3abcf5af2a24f680c3f4de2b29694ebbd",
+        "sha256": "a260773b4a31fc1f22c54ad30145a39d0c0cd93d75de8522aac238a92d83ab36",
         "source_components": [
           {
             "id": "K1ae7ac12e85690",
@@ -18597,7 +20887,7 @@
         "prerequisites": [],
         "reason": "保留“双曲线的定义与标准方程”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "10af1ba73b23e6266fc72b2840ed1cb0c89ca8689eee0d13c0ba56bacf390076",
+        "sha256": "eb8be909fabe97a75946dd1e4e3977a5d21659c5798033411b44f75ed8ef9f0e",
         "source_components": [
           {
             "id": "Ka05d4b1113897e",
@@ -18777,7 +21067,7 @@
         "prerequisites": [],
         "reason": "保留“双曲线的对称性”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "226505dd20868bc76c7b23a4fe0f5c6de8f2245ea77bea2f3cb1865787451ba4",
+        "sha256": "4cee3a76aa9daebcce5e5d4b03e2bdbbd56a6db4b10e04989c8eb405e215ca7a",
         "source_components": [
           {
             "id": "K03bb8c73f1ebb9",
@@ -18981,7 +21271,7 @@
         ],
         "reason": "保留“双曲线的渐近线”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "fca5fe956a0986778b557de17693b5c542bae4a7ad488af3b933934f3bf80362",
+        "sha256": "85709ba9df3ef71cb7707ad323983401f5c8bd5552257152e90e666a210f8d57",
         "source_components": [
           {
             "id": "Kb7cbbb3109ef57",
@@ -19165,7 +21455,7 @@
         "prerequisites": [],
         "reason": "保留“双曲线的离心率”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "52f8d809e3b185a02ee3e0cb063d15205eb0e9d148e18de9b1c7f01fcb32c959",
+        "sha256": "d29c2f94ae72dc71f55e0b12f3f4df6f9ffb5d1d024a91c286dbcd8c22f90017",
         "source_components": [
           {
             "id": "K315ee6fa99179e",
@@ -19358,7 +21648,7 @@
         "prerequisites": [],
         "reason": "保留“双曲线的范围”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "459b8108c15ee446ae7a6e6694d3ad9e258329fa0559d3d7bc3ec3c3a5358a70",
+        "sha256": "a6784fa3687b47befb2e075795c50ec92db3d8e4d2df814b87744f5829d36b13",
         "source_components": [
           {
             "id": "K6199c33a93b13e",
@@ -19551,7 +21841,7 @@
         "prerequisites": [],
         "reason": "保留“双曲线的顶点与实虚轴”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "53c31f69942b7c010567bc7f9bb007c084b0d8894ba9f000aa40708d97c84134",
+        "sha256": "194f12aee5c403128907a46367f04cf9bd6cb30efcd42eb04d53bfe25d1314b7",
         "source_components": [
           {
             "id": "K46690f161784f9",
@@ -19754,7 +22044,7 @@
         "prerequisites": [],
         "reason": "保留“抛物线的定义与标准方程”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "53ff896b2b807cdf6cb7272af09e967dec1e00a53193d06e17142b1d8117a517",
+        "sha256": "f23d6c0d1d0c86b28c2423debc16bdfe18d618d5bec628fb9faefbdfb5a8aa9b",
         "source_components": [
           {
             "id": "K6a74d0f16b2ed0",
@@ -19916,7 +22206,7 @@
         "prerequisites": [],
         "reason": "保留“抛物线的对称性”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "e08ea113762c21073f5fb2034bdfa4a19ae1ed1790900202419fa141dbb8fe07",
+        "sha256": "3829ed452c781f27989191751f72d31dbe668166baf74b9dc9fa94ba1ab8b7eb",
         "source_components": [
           {
             "id": "K51a6a160c7f83d",
@@ -20313,7 +22603,7 @@
         "prerequisites": [],
         "reason": "保留“抛物线的范围”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "cc9d04d03cba89291cbbc89af3b9edea936ef0202cdcfe5b8dae444751b555a2",
+        "sha256": "e604c2cb48da3d7b249542af87ec559cfc9774e43d03e58e350f052eab063b8b",
         "source_components": [
           {
             "id": "Kad94972027692c",
@@ -20701,7 +22991,7 @@
         "prerequisites": [],
         "reason": "保留“抛物线的顶点”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "885ae24f858bf4eb066f5a8477635b8a4e2aa8c233c24460ab8e5807f5da3d76",
+        "sha256": "1a02b9dcc8bed233672bd9ed7801050c138173d72800b2e478026b351c547fdf",
         "source_components": [
           {
             "id": "K8898f79694e57e",
@@ -21096,7 +23386,7 @@
         "prerequisites": [],
         "reason": "保留“抛物线的离心率”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c9320f7e040146e5d948b3b856c55dff06c86a946680715f80cf39fdfe5c22ce",
+        "sha256": "4d35a8a2468fa73f8f200cdeb7cc714f122b9b55aa14e85468e60fef35bc9879",
         "source_components": [
           {
             "id": "K30f408945ee143",
@@ -21370,7 +23660,7 @@
         ],
         "reason": "保留“两条直线平行与垂直的斜率判定”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "7be79c1982b2f366adf5d9a9837c5c96b6f33669d0005ff12f86ea9be2cd286b",
+        "sha256": "311f46fb30e0fb757c3edc7f5add45d3562e0e7d0be9672dfad56c5b47e5c3d4",
         "source_components": [
           {
             "id": "Kf880b20b11f723",
@@ -21536,7 +23826,7 @@
         "prerequisites": [],
         "reason": "保留“直线的倾斜角与斜率”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c80e66fbb30c389efeefa5196070bada543693a920da55293a2f5e836f968680",
+        "sha256": "415e59db7833d0b90452b57efa852f8a910865aa7edddd8bb38afdd4620d89d6",
         "source_components": [
           {
             "id": "K8b32d5014e36ea",
@@ -21943,7 +24233,7 @@
         "prerequisites": [],
         "reason": "保留“直线的一般式方程”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "108f8b0307e52c170b88496f0a235ef225c00f73d99dbd8e947ea53a3cff9695",
+        "sha256": "ea276960ee0bb4704e70503d4f782454fe1b4acd5272158cc7c173eaff3e7611",
         "source_components": [
           {
             "id": "K1db7fb83e5e418",
@@ -22096,7 +24386,7 @@
         "prerequisites": [],
         "reason": "保留“直线的两点式与截距式方程”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "437dfaa41e48e26e6e47eb30e3538be72e85670c0b0315f9976c82570ae34ea0",
+        "sha256": "3121c89d2457a00fc411c4941d4db072a5cfd1a2d681dd180b7d18f746079afd",
         "source_components": [
           {
             "id": "K0dddadef318bed",
@@ -22242,7 +24532,7 @@
         ],
         "reason": "保留“直线的点斜式与斜截式方程”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c3eaa6ec97aa24cbfc55390c7b1c6a6d8775ac33667b986a2147c3d2f558c23c",
+        "sha256": "02e9fdee4b47e20ae5618d55e18c59e2e5b89251152d2cd0f5bd3e62497f1f02",
         "source_components": [
           {
             "id": "K5e3a20f35fccf0",
@@ -22415,7 +24705,7 @@
         "prerequisites": [],
         "reason": "保留“两条平行直线间的距离”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "85ef8387c0f1a1970f12984f7aebce83c75cd06fa5ddae2c2b02e4ae518cfa77",
+        "sha256": "54d3946796c09b751f6cc0d33a68e71a34aa067e25b6288ba8180f6911c941cc",
         "source_components": [
           {
             "id": "K3339667d4367b7",
@@ -22559,7 +24849,7 @@
         "prerequisites": [],
         "reason": "保留“两条直线的交点坐标”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d642bd5596fbd90276bf4221e7bceb0fd2641023c3e748cc261d9dade80d048e",
+        "sha256": "065ab926e3557fb8772d0782ab66bb4f443e65d8c13e3df592007bc72e817bb8",
         "source_components": [
           {
             "id": "K266ef899282d66",
@@ -22703,7 +24993,7 @@
         "prerequisites": [],
         "reason": "保留“平面两点间的距离公式及其推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "3b03673594196b771b32f9ec7cd96a0d69b4291816eef1417f6400dd478c37bd",
+        "sha256": "e3475c7351efd768a761375e74f87e98ed07428dde85f56676c8b9e3ddf51762",
         "source_components": [
           {
             "id": "K63e9ae204c4548",
@@ -22856,7 +25146,7 @@
         "prerequisites": [],
         "reason": "保留“点到直线距离公式的代数推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "de5e85916704069045f93f74ed59bfe25225607383e8b2db3238cd3482ccef28",
+        "sha256": "61eb44d224eb9524a7c4cc655772535bc1db5b8e3b58bf5a806663de0c096598",
         "source_components": [
           {
             "id": "K2d8b62110ae6b2",
@@ -23008,7 +25298,7 @@
         "prerequisites": [],
         "reason": "保留“点到直线距离公式的向量推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "b1d10d9b0f087adfe5fc4005407ceebcb1ee7f6d703d77d8f5ec933ca0d30834",
+        "sha256": "3a4c32a61e1c6142548e28748d041ad80c47e50f147811cdff35f70394513023",
         "source_components": [
           {
             "id": "Kaec6c226cf4c86",
@@ -23160,7 +25450,7 @@
         "prerequisites": [],
         "reason": "保留“圆的一般方程与成立条件”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "70e71fde9befad633ec652992a0571c672622be05684b3db27a6b2c1fe0ab485",
+        "sha256": "f489d3494cade348990646031427979f097632c00689901d766eeeb75ceccf5e",
         "source_components": [
           {
             "id": "Kacaa8f5ad0c14d",
@@ -23522,283 +25812,283 @@
     "pages": {
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/一、主题--G7e7d7a7ba84d57.md": {
         "before_sha256": "b365e42d90e5f0ac110e2ee2ac1d4b39f5c9e45bc3a64535a2453c1dad75e9f0",
-        "sha256": "18263779ea25a153ff68dfd9d569e6a9cc98ce58cc01ee3afd69ba5b11ecbae6"
+        "sha256": "424911fd883659a7430aef8d02445ac50fc6caacc2f77b5ce74b9af4eaa9cdae"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/三、参考选题--Ga5f99b944f3473.md": {
         "before_sha256": "268122b0267ac803ab8ce77a006caaeae7da3bb44e9816f748b9238bce5825e4",
-        "sha256": "2bce8350b6bf5198174702dff3e248c51cba86583c0073bd470dc88bd58af57f"
+        "sha256": "6f37d50d2d242fb19d392fad84f9527511c619bb1dc290302da18c692391796b"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/二、实施建议--Gea2a47d06a1620.md": {
         "before_sha256": "fe1f8f04884dc4bfe80278cf2a2c3f8e4ef1278a97aee1e78f8d7d7846200387",
-        "sha256": "57fe08b7dc67e2cfbe3c34a330b79fe2c75ea1734f86a54f77dc646ec3436d34"
+        "sha256": "ba32dddad6e4060f90babfdc985fcdd49c14657913421581357e9f259364278d"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从冷却塔和声音定位认识双曲线--Ga55689bf13a32c.md": {
         "before_sha256": "47e959bf671e6470f90f7d6bc2826689a1156db633db7eeef8372cad3c3e84c8",
-        "sha256": "aef8e4f0b0d7284a33b9cd6716b73b44fcf59f717c4bc18525a05ea6381f8317"
+        "sha256": "8d39a44c38b1daba0cdc2a3d17152648b21c7d6ed80802ed0ead4d63278e2779"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从圆锥截线走向椭圆双曲线与抛物线方程--Gca8379b6d49ad2.md": {
         "before_sha256": "1560dc64de050bc66c9ff08347622f9ec9c94ec5022d9dda1e54e272b92a65d9",
-        "sha256": "6985f41a1d111977e121035db2c66daf7480b141b92d8c112ce3c36c300bd54f"
+        "sha256": "9d5512f0c7c659e92de88a3613b711825c9e2d7fa98dfbdf486320e9df4742ae"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从椭圆标准方程研究范围对称性与顶点--G78ba2698e304dd.md": {
         "before_sha256": "90c07e5d8efc834835ac1ae466b00fd84f61443a96bf38fca59c58a064df7d74",
-        "sha256": "045116e1e08a756802fc6e1cf3ae19b884eea3f6f9a0c86314036a5e39953404"
+        "sha256": "6447ddbbba57c02c874d2602cb5a1757e5caba4c8dc02004720ad56435be4e68"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从椭圆的几何特征建立标准方程--G72a617922fd2c7.md": {
         "before_sha256": "ce872be653d85fcd897a35c063df3ab88c801db4ba311c5683df5e5aed6394c9",
-        "sha256": "5a4ba5a86ed974e169e3b3fa84439a594e7a04ca41a11cf60a267b6186f788b2"
+        "sha256": "fe20aca88dfe4e02d306c178747895ca7976b5e4a49d7aa98164972e0e33eef7"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从滑翔伞受力走向空间向量及其运算--G53f8c06300ade7.md": {
         "before_sha256": "83f8188e591596d74abc0f8a10dd9ff286d213c2b188fb7ca65d2653c57818ef",
-        "sha256": "989dd6c286600eb449b2163dc84c0f49e491601091a0d04472c71e332bc6b9a6"
+        "sha256": "3833e04fdd27dbef9582add39b9f534bfaf2c8c09542b4385eddd62907b7ede6"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从点与方向建立直线方程--G8c1ecc1c629023.md": {
         "before_sha256": "e266355af777f12cecdd7c17ce48a0381873e4dbee902887f35dfe3532d3b2f7",
-        "sha256": "523effa21b20934a4c675be86ff0034c413fe56a3ba6c81c0363686643f8c05e"
+        "sha256": "219bc7a18d3f36bd95b5dd9b6a28419675bb080cd948a8bbafbf91f15038f132"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从焦点准线定义证明二次函数图象是抛物线--Ga0dae6b87124e9.md": {
         "before_sha256": "4da345ff4bd5f40faa727cccd7d666a55ab0c69788106782e4abc99affacc450",
-        "sha256": "d4947e187ba8797f7c32bf2fddd2327422189909359e39ec3647a710da6ef0b8"
+        "sha256": "c1a5879add29a881bf992e16a4787294a983b3f347f8969d8e3ff641b57c5468"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从直线斜率判定两条直线平行与垂直--G6cbbf2d9bcdfb4.md": {
         "before_sha256": "c974274aee3a4b5a72f71c6507765fbb5c387b0fa0d0829cc1dbfb5f86e903be",
-        "sha256": "300ed16609d8541c8fe79c62780056351ff070d91516594cfd7859416ac51d94"
+        "sha256": "05d7a56a083d4a0a13191a92861a5ff97b8c9d39fec8e3252c5f06e22ea05f6a"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从空间向量到解析几何的坐标研究路径--G7c2bc8ce9cb367.md": {
         "before_sha256": "06a16e04ff269c59d55dd996e775e2fd00541f9fa25b6d18fcc45fabf4cce3ef",
-        "sha256": "81ce11a0d5416889694df28c64c99fb179a8f1e406515bc7314f2b54f34185eb"
+        "sha256": "bb789d129796768dc3f543c318c223b598aa3dc4574ee31c0559d94c8eb63ddc"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从空间基底走向向量的坐标运算--G06b759d6ea526f.md": {
         "before_sha256": "4c237f3e05c37a50892a25c914f1156d5d0cf09e238b306b67e43e319928d254",
-        "sha256": "45b5bdde93bb754e9775077aeaa899bdac710c9e266a9f138562ed24fa12a9d9"
+        "sha256": "179a739485044017204dd0480e94c3cee9f3bff77b6682de1a70f4e4f3d89cf7"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从综合几何到坐标法研究直线和圆--G0cdfa89da6d505.md": {
         "before_sha256": "ec4ee7bdf13de919648f570e7505c795f17530ed651eecb954dc575ffcef2474",
-        "sha256": "072f32571aa31862e6d25d0583e297b741ac071295689090be3df31f6923eaf2"
+        "sha256": "db766b6a79ab22525bec5a7c67b36294f35a2321e7dd003488d3ab673df6cd56"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从解析几何的创立理解坐标与变量方法--G5302a52ac26c62.md": {
         "before_sha256": "bcfc26ff5fa81201737bd84a70da2dc2e67ba196d6dfcd17e1e4c46361535c38",
-        "sha256": "4e44fdf82a76aee555757142dfab6e5eb306738e287a5bf0388572a4c28d3526"
+        "sha256": "37f25452db8825fa1c94e0e2e7b98ab4c9fe462fb6784619217c1f1b54fd5853"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/利用方程研究曲线范围--G928a0cc46d7b89.md": {
         "before_sha256": "f72454c14ed9a0d9a25c743be996f98725b947e88bd897ab103e11979c3df555",
-        "sha256": "4e317c92e2f0898e6b3076db08170076f8bbc124a15279cba0067a026c9dbfc3"
+        "sha256": "63ce405d9ce9787fe6711f281092b721ddd42b3f1f39eed7fcb3de6dd5f585d4"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/利用特殊点确定曲线位置--G443d9b5a916ad8.md": {
         "before_sha256": "c738b571ea4b8ebeb93dc1b6b211c5efdc1a70b8f011261612ea494f44f5b512",
-        "sha256": "6a49cd082f6c427a0c6d62df515db2836abefd1e481eaf2e83b055736309bfda"
+        "sha256": "80bb40a5d87e405d8697612cc029efc40491aac2f3eaa7dc4ee0870c15846646"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/双曲线及其标准方程--Gbe067b1c72ebd1.md": {
         "before_sha256": "01894a760facfacd283ed3b4461d9e4c842e02078db84776d61b20c603636c3a",
-        "sha256": "dfe0758359ee820c4b31e3a12dfe6212aa7256a7d55898fcf53602226baef70f"
+        "sha256": "f1ee3f1e0221ced54bee82a7909d45df66238e71399646f7a6ca058d496490ba"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/圆与圆的位置关系--G9fb4fb3374e724.md": {
         "before_sha256": "e1c37df06dfbb40b889e95de0ee24b5fd9ed1737f68e804b4cf99c34b1cbc3ac",
-        "sha256": "aac129e58848d96ec92a3678bcbfd374a62113577f69081f1c0c715a95af1269"
+        "sha256": "cbb1da55dee8678a2d3b217849a23fe82b57a6668a052e64cadac10a8702dc1c"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/抛物线--Gd5c88d95c217dd.md": {
         "before_sha256": "70116f0f360d5d99ff99aabd25f4a155914a7ccb6a99ccc0bb645a39790a29c1",
-        "sha256": "5bdc3b443f5e876f35573f5625f01c2e34903657e13ac3df983921bfed48cd48"
+        "sha256": "b767a8a7c91cee0408d370faec1d13c0b43fc834cb42b373703152dd2e73ac60"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由平面向量方法推广到空间向量与立体几何--Gd5b584e84dfd21.md": {
         "before_sha256": "0e34a45953a104c5632693c4a4ff7c6bda43683aef7f9dc5ba12ed94031b46ec",
-        "sha256": "cf020c1fc58c9093293214df7d3127ad370808f5e2c8210a652d5f4ac3604170"
+        "sha256": "466429778811d6b1c737b67cd9cc7aa44afd3be66840e38111b73835d311f584"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由平面基底猜想空间向量基本定理--G52b0044f27f866.md": {
         "before_sha256": "c0cf8fe01b92c53d632094dd741416127b00ae35f9328f92461a77d9c115a811",
-        "sha256": "0d056ad54f7e383cc28f3616a64118809aa9af33e336d8653ce23e43647b5978"
+        "sha256": "9e6e978c70ae521f1ab01bb8e76c9d4faea90487c28721e6c062876f2219febe"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由焦点到准线距离比描画椭圆轨迹--Gbc66c1404a12e5.md": {
         "before_sha256": "20ba2accbb93543c5fec5aaa1ec6fbcddb179e1b79a89364dfd2695f83e00de5",
-        "sha256": "0bd5cb22cd20320bffedf5b014118e287e5b8c75a94e0ebfb4ce93970e0d9291"
+        "sha256": "f03688ffdf29ba216052e96989be374e271ccfa12ba58730db7e51d5f849400b"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线与圆、圆与圆的位置关系--Gf7574a3d05d0b6.md": {
         "before_sha256": "eb74a2d525bca7588d8e83956af854dae625693ea6e192b8cbdf90ab724fba61",
-        "sha256": "806b09aef9db415e562201c31a3c0ef0f507eb16deda65116c6ea0bf9273ce62"
+        "sha256": "1ca62b13666f66afe827d2e95a2b68314f61bd05aa1cac0e765a0284c5fdeb69"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线与圆的位置关系--Gc393902795cf8e.md": {
         "before_sha256": "aefe93e66e0399653f152ad2a38110fd3b77218ff0421b28fc9f40f6581d5369",
-        "sha256": "b5c78581dedb7d213490fb14cd981958ffa794c12968eb46d43d44b5fdf7d7e6"
+        "sha256": "bf4e83d1d5702f7e0940f8107a09f15ac420eaed6e20639e630745ebc192d50a"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/直线的交点坐标与距离公式--Gc49f81cb6335be.md": {
         "before_sha256": "15b639b4f91ecd21966e69936180ce20a774b5eef591f103dfc37a8e9ec4b203",
-        "sha256": "17850742105f3d1b5806dbd2732c3344bf28f9c87a955ea0df40f786c6a80a4c"
+        "sha256": "7be4eb9e9a468c96565127e54f407b1d09d07d168edac9fad7cb2daa904c0168"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/空间向量的应用--G49137e095cd7a8.md": {
         "before_sha256": "c2a8d19c0aed2dfe08f707a6936f8bdb1aa509fcc7d63ade8292ddea0e599ca0",
-        "sha256": "8cdc44d513c2e9868c764be476bfe8852163478603a35c3d47f9b66c9198ee40"
+        "sha256": "1b2d3ee4c8e8fe1d42330c7f4152c9583923720f91a0d6ac7829212b1a8c57c6"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第一章 空间向量与立体几何 小结--G2340557d79b398.md": {
         "before_sha256": "7c094d853d86a854c96f337b6fcd5a4c725ada58d495869f692975528093530e",
-        "sha256": "fe4abf1578ac6bbd48099db474f493903c5c833423af8c4c58df098720e9022a"
+        "sha256": "1ba2e7b05e395daf49fc5c8d4602c395d7021ac125cd611e78062280f950e5eb"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第三章 圆锥曲线的方程 小结--G39badab8520674.md": {
         "before_sha256": "79470e95492419517aac79988d11cd37a85861c17fdde268948cb816abf83537",
-        "sha256": "d8c1ce0edbfd8dc9a2084ef135fb6ed3425bec2708c3e706d92de26f1016750c"
+        "sha256": "7db453eec914bd948f056de332fdb036a57ebcc60c096a14bb2a0477b1df32e3"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/第二章 直线和圆的方程 小结--Geeeec900204536.md": {
         "before_sha256": "34fae94ba9eb973884da46540cb113ae0477704be28b29f96f7de0650a361324",
-        "sha256": "e88452484fb8e77369cbc725d09a6a263b8e5d9d2ad8736e5f08dbddd19f49f7"
+        "sha256": "68259b06736fa96c470d770fb417c398e10d000f90d0d0e3d6e1d67350857b59"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/类比直线方程建立圆的方程--G5ad8ed978cf430.md": {
         "before_sha256": "9f42952622f2e2d49940c10ed1a3734ba239defecacd2afbba0c7393dd62b968",
-        "sha256": "f997cae880aaa75aad1abe827ca094de4513a9f0275221059e96f497db91a34e"
+        "sha256": "aa7e3b30244e89b3bf5c4905b0fe98ab7af49befa616c421c4494f90d590dc5c"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/空间向量的数量积运算.md": {
         "before_sha256": "bd78e035ade4dd481ddd901e3aa4f68ea2004e81fb4c0d74b84a2eb7646340d2",
-        "sha256": "ae50007fae6d83f840aabf495ca2546d1629b9abcc446dc8311c6cbe903ccdbc"
+        "sha256": "9493cfb05b6dedbfaa6cfc4bf44174dac4c947be0276d28c3bcf287baa3f4300"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.1 空间向量及其运算/空间向量的概念与线性运算.md": {
         "before_sha256": "7aab16aa933313d9be0236b052d915a4fbb57fecb7ce7f4e572e435ed9406df9",
-        "sha256": "c3f67a6f9aac9bfe46d142d3853b597f6c0c1323269d86632e15dd841c8b810b"
+        "sha256": "f9b119439fa7a235ed3468d6d9619cf2646e62bdf64b0ad711f10275ec49504f"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.2 空间向量基本定理/空间向量基本定理及其证明.md": {
         "before_sha256": "771d8219e078840a3bd66f0b9612a111843926f9b315bef683dbd82b2b8720f5",
-        "sha256": "d55744cc66854dbb71ba5832145356a649628eda2cb2129a984b6b75cad8cc14"
+        "sha256": "cf695d7ee01530ec2e910f4c442cad903b25f59de311fc3c0033ed89377e2a11"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/空间向量运算的坐标表示.md": {
         "before_sha256": "b6da12ec1f1b86e14c47e317c7483d79af351be22d1b11d8f586a4ce7f9f9a6a",
-        "sha256": "89ca3f9a0ac56622b90ee4d255e9d4914354af014cdb35a6c2d312f5320ec3d8"
+        "sha256": "87123e9d1695217ec442b782a5ca5da904934d3bd785891c9dd4df3746f44de2"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/空间直角坐标系与点的坐标.md": {
         "before_sha256": "4e1eac6e6087089d0a4bb5c0e4d069500e309ac047237a78bf85f97e0d978d09",
-        "sha256": "d2c45cb501649fbfa882dee1f62f62c59cc1e1856e8c2e7bf7d7c9451d49623e"
+        "sha256": "037b12cbfa2eaebb653c4a907a886f451c1390d091089d8498e6af40f0826153"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/空间直线与平面平行垂直的向量判定.md": {
         "before_sha256": "a6289ba028c3b080e8296e827f609dc947c14cf3371fb0954a4384deb8e8a385",
-        "sha256": "30a0e0452347c2db4bf11259175523b84212bd2e0c40d31a6b2a1ac730824012"
+        "sha256": "715ce40d4d12c70650e861803470091f53e0d26b0eb00040e99bb8e346bfbe49"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.4 空间向量的应用/空间距离与夹角的向量计算.md": {
         "before_sha256": "31cb6d5412dbf0eecaf2acc77f5418ce8da6596dc7eba63dad20edb778c444d7",
-        "sha256": "77edaa2f3c871e84b87bcdd8818d941668266daf7cec72a6476d36ef999f2c70"
+        "sha256": "683c813cc0ee3096adf914c6fb2a285db7366a92ca3ce5037f0b46168b474ad7"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/阅读与思考 向量概念的推广与应用（学习单元）.md": {
         "before_sha256": "7aaa0b94a73de4a5cac4ab6b24848e48ece6612ee08967b74161fb6445277440",
-        "sha256": "3e643459f9f206d1537460f794cfbc9f7b37f20e20dbd6711a39e2e1c3879cfd"
+        "sha256": "7ceface9ef1a2ec2bbe0ead04542b3b1e28dd055686134de218a3fd2c0ce3786"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的定义与标准方程.md": {
         "before_sha256": "508c485614ba0d9476442627838199dfb03893fa2a8b264280efd847459af970",
-        "sha256": "e6946663657b0949215e4a1c1e397d94724d5ddfc5ee950d7956e46a723dcdbd"
+        "sha256": "3be9a6c38a1ef299be612a41b1d74b0badb30e5c345977ae5cac0a5e6713e2ee"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的离心率.md": {
         "before_sha256": "ab4128175a028fd6c532b28cd316c9b298222981c65045228232aecdb2f05a0c",
-        "sha256": "71b32c0faf5552d1aa92a40a15f17225a15dd751ed7ecca96fdd3b3c2ca9eff5"
+        "sha256": "7df60d7ca63fadacd3b85428dc118b7e21e67f0502874ae570bdbdeb949e3d04"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/椭圆的范围对称性与顶点.md": {
         "before_sha256": "6e674df8ec71882362d556dc34fd4bdbc8334c0018cb870e4a545e1a1acb313a",
-        "sha256": "937bfb613fac152042bf8c3a125bb7d3abcf5af2a24f680c3f4de2b29694ebbd"
+        "sha256": "a260773b4a31fc1f22c54ad30145a39d0c0cd93d75de8522aac238a92d83ab36"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的定义与标准方程.md": {
         "before_sha256": "d3dc5cc5dd715105c1893d6e2fbfc657e2f2e63c7621b553c7e63cce642c78ce",
-        "sha256": "10af1ba73b23e6266fc72b2840ed1cb0c89ca8689eee0d13c0ba56bacf390076"
+        "sha256": "eb8be909fabe97a75946dd1e4e3977a5d21659c5798033411b44f75ed8ef9f0e"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的对称性.md": {
         "before_sha256": "7b4bf206e421d834862b381d8445f8ec864cb5243a3ae2420e9237be0f43fdea",
-        "sha256": "226505dd20868bc76c7b23a4fe0f5c6de8f2245ea77bea2f3cb1865787451ba4"
+        "sha256": "4cee3a76aa9daebcce5e5d4b03e2bdbbd56a6db4b10e04989c8eb405e215ca7a"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的渐近线.md": {
         "before_sha256": "9ec610dfb80a31d85efd76fb890535915478aee60a50da0a2c7f8f9358d0845f",
-        "sha256": "fca5fe956a0986778b557de17693b5c542bae4a7ad488af3b933934f3bf80362"
+        "sha256": "85709ba9df3ef71cb7707ad323983401f5c8bd5552257152e90e666a210f8d57"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的离心率.md": {
         "before_sha256": "3ec43ed7ab848199e6f4f961c022b1bf30540c0447916e6e670199e60ef564c1",
-        "sha256": "52f8d809e3b185a02ee3e0cb063d15205eb0e9d148e18de9b1c7f01fcb32c959"
+        "sha256": "d29c2f94ae72dc71f55e0b12f3f4df6f9ffb5d1d024a91c286dbcd8c22f90017"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的范围.md": {
         "before_sha256": "3ac911005bf8f8fca6a2d82d235bdaf6c141372d67b80f189dcddac4d17c5c6c",
-        "sha256": "459b8108c15ee446ae7a6e6694d3ad9e258329fa0559d3d7bc3ec3c3a5358a70"
+        "sha256": "a6784fa3687b47befb2e075795c50ec92db3d8e4d2df814b87744f5829d36b13"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/双曲线的顶点与实虚轴.md": {
         "before_sha256": "90f25a66a60a74068ef4a3b2be6639d7916ecc09cb01eafda358a6a6e965a1fc",
-        "sha256": "53c31f69942b7c010567bc7f9bb007c084b0d8894ba9f000aa40708d97c84134"
+        "sha256": "194f12aee5c403128907a46367f04cf9bd6cb30efcd42eb04d53bfe25d1314b7"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的定义与标准方程.md": {
         "before_sha256": "ea19d0d39dbb5ce44ada4ec12e15fe1ece96eeb4a5a5473ba2f5cbbde5877a21",
-        "sha256": "53ff896b2b807cdf6cb7272af09e967dec1e00a53193d06e17142b1d8117a517"
+        "sha256": "f23d6c0d1d0c86b28c2423debc16bdfe18d618d5bec628fb9faefbdfb5a8aa9b"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的对称性.md": {
         "before_sha256": "ad24b2e9f6cae24ba73a5cda4da6483d76b1f52ec4ec08806c87e9c9db335e02",
-        "sha256": "e08ea113762c21073f5fb2034bdfa4a19ae1ed1790900202419fa141dbb8fe07"
+        "sha256": "3829ed452c781f27989191751f72d31dbe668166baf74b9dc9fa94ba1ab8b7eb"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的范围.md": {
         "before_sha256": "a19c56441da85b8cd4b9fecaf90301a6bae62a386b2e1b5606824bcf3b601492",
-        "sha256": "cc9d04d03cba89291cbbc89af3b9edea936ef0202cdcfe5b8dae444751b555a2"
+        "sha256": "e604c2cb48da3d7b249542af87ec559cfc9774e43d03e58e350f052eab063b8b"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/抛物线的顶点.md": {
         "before_sha256": "ebf4df8f3fca2f69a676be290294b7e957d07862d6228512287ed4475bfc3a13",
-        "sha256": "885ae24f858bf4eb066f5a8477635b8a4e2aa8c233c24460ab8e5807f5da3d76"
+        "sha256": "1a02b9dcc8bed233672bd9ed7801050c138173d72800b2e478026b351c547fdf"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/双曲线渐近线方程的证明.md": {
         "before_sha256": "8f4ea9c66311efbaee190aa7ec85b3da6f26adbef87a67154ef1f2671963021d",
-        "sha256": "9bb88bb3374264a1f2efcee2e40ba2b7cb91975b66c3113d2acc9970d617dad0"
+        "sha256": "e4155b5cb402d4a122fe8ae939e05ee2cee1892e1b0e5ce848e395ad6ac49edc"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/抛物线的离心率.md": {
         "before_sha256": "d120f43c41df59890377ee6a29e65edb1c8f049eca56ab5b155502b14d762cd4",
-        "sha256": "c9320f7e040146e5d948b3b856c55dff06c86a946680715f80cf39fdfe5c22ce"
+        "sha256": "4d35a8a2468fa73f8f200cdeb7cc714f122b9b55aa14e85468e60fef35bc9879"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/阅读与思考 圆锥曲线的光学性质及其应用（学习单元）.md": {
         "before_sha256": "e213986d653c550ebc99ec3b659989cefdf3b38a8f37b1ea5683b585f1013783",
-        "sha256": "f64644186cb87508bc8b09d527951023b7e5c150b5a1f22803b811e6d2932899"
+        "sha256": "e530d61172570a07b7de6389e27c66779bdc8f712358690561adb9f8d64aa6c7"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/两条直线平行与垂直的斜率判定.md": {
         "before_sha256": "990c3f3593965ff74d1ef10203210d4a817ab1ff44ae1750253620d4b082353a",
-        "sha256": "7be79c1982b2f366adf5d9a9837c5c96b6f33669d0005ff12f86ea9be2cd286b"
+        "sha256": "311f46fb30e0fb757c3edc7f5add45d3562e0e7d0be9672dfad56c5b47e5c3d4"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/直线的倾斜角与斜率.md": {
         "before_sha256": "2d087bfdb381cb67046c5c4c5b23d5cfeee1131ceed859ff25a568a5c1272739",
-        "sha256": "c80e66fbb30c389efeefa5196070bada543693a920da55293a2f5e836f968680"
+        "sha256": "415e59db7833d0b90452b57efa852f8a910865aa7edddd8bb38afdd4620d89d6"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的一般式方程.md": {
         "before_sha256": "ea75dc9182cde17c81080cf4d480529536c2fbf517735324e34b029de818095b",
-        "sha256": "108f8b0307e52c170b88496f0a235ef225c00f73d99dbd8e947ea53a3cff9695"
+        "sha256": "ea276960ee0bb4704e70503d4f782454fe1b4acd5272158cc7c173eaff3e7611"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的两点式与截距式方程.md": {
         "before_sha256": "69d837af7be381ec0cc9b2dab596ebf30665d080f174eeb52ea1f6ad52745519",
-        "sha256": "437dfaa41e48e26e6e47eb30e3538be72e85670c0b0315f9976c82570ae34ea0"
+        "sha256": "3121c89d2457a00fc411c4941d4db072a5cfd1a2d681dd180b7d18f746079afd"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/直线的点斜式与斜截式方程.md": {
         "before_sha256": "e29a772bdeec2ae48a62a464c535b796461fbae2cde5c67a83404f77c561fb0c",
-        "sha256": "c3eaa6ec97aa24cbfc55390c7b1c6a6d8775ac33667b986a2147c3d2f558c23c"
+        "sha256": "02e9fdee4b47e20ae5618d55e18c59e2e5b89251152d2cd0f5bd3e62497f1f02"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/两条平行直线间的距离.md": {
         "before_sha256": "d8b7cf36b4c50b40b5af16d5e43f0d437529891a04ca3841a05f33c4f0e99bd4",
-        "sha256": "85ef8387c0f1a1970f12984f7aebce83c75cd06fa5ddae2c2b02e4ae518cfa77"
+        "sha256": "54d3946796c09b751f6cc0d33a68e71a34aa067e25b6288ba8180f6911c941cc"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/两条直线的交点坐标.md": {
         "before_sha256": "8ebbf3771dae3b49a4429ceff39c1e23d118306b4ff3bb71fdaf46f0f3545682",
-        "sha256": "d642bd5596fbd90276bf4221e7bceb0fd2641023c3e748cc261d9dade80d048e"
+        "sha256": "065ab926e3557fb8772d0782ab66bb4f443e65d8c13e3df592007bc72e817bb8"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/平面两点间的距离公式及其推导.md": {
         "before_sha256": "16af1c1f140d65085df5e70b53e919b45bd1d1a13b8b03b616b337570d4c298f",
-        "sha256": "3b03673594196b771b32f9ec7cd96a0d69b4291816eef1417f6400dd478c37bd"
+        "sha256": "e3475c7351efd768a761375e74f87e98ed07428dde85f56676c8b9e3ddf51762"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/点到直线距离公式的代数推导.md": {
         "before_sha256": "1f9e5fbc08d13b6b17affbce2ca4b2f4b2be5100c40094048abd11b03dc8b772",
-        "sha256": "de5e85916704069045f93f74ed59bfe25225607383e8b2db3238cd3482ccef28"
+        "sha256": "61eb44d224eb9524a7c4cc655772535bc1db5b8e3b58bf5a806663de0c096598"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/点到直线距离公式的向量推导.md": {
         "before_sha256": "8a3e5a517301b18f6513a66f92514a87760d2621b9686a74472e1cd7d0eaf4a4",
-        "sha256": "b1d10d9b0f087adfe5fc4005407ceebcb1ee7f6d703d77d8f5ec933ca0d30834"
+        "sha256": "3a4c32a61e1c6142548e28748d041ad80c47e50f147811cdff35f70394513023"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/圆的一般方程与成立条件.md": {
         "before_sha256": "e12ee5cfbd6a5403ad711e4b60fe243d1d38b5c402a62607cfeb2249e6ebb63d",
-        "sha256": "70e71fde9befad633ec652992a0571c672622be05684b3db27a6b2c1fe0ab485"
+        "sha256": "f489d3494cade348990646031427979f097632c00689901d766eeeb75ceccf5e"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/圆的标准方程及其推导.md": {
         "before_sha256": "aaba789dbdee16ff54d5c670da82cbf8e0e1e79d3c726630e712bff2a042a709",
-        "sha256": "bab95a1dfd64f9698ad44ef3bb65c580d1e27fe32f8ff7ff68c2ac612f52b1ef"
+        "sha256": "2387154d7abd2428d25b00f85854877d163fb93bf0068045a1c09255b31d26f9"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/探究与发现 方向向量与直线的参数方程（学习单元）.md": {
         "before_sha256": "7b50c4a1c4e385e2183f30bab1779816adcb92d78e50877ae3b1baa7441fb02d",
-        "sha256": "c83f3081b7489d72aac97db5e3a776d757da15364d12ba965ef1ae64d29b311e"
+        "sha256": "1eb3b75fa5f3ba2165f5cfe467bc6a499eb3229c40774b9cbf1f3ba1ce14b0f8"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 坐标法与数学机械化（学习单元）.md": {
         "before_sha256": "f5fc55698f48763b72d893a915c56efca1ed18fdb900615596e556fe87503ad5",
-        "sha256": "53a1de1fd29bc3519fa0f6186efee3b04e2ae5dea081c54c6f38545b8737d6fc"
+        "sha256": "995221a723272aa0923c39dc6b209d8240e92f1dee2c854e1287640212998480"
       },
       "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/阅读与思考 笛卡儿与解析几何（学习单元）.md": {
         "before_sha256": "e5063891bed59e7447d34eeb45be17cf7c27512eb4a2ef2d5a4af90e879b23e6",
-        "sha256": "c0484ef45ee02ec03646fc53e52c797616cee24d58fe9844a66c3c12c91ecf29"
+        "sha256": "611b411c353bf1808422aca71fe9e2c76832c8cb180a064e91bc8300a3d86a0b"
       },
       "Mathmap/题型/按章节分类/人教A-选择性必修第一册/人教A-选择性必修第一册.md": {
         "before_sha256": "a094d21c15b5819788982aa66f3a21ec5c484ed357985d301b3b4ffc34760eaa",
@@ -33044,7 +35334,7 @@
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/由焦点到准线距离比描画椭圆轨迹--Gbc66c1404a12e5.md"
     ],
     "atom-01d7ef8662d99096": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.3 抛物线/3.3.1 抛物线及其标准方程.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-023e239596a2b86d": [
       "Mathmap/问题袋/思考-两条平行直线间的距离.md"
@@ -33231,7 +35521,7 @@
       "Mathmap/习题/Q070000001146.md"
     ],
     "atom-1dabeec2c6af2677": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-1dc735f67b361aad": [
       "Mathmap/知识点/空间向量基本定理及其证明.md"
@@ -33296,7 +35586,7 @@
       "Mathmap/习题/Q070000001143.md"
     ],
     "atom-27d0e0849ac6b043": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/探究与发现 为什么二次函数 $y = ax^2 + bx + c$ 的图象是抛物线/3.3.2 抛物线的简单几何性质.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-27f2c6a7593dd728": [],
     "atom-286cbf4a87179a09": [
@@ -33512,7 +35802,7 @@
       "Mathmap/习题/Q070000001231.md"
     ],
     "atom-4a28c80ded1e165c": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第一章 空间向量与立体几何/1.3 空间向量及其运算的坐标表示/1.3.2 空间向量运算的坐标表示.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-4a447684c68fafbd": [
       "Mathmap/习题/Q070000000991.md"
@@ -33654,7 +35944,7 @@
       "Mathmap/习题/Q070000001229.md"
     ],
     "atom-60764d3ec7bea7b3": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.2 直线的方程/2.2.2 直线的两点式方程.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-6090b01be54fbaf6": [
       "Mathmap/习题/Q070000001335.md"
@@ -33697,7 +35987,7 @@
       "Mathmap/知识点/点到直线距离公式的代数推导.md"
     ],
     "atom-6933a27540ee3425": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-697ab32dabeb3aab": [
       "Mathmap/习题/Q070000001033.md"
@@ -33805,7 +36095,7 @@
       "Mathmap/习题/Q070000001092.md"
     ],
     "atom-7a42821a3365b8db": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-7a75c683c1b1d405": [
       "Mathmap/习题/Q070000001023.md"
@@ -33848,7 +36138,7 @@
       "Mathmap/习题/Q070000001292.md"
     ],
     "atom-83ce60167444bbd2": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.1 直线的倾斜角与斜率/2.1.1 倾斜角与斜率.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-84109981eb7b1df4": [
       "Mathmap/知识点/两条直线平行与垂直的斜率判定.md"
@@ -33936,7 +36226,7 @@
       "Mathmap/习题/Q070000001144.md"
     ],
     "atom-90467b44d5dadfe1": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.3 点到直线的距离公式.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-90b0052bca7d5788": [
       "Mathmap/习题/Q070000001150.md"
@@ -33945,7 +36235,7 @@
       "Mathmap/习题/Q070000000999.md"
     ],
     "atom-90c63666fb01219b": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/文献阅读与数学写作 － 解析几何的形成与发展.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-90c6626c082b3d29": [
       "Mathmap/知识点/空间距离与夹角的向量计算.md"
@@ -34219,7 +36509,7 @@
       "Mathmap/习题/Q070000001091.md"
     ],
     "atom-ba72bbd1c0e351ec": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.3 直线的交点坐标与距离公式/2.3.1 两条直线的交点坐标.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-ba818f1f6d655c92": [
       "Mathmap/知识串联/人教A-选择性必修第一册/教材说明/从焦点准线定义证明二次函数图象是抛物线--Ga0dae6b87124e9.md"
@@ -34375,7 +36665,7 @@
       "Mathmap/知识点/双曲线的顶点与实虚轴.md"
     ],
     "atom-cb2a89c9c6fe2dd3": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.1 椭圆及其标准方程.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-cb2efc6c7ac9ef1d": [
       "Mathmap/问题袋/思考-用一次函数解释斜截式方程.md"
@@ -34446,7 +36736,7 @@
       "Mathmap/习题/Q070000001040.md"
     ],
     "atom-d64e59d5c2d65ef3": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.2 双曲线/3.2.2 双曲线的简单几何性质.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-d81f2cffccc35243": [
       "Mathmap/习题/Q070000001094.md"
@@ -34455,7 +36745,7 @@
       "Mathmap/习题/Q070000001072.md"
     ],
     "atom-d8dea1142d67dc6b": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第二章 直线和圆的方程/2.4 圆的方程/2.4.2 圆的一般方程.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-d98914ce5a45a070": [
       "Mathmap/习题/Q070000001167.md",
@@ -34538,7 +36828,7 @@
       "Mathmap/习题/Q070000001013.md"
     ],
     "atom-dffb55bcd16cf99c": [
-      "Mathmap/知识串联/人教A-选择性必修第一册/第三章 圆锥曲线的方程/3.1 椭圆/3.1.2 椭圆的简单几何性质.md"
+      "Mathmap/组织层/人教A-选择性必修第一册.md"
     ],
     "atom-e043d00ed0e58775": [
       "Mathmap/知识点/空间向量的概念与线性运算.md"

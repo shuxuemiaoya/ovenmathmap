@@ -6,7 +6,7 @@ source_id: "rja-selective-3"
 source: "高中选择性必修 第三册·人教A版数学"
 source_files: ["原子层/知识点/0002-K.md"]
 source_node_keys: ["atom-6527cfadb178d778"]
-所属组织: ["[[Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-选择性必修第三册.md#6.2 排列与组合]]"]
 ---
 # 排列与组合
 

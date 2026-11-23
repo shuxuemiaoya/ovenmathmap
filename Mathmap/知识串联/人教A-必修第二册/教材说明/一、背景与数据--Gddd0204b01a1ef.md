@@ -6,7 +6,7 @@ source_id: "rja-required-2"
 source: "高中必修 第二册·人教A版数学"
 source_files: ["原子层/知识点/0076-K.md"]
 source_node_keys: ["atom-b209be6b07b8bb91"]
-所属组织: ["[[Mathmap/知识串联/人教A-必修第二册/第九章 统计/9.3 统计案例 公司员工的肥胖情况调查分析.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第二册.md#9.3 统计案例 公司员工的肥胖情况调查分析]]"]
 ---
 # 一、背景与数据
 

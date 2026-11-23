@@ -1409,6 +1409,1809 @@
     }
   },
   "atom_contract": "source-independent/v2",
+  "book_organization": {
+    "retired": {
+      "Mathmap/知识串联/人教A-选择性必修第三册/人教A-选择性必修第三册.md": {
+        "anchor": "全书入口",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "1ea745981e9ad6782bda72684cd5ce44b91d19ef4d815b371fdbd81a394fb6fa",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第七章 随机变量及其分布 · 概念索引.md": {
+        "anchor": "索引 · 第七章 随机变量及其分布 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "3aadd9963b8a97729b4d38e59204023a08aa9ab3314c90065fa2aa292dadd4be",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第八章 成对数据的统计分析 · 概念索引.md": {
+        "anchor": "索引 · 第八章 成对数据的统计分析 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "426f876c9445cf786da6c209dd746809c8d18c3dc8f5b80e672b8fc6b170e2c5",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第六章 计数原理 · 概念索引.md": {
+        "anchor": "索引 · 第六章 计数原理 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "4cf32688852a17c43222b61946d6864be427e6436b21dc1534095739be32090f",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/人教A-选择性必修第三册.md": {
+        "anchor": "全书入口",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "2c7a1e3f9577a98f3e93fa348793c908126e90d20e2419123927b990c2b85f70",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md": {
+        "anchor": "7.4 二项分布与超几何分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "450659966c5286dbed8d5bdf64c9b22dd08edd9f1742f7ef51346b99af24f446",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md": {
+        "anchor": "7.4.1 二项分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "b7fc48325be32634d5397f3bb242dc8d51c4a661ba407b8dc02a6b74282809f1",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/第七章 随机变量及其分布.md": {
+        "anchor": "第七章 随机变量及其分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "a15385321d41ad17e678f4f01c4f55d2744497800638f7ca1b25e703bb5082e1",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md": {
+        "anchor": "8.3 列联表与独立性检验",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "0b62380cbc2579ee9cf199cded235f88f8e8a749a45c3849f12aa549f671fe26",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md": {
+        "anchor": "8.3.1 分类变量与列联表",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "971d4eb27494cb2763e684262cc2e4b79365667897bda10931947f74c948d4bd",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md": {
+        "anchor": "8.3.2 独立性检验",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "30c5df0a7923ac3e96aaf5a7636ebc7e7e96bda3cb048cabcf728d7d9141b31b",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md": {
+        "anchor": "第八章 成对数据的统计分析",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "c64e19a8c9ad6479dd34af8502dc3186c687de47633156d65b3caf07c615eacb",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md": {
+        "anchor": "6.1 分类加法计数原理与分步乘法计数原理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "a36b72cb291e6d885bb06e563da65ac006ba45fccee93cd99dff174903fcf98d",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md": {
+        "anchor": "6.2 排列与组合",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "400c340b01f6295ab8d32324200ae414aaf35f23986e91363756de6681eab8a2",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md": {
+        "anchor": "6.2.3 组合",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "18539e0b51f3f8b4a419a9559251929c8633d2fdc6d527364dff9dff0f62e174",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md": {
+        "anchor": "6.2.4 组合数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "f56af919c4a12208e82c95e42b4795c0abcc7ebf3751b9dd2d53e7c10272fec5",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md": {
+        "anchor": "6.3 二项式定理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "6b7df9862b2653bb1014d4a727c976a73e9d119f8759ec2e40f36c03d716fd83",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md": {
+        "anchor": "6.3.2 二项式系数的性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "e206ceb8837ec2a1795ad87aa79427c96e169f75cb5535f6bef3762df2f18d4b",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/第六章 计数原理.md": {
+        "anchor": "第六章 计数原理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "285d8d67b4edacdff186961dd6715820e5fe9b91187c605e0e8e1f1791daf790",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/数学建模 建立统计模型进行预测.md": {
+        "anchor": "数学建模 建立统计模型进行预测",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "7dd51a8a85aa57cb993a9d6b105d62295d29af6e0103be68bfe108e27702d21c",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1 条件概率与全概率公式.md": {
+        "anchor": "7.1 条件概率与全概率公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "09e437f349f4e6f562a53c76bfebb5ac9675bfc45486d7636e3446cb5200bde2",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.1 条件概率.md": {
+        "anchor": "7.1.1 条件概率",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "8e99774b5ffb685431d24216d26ce1249e92faa31b1dffee26e63beb359306be",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.2 全概率公式.md": {
+        "anchor": "7.1.2 全概率公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "20c849adf4153fb2996eb358268875369e3ed413c767ea8802998ae2eae36f79",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/7.2 离散型随机变量及其分布列.md": {
+        "anchor": "7.2 离散型随机变量及其分布列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "a1bd3bdd1f33576fb03af20f34fbac54bde61a89368f19fb8a338689211f45de",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3 离散型随机变量的数字特征.md": {
+        "anchor": "7.3 离散型随机变量的数字特征",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "7cbc0b547dee4c3c66e8a44e41cf6a298747e2f87b97d39a3ad741c6c4909565",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.1 离散型随机变量的均值.md": {
+        "anchor": "7.3.1 离散型随机变量的均值",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "46ed1444492fb6128fd17a1fe995256e205439178cd7644066b87897e386e287",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.2 离散型随机变量的方差.md": {
+        "anchor": "7.3.2 离散型随机变量的方差",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "73126af546abfec091ab5a0c7388ed4ccda3ba6a46ec2cd9436c38050cf7824d",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md": {
+        "anchor": "7.4 二项分布与超几何分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "b829fcf64ea1b4e59aaca86d51712d3d4f69037ad830843944158ef4b33f0793",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md": {
+        "anchor": "7.4.1 二项分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "ea6536ae68ba6fec26ca09daea2114c6a99e687408884c288087367a227e889c",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.2 超几何分布.md": {
+        "anchor": "7.4.2 超几何分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "50ee75be71f5a34640c040a5ffdc5114c8ff3f588ed64564afe3418ecd9b82d5",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/7.5 正态分布.md": {
+        "anchor": "7.5 正态分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "c240ca587d5a7822ef5b5e4b5baf944c35d69175738f5fe6353779b3a95b03cd",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/信息技术应用 概率分布图及概率计算.md": {
+        "anchor": "信息技术应用 概率分布图及概率计算",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "46789dfdfe739b9855851b885b9be6e2ac23447c0202fc887f48674519129252",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质.md": {
+        "anchor": "探究与发现 二项分布的性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "d781398d1969ccfc7cfaad4ae615333c9bed6caf3e032f6d86eba7cb3d1758bd",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md": {
+        "anchor": "第七章 随机变量及其分布 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "1a495fecb86a32ea1b253b249e4b66269ce2bc3bbe19bfe7ca477f7bb27f8ba8",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md": {
+        "anchor": "第七章 随机变量及其分布",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "98d8f4b0d40c016899f666ed444a829e792b3cb41169b4780fdce257659130f7",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能.md": {
+        "anchor": "阅读与思考 贝叶斯公式与人工智能",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "f0cd087db132e8e79eb16990e827ca1f05e267507c8d199b892a5aab1b04dcf1",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1 成对数据的统计相关性.md": {
+        "anchor": "8.1 成对数据的统计相关性",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "416f63929f450e5abb1a55fdb9f13b51a7121681f701371abcc18eb7a1570c28",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.1 变量的相关关系.md": {
+        "anchor": "8.1.1 变量的相关关系",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "5f0a583f0fcc58e786a55de8ddec986d1e8192b5e6252c9682c81ac15c3a4bc9",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.2 样本相关系数.md": {
+        "anchor": "8.1.2 样本相关系数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "8b1dccf5775a423e414251ea91bce5acc024051e53d0ec6ec3c7d576a6d84441",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2 一元线性回归模型及其应用.md": {
+        "anchor": "8.2 一元线性回归模型及其应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "e80d2f5d174ac09eddaafdba92d8a0c8e5ab0c284b276960b5de113af9e0d089",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.1 一元线性回归模型.md": {
+        "anchor": "8.2.1 一元线性回归模型",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "e5c851d524db1cc5bb81e50adb759d9ad8353afe6a81340b6c1ae2212937c127",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.2 一元线性回归模型参数的最小二乘估计.md": {
+        "anchor": "8.2.2 一元线性回归模型参数的最小二乘估计",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "f754781e87896b95026e4c665d9554822ada5b7d0278ee19854faac4b5ae6f7a",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md": {
+        "anchor": "8.3 列联表与独立性检验",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "7693c38dc11772efdbb54662a7cf1702f5f7a43fe5beea3d07df2ae66e1aa530",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md": {
+        "anchor": "8.3.1 分类变量与列联表",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "692fa702aff5283678379e78956f20c02c4ce9f1c92011623d3d3481d6bb45b0",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md": {
+        "anchor": "8.3.2 独立性检验",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "ed19bb1e4124821ebe8d46ffd71904e285d2cdd87dce9496b4b37062678f5f1e",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md": {
+        "anchor": "第八章 成对数据的统计分析 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "dc2d3be4ed44b8c9022c0095befbc29cce15bf13b986ed3451be1c852293d6d1",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md": {
+        "anchor": "第八章 成对数据的统计分析",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "504e7da86e4a4b78068beb2c9bc0c0026ef0ccc82639f718a53470c920fe7b00",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关.md": {
+        "anchor": "阅读与思考 回归与相关",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "f739a8bc474025abb00ba43c04df6878b31fb59022a2882c6478c20b6abc05fa",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md": {
+        "anchor": "6.1 分类加法计数原理与分步乘法计数原理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "658ee5aebfcd03eabf0132b9670bc4edcb391461294ba58f9fa6b786a2b22c7b",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md": {
+        "anchor": "6.2 排列与组合",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "29fe2632b99789de97ffcb64d17338d496e5b07373a288ee12cbe496af31a753",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.1 排列.md": {
+        "anchor": "6.2.1 排列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "4bd5a022e33dd796fb9d004213be3d2000cfdbb2013db77c60a432a3dcb78aca",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.2 排列数.md": {
+        "anchor": "6.2.2 排列数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "5d14aa4d6ebea033000c6cb40e7d54cb6b6e87f238b7ec21d17df67d78bd8927",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md": {
+        "anchor": "6.2.3 组合",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "1b7ef6929738b3a98fb2dba39d1f655e75d98bbeb5e99ce1ebb5dbb085aebe37",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md": {
+        "anchor": "6.2.4 组合数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "7083dba070c2b89892374270b511c2b33f650fedfd630dc915dcf0f6bbf8514d",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md": {
+        "anchor": "6.3 二项式定理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "7a8e9448600f00a866158501c373d17f256859be2ce8560840cf6912053c91c4",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md": {
+        "anchor": "6.3.1 二项式定理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "ea598b0cde392b9a0a48fadcae0d51bed27caa2b6783131d960c4bf6aa4c69ee",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md": {
+        "anchor": "6.3.2 二项式系数的性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "ed938d3175ad067d8eb202a77676efc769be4887b37cbdb93311cc07a8c7c24a",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少.md": {
+        "anchor": "探究与发现 子集的个数有多少",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "64ac66c1e993e41f4fb15b5689ebc7104e5378380acc766e6d46f9a08b190e9b",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质.md": {
+        "anchor": "探究与发现 组合数的两个性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "3997b5199a50581e4d46311eafa85a05feaa9869b6c6fe87a56ede2a3965a6f0",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/数学探究 杨辉三角的性质与应用.md": {
+        "anchor": "数学探究 杨辉三角的性质与应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "96fd4667c6d553e688c1b34a8101a666e2321409dd3c1ccb7372623c1c8a1fda",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md": {
+        "anchor": "第六章 计数原理 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "f52b132defb6e4fa216df52ba8a4a03ddf4d3f297c11099088fb8867aa371a5b",
+        "source_id": "rja-selective-3"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md": {
+        "anchor": "第六章 计数原理",
+        "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "sha256": "af92778f3c331ceaa1f93b3c0bc922898e7390407d7a5894aac0b813843a1eb9",
+        "source_id": "rja-selective-3"
+      }
+    },
+    "review": "Pure source navigation and declared source indexes are merged into the full book tree; substantive lessons and atoms retain their boundaries.",
+    "source_graph_sha256": "2480d25e073d65a7057091c83b036383132a45cf46aebbe6e9f9302a742ec2e3",
+    "structure": {
+      "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
+      "indexes": [
+        {
+          "heading": "索引 · 第六章 计数原理 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/探究与发现 子集的个数有多少.md",
+              "id": "Kdef10d899a7465",
+              "label": "探究与发现 子集的个数有多少"
+            },
+            {
+              "destination": "Mathmap/概念或公式/组合数的两个性质.md",
+              "id": "C3c2f9ed6313a0f",
+              "label": "组合数的两个性质"
+            },
+            {
+              "destination": "Mathmap/知识点/杨辉三角的性质.md",
+              "id": "K3410d5102688ee",
+              "label": "杨辉三角的性质"
+            }
+          ]
+        },
+        {
+          "heading": "索引 · 第七章 随机变量及其分布 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/阅读与思考 贝叶斯公式与人工智能.md",
+              "id": "K6a4ada340a1c99",
+              "label": "阅读与思考 贝叶斯公式与人工智能"
+            }
+          ]
+        },
+        {
+          "heading": "索引 · 第八章 成对数据的统计分析 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/阅读与思考 回归与相关.md",
+              "id": "K6b179e29d5612b",
+              "label": "阅读与思考 回归与相关"
+            }
+          ]
+        }
+      ],
+      "label": "高中选择性必修 第三册·人教A版数学",
+      "nodes": {
+        "book-root": {
+          "children": [
+            "node-toc-001",
+            "node-toc-010",
+            "node-toc-021",
+            "node-toc-028"
+          ],
+          "heading": "全书入口",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从计数原理到随机变量与成对数据分析--Ga9d53bfb6e2ba5.md",
+              "id": "Ga9d53bfb6e2ba5",
+              "label": "从计数原理到随机变量与成对数据分析"
+            }
+          ],
+          "title": "普通高中教科书 数学 选择性必修 第三册"
+        },
+        "node-toc-001": {
+          "children": [
+            "node-toc-002",
+            "node-toc-003",
+            "node-toc-004",
+            "node-toc-005",
+            "node-toc-006",
+            "node-toc-007",
+            "node-toc-008",
+            "node-toc-009"
+          ],
+          "heading": "第六章 计数原理",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从汽车号牌扩容问题认识计数原理--G87b42bc71b185d.md",
+              "id": "G87b42bc71b185d",
+              "label": "从汽车号牌扩容问题认识计数原理"
+            }
+          ],
+          "title": "第六章 计数原理"
+        },
+        "node-toc-002": {
+          "children": [
+            "semantic-00528"
+          ],
+          "heading": "6.1 分类加法计数原理与分步乘法计数原理",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从逐个列举走向分类与分步计数--Gba811a897dd68f.md",
+              "id": "Gba811a897dd68f",
+              "label": "从逐个列举走向分类与分步计数"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/分类加法计数原理.md",
+              "id": "rja-selective-3:node-toc-002:unit:K146aa6d9b5c1e7",
+              "label": "分类加法计数原理"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/分步乘法计数原理.md",
+              "id": "rja-selective-3:node-toc-002:unit:Kc3409b734484a9",
+              "label": "分步乘法计数原理"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-分类加法计数原理向三类方案推广.md",
+              "id": "P6cb6cb20ed5509",
+              "label": "探究-分类加法计数原理向三类方案推广"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-分步乘法计数原理向三个步骤推广.md",
+              "id": "P83a1d91ff5c8b3",
+              "label": "探究-分步乘法计数原理向三个步骤推广"
+            }
+          ],
+          "title": "6.1 分类加法计数原理与分步乘法计数原理"
+        },
+        "node-toc-003": {
+          "children": [],
+          "heading": "探究与发现 子集的个数有多少",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少（学习单元）.md",
+              "id": "rja-selective-3:node-toc-003:unit:Kdef10d899a7465",
+              "label": "探究与发现 子集的个数有多少"
+            }
+          ],
+          "title": "探究与发现 子集的个数有多少"
+        },
+        "node-toc-004": {
+          "children": [
+            "semantic-00652",
+            "semantic-00820",
+            "semantic-00995",
+            "semantic-01078",
+            "semantic-01230"
+          ],
+          "heading": "6.2 排列与组合",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/排列与组合--G8dda5d1d56ab6a.md",
+              "id": "G8dda5d1d56ab6a",
+              "label": "排列与组合"
+            }
+          ],
+          "title": "6.2 排列与组合"
+        },
+        "node-toc-005": {
+          "children": [],
+          "heading": "探究与发现 组合数的两个性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质（学习单元）.md",
+              "id": "rja-selective-3:node-toc-005:unit:K63322e8b9c6fa0",
+              "label": "探究与发现 组合数的两个性质"
+            }
+          ],
+          "title": "探究与发现 组合数的两个性质"
+        },
+        "node-toc-006": {
+          "children": [
+            "semantic-01385",
+            "semantic-01517",
+            "semantic-01684"
+          ],
+          "heading": "6.3 二项式定理",
+          "members": [],
+          "title": "6.3 二项式定理"
+        },
+        "node-toc-007": {
+          "children": [],
+          "heading": "第六章 计数原理 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第六章 计数原理 小结--G985bf542c45680.md",
+              "id": "G985bf542c45680",
+              "label": "第六章 计数原理 小结"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md",
+              "id": "rja-selective-3:node-toc-007:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第六章 计数原理 小结"
+        },
+        "node-toc-008": {
+          "children": [],
+          "heading": "第六章 计数原理 复习参考题 6",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 复习参考题 6.md",
+              "id": "rja-selective-3:node-toc-008:question",
+              "label": "第六章 计数原理 复习参考题 6"
+            }
+          ],
+          "title": "第六章 计数原理 复习参考题 6"
+        },
+        "node-toc-009": {
+          "children": [],
+          "heading": "数学探究 杨辉三角的性质与应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的历史与结构.md",
+              "id": "rja-selective-3:node-toc-009:unit:Ke782f9a5e19a52",
+              "label": "杨辉三角的历史与结构"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的性质.md",
+              "id": "rja-selective-3:node-toc-009:unit:K3410d5102688ee",
+              "label": "杨辉三角的性质"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的应用.md",
+              "id": "rja-selective-3:node-toc-009:unit:K3fdc894115ea6e",
+              "label": "杨辉三角的应用"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/三、研究报告的参考形式--Gc6056b921ee546.md",
+              "id": "Gc6056b921ee546",
+              "label": "三、研究报告的参考形式"
+            }
+          ],
+          "title": "数学探究 杨辉三角的性质与应用"
+        },
+        "node-toc-010": {
+          "children": [
+            "node-toc-011",
+            "node-toc-012",
+            "node-toc-013",
+            "node-toc-014",
+            "node-toc-015",
+            "node-toc-016",
+            "node-toc-017",
+            "node-toc-018",
+            "node-toc-019",
+            "node-toc-020"
+          ],
+          "heading": "第七章 随机变量及其分布",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从古典概率走向条件概率与随机变量分布--G0cbbbd578c8b54.md",
+              "id": "G0cbbbd578c8b54",
+              "label": "从古典概率走向条件概率与随机变量分布"
+            }
+          ],
+          "title": "第七章 随机变量及其分布"
+        },
+        "node-toc-011": {
+          "children": [
+            "semantic-02006",
+            "semantic-02234",
+            "semantic-02385"
+          ],
+          "heading": "7.1 条件概率与全概率公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/条件概率与全概率公式--G50e2b1a9ae6445.md",
+              "id": "G50e2b1a9ae6445",
+              "label": "条件概率与全概率公式"
+            }
+          ],
+          "title": "7.1 条件概率与全概率公式"
+        },
+        "node-toc-012": {
+          "children": [],
+          "heading": "阅读与思考 贝叶斯公式与人工智能",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能（学习单元）.md",
+              "id": "rja-selective-3:node-toc-012:unit:K6a4ada340a1c99",
+              "label": "阅读与思考 贝叶斯公式与人工智能"
+            }
+          ],
+          "title": "阅读与思考 贝叶斯公式与人工智能"
+        },
+        "node-toc-013": {
+          "children": [
+            "semantic-02679"
+          ],
+          "heading": "7.2 离散型随机变量及其分布列",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/随机变量与离散型分布列.md",
+              "id": "rja-selective-3:node-toc-013:unit:Kfd6ca66bbdb570",
+              "label": "随机变量与离散型分布列"
+            }
+          ],
+          "title": "7.2 离散型随机变量及其分布列"
+        },
+        "node-toc-014": {
+          "children": [
+            "semantic-02725",
+            "semantic-02979",
+            "semantic-03165"
+          ],
+          "heading": "7.3 离散型随机变量的数字特征",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从考试成绩与射箭水平认识随机变量数字特征--Gc16de126f3ee9f.md",
+              "id": "Gc16de126f3ee9f",
+              "label": "从考试成绩与射箭水平认识随机变量数字特征"
+            }
+          ],
+          "title": "7.3 离散型随机变量的数字特征"
+        },
+        "node-toc-015": {
+          "children": [
+            "semantic-03207",
+            "semantic-03448",
+            "semantic-03587"
+          ],
+          "heading": "7.4 二项分布与超几何分布",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由离散随机变量分布走向二项与超几何分布--G3b446f38ee1fc2.md",
+              "id": "G3b446f38ee1fc2",
+              "label": "由离散随机变量分布走向二项与超几何分布"
+            }
+          ],
+          "title": "7.4 二项分布与超几何分布"
+        },
+        "node-toc-016": {
+          "children": [],
+          "heading": "探究与发现 二项分布的性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质（学习单元）.md",
+              "id": "rja-selective-3:node-toc-016:unit:K2d6557e4fbf098",
+              "label": "探究与发现 二项分布的性质"
+            }
+          ],
+          "title": "探究与发现 二项分布的性质"
+        },
+        "node-toc-017": {
+          "children": [
+            "semantic-03814"
+          ],
+          "heading": "7.5 正态分布",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态分布与正态曲线.md",
+              "id": "rja-selective-3:node-toc-017:unit:K0044ec08930168",
+              "label": "正态分布与正态曲线"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态曲线的基本性质.md",
+              "id": "rja-selective-3:node-toc-017:unit:K4befae07be83bb",
+              "label": "正态曲线的基本性质"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态分布参数与标准差区间概率.md",
+              "id": "rja-selective-3:node-toc-017:unit:Kac025962742f28",
+              "label": "正态分布参数与标准差区间概率"
+            }
+          ],
+          "title": "7.5 正态分布"
+        },
+        "node-toc-018": {
+          "children": [],
+          "heading": "信息技术应用 概率分布图及概率计算",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/信息技术应用 概率分布图及概率计算--Gbfcef43529aecf.md",
+              "id": "Gbfcef43529aecf",
+              "label": "信息技术应用 概率分布图及概率计算"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算二项分布概率.md",
+              "id": "rja-selective-3:node-toc-018:unit:K5ca6ff8f89de8e",
+              "label": "用GeoGebra计算二项分布概率"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算超几何分布概率.md",
+              "id": "rja-selective-3:node-toc-018:unit:Ke02098c55b8846",
+              "label": "用GeoGebra计算超几何分布概率"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算正态分布概率.md",
+              "id": "rja-selective-3:node-toc-018:unit:Ka18ddfcb716e5b",
+              "label": "用GeoGebra计算正态分布概率"
+            }
+          ],
+          "title": "信息技术应用 概率分布图及概率计算"
+        },
+        "node-toc-019": {
+          "children": [],
+          "heading": "第七章 随机变量及其分布 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第七章 随机变量及其分布 小结--Ge39b314add2d85.md",
+              "id": "Ge39b314add2d85",
+              "label": "第七章 随机变量及其分布 小结"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md",
+              "id": "rja-selective-3:node-toc-019:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第七章 随机变量及其分布 小结"
+        },
+        "node-toc-020": {
+          "children": [],
+          "heading": "第七章 随机变量及其分布 复习参考题 7",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 复习参考题 7.md",
+              "id": "rja-selective-3:node-toc-020:question",
+              "label": "第七章 随机变量及其分布 复习参考题 7"
+            }
+          ],
+          "title": "第七章 随机变量及其分布 复习参考题 7"
+        },
+        "node-toc-021": {
+          "children": [
+            "node-toc-022",
+            "node-toc-023",
+            "node-toc-024",
+            "node-toc-025",
+            "node-toc-026",
+            "node-toc-027"
+          ],
+          "heading": "第八章 成对数据的统计分析",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从单变量统计走向成对数据的相关与回归--Gfb3144d34e193d.md",
+              "id": "Gfb3144d34e193d",
+              "label": "从单变量统计走向成对数据的相关与回归"
+            }
+          ],
+          "title": "第八章 成对数据的统计分析"
+        },
+        "node-toc-022": {
+          "children": [
+            "semantic-03983",
+            "semantic-04071",
+            "semantic-04331"
+          ],
+          "heading": "8.1 成对数据的统计相关性",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由身高体重关系认识统计相关性--Gb1e06f54736974.md",
+              "id": "Gb1e06f54736974",
+              "label": "由身高体重关系认识统计相关性"
+            }
+          ],
+          "title": "8.1 成对数据的统计相关性"
+        },
+        "node-toc-023": {
+          "children": [
+            "semantic-04382",
+            "semantic-04437",
+            "semantic-04873"
+          ],
+          "heading": "8.2 一元线性回归模型及其应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由相关系数走向一元线性回归模型--G22dc53bc742083.md",
+              "id": "G22dc53bc742083",
+              "label": "由相关系数走向一元线性回归模型"
+            }
+          ],
+          "title": "8.2 一元线性回归模型及其应用"
+        },
+        "node-toc-024": {
+          "children": [],
+          "heading": "阅读与思考 回归与相关",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关（学习单元）.md",
+              "id": "rja-selective-3:node-toc-024:unit:K6b179e29d5612b",
+              "label": "阅读与思考 回归与相关"
+            }
+          ],
+          "title": "阅读与思考 回归与相关"
+        },
+        "node-toc-025": {
+          "children": [
+            "semantic-04958",
+            "semantic-05099",
+            "semantic-05375"
+          ],
+          "heading": "8.3 列联表与独立性检验",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/分类变量的概念与列联表.md",
+              "id": "rja-selective-3:node-toc-025:unit:K1c312185c8e313",
+              "label": "分类变量的概念与列联表"
+            }
+          ],
+          "title": "8.3 列联表与独立性检验"
+        },
+        "node-toc-026": {
+          "children": [],
+          "heading": "第八章 成对数据的统计分析 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第八章 成对数据的统计分析 小结--G19bffb06a5561c.md",
+              "id": "G19bffb06a5561c",
+              "label": "第八章 成对数据的统计分析 小结"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md",
+              "id": "rja-selective-3:node-toc-026:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第八章 成对数据的统计分析 小结"
+        },
+        "node-toc-027": {
+          "children": [],
+          "heading": "第八章 成对数据的统计分析 复习参考题 8",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 复习参考题 8.md",
+              "id": "rja-selective-3:node-toc-027:question",
+              "label": "第八章 成对数据的统计分析 复习参考题 8"
+            }
+          ],
+          "title": "第八章 成对数据的统计分析 复习参考题 8"
+        },
+        "node-toc-028": {
+          "children": [],
+          "heading": "数学建模 建立统计模型进行预测",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/用汽车流量预测PM2.5浓度的统计建模.md",
+              "id": "rja-selective-3:node-toc-028:unit:K367c6126ce3bf3",
+              "label": "用汽车流量预测PM2.5浓度的统计建模"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/四、数学建模活动的选题--Gc30316d220a928.md",
+              "id": "Gc30316d220a928",
+              "label": "四、数学建模活动的选题"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/组建合作团队--G90727fbe67488a.md",
+              "id": "G90727fbe67488a",
+              "label": "组建合作团队"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/开展研究活动--G49e3de14485878.md",
+              "id": "G49e3de14485878",
+              "label": "开展研究活动"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/撰写研究报告--G84893454a63f8f.md",
+              "id": "G84893454a63f8f",
+              "label": "撰写研究报告"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/交流展示.md",
+              "id": "rja-selective-3:node-toc-028:unit:Kc1dab3c2819988",
+              "label": "交流展示"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/六、数学建模活动研究报告的参考形式--Gec83a9c1e9272f.md",
+              "id": "Gec83a9c1e9272f",
+              "label": "六、数学建模活动研究报告的参考形式"
+            }
+          ],
+          "title": "数学建模 建立统计模型进行预测"
+        },
+        "semantic-00528": {
+          "children": [],
+          "heading": "习题6.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/习题6.1.md",
+              "id": "rja-selective-3:semantic-00528:question",
+              "label": "习题6.1"
+            }
+          ],
+          "title": "习题6.1"
+        },
+        "semantic-00652": {
+          "children": [],
+          "heading": "6.2.1 排列",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列的概念与实际背景.md",
+              "id": "rja-selective-3:semantic-00652:unit:Ka8c0a8b37992ed",
+              "label": "排列的概念与实际背景"
+            }
+          ],
+          "title": "6.2.1 排列"
+        },
+        "semantic-00820": {
+          "children": [],
+          "heading": "6.2.2 排列数",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列数公式及其推导.md",
+              "id": "rja-selective-3:semantic-00820:unit:K67044f56d2edb4",
+              "label": "排列数公式及其推导"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列数公式的阶乘表示.md",
+              "id": "rja-selective-3:semantic-00820:unit:Kd6c147209ab1eb",
+              "label": "排列数公式的阶乘表示"
+            }
+          ],
+          "title": "6.2.2 排列数"
+        },
+        "semantic-00995": {
+          "children": [],
+          "heading": "6.2.3 组合",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/组合的概念.md",
+              "id": "rja-selective-3:semantic-00995:unit:Kaf18e42471b457",
+              "label": "组合的概念"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列与组合的联系和区别.md",
+              "id": "rja-selective-3:semantic-00995:unit:Kd9bf45fd477593",
+              "label": "排列与组合的联系和区别"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-选车与分配车辆中的排列组合.md",
+              "id": "Pa7467e9590c0e0",
+              "label": "思考-选车与分配车辆中的排列组合"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-相同元素的排列与组合的对应关系.md",
+              "id": "P2fd3c65aebcdbb",
+              "label": "思考-相同元素的排列与组合的对应关系"
+            }
+          ],
+          "title": "6.2.3 组合"
+        },
+        "semantic-01078": {
+          "children": [],
+          "heading": "6.2.4 组合数",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/组合数公式及其推导.md",
+              "id": "rja-selective-3:semantic-01078:unit:K2135f0978b4739",
+              "label": "组合数公式及其推导"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-组合数不同公式与对称结果.md",
+              "id": "P404ad5c0a6800c",
+              "label": "思考-组合数不同公式与对称结果"
+            }
+          ],
+          "title": "6.2.4 组合数"
+        },
+        "semantic-01230": {
+          "children": [],
+          "heading": "习题6.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/习题6.2.md",
+              "id": "rja-selective-3:semantic-01230:question",
+              "label": "习题6.2"
+            }
+          ],
+          "title": "习题6.2"
+        },
+        "semantic-01385": {
+          "children": [],
+          "heading": "6.3.1 二项式定理",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式定理及其计数推导.md",
+              "id": "rja-selective-3:semantic-01385:unit:Kf1954f8ac415d5",
+              "label": "二项式定理及其计数推导"
+            }
+          ],
+          "title": "6.3.1 二项式定理"
+        },
+        "semantic-01517": {
+          "children": [],
+          "heading": "6.3.2 二项式系数的性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数与杨辉三角.md",
+              "id": "rja-selective-3:semantic-01517:unit:Kab962976077c08",
+              "label": "二项式系数与杨辉三角"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数的对称性.md",
+              "id": "rja-selective-3:semantic-01517:unit:Kc49fb4d5f8c42e",
+              "label": "二项式系数的对称性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数的增减性与最大值.md",
+              "id": "rja-selective-3:semantic-01517:unit:K8cf46cb6482251",
+              "label": "二项式系数的增减性与最大值"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/各二项式系数的和.md",
+              "id": "rja-selective-3:semantic-01517:unit:K2707421b75f889",
+              "label": "各二项式系数的和"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-二项式系数表中的分布规律.md",
+              "id": "P9a7696d62287e5",
+              "label": "探究-二项式系数表中的分布规律"
+            },
+            {
+              "destination": "Mathmap/问题袋/探究-不同阶二项式系数图像的共同规律.md",
+              "id": "P39e37fc07efa15",
+              "label": "探究-不同阶二项式系数图像的共同规律"
+            }
+          ],
+          "title": "6.3.2 二项式系数的性质"
+        },
+        "semantic-01684": {
+          "children": [],
+          "heading": "习题6.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/习题6.3.md",
+              "id": "rja-selective-3:semantic-01684:question",
+              "label": "习题6.3"
+            }
+          ],
+          "title": "习题6.3"
+        },
+        "semantic-02006": {
+          "children": [],
+          "heading": "7.1.1 条件概率",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/条件概率的概念与计算.md",
+              "id": "rja-selective-3:semantic-02006:unit:K82dd4fa670583f",
+              "label": "条件概率的概念与计算"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/独立事件与条件概率.md",
+              "id": "rja-selective-3:semantic-02006:unit:Kcfc33ae47c72fc",
+              "label": "独立事件与条件概率"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/概率的乘法公式.md",
+              "id": "rja-selective-3:semantic-02006:unit:K90c5fe2342b64e",
+              "label": "概率的乘法公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/条件概率的样本空间解释与性质.md",
+              "id": "rja-selective-3:semantic-02006:unit:Ke7a67573ea7850",
+              "label": "条件概率的样本空间解释与性质"
+            }
+          ],
+          "title": "7.1.1 条件概率"
+        },
+        "semantic-02234": {
+          "children": [],
+          "heading": "7.1.2 全概率公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/全概率公式--G483d8f9117d8e5.md",
+              "id": "G483d8f9117d8e5",
+              "label": "全概率公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/全概率公式及其应用.md",
+              "id": "rja-selective-3:semantic-02234:unit:K49c022480993a7",
+              "label": "全概率公式及其应用"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/先验概率与后验概率的解释.md",
+              "id": "rja-selective-3:semantic-02234:unit:Ka7a395cd48ec73",
+              "label": "先验概率与后验概率的解释"
+            }
+          ],
+          "title": "7.1.2 全概率公式"
+        },
+        "semantic-02385": {
+          "children": [],
+          "heading": "习题7.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/习题7.1.md",
+              "id": "rja-selective-3:semantic-02385:question",
+              "label": "习题7.1"
+            }
+          ],
+          "title": "习题7.1"
+        },
+        "semantic-02679": {
+          "children": [],
+          "heading": "习题7.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/习题7.2.md",
+              "id": "rja-selective-3:semantic-02679:question",
+              "label": "习题7.2"
+            }
+          ],
+          "title": "习题7.2"
+        },
+        "semantic-02725": {
+          "children": [],
+          "heading": "7.3.1 离散型随机变量的均值",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/离散型随机变量的均值.md",
+              "id": "rja-selective-3:semantic-02725:unit:K1530025d1dea92",
+              "label": "离散型随机变量的均值"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/随机变量均值的统计含义.md",
+              "id": "rja-selective-3:semantic-02725:unit:K5bb61d9872b92d",
+              "label": "随机变量均值的统计含义"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/随机变量均值的线性运算法则.md",
+              "id": "rja-selective-3:semantic-02725:unit:K5a9584dd92310a",
+              "label": "随机变量均值的线性运算法则"
+            }
+          ],
+          "title": "7.3.1 离散型随机变量的均值"
+        },
+        "semantic-02979": {
+          "children": [],
+          "heading": "7.3.2 离散型随机变量的方差",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从均值无法刻画波动认识随机变量方差--G6686e039fcce72.md",
+              "id": "G6686e039fcce72",
+              "label": "从均值无法刻画波动认识随机变量方差"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/离散型随机变量的方差.md",
+              "id": "rja-selective-3:semantic-02979:unit:Kbb9efd6b36b7a4",
+              "label": "离散型随机变量的方差"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/方差的平移与伸缩规律.md",
+              "id": "rja-selective-3:semantic-02979:unit:Ka0a0ab3fac1e99",
+              "label": "方差的平移与伸缩规律"
+            }
+          ],
+          "title": "7.3.2 离散型随机变量的方差"
+        },
+        "semantic-03165": {
+          "children": [],
+          "heading": "习题7.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/习题7.3.md",
+              "id": "rja-selective-3:semantic-03165:question",
+              "label": "习题7.3"
+            }
+          ],
+          "title": "习题7.3"
+        },
+        "semantic-03207": {
+          "children": [],
+          "heading": "7.4.1 二项分布",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/伯努利试验与n重伯努利试验.md",
+              "id": "rja-selective-3:semantic-03207:unit:K45f59d1afbd516",
+              "label": "伯努利试验与n重伯努利试验"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/二项分布的概率公式.md",
+              "id": "rja-selective-3:semantic-03207:unit:K86bb88420ac91c",
+              "label": "二项分布的概率公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/二项分布的均值与方差.md",
+              "id": "rja-selective-3:semantic-03207:unit:K51475e63e0e795",
+              "label": "二项分布的均值与方差"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-辨别n重伯努利试验及成功概率.md",
+              "id": "Pb242be83ea4fc6",
+              "label": "思考-辨别n重伯努利试验及成功概率"
+            }
+          ],
+          "title": "7.4.1 二项分布"
+        },
+        "semantic-03448": {
+          "children": [],
+          "heading": "7.4.2 超几何分布",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/超几何分布的概念与分布列.md",
+              "id": "rja-selective-3:semantic-03448:unit:K6625e83491b163",
+              "label": "超几何分布的概念与分布列"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/超几何分布的均值.md",
+              "id": "rja-selective-3:semantic-03448:unit:K65cdd80644635e",
+              "label": "超几何分布的均值"
+            }
+          ],
+          "title": "7.4.2 超几何分布"
+        },
+        "semantic-03587": {
+          "children": [],
+          "heading": "习题7.4",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/习题7.4.md",
+              "id": "rja-selective-3:semantic-03587:question",
+              "label": "习题7.4"
+            }
+          ],
+          "title": "习题7.4"
+        },
+        "semantic-03814": {
+          "children": [],
+          "heading": "习题7.5",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/习题7.5.md",
+              "id": "rja-selective-3:semantic-03814:question",
+              "label": "习题7.5"
+            }
+          ],
+          "title": "习题7.5"
+        },
+        "semantic-03983": {
+          "children": [],
+          "heading": "8.1.1 变量的相关关系",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/变量的相关关系.md",
+              "id": "rja-selective-3:semantic-03983:unit:Kb73a7b8accb20b",
+              "label": "变量的相关关系"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/正相关与负相关的散点图特征.md",
+              "id": "rja-selective-3:semantic-03983:unit:K954f4c6e5baf04",
+              "label": "正相关与负相关的散点图特征"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/线性相关与非线性相关.md",
+              "id": "rja-selective-3:semantic-03983:unit:K0d68f80ca2d63b",
+              "label": "线性相关与非线性相关"
+            }
+          ],
+          "title": "8.1.1 变量的相关关系"
+        },
+        "semantic-04071": {
+          "children": [],
+          "heading": "8.1.2 样本相关系数",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/样本相关系数的构造与定义.md",
+              "id": "rja-selective-3:semantic-04071:unit:K91dd48db5cf57d",
+              "label": "样本相关系数的构造与定义"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/样本相关系数的性质与解释.md",
+              "id": "rja-selective-3:semantic-04071:unit:K154ad4bfeba9e9",
+              "label": "样本相关系数的性质与解释"
+            }
+          ],
+          "title": "8.1.2 样本相关系数"
+        },
+        "semantic-04331": {
+          "children": [],
+          "heading": "习题8.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/习题8.1.md",
+              "id": "rja-selective-3:semantic-04331:question",
+              "label": "习题8.1"
+            }
+          ],
+          "title": "习题8.1"
+        },
+        "semantic-04382": {
+          "children": [],
+          "heading": "8.2.1 一元线性回归模型",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/一元线性回归模型与随机误差.md",
+              "id": "rja-selective-3:semantic-04382:unit:K61542764b3aac1",
+              "label": "一元线性回归模型与随机误差"
+            }
+          ],
+          "title": "8.2.1 一元线性回归模型"
+        },
+        "semantic-04437": {
+          "children": [],
+          "heading": "8.2.2 一元线性回归模型参数的最小二乘估计",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/一元线性回归参数的最小二乘估计.md",
+              "id": "rja-selective-3:semantic-04437:unit:K95806c54120229",
+              "label": "一元线性回归参数的最小二乘估计"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/回归预测与残差分析.md",
+              "id": "rja-selective-3:semantic-04437:unit:K226b248acc4ed4",
+              "label": "回归预测与残差分析"
+            }
+          ],
+          "title": "8.2.2 一元线性回归模型参数的最小二乘估计"
+        },
+        "semantic-04873": {
+          "children": [],
+          "heading": "习题8.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/习题8.2.md",
+              "id": "rja-selective-3:semantic-04873:question",
+              "label": "习题8.2"
+            }
+          ],
+          "title": "习题8.2"
+        },
+        "semantic-04958": {
+          "children": [],
+          "heading": "8.3.1 分类变量与列联表",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/分类变量的概念与列联表.md",
+              "id": "rja-selective-3:node-toc-025:unit:K1c312185c8e313",
+              "label": "分类变量的概念与列联表"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-比较样本优秀率得出结论的可靠性.md",
+              "id": "Paa6b31ef3a4b5c",
+              "label": "思考-比较样本优秀率得出结论的可靠性"
+            }
+          ],
+          "title": "8.3.1 分类变量与列联表"
+        },
+        "semantic-05099": {
+          "children": [],
+          "heading": "8.3.2 独立性检验",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/独立性检验的思想与卡方统计量.md",
+              "id": "rja-selective-3:semantic-05099:unit:K6e18c5429874b6",
+              "label": "独立性检验的思想与卡方统计量"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/样本频率比较与独立性检验的差异.md",
+              "id": "rja-selective-3:semantic-05099:unit:K21eb0be5580d4e",
+              "label": "样本频率比较与独立性检验的差异"
+            },
+            {
+              "destination": "Mathmap/问题袋/观察-调换列联表行列后统计量的变化.md",
+              "id": "Pe1c12f8b7cf708",
+              "label": "观察-调换列联表行列后统计量的变化"
+            },
+            {
+              "destination": "Mathmap/问题袋/思考-独立性检验与反证法的联系和区别.md",
+              "id": "Paf81f69a047434",
+              "label": "思考-独立性检验与反证法的联系和区别"
+            }
+          ],
+          "title": "8.3.2 独立性检验"
+        },
+        "semantic-05375": {
+          "children": [],
+          "heading": "习题8.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/习题8.3.md",
+              "id": "rja-selective-3:semantic-05375:question",
+              "label": "习题8.3"
+            }
+          ],
+          "title": "习题8.3"
+        }
+      },
+      "redirects": {
+        "Mathmap/知识串联/人教A-选择性必修第三册/人教A-选择性必修第三册.md": {
+          "anchor": "全书入口",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第七章 随机变量及其分布 · 概念索引.md": {
+          "anchor": "索引 · 第七章 随机变量及其分布 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第八章 成对数据的统计分析 · 概念索引.md": {
+          "anchor": "索引 · 第八章 成对数据的统计分析 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第六章 计数原理 · 概念索引.md": {
+          "anchor": "索引 · 第六章 计数原理 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/人教A-选择性必修第三册.md": {
+          "anchor": "全书入口",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md": {
+          "anchor": "7.4 二项分布与超几何分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md": {
+          "anchor": "7.4.1 二项分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/第七章 随机变量及其分布.md": {
+          "anchor": "第七章 随机变量及其分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md": {
+          "anchor": "8.3 列联表与独立性检验",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md": {
+          "anchor": "8.3.1 分类变量与列联表",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md": {
+          "anchor": "8.3.2 独立性检验",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md": {
+          "anchor": "第八章 成对数据的统计分析",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md": {
+          "anchor": "6.1 分类加法计数原理与分步乘法计数原理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md": {
+          "anchor": "6.2 排列与组合",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md": {
+          "anchor": "6.2.3 组合",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md": {
+          "anchor": "6.2.4 组合数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md": {
+          "anchor": "6.3 二项式定理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md": {
+          "anchor": "6.3.2 二项式系数的性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/第六章 计数原理.md": {
+          "anchor": "第六章 计数原理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/数学建模 建立统计模型进行预测.md": {
+          "anchor": "数学建模 建立统计模型进行预测",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1 条件概率与全概率公式.md": {
+          "anchor": "7.1 条件概率与全概率公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.1 条件概率.md": {
+          "anchor": "7.1.1 条件概率",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.2 全概率公式.md": {
+          "anchor": "7.1.2 全概率公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/7.2 离散型随机变量及其分布列.md": {
+          "anchor": "7.2 离散型随机变量及其分布列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3 离散型随机变量的数字特征.md": {
+          "anchor": "7.3 离散型随机变量的数字特征",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.1 离散型随机变量的均值.md": {
+          "anchor": "7.3.1 离散型随机变量的均值",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.2 离散型随机变量的方差.md": {
+          "anchor": "7.3.2 离散型随机变量的方差",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md": {
+          "anchor": "7.4 二项分布与超几何分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md": {
+          "anchor": "7.4.1 二项分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.2 超几何分布.md": {
+          "anchor": "7.4.2 超几何分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/7.5 正态分布.md": {
+          "anchor": "7.5 正态分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/信息技术应用 概率分布图及概率计算.md": {
+          "anchor": "信息技术应用 概率分布图及概率计算",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质.md": {
+          "anchor": "探究与发现 二项分布的性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md": {
+          "anchor": "第七章 随机变量及其分布 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md": {
+          "anchor": "第七章 随机变量及其分布",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能.md": {
+          "anchor": "阅读与思考 贝叶斯公式与人工智能",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1 成对数据的统计相关性.md": {
+          "anchor": "8.1 成对数据的统计相关性",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.1 变量的相关关系.md": {
+          "anchor": "8.1.1 变量的相关关系",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.2 样本相关系数.md": {
+          "anchor": "8.1.2 样本相关系数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2 一元线性回归模型及其应用.md": {
+          "anchor": "8.2 一元线性回归模型及其应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.1 一元线性回归模型.md": {
+          "anchor": "8.2.1 一元线性回归模型",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.2 一元线性回归模型参数的最小二乘估计.md": {
+          "anchor": "8.2.2 一元线性回归模型参数的最小二乘估计",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md": {
+          "anchor": "8.3 列联表与独立性检验",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md": {
+          "anchor": "8.3.1 分类变量与列联表",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md": {
+          "anchor": "8.3.2 独立性检验",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md": {
+          "anchor": "第八章 成对数据的统计分析 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md": {
+          "anchor": "第八章 成对数据的统计分析",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关.md": {
+          "anchor": "阅读与思考 回归与相关",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md": {
+          "anchor": "6.1 分类加法计数原理与分步乘法计数原理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md": {
+          "anchor": "6.2 排列与组合",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.1 排列.md": {
+          "anchor": "6.2.1 排列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.2 排列数.md": {
+          "anchor": "6.2.2 排列数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md": {
+          "anchor": "6.2.3 组合",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md": {
+          "anchor": "6.2.4 组合数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md": {
+          "anchor": "6.3 二项式定理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md": {
+          "anchor": "6.3.1 二项式定理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md": {
+          "anchor": "6.3.2 二项式系数的性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少.md": {
+          "anchor": "探究与发现 子集的个数有多少",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质.md": {
+          "anchor": "探究与发现 组合数的两个性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/数学探究 杨辉三角的性质与应用.md": {
+          "anchor": "数学探究 杨辉三角的性质与应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md": {
+          "anchor": "第六章 计数原理 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md": {
+          "anchor": "第六章 计数原理",
+          "destination": "Mathmap/组织层/人教A-选择性必修第三册.md"
+        }
+      },
+      "root": "book-root",
+      "root_node": {
+        "children": [
+          "atom-56a830316f595acd",
+          "node-toc-001",
+          "node-toc-010",
+          "node-toc-021",
+          "node-toc-028"
+        ],
+        "filename": "组织层/普通高中教科书 数学 选择性必修 第三册/普通高中教科书 数学 选择性必修 第三册.md",
+        "heading_ranges": [],
+        "key": "book-root",
+        "layer": "organizer",
+        "organizer_level": 1,
+        "parent_key": null,
+        "title": "普通高中教科书 数学 选择性必修 第三册"
+      },
+      "source_guide": "Mathmap/知识串联/人教A-选择性必修第三册/来源与整理说明.md",
+      "source_id": "rja-selective-3",
+      "version": 1
+    },
+    "version": 1
+  },
+  "book_reference_updates": {
+    "Mathmap/知识串联/人教A-选择性必修第三册/交流展示.md": "888d230dd4d6548228969b76bd28c2cd1e59e3c2ebd3ee04d1db06b38d23e5e4",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/三、研究报告的参考形式--Gc6056b921ee546.md": "90743a70b740468915f18336ba433a38de8c04bb360aab50b548937ea245f553",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从单变量统计走向成对数据的相关与回归--Gfb3144d34e193d.md": "1061e0be210cbbfe06029aa5a763f610df517459252cf971869da53765baf0de",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从古典概率走向条件概率与随机变量分布--G0cbbbd578c8b54.md": "4356595f8dd8d2d6bc0c2add2454b47131539de78f12f248eb2366d6516056bb",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从均值无法刻画波动认识随机变量方差--G6686e039fcce72.md": "4ecfe3d27710fc7f17ab08475273bebeccd63ff196f3bcc339701f415ee156d0",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从汽车号牌扩容问题认识计数原理--G87b42bc71b185d.md": "1075b3e9ce71284afa6067a9f86c2262cf81785f021a7c094a202ab3980a4eb5",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从考试成绩与射箭水平认识随机变量数字特征--Gc16de126f3ee9f.md": "d6c7a03a6988ca0285a3344ed0c2ca3669676c8be3f5ecdf0d266c4404317e33",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从计数原理到随机变量与成对数据分析--Ga9d53bfb6e2ba5.md": "95ce36703b2e82b92ca611509866f0f4004b5e76d4a18fcf8528969d5737abce",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从逐个列举走向分类与分步计数--Gba811a897dd68f.md": "4602d5ff2685f931054dc1cdb59b01392a2df39110c162d9cfaa820f92513c92",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/信息技术应用 概率分布图及概率计算--Gbfcef43529aecf.md": "6a970f02b2cfffb5a03c0e1fa38d80d370223561f38cc0d440b2ff7d8f84a35c",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/全概率公式--G483d8f9117d8e5.md": "33c4a06c23f15460187bef33721b41f15050d53722955d7676d8cbd0718005d6",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/六、数学建模活动研究报告的参考形式--Gec83a9c1e9272f.md": "55fa2f1d57960f963c8c164fdeb4df3fd3bdeabe372c0c10549a05e47f1173bf",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/四、数学建模活动的选题--Gc30316d220a928.md": "f3350fb459df2cf597a732abc215b3bb04f538a7b5f287e678f2746506a860d5",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/开展研究活动--G49e3de14485878.md": "e42a25b6485c63741d32b98f7b13ae27e72f3bada9ea2d92fbda30b6ad9f00f1",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/排列与组合--G8dda5d1d56ab6a.md": "6fb24eefbd8dda86a7ea72f569c98fe5e1329e3e1fd386022ba93debcbd16ec8",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/撰写研究报告--G84893454a63f8f.md": "21531b48e1314d936b059a333ce15c185ee4432e44928e63019b4ff38de486fc",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/条件概率与全概率公式--G50e2b1a9ae6445.md": "3f12bc0fba5fbaacd0cd5255ebad1476aeb120ae417568a602c78b2b31808379",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由相关系数走向一元线性回归模型--G22dc53bc742083.md": "c984065dcd832c80872c876b1350acd946d50df70908930650318a2a2628578e",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由离散随机变量分布走向二项与超几何分布--G3b446f38ee1fc2.md": "f68bdb783a4c63a5747023f9433c90cb447de8fb561c9352648cbcc14b4beef9",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由身高体重关系认识统计相关性--Gb1e06f54736974.md": "0b11b81740e61e7717d19c7f1034a04014acb367640812ecf7fa20bb63ca608d",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第七章 随机变量及其分布 小结--Ge39b314add2d85.md": "170ab7aefbaf92d25f25595c417dad198cedb4a153c4e1b9825ecc9ec3c9233e",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第八章 成对数据的统计分析 小结--G19bffb06a5561c.md": "069f498ffa9a26d6d9d30009fdaefe19474a662856ecb4c034493058eb11ccab",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第六章 计数原理 小结--G985bf542c45680.md": "514fd3ba8ffe1e51dd0eeda2335d0b18b6722e35ad6d6be1e662a3e20a1948d2",
+    "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/组建合作团队--G90727fbe67488a.md": "9958b57c401c2a297c0878f16617b5ec08eb5857af715f6b537aef36a35ad5a3",
+    "Mathmap/知识串联/人教A-选择性必修第三册/用汽车流量预测PM2.5浓度的统计建模.md": "382e50034d777e6c6822b0545d03f64d49ddc946a3b74815ac6906c09e637714",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/先验概率与后验概率的解释.md": "e24738d04fad92823731c22a857c78b2c0a4136bcfa694689343835e9ab279db",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/全概率公式及其应用.md": "5b4a2b1ad7b08088810f26f4334c11485be3f32de844c78637549d5696e4184f",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/条件概率的样本空间解释与性质.md": "ed08bbba2e2fa5184af799e2c5e62aeda71eaea78ca2802478dea2fcd90b9f4a",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/条件概率的概念与计算.md": "29820c11f85c8c0315d411491ba4aa0a8c91f0563942517d63474cc0731942b2",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/概率的乘法公式.md": "8caa2788c43a125ba8f37f7bf0480da7930c3a5e65318920628bf4c462604315",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/独立事件与条件概率.md": "616bb0704431daf68d74c550d6ea1d0e54da28941750009f306c924e98012eb1",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/随机变量与离散型分布列.md": "0a5acac3de377e37add8f798e744a41f112dd22a988d577d0d214aa8825a7bac",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/方差的平移与伸缩规律.md": "06b8cebe50649cbab55e3a9b2feac0474db2ef1acd7561b30438ffc876725743",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/离散型随机变量的均值.md": "334d601bd7d8960d7ab9f5a82d87ff92f8721c7a25e7a3bffc49261a3d3f0ee1",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/离散型随机变量的方差.md": "43ad98f8188c7335c06b81e32df9299dbae25ce8b35e8f3b65584b7ce41d6ab5",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/随机变量均值的线性运算法则.md": "8078c3314695ceee20646d753b5f39057bda2f5532cfd2aecabfdcb4bc130010",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/随机变量均值的统计含义.md": "a505414ed4101589c40636d3765f0521bd3084da96db2a8cdfc306a26f29f31f",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/二项分布的均值与方差.md": "11f1138554f2fec52f1a7637e3015f68859c8e0eafcdd20b92b6dd8dadc5f3c4",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/二项分布的概率公式.md": "9247689ed1a555404d4246872340e6d8f68316cd51a33880eed4572ee2b19972",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/伯努利试验与n重伯努利试验.md": "9db714ab0b22e7bc6e37f9366ed4e9ccc6098ce4c0ae867c06bee657f53e9da1",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/超几何分布的均值.md": "a3c8c34268ab85fdc90ba04c5b0890e1cc676ea9b5ca753d420ff4b17329aef7",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/超几何分布的概念与分布列.md": "020d7cc1a66b3f473b123f6cbcd3e21f2a0af52f60ede40507095578d47feadd",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态分布与正态曲线.md": "2d654cffb808b77a685407afcbd48e0ac8a1876c8f5236d1fad4b3ee2ef6ad4e",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态分布参数与标准差区间概率.md": "6717116dd45f6039aced2cf87b61b88588b51a731c86ccc2455728c08ca43b8f",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态曲线的基本性质.md": "8089e331dd1c5a9ac250ce123e423ff1668017a1078765060448b85f9e7df0c7",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质（学习单元）.md": "3d9daea311d034c1663cce2df769b194c820d19a2f6b470f6f2b312af29115e6",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算二项分布概率.md": "71c3564fd64805ff888def8d5c12b5431e9290a9f6cc16ff72681f014e19fbc2",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算正态分布概率.md": "b460e725e178d2bcdd14d46c92437335659616204fde2f4b1c7c4e99a1c25ec9",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算超几何分布概率.md": "49e008db3faaf606404d0c8ce1674b6eff90c8b5dfdd5bfe01aa5dd2d89deabb",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能（学习单元）.md": "a977ecc2cdbdf2b50379c80d7a9508ed1fc9962a53443be62d65da09443c7d4f",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/变量的相关关系.md": "e32e59387be2a8b934c8466f375eee3eb495d359c3cd096dea85a08e1d9b383a",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/样本相关系数的性质与解释.md": "5e1eee147f2111ed2bfe9d608fc5922d6e1bda172425080ee9ad280b0898f75b",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/样本相关系数的构造与定义.md": "3e5ce99cddd8eceaf00d102b78ded5e857789339b5187f06c1c8e59e610e782a",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/正相关与负相关的散点图特征.md": "6ade24c158df5cbbb75a5756665fbe742486a0c1808003574fabc8ee8fb46777",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/线性相关与非线性相关.md": "c70e6f721d4a58ad520b02b09bdc62e14a86334a69fb4bf8f8b1db15dd763be2",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/一元线性回归参数的最小二乘估计.md": "86f829ff3bcc2b7fb73208a9920c142d3fcfa86602f31a2d0f850c82243244bc",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/一元线性回归模型与随机误差.md": "f4f61390e8e93b1d22a83526ffa9eddfcfe3835e8e348890dbcef63073033036",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/回归预测与残差分析.md": "39cca4896063b7d0442415f20063c90c9327acefe7f087ed03828bf26c4e728c",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/分类变量的概念与列联表.md": "ca3a9a8016313a7723246ad822602baa9d3bc7a21ef8de5b1076bd4b58d6fe0f",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/样本频率比较与独立性检验的差异.md": "358526b42352661be282ade4b2a029cfed1322f5117e1a15bea440af2062a9ae",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/独立性检验的思想与卡方统计量.md": "3eaf2f23261829420613fa335472e051fd5112f2ef7a916a77abb0e178a50e4f",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关（学习单元）.md": "37069acb327d6ca308f967f23808bbd2e1186df4386440ee8d53aa4653648dcd",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/分步乘法计数原理.md": "ad6fbf4286d2c047971afa219b1446ffd9fc2be752eb8259f2967a49d5d0bee2",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/分类加法计数原理.md": "a9d30a6ff49800efc79283fe00f6f6c51a3a7c569f9ee8f9a5fa5c7302ff3594",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列与组合的联系和区别.md": "cbdf07852bd340481a049582da14b8dfca1f6a065891f6ce2f5168f7fc6b48f1",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列数公式及其推导.md": "00de264a380b0108303ff188125e988b3b8d245cf448bde90cc2fa22f38beb7a",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列数公式的阶乘表示.md": "ac824a373547b0dc4cfd33224f494248fb91aebd4861e235e24536205c34f523",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列的概念与实际背景.md": "fac81cd131926c8ef6936a9f3f2c76097f4410b509f1a83caf81936aca70d608",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/组合数公式及其推导.md": "2ffafc6829f948af7b2a8202e37cc71bfea1f12cd6899feb6bd8ffffb93b0067",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/组合的概念.md": "5be4518c83f47ff802201b516ddc0c996f112e94f96533ce1028a4fee196c4a5",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式定理及其计数推导.md": "a2a45e3cd2b478640b019b8801866e350b7d00eac749b9cb7ee8b4e0a7961a55",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数与杨辉三角.md": "0945cb35a87966a67425ad92e3ced75e1c181e7740c19db676c8b25017fc2a45",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数的增减性与最大值.md": "73a9b9fe69fb43c4b215940c0966bba468cdacfb87579bb5a0e276964d18c33a",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数的对称性.md": "b6c112e43c29aa095f47e0ba79595b6475bcb1d1d511435a55459b7bed95b788",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/各二项式系数的和.md": "9f08ab92e5409da75f6dc6dc908f3b9db732bf118e7d756b2c25b438b5fb2c9d",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少（学习单元）.md": "55caf8aab43ff6aceff8870a9572644a09d327ee81dea1476abe22d68ba3ecc6",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质（学习单元）.md": "627c9f3ccaa20da3e3bcfc58a6980fb0756416313a523f91be927d27e49e27ef",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的历史与结构.md": "dd3b378b11291de8e0d56fa95d1a87edeb39650bf7b8219e4de59f840d38f8a5",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的应用.md": "e8995dccf4e07d4a7ce78d9f111d022983893f8c0d2c1acaca07e87a9025affa",
+    "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的性质.md": "3216e6299cea0ea83b4a3910e1c014fd2f8dd940a7bf2c007c0524d61103ab96",
+    "Mathmap/索引.md": "0293f96261a7b89afbb97d16fd76deb81067ee94e3bbc154b6922e070a671302",
+    "Mathmap/组织层/人教A-选择性必修第三册.md": "eb3e65bc092a394bafa19d9d11f368fa261903243e22c8e4e50fac3a42492a58"
+  },
   "concept_presentation": "source-variants-in-body/v1",
   "coverage": {
     "原子层/习题/0001-E.md": {
@@ -6766,46 +8569,63 @@
       ]
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/数学建模 建立统计模型进行预测.md": {
+      "book_anchors": [
+        "数学建模 建立统计模型进行预测"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/数学建模 建立统计模型进行预测.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/普通高中教科书 数学 选择性必修 第三册.md": {
+      "book_anchors": [
+        "全书入口"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/人教A-选择性必修第三册.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/人教A-选择性必修第三册.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/人教A-选择性必修第三册.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/派生索引/01-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第六章 计数原理 · 概念索引.md",
+      "book_anchor": "索引 · 第六章 计数原理 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/派生索引/02-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第七章 随机变量及其分布 · 概念索引.md",
+      "book_anchor": "索引 · 第七章 随机变量及其分布 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/派生索引/03-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第三册/定义索引/第八章 成对数据的统计分析 · 概念索引.md",
+      "book_anchor": "索引 · 第八章 成对数据的统计分析 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第三册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1 条件概率与全概率公式.md": {
+      "book_anchors": [
+        "7.1 条件概率与全概率公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1 条件概率与全概率公式.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.1 条件概率.md": {
+      "book_anchors": [
+        "7.1.1 条件概率"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.1 条件概率.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.2 全概率公式.md": {
+      "book_anchors": [
+        "7.1.2 全概率公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/7.1.2 全概率公式.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6816,8 +8636,11 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/7.2 离散型随机变量及其分布列.md": {
+      "book_anchors": [
+        "7.2 离散型随机变量及其分布列"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/7.2 离散型随机变量及其分布列.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6828,20 +8651,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3 离散型随机变量的数字特征.md": {
+      "book_anchors": [
+        "7.3 离散型随机变量的数字特征"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3 离散型随机变量的数字特征.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.1 离散型随机变量的均值.md": {
+      "book_anchors": [
+        "7.3.1 离散型随机变量的均值"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.1 离散型随机变量的均值.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.2 离散型随机变量的方差.md": {
+      "book_anchors": [
+        "7.3.2 离散型随机变量的方差"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/7.3.2 离散型随机变量的方差.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6852,22 +8684,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md": {
+      "book_anchors": [
+        "7.4 二项分布与超几何分布"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4 二项分布与超几何分布.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md": {
+      "book_anchors": [
+        "7.4.1 二项分布"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.1 二项分布.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.2 超几何分布.md": {
+      "book_anchors": [
+        "7.4.2 超几何分布"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/7.4.2 超几何分布.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6878,8 +8717,11 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/7.5 正态分布/7.5 正态分布.md": {
+      "book_anchors": [
+        "7.5 正态分布"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/7.5 正态分布.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6890,14 +8732,20 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/信息技术应用 概率分布图及概率计算.md": {
+      "book_anchors": [
+        "信息技术应用 概率分布图及概率计算"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/信息技术应用 概率分布图及概率计算.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质.md": {
+      "book_anchors": [
+        "探究与发现 二项分布的性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6908,41 +8756,58 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md": {
+      "book_anchors": [
+        "第七章 随机变量及其分布 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md": {
+      "book_anchors": [
+        "第七章 随机变量及其分布"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第七章 随机变量及其分布/第七章 随机变量及其分布.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能.md": {
+      "book_anchors": [
+        "阅读与思考 贝叶斯公式与人工智能"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1 成对数据的统计相关性.md": {
+      "book_anchors": [
+        "8.1 成对数据的统计相关性"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1 成对数据的统计相关性.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.1 变量的相关关系.md": {
+      "book_anchors": [
+        "8.1.1 变量的相关关系"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.1 变量的相关关系.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.2 样本相关系数.md": {
+      "book_anchors": [
+        "8.1.2 样本相关系数"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/8.1.2 样本相关系数.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6953,20 +8818,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2 一元线性回归模型及其应用.md": {
+      "book_anchors": [
+        "8.2 一元线性回归模型及其应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2 一元线性回归模型及其应用.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.1 一元线性回归模型.md": {
+      "book_anchors": [
+        "8.2.1 一元线性回归模型"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.1 一元线性回归模型.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.2 一元线性回归模型参数的最小二乘估计.md": {
+      "book_anchors": [
+        "8.2.2 一元线性回归模型参数的最小二乘估计"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/8.2.2 一元线性回归模型参数的最小二乘估计.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6977,23 +8851,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md": {
+      "book_anchors": [
+        "8.3 列联表与独立性检验"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3 列联表与独立性检验.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md": {
+      "book_anchors": [
+        "8.3.1 分类变量与列联表"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.1 分类变量与列联表.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md": {
+      "book_anchors": [
+        "8.3.2 独立性检验"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/8.3 列联表与独立性检验/8.3.2 独立性检验.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -7010,30 +8890,40 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md": {
+      "book_anchors": [
+        "第八章 成对数据的统计分析 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md": {
+      "book_anchors": [
+        "第八章 成对数据的统计分析"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第八章 成对数据的统计分析/第八章 成对数据的统计分析.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关.md": {
+      "book_anchors": [
+        "阅读与思考 回归与相关"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md": {
+      "book_anchors": [
+        "6.1 分类加法计数原理与分步乘法计数原理"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/6.1 分类加法计数原理与分步乘法计数原理.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -7044,35 +8934,47 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md": {
+      "book_anchors": [
+        "6.2 排列与组合"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2 排列与组合.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.2 排列与组合/6.2.1 排列.md": {
+      "book_anchors": [
+        "6.2.1 排列"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.1 排列.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.2 排列与组合/6.2.2 排列数.md": {
+      "book_anchors": [
+        "6.2.2 排列数"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.2 排列数.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md": {
+      "book_anchors": [
+        "6.2.3 组合"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md": {
+      "book_anchors": [
+        "6.2.4 组合数"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.2 排列与组合/6.2.4 组合数.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -7083,22 +8985,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md": {
+      "book_anchors": [
+        "6.3 二项式定理"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md": {
+      "book_anchors": [
+        "6.3.1 二项式定理"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md": {
+      "book_anchors": [
+        "6.3.2 二项式系数的性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/6.3 二项式定理/6.3.2 二项式系数的性质.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -7109,20 +9018,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/探究与发现 子集的个数有多少.md": {
+      "book_anchors": [
+        "探究与发现 子集的个数有多少"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/探究与发现 组合数的两个性质.md": {
+      "book_anchors": [
+        "探究与发现 组合数的两个性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/数学探究 杨辉三角的性质与应用.md": {
+      "book_anchors": [
+        "数学探究 杨辉三角的性质与应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/数学探究 杨辉三角的性质与应用.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -7133,17 +9051,22 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/第六章 计数原理 小结.md": {
+      "book_anchors": [
+        "第六章 计数原理 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第三册/第六章 计数原理/第六章 计数原理.md": {
+      "book_anchors": [
+        "第六章 计数原理"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md",
-        "Mathmap/知识串联/人教A-选择性必修第三册/教材问题顺序/第六章 计数原理/第六章 计数原理.md"
+        "Mathmap/组织层/人教A-选择性必修第三册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第三册/第六章 计数原理/第六章 计数原理.md"
       ],
       "disposition": "organization-projection"
     }
@@ -8705,7 +10628,7 @@
         "prerequisites": [],
         "reason": "保留“先验概率与后验概率的解释”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "188ae91a9e5d89a62a755bf2843300ae1b12ee399c2901b5a1128c15ba58854c",
+        "sha256": "e24738d04fad92823731c22a857c78b2c0a4136bcfa694689343835e9ab279db",
         "source_components": [
           {
             "id": "Ka7a395cd48ec73",
@@ -8853,7 +10776,7 @@
         ],
         "reason": "保留“全概率公式及其应用”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "bc55ef96e0e090fc0a73dfc8c8cd417cdd08b087ffc4acc92b5204d58fb3a975",
+        "sha256": "5b4a2b1ad7b08088810f26f4334c11485be3f32de844c78637549d5696e4184f",
         "source_components": [
           {
             "id": "K49c022480993a7",
@@ -8999,7 +10922,7 @@
         "prerequisites": [],
         "reason": "保留“条件概率的样本空间解释与性质”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "3134053001075bc43dd6c7d2e233150da8417bcd6998159057f7521b0e7660ea",
+        "sha256": "ed08bbba2e2fa5184af799e2c5e62aeda71eaea78ca2802478dea2fcd90b9f4a",
         "source_components": [
           {
             "id": "Ke7a67573ea7850",
@@ -9166,7 +11089,7 @@
         "prerequisites": [],
         "reason": "保留“条件概率的概念与计算”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "248e7acefed3643c809ef7668b4bc95439f1758ffb5da7abb56b6d1404b00c2a",
+        "sha256": "29820c11f85c8c0315d411491ba4aa0a8c91f0563942517d63474cc0731942b2",
         "source_components": [
           {
             "id": "K82dd4fa670583f",
@@ -9335,7 +11258,7 @@
         ],
         "reason": "保留“概率的乘法公式”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "113636b9c5619be00ad197757a7e041e9d3281c0971b20d4e18875ab9ffb93c7",
+        "sha256": "8caa2788c43a125ba8f37f7bf0480da7930c3a5e65318920628bf4c462604315",
         "source_components": [
           {
             "id": "K90c5fe2342b64e",
@@ -9502,7 +11425,7 @@
         "prerequisites": [],
         "reason": "保留“独立事件与条件概率”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "cb65175a2e790a3a93185fd3116789ff9de2f1c1b82148da9615f06ef4068bfe",
+        "sha256": "616bb0704431daf68d74c550d6ea1d0e54da28941750009f306c924e98012eb1",
         "source_components": [
           {
             "id": "Kcfc33ae47c72fc",
@@ -9669,7 +11592,7 @@
         "prerequisites": [],
         "reason": "保留“随机变量与离散型分布列”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c5cf749c0258d1b66f5dc93dd4b3d2b382c58ddb79cdfbc34301b0831f9bb94e",
+        "sha256": "0a5acac3de377e37add8f798e744a41f112dd22a988d577d0d214aa8825a7bac",
         "source_components": [
           {
             "id": "Kfd6ca66bbdb570",
@@ -9990,7 +11913,7 @@
         "prerequisites": [],
         "reason": "保留“方差的平移与伸缩规律”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "e5459279a0d9d044f6ba8dc16e912cba44a7ab4a1a77182719cefd33a03dd5e5",
+        "sha256": "06b8cebe50649cbab55e3a9b2feac0474db2ef1acd7561b30438ffc876725743",
         "source_components": [
           {
             "id": "Ka0a0ab3fac1e99",
@@ -10138,7 +12061,7 @@
         ],
         "reason": "保留“离散型随机变量的均值”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "6c70313831ab603610d6403077353249f856ae9245f66c3eaebeebd75f0a873e",
+        "sha256": "334d601bd7d8960d7ab9f5a82d87ff92f8721c7a25e7a3bffc49261a3d3f0ee1",
         "source_components": [
           {
             "id": "K1530025d1dea92",
@@ -10328,7 +12251,7 @@
         ],
         "reason": "保留“离散型随机变量的方差”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d01a8df6bb1641ab92ff838e7fc9b8b275c9ab64d179e36dc1d383a4909d9f57",
+        "sha256": "43ad98f8188c7335c06b81e32df9299dbae25ce8b35e8f3b65584b7ce41d6ab5",
         "source_components": [
           {
             "id": "Kbb9efd6b36b7a4",
@@ -10474,7 +12397,7 @@
         "prerequisites": [],
         "reason": "保留“随机变量均值的线性运算法则”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "0129e2339d31096d8f8fcf0dfdf2dbac9d801e8b8ff335bd451a455ebbae10af",
+        "sha256": "8078c3314695ceee20646d753b5f39057bda2f5532cfd2aecabfdcb4bc130010",
         "source_components": [
           {
             "id": "K5a9584dd92310a",
@@ -10664,7 +12587,7 @@
         "prerequisites": [],
         "reason": "保留“随机变量均值的统计含义”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "de70d3e436af3d8b8eb363df1acc4115a256c8f9d2c0ce51c81af7d9608be65f",
+        "sha256": "a505414ed4101589c40636d3765f0521bd3084da96db2a8cdfc306a26f29f31f",
         "source_components": [
           {
             "id": "K5bb61d9872b92d",
@@ -10855,7 +12778,7 @@
         ],
         "reason": "保留“二项分布的均值与方差”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "6a7ecef32757a1eacec019173672a40eac78b0ec74e23b5c1c853556c8e449d5",
+        "sha256": "11f1138554f2fec52f1a7637e3015f68859c8e0eafcdd20b92b6dd8dadc5f3c4",
         "source_components": [
           {
             "id": "K51475e63e0e795",
@@ -11045,7 +12968,7 @@
         ],
         "reason": "保留“二项分布的概率公式”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "965c76884996f404cca1b1cbf68d5a3f46b234d06b0b02d4fadbb139e883d6b9",
+        "sha256": "9247689ed1a555404d4246872340e6d8f68316cd51a33880eed4572ee2b19972",
         "source_components": [
           {
             "id": "K86bb88420ac91c",
@@ -11241,7 +13164,7 @@
         "prerequisites": [],
         "reason": "保留“伯努利试验与n重伯努利试验”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "eb2e1fbd4c45688592ef34754ff7bd2952e3aa1eaa3f21ee173e41cba1129b1c",
+        "sha256": "9db714ab0b22e7bc6e37f9366ed4e9ccc6098ce4c0ae867c06bee657f53e9da1",
         "source_components": [
           {
             "id": "K45f59d1afbd516",
@@ -11431,7 +13354,7 @@
         ],
         "reason": "保留“超几何分布的均值”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d2536a4a5743c56f1fc7b0bbc80e2d86649d7562b5c9ff3ccd1b64ac0947cddf",
+        "sha256": "a3c8c34268ab85fdc90ba04c5b0890e1cc676ea9b5ca753d420ff4b17329aef7",
         "source_components": [
           {
             "id": "K65cdd80644635e",
@@ -11598,7 +13521,7 @@
         "prerequisites": [],
         "reason": "保留“超几何分布的概念与分布列”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "957d6f1cd9960954b584afcd771f6e7ec42febde48d015166975f460176defdd",
+        "sha256": "020d7cc1a66b3f473b123f6cbcd3e21f2a0af52f60ede40507095578d47feadd",
         "source_components": [
           {
             "id": "K6625e83491b163",
@@ -11770,7 +13693,7 @@
         "prerequisites": [],
         "reason": "保留“正态分布与正态曲线”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "f1d94de38b7a8b1c2e7dd390d1137623197a2a32812ef4724fdb92682acd5f56",
+        "sha256": "2d654cffb808b77a685407afcbd48e0ac8a1876c8f5236d1fad4b3ee2ef6ad4e",
         "source_components": [
           {
             "id": "K0044ec08930168",
@@ -11951,7 +13874,7 @@
         "prerequisites": [],
         "reason": "保留“正态分布参数与标准差区间概率”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "5e15aeb8927c2be8dc1efd1ea29d1a4f089f4210cd910170dc0151dad6a972c3",
+        "sha256": "6717116dd45f6039aced2cf87b61b88588b51a731c86ccc2455728c08ca43b8f",
         "source_components": [
           {
             "id": "Kac025962742f28",
@@ -12132,7 +14055,7 @@
         "prerequisites": [],
         "reason": "保留“正态曲线的基本性质”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c2a89082b3fb136e85b3c784972ae26e0eef251bad9efc303f30f05c74436ac3",
+        "sha256": "8089e331dd1c5a9ac250ce123e423ff1668017a1078765060448b85f9e7df0c7",
         "source_components": [
           {
             "id": "K4befae07be83bb",
@@ -12313,7 +14236,7 @@
         "prerequisites": [],
         "reason": "保留“变量的相关关系”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "3185fa8bda36b4cf2071beced2c17a497d9532142de31eb5c8cf8191a196ebfa",
+        "sha256": "e32e59387be2a8b934c8466f375eee3eb495d359c3cd096dea85a08e1d9b383a",
         "source_components": [
           {
             "id": "Kb73a7b8accb20b",
@@ -12414,7 +14337,7 @@
         "prerequisites": [],
         "reason": "保留“样本相关系数的性质与解释”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "3265c8110e4f35b83c8fb0aebc3859118f096dfdf101f7dc18f76a8f1696a7d7",
+        "sha256": "5e1eee147f2111ed2bfe9d608fc5922d6e1bda172425080ee9ad280b0898f75b",
         "source_components": [
           {
             "id": "K154ad4bfeba9e9",
@@ -12604,7 +14527,7 @@
         ],
         "reason": "保留“样本相关系数的构造与定义”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "8af3e443dd72ed7a60e238924b374d4810abd6a315019efe77266e672866f26f",
+        "sha256": "3e5ce99cddd8eceaf00d102b78ded5e857789339b5187f06c1c8e59e610e782a",
         "source_components": [
           {
             "id": "K91dd48db5cf57d",
@@ -12804,7 +14727,7 @@
         "prerequisites": [],
         "reason": "保留“正相关与负相关的散点图特征”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "295b996ab9bbc3f358d8aa605be74e8d2a0c3a995b7c4eccb8a971884931432b",
+        "sha256": "6ade24c158df5cbbb75a5756665fbe742486a0c1808003574fabc8ee8fb46777",
         "source_components": [
           {
             "id": "K954f4c6e5baf04",
@@ -12901,7 +14824,7 @@
         "prerequisites": [],
         "reason": "保留“线性相关与非线性相关”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "c81712ddba06b42739a9b55626ca026e6cc97f99e23aa931cd12cb1dd118219a",
+        "sha256": "c70e6f721d4a58ad520b02b09bdc62e14a86334a69fb4bf8f8b1db15dd763be2",
         "source_components": [
           {
             "id": "K0d68f80ca2d63b",
@@ -13000,7 +14923,7 @@
         ],
         "reason": "保留“一元线性回归参数的最小二乘估计”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ceb97b80ec2504e7ef8951a4dcd327755c610b538b76a4455c7d390a35d9b08c",
+        "sha256": "86f829ff3bcc2b7fb73208a9920c142d3fcfa86602f31a2d0f850c82243244bc",
         "source_components": [
           {
             "id": "K95806c54120229",
@@ -13189,7 +15112,7 @@
         "prerequisites": [],
         "reason": "保留“一元线性回归模型与随机误差”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "adab559e498b93caa33544d27d7e0e5f87e834257e9899df4efe96e15f228ae4",
+        "sha256": "f4f61390e8e93b1d22a83526ffa9eddfcfe3835e8e348890dbcef63073033036",
         "source_components": [
           {
             "id": "K61542764b3aac1",
@@ -13304,7 +15227,7 @@
         ],
         "reason": "保留“回归预测与残差分析”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "66133ed6748d1db9cbc22089b8271cb2db7cfcf0eb15e33e12ba9a30629c3cf5",
+        "sha256": "39cca4896063b7d0442415f20063c90c9327acefe7f087ed03828bf26c4e728c",
         "source_components": [
           {
             "id": "K226b248acc4ed4",
@@ -13495,7 +15418,7 @@
         "prerequisites": [],
         "reason": "保留“分类变量的概念与列联表”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "05bb5377bd7e58023dac9ef734907ddd766c355ecc0bad884757599d6e975b8c",
+        "sha256": "ca3a9a8016313a7723246ad822602baa9d3bc7a21ef8de5b1076bd4b58d6fe0f",
         "source_components": [
           {
             "id": "K1c312185c8e313",
@@ -13836,7 +15759,7 @@
         "prerequisites": [],
         "reason": "保留“样本频率比较与独立性检验的差异”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ccf59ce753e8979436143a4d6508bbee42c69f7fd4494aadeb6a41aa4b9db496",
+        "sha256": "358526b42352661be282ade4b2a029cfed1322f5117e1a15bea440af2062a9ae",
         "source_components": [
           {
             "id": "K21eb0be5580d4e",
@@ -14026,7 +15949,7 @@
         ],
         "reason": "保留“独立性检验的思想与卡方统计量”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "eb6e43e45753e5523c7a097376b9776b64013e420d99aa7991aab7a1f932c223",
+        "sha256": "3eaf2f23261829420613fa335472e051fd5112f2ef7a916a77abb0e178a50e4f",
         "source_components": [
           {
             "id": "K6e18c5429874b6",
@@ -14222,7 +16145,7 @@
         "prerequisites": [],
         "reason": "保留“分步乘法计数原理”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "02319206645e07dd9184cfbbfbb124670f62a555b6cdbe3edda5202ac8b70d09",
+        "sha256": "ad6fbf4286d2c047971afa219b1446ffd9fc2be752eb8259f2967a49d5d0bee2",
         "source_components": [
           {
             "id": "Kc3409b734484a9",
@@ -14796,7 +16719,7 @@
         "prerequisites": [],
         "reason": "保留“分类加法计数原理”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "03676a53941a0bddb2d8367adebed901654ff905b2b6e9358ae71ecb28e16022",
+        "sha256": "a9d30a6ff49800efc79283fe00f6f6c51a3a7c569f9ee8f9a5fa5c7302ff3594",
         "source_components": [
           {
             "id": "K146aa6d9b5c1e7",
@@ -15368,7 +17291,7 @@
         "prerequisites": [],
         "reason": "保留“排列与组合的联系和区别”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "b0593df443ada4c122ae0ce703bfe74fcc8ab0122db3359c4a47e5de822049a2",
+        "sha256": "cbdf07852bd340481a049582da14b8dfca1f6a065891f6ce2f5168f7fc6b48f1",
         "source_components": [
           {
             "id": "Kd9bf45fd477593",
@@ -15493,7 +17416,7 @@
         ],
         "reason": "保留“排列数公式及其推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "1c3db3602ba3ebf2aa5edad1148de3cb81974224253b358d66f0d24e09106b07",
+        "sha256": "00de264a380b0108303ff188125e988b3b8d245cf448bde90cc2fa22f38beb7a",
         "source_components": [
           {
             "id": "K67044f56d2edb4",
@@ -15645,7 +17568,7 @@
         "prerequisites": [],
         "reason": "保留“排列数公式的阶乘表示”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "5de3485c6ef757914fc6c69abe6bf34805a55852178d062b07d89240003e8365",
+        "sha256": "ac824a373547b0dc4cfd33224f494248fb91aebd4861e235e24536205c34f523",
         "source_components": [
           {
             "id": "Kd6c147209ab1eb",
@@ -15789,7 +17712,7 @@
         "prerequisites": [],
         "reason": "保留“排列的概念与实际背景”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "b5049d9100527e28cf896f690a6028d82301ef631618d8a03c213fa74bc32b3a",
+        "sha256": "fac81cd131926c8ef6936a9f3f2c76097f4410b509f1a83caf81936aca70d608",
         "source_components": [
           {
             "id": "Ka8c0a8b37992ed",
@@ -15944,7 +17867,7 @@
         ],
         "reason": "保留“组合数公式及其推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "e3b33d43c9601b1eff5756a1c7ae6f51676467daf17725733eefdb7a62eae19d",
+        "sha256": "2ffafc6829f948af7b2a8202e37cc71bfea1f12cd6899feb6bd8ffffb93b0067",
         "source_components": [
           {
             "id": "K2135f0978b4739",
@@ -16095,7 +18018,7 @@
         "prerequisites": [],
         "reason": "保留“组合的概念”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "4891b7dc0f8a84ae0a8238e662c146013509b0fe82a7a16186a40e7f9ef7f430",
+        "sha256": "5be4518c83f47ff802201b516ddc0c996f112e94f96533ce1028a4fee196c4a5",
         "source_components": [
           {
             "id": "Kaf18e42471b457",
@@ -16219,7 +18142,7 @@
         ],
         "reason": "保留“二项式定理及其计数推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "de01118430fafdf5886d5239ff8a96eb98f9da107436912fcd2f90ec1d51508a",
+        "sha256": "a2a45e3cd2b478640b019b8801866e350b7d00eac749b9cb7ee8b4e0a7961a55",
         "source_components": [
           {
             "id": "Kf1954f8ac415d5",
@@ -16412,7 +18335,7 @@
         "prerequisites": [],
         "reason": "保留“二项式系数与杨辉三角”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "e98e6f4d56a82ec8c2985a02b664899a7c531cba99fdb34df33cce87d1fb9241",
+        "sha256": "0945cb35a87966a67425ad92e3ced75e1c181e7740c19db676c8b25017fc2a45",
         "source_components": [
           {
             "id": "Kab962976077c08",
@@ -16554,7 +18477,7 @@
         "prerequisites": [],
         "reason": "保留“二项式系数的增减性与最大值”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "5f0055b8dd5b08fc1d20a82f0134fbf0ece0ab9089c6db6478ea06ab1b2ec32f",
+        "sha256": "73a9b9fe69fb43c4b215940c0966bba468cdacfb87579bb5a0e276964d18c33a",
         "source_components": [
           {
             "id": "K8cf46cb6482251",
@@ -16696,7 +18619,7 @@
         "prerequisites": [],
         "reason": "保留“二项式系数的对称性”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "42ec6116c296cc5355982b2b51b87f82f0a552e22b4dcc13d675c8495ef54a90",
+        "sha256": "b6c112e43c29aa095f47e0ba79595b6475bcb1d1d511435a55459b7bed95b788",
         "source_components": [
           {
             "id": "Kc49fb4d5f8c42e",
@@ -16838,7 +18761,7 @@
         "prerequisites": [],
         "reason": "保留“各二项式系数的和”已有讲解边界与成员；来源中的1个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "dd8dd399e0b2144201aa885fa6f35afd4eb9193f23a4c12c1ebcc5d84eeb75a2",
+        "sha256": "9f08ab92e5409da75f6dc6dc908f3b9db732bf118e7d756b2c25b438b5fb2c9d",
         "source_components": [
           {
             "id": "K2707421b75f889",
@@ -16979,323 +18902,323 @@
     "pages": {
       "Mathmap/知识串联/人教A-选择性必修第三册/交流展示.md": {
         "before_sha256": "7f6d3977468edb8e70084a9e96848c353869301a9c22448bdd9e7447b2ecacde",
-        "sha256": "88e313db1c932281d93ac8d890a0a02f824af302fdc3579199bbc8950ee0ee58"
+        "sha256": "888d230dd4d6548228969b76bd28c2cd1e59e3c2ebd3ee04d1db06b38d23e5e4"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/三、研究报告的参考形式--Gc6056b921ee546.md": {
         "before_sha256": "fbb315aa2c74095119c26647d72409dc27047643526a6edd0d53468a63bf8508",
-        "sha256": "d2d31ae72b81a406a6b1366c381a60f593d8db2dcfb0b690b810fd8e99ee6082"
+        "sha256": "90743a70b740468915f18336ba433a38de8c04bb360aab50b548937ea245f553"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从单变量统计走向成对数据的相关与回归--Gfb3144d34e193d.md": {
         "before_sha256": "26f72a377a6ad3fb61e6d1b044a817365be45b6c14db41c246e33043558e9b43",
-        "sha256": "793fc54a624ed0ba2655f965e793a136c9ef8c04de142cdbb3676fc945b86a9e"
+        "sha256": "1061e0be210cbbfe06029aa5a763f610df517459252cf971869da53765baf0de"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从古典概率走向条件概率与随机变量分布--G0cbbbd578c8b54.md": {
         "before_sha256": "1991febe93796405e160c14c318d83174b9b6db03eee0257bfa85d587956320e",
-        "sha256": "513ef38754b26a883506437321b8aef3aa97917ca088276b26f90fc9977f80e5"
+        "sha256": "4356595f8dd8d2d6bc0c2add2454b47131539de78f12f248eb2366d6516056bb"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从均值无法刻画波动认识随机变量方差--G6686e039fcce72.md": {
         "before_sha256": "12ef7864ec071260762357306ea47d2d4e5214ec6c8e772ade0c58be09d43b92",
-        "sha256": "a355c8dd015dbea709038365f8a8bae39fc6d7dec3d518c0e95f90b0377a7f29"
+        "sha256": "4ecfe3d27710fc7f17ab08475273bebeccd63ff196f3bcc339701f415ee156d0"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从汽车号牌扩容问题认识计数原理--G87b42bc71b185d.md": {
         "before_sha256": "3eb024fffaf6fc77f2470c1fd1fa0af92dfbd2471d7bb88b7f330bdc3ec244f0",
-        "sha256": "0ad66f5aebc87d1909adff2fcd4be659824ab913672c6689cc4276664825b65a"
+        "sha256": "1075b3e9ce71284afa6067a9f86c2262cf81785f021a7c094a202ab3980a4eb5"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从考试成绩与射箭水平认识随机变量数字特征--Gc16de126f3ee9f.md": {
         "before_sha256": "ab750881d9abb466d7b9e5c942693de4ea2c2756a2d789f98771e0b6d773f647",
-        "sha256": "07ddebbea1297d9eb377720e4de9319e718ad8a7efc70135dd222fa2ad544f6a"
+        "sha256": "d6c7a03a6988ca0285a3344ed0c2ca3669676c8be3f5ecdf0d266c4404317e33"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从计数原理到随机变量与成对数据分析--Ga9d53bfb6e2ba5.md": {
         "before_sha256": "9257fa886fe4638414f430f3c194dfe01a384130784809761891d8aa06c109af",
-        "sha256": "e71e751751d748517515582626fe32220e9e746852e597af8fcf6932dcc11794"
+        "sha256": "95ce36703b2e82b92ca611509866f0f4004b5e76d4a18fcf8528969d5737abce"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/从逐个列举走向分类与分步计数--Gba811a897dd68f.md": {
         "before_sha256": "1468086130928bf567b6d6cfc7e5707e58d442e48e21b89aa152b5e6fabf0ff8",
-        "sha256": "dcbf62cf1721d12620f9f8740398650f4766774ddcaa53798b365ba78b32eb3c"
+        "sha256": "4602d5ff2685f931054dc1cdb59b01392a2df39110c162d9cfaa820f92513c92"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/信息技术应用 概率分布图及概率计算--Gbfcef43529aecf.md": {
         "before_sha256": "9af21101372039c738efe5365aa7cbd1be45daf58d818411cd1d447f0ae3bca3",
-        "sha256": "e855afafd5dcb66c7abdb68ba9ac3a8b7986ca113f473f916d9f5856fcc91c98"
+        "sha256": "6a970f02b2cfffb5a03c0e1fa38d80d370223561f38cc0d440b2ff7d8f84a35c"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/全概率公式--G483d8f9117d8e5.md": {
         "before_sha256": "11f791a16a656251342e45df16f50d174bae103e69a9df04371af3b610b81d78",
-        "sha256": "453825aa2cc8eba183b7266eceaa18fd1d93f10745bac2f6b0fb6beea25a543d"
+        "sha256": "33c4a06c23f15460187bef33721b41f15050d53722955d7676d8cbd0718005d6"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/六、数学建模活动研究报告的参考形式--Gec83a9c1e9272f.md": {
         "before_sha256": "abf79c6d99267ff98eaf699df14d4e0ff862edfcc98c9763f95ea59ff5a50182",
-        "sha256": "4873192b796878d64cd951af41ff7da3674a195121791cbdfd3816e03927a436"
+        "sha256": "55fa2f1d57960f963c8c164fdeb4df3fd3bdeabe372c0c10549a05e47f1173bf"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/四、数学建模活动的选题--Gc30316d220a928.md": {
         "before_sha256": "71e5448451f064fc958c13674a71faf3a57fba9b6f262a99a219df79e6a33d5c",
-        "sha256": "0e763ed613da44e4e68707b2d06f08f27b37037e513643c9e7179b8cbaaf9244"
+        "sha256": "f3350fb459df2cf597a732abc215b3bb04f538a7b5f287e678f2746506a860d5"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/开展研究活动--G49e3de14485878.md": {
         "before_sha256": "0fd20168e0ef5a0688bf07a231f8f3f79ded3e170350aed0f6c784ebcb270ffb",
-        "sha256": "a5a8f9ea7ecf6ebadab643283cf10604ff9511c7ec4a50502cf10af362b58151"
+        "sha256": "e42a25b6485c63741d32b98f7b13ae27e72f3bada9ea2d92fbda30b6ad9f00f1"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/排列与组合--G8dda5d1d56ab6a.md": {
         "before_sha256": "826b76ca2697866d25514cdf4ace5b0849f6c5e199e80f1202d3474e78bc76fb",
-        "sha256": "1f5e2d114e868c0cefe836085ae8685a5076a721c68b0094283577d52eccd0d9"
+        "sha256": "6fb24eefbd8dda86a7ea72f569c98fe5e1329e3e1fd386022ba93debcbd16ec8"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/撰写研究报告--G84893454a63f8f.md": {
         "before_sha256": "0dc7973dc44e77a7dcc768405c412e52b42913edfaa50a724a285b725039bfae",
-        "sha256": "ce55c6fe9e53293cda043c1346b5e699b4b3a3a0ea933a0b5d361801ce9a6011"
+        "sha256": "21531b48e1314d936b059a333ce15c185ee4432e44928e63019b4ff38de486fc"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/条件概率与全概率公式--G50e2b1a9ae6445.md": {
         "before_sha256": "e38d20e4b5270953536dcd63b3d15fd3909440eecd1a7f4a8c4d3f3255b18be1",
-        "sha256": "b67e96e26b3091d5d0589f0328baf6c9c4f099b53956e5be758d6bf8d1c30575"
+        "sha256": "3f12bc0fba5fbaacd0cd5255ebad1476aeb120ae417568a602c78b2b31808379"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由相关系数走向一元线性回归模型--G22dc53bc742083.md": {
         "before_sha256": "3a3cb226cd1dda967dda318e99dc56d25f2649855b88369d73be593f8f35308f",
-        "sha256": "cbe594a663db4cb70cf3d8476794ced8a60442b2396c43ecc6609f6157165c33"
+        "sha256": "c984065dcd832c80872c876b1350acd946d50df70908930650318a2a2628578e"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由离散随机变量分布走向二项与超几何分布--G3b446f38ee1fc2.md": {
         "before_sha256": "b7f07d480747e1fc4961c2e323599c4a55368fabfb7bb1efd5c12b6a5bb88434",
-        "sha256": "294750bd79476af68adada5debd14c83e106f4ed990c9b325680adfa5e0e4bc2"
+        "sha256": "f68bdb783a4c63a5747023f9433c90cb447de8fb561c9352648cbcc14b4beef9"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/由身高体重关系认识统计相关性--Gb1e06f54736974.md": {
         "before_sha256": "c3e788dbc262149f5b5f639c33005ac692639aa308c77d776b6df38638b94f82",
-        "sha256": "2875f3455ddcca8d9ef6187d1caddd9cd84ae4507c9d3d6e7f038afb504ed61c"
+        "sha256": "0b11b81740e61e7717d19c7f1034a04014acb367640812ecf7fa20bb63ca608d"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第七章 随机变量及其分布 小结--Ge39b314add2d85.md": {
         "before_sha256": "d4b90e2021230ceb4f36b4ced5532651aa747a91b14544ad7299a2ec40882287",
-        "sha256": "de0e4e3dd3daa443b3e91c8dc8b7021acd110239b6b0d71715b893dd93ba5499"
+        "sha256": "170ab7aefbaf92d25f25595c417dad198cedb4a153c4e1b9825ecc9ec3c9233e"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第八章 成对数据的统计分析 小结--G19bffb06a5561c.md": {
         "before_sha256": "3738af1e41a8699412330cd8d302129ab9f33819470dbd28509b7b6bafbee119",
-        "sha256": "7f0f0cec6a8f88327e3bab59a31fd41b9d8293e98ee7ea9eb311c835ebb01861"
+        "sha256": "069f498ffa9a26d6d9d30009fdaefe19474a662856ecb4c034493058eb11ccab"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/第六章 计数原理 小结--G985bf542c45680.md": {
         "before_sha256": "cffaa3b467d6ca27e5242eb3180273593ee9834a12d2cdb444af21f4fa9764ad",
-        "sha256": "848fffb837d9764c576bd526ef74cfe2463d4b28a8dd5d30009d4ca6086396e9"
+        "sha256": "514fd3ba8ffe1e51dd0eeda2335d0b18b6722e35ad6d6be1e662a3e20a1948d2"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/教材说明/组建合作团队--G90727fbe67488a.md": {
         "before_sha256": "afbce55e90720debd496bafae0a9d7a491a3e75cb8ad670261c4f1a44aae4dcb",
-        "sha256": "1f59cb815fc670464afcc4581ad1db1fc2c276c16b16fc5581a841edc1ede55a"
+        "sha256": "9958b57c401c2a297c0878f16617b5ec08eb5857af715f6b537aef36a35ad5a3"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/用汽车流量预测PM2.5浓度的统计建模.md": {
         "before_sha256": "73e724544bdd36a6a7689505013337b2c315566284307200770492c8e1737513",
-        "sha256": "7ab696b8c61b7009d65a24d1190ee7823d1c20bae007c6a3b63ef53ce05d3e35"
+        "sha256": "382e50034d777e6c6822b0545d03f64d49ddc946a3b74815ac6906c09e637714"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/先验概率与后验概率的解释.md": {
         "before_sha256": "52b54400f99148bc03c4c15983156aad8ba4b011f63d6ead668b9521100ed45f",
-        "sha256": "188ae91a9e5d89a62a755bf2843300ae1b12ee399c2901b5a1128c15ba58854c"
+        "sha256": "e24738d04fad92823731c22a857c78b2c0a4136bcfa694689343835e9ab279db"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/全概率公式及其应用.md": {
         "before_sha256": "2d9581550766adfe0faba75ada8d651ddd749510b0b06981a54d330d431cb641",
-        "sha256": "bc55ef96e0e090fc0a73dfc8c8cd417cdd08b087ffc4acc92b5204d58fb3a975"
+        "sha256": "5b4a2b1ad7b08088810f26f4334c11485be3f32de844c78637549d5696e4184f"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/条件概率的样本空间解释与性质.md": {
         "before_sha256": "835da4c7ba320489f89538bcf0a32c90b86ae197b8add76f24524016e7860237",
-        "sha256": "3134053001075bc43dd6c7d2e233150da8417bcd6998159057f7521b0e7660ea"
+        "sha256": "ed08bbba2e2fa5184af799e2c5e62aeda71eaea78ca2802478dea2fcd90b9f4a"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/条件概率的概念与计算.md": {
         "before_sha256": "e3193cbd1099264f953dccc1c0b9e8dc7edf5efbe0e4342b7a872d9354bb7b93",
-        "sha256": "248e7acefed3643c809ef7668b4bc95439f1758ffb5da7abb56b6d1404b00c2a"
+        "sha256": "29820c11f85c8c0315d411491ba4aa0a8c91f0563942517d63474cc0731942b2"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/概率的乘法公式.md": {
         "before_sha256": "61efed7f9d5e92d488741aec282e2aa1399591d1fb7daf416da3bac44f610e96",
-        "sha256": "113636b9c5619be00ad197757a7e041e9d3281c0971b20d4e18875ab9ffb93c7"
+        "sha256": "8caa2788c43a125ba8f37f7bf0480da7930c3a5e65318920628bf4c462604315"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.1 条件概率与全概率公式/独立事件与条件概率.md": {
         "before_sha256": "b531b84ffb57d321a7f59e8a376cbcab4c89e3ffc0f5b226a62e64d1594c7824",
-        "sha256": "cb65175a2e790a3a93185fd3116789ff9de2f1c1b82148da9615f06ef4068bfe"
+        "sha256": "616bb0704431daf68d74c550d6ea1d0e54da28941750009f306c924e98012eb1"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.2 离散型随机变量及其分布列/随机变量与离散型分布列.md": {
         "before_sha256": "8be4045e540a6f690ad5a1ee9e80c54a555555af07eb1a447bbebc8a471c2d3b",
-        "sha256": "c5cf749c0258d1b66f5dc93dd4b3d2b382c58ddb79cdfbc34301b0831f9bb94e"
+        "sha256": "0a5acac3de377e37add8f798e744a41f112dd22a988d577d0d214aa8825a7bac"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/方差的平移与伸缩规律.md": {
         "before_sha256": "de789025a73d9c03652746f1b8b805ccdafc7c5b2a1c62b866b3756ed1c5331c",
-        "sha256": "e5459279a0d9d044f6ba8dc16e912cba44a7ab4a1a77182719cefd33a03dd5e5"
+        "sha256": "06b8cebe50649cbab55e3a9b2feac0474db2ef1acd7561b30438ffc876725743"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/离散型随机变量的均值.md": {
         "before_sha256": "da0d7a89df13c7b03fb7b753caea8e51149dd376907b1f4796ca825915646f8e",
-        "sha256": "6c70313831ab603610d6403077353249f856ae9245f66c3eaebeebd75f0a873e"
+        "sha256": "334d601bd7d8960d7ab9f5a82d87ff92f8721c7a25e7a3bffc49261a3d3f0ee1"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/离散型随机变量的方差.md": {
         "before_sha256": "dfd80b32003fbc9a432b54fcbfbe481b525e16b88d419fd4f73ceaeb81a9dab1",
-        "sha256": "d01a8df6bb1641ab92ff838e7fc9b8b275c9ab64d179e36dc1d383a4909d9f57"
+        "sha256": "43ad98f8188c7335c06b81e32df9299dbae25ce8b35e8f3b65584b7ce41d6ab5"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/随机变量均值的线性运算法则.md": {
         "before_sha256": "5fae96508bbbad9eb13f9556b09d5f135cb0a067c75f6af27a16840440088de6",
-        "sha256": "0129e2339d31096d8f8fcf0dfdf2dbac9d801e8b8ff335bd451a455ebbae10af"
+        "sha256": "8078c3314695ceee20646d753b5f39057bda2f5532cfd2aecabfdcb4bc130010"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.3 离散型随机变量的数字特征/随机变量均值的统计含义.md": {
         "before_sha256": "3aa76a0faff3e37f4a382d113afdd44934e7e883e35cc45029a924c8d0c14223",
-        "sha256": "de70d3e436af3d8b8eb363df1acc4115a256c8f9d2c0ce51c81af7d9608be65f"
+        "sha256": "a505414ed4101589c40636d3765f0521bd3084da96db2a8cdfc306a26f29f31f"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/二项分布的均值与方差.md": {
         "before_sha256": "ab69b2c3a73490fe2710383aca27ebed0a933ed164b3be432be3b88a37e83f58",
-        "sha256": "6a7ecef32757a1eacec019173672a40eac78b0ec74e23b5c1c853556c8e449d5"
+        "sha256": "11f1138554f2fec52f1a7637e3015f68859c8e0eafcdd20b92b6dd8dadc5f3c4"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/二项分布的概率公式.md": {
         "before_sha256": "81ade62117645ac2e9cc19fe839699a8bcdfaa1db84b4f35788f2d31c5cd3b68",
-        "sha256": "965c76884996f404cca1b1cbf68d5a3f46b234d06b0b02d4fadbb139e883d6b9"
+        "sha256": "9247689ed1a555404d4246872340e6d8f68316cd51a33880eed4572ee2b19972"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/伯努利试验与n重伯努利试验.md": {
         "before_sha256": "4df7025b23285d62d3dcf438c14ccf83f5ff84697e0a70e4965ecff146d50363",
-        "sha256": "eb2e1fbd4c45688592ef34754ff7bd2952e3aa1eaa3f21ee173e41cba1129b1c"
+        "sha256": "9db714ab0b22e7bc6e37f9366ed4e9ccc6098ce4c0ae867c06bee657f53e9da1"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/超几何分布的均值.md": {
         "before_sha256": "c47540e12c69d55b6fce926a5c676a673c4009ed8bbd311228cdb715ec365fed",
-        "sha256": "d2536a4a5743c56f1fc7b0bbc80e2d86649d7562b5c9ff3ccd1b64ac0947cddf"
+        "sha256": "a3c8c34268ab85fdc90ba04c5b0890e1cc676ea9b5ca753d420ff4b17329aef7"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.4 二项分布与超几何分布/超几何分布的概念与分布列.md": {
         "before_sha256": "2df25a07cad4b7c0a88bfcdcfbb856a593da75f7103bb472c81f39437e25ab4d",
-        "sha256": "957d6f1cd9960954b584afcd771f6e7ec42febde48d015166975f460176defdd"
+        "sha256": "020d7cc1a66b3f473b123f6cbcd3e21f2a0af52f60ede40507095578d47feadd"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态分布与正态曲线.md": {
         "before_sha256": "1698d4749d38fe542e668f2a3b04f4c845bc5c47f7707d0d0b6a3e3fd9a5b58e",
-        "sha256": "f1d94de38b7a8b1c2e7dd390d1137623197a2a32812ef4724fdb92682acd5f56"
+        "sha256": "2d654cffb808b77a685407afcbd48e0ac8a1876c8f5236d1fad4b3ee2ef6ad4e"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态分布参数与标准差区间概率.md": {
         "before_sha256": "d6d0dccb077979e9b31edc54ae19a6dc931d03a1c0ff1b054fe554dc9c388675",
-        "sha256": "5e15aeb8927c2be8dc1efd1ea29d1a4f089f4210cd910170dc0151dad6a972c3"
+        "sha256": "6717116dd45f6039aced2cf87b61b88588b51a731c86ccc2455728c08ca43b8f"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/7.5 正态分布/正态曲线的基本性质.md": {
         "before_sha256": "17a5bd6ecf250cfae6d07f8475ebc66bfa30e8b3ea58350fafc71c61a6cd7f20",
-        "sha256": "c2a89082b3fb136e85b3c784972ae26e0eef251bad9efc303f30f05c74436ac3"
+        "sha256": "8089e331dd1c5a9ac250ce123e423ff1668017a1078765060448b85f9e7df0c7"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/探究与发现 二项分布的性质（学习单元）.md": {
         "before_sha256": "1284cc0316241fbb924e8a4606fcbf018dea2c5ed5a853fb55a63198620e10d5",
-        "sha256": "67627b2ed76e590c23730203b3758cb3c575c34369ba6acd8ff94bee51ed7c0c"
+        "sha256": "3d9daea311d034c1663cce2df769b194c820d19a2f6b470f6f2b312af29115e6"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算二项分布概率.md": {
         "before_sha256": "b97e20108bb6a27d580c0485288889f018a2a581fa8bf9a0aee19840e2c5d313",
-        "sha256": "01e2d6930f716c26b487f6dadf74da12ad531b7d6cc9fe5e52d892597d4294bc"
+        "sha256": "71c3564fd64805ff888def8d5c12b5431e9290a9f6cc16ff72681f014e19fbc2"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算正态分布概率.md": {
         "before_sha256": "36ac339e0c7f138c9df29ec12cf0f14801a5e76c6193ea1946821ec3ce6ecbe3",
-        "sha256": "0967a9cfbacb5576a79dea4deb52d83b1d4b15cc2655689a7e0399f785bf317b"
+        "sha256": "b460e725e178d2bcdd14d46c92437335659616204fde2f4b1c7c4e99a1c25ec9"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/用GeoGebra计算超几何分布概率.md": {
         "before_sha256": "fffbe551e248b0a3336c5942978864fc6677a5064595aea8a877672d16f83259",
-        "sha256": "ac5e1634b79ffaac198a95da678e1c87a42cb0f2c9fb77a6d6b847a047a8dc9b"
+        "sha256": "49e008db3faaf606404d0c8ce1674b6eff90c8b5dfdd5bfe01aa5dd2d89deabb"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/阅读与思考 贝叶斯公式与人工智能（学习单元）.md": {
         "before_sha256": "9cfcea366b51c5137ec1dbafa884e51b57a145b518182092927486a0ed815149",
-        "sha256": "01f60c64490071fe6cba8ffee688e6ab0e6880cf32ee58d70984f3384a6ebf7f"
+        "sha256": "a977ecc2cdbdf2b50379c80d7a9508ed1fc9962a53443be62d65da09443c7d4f"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/变量的相关关系.md": {
         "before_sha256": "0de746dcc8aa283a7758c450f467b0b6f4738efadd5759ebb09f2138392242e7",
-        "sha256": "3185fa8bda36b4cf2071beced2c17a497d9532142de31eb5c8cf8191a196ebfa"
+        "sha256": "e32e59387be2a8b934c8466f375eee3eb495d359c3cd096dea85a08e1d9b383a"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/样本相关系数的性质与解释.md": {
         "before_sha256": "2334a529de35522c9b82f9ee50b114256eee733bcc27b10dff5d4b69873a7e75",
-        "sha256": "3265c8110e4f35b83c8fb0aebc3859118f096dfdf101f7dc18f76a8f1696a7d7"
+        "sha256": "5e1eee147f2111ed2bfe9d608fc5922d6e1bda172425080ee9ad280b0898f75b"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/样本相关系数的构造与定义.md": {
         "before_sha256": "e6c87763db279e3ae33ae9462258aa5152d2f25acf90acdc7f3ddcf2bcc60652",
-        "sha256": "8af3e443dd72ed7a60e238924b374d4810abd6a315019efe77266e672866f26f"
+        "sha256": "3e5ce99cddd8eceaf00d102b78ded5e857789339b5187f06c1c8e59e610e782a"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/正相关与负相关的散点图特征.md": {
         "before_sha256": "906925d6ee17c404b1745524d007dbd736921ed4cef165ac80864f33cbca1dab",
-        "sha256": "295b996ab9bbc3f358d8aa605be74e8d2a0c3a995b7c4eccb8a971884931432b"
+        "sha256": "6ade24c158df5cbbb75a5756665fbe742486a0c1808003574fabc8ee8fb46777"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.1 成对数据的统计相关性/线性相关与非线性相关.md": {
         "before_sha256": "deaced7c52953f0d6071abccd7413577443d930f78c1392dca8b8caf1f3c12c8",
-        "sha256": "c81712ddba06b42739a9b55626ca026e6cc97f99e23aa931cd12cb1dd118219a"
+        "sha256": "c70e6f721d4a58ad520b02b09bdc62e14a86334a69fb4bf8f8b1db15dd763be2"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/一元线性回归参数的最小二乘估计.md": {
         "before_sha256": "e63b1675083bb293b63ba0f84cebfb5d947488702e0d09e9c7060d77c2ad25a7",
-        "sha256": "ceb97b80ec2504e7ef8951a4dcd327755c610b538b76a4455c7d390a35d9b08c"
+        "sha256": "86f829ff3bcc2b7fb73208a9920c142d3fcfa86602f31a2d0f850c82243244bc"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/一元线性回归模型与随机误差.md": {
         "before_sha256": "fa4d35b3b42ab83c0559cc597e9ca354aa310b790f63c8719d43a7e8221dfec3",
-        "sha256": "adab559e498b93caa33544d27d7e0e5f87e834257e9899df4efe96e15f228ae4"
+        "sha256": "f4f61390e8e93b1d22a83526ffa9eddfcfe3835e8e348890dbcef63073033036"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.2 一元线性回归模型及其应用/回归预测与残差分析.md": {
         "before_sha256": "2c14fd3a293e3912be4a76daecde47f693d24e922dd36b07322725f50fda4bb4",
-        "sha256": "66133ed6748d1db9cbc22089b8271cb2db7cfcf0eb15e33e12ba9a30629c3cf5"
+        "sha256": "39cca4896063b7d0442415f20063c90c9327acefe7f087ed03828bf26c4e728c"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/分类变量的概念与列联表.md": {
         "before_sha256": "4c56f841198926fe8a959cb4aa603596b04fd01d5febf3a7b13e84ffc24a6f93",
-        "sha256": "05bb5377bd7e58023dac9ef734907ddd766c355ecc0bad884757599d6e975b8c"
+        "sha256": "ca3a9a8016313a7723246ad822602baa9d3bc7a21ef8de5b1076bd4b58d6fe0f"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/样本频率比较与独立性检验的差异.md": {
         "before_sha256": "16e69fa225d0040146f8daebf420bb0e7e576aa7e3c775efc7065a828a29e370",
-        "sha256": "ccf59ce753e8979436143a4d6508bbee42c69f7fd4494aadeb6a41aa4b9db496"
+        "sha256": "358526b42352661be282ade4b2a029cfed1322f5117e1a15bea440af2062a9ae"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/8.3 列联表与独立性检验/独立性检验的思想与卡方统计量.md": {
         "before_sha256": "a8f30f1821b66c33cbe79f0379b59485b36086d684e38df327d4be8572984e1a",
-        "sha256": "eb6e43e45753e5523c7a097376b9776b64013e420d99aa7991aab7a1f932c223"
+        "sha256": "3eaf2f23261829420613fa335472e051fd5112f2ef7a916a77abb0e178a50e4f"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第八章 成对数据的统计分析/阅读与思考 回归与相关（学习单元）.md": {
         "before_sha256": "ff6f9632a8240967d5b83a4072574e685bf76c4c5d191ae61b0544cab330093b",
-        "sha256": "dff710aca2f72c8cd431090bee67ba0078a6edeba238a198618c8235f5e4b391"
+        "sha256": "37069acb327d6ca308f967f23808bbd2e1186df4386440ee8d53aa4653648dcd"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/分步乘法计数原理.md": {
         "before_sha256": "26263214d7f0d6b3ccc3d88b766b6d50625851e0a711f6768f55e8db9486f130",
-        "sha256": "02319206645e07dd9184cfbbfbb124670f62a555b6cdbe3edda5202ac8b70d09"
+        "sha256": "ad6fbf4286d2c047971afa219b1446ffd9fc2be752eb8259f2967a49d5d0bee2"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.1 分类加法计数原理与分步乘法计数原理/分类加法计数原理.md": {
         "before_sha256": "b9dd0458f6fc409e67fdf0883aca2c447f065935c6c8b22eef40f1c299fe58e1",
-        "sha256": "03676a53941a0bddb2d8367adebed901654ff905b2b6e9358ae71ecb28e16022"
+        "sha256": "a9d30a6ff49800efc79283fe00f6f6c51a3a7c569f9ee8f9a5fa5c7302ff3594"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列与组合的联系和区别.md": {
         "before_sha256": "3d0bed5a0da6ce86b52b0c496c96eea2ea047c1e0a352009165318cff3c84c21",
-        "sha256": "b0593df443ada4c122ae0ce703bfe74fcc8ab0122db3359c4a47e5de822049a2"
+        "sha256": "cbdf07852bd340481a049582da14b8dfca1f6a065891f6ce2f5168f7fc6b48f1"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列数公式及其推导.md": {
         "before_sha256": "73242e14669a3de66aea3e59b232b44e0e3ff4fe06dcc1e109563ad06066f70b",
-        "sha256": "1c3db3602ba3ebf2aa5edad1148de3cb81974224253b358d66f0d24e09106b07"
+        "sha256": "00de264a380b0108303ff188125e988b3b8d245cf448bde90cc2fa22f38beb7a"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列数公式的阶乘表示.md": {
         "before_sha256": "e782cf3130d8fb6b0f79c1469c917031aaaaffb454cdadc23c9c38274e859994",
-        "sha256": "5de3485c6ef757914fc6c69abe6bf34805a55852178d062b07d89240003e8365"
+        "sha256": "ac824a373547b0dc4cfd33224f494248fb91aebd4861e235e24536205c34f523"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/排列的概念与实际背景.md": {
         "before_sha256": "4a3304aa979beec83a9cb24761ac561bac50734e29df6784b678592103cdbec0",
-        "sha256": "b5049d9100527e28cf896f690a6028d82301ef631618d8a03c213fa74bc32b3a"
+        "sha256": "fac81cd131926c8ef6936a9f3f2c76097f4410b509f1a83caf81936aca70d608"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/组合数公式及其推导.md": {
         "before_sha256": "4d3f2e8dfd3384dacd0e5e4d351577fc12ad719ee85c12521385b834d5d09655",
-        "sha256": "e3b33d43c9601b1eff5756a1c7ae6f51676467daf17725733eefdb7a62eae19d"
+        "sha256": "2ffafc6829f948af7b2a8202e37cc71bfea1f12cd6899feb6bd8ffffb93b0067"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/组合的概念.md": {
         "before_sha256": "5c79f7ec710986d8bfc76c320afd75197a37e96ec364447cc7a47cb92f0caafa",
-        "sha256": "4891b7dc0f8a84ae0a8238e662c146013509b0fe82a7a16186a40e7f9ef7f430"
+        "sha256": "5be4518c83f47ff802201b516ddc0c996f112e94f96533ce1028a4fee196c4a5"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式定理及其计数推导.md": {
         "before_sha256": "e355057565bc916749e218c09e8787159875b4c01083071bf8cb22ee7de91abe",
-        "sha256": "de01118430fafdf5886d5239ff8a96eb98f9da107436912fcd2f90ec1d51508a"
+        "sha256": "a2a45e3cd2b478640b019b8801866e350b7d00eac749b9cb7ee8b4e0a7961a55"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数与杨辉三角.md": {
         "before_sha256": "f7b2e17f758a61ddf44694ccbd2912d957ad2a08f9f9f7d0ac713c1134d02425",
-        "sha256": "e98e6f4d56a82ec8c2985a02b664899a7c531cba99fdb34df33cce87d1fb9241"
+        "sha256": "0945cb35a87966a67425ad92e3ced75e1c181e7740c19db676c8b25017fc2a45"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数的增减性与最大值.md": {
         "before_sha256": "3321f6bf3d511d647da50941e03d7ab69ab8a2a8e0e1e03126e310a4cc7f93ef",
-        "sha256": "5f0055b8dd5b08fc1d20a82f0134fbf0ece0ab9089c6db6478ea06ab1b2ec32f"
+        "sha256": "73a9b9fe69fb43c4b215940c0966bba468cdacfb87579bb5a0e276964d18c33a"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/二项式系数的对称性.md": {
         "before_sha256": "b87fa0b2269da7d27857cad4404a336495b168bbecd74b31542fcebbc191e6b5",
-        "sha256": "42ec6116c296cc5355982b2b51b87f82f0a552e22b4dcc13d675c8495ef54a90"
+        "sha256": "b6c112e43c29aa095f47e0ba79595b6475bcb1d1d511435a55459b7bed95b788"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/各二项式系数的和.md": {
         "before_sha256": "c850542ee981e6d38de0593d9b9a66647d6f095a414eb139bb1b0eda4d54c057",
-        "sha256": "dd8dd399e0b2144201aa885fa6f35afd4eb9193f23a4c12c1ebcc5d84eeb75a2"
+        "sha256": "9f08ab92e5409da75f6dc6dc908f3b9db732bf118e7d756b2c25b438b5fb2c9d"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 子集的个数有多少（学习单元）.md": {
         "before_sha256": "8889ca3ba0c85dd18d5406918b29adb0a7334cbc9bae525d60c2533a21d6f023",
-        "sha256": "dc604126556d3922db6f92c80f86418c60df5e3b0cdd33882dd76cc7030e45d0"
+        "sha256": "55caf8aab43ff6aceff8870a9572644a09d327ee81dea1476abe22d68ba3ecc6"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/探究与发现 组合数的两个性质（学习单元）.md": {
         "before_sha256": "fb033d30449d02e0703e8953dfcc1be3679497b03ae657d3f3d362a3317af40b",
-        "sha256": "bc71c3016efdd945a78068be01cfcc34ef93577367f1347e0fdb68e2603fc2fc"
+        "sha256": "627c9f3ccaa20da3e3bcfc58a6980fb0756416313a523f91be927d27e49e27ef"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的历史与结构.md": {
         "before_sha256": "20bcd24580e215f0a1988f7936abdff0ad291256318a0c83ccc8cf4903f1b0c8",
-        "sha256": "e930b4237a9c2dc8044badfaa9daaef8860ae718e78985967f68832ccc3b135b"
+        "sha256": "dd3b378b11291de8e0d56fa95d1a87edeb39650bf7b8219e4de59f840d38f8a5"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的应用.md": {
         "before_sha256": "bd9c59a8ea0a7ae7aff16e1e4b45db1bd89b959abc5b25e8b85ded4e35da2a15",
-        "sha256": "f4401327823751f6bfe181e5d39d68cdf00c199fae823e676d691dfbe842ea8f"
+        "sha256": "e8995dccf4e07d4a7ce78d9f111d022983893f8c0d2c1acaca07e87a9025affa"
       },
       "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/杨辉三角的性质.md": {
         "before_sha256": "f03aea43a325365d8546010113c983160919c6ba1a845d5bbee57b5a303dd08d",
-        "sha256": "6ac90e88a380069e077622eb5d22a807877eed41321b7916a2a6c9b4f8d1194c"
+        "sha256": "3216e6299cea0ea83b4a3910e1c014fd2f8dd940a7bf2c007c0524d61103ab96"
       },
       "Mathmap/题型/按章节分类/人教A-选择性必修第三册/人教A-选择性必修第三册.md": {
         "before_sha256": "7c521133e819b7eded65507297d7476feef1b6a8060c19e23c405b6a2f2ab8e1",
@@ -24126,7 +26049,7 @@
       "Mathmap/习题/解析/A070000000233.md"
     ],
     "atom-1251c5a5fe0a8b45": [
-      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.2 排列与组合/6.2.3 组合.md"
+      "Mathmap/组织层/人教A-选择性必修第三册.md"
     ],
     "atom-127b1c7838385635": [
       "Mathmap/习题/Q070000001758.md"
@@ -24705,7 +26628,7 @@
       "Mathmap/问题袋/探究-分步乘法计数原理向三个步骤推广.md"
     ],
     "atom-94564322e2803382": [
-      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3 二项式定理.md"
+      "Mathmap/组织层/人教A-选择性必修第三册.md"
     ],
     "atom-96506daa39a30861": [
       "Mathmap/习题/Q070000001823.md"
@@ -24943,7 +26866,7 @@
       "Mathmap/习题/Q070000001800.md"
     ],
     "atom-cd98ab19bd18a6d6": [
-      "Mathmap/知识串联/人教A-选择性必修第三册/第六章 计数原理/6.3 二项式定理/6.3.1 二项式定理.md"
+      "Mathmap/组织层/人教A-选择性必修第三册.md"
     ],
     "atom-cdae69efa3fbda2d": [
       "Mathmap/知识点/方差的平移与伸缩规律.md"

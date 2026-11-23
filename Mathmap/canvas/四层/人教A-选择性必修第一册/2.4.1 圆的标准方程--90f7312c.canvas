@@ -1,41 +1,22 @@
 {
-  "edges": [],
-  "mathmap": {
-    "contract": "knowledge-canvas/v1",
-    "level": "四层",
-    "scope_key": "semantic-03711",
-    "source_id": "rja-selective-1"
-  },
-  "nodes": [
-    {
-      "height": 130,
-      "id": "0e1f0a2bdd12e6a93986",
-      "text": "# 2.4.1 圆的标准方程\n\n高中选择性必修 第一册·人教A版数学",
-      "type": "text",
-      "width": 700,
-      "x": 0,
-      "y": -240
-    },
-    {
-      "height": 100,
-      "id": "31f28cea3451fff2d6ea",
-      "text": "[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.4%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B--88c4c5f0.canvas)",
-      "type": "text",
-      "width": 380,
-      "x": 780,
-      "y": -240
-    },
-    {
-      "color": "2",
-      "height": 120,
-      "id": "fbc362a61d6d86438948",
-      "mathmap_atom_id": "K645a18fb0cc63d",
-      "mathmap_file": "Mathmap/知识点/圆的标准方程及其推导.md",
-      "text": "[圆的标准方程及其推导](../../../%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%9C%86%E7%9A%84%E6%A0%87%E5%87%86%E6%96%B9%E7%A8%8B%E5%8F%8A%E5%85%B6%E6%8E%A8%E5%AF%BC.md)",
-      "type": "text",
-      "width": 360,
-      "x": 0,
-      "y": 0
-    }
-  ]
+	"edges":[
+		{"id":"4b639521fe82d312","fromNode":"eb29a7c5c90d0da0","fromSide":"right","toNode":"68d69bfac44195dc","toSide":"left"},
+		{"id":"e0891602a4886090","fromNode":"68d69bfac44195dc","fromSide":"right","toNode":"578e8fa93bd63c80","toSide":"left"},
+		{"id":"2de58df7c0ab1787","fromNode":"68d69bfac44195dc","fromSide":"right","toNode":"0bea7c84bfdbf99c","toSide":"left"},
+		{"id":"d5f187c77e7f7c1b","fromNode":"0bea7c84bfdbf99c","fromSide":"right","toNode":"9557230559e5cc09","toSide":"left"},
+		{"id":"b6374b48dc75a3f4","fromNode":"68d69bfac44195dc","fromSide":"right","toNode":"b7a5d8e4a3111317","toSide":"left"},
+		{"id":"f92d0bbbb0b384aa","fromNode":"68d69bfac44195dc","fromSide":"right","toNode":"441ab5781afe9398","toSide":"left"}
+	],
+	"mathmap":{"contract":"knowledge-canvas/v1","level":"四层","scope_key":"semantic-03711","source_id":"rja-selective-1"},
+	"nodes":[
+		{"id":"0e1f0a2bdd12e6a93986","text":"# 2.4.1 圆的标准方程\n\n高中选择性必修 第一册·人教A版数学","type":"text","x":0,"y":-240,"width":700,"height":130},
+		{"id":"31f28cea3451fff2d6ea","text":"[返回上层知识图谱](../../%E4%B8%89%E5%B1%82/%E4%BA%BA%E6%95%99A-%E9%80%89%E6%8B%A9%E6%80%A7%E5%BF%85%E4%BF%AE%E7%AC%AC%E4%B8%80%E5%86%8C/2.4%20%E5%9C%86%E7%9A%84%E6%96%B9%E7%A8%8B--88c4c5f0.canvas)","type":"text","x":780,"y":-240,"width":380,"height":100},
+		{"id":"eb29a7c5c90d0da0","type":"text","text":"[[Mathmap/问题袋/如何确定一个圆|如何确定一个圆]]","x":-57,"y":187,"width":250,"height":60},
+		{"id":"578e8fa93bd63c80","type":"text","text":"[[Mathmap/问题袋/圆心在坐标原点的圆的标准方程|圆心在坐标原点的圆的标准方程]]","x":801,"y":87,"width":250,"height":60},
+		{"id":"68d69bfac44195dc","type":"text","text":"[[Mathmap/知识点/圆的标准方程及其推导|圆的标准方程及其推导]]","x":380,"y":187,"width":250,"height":60},
+		{"id":"0bea7c84bfdbf99c","type":"text","text":"[[Mathmap/习题/Q070000001187|Q070000001187]]","x":801,"y":303,"width":250,"height":60},
+		{"id":"b7a5d8e4a3111317","x":801,"y":460,"width":250,"height":60,"type":"text","text":"[[Mathmap/习题/Q070000001188|Q070000001188]]"},
+		{"id":"441ab5781afe9398","x":801,"y":600,"width":250,"height":60,"type":"text","text":"[[Mathmap/习题/Q070000001189|Q070000001189]]"},
+		{"id":"9557230559e5cc09","x":1220,"y":303,"width":250,"height":60,"type":"text","text":"[[Mathmap/问题袋/探究-点在圆内外的代数条件|探究-点在圆内外的代数条件]]"}
+	]
 }

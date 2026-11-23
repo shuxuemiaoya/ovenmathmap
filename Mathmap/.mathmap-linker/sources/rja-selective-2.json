@@ -1291,6 +1291,1540 @@
     }
   },
   "atom_contract": "source-independent/v2",
+  "book_organization": {
+    "retired": {
+      "Mathmap/知识串联/人教A-选择性必修第二册/人教A-选择性必修第二册.md": {
+        "anchor": "全书入口",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "1c9a31f6b2fca32b5a8b47711097033b9c9fde5044ad4e01e107a19eef5693ce",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第五章 一元函数的导数及其应用 · 概念索引.md": {
+        "anchor": "索引 · 第五章 一元函数的导数及其应用 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "7e1141c78f4a9473a6798536b090b8b8b2d231cb67fe14233dad64903592dd3e",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第四章 数列 · 概念索引.md": {
+        "anchor": "索引 · 第四章 数列 · 概念索引",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "34a01bd2f9151baf412621e1987bc62f2682f4a6f7d5a481b1a7108da783a2e1",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/人教A-选择性必修第二册.md": {
+        "anchor": "全书入口",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "93289a97b8c43d93dd00cdebe13cca79b8b6b420bd288342f0c18570363026b7",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md": {
+        "anchor": "5.1 导数的概念及其意义",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "2fcc431e9a439d677990d4c931de1a9dd56aed4f193d68b19c8138f3cc09cb59",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md": {
+        "anchor": "5.1.1 变化率问题",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "4d32b3a91607db6354679022f9cb42cefde9aa6d22e2b5112a069a25e891229e",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md": {
+        "anchor": "5.1.2 导数的概念及其几何意义",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "e67ed3256e165cba86dbe37e7149f2e78556d497d1abdc488904171a889d2f1f",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md": {
+        "anchor": "5.2 导数的运算",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "43260f5a552762366acf5337b5ed5261ae0a7158aeb894bde79e848d3454b569",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md": {
+        "anchor": "5.2.2 导数的四则运算法则",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "c1f7f86bcaad66ff13abe24264213267b4967fec2665d765e8575062045b70c4",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md": {
+        "anchor": "5.2.3 简单复合函数的导数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "af7d7f3b1e1acbba18ef16089fc3195993c43315e18022d3f0b5e51c3284ade4",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md": {
+        "anchor": "5.3 导数在研究函数中的应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "f74392efdf5347d41be25dedbcb3f87ccdc7abc46bc9b1485685034fcbfd3d18",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md": {
+        "anchor": "5.3.1 函数的单调性",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "48c188fd36ed58503387b52a89e06c96e7f2e83f7e4367a24a335eb622498221",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md": {
+        "anchor": "5.3.2 函数的极值与最大（小）值",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "a1e3f0275ee4066e6cee6f09765a6b87acdd4e479e4ae0fa989dc0d1c98a8a17",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md": {
+        "anchor": "信息技术应用 图形技术与函数性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "cdda0eb0986ed319d4f871de2d43a504298db3e36b3adb6bc3f90ca8db1a6be9",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md": {
+        "anchor": "探究与发现 牛顿法——用导数方法求方程的近似解",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "827248f5122bf5fb2590893c723b0a5fc50643aebb09e38f2703149a4ed89f0d",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md": {
+        "anchor": "文献阅读与数学写作* 微积分的创立与发展",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "4f6179443be7cf0bbd50fecf8a37d4b77451d0bbd626b76e806100aac67f6379",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md": {
+        "anchor": "第五章 一元函数的导数及其应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "eef4150a740ab149fff44d309d2072de7c85bf7e5070000cac4c43f0dd10da43",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.1 数列的概念/4.1 数列的概念.md": {
+        "anchor": "4.1 数列的概念",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "28e00ff0a82b86a37f5ffcbc58b1a080322afe92463586137cbf8225d8f2cf67",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2 等差数列.md": {
+        "anchor": "4.2 等差数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "25452e3ba30c5dd2811e3c1a14c342539de74c4aec5597a6886c6deb7258d529",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md": {
+        "anchor": "4.2.1 等差数列的概念",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "d6d3b4de9572be9a76d5660a287535462fba9ee813b143590c316df17565c555",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md": {
+        "anchor": "4.2.2 等差数列的前 $n$ 项和公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "21c9eb4144058f2ee3b31e65940724000d126809a6ae2a000edb05368ae242a1",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3 等比数列.md": {
+        "anchor": "4.3 等比数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "409922c0ce9537e1fc10a0ea37c0ee46c66d395e70432e04de1f9a64aa386b66",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md": {
+        "anchor": "4.3.1 等比数列的概念",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "27b6e1e02edf24f40de9714080a3fbd148aa9581dbc7ec891904c999f85aaf87",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md": {
+        "anchor": "4.3.2 等比数列的前 $n$ 项和公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "cf0f7513a907d2261b1395637f9ec0fae03ccbf0f943d3f0b0a13607c222ec69",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md": {
+        "anchor": "4.4* 数学归纳法",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "7d3ef30db05750bfb4bee7b12dd49b8567bf7febe24ed29592353b3397592e77",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/第四章 数列.md": {
+        "anchor": "第四章 数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "321e81a372a320d37ab26d17c21306e6cc354d5277cb42bdcc5792233a117405",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/阅读与思考 斐波那契数列.md": {
+        "anchor": "阅读与思考 斐波那契数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "f5266f14a34f2d6a37a7190d2a15c5fca16f7ef9b146b523d9f03ad96ac5bd63",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md": {
+        "anchor": "5.1 导数的概念及其意义",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "e44f90e94a8a517d8d710541b7b8f286edf6f011b2deaa281ef0480042f68656",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md": {
+        "anchor": "5.1.1 变化率问题",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "0d07086b654f253f0b8ed79a21fefc4597a0c8f69751eac57354b379bc120a55",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md": {
+        "anchor": "5.1.2 导数的概念及其几何意义",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "925c3556a21be1f39962c78bd741c472790aab1c4d01206ca96e8df02b81cf59",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md": {
+        "anchor": "5.2 导数的运算",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "c0b52e084984dbde69e3bbb48a5ac81ce39a47a3e223c41b743e3686227ea247",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md": {
+        "anchor": "5.2.1 基本初等函数的导数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "4c849e7d6c45267758f8e1831fea879b56e9a77cf083ef4d622016ecd7362a31",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md": {
+        "anchor": "5.2.2 导数的四则运算法则",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "3530e304448cf195d8924df315e61ebf7a4d68499e6ebb9c31ba6610b11406bd",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md": {
+        "anchor": "5.2.3 简单复合函数的导数",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "7226c4415b55bc04be5a4f65bc4ce1035175d7ebb70916800958246c27315270",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md": {
+        "anchor": "5.3 导数在研究函数中的应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "b7f6f663d1d4e1c0ab6490a80a8f7dd106e7f73bf9f029ecc46c73b0f6cf5e11",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md": {
+        "anchor": "5.3.1 函数的单调性",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "406fc7a350eaaa1558f036e978f3c18983332f471e27e52536f05ff0af5709e2",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md": {
+        "anchor": "5.3.2 函数的极值与最大（小）值",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "c463729f1ebae890d0139656f1d1190a8da2f13a6d3058d64ebccd26056f24d6",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md": {
+        "anchor": "信息技术应用 图形技术与函数性质",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "a7e502f74a13cedff26c2cd04380dc12c6451a181240ff898c9e4e22c1b3e3f6",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md": {
+        "anchor": "探究与发现 牛顿法——用导数方法求方程的近似解",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "da1f67686f6897928d32a5897d6211899328e9583dd023ebaaf45c045908b6f5",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md": {
+        "anchor": "第五章 一元函数的导数及其应用 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "2567ca2b612bed5b19e9a93132b09fc1c4526a6f9c8b2649da12f6429d8e7400",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md": {
+        "anchor": "第五章 一元函数的导数及其应用",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "1ff43b9e611169960bcd277dfb414d8f6dc79424b5dc5386bde94e19a2694449",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/4.1 数列的概念.md": {
+        "anchor": "4.1 数列的概念",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "6583780475abaae5ad9850984df8f8c21d9caccc47fdaab3cfe5f375c2251ceb",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2 等差数列.md": {
+        "anchor": "4.2 等差数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "373a6580b6ec856e188d1e5f04118912aa5c66f5ecb40534c9dd4831418de4a8",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md": {
+        "anchor": "4.2.1 等差数列的概念",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "bdd7fd8d6beb979972e97f618563d64f034a597628299d58e06c0ef16ade33f7",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md": {
+        "anchor": "4.2.2 等差数列的前 $n$ 项和公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "cfe62e844d550c72ef181e5be3fcde8ff76f0c4f176e7fc95626ab4de8b2b8ab",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3 等比数列.md": {
+        "anchor": "4.3 等比数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "c46928e22e3c13df1282118d7bffec5d6545e8ac5c2a7e41e8ded3d640fce931",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md": {
+        "anchor": "4.3.1 等比数列的概念",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "d565ea860e533306ce4f374089b7f46c8ef70e3fe075aa74234f0567807f516e",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md": {
+        "anchor": "4.3.2 等比数列的前 $n$ 项和公式",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "d59e79235574e72bc280b672b2beab887df32a6f6f99dc0f4cbf275d07017ed8",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md": {
+        "anchor": "4.4* 数学归纳法",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "f8d06b37f05f6b659c8f48e52d13f2cf3c1e47d0d4a8ea47dada4319b0c52134",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md": {
+        "anchor": "第四章 数列 小结",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "5b2ef24a542aa7ac1b0d11ae5aab4006c5d6e1c4388eeace681d9fc04aaab78b",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列.md": {
+        "anchor": "第四章 数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "c8914442d64f09f32479867220b0bbf5c38eec9f0c0d655da1b3882ac9dc62b6",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 中国古代数学家求数列和的方法.md": {
+        "anchor": "阅读与思考 中国古代数学家求数列和的方法",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "f3f15c9ff979b55c16721498cbd0ffe20313751951127b02fc7c815d4850cd7a",
+        "source_id": "rja-selective-2"
+      },
+      "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 斐波那契数列.md": {
+        "anchor": "阅读与思考 斐波那契数列",
+        "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "sha256": "ec467b14ad2edeb979950fd119874aa00e457e0d1b4a36bd1cc9918ba37afb72",
+        "source_id": "rja-selective-2"
+      }
+    },
+    "review": "Pure source navigation and declared source indexes are merged into the full book tree; substantive lessons and atoms retain their boundaries.",
+    "source_graph_sha256": "d57feee70c63f347cb8c528d07a9296dbd19a9be4b5683d697993607742225ba",
+    "structure": {
+      "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
+      "indexes": [
+        {
+          "heading": "索引 · 第四章 数列 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/数列的概念与有穷性.md",
+              "id": "K0be1f43435edf4",
+              "label": "数列的概念与有穷性"
+            },
+            {
+              "destination": "Mathmap/概念或公式/数列的单调性.md",
+              "id": "Ce2ff08756ce062",
+              "label": "数列的单调性"
+            },
+            {
+              "destination": "Mathmap/概念或公式/数列的通项公式.md",
+              "id": "C45e91240303dfd",
+              "label": "数列的通项公式"
+            },
+            {
+              "destination": "Mathmap/知识点/数列的递推公式.md",
+              "id": "Kc1b9db52b67b15",
+              "label": "数列的递推公式"
+            },
+            {
+              "destination": "Mathmap/知识点/数列的前 n 项和及其与通项的关系.md",
+              "id": "K9720b9518d6e06",
+              "label": "数列的前 n 项和及其与通项的关系"
+            },
+            {
+              "destination": "Mathmap/知识点/斐波那契数列及其应用.md",
+              "id": "K742abdb5b33dca",
+              "label": "斐波那契数列及其应用"
+            },
+            {
+              "destination": "Mathmap/概念或公式/等差数列与公差.md",
+              "id": "C8e2b950b6f41e5",
+              "label": "等差数列与公差"
+            },
+            {
+              "destination": "Mathmap/概念或公式/等差中项.md",
+              "id": "Cf6620e5621ad8a",
+              "label": "等差中项"
+            },
+            {
+              "destination": "Mathmap/知识点/等差数列的通项公式.md",
+              "id": "Kffcfd8222bd68e",
+              "label": "等差数列的通项公式"
+            },
+            {
+              "destination": "Mathmap/概念或公式/等比数列与公比.md",
+              "id": "Cf72ec1f64e4248",
+              "label": "等比数列与公比"
+            },
+            {
+              "destination": "Mathmap/概念或公式/等比中项.md",
+              "id": "C432107e89d22b9",
+              "label": "等比中项"
+            },
+            {
+              "destination": "Mathmap/知识点/等比数列的通项公式.md",
+              "id": "Ka189a28a794706",
+              "label": "等比数列的通项公式"
+            },
+            {
+              "destination": "Mathmap/概念或公式/数学归纳法.md",
+              "id": "Ca2da1b395a122b",
+              "label": "数学归纳法"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第四章数列知识结构与方法回顾--G7420236e6dc472.md",
+              "id": "G7420236e6dc472",
+              "label": "第四章数列知识结构与方法回顾"
+            }
+          ]
+        },
+        {
+          "heading": "索引 · 第五章 一元函数的导数及其应用 · 概念索引",
+          "members": [
+            {
+              "destination": "Mathmap/知识点/平均速度、瞬时速度与极限逼近.md",
+              "id": "K0520150c1b281b",
+              "label": "平均速度、瞬时速度与极限逼近"
+            },
+            {
+              "destination": "Mathmap/知识点/曲线切线、割线斜率与瞬时变化率.md",
+              "id": "Kf46d529c4418a9",
+              "label": "曲线切线、割线斜率与瞬时变化率"
+            },
+            {
+              "destination": "Mathmap/知识点/平均变化率与导数的定义.md",
+              "id": "K8d3dbd15916c78",
+              "label": "平均变化率与导数的定义"
+            },
+            {
+              "destination": "Mathmap/概念或公式/曲线的切线.md",
+              "id": "Cd028c29adeedb0",
+              "label": "曲线的切线"
+            },
+            {
+              "destination": "Mathmap/概念或公式/基本初等函数的导数公式.md",
+              "id": "C4e82e07358df68",
+              "label": "基本初等函数的导数公式"
+            },
+            {
+              "destination": "Mathmap/概念或公式/函数和与差的求导法则.md",
+              "id": "C26fb990767b811",
+              "label": "函数和与差的求导法则"
+            },
+            {
+              "destination": "Mathmap/知识点/复合函数与链式求导法则.md",
+              "id": "K3bac05b7baa461",
+              "label": "复合函数与链式求导法则"
+            },
+            {
+              "destination": "Mathmap/知识点/导数符号与函数单调性.md",
+              "id": "K57bbd8899b13f1",
+              "label": "导数符号与函数单调性"
+            },
+            {
+              "destination": "Mathmap/知识点/利用单调性比较函数值与证明不等式.md",
+              "id": "Kd3ae991988cf0a",
+              "label": "利用单调性比较函数值与证明不等式"
+            },
+            {
+              "destination": "Mathmap/知识点/函数极值的概念与导数判定.md",
+              "id": "K91152e5802173d",
+              "label": "函数极值的概念与导数判定"
+            },
+            {
+              "destination": "Mathmap/知识点/导数为零与极值的关系及极值判定.md",
+              "id": "K59a5e7f0627fff",
+              "label": "极值点、驻点与不可导点的关系"
+            },
+            {
+              "destination": "Mathmap/知识点/闭区间上函数的最大值与最小值.md",
+              "id": "Kd53c5f8868afe0",
+              "label": "闭区间上函数的最大值与最小值"
+            }
+          ]
+        }
+      ],
+      "label": "高中选择性必修 第二册·人教A版数学",
+      "nodes": {
+        "book-root": {
+          "children": [
+            "node-toc-001",
+            "node-toc-010"
+          ],
+          "heading": "全书入口",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从数列规律到导数研究变化的知识路径--G8b854254109e8c.md",
+              "id": "G8b854254109e8c",
+              "label": "从数列规律到导数研究变化的知识路径"
+            }
+          ],
+          "title": "普通高中教科书 数学 选择性必修 第二册"
+        },
+        "node-toc-001": {
+          "children": [
+            "node-toc-002",
+            "node-toc-003",
+            "node-toc-004",
+            "node-toc-005",
+            "node-toc-006",
+            "node-toc-007",
+            "node-toc-008",
+            "node-toc-009"
+          ],
+          "heading": "第四章 数列",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由树木高度的逐年记录认识数列--Gf63fcef94df1d4.md",
+              "id": "Gf63fcef94df1d4",
+              "label": "由树木高度的逐年记录认识数列"
+            }
+          ],
+          "title": "第四章 数列"
+        },
+        "node-toc-002": {
+          "children": [
+            "semantic-00400"
+          ],
+          "heading": "4.1 数列的概念",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的概念与有穷性.md",
+              "id": "rja-selective-2:node-toc-002:unit:K0be1f43435edf4",
+              "label": "数列的概念与有穷性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的通项公式.md",
+              "id": "rja-selective-2:node-toc-002:unit:K6079161c47a619",
+              "label": "数列的通项公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的函数观点.md",
+              "id": "rja-selective-2:node-toc-002:unit:Kfb76962848ff1a",
+              "label": "数列的函数观点"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的表示与单调性.md",
+              "id": "rja-selective-2:node-toc-002:unit:Kf6f6674eabdb8f",
+              "label": "数列的表示与单调性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由相邻项的差与商寻找数列递推规律--Ge0f91a497c087a.md",
+              "id": "Ge0f91a497c087a",
+              "label": "由相邻项的差与商寻找数列递推规律"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的递推公式.md",
+              "id": "rja-selective-2:node-toc-002:unit:Kc1b9db52b67b15",
+              "label": "数列的递推公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的前 n 项和及其与通项的关系.md",
+              "id": "rja-selective-2:node-toc-002:unit:K9720b9518d6e06",
+              "label": "数列的前 n 项和及其与通项的关系"
+            },
+            {
+              "destination": "Mathmap/问题袋/从逐年身高数据认识数列的有序性.md",
+              "id": "P3d0468ec50585e",
+              "label": "从逐年身高数据认识数列的有序性"
+            }
+          ],
+          "title": "4.1 数列的概念"
+        },
+        "node-toc-003": {
+          "children": [],
+          "heading": "阅读与思考 斐波那契数列",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/斐波那契数列及其应用.md",
+              "id": "rja-selective-2:node-toc-003:unit:K742abdb5b33dca",
+              "label": "斐波那契数列及其应用"
+            },
+            {
+              "destination": "Mathmap/问题袋/从兔子繁殖问题认识斐波那契数列.md",
+              "id": "P636003f36ac8ce",
+              "label": "从兔子繁殖问题认识斐波那契数列"
+            }
+          ],
+          "title": "阅读与思考 斐波那契数列"
+        },
+        "node-toc-004": {
+          "children": [
+            "semantic-00504",
+            "semantic-00858",
+            "semantic-01192"
+          ],
+          "heading": "4.2 等差数列",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/类比基本初等函数研究等差与等比数列--Gbf86a051f13bb6.md",
+              "id": "Gbf86a051f13bb6",
+              "label": "类比基本初等函数研究等差与等比数列"
+            }
+          ],
+          "title": "4.2 等差数列"
+        },
+        "node-toc-005": {
+          "children": [
+            "semantic-01267",
+            "semantic-01696",
+            "semantic-02052"
+          ],
+          "heading": "4.3 等比数列",
+          "members": [
+            {
+              "destination": "Mathmap/问题袋/由等差数列的恒差类比等比数列的恒比.md",
+              "id": "Pdcec82ecc902d2",
+              "label": "由等差数列的恒差类比等比数列的恒比"
+            }
+          ],
+          "title": "4.3 等比数列"
+        },
+        "node-toc-006": {
+          "children": [],
+          "heading": "阅读与思考 中国古代数学家求数列和的方法",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从古埃及纸草书记载看数列求和方法--G454d3a9a88502e.md",
+              "id": "G454d3a9a88502e",
+              "label": "从古埃及纸草书记载看数列求和方法"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/中国古代数列求和方法.md",
+              "id": "rja-selective-2:node-toc-006:unit:K1ff535ebfcc3af",
+              "label": "中国古代数列求和方法"
+            }
+          ],
+          "title": "阅读与思考 中国古代数学家求数列和的方法"
+        },
+        "node-toc-007": {
+          "children": [
+            "semantic-02576"
+          ],
+          "heading": "4.4* 数学归纳法",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/从归纳猜想到数学归纳法的递推机制.md",
+              "id": "rja-selective-2:node-toc-007:unit:Ke8dba1bf472c9d",
+              "label": "从归纳猜想到数学归纳法的递推机制"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/数学归纳法的原理与步骤.md",
+              "id": "rja-selective-2:node-toc-007:unit:K8c3281ee1e9de0",
+              "label": "数学归纳法的原理与步骤"
+            },
+            {
+              "destination": "Mathmap/问题袋/由归纳猜想的证明需求引出数学归纳法.md",
+              "id": "Pb8ab76743794e2",
+              "label": "由归纳猜想的证明需求引出数学归纳法"
+            }
+          ],
+          "title": "4.4* 数学归纳法"
+        },
+        "node-toc-008": {
+          "children": [],
+          "heading": "第四章 数列 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第四章数列知识结构与方法回顾--G7420236e6dc472.md",
+              "id": "G7420236e6dc472",
+              "label": "第四章数列知识结构与方法回顾"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md",
+              "id": "rja-selective-2:node-toc-008:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第四章 数列 小结"
+        },
+        "node-toc-009": {
+          "children": [],
+          "heading": "第四章 数列 复习参考题 4",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列 复习参考题 4.md",
+              "id": "rja-selective-2:node-toc-009:question",
+              "label": "第四章 数列 复习参考题 4"
+            }
+          ],
+          "title": "第四章 数列 复习参考题 4"
+        },
+        "node-toc-010": {
+          "children": [
+            "node-toc-011",
+            "node-toc-012",
+            "node-toc-013",
+            "node-toc-014",
+            "node-toc-015",
+            "node-toc-016",
+            "node-toc-017",
+            "node-toc-018"
+          ],
+          "heading": "第五章 一元函数的导数及其应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从瞬时速度与切线问题认识导数的研究路径--G9daa9ba6d367f0.md",
+              "id": "G9daa9ba6d367f0",
+              "label": "从瞬时速度与切线问题认识导数的研究路径"
+            }
+          ],
+          "title": "第五章 一元函数的导数及其应用"
+        },
+        "node-toc-011": {
+          "children": [
+            "semantic-02774",
+            "semantic-02936",
+            "semantic-03178"
+          ],
+          "heading": "5.1 导数的概念及其意义",
+          "members": [
+            {
+              "destination": "Mathmap/问题袋/从函数增长快慢的定性比较走向变化率.md",
+              "id": "P40451955882d57",
+              "label": "从函数增长快慢的定性比较走向变化率"
+            }
+          ],
+          "title": "5.1 导数的概念及其意义"
+        },
+        "node-toc-012": {
+          "children": [
+            "semantic-03255",
+            "semantic-03444",
+            "semantic-03562",
+            "semantic-03656"
+          ],
+          "heading": "5.2 导数的运算",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由基本初等函数走向导数运算法则--Gf185d904e54bfb.md",
+              "id": "Gf185d904e54bfb",
+              "label": "由基本初等函数走向导数运算法则"
+            }
+          ],
+          "title": "5.2 导数的运算"
+        },
+        "node-toc-013": {
+          "children": [],
+          "heading": "探究与发现 牛顿法——用导数方法求方程的近似解",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/牛顿法求方程的近似解.md",
+              "id": "rja-selective-2:node-toc-013:unit:Kd62f215f695297",
+              "label": "牛顿法求方程的近似解"
+            },
+            {
+              "destination": "Mathmap/问题袋/从高次方程近似解认识牛顿法.md",
+              "id": "P63756cfbe2e160",
+              "label": "从高次方程近似解认识牛顿法"
+            }
+          ],
+          "title": "探究与发现 牛顿法——用导数方法求方程的近似解"
+        },
+        "node-toc-014": {
+          "children": [
+            "semantic-03786",
+            "semantic-04024",
+            "semantic-04358"
+          ],
+          "heading": "5.3 导数在研究函数中的应用",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从函数图象走向用导数研究函数性质--Gc667b22c3236d0.md",
+              "id": "Gc667b22c3236d0",
+              "label": "从函数图象走向用导数研究函数性质"
+            }
+          ],
+          "title": "5.3 导数在研究函数中的应用"
+        },
+        "node-toc-015": {
+          "children": [],
+          "heading": "信息技术应用 图形技术与函数性质",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/用图形技术研究函数性质.md",
+              "id": "rja-selective-2:node-toc-015:unit:K0445abad601f8e",
+              "label": "用图形技术研究函数性质"
+            },
+            {
+              "destination": "Mathmap/问题袋/用图形计算工具观察函数性质.md",
+              "id": "Pde0b0993f94a2e",
+              "label": "用图形计算工具观察函数性质"
+            }
+          ],
+          "title": "信息技术应用 图形技术与函数性质"
+        },
+        "node-toc-016": {
+          "children": [],
+          "heading": "文献阅读与数学写作* 微积分的创立与发展",
+          "members": [
+            {
+              "destination": "Mathmap/问题袋/微积分创立的历史背景与时代意义.md",
+              "id": "Pe6126e4cf63e0d",
+              "label": "微积分创立的历史背景与时代意义"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md",
+              "id": "rja-selective-2:node-toc-016:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "文献阅读与数学写作* 微积分的创立与发展"
+        },
+        "node-toc-017": {
+          "children": [],
+          "heading": "第五章 一元函数的导数及其应用 小结",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第五章导数知识结构与方法回顾--G596fe2ddd15809.md",
+              "id": "G596fe2ddd15809",
+              "label": "第五章导数知识结构与方法回顾"
+            },
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md",
+              "id": "rja-selective-2:node-toc-017:question",
+              "label": "习题与例题"
+            }
+          ],
+          "title": "第五章 一元函数的导数及其应用 小结"
+        },
+        "node-toc-018": {
+          "children": [],
+          "heading": "第五章 一元函数的导数及其应用 复习参考题 5",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 复习参考题 5.md",
+              "id": "rja-selective-2:node-toc-018:question",
+              "label": "第五章 一元函数的导数及其应用 复习参考题 5"
+            }
+          ],
+          "title": "第五章 一元函数的导数及其应用 复习参考题 5"
+        },
+        "semantic-00400": {
+          "children": [],
+          "heading": "习题4.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/习题4.1.md",
+              "id": "rja-selective-2:semantic-00400:question",
+              "label": "习题4.1"
+            }
+          ],
+          "title": "习题4.1"
+        },
+        "semantic-00504": {
+          "children": [],
+          "heading": "4.2.1 等差数列的概念",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列与公差.md",
+              "id": "rja-selective-2:semantic-00504:unit:Ke8f0bbfbeb2b64",
+              "label": "等差数列与公差"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差中项.md",
+              "id": "rja-selective-2:semantic-00504:unit:Kcbbd92ba09e53d",
+              "label": "等差中项"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列的通项公式.md",
+              "id": "rja-selective-2:semantic-00504:unit:Kffcfd8222bd68e",
+              "label": "等差数列的通项公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列与一次函数.md",
+              "id": "rja-selective-2:semantic-00504:unit:K0c462b6c3fe835",
+              "label": "等差数列与一次函数"
+            },
+            {
+              "destination": "Mathmap/问题袋/由圜丘坛石板数与服装尺码认识等差数列.md",
+              "id": "P4b71b02eac719a",
+              "label": "由圜丘坛石板数与服装尺码认识等差数列"
+            },
+            {
+              "destination": "Mathmap/问题袋/从等差数列定义推导通项公式.md",
+              "id": "P5e03d16b795a97",
+              "label": "从等差数列定义推导通项公式"
+            },
+            {
+              "destination": "Mathmap/问题袋/由通项公式联系等差数列与一次函数.md",
+              "id": "P08a1f46f49c090",
+              "label": "由通项公式联系等差数列与一次函数"
+            },
+            {
+              "destination": "Mathmap/问题袋/等差数列性质的几何解释.md",
+              "id": "Pc286c3982afb5b",
+              "label": "等差数列性质的几何解释"
+            }
+          ],
+          "title": "4.2.1 等差数列的概念"
+        },
+        "semantic-00858": {
+          "children": [],
+          "heading": "4.2.2 等差数列的前 $n$ 项和公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/高斯求和与等差数列的对称性.md",
+              "id": "rja-selective-2:semantic-00858:unit:K5d1cbd21bf37a5",
+              "label": "高斯求和与等差数列的对称性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/倒序相加法与等差数列前 n 项和公式.md",
+              "id": "rja-selective-2:semantic-00858:unit:Kca2b023a1532d2",
+              "label": "倒序相加法与等差数列前 n 项和公式"
+            },
+            {
+              "destination": "Mathmap/问题袋/从高斯求和发现等差数列的对称性.md",
+              "id": "P367596d8d6304f",
+              "label": "从高斯求和发现等差数列的对称性"
+            },
+            {
+              "destination": "Mathmap/问题袋/由前n个正整数求和探索倒序相加法.md",
+              "id": "P0f315c2c12b79e",
+              "label": "由前n个正整数求和探索倒序相加法"
+            },
+            {
+              "destination": "Mathmap/问题袋/等差数列前 n 项和最值的推广.md",
+              "id": "P9e5749ae7f7259",
+              "label": "等差数列前 n 项和最值的推广"
+            }
+          ],
+          "title": "4.2.2 等差数列的前 $n$ 项和公式"
+        },
+        "semantic-01192": {
+          "children": [],
+          "heading": "习题4.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/习题4.2.md",
+              "id": "rja-selective-2:semantic-01192:question",
+              "label": "习题4.2"
+            }
+          ],
+          "title": "习题4.2"
+        },
+        "semantic-01267": {
+          "children": [],
+          "heading": "4.3.1 等比数列的概念",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列与公比.md",
+              "id": "rja-selective-2:semantic-01267:unit:Ka384aef544e8a1",
+              "label": "等比数列与公比"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比中项.md",
+              "id": "rja-selective-2:semantic-01267:unit:K590465f340948b",
+              "label": "等比中项"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列的通项公式.md",
+              "id": "rja-selective-2:semantic-01267:unit:Ka189a28a794706",
+              "label": "等比数列的通项公式"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列与指数函数.md",
+              "id": "rja-selective-2:semantic-01267:unit:Kfb6154cd6eaa0e",
+              "label": "等比数列与指数函数"
+            },
+            {
+              "destination": "Mathmap/问题袋/从古巴比伦泥版数列认识等比数列.md",
+              "id": "Pb2ce52cc7fa4e3",
+              "label": "从古巴比伦泥版数列认识等比数列"
+            },
+            {
+              "destination": "Mathmap/问题袋/从等比数列定义推导通项公式.md",
+              "id": "P3234a2536a6cf7",
+              "label": "从等比数列定义推导通项公式"
+            },
+            {
+              "destination": "Mathmap/问题袋/等差与等比数列变换的推广.md",
+              "id": "P555ffbaef6f2f1",
+              "label": "等差与等比数列变换的推广"
+            }
+          ],
+          "title": "4.3.1 等比数列的概念"
+        },
+        "semantic-01696": {
+          "children": [],
+          "heading": "4.3.2 等比数列的前 $n$ 项和公式",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/错位相减法与等比数列前 n 项和公式.md",
+              "id": "rja-selective-2:semantic-01696:unit:K52bba45b8baf7c",
+              "label": "错位相减法与等比数列前 n 项和公式"
+            },
+            {
+              "destination": "Mathmap/问题袋/从棋盘麦粒倍增求和探索错位相减法.md",
+              "id": "P9ccb6f94f346e3",
+              "label": "从棋盘麦粒倍增求和探索错位相减法"
+            }
+          ],
+          "title": "4.3.2 等比数列的前 $n$ 项和公式"
+        },
+        "semantic-02052": {
+          "children": [],
+          "heading": "习题4.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/习题4.3.md",
+              "id": "rja-selective-2:semantic-02052:question",
+              "label": "习题4.3"
+            }
+          ],
+          "title": "习题4.3"
+        },
+        "semantic-02576": {
+          "children": [],
+          "heading": "习题4.4",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/习题4.4.md",
+              "id": "rja-selective-2:semantic-02576:question",
+              "label": "习题4.4"
+            }
+          ],
+          "title": "习题4.4"
+        },
+        "semantic-02774": {
+          "children": [],
+          "heading": "5.1.1 变化率问题",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/平均速度、瞬时速度与极限逼近.md",
+              "id": "rja-selective-2:semantic-02774:unit:K0520150c1b281b",
+              "label": "平均速度、瞬时速度与极限逼近"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/曲线切线、割线斜率与瞬时变化率.md",
+              "id": "rja-selective-2:semantic-02774:unit:Kf46d529c4418a9",
+              "label": "曲线切线、割线斜率与瞬时变化率"
+            },
+            {
+              "destination": "Mathmap/问题袋/从跳水运动的高度变化逼近瞬时速度.md",
+              "id": "P3db24a4f40ecc9",
+              "label": "从跳水运动的高度变化逼近瞬时速度"
+            },
+            {
+              "destination": "Mathmap/问题袋/由抛物线割线逼近曲线切线斜率.md",
+              "id": "P2fcf24bdf98a46",
+              "label": "由抛物线割线逼近曲线切线斜率"
+            }
+          ],
+          "title": "5.1.1 变化率问题"
+        },
+        "semantic-02936": {
+          "children": [],
+          "heading": "5.1.2 导数的概念及其几何意义",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从速度与切线的共同变化率定义导数--Gb6b9feae7f83da.md",
+              "id": "Gb6b9feae7f83da",
+              "label": "从速度与切线的共同变化率定义导数"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/平均变化率与导数的定义.md",
+              "id": "rja-selective-2:semantic-02936:unit:K8d3dbd15916c78",
+              "label": "平均变化率与导数的定义"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/导数的几何意义与以直代曲.md",
+              "id": "rja-selective-2:semantic-02936:unit:K09a8dec6f8b736",
+              "label": "导数的几何意义与以直代曲"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/导函数的定义.md",
+              "id": "rja-selective-2:semantic-02936:unit:K560e358131f611",
+              "label": "导函数的定义"
+            },
+            {
+              "destination": "Mathmap/问题袋/从瞬时变化率理解导数的几何意义.md",
+              "id": "P4ce91ff32d7477",
+              "label": "从瞬时变化率理解导数的几何意义"
+            }
+          ],
+          "title": "5.1.2 导数的概念及其几何意义"
+        },
+        "semantic-03178": {
+          "children": [],
+          "heading": "习题5.1",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/习题5.1.md",
+              "id": "rja-selective-2:semantic-03178:question",
+              "label": "习题5.1"
+            }
+          ],
+          "title": "习题5.1"
+        },
+        "semantic-03255": {
+          "children": [],
+          "heading": "5.2.1 基本初等函数的导数",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由变化率极限求基本初等函数的导数--G71a22ee14c27aa.md",
+              "id": "G71a22ee14c27aa",
+              "label": "由变化率极限求基本初等函数的导数"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/基本初等函数的导数公式及推导.md",
+              "id": "rja-selective-2:semantic-03255:unit:K0f7ac47d6a025b",
+              "label": "基本初等函数的导数公式及推导"
+            },
+            {
+              "destination": "Mathmap/公式总结/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md",
+              "id": "rja-selective-2:semantic-03255:concept_formula",
+              "label": "5.2.1 基本初等函数的导数"
+            }
+          ],
+          "title": "5.2.1 基本初等函数的导数"
+        },
+        "semantic-03444": {
+          "children": [],
+          "heading": "5.2.2 导数的四则运算法则",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/函数和与差的求导法则.md",
+              "id": "rja-selective-2:semantic-03444:unit:Ke93c0c204079d2",
+              "label": "函数和与差的求导法则"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/函数积与商的求导法则.md",
+              "id": "rja-selective-2:semantic-03444:unit:K7014b121f49147",
+              "label": "函数积与商的求导法则"
+            },
+            {
+              "destination": "Mathmap/问题袋/从人口增长模型探索函数和差的导数.md",
+              "id": "P574c50d2ed59be",
+              "label": "从人口增长模型探索函数和差的导数"
+            },
+            {
+              "destination": "Mathmap/问题袋/从幂函数乘积反例探索积商求导法则.md",
+              "id": "Pdb62914fa3a9a5",
+              "label": "从幂函数乘积反例探索积商求导法则"
+            }
+          ],
+          "title": "5.2.2 导数的四则运算法则"
+        },
+        "semantic-03562": {
+          "children": [],
+          "heading": "5.2.3 简单复合函数的导数",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/复合函数与链式求导法则.md",
+              "id": "rja-selective-2:semantic-03562:unit:K3bac05b7baa461",
+              "label": "复合函数与链式求导法则"
+            },
+            {
+              "destination": "Mathmap/问题袋/由复合对数函数引出链式求导法则.md",
+              "id": "P46476855ba682f",
+              "label": "由复合对数函数引出链式求导法则"
+            }
+          ],
+          "title": "5.2.3 简单复合函数的导数"
+        },
+        "semantic-03656": {
+          "children": [],
+          "heading": "习题5.2",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/习题5.2.md",
+              "id": "rja-selective-2:semantic-03656:question",
+              "label": "习题5.2"
+            }
+          ],
+          "title": "习题5.2"
+        },
+        "semantic-03786": {
+          "children": [],
+          "heading": "5.3.1 函数的单调性",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/导数符号与函数单调性.md",
+              "id": "rja-selective-2:semantic-03786:unit:K57bbd8899b13f1",
+              "label": "导数符号与函数单调性"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/利用单调性比较函数值与证明不等式.md",
+              "id": "rja-selective-2:semantic-03786:unit:Kd3ae991988cf0a",
+              "label": "利用单调性比较函数值与证明不等式"
+            },
+            {
+              "destination": "Mathmap/问题袋/从跳水高度与速度图象判定函数单调性.md",
+              "id": "P4f90e41cb2d270",
+              "label": "从跳水高度与速度图象判定函数单调性"
+            },
+            {
+              "destination": "Mathmap/问题袋/导数为零与单调性的边界.md",
+              "id": "P1ea14cb01e2873",
+              "label": "导数为零与单调性的边界"
+            },
+            {
+              "destination": "Mathmap/问题袋/比较对数与幂函数增长证明不等式.md",
+              "id": "P98e17df609cbd2",
+              "label": "比较对数与幂函数增长证明不等式"
+            },
+            {
+              "destination": "Mathmap/问题袋/函数导数恒为零的特性.md",
+              "id": "P741568af93fda2",
+              "label": "函数导数恒为零的特性"
+            }
+          ],
+          "title": "5.3.1 函数的单调性"
+        },
+        "semantic-04024": {
+          "children": [],
+          "heading": "5.3.2 函数的极值与最大（小）值",
+          "members": [
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/函数极值的概念与导数判定.md",
+              "id": "rja-selective-2:semantic-04024:unit:K91152e5802173d",
+              "label": "函数极值的概念与导数判定"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/导数为零与极值的关系及极值判定.md",
+              "id": "rja-selective-2:semantic-04024:unit:K59a5e7f0627fff",
+              "label": "导数为零与极值的关系及极值判定"
+            },
+            {
+              "destination": "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/闭区间上函数的最大值与最小值.md",
+              "id": "rja-selective-2:semantic-04024:unit:Kd53c5f8868afe0",
+              "label": "闭区间上函数的最大值与最小值"
+            },
+            {
+              "destination": "Mathmap/问题袋/由跳水高度最大处认识导数与函数极值.md",
+              "id": "P92df2c153722b7",
+              "label": "由跳水高度最大处认识导数与函数极值"
+            },
+            {
+              "destination": "Mathmap/问题袋/从导数为零的点辨析函数极值点.md",
+              "id": "P77a44f69b5f237",
+              "label": "从导数为零的点辨析函数极值点"
+            },
+            {
+              "destination": "Mathmap/问题袋/从局部极值走向闭区间上的最值.md",
+              "id": "P61ba6b72687136",
+              "label": "从局部极值走向闭区间上的最值"
+            }
+          ],
+          "title": "5.3.2 函数的极值与最大（小）值"
+        },
+        "semantic-04358": {
+          "children": [],
+          "heading": "习题5.3",
+          "members": [
+            {
+              "destination": "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/习题5.3.md",
+              "id": "rja-selective-2:semantic-04358:question",
+              "label": "习题5.3"
+            }
+          ],
+          "title": "习题5.3"
+        }
+      },
+      "redirects": {
+        "Mathmap/知识串联/人教A-选择性必修第二册/人教A-选择性必修第二册.md": {
+          "anchor": "全书入口",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第五章 一元函数的导数及其应用 · 概念索引.md": {
+          "anchor": "索引 · 第五章 一元函数的导数及其应用 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第四章 数列 · 概念索引.md": {
+          "anchor": "索引 · 第四章 数列 · 概念索引",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/人教A-选择性必修第二册.md": {
+          "anchor": "全书入口",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md": {
+          "anchor": "5.1 导数的概念及其意义",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md": {
+          "anchor": "5.1.1 变化率问题",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md": {
+          "anchor": "5.1.2 导数的概念及其几何意义",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md": {
+          "anchor": "5.2 导数的运算",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md": {
+          "anchor": "5.2.2 导数的四则运算法则",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md": {
+          "anchor": "5.2.3 简单复合函数的导数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md": {
+          "anchor": "5.3 导数在研究函数中的应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md": {
+          "anchor": "5.3.1 函数的单调性",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md": {
+          "anchor": "5.3.2 函数的极值与最大（小）值",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md": {
+          "anchor": "信息技术应用 图形技术与函数性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md": {
+          "anchor": "探究与发现 牛顿法——用导数方法求方程的近似解",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md": {
+          "anchor": "文献阅读与数学写作* 微积分的创立与发展",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md": {
+          "anchor": "第五章 一元函数的导数及其应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.1 数列的概念/4.1 数列的概念.md": {
+          "anchor": "4.1 数列的概念",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2 等差数列.md": {
+          "anchor": "4.2 等差数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md": {
+          "anchor": "4.2.1 等差数列的概念",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md": {
+          "anchor": "4.2.2 等差数列的前 $n$ 项和公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3 等比数列.md": {
+          "anchor": "4.3 等比数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md": {
+          "anchor": "4.3.1 等比数列的概念",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md": {
+          "anchor": "4.3.2 等比数列的前 $n$ 项和公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md": {
+          "anchor": "4.4* 数学归纳法",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/第四章 数列.md": {
+          "anchor": "第四章 数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/阅读与思考 斐波那契数列.md": {
+          "anchor": "阅读与思考 斐波那契数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md": {
+          "anchor": "5.1 导数的概念及其意义",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md": {
+          "anchor": "5.1.1 变化率问题",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md": {
+          "anchor": "5.1.2 导数的概念及其几何意义",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md": {
+          "anchor": "5.2 导数的运算",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md": {
+          "anchor": "5.2.1 基本初等函数的导数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md": {
+          "anchor": "5.2.2 导数的四则运算法则",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md": {
+          "anchor": "5.2.3 简单复合函数的导数",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md": {
+          "anchor": "5.3 导数在研究函数中的应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md": {
+          "anchor": "5.3.1 函数的单调性",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md": {
+          "anchor": "5.3.2 函数的极值与最大（小）值",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md": {
+          "anchor": "信息技术应用 图形技术与函数性质",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md": {
+          "anchor": "探究与发现 牛顿法——用导数方法求方程的近似解",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md": {
+          "anchor": "第五章 一元函数的导数及其应用 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md": {
+          "anchor": "第五章 一元函数的导数及其应用",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/4.1 数列的概念.md": {
+          "anchor": "4.1 数列的概念",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2 等差数列.md": {
+          "anchor": "4.2 等差数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md": {
+          "anchor": "4.2.1 等差数列的概念",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md": {
+          "anchor": "4.2.2 等差数列的前 $n$ 项和公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3 等比数列.md": {
+          "anchor": "4.3 等比数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md": {
+          "anchor": "4.3.1 等比数列的概念",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md": {
+          "anchor": "4.3.2 等比数列的前 $n$ 项和公式",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md": {
+          "anchor": "4.4* 数学归纳法",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md": {
+          "anchor": "第四章 数列 小结",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列.md": {
+          "anchor": "第四章 数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 中国古代数学家求数列和的方法.md": {
+          "anchor": "阅读与思考 中国古代数学家求数列和的方法",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        },
+        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 斐波那契数列.md": {
+          "anchor": "阅读与思考 斐波那契数列",
+          "destination": "Mathmap/组织层/人教A-选择性必修第二册.md"
+        }
+      },
+      "root": "book-root",
+      "root_node": {
+        "children": [
+          "atom-aa03fd4c37518611",
+          "node-toc-001",
+          "node-toc-010"
+        ],
+        "filename": "组织层/普通高中教科书 数学 选择性必修 第二册/普通高中教科书 数学 选择性必修 第二册.md",
+        "heading_ranges": [],
+        "key": "book-root",
+        "layer": "organizer",
+        "organizer_level": 1,
+        "parent_key": null,
+        "title": "普通高中教科书 数学 选择性必修 第二册"
+      },
+      "source_guide": "Mathmap/知识串联/人教A-选择性必修第二册/来源与整理说明.md",
+      "source_id": "rja-selective-2",
+      "version": 1
+    },
+    "version": 1
+  },
+  "book_reference_updates": {
+    "Mathmap/公式总结/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md": "e75161551383884ee6e82da34ead5fb9cf1194337ef4144dd33a655e82b42248",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从函数图象走向用导数研究函数性质--Gc667b22c3236d0.md": "2fb5be19082103476edaefca3f63edff953e43f922bf861ff445b1c527d69791",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从古埃及纸草书记载看数列求和方法--G454d3a9a88502e.md": "29e38050f1bd1cccbe2d7ed576216e9923d2199802440f083e331db0d7653419",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从数列规律到导数研究变化的知识路径--G8b854254109e8c.md": "043cb2ed031f1a60ffd3423101c802dc43ecb07fdd5b0106e97919bfc2245822",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从瞬时速度与切线问题认识导数的研究路径--G9daa9ba6d367f0.md": "e59c24a7a881dc2b10af4ccb388933de770ed2491bed5c8c82d6afe8cee26f18",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从速度与切线的共同变化率定义导数--Gb6b9feae7f83da.md": "0620db358bd46857badf198e7f6577e7387f43594ad063224b24b955a2ddc55f",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由变化率极限求基本初等函数的导数--G71a22ee14c27aa.md": "ecad5f0fde7e68c3d7ed1f35d2e1ec418cad7ae75cf4f7cfb76074f65dcc2dfe",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由基本初等函数走向导数运算法则--Gf185d904e54bfb.md": "46f2d0cf8a635a24e71fb55508008d95d487aee08853de4b67ce43936ea92b22",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由树木高度的逐年记录认识数列--Gf63fcef94df1d4.md": "6bf47674d2f4fa106ccbc96529d43812c162a09128683aa3cf1dc3466d49c4ec",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由相邻项的差与商寻找数列递推规律--Ge0f91a497c087a.md": "7a4c6efbc28dacbfa4a1fd1fcd03dcbd0697956e97bff7f61470dcabd084a2a6",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第五章导数知识结构与方法回顾--G596fe2ddd15809.md": "cd97a131ae5cdd13164e0d64db7cdae50fe70004020760be5c3fea9fa8694fbd",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第四章数列知识结构与方法回顾--G7420236e6dc472.md": "7f183756dba4864ea505c052244c4648bae0419edf49efd289671f98981ac07c",
+    "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/类比基本初等函数研究等差与等比数列--Gbf86a051f13bb6.md": "b13be312dd426f7011304de4b10a4f199959bfc20c4e46e9fc6d61cfceb15942",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/导函数的定义.md": "6d049ece4501486d0919d20846d64867f6e5afebc94a51b426261390e9a5a46a",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/导数的几何意义与以直代曲.md": "f442b63a53c852715670ce7abd5addbfae0eb0cc9e65d61f6d52dd5c82f3a449",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/平均变化率与导数的定义.md": "91fe913fdc9277dd25fed780feac37439ee703420e63b8249da8a598f73a692b",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/平均速度、瞬时速度与极限逼近.md": "5cf99b7b94c60ba9eb5b3239994de572be58a2f759cdd5913ed20383a9b84304",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/曲线切线、割线斜率与瞬时变化率.md": "d42c0232fcdba6192cfe34ab8aea59dd5625e4b019b143c9c4476bfe41d6761f",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/函数和与差的求导法则.md": "b1126c6acbd65cde38c46ea79e450c3da0b016738cdbe624464b997f6a4b304a",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/函数积与商的求导法则.md": "4af12f6db9c0e35a3503fd7741503b457da8ac55b8eeabb9a9fc5d7b9a96ec9f",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/基本初等函数的导数公式及推导.md": "c2425f42cce0e10dcd4e3e96bc92b92ec671f38012b3773fd9b12f5dd2fe7d7c",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/复合函数与链式求导法则.md": "ce2543015e26fa75918f93479db5832c41590481f7e9f1492ab3ba676b8e2ffd",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/函数极值的概念与导数判定.md": "70e07c3b6d818e552458b2a2369c675d005a6071bcb13761fc4f66f0f90d0aef",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/利用单调性比较函数值与证明不等式.md": "4892ae3b7481d11daf26068115a941a5febb9e5c63d2ef2c0dabad8f31582db8",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/导数为零与极值的关系及极值判定.md": "7646ca1fa386addb8e6c6024b51eb1d57cca93c1d6033d8568f66c219e8a7be8",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/导数符号与函数单调性.md": "98ed47605ca1a66c9956c1300c518c2c9276efb9b33e241f5071fdfd8de3d0cb",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/闭区间上函数的最大值与最小值.md": "34039a3423f712fd93c2e1aae28a9b415af160187927b0e4da24a332e52d6ddd",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/牛顿法求方程的近似解.md": "d37d3e30bb3869124e12428544a119e718b970439543b0976da1f26c7c5c7834",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/用图形技术研究函数性质.md": "9aa7ce577f8ee742d356a195bbf074b9d8562797b59f1ea986242ff420a3cddc",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的函数观点.md": "448ff79c9d0e356e37cbec5fa7d57d6037f822238304a49399988cfebac29ecd",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的前 n 项和及其与通项的关系.md": "df20b7bdeacd6e4a6b06efae3f5452f98076bb3d3b45ecc574d2012f8db7e1ba",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的概念与有穷性.md": "9b426d0ea5b8d19ba8f25aaa2aa0d7e31269047a72595abb7884204640523e35",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的表示与单调性.md": "3454ef4bc7a2d3df15656ab8ff16d54847468ac5440f5ed9b9efc2d59430be3e",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的递推公式.md": "94a3b2a347a90dea8a5523cabfcf3bee6569d2f0a2c2aefe3e16e6e6e20e7226",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的通项公式.md": "d3ca28e69736d659886e1f97f012870d8764749d16fd83d381fb595595073f14",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/倒序相加法与等差数列前 n 项和公式.md": "b3b3b40251881de41ed6541c400951d990d719c88a0e90bdb3d289245a46b250",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差中项.md": "4ef4b230c00fa2e308f2a0cf56e7ed7bbe10071ef142c89aa1148016fb14914d",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列与一次函数.md": "f30f19767e73452e6edb709173aed64ec5013481e2494f4b9d8e1b1fd54b92bd",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列与公差.md": "bd92a233b69284da2134cb0ade367d736ccb74385f85f30cf3c9e687bd887be7",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列的通项公式.md": "9846adc8765e456573192d9ca90ae04332ac2f8d912d0683965a2d0b36975930",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/高斯求和与等差数列的对称性.md": "9dea212328afbda898d2b823f37c71935bdcf6032e17250b68e36474bd44a4a7",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比中项.md": "a234c4eefb4be6d5566142a00afda03b793fa3c8f8607ff5a5cc9fc8f376b030",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列与公比.md": "497dbea59189aee97907f6a70e77b14d92f97c667edc8c3b65af9f51c83b0edd",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列与指数函数.md": "5af6b27634067981c9a2a55295a0b5c540db20e931eab6ab4c541a53c5a6eaf6",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列的通项公式.md": "2634d2bd6d53d01cc8f5dea9714fea8545a4ec9057c4908dc19dfa7aa2e8802d",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/错位相减法与等比数列前 n 项和公式.md": "cd5bb86b368773deecaa8f88096eac8859c187043d3c21e04da074afc34d395c",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/从归纳猜想到数学归纳法的递推机制.md": "6eed86f87c75058cf7efdf3331ed995a5fc7c157b49498c61724bc512bf2ec2b",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/数学归纳法的原理与步骤.md": "62bc2ae9f22e81d36326b8af1a527cc718dfe358d16da60c915fd779ef1f291c",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/中国古代数列求和方法.md": "3fcfec895dd3e58c38b7eef7329c8520189a26e3eb68f648f3db6e2836e53008",
+    "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/斐波那契数列及其应用.md": "bb09c84f642539c1f1912e8346b9a51180926106326ab7c96aef0ec1b590afbf",
+    "Mathmap/索引.md": "0293f96261a7b89afbb97d16fd76deb81067ee94e3bbc154b6922e070a671302",
+    "Mathmap/组织层/人教A-选择性必修第二册.md": "74aa689b54276b9e960bd3dcaf7137a86f14d70e2bb3b07645ba8e14019a0dc6"
+  },
   "concept_presentation": "source-variants-in-body/v1",
   "coverage": {
     "原子层/习题/0001-E.md": {
@@ -6414,39 +7948,49 @@
       ]
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/普通高中教科书 数学 选择性必修 第二册.md": {
+      "book_anchors": [
+        "全书入口"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/人教A-选择性必修第二册.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第二册/人教A-选择性必修第二册.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/人教A-选择性必修第二册.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第二册/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/派生索引/01-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第四章 数列 · 概念索引.md",
+      "book_anchor": "索引 · 第四章 数列 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/派生索引/02-概念索引.md": {
-      "destination": "Mathmap/知识串联/人教A-选择性必修第二册/定义索引/第五章 一元函数的导数及其应用 · 概念索引.md",
+      "book_anchor": "索引 · 第五章 一元函数的导数及其应用 · 概念索引",
+      "destination": "Mathmap/组织层/人教A-选择性必修第二册.md",
       "disposition": "derived-index"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md": {
+      "book_anchors": [
+        "5.1 导数的概念及其意义"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1 导数的概念及其意义.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md": {
+      "book_anchors": [
+        "5.1.1 变化率问题"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.1 变化率问题.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md": {
+      "book_anchors": [
+        "5.1.2 导数的概念及其几何意义"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/5.1.2 导数的概念及其几何意义.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6457,30 +8001,39 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md": {
+      "book_anchors": [
+        "5.2 导数的运算"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2 导数的运算.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md": {
+      "book_anchors": [
+        "5.2.1 基本初等函数的导数"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md",
+        "Mathmap/组织层/人教A-选择性必修第二册.md",
         "Mathmap/公式总结/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.1 基本初等函数的导数.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md": {
+      "book_anchors": [
+        "5.2.2 导数的四则运算法则"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.2 导数的四则运算法则.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md": {
+      "book_anchors": [
+        "5.2.3 简单复合函数的导数"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.2 导数的运算/5.2.3 简单复合函数的导数.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6491,23 +8044,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md": {
+      "book_anchors": [
+        "5.3 导数在研究函数中的应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3 导数在研究函数中的应用.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md": {
+      "book_anchors": [
+        "5.3.1 函数的单调性"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.1 函数的单调性.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md": {
+      "book_anchors": [
+        "5.3.2 函数的极值与最大（小）值"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/5.3.2 函数的极值与最大（小）值.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6518,23 +8077,30 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md": {
+      "book_anchors": [
+        "信息技术应用 图形技术与函数性质"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/信息技术应用 图形技术与函数性质.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md": {
+      "book_anchors": [
+        "探究与发现 牛顿法——用导数方法求方程的近似解"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/探究与发现 牛顿法——用导数方法求方程的近似解.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md": {
+      "book_anchors": [
+        "文献阅读与数学写作* 微积分的创立与发展"
+      ],
       "destinations": [
         "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/文献阅读与数学写作－ 微积分的创立与发展.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6545,24 +8111,31 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md": {
+      "book_anchors": [
+        "第五章 一元函数的导数及其应用 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第二册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md": {
+      "book_anchors": [
+        "第五章 一元函数的导数及其应用"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/第五章 一元函数的导数及其应用.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.1 数列的概念/4.1 数列的概念.md": {
+      "book_anchors": [
+        "4.1 数列的概念"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/4.1 数列的概念.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.1 数列的概念/4.1 数列的概念.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6573,23 +8146,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.2 等差数列/4.2 等差数列.md": {
+      "book_anchors": [
+        "4.2 等差数列"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2 等差数列.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2 等差数列.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md": {
+      "book_anchors": [
+        "4.2.1 等差数列的概念"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.1 等差数列的概念.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md": {
+      "book_anchors": [
+        "4.2.2 等差数列的前 $n$ 项和公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.2 等差数列/4.2.2 等差数列的前 $n$ 项和公式.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6600,23 +8179,29 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.3 等比数列/4.3 等比数列.md": {
+      "book_anchors": [
+        "4.3 等比数列"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3 等比数列.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3 等比数列.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md": {
+      "book_anchors": [
+        "4.3.1 等比数列的概念"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.1 等比数列的概念.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md": {
+      "book_anchors": [
+        "4.3.2 等比数列的前 $n$ 项和公式"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.3 等比数列/4.3.2 等比数列的前 $n$ 项和公式.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6627,9 +8212,11 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md": {
+      "book_anchors": [
+        "4.4* 数学归纳法"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/4.4－ 数学归纳法/4.4－ 数学归纳法.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
@@ -6646,30 +8233,40 @@
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/第四章 数列 小结.md": {
+      "book_anchors": [
+        "第四章 数列 小结"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md",
+        "Mathmap/组织层/人教A-选择性必修第二册.md",
         "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列 小结.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/第四章 数列.md": {
+      "book_anchors": [
+        "第四章 数列"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列.md",
-        "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/第四章 数列.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md",
+        "Mathmap/题型/按章节分类/人教A-选择性必修第二册/第四章 数列/第四章 数列.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/阅读与思考 中国古代数学家求数列和的方法.md": {
+      "book_anchors": [
+        "阅读与思考 中国古代数学家求数列和的方法"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 中国古代数学家求数列和的方法.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     },
     "组织层/普通高中教科书 数学 选择性必修 第二册/第四章 数列/阅读与思考 斐波那契数列.md": {
+      "book_anchors": [
+        "阅读与思考 斐波那契数列"
+      ],
       "destinations": [
-        "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/阅读与思考 斐波那契数列.md",
-        "Mathmap/知识串联/人教A-选择性必修第二册/教材问题顺序/第四章 数列/阅读与思考 斐波那契数列.md"
+        "Mathmap/组织层/人教A-选择性必修第二册.md"
       ],
       "disposition": "organization-projection"
     }
@@ -10968,7 +12565,7 @@
         ],
         "reason": "保留“导函数的定义”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d3e13bc485be90f230d1a8ee3c6814e977116b2697c9418f8dcb82ff3dbc0582",
+        "sha256": "6d049ece4501486d0919d20846d64867f6e5afebc94a51b426261390e9a5a46a",
         "source_components": [
           {
             "id": "K560e358131f611",
@@ -11288,7 +12885,7 @@
         ],
         "reason": "保留“导数的几何意义与以直代曲”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "0c86ab1f26fd94daf2716210c6935b14c8fe92ccf966b85f1cf6938ffb3e6e6c",
+        "sha256": "f442b63a53c852715670ce7abd5addbfae0eb0cc9e65d61f6d52dd5c82f3a449",
         "source_components": [
           {
             "id": "K09a8dec6f8b736",
@@ -11606,7 +13203,7 @@
         "prerequisites": [],
         "reason": "保留“平均变化率与导数的定义”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ca6c463f7c4d26f1972585e316e478af3d5857de6313f19a2d38e9952a845e5d",
+        "sha256": "91fe913fdc9277dd25fed780feac37439ee703420e63b8249da8a598f73a692b",
         "source_components": [
           {
             "id": "K8d3dbd15916c78",
@@ -11927,7 +13524,7 @@
         "prerequisites": [],
         "reason": "保留“平均速度、瞬时速度与极限逼近”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "bc427fe51efa4a26ca3001c179f82b6803c9ed3e6141f76c9b4929bf472710c5",
+        "sha256": "5cf99b7b94c60ba9eb5b3239994de572be58a2f759cdd5913ed20383a9b84304",
         "source_components": [
           {
             "id": "K0520150c1b281b",
@@ -12084,7 +13681,7 @@
         "prerequisites": [],
         "reason": "保留“曲线切线、割线斜率与瞬时变化率”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "71c15da9b8276c834eefa3000ed2f394092209b8a4ec62d47e480d385c10de5d",
+        "sha256": "d42c0232fcdba6192cfe34ab8aea59dd5625e4b019b143c9c4476bfe41d6761f",
         "source_components": [
           {
             "id": "Kf46d529c4418a9",
@@ -12238,7 +13835,7 @@
         ],
         "reason": "保留“函数和与差的求导法则”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "8efd9954eb3ee616fdefee67f25ace137c66239a324c3754ffb9eb49aa0eb2b2",
+        "sha256": "b1126c6acbd65cde38c46ea79e450c3da0b016738cdbe624464b997f6a4b304a",
         "source_components": [
           {
             "id": "Ke93c0c204079d2",
@@ -12407,7 +14004,7 @@
         ],
         "reason": "保留“函数积与商的求导法则”已有讲解边界与成员；来源中的3个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "a3c6ec8298012ca47fe6a8b53aba5820e9c2cc6a4c65939b8fe8b56189055589",
+        "sha256": "4af12f6db9c0e35a3503fd7741503b457da8ac55b8eeabb9a9fc5d7b9a96ec9f",
         "source_components": [
           {
             "id": "K7014b121f49147",
@@ -12575,7 +14172,7 @@
         ],
         "reason": "保留“基本初等函数的导数公式及推导”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "b6cf06d547e0a92cdf3ef7c845c82637d61e218f6bae336f9d0dfcbf90367246",
+        "sha256": "c2425f42cce0e10dcd4e3e96bc92b92ec671f38012b3773fd9b12f5dd2fe7d7c",
         "source_components": [
           {
             "id": "K0f7ac47d6a025b",
@@ -12742,7 +14339,7 @@
         ],
         "reason": "保留“复合函数与链式求导法则”已有讲解边界与成员；来源中的2个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "28b7e6e21f8a0623724676b7925d474d4329f52cbee51e9ed643308d7e6023bf",
+        "sha256": "ce2543015e26fa75918f93479db5832c41590481f7e9f1492ab3ba676b8e2ffd",
         "source_components": [
           {
             "id": "K3bac05b7baa461",
@@ -12897,7 +14494,7 @@
         "prerequisites": [],
         "reason": "保留“函数极值的概念与导数判定”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "daecceda76b87504482fe8398008526dc8b5af97a5e46ee5a9df238918ce0b45",
+        "sha256": "70e07c3b6d818e552458b2a2369c675d005a6071bcb13761fc4f66f0f90d0aef",
         "source_components": [
           {
             "id": "K91152e5802173d",
@@ -13168,7 +14765,7 @@
         "prerequisites": [],
         "reason": "保留“利用单调性比较函数值与证明不等式”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "9a8178713da952e6dd77e61083e7d2ce78c25fdd9653ef99697b4cb5bcf82f40",
+        "sha256": "4892ae3b7481d11daf26068115a941a5febb9e5c63d2ef2c0dabad8f31582db8",
         "source_components": [
           {
             "id": "Kd3ae991988cf0a",
@@ -13432,7 +15029,7 @@
         ],
         "reason": "保留“导数为零与极值的关系及极值判定”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "7cacff1c2c7c5d96bb9c9b57761247c78f1423300df53283089e6f07a660e151",
+        "sha256": "7646ca1fa386addb8e6c6024b51eb1d57cca93c1d6033d8568f66c219e8a7be8",
         "source_components": [
           {
             "id": "K59a5e7f0627fff",
@@ -13694,7 +15291,7 @@
         "prerequisites": [],
         "reason": "保留“导数符号与函数单调性”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "972e8a4a457436c93c42d35cf86025b4d00b18892c3ef40c190cbf932d14e905",
+        "sha256": "98ed47605ca1a66c9956c1300c518c2c9276efb9b33e241f5071fdfd8de3d0cb",
         "source_components": [
           {
             "id": "K57bbd8899b13f1",
@@ -13980,7 +15577,7 @@
         ],
         "reason": "保留“闭区间上函数的最大值与最小值”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "517c4574099548ca59a067fdf0198fa5db17156ca2c4576d2a05f9d0c5609834",
+        "sha256": "34039a3423f712fd93c2e1aae28a9b415af160187927b0e4da24a332e52d6ddd",
         "source_components": [
           {
             "id": "Kd53c5f8868afe0",
@@ -14239,7 +15836,7 @@
         ],
         "reason": "保留“牛顿法求方程的近似解”已有讲解边界与成员；本页没有来源标记的教学例题，不把独立练习改为讲解；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "fedb10b4922db4317ff491ba58239d44d5647ee4af87e2d13875e729dac87964",
+        "sha256": "d37d3e30bb3869124e12428544a119e718b970439543b0976da1f26c7c5c7834",
         "source_components": [
           {
             "id": "Kd62f215f695297",
@@ -14281,7 +15878,7 @@
         ],
         "reason": "保留“数列的函数观点”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ce1940c9bc179cb91e4c062402c416a6927a180478c0e37536bf8b8e3831fb2b",
+        "sha256": "448ff79c9d0e356e37cbec5fa7d57d6037f822238304a49399988cfebac29ecd",
         "source_components": [
           {
             "id": "Kfb76962848ff1a",
@@ -14755,7 +16352,7 @@
         "prerequisites": [],
         "reason": "保留“数列的前 n 项和及其与通项的关系”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "0d8ed877c9906bf4d0c65d5f3254d8cba699651e1afde4f9b2ea45a361018463",
+        "sha256": "df20b7bdeacd6e4a6b06efae3f5452f98076bb3d3b45ecc574d2012f8db7e1ba",
         "source_components": [
           {
             "id": "K9720b9518d6e06",
@@ -15229,7 +16826,7 @@
         "prerequisites": [],
         "reason": "保留“数列的概念与有穷性”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "8e24141c8fdf0188c008ad8877cc41195984607ae6134f32106b188c5b083561",
+        "sha256": "9b426d0ea5b8d19ba8f25aaa2aa0d7e31269047a72595abb7884204640523e35",
         "source_components": [
           {
             "id": "K0be1f43435edf4",
@@ -15712,7 +17309,7 @@
         "prerequisites": [],
         "reason": "保留“数列的表示与单调性”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "d877463bf027100b57ac1786eabb7e36a074fe78846ff55084ff18e05357d49f",
+        "sha256": "3454ef4bc7a2d3df15656ab8ff16d54847468ac5440f5ed9b9efc2d59430be3e",
         "source_components": [
           {
             "id": "Kf6f6674eabdb8f",
@@ -16186,7 +17783,7 @@
         "prerequisites": [],
         "reason": "保留“数列的递推公式”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "042ea3f80196910a62204a479e91ef7b8c1e6a46dfee98bac3334d29159a63b9",
+        "sha256": "94a3b2a347a90dea8a5523cabfcf3bee6569d2f0a2c2aefe3e16e6e6e20e7226",
         "source_components": [
           {
             "id": "Kc1b9db52b67b15",
@@ -16662,7 +18259,7 @@
         ],
         "reason": "保留“数列的通项公式”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ab5b3e7a2b94d173d992d8c8b628f760d6c5b5a8d42beddc4e7e6108e39f2271",
+        "sha256": "d3ca28e69736d659886e1f97f012870d8764749d16fd83d381fb595595073f14",
         "source_components": [
           {
             "id": "K6079161c47a619",
@@ -17137,7 +18734,7 @@
         ],
         "reason": "保留“倒序相加法与等差数列前 n 项和公式”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "1420d04551b2daeec091ab059548ec4a1c1f1c72b06f65603f3b1bebdd3fd648",
+        "sha256": "b3b3b40251881de41ed6541c400951d990d719c88a0e90bdb3d289245a46b250",
         "source_components": [
           {
             "id": "Kca2b023a1532d2",
@@ -17496,7 +19093,7 @@
         "prerequisites": [],
         "reason": "保留“等差中项”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "f523b9579bc1df575e0ed3f0b1f141f3b45bf894aeca985d56435e5478f09749",
+        "sha256": "4ef4b230c00fa2e308f2a0cf56e7ed7bbe10071ef142c89aa1148016fb14914d",
         "source_components": [
           {
             "id": "Kcbbd92ba09e53d",
@@ -17856,7 +19453,7 @@
         "prerequisites": [],
         "reason": "保留“等差数列与一次函数”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "ff7315d75c1994ec9a7786c0b4b53566fec11a23836258f6c4a069e225f88cea",
+        "sha256": "f30f19767e73452e6edb709173aed64ec5013481e2494f4b9d8e1b1fd54b92bd",
         "source_components": [
           {
             "id": "K0c462b6c3fe835",
@@ -18216,7 +19813,7 @@
         "prerequisites": [],
         "reason": "保留“等差数列与公差”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "11e5bc2359a4aae4a30e58fee1caa2910e8b57b580d949f4d764928907040acb",
+        "sha256": "bd92a233b69284da2134cb0ade367d736ccb74385f85f30cf3c9e687bd887be7",
         "source_components": [
           {
             "id": "Ke8f0bbfbeb2b64",
@@ -18587,7 +20184,7 @@
         ],
         "reason": "保留“等差数列的通项公式”已有讲解边界与成员；来源中的5个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "fb573b0251c72ed06c0bf27f1c1841d67869cbf7387e75e219387da21252662e",
+        "sha256": "9846adc8765e456573192d9ca90ae04332ac2f8d912d0683965a2d0b36975930",
         "source_components": [
           {
             "id": "Kffcfd8222bd68e",
@@ -18955,7 +20552,7 @@
         "prerequisites": [],
         "reason": "保留“高斯求和与等差数列的对称性”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "74b1772b4024e87c965f40228c8f2215edec1856a7d5d5998380d76a9b2b58c3",
+        "sha256": "9dea212328afbda898d2b823f37c71935bdcf6032e17250b68e36474bd44a4a7",
         "source_components": [
           {
             "id": "K5d1cbd21bf37a5",
@@ -19315,7 +20912,7 @@
         "prerequisites": [],
         "reason": "保留“等比中项”已有讲解边界与成员；来源中的6个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "b8316f952c15597e9d127c89981d7008f07e8c12e547dd154669e8fac9e6a5a0",
+        "sha256": "a234c4eefb4be6d5566142a00afda03b793fa3c8f8607ff5a5cc9fc8f376b030",
         "source_components": [
           {
             "id": "K590465f340948b",
@@ -19698,7 +21295,7 @@
         "prerequisites": [],
         "reason": "保留“等比数列与公比”已有讲解边界与成员；来源中的6个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "220860bba4f2881c70331e49bd07fe8b6219701e7d63f651f554c0858856393c",
+        "sha256": "497dbea59189aee97907f6a70e77b14d92f97c667edc8c3b65af9f51c83b0edd",
         "source_components": [
           {
             "id": "Ka384aef544e8a1",
@@ -20081,7 +21678,7 @@
         "prerequisites": [],
         "reason": "保留“等比数列与指数函数”已有讲解边界与成员；来源中的6个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "b22a8c33c44f08911d6df81711420667cef3ea7dcae811da2b4812de93b330d6",
+        "sha256": "5af6b27634067981c9a2a55295a0b5c540db20e931eab6ab4c541a53c5a6eaf6",
         "source_components": [
           {
             "id": "Kfb6154cd6eaa0e",
@@ -20466,7 +22063,7 @@
         ],
         "reason": "保留“等比数列的通项公式”已有讲解边界与成员；来源中的6个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "e93f04500b93edeeafc9aeafd32116395709c6d7c337a40cc9242cf7a4cd941b",
+        "sha256": "2634d2bd6d53d01cc8f5dea9714fea8545a4ec9057c4908dc19dfa7aa2e8802d",
         "source_components": [
           {
             "id": "Ka189a28a794706",
@@ -20860,7 +22457,7 @@
         ],
         "reason": "保留“错位相减法与等比数列前 n 项和公式”已有讲解边界与成员；来源中的6个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "a51eb9a8ddb557632a6a0c8b5462dccf64fdcf2335e95eaf7d820e8b9e50d6e0",
+        "sha256": "cd5bb86b368773deecaa8f88096eac8859c187043d3c21e04da074afc34d395c",
         "source_components": [
           {
             "id": "K52bba45b8baf7c",
@@ -21199,7 +22796,7 @@
         "prerequisites": [],
         "reason": "保留“从归纳猜想到数学归纳法的递推机制”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "be30d560911cc31319032d9c2a600a3d201fa48a26906aaaea0de4bb549967c7",
+        "sha256": "6eed86f87c75058cf7efdf3331ed995a5fc7c157b49498c61724bc512bf2ec2b",
         "source_components": [
           {
             "id": "Ke8dba1bf472c9d",
@@ -21671,7 +23268,7 @@
         "prerequisites": [],
         "reason": "保留“数学归纳法的原理与步骤”已有讲解边界与成员；来源中的4个教学例题与其分析、解答在知识讲解中连续展示，例题和已有追问按来源先后衔接；先修关系迁入属性，独立练习保留练习角色，不重切或改写原子。",
         "review_method": "llm",
-        "sha256": "0b90e8b45b97b9b8e05595dff1d0b395eab23eafeca85ce9ae3fd2bf35fac2e7",
+        "sha256": "62bc2ae9f22e81d36326b8af1a527cc718dfe358d16da60c915fd779ef1f291c",
         "source_components": [
           {
             "id": "K8c3281ee1e9de0",
@@ -22130,199 +23727,199 @@
     "pages": {
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从函数图象走向用导数研究函数性质--Gc667b22c3236d0.md": {
         "before_sha256": "34f157aee1b76327ab8242e7586f5586b8c1be1dc3104f4abc918c0c1c8abaad",
-        "sha256": "a27a580bbf415ae2a20ec90dcff9be44a156fbb5f13336c339187557e52906f6"
+        "sha256": "2fb5be19082103476edaefca3f63edff953e43f922bf861ff445b1c527d69791"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从古埃及纸草书记载看数列求和方法--G454d3a9a88502e.md": {
         "before_sha256": "b69d5d260c0fdb2df4869507f4ef25ac4ca8bdde635e427dc0fdb87d27a6aaa2",
-        "sha256": "6c6520268b5bcfca8fe4934c1aa7b1a9df6a894a959a3e247ac941d7a80e9f6c"
+        "sha256": "29e38050f1bd1cccbe2d7ed576216e9923d2199802440f083e331db0d7653419"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从数列规律到导数研究变化的知识路径--G8b854254109e8c.md": {
         "before_sha256": "937a647f271843b88d164708087212ab72317044f901be489469708f6e1f5dc8",
-        "sha256": "4680c38736a293bd1702e95978a50538a7293572496c624fed40130c64f82588"
+        "sha256": "043cb2ed031f1a60ffd3423101c802dc43ecb07fdd5b0106e97919bfc2245822"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从瞬时速度与切线问题认识导数的研究路径--G9daa9ba6d367f0.md": {
         "before_sha256": "202207a81db84bfb8b3c47da072a5b251253a7f67630281c251ea3a7a4b2b2fa",
-        "sha256": "67758cfa5c93e7f7ba269f7f3c4d418fa6c2f3bd8d5c2a0dfa33c73521fc07e2"
+        "sha256": "e59c24a7a881dc2b10af4ccb388933de770ed2491bed5c8c82d6afe8cee26f18"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/从速度与切线的共同变化率定义导数--Gb6b9feae7f83da.md": {
         "before_sha256": "aeba396eed0126ba283d448c4ac2cfa784103eb2d712075605f5b417c118a50d",
-        "sha256": "475c9435c0dbcd9c793a73921fcfd8c42cee8708ca195e330d4d111b1098d720"
+        "sha256": "0620db358bd46857badf198e7f6577e7387f43594ad063224b24b955a2ddc55f"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由变化率极限求基本初等函数的导数--G71a22ee14c27aa.md": {
         "before_sha256": "b740eda60f7505bc99d2377fbe45d89ce05cd297cf02aeb2d2f48d8001d9b680",
-        "sha256": "0934ecdd3ad97cda453f211d910334f04408f7b1e05387a734f9a16bb92f4826"
+        "sha256": "ecad5f0fde7e68c3d7ed1f35d2e1ec418cad7ae75cf4f7cfb76074f65dcc2dfe"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由基本初等函数走向导数运算法则--Gf185d904e54bfb.md": {
         "before_sha256": "83c1bb67ac5192d4e1e6724b43d69e865660da8aac8314c2170ee3d37629494e",
-        "sha256": "483725a98ecddd5ed063b2342b242adfbafdbc0c932b621445bd76f6787f35c9"
+        "sha256": "46f2d0cf8a635a24e71fb55508008d95d487aee08853de4b67ce43936ea92b22"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由树木高度的逐年记录认识数列--Gf63fcef94df1d4.md": {
         "before_sha256": "11a50dca850dd93b0146905493712baeea033d16f57978288c408d99ec9234d9",
-        "sha256": "be1e55b830b388892ec0066d3b892f70a4f01589feee2c12af8ca9ff0c8821aa"
+        "sha256": "6bf47674d2f4fa106ccbc96529d43812c162a09128683aa3cf1dc3466d49c4ec"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/由相邻项的差与商寻找数列递推规律--Ge0f91a497c087a.md": {
         "before_sha256": "57a611028e299e579f87828dea794395156f62038cdb5719732d713f10f0cf20",
-        "sha256": "11defd2eb8cd48f405dadcd64912c845655c9088ac9b2b7f726199e3e18c0331"
+        "sha256": "7a4c6efbc28dacbfa4a1fd1fcd03dcbd0697956e97bff7f61470dcabd084a2a6"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第五章导数知识结构与方法回顾--G596fe2ddd15809.md": {
         "before_sha256": "1fbd8b0c921b2897e8f275bf5b178f2e9096056a433676e7ea3af1568cfa9a49",
-        "sha256": "b4bc2bfb2909f01c8c1990b44142f3375d7fd6115f95aa41bc871f13c6f818ff"
+        "sha256": "cd97a131ae5cdd13164e0d64db7cdae50fe70004020760be5c3fea9fa8694fbd"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/第四章数列知识结构与方法回顾--G7420236e6dc472.md": {
         "before_sha256": "ac9c2a289a1cea2e4e4c1a0cba34d6221f92f0269daeaf58080ba18406482105",
-        "sha256": "3d57a42a72414eade324909c47c304698444808b6f82f3839b02d14fd1fc4357"
+        "sha256": "7f183756dba4864ea505c052244c4648bae0419edf49efd289671f98981ac07c"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/教材说明/类比基本初等函数研究等差与等比数列--Gbf86a051f13bb6.md": {
         "before_sha256": "12ca5f72bcbafe6b167093a6cb112c47d9ba3da6ab642272625b5a257cf4b0f3",
-        "sha256": "e8b76be2a4ae0bb86a68a8b523927ae08ec379f5af5a407839740af1b9be6a6d"
+        "sha256": "b13be312dd426f7011304de4b10a4f199959bfc20c4e46e9fc6d61cfceb15942"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/导函数的定义.md": {
         "before_sha256": "6bcc624bf9f610f0dbce0b9e00bc8f140589ac8ec2add1cdac838f3f3bad8b53",
-        "sha256": "d3e13bc485be90f230d1a8ee3c6814e977116b2697c9418f8dcb82ff3dbc0582"
+        "sha256": "6d049ece4501486d0919d20846d64867f6e5afebc94a51b426261390e9a5a46a"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/导数的几何意义与以直代曲.md": {
         "before_sha256": "be7e7b27193983343a891f7b16b5a47b9863a6753db2e69777768b387f312749",
-        "sha256": "0c86ab1f26fd94daf2716210c6935b14c8fe92ccf966b85f1cf6938ffb3e6e6c"
+        "sha256": "f442b63a53c852715670ce7abd5addbfae0eb0cc9e65d61f6d52dd5c82f3a449"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/平均变化率与导数的定义.md": {
         "before_sha256": "a2becd888afb6d92d63724709099c6601a6ebeaea60b1a9b2d8418ba8eaa3c19",
-        "sha256": "ca6c463f7c4d26f1972585e316e478af3d5857de6313f19a2d38e9952a845e5d"
+        "sha256": "91fe913fdc9277dd25fed780feac37439ee703420e63b8249da8a598f73a692b"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/平均速度、瞬时速度与极限逼近.md": {
         "before_sha256": "11f1b7550ba8f50226ddc2f6be940b4f2c3e36330dce7a6234aa3c9871efdbe2",
-        "sha256": "bc427fe51efa4a26ca3001c179f82b6803c9ed3e6141f76c9b4929bf472710c5"
+        "sha256": "5cf99b7b94c60ba9eb5b3239994de572be58a2f759cdd5913ed20383a9b84304"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.1 导数的概念及其意义/曲线切线、割线斜率与瞬时变化率.md": {
         "before_sha256": "3b104aa38d0ffdb248917117791323bc19fecd894b48a5cfbebbfaaa1aba0554",
-        "sha256": "71c15da9b8276c834eefa3000ed2f394092209b8a4ec62d47e480d385c10de5d"
+        "sha256": "d42c0232fcdba6192cfe34ab8aea59dd5625e4b019b143c9c4476bfe41d6761f"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/函数和与差的求导法则.md": {
         "before_sha256": "6614ed6277435efa4b1a1e17edfe21cf762dc2b2f217988210a235ee18c70663",
-        "sha256": "8efd9954eb3ee616fdefee67f25ace137c66239a324c3754ffb9eb49aa0eb2b2"
+        "sha256": "b1126c6acbd65cde38c46ea79e450c3da0b016738cdbe624464b997f6a4b304a"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/函数积与商的求导法则.md": {
         "before_sha256": "0ec04453d5225f2f9349aa3d1321a5a8f53e4996e9995bf7d7a22b21f554c4d0",
-        "sha256": "a3c6ec8298012ca47fe6a8b53aba5820e9c2cc6a4c65939b8fe8b56189055589"
+        "sha256": "4af12f6db9c0e35a3503fd7741503b457da8ac55b8eeabb9a9fc5d7b9a96ec9f"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/基本初等函数的导数公式及推导.md": {
         "before_sha256": "390d6087ff51ebe98f09dc0a1c8d60440a102cd5890ebc20bdf0494919314a40",
-        "sha256": "b6cf06d547e0a92cdf3ef7c845c82637d61e218f6bae336f9d0dfcbf90367246"
+        "sha256": "c2425f42cce0e10dcd4e3e96bc92b92ec671f38012b3773fd9b12f5dd2fe7d7c"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.2 导数的运算/复合函数与链式求导法则.md": {
         "before_sha256": "d06250b812c3325937fee6121d72d862370366ebddf5c3afa8689aa85dd9ff4a",
-        "sha256": "28b7e6e21f8a0623724676b7925d474d4329f52cbee51e9ed643308d7e6023bf"
+        "sha256": "ce2543015e26fa75918f93479db5832c41590481f7e9f1492ab3ba676b8e2ffd"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/函数极值的概念与导数判定.md": {
         "before_sha256": "63cedbebaa51ff0c0683e15879dd9122a39341a9443ff37c2474406ebda798e1",
-        "sha256": "daecceda76b87504482fe8398008526dc8b5af97a5e46ee5a9df238918ce0b45"
+        "sha256": "70e07c3b6d818e552458b2a2369c675d005a6071bcb13761fc4f66f0f90d0aef"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/利用单调性比较函数值与证明不等式.md": {
         "before_sha256": "7d6cbeb5ebdc80dfa7565db45f4f7d6532ff9bef19149147dad5fc661860064e",
-        "sha256": "9a8178713da952e6dd77e61083e7d2ce78c25fdd9653ef99697b4cb5bcf82f40"
+        "sha256": "4892ae3b7481d11daf26068115a941a5febb9e5c63d2ef2c0dabad8f31582db8"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/导数为零与极值的关系及极值判定.md": {
         "before_sha256": "a25e3ef404780b3c6da5c7703233c2ddf1011c4ab412ebad4b1a2e7da5588d1c",
-        "sha256": "7cacff1c2c7c5d96bb9c9b57761247c78f1423300df53283089e6f07a660e151"
+        "sha256": "7646ca1fa386addb8e6c6024b51eb1d57cca93c1d6033d8568f66c219e8a7be8"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/导数符号与函数单调性.md": {
         "before_sha256": "f1954c4b7c0af1414fc06ca816596e83e1022cc84e09253a70ee7ea27c44a592",
-        "sha256": "972e8a4a457436c93c42d35cf86025b4d00b18892c3ef40c190cbf932d14e905"
+        "sha256": "98ed47605ca1a66c9956c1300c518c2c9276efb9b33e241f5071fdfd8de3d0cb"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/5.3 导数在研究函数中的应用/闭区间上函数的最大值与最小值.md": {
         "before_sha256": "caa2d28ed9b8bfda4c89ecab5691d3c8ed266eefe2145d2e20b7b756f4ca9094",
-        "sha256": "517c4574099548ca59a067fdf0198fa5db17156ca2c4576d2a05f9d0c5609834"
+        "sha256": "34039a3423f712fd93c2e1aae28a9b415af160187927b0e4da24a332e52d6ddd"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/牛顿法求方程的近似解.md": {
         "before_sha256": "269893e41f014f46f79c093156a7295ad6f81090c8a2103f248a3ce6365e5857",
-        "sha256": "fedb10b4922db4317ff491ba58239d44d5647ee4af87e2d13875e729dac87964"
+        "sha256": "d37d3e30bb3869124e12428544a119e718b970439543b0976da1f26c7c5c7834"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第五章 一元函数的导数及其应用/用图形技术研究函数性质.md": {
         "before_sha256": "d6f730bc12c755c10a42798ec6f72c1cda1d1853be299cbbe05b649a436763e1",
-        "sha256": "011c6156e91e687f95dea3247b121d8a60200c1164f06251881669678b312017"
+        "sha256": "9aa7ce577f8ee742d356a195bbf074b9d8562797b59f1ea986242ff420a3cddc"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的函数观点.md": {
         "before_sha256": "5af38b5367aac59bd88e3cef66d6bc317b212151d5a9c99c4b7a87b755b094be",
-        "sha256": "ce1940c9bc179cb91e4c062402c416a6927a180478c0e37536bf8b8e3831fb2b"
+        "sha256": "448ff79c9d0e356e37cbec5fa7d57d6037f822238304a49399988cfebac29ecd"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的前 n 项和及其与通项的关系.md": {
         "before_sha256": "658776aa4924e0c9f399945029763bf3ebf415c1b9b1d94067e9c8656702310e",
-        "sha256": "0d8ed877c9906bf4d0c65d5f3254d8cba699651e1afde4f9b2ea45a361018463"
+        "sha256": "df20b7bdeacd6e4a6b06efae3f5452f98076bb3d3b45ecc574d2012f8db7e1ba"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的概念与有穷性.md": {
         "before_sha256": "cfd842c08f7cc1a4392123eb82b49502d5b5789ebf2cab7a3a150cdacb02cfee",
-        "sha256": "8e24141c8fdf0188c008ad8877cc41195984607ae6134f32106b188c5b083561"
+        "sha256": "9b426d0ea5b8d19ba8f25aaa2aa0d7e31269047a72595abb7884204640523e35"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的表示与单调性.md": {
         "before_sha256": "d90502db225c6c64635d22d7d1f5e31671cd7d3b876d0b5e58b4a2c00b8a45c7",
-        "sha256": "d877463bf027100b57ac1786eabb7e36a074fe78846ff55084ff18e05357d49f"
+        "sha256": "3454ef4bc7a2d3df15656ab8ff16d54847468ac5440f5ed9b9efc2d59430be3e"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的递推公式.md": {
         "before_sha256": "b951a73750ba738af0b333222f21fd3d25f311f4fcc811e56ece1a5d6d37bb16",
-        "sha256": "042ea3f80196910a62204a479e91ef7b8c1e6a46dfee98bac3334d29159a63b9"
+        "sha256": "94a3b2a347a90dea8a5523cabfcf3bee6569d2f0a2c2aefe3e16e6e6e20e7226"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.1 数列的概念/数列的通项公式.md": {
         "before_sha256": "fc0948b0c98cb0b6321ee726b48f9301aaf112239dcd316082c305918a34cf6b",
-        "sha256": "ab5b3e7a2b94d173d992d8c8b628f760d6c5b5a8d42beddc4e7e6108e39f2271"
+        "sha256": "d3ca28e69736d659886e1f97f012870d8764749d16fd83d381fb595595073f14"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/倒序相加法与等差数列前 n 项和公式.md": {
         "before_sha256": "4bb522718389c77cd055ec7d678ed0a691b4e841302a3bc05d7cbc953f3e8c29",
-        "sha256": "1420d04551b2daeec091ab059548ec4a1c1f1c72b06f65603f3b1bebdd3fd648"
+        "sha256": "b3b3b40251881de41ed6541c400951d990d719c88a0e90bdb3d289245a46b250"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差中项.md": {
         "before_sha256": "c54f0e04d17267cf64ee70eea65d14d4859db469e183343d14b1d83f1cba8c7b",
-        "sha256": "f523b9579bc1df575e0ed3f0b1f141f3b45bf894aeca985d56435e5478f09749"
+        "sha256": "4ef4b230c00fa2e308f2a0cf56e7ed7bbe10071ef142c89aa1148016fb14914d"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列与一次函数.md": {
         "before_sha256": "ed99f4cd012ce9474ac6dd68773a8e2f68bc58c46421f1766505ec39520a4da7",
-        "sha256": "ff7315d75c1994ec9a7786c0b4b53566fec11a23836258f6c4a069e225f88cea"
+        "sha256": "f30f19767e73452e6edb709173aed64ec5013481e2494f4b9d8e1b1fd54b92bd"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列与公差.md": {
         "before_sha256": "b56bcd411b038fb66cb071fc2ec4ab3b0c75cb583001d2a5d6393b6bd82fa4c4",
-        "sha256": "11e5bc2359a4aae4a30e58fee1caa2910e8b57b580d949f4d764928907040acb"
+        "sha256": "bd92a233b69284da2134cb0ade367d736ccb74385f85f30cf3c9e687bd887be7"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/等差数列的通项公式.md": {
         "before_sha256": "b4a7bdfaa5a857c1c70fbfad1f4edcfbe55800d595ec86f3c2b3be138b7514c1",
-        "sha256": "fb573b0251c72ed06c0bf27f1c1841d67869cbf7387e75e219387da21252662e"
+        "sha256": "9846adc8765e456573192d9ca90ae04332ac2f8d912d0683965a2d0b36975930"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.2 等差数列/高斯求和与等差数列的对称性.md": {
         "before_sha256": "22803990fd2c99c74ff875c1538b5d8a0e15aa2514d44582db6183db80b4647b",
-        "sha256": "74b1772b4024e87c965f40228c8f2215edec1856a7d5d5998380d76a9b2b58c3"
+        "sha256": "9dea212328afbda898d2b823f37c71935bdcf6032e17250b68e36474bd44a4a7"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比中项.md": {
         "before_sha256": "2b2ec0c680cd7b302460c3e9fe8f6df2169565bf3258c05a625f748a6466bc48",
-        "sha256": "b8316f952c15597e9d127c89981d7008f07e8c12e547dd154669e8fac9e6a5a0"
+        "sha256": "a234c4eefb4be6d5566142a00afda03b793fa3c8f8607ff5a5cc9fc8f376b030"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列与公比.md": {
         "before_sha256": "552a223276a38f4dc5f88c2e2e8bc70367fdade4bee1e6c661d2bfeb7174d5b0",
-        "sha256": "220860bba4f2881c70331e49bd07fe8b6219701e7d63f651f554c0858856393c"
+        "sha256": "497dbea59189aee97907f6a70e77b14d92f97c667edc8c3b65af9f51c83b0edd"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列与指数函数.md": {
         "before_sha256": "96a82edbd4e39a4f92b98bb2e3539a6e3b58753b12e101ae5236038e23f24f66",
-        "sha256": "b22a8c33c44f08911d6df81711420667cef3ea7dcae811da2b4812de93b330d6"
+        "sha256": "5af6b27634067981c9a2a55295a0b5c540db20e931eab6ab4c541a53c5a6eaf6"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/等比数列的通项公式.md": {
         "before_sha256": "9b639cb0afe1d63d3dc0e630dcccfdaf8a3c997d34f9ec0342512b14a7e80608",
-        "sha256": "e93f04500b93edeeafc9aeafd32116395709c6d7c337a40cc9242cf7a4cd941b"
+        "sha256": "2634d2bd6d53d01cc8f5dea9714fea8545a4ec9057c4908dc19dfa7aa2e8802d"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.3 等比数列/错位相减法与等比数列前 n 项和公式.md": {
         "before_sha256": "2a0b4380d41a2855e247c3f1055aef9f1e2b047c5f0207121012b7529c79304b",
-        "sha256": "a51eb9a8ddb557632a6a0c8b5462dccf64fdcf2335e95eaf7d820e8b9e50d6e0"
+        "sha256": "cd5bb86b368773deecaa8f88096eac8859c187043d3c21e04da074afc34d395c"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/从归纳猜想到数学归纳法的递推机制.md": {
         "before_sha256": "535874d386942c8040f552b057f4a3e2fd3353a1aa31b5b6359598005f7613e5",
-        "sha256": "be30d560911cc31319032d9c2a600a3d201fa48a26906aaaea0de4bb549967c7"
+        "sha256": "6eed86f87c75058cf7efdf3331ed995a5fc7c157b49498c61724bc512bf2ec2b"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/4.4－ 数学归纳法/数学归纳法的原理与步骤.md": {
         "before_sha256": "e49d1f8e420b712673124a061bea9a22b3e96525e2b32f3c278a58fcdc420e9d",
-        "sha256": "0b90e8b45b97b9b8e05595dff1d0b395eab23eafeca85ce9ae3fd2bf35fac2e7"
+        "sha256": "62bc2ae9f22e81d36326b8af1a527cc718dfe358d16da60c915fd779ef1f291c"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/中国古代数列求和方法.md": {
         "before_sha256": "cf9b01531782b1fc879b7ca81815fbc6f40c3fa1730bfc1ec0ea861174a35bb1",
-        "sha256": "b9791d98de2400e7361c9ab8d817d0182319e9f64966059eb4f82adcf0c2dc74"
+        "sha256": "3fcfec895dd3e58c38b7eef7329c8520189a26e3eb68f648f3db6e2836e53008"
       },
       "Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/斐波那契数列及其应用.md": {
         "before_sha256": "2c2e2dde096229f1bb74d19a859a2595c4a13adc182c3f35d929aad4d8d0df03",
-        "sha256": "fed5ebe2ee5fd8b1db92815e24488db471a8e83aab5b6681b564945e3025691d"
+        "sha256": "bb09c84f642539c1f1912e8346b9a51180926106326ab7c96aef0ec1b590afbf"
       },
       "Mathmap/题型/按章节分类/人教A-选择性必修第二册/人教A-选择性必修第二册.md": {
         "before_sha256": "22ff8244651797807b1d46f4ff7648057990b91b409f746ea0582ef01ca497e1",

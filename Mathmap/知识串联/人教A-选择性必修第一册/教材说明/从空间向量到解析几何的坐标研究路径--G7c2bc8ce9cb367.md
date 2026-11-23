@@ -6,7 +6,7 @@ source_id: "rja-selective-1"
 source: "高中选择性必修 第一册·人教A版数学"
 source_files: ["原子层/情景引入/从空间向量到解析几何的坐标研究路径--0001-S.md"]
 source_node_keys: ["atom-ba53ed449f626caf"]
-所属组织: ["[[Mathmap/知识串联/人教A-选择性必修第一册/人教A-选择性必修第一册.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-选择性必修第一册.md#全书入口]]"]
 ---
 # 从空间向量到解析几何的坐标研究路径
 

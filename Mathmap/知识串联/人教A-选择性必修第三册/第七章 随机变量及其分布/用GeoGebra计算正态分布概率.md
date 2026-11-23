@@ -12,7 +12,7 @@ parent_source_key: "node-toc-010"
 knowledge_id: "Ka18ddfcb716e5b"
 title: "用GeoGebra计算正态分布概率"
 learning_objective: "理解用GeoGebra计算正态分布概率，掌握其对象、条件与推理结论。"
-所属组织: ["[[Mathmap/知识串联/人教A-选择性必修第三册/第七章 随机变量及其分布/信息技术应用 概率分布图及概率计算.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-选择性必修第三册.md#信息技术应用 概率分布图及概率计算]]"]
 相关练习组织（范围关联）: ["[[Mathmap/题型/按章节分类/人教A-选择性必修第三册/第七章 随机变量及其分布/第七章 随机变量及其分布.md]]"]
 ---
 # 用GeoGebra计算正态分布概率

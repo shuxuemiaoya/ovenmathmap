@@ -12,7 +12,7 @@ parent_source_key: "semantic-08058"
 knowledge_id: "Ke236641b1ebca6"
 title: "函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导"
 learning_objective: "从代数定义出发严谨推导并证明函数 y=Asin(ωx+φ) 与 y=Acos(ωx+φ)（A≠0,ω>0）的最小正周期 T=2π/ω。"
-所属组织: ["[[Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/5.4 三角函数的图象与性质/5.4.2 正弦函数、余弦函数的性质/探究与发现 函数 y = A sin(ωx + φ) 及 函数 y = A cos(ωx + φ) 的周期.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第一册.md#探究与发现 函数 y = A sin(ωx + φ) 及 函数 y = A cos(ωx + φ) 的周期]]"]
 相关练习组织（范围关联）: ["[[Mathmap/题型/按章节分类/人教A-必修第一册/第五章 三角函数/5.4 三角函数的图象与性质.md]]"]
 ---
 # 函数 y=Asin(ωx+φ) 及 y=Acos(ωx+φ) 的周期推导

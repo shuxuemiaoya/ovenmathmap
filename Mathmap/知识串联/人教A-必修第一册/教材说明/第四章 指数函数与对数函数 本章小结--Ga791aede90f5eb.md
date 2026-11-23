@@ -6,7 +6,7 @@ source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
 source_files: ["原子层/知识点/第四章 指数函数与对数函数 本章小结--000068.md", "原子层/概念/第四章 指数函数与对数函数体系.md"]
 source_node_keys: ["atom-3bf921e0e58e2eec", "atom-derived-79deaed986bee2b2"]
-所属组织: ["[[Mathmap/知识串联/人教A-必修第一册/第四章 指数函数与对数函数/第四章 指数函数与对数函数 小结.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第一册.md#第四章 指数函数与对数函数 小结]]"]
 ---
 # 第四章 指数函数与对数函数 本章小结
 

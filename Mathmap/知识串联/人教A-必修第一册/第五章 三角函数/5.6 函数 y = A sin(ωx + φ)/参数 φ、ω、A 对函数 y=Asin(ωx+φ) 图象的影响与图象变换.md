@@ -12,7 +12,7 @@ parent_source_key: "node-toc-053"
 knowledge_id: "K8a9577ec777e00"
 title: "参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换"
 learning_objective: "系统探究并掌握相位参数φ（左右平移）、频率参数ω（横坐标伸缩）与振幅参数A（纵坐标伸缩）对函数 y=Asin(ωx+φ) 图象的影响及由 y=sin(x) 变换作图的完整步骤。"
-所属组织: ["[[Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/5.6 函数 y = A sin(ωx + φ)/5.6.2 函数 $y=A-sin(-omega x+-varphi)$ 的图象.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第一册.md#5.6.2 函数 $y=A\sin(\omega x+\varphi)$ 的图象]]"]
 相关练习组织（范围关联）: ["[[Mathmap/题型/按章节分类/人教A-必修第一册/第五章 三角函数/5.6 函数 y = A sin(ωx + φ).md]]"]
 ---
 # 参数 φ、ω、A 对函数 y=Asin(ωx+φ) 图象的影响与图象变换

@@ -6,7 +6,7 @@ source_id: "rja-required-1"
 source: "人教A版高中数学·必修第一册"
 source_files: ["原子层/知识点/第五章 三角函数 本章小结--000102.md", "原子层/概念/第五章 三角函数体系.md"]
 source_node_keys: ["atom-58d99505169e735a", "atom-derived-365de90f5d0a040d"]
-所属组织: ["[[Mathmap/知识串联/人教A-必修第一册/第五章 三角函数/第五章 三角函数 小结.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第一册.md#第五章 三角函数 小结]]"]
 ---
 # 第五章 三角函数 本章小结
 

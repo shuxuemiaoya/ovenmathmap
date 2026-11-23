@@ -6,7 +6,7 @@ source_id: "rja-required-2"
 source: "高中必修 第二册·人教A版数学"
 source_files: ["原子层/情景引入/从平面向量到概率的数形与随机研究路径--0001-S.md"]
 source_node_keys: ["atom-530750173797fac9"]
-所属组织: ["[[Mathmap/知识串联/人教A-必修第二册/人教A-必修第二册.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第二册.md#全书入口]]"]
 ---
 # 从平面向量到概率的数形与随机研究路径
 

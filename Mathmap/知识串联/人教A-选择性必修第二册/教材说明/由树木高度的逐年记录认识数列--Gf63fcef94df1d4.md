@@ -6,7 +6,7 @@ source_id: "rja-selective-2"
 source: "高中选择性必修 第二册·人教A版数学"
 source_files: ["原子层/情景引入/由树木高度的逐年记录认识数列--0002-S.md"]
 source_node_keys: ["atom-8ae54feec84fdf94"]
-所属组织: ["[[Mathmap/知识串联/人教A-选择性必修第二册/第四章 数列/第四章 数列.md]]"]
+所属组织: ["[[Mathmap/组织层/人教A-选择性必修第二册.md#第四章 数列]]"]
 ---
 # 由树木高度的逐年记录认识数列
 
