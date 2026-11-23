@@ -6,10 +6,6 @@ knowledge_number: 399
 learning_objective: "理解错位相减法与等比数列前 n 项和公式，掌握其对象、条件与推理结论。"
 knowledge_refinement: {"baseline_sha256": "9ecf5e931b68950291b39dfe4c86d8d8f881f4d47f033e252eda908c641d8015", "version": 1}
 ---
-# 错位相减法与等比数列前 n 项和公式
-
-## 高中选择性必修 第二册·人教A版数学
-
 设等比数列 $\{a_{n}\}$ 的首项为 $a_1$ ，公比为 $q$ ，则 $\{a_{n}\}$ 的前 $n$ 项和是
 
 $$

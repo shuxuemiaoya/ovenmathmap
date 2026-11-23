@@ -1,0 +1,22 @@
+---
+id: "bsd-7a:topic-1-2-2:exercise:K48726033aa269f"
+node_type: "organizer"
+view: "question"
+source_id: "bsd-7a"
+system_id: "bsd-7a"
+source: "北师大版初中数学·七年级上册"
+title: "阅读·欣赏：生活中的截面（树木年轮、CT与3D打印）练习"
+source_file: "组织层/第一章 丰富的图形世界/2 从立体图形到平面图形/1.2.2 截一个几何体.md"
+source_organizer_key: "topic-1-2-2"
+parent_source_key: "node-toc-004"
+organizer_role: "source-exercise-page"
+source_order_preserved: true
+classification_dimension: "chapter"
+member_atom_ids: ["Q070000001913", "Q070000001914"]
+所属组织: ["[[Mathmap/组织层/北师大-七年级上册.md#1.2.2 截一个几何体]]"]
+相关知识组织: ["[[Mathmap/知识串联/北师大-七年级上册/第一章 丰富的图形世界/2 从立体图形到平面图形/阅读·欣赏：生活中的截面（树木年轮、CT与3D打印）.md]]"]
+---
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000001913.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000001914.md)

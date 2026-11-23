@@ -9,8 +9,6 @@ source_node_keys: ["atom-ab7bb50f956ea911", "atom-derived-2243a715b63708e2"]
 knowledge_number: 94
 learning_objective: "理解集合之间包含关系与子集的定义、符号表示及Venn图直观表示。"
 ---
-# 子集与Venn图
-
 一般地，对于两个集合 A，B，如果集合 A 中任意一个元素都是集合 B 中的元素，就称集合 A 为集合 B 的子集 (subset)，记作
 
 $$

@@ -6,12 +6,7 @@ knowledge_number: 387
 learning_objective: "理解数列的前 n 项和及其与通项的关系，掌握其对象、条件与推理结论。"
 knowledge_refinement: {"baseline_sha256": "9ecf5e931b68950291b39dfe4c86d8d8f881f4d47f033e252eda908c641d8015", "version": 1}
 ---
-# 数列的前 n 项和及其与通项的关系
-
-## 高中选择性必修 第二册·人教A版数学
-
 在对数列的研究中，求数列某些项的和是主要问题之一．我们把数列 $\{a_{n}\}$ 从第1项起到第 $n$ 项止的各项之和，称为数列 $\{a_{n}\}$ 的前 $n$ 项和，记作 $S_{n}$ ，即
-
 
 $$
 S _ {n} = a _ {1} + a _ {2} + \dots + a _ {n}.
@@ -27,16 +22,10 @@ $$
 a _ {n} = \left\{ \begin{array}{l l} S _ {1}, & n = 1, \\ S _ {n} - S _ {n - 1}, & n \geqslant 2. \end{array} \right.
 $$
 
-思考
-
-已知数列 $\{a_{n}\}$ 的前 $n$ 项和公式为 $S_{n} = n^{2} + n$ ，你能求出 $\{a_{n}\}$ 的通项公式吗？
-
-因为
+例如，已知数列 $\{a_{n}\}$ 的前 $n$ 项和公式为 $S_{n} = n^{2} + n$ ，由此可以求 $\{a_{n}\}$ 的通项公式。因为
 
 $$
-\begin{array}{r l} & a _ {1} = S _ {1} = 2, \\ & a _ {n} = S _ {n} - S _ {n - 1} \\ & \qquad = n ^ {2} + n - [ (n - 1) ^ {2} + (n - 1) ] \\ & \qquad = 2 n (n \geqslant 2), \end{array}
+\begin{array}{r l} & a _ {1} = S _ {1} = 2, \\ & a _ {n} = S _ {n} - S _ {n - 1} \\ & \qquad = n ^ {2} + n - [ (n - 1) ^ {2} + (n - 1) ] \\ & \qquad = 2 n \quad (n \geqslant 2), \end{array}
 $$
 
-并且当 n=1 时， $a_{1}=2\times1=2$ 依然成立.
-
-所以 $\{a_{n}\}$ 的通项公式是 $a_{n}=2n$ .
+并且当 $n=1$ 时， $a_{1}=2\times1=2$ 依然成立，所以 $\{a_{n}\}$ 的通项公式是 $a_{n}=2n$ .

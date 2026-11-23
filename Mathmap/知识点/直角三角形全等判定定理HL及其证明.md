@@ -5,10 +5,6 @@ title: "直角三角形全等判定定理HL及其证明"
 knowledge_number: 670
 learning_objective: "掌握“斜边、直角边”（HL）全等判定定理及利用勾股定理和SSS进行的证明"
 ---
-# 直角三角形全等判定定理HL及其证明
-
-## 北师大版初中数学·八年级下册
-
 可以发现：斜边和一条直角边分别相等的两个直角三角形全等。请你尝试证明这一结论。
 
 已知：如图 1-27，在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中， $\angle C = \angle C' = 90^{\circ}$ ， $AB = A'B'$ ， $AC = A'C'$ 。

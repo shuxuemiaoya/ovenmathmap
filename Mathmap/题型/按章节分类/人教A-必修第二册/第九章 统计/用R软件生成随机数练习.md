@@ -1,0 +1,34 @@
+---
+id: "rja-required-2:semantic-07238:exercise:K56cfdd4704268f"
+node_type: "organizer"
+view: "question"
+source_id: "rja-required-2"
+system_id: "rja-required-2"
+source: "高中必修 第二册·人教A版数学"
+title: "用R软件生成随机数练习"
+source_file: "组织层/普通高中教科书 数学 必修 第二册/第九章 统计/9.1 随机抽样/9.1.1 简单随机抽样.md"
+source_organizer_key: "semantic-07238"
+parent_source_key: "node-toc-033"
+organizer_role: "source-exercise-page"
+source_order_preserved: true
+classification_dimension: "chapter"
+member_atom_ids: ["Q070000000819", "Q070000000820", "Q070000000821", "Q070000000822", "Q070000000823", "Q070000000824", "Q070000000825", "Q070000000826"]
+所属组织: ["[[Mathmap/组织层/人教A-必修第二册.md#9.1.1 简单随机抽样]]"]
+相关知识组织: ["[[Mathmap/知识串联/人教A-必修第二册/第九章 统计/9.1 随机抽样/用R软件生成随机数.md]]"]
+---
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000819.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000820.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000821.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000822.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000823.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000824.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000825.md)
+
+![](../../../../%E4%B9%A0%E9%A2%98/Q070000000826.md)

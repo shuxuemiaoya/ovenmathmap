@@ -5,10 +5,6 @@ title: "用R软件生成随机数"
 knowledge_number: 320
 learning_objective: "理解用R软件生成随机数，掌握其对象、条件与推理结论。"
 ---
-# 用R软件生成随机数
-
-## 高中必修 第二册·人教A版数学
-
 在 R 软件的控制台中，输入 “sample（1：712，50，replace=F）”，按回车键，就可以得到 50 个 1～712 范围内的不重复的整数随机数（图 9.1-2）.
 
 ![](attachments/05/059237e6ccfc7600b79d994c08e11abfb952aa1f029c3a7bd49e0511a52f7455.jpg)  
